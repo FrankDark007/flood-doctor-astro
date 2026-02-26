@@ -1,0 +1,15 @@
+---
+// Inline script that runs before paint to prevent flash of wrong theme.
+// Reads theme preference from cookie, falls back to 'dark'.
+// Sets data-theme attribute on <html> element.
+---
+<script is:inline>
+  (function() {
+    var stored = (document.cookie.match(/(?:^|; )theme=(dark|light|system)/) || [])[1] || 'dark';
+    var resolved = stored;
+    if (stored === 'system') {
+      resolved = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+    }
+    document.documentElement.dataset.theme = resolved;
+  })()
+</script>
