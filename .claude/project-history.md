@@ -26,3 +26,41 @@
 2. b905005 — City data architecture
 3. 519c3b6 — Theme system
 4. f4e2360 — Layout, header, footer, breadcrumbs
+
+## 2026-02-26 — Session 2: Phase 5a — Page Migration (Home, ServiceDetail, Services)
+
+### Work Completed
+- **Icon.astro**: Created static SVG icon component mapping string names to heroicon paths (replaces React component icons)
+- **FAQAccordion.tsx**: React island using HeadlessUI Disclosure for interactive FAQ accordion with dark: variants
+- **ServiceData types**: Changed `icon: React.ComponentType` → `icon: string` for Astro compatibility
+- **ServiceDetail page** (`services/[slug].astro`): Full migration of 10 section components from v2
+  - Hero, LogoCloud, Features (with Icon.astro), Content (sticky image), Timeline, Key Metrics (bg image), Workflow/CTA, Testimonial, Blog Preview, Related Services (check icons), FAQ (React island)
+  - Uses `getStaticPaths` for dynamic route generation from service data
+  - Includes JSON-LD structured data (Service + LocalBusiness)
+- **Home page** (`index.astro`): Full migration from HomeDark.tsx
+  - Hero (image tiles with Flood Doctor imagery), Logo Cloud, Features (screenshot), Stats (bg image), Services Bento Grid (4 service cards), Testimonial, Blog Preview, FAQ
+  - Includes JSON-LD structured data (LocalBusiness)
+  - All content customized for Flood Doctor (no lorem ipsum)
+- **Services index** (`services/index.astro`): Full migration from ServicesDark.tsx
+  - Hero (image tiles), Logo Cloud, Content (sticky image with icon list), Service Categories (6 cards), Stats + About (2-column), Bento Grid (5-step process), Testimonial, FAQ
+  - Includes JSON-LD structured data (ItemList)
+
+### Pattern Established: Dark/Light Consolidation
+Every component uses a consistent pattern:
+- Dark mode (primary): `dark:bg-gray-900 dark:text-white`
+- Light mode: `bg-white text-gray-900`
+- Accent: `dark:text-indigo-400 text-indigo-600`
+- Muted: `dark:text-gray-400 text-gray-600`
+- Borders: `dark:border-white/10 border-gray-200`
+- Backgrounds: `dark:bg-gray-800 bg-gray-50` (for cards/alternating sections)
+
+### Key Decisions
+- **Inline SVGs for icons**: String-based icon names mapped to SVG paths in Icon.astro — no React dependency for static content
+- **Content customized, not lorem ipsum**: Replaced placeholder text with real Flood Doctor water damage restoration content
+- **FAQ as React island**: `client:visible` for deferred hydration — only loads when user scrolls to it
+- **Alternating section backgrounds**: Sections alternate between `bg-white/dark:bg-gray-900` and `bg-gray-50/dark:bg-gray-900` for visual rhythm
+
+### 3 Commits on main
+1. ad2691c — ServiceDetail page + infrastructure (Icon, FAQAccordion, updated types)
+2. b230915 — Home page
+3. 9e76328 — Services index page
