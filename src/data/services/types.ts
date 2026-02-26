@@ -1,7 +1,7 @@
 export interface ServiceFeature {
   name: string
   description: string
-  icon: React.ComponentType<React.SVGProps<SVGSVGElement>>
+  icon: string
 }
 
 export interface ServiceStat {

@@ -1,11 +1,3 @@
-import {
-  BoltIcon,
-  ShieldCheckIcon,
-  ClockIcon,
-  BeakerIcon,
-  HomeModernIcon,
-  WrenchScrewdriverIcon,
-} from '@heroicons/react/20/solid'
 import type { ServiceData } from './types'
 
 const waterDamageRestoration: ServiceData = {
@@ -17,49 +9,49 @@ const waterDamageRestoration: ServiceData = {
   heroImageUrl:
     'https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
   logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/statamic-logo-white.svg' },
+    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
+    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
+    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
+    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
+    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
+    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
   ],
   features: [
     {
       name: 'Emergency Water Extraction',
       description:
         'Industrial-grade pumps and extractors remove standing water quickly to prevent further damage to your property and belongings.',
-      icon: BoltIcon,
+      icon: 'bolt',
     },
     {
       name: 'Structural Drying',
       description:
         'Advanced dehumidifiers and air movers ensure complete moisture removal from walls, floors, and ceilings to prevent mold growth.',
-      icon: HomeModernIcon,
+      icon: 'home-modern',
     },
     {
       name: 'Mold Prevention',
       description:
         'Antimicrobial treatments and thorough drying protocols eliminate the conditions that lead to dangerous mold infestations.',
-      icon: ShieldCheckIcon,
+      icon: 'shield-check',
     },
     {
       name: '24/7 Emergency Response',
       description:
         'Water damage doesn\'t wait for business hours. Our team is available around the clock, 365 days a year for emergency calls.',
-      icon: ClockIcon,
+      icon: 'clock',
     },
     {
       name: 'Content Restoration',
       description:
         'Specialized cleaning and restoration of furniture, documents, electronics, and personal belongings affected by water damage.',
-      icon: WrenchScrewdriverIcon,
+      icon: 'wrench-screwdriver',
     },
     {
       name: 'Moisture Testing',
       description:
         'Scientific moisture mapping with thermal imaging and hygrometers ensures no hidden pockets of moisture are left behind.',
-      icon: BeakerIcon,
+      icon: 'beaker',
     },
   ],
   contentParagraphs: [
