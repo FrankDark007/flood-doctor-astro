@@ -1,0 +1,87 @@
+---
+import { cityData } from '../data/cities'
+import { footerNavigation } from '../data/navigation'
+---
+
+<footer class="bg-gray-50 dark:bg-gray-900 border-t border-gray-200 dark:border-white/10">
+  <!-- CTA Section -->
+  <div class="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8">
+    <div class="mx-auto max-w-2xl text-center">
+      <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">24/7 Emergency Service</h2>
+      <p class="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 dark:text-white sm:text-5xl">
+        Water damage? We're here to help.
+      </p>
+      <p class="mx-auto mt-6 max-w-xl text-lg/8 text-pretty text-gray-600 dark:text-gray-400">
+        Flood Doctor {cityData.name} responds in 60 minutes or less. IICRC certified technicians, direct insurance billing, and guaranteed satisfaction.
+      </p>
+      <div class="mt-8 flex flex-col sm:flex-row justify-center gap-4">
+        <a
+          href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`}
+          class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-5 py-3 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400"
+        >
+          Call {cityData.phone}
+        </a>
+        <a
+          href="/request"
+          class="rounded-md bg-white dark:bg-white/10 px-5 py-3 text-sm font-semibold text-gray-900 dark:text-white shadow-xs ring-1 ring-gray-300 dark:ring-white/10 hover:bg-gray-50 dark:hover:bg-white/20"
+        >
+          Request Free Estimate
+        </a>
+      </div>
+    </div>
+
+    <!-- Navigation -->
+    <div class="mt-24 border-t border-gray-200 dark:border-white/10 pt-12 xl:grid xl:grid-cols-3 xl:gap-8">
+      <div>
+        <img alt="Flood Doctor" src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500" class="h-9" />
+        <p class="mt-4 text-sm text-gray-500 dark:text-gray-400 max-w-xs">
+          Professional water damage restoration serving {cityData.name} and {cityData.serviceArea.slice(0, 3).join(', ')} areas.
+        </p>
+        <p class="mt-2 text-sm text-gray-500 dark:text-gray-400">{cityData.address}</p>
+      </div>
+      <div class="mt-16 grid grid-cols-3 gap-8 xl:col-span-2 xl:mt-0">
+        <div>
+          <h3 class="text-sm/6 font-semibold text-gray-900 dark:text-white">Services</h3>
+          <ul role="list" class="mt-6 space-y-4">
+            {footerNavigation.services.map((item) => (
+              <li>
+                <a href={item.href} class="text-sm/6 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">{item.name}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h3 class="text-sm/6 font-semibold text-gray-900 dark:text-white">Company</h3>
+          <ul role="list" class="mt-6 space-y-4">
+            {footerNavigation.company.map((item) => (
+              <li>
+                <a href={item.href} class="text-sm/6 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">{item.name}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h3 class="text-sm/6 font-semibold text-gray-900 dark:text-white">Resources</h3>
+          <ul role="list" class="mt-6 space-y-4">
+            {footerNavigation.resources.map((item) => (
+              <li>
+                <a href={item.href} class="text-sm/6 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">{item.name}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom bar -->
+    <div class="mt-12 border-t border-gray-200 dark:border-white/10 pt-8 md:flex md:items-center md:justify-between">
+      <p class="text-sm/6 text-gray-500 dark:text-gray-400">
+        &copy; {new Date().getFullYear()} Flood Doctor {cityData.name}. All rights reserved.
+      </p>
+      <div class="mt-4 md:mt-0 flex gap-x-4 text-sm text-gray-500 dark:text-gray-400">
+        <a href="/privacy" class="hover:text-gray-900 dark:hover:text-white">Privacy</a>
+        <a href="/terms" class="hover:text-gray-900 dark:hover:text-white">Terms</a>
+      </div>
+    </div>
+  </div>
+</footer>
