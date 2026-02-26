@@ -1,12 +1,432 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
+import FAQAccordion from '../components/islands/FAQAccordion.tsx'
 import { cityData } from '../data/cities'
+import { allServices } from '../data/services'
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  name: `Flood Doctor ${cityData.name}`,
+  description: cityData.meta.description,
+  telephone: cityData.phone,
+  address: {
+    '@type': 'PostalAddress',
+    addressLocality: cityData.name,
+    addressRegion: cityData.state,
+  },
+  areaServed: cityData.serviceAreas?.map((area: string) => ({
+    '@type': 'City',
+    name: area,
+  })),
+}
+
+const features = [
+  { name: 'Emergency Water Extraction', description: 'Industrial-grade pumps remove standing water within hours of our arrival, preventing further damage to your property and belongings.', icon: 'bolt' },
+  { name: 'Structural Drying', description: 'Commercial dehumidifiers and air movers ensure complete moisture removal from walls, floors, and ceilings to prevent mold.', icon: 'home-modern' },
+  { name: 'Mold Prevention', description: 'Antimicrobial treatments and thorough drying protocols eliminate the conditions that lead to dangerous mold growth.', icon: 'shield-check' },
+  { name: '24/7 Emergency Response', description: 'Water damage doesn\'t wait for business hours. Our certified team is available around the clock, 365 days a year.', icon: 'clock' },
+  { name: 'Insurance Coordination', description: 'We work directly with all major insurance carriers, handling documentation and billing so you can focus on recovery.', icon: 'wrench-screwdriver' },
+  { name: 'Moisture Testing', description: 'Scientific moisture mapping with thermal imaging and hygrometers ensures no hidden pockets of moisture remain.', icon: 'beaker' },
+]
+
+const stats = [
+  { value: '<60 min', label: 'Average Response Time' },
+  { value: '2,500+', label: 'Restorations Completed' },
+  { value: '98.7%', label: 'Customer Satisfaction' },
+  { value: '45+', label: 'Insurance Partners' },
+]
+
+const blogPosts = [
+  {
+    title: 'How to Handle Water Damage Before Help Arrives',
+    href: '/blog/water-damage-first-steps',
+    description: 'Quick actions you can take to minimize damage while waiting for professional restoration services.',
+    date: 'Jan 15, 2026',
+    datetime: '2026-01-15',
+    category: 'Emergency Tips',
+    author: { name: 'Dr. Mike Reynolds', role: 'Lead Restoration Specialist' },
+  },
+  {
+    title: 'Understanding Your Water Damage Insurance Claim',
+    href: '/blog/insurance-claim-guide',
+    description: 'A step-by-step guide to filing and maximizing your water damage insurance claim.',
+    date: 'Jan 8, 2026',
+    datetime: '2026-01-08',
+    category: 'Insurance',
+    author: { name: 'Sarah Chen', role: 'Claims Coordinator' },
+  },
+  {
+    title: 'Signs of Hidden Water Damage in Your Home',
+    href: '/blog/hidden-water-damage-signs',
+    description: 'Learn to spot the subtle warning signs of water damage lurking behind your walls.',
+    date: 'Dec 20, 2025',
+    datetime: '2025-12-20',
+    category: 'Prevention',
+    author: { name: 'Tom Alvarez', role: 'Senior Inspector' },
+  },
+]
+
+const faqs = [
+  { question: 'How quickly can you respond to a water damage emergency?', answer: 'We guarantee a response within 60 minutes for all emergency calls within our service area. Our teams are stationed strategically across the region and are available 24/7, 365 days a year.' },
+  { question: 'Do you work with insurance companies?', answer: 'Yes, we work with all major insurance carriers and can bill them directly. Our team includes certified estimators who document everything thoroughly to ensure your claim is processed smoothly.' },
+  { question: 'What areas do you serve?', answer: `We serve ${cityData.name} and surrounding communities including ${cityData.serviceAreas?.slice(0, 5).join(', ') || 'the greater metro area'}. Contact us to confirm coverage in your specific location.` },
+  { question: 'How long does the restoration process take?', answer: 'Emergency water extraction typically takes 4-8 hours. Structural drying usually requires 3-5 days with daily monitoring. Full restoration including reconstruction can take 1-4 weeks depending on scope.' },
+  { question: 'Can you prevent mold after water damage?', answer: 'Absolutely. Mold prevention is a critical part of our process. If we respond within 24-48 hours of the water event, mold growth can almost always be prevented entirely through antimicrobial treatments and complete structural drying.' },
+  { question: 'What should I do while waiting for your team to arrive?', answer: 'Turn off the water source if possible, move valuable items to dry areas, avoid using electrical devices in wet areas, and document the damage with photos for insurance purposes. Do not attempt to use household vacuums on standing water.' },
+]
 ---
-<BaseLayout>
-  <div class="py-24 sm:py-32">
+
+<BaseLayout structuredData={structuredData}>
+  <!-- ═══ HERO — With image tiles ═══ -->
+  <div class="relative isolate">
+    <svg
+      aria-hidden="true"
+      class="absolute inset-x-0 top-0 -z-10 h-[64rem] w-full mask-[radial-gradient(32rem_32rem_at_center,white,transparent)] stroke-gray-200 dark:stroke-white/10"
+    >
+      <defs>
+        <pattern x="50%" y="-1" id="home-hero-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+          <path d="M.5 200V.5H200" fill="none" />
+        </pattern>
+      </defs>
+      <svg x="50%" y="-1" class="overflow-visible fill-gray-100 dark:fill-gray-800">
+        <path d="M-200 0h201v201h-201Z M600 0h201v201h-201Z M-400 600h201v201h-201Z M200 800h201v201h-201Z" stroke-width="0" />
+      </svg>
+      <rect fill="url(#home-hero-pattern)" width="100%" height="100%" stroke-width="0" />
+    </svg>
+    <div
+      aria-hidden="true"
+      class="absolute top-0 right-0 left-1/2 -z-10 -ml-24 transform-gpu overflow-hidden blur-3xl lg:ml-24 xl:ml-48"
+    >
+      <div
+        style="clip-path: polygon(63.1% 29.5%, 100% 17.1%, 76.6% 3%, 48.4% 0%, 44.6% 4.7%, 54.5% 25.3%, 59.8% 49%, 55.2% 57.8%, 44.4% 57.2%, 27.8% 47.9%, 35.1% 81.5%, 0% 97.7%, 39.2% 100%, 35.2% 81.4%, 97.2% 52.8%, 63.1% 29.5%)"
+        class="aspect-[801/1036] w-[50.0625rem] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-20 dark:opacity-30"
+      ></div>
+    </div>
+    <div class="overflow-hidden">
+      <div class="mx-auto max-w-7xl px-6 pt-36 pb-32 sm:pt-60 lg:px-8 lg:pt-32">
+        <div class="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
+          <div class="relative w-full lg:max-w-xl lg:shrink-0 xl:max-w-2xl">
+            <h1 class="text-5xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-7xl">
+              {cityData.name}'s Trusted Water Damage Experts
+            </h1>
+            <p class="mt-8 text-lg font-medium text-pretty text-gray-600 dark:text-gray-400 sm:max-w-md sm:text-xl/8 lg:max-w-none">
+              When water damage strikes, every minute counts. Our IICRC-certified team responds in under 60 minutes
+              with industrial-grade equipment to protect your property and get your life back to normal.
+            </p>
+            <div class="mt-10 flex items-center gap-x-6">
+              <a
+                href="/request"
+                class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500"
+              >
+                Get a Free Estimate
+              </a>
+              <a href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
+                Call {cityData.phone} <span aria-hidden="true">&rarr;</span>
+              </a>
+            </div>
+          </div>
+          <div class="mt-14 flex justify-end gap-8 sm:-mt-44 sm:justify-start sm:pl-20 lg:mt-0 lg:pl-0">
+            <div class="ml-auto w-44 flex-none space-y-8 pt-32 sm:ml-0 sm:pt-80 lg:order-last lg:pt-36 xl:order-0 xl:pt-80">
+              <div class="relative">
+                <img alt="Water damage restoration team" src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&h=528&q=80" class="aspect-[2/3] w-full rounded-xl bg-gray-200/50 dark:bg-gray-700/5 object-cover shadow-lg" />
+                <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-200 dark:ring-white/10 ring-inset" />
+              </div>
+            </div>
+            <div class="mr-auto w-44 flex-none space-y-8 sm:mr-0 sm:pt-52 lg:pt-36">
+              <div class="relative">
+                <img alt="Restoration equipment" src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?ixlib=rb-4.0.3&auto=format&fit=crop&h=528&q=80" class="aspect-[2/3] w-full rounded-xl bg-gray-200/50 dark:bg-gray-700/5 object-cover shadow-lg" />
+                <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-200 dark:ring-white/10 ring-inset" />
+              </div>
+              <div class="relative">
+                <img alt="Moisture testing" src="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?ixlib=rb-4.0.3&auto=format&fit=crop&h=528&q=80" class="aspect-[2/3] w-full rounded-xl bg-gray-200/50 dark:bg-gray-700/5 object-cover shadow-lg" />
+                <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-200 dark:ring-white/10 ring-inset" />
+              </div>
+            </div>
+            <div class="w-44 flex-none space-y-8 pt-32 sm:pt-0">
+              <div class="relative">
+                <img alt="Restored home interior" src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&h=528&q=80" class="aspect-[2/3] w-full rounded-xl bg-gray-200/50 dark:bg-gray-700/5 object-cover shadow-lg" />
+                <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-200 dark:ring-white/10 ring-inset" />
+              </div>
+              <div class="relative">
+                <img alt="Professional team" src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&auto=format&fit=crop&h=528&q=80" class="aspect-[2/3] w-full rounded-xl bg-gray-200/50 dark:bg-gray-700/5 object-cover shadow-lg" />
+                <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-200 dark:ring-white/10 ring-inset" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══ LOGO CLOUD ═══ -->
+  <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <h1 class="text-4xl font-bold">Flood Doctor {cityData.name}</h1>
-      <p class="mt-4 text-gray-500 dark:text-gray-400">Layout scaffold working. Pages coming in Phase 5.</p>
+      <div class="mx-auto grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-12 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 sm:gap-y-14 lg:mx-0 lg:max-w-none lg:grid-cols-5">
+        <img alt="IICRC Certified" src="https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg" width="158" height="48" class="col-span-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0 lg:col-span-1" />
+        <img alt="RIA Member" src="https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg" width="158" height="48" class="col-span-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0 lg:col-span-1" />
+        <img alt="EPA Lead-Safe" src="https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg" width="158" height="48" class="col-span-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0 lg:col-span-1" />
+        <img alt="BBB Accredited" src="https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg" width="158" height="48" class="col-span-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0 sm:col-start-2 lg:col-span-1" />
+        <img alt="State Farm Partner" src="https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg" width="158" height="48" class="col-span-2 col-start-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0 sm:col-start-auto lg:col-span-1" />
+      </div>
+      <div class="mt-16 flex justify-center">
+        <p class="relative rounded-full bg-gray-100 dark:bg-gray-800/75 px-4 py-1.5 text-sm/6 text-gray-600 dark:text-gray-400 ring-1 ring-gray-200 dark:ring-white/10 ring-inset">
+          <span class="hidden md:inline">Trusted by homeowners and insurance companies across {cityData.name}. </span>
+          <a href="/reviews" class="font-semibold text-indigo-600 dark:text-indigo-400 hover:text-indigo-500 dark:hover:text-indigo-300">
+            <span aria-hidden="true" class="absolute inset-0"></span> Read our reviews{' '}
+            <span aria-hidden="true">&rarr;</span>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══ FEATURES — With large screenshot ═══ -->
+  <div class="bg-white dark:bg-gray-900 py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl sm:text-center">
+        <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Complete Restoration</h2>
+        <p class="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-5xl sm:text-balance">
+          Professional Water Damage Restoration
+        </p>
+        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-300">
+          From emergency water extraction to complete reconstruction, we handle every aspect of the restoration
+          process so you don't have to.
+        </p>
+      </div>
+    </div>
+    <div class="relative overflow-hidden pt-16">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <img
+          alt="Flood Doctor restoration process"
+          src="https://tailwindcss.com/plus-assets/img/component-images/dark-project-app-screenshot.png"
+          width="2432"
+          height="1442"
+          class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-gray-200 dark:ring-white/10"
+        />
+        <div aria-hidden="true" class="relative">
+          <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-white dark:from-gray-900 pt-[7%]"></div>
+        </div>
+      </div>
+    </div>
+    <div class="mx-auto mt-16 max-w-7xl px-6 sm:mt-20 md:mt-24 lg:px-8">
+      <dl class="mx-auto grid max-w-2xl grid-cols-1 gap-x-6 gap-y-10 text-base/7 text-gray-600 dark:text-gray-400 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-x-8 lg:gap-y-16">
+        {features.map((feature) => (
+          <div class="relative pl-9">
+            <dt class="inline font-semibold text-gray-900 dark:text-white">
+              <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="absolute top-1 left-1 size-5 text-indigo-600 dark:text-indigo-400">
+                <circle cx="10" cy="10" r="3" />
+              </svg>
+              {feature.name}
+            </dt>{' '}
+            <dd class="inline">{feature.description}</dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+  </div>
+
+  <!-- ═══ STATS — With background image ═══ -->
+  <div class="relative isolate overflow-hidden bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
+    <img
+      alt=""
+      src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2850&q=80&blend=111827&blend-mode=multiply&sat=-100&exp=15"
+      class="absolute inset-0 -z-10 size-full object-cover opacity-10 dark:opacity-100"
+    />
+    <div
+      aria-hidden="true"
+      class="absolute -bottom-8 -left-96 -z-10 transform-gpu blur-3xl sm:-bottom-64 sm:-left-40 lg:-bottom-32 lg:left-8 xl:-left-10"
+    >
+      <div
+        style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"
+        class="aspect-[1266/975] w-[79.125rem] bg-gradient-to-tr from-[#ff4694] to-[#776fff] opacity-10 dark:opacity-20"
+      ></div>
+    </div>
+    <div class="relative mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
+        <h2 class="text-base/8 font-semibold text-indigo-600 dark:text-indigo-400">Our track record</h2>
+        <p class="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-5xl">
+          Trusted by {cityData.name} homeowners
+        </p>
+        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-300">
+          Our commitment to fast response times, quality workmanship, and transparent communication has made
+          Flood Doctor the preferred restoration company in {cityData.name} and surrounding areas.
+        </p>
+      </div>
+      <dl class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-10 text-gray-900 dark:text-white sm:mt-20 sm:grid-cols-2 sm:gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-4">
+        {stats.map((stat) => (
+          <div class="flex flex-col gap-y-3 border-l border-gray-300 dark:border-white/10 pl-6">
+            <dt class="text-sm/6 text-gray-600 dark:text-white/80">{stat.label}</dt>
+            <dd class="order-first text-3xl font-semibold tracking-tight">{stat.value}</dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+  </div>
+
+  <!-- ═══ SERVICES BENTO GRID ═══ -->
+  <div class="bg-white dark:bg-gray-900 py-24 sm:py-32">
+    <div class="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
+      <h2 class="text-center text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Our Services</h2>
+      <p class="mx-auto mt-2 max-w-lg text-center text-4xl font-semibold tracking-tight text-balance text-gray-900 dark:text-white sm:text-5xl">
+        Complete Water Damage Solutions
+      </p>
+      <div class="mt-10 grid gap-4 sm:mt-16 lg:grid-cols-3 lg:grid-rows-2">
+        <!-- Emergency Response -->
+        <div class="relative lg:row-span-2">
+          <div class="absolute inset-px rounded-lg bg-gray-50 dark:bg-gray-800 lg:rounded-l-[2rem]" />
+          <div class="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] lg:rounded-l-[calc(2rem+1px)]">
+            <div class="px-8 pt-8 pb-3 sm:px-10 sm:pt-10 sm:pb-0">
+              <p class="mt-2 text-lg font-medium tracking-tight text-gray-900 dark:text-white max-lg:text-center">Emergency Response</p>
+              <p class="mt-2 max-w-lg text-sm/6 text-gray-600 dark:text-gray-400 max-lg:text-center">
+                60-minute response time, 24/7/365. Our certified technicians arrive with full equipment ready to begin extraction immediately.
+              </p>
+            </div>
+            <div class="@container relative min-h-[30rem] w-full grow max-lg:mx-auto max-lg:max-w-sm">
+              <div class="absolute inset-x-10 top-10 bottom-0 overflow-hidden rounded-t-[12cqw] border-x-[3cqw] border-t-[3cqw] border-gray-300 dark:border-gray-700 bg-gray-50 dark:bg-gray-900 outline outline-1 outline-gray-200/20 dark:outline-white/20">
+                <img alt="Emergency response" src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" class="size-full object-cover object-top" />
+              </div>
+            </div>
+          </div>
+          <div class="pointer-events-none absolute inset-px rounded-lg shadow-sm outline outline-1 outline-gray-200 dark:outline-white/15 lg:rounded-l-[2rem]" />
+        </div>
+        <!-- Speed -->
+        <div class="relative max-lg:row-start-1">
+          <div class="absolute inset-px rounded-lg bg-gray-50 dark:bg-gray-800 max-lg:rounded-t-[2rem]" />
+          <div class="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] max-lg:rounded-t-[calc(2rem+1px)]">
+            <div class="px-8 pt-8 sm:px-10 sm:pt-10">
+              <p class="mt-2 text-lg font-medium tracking-tight text-gray-900 dark:text-white max-lg:text-center">Structural Drying</p>
+              <p class="mt-2 max-w-lg text-sm/6 text-gray-600 dark:text-gray-400 max-lg:text-center">
+                Commercial-grade dehumidifiers and air movers for complete moisture removal in 3-5 days.
+              </p>
+            </div>
+            <div class="flex flex-1 items-center justify-center px-8 max-lg:pt-10 max-lg:pb-12 sm:px-10 lg:pb-2">
+              <img alt="Drying equipment" src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" class="w-full max-lg:max-w-xs rounded-lg" />
+            </div>
+          </div>
+          <div class="pointer-events-none absolute inset-px rounded-lg shadow-sm outline outline-1 outline-gray-200 dark:outline-white/15 max-lg:rounded-t-[2rem]" />
+        </div>
+        <!-- Mold Prevention -->
+        <div class="relative max-lg:row-start-3 lg:col-start-2 lg:row-start-2">
+          <div class="absolute inset-px rounded-lg bg-gray-50 dark:bg-gray-800" />
+          <div class="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)]">
+            <div class="px-8 pt-8 sm:px-10 sm:pt-10">
+              <p class="mt-2 text-lg font-medium tracking-tight text-gray-900 dark:text-white max-lg:text-center">Mold Remediation</p>
+              <p class="mt-2 max-w-lg text-sm/6 text-gray-600 dark:text-gray-400 max-lg:text-center">
+                Professional mold inspection, containment, and removal to eliminate health hazards.
+              </p>
+            </div>
+            <div class="@container flex flex-1 items-center max-lg:py-6 lg:pb-2">
+              <img alt="Mold remediation" src="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" class="h-[min(152px,40cqw)] object-cover rounded-lg mx-8" />
+            </div>
+          </div>
+          <div class="pointer-events-none absolute inset-px rounded-lg shadow-sm outline outline-1 outline-gray-200 dark:outline-white/15" />
+        </div>
+        <!-- Full Reconstruction -->
+        <div class="relative lg:row-span-2">
+          <div class="absolute inset-px rounded-lg bg-gray-50 dark:bg-gray-800 max-lg:rounded-b-[2rem] lg:rounded-r-[2rem]" />
+          <div class="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] max-lg:rounded-b-[calc(2rem+1px)] lg:rounded-r-[calc(2rem+1px)]">
+            <div class="px-8 pt-8 pb-3 sm:px-10 sm:pt-10 sm:pb-0">
+              <p class="mt-2 text-lg font-medium tracking-tight text-gray-900 dark:text-white max-lg:text-center">Full Reconstruction</p>
+              <p class="mt-2 max-w-lg text-sm/6 text-gray-600 dark:text-gray-400 max-lg:text-center">
+                Complete rebuild of damaged structures — drywall, flooring, cabinets — back to pre-loss condition.
+              </p>
+            </div>
+            <div class="relative min-h-[30rem] w-full grow">
+              <div class="absolute top-10 right-0 bottom-0 left-10 overflow-hidden rounded-tl-xl bg-gray-100 dark:bg-gray-900/60 outline outline-1 outline-gray-200/10 dark:outline-white/10">
+                <img alt="Reconstruction work" src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" class="size-full object-cover" />
+              </div>
+            </div>
+          </div>
+          <div class="pointer-events-none absolute inset-px rounded-lg shadow-sm outline outline-1 outline-gray-200 dark:outline-white/15 max-lg:rounded-b-[2rem] lg:rounded-r-[2rem]" />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══ TESTIMONIAL ═══ -->
+  <div class="bg-gray-50 dark:bg-gray-900 pt-24 pb-16 sm:pt-32 sm:pb-24 xl:pb-32">
+    <div class="bg-white dark:bg-gray-800/50 pb-20 outline outline-gray-200 dark:outline-white/5 sm:pb-24 xl:pb-0">
+      <div class="mx-auto flex max-w-7xl flex-col items-center gap-x-8 gap-y-10 px-6 sm:gap-y-8 lg:px-8 xl:flex-row xl:items-stretch">
+        <div class="-mt-8 w-full max-w-2xl xl:-mb-8 xl:w-96 xl:flex-none">
+          <div class="relative aspect-[2/1] h-full after:absolute after:inset-0 after:rounded-2xl after:ring-1 after:ring-inset after:ring-gray-200 dark:after:ring-white/15 md:-mx-8 xl:mx-0 xl:aspect-auto">
+            <img
+              alt="Sarah Chen"
+              src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=1024&h=1024&q=80"
+              class="absolute inset-0 size-full rounded-2xl bg-gray-200 dark:bg-gray-700 object-cover"
+            />
+          </div>
+        </div>
+        <div class="w-full max-w-2xl xl:max-w-none xl:flex-auto xl:px-16 xl:py-24">
+          <figure class="relative isolate pt-6 sm:pt-12">
+            <svg fill="none" viewBox="0 0 162 128" aria-hidden="true" class="absolute top-0 left-0 -z-10 h-32 stroke-gray-300 dark:stroke-white/20">
+              <path
+                d="M65.5697 118.507L65.8918 118.89C68.9503 116.314 71.367 113.253 73.1386 109.71C74.9162 106.155 75.8027 102.28 75.8027 98.0919C75.8027 94.237 75.16 90.6155 73.8708 87.2314C72.5851 83.8565 70.8137 80.9533 68.553 78.5292C66.4529 76.1079 63.9476 74.2482 61.0407 72.9536C58.2795 71.4949 55.276 70.767 52.0386 70.767C48.9935 70.767 46.4686 71.1668 44.4872 71.9924L44.4799 71.9955L44.4726 71.9988C42.7101 72.7999 41.1035 73.6831 39.6544 74.6492C38.2407 75.5916 36.8279 76.455 35.4159 77.2394L35.4047 77.2457L35.3938 77.2525C34.2318 77.9787 32.6713 78.3634 30.6736 78.3634C29.0405 78.3634 27.5131 77.2868 26.1274 74.8257C24.7483 72.2185 24.0519 69.2166 24.0519 65.8071C24.0519 60.0311 25.3782 54.4081 28.0373 48.9335C30.703 43.4454 34.3114 38.345 38.8667 33.6325C43.5812 28.761 49.0045 24.5159 55.1389 20.8979C60.1667 18.0071 65.4966 15.6179 71.1291 13.7305C73.8626 12.8145 75.8027 10.2968 75.8027 7.38572C75.8027 3.6497 72.6341 0.62247 68.8814 1.1527C61.1635 2.2432 53.7398 4.41426 46.6119 7.66522C37.5369 11.6459 29.5729 17.0612 22.7236 23.9105C16.0322 30.6019 10.618 38.4859 6.47981 47.558L6.47976 47.558L6.47682 47.5647C2.4901 56.6544 0.5 66.6148 0.5 77.4391C0.5 84.2996 1.61702 90.7679 3.85425 96.8404L3.8558 96.8445C6.08991 102.749 9.12394 108.02 12.959 112.654L12.959 112.654L12.9646 112.661C16.8027 117.138 21.2829 120.739 26.4034 123.459L26.4033 123.459L26.4144 123.465C31.5505 126.033 37.0873 127.316 43.0178 127.316C47.5035 127.316 51.6783 126.595 55.5376 125.148L55.5376 125.148L55.5477 125.144C59.5516 123.542 63.0052 121.456 65.9019 118.881L65.5697 118.507Z"
+                id="home-testimonial-quote"
+              />
+              <use x="86" href="#home-testimonial-quote" />
+            </svg>
+            <blockquote class="text-xl/8 font-semibold text-gray-900 dark:text-gray-100 sm:text-2xl/9">
+              <p>
+                "When our basement flooded at 2 AM, Flood Doctor had a team at our door within 45 minutes.
+                They saved our finished basement and handled everything with our insurance company.
+                I cannot recommend them highly enough."
+              </p>
+            </blockquote>
+            <figcaption class="mt-8 text-base">
+              <div class="font-semibold text-gray-900 dark:text-gray-100">Sarah Chen</div>
+              <div class="mt-1 text-gray-500 dark:text-gray-400">Homeowner in {cityData.name}</div>
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══ BLOG PREVIEW ═══ -->
+  <div class="bg-white dark:bg-gray-900 py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl lg:mx-0">
+        <h2 class="text-4xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-5xl">From the blog</h2>
+        <p class="mt-2 text-lg/8 text-gray-600 dark:text-gray-300">Tips and guides to protect your property from water damage.</p>
+      </div>
+      <div class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 dark:border-gray-700 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+        {blogPosts.map((post) => (
+          <article class="flex max-w-xl flex-col items-start justify-between">
+            <div class="flex items-center gap-x-4 text-xs">
+              <time datetime={post.datetime} class="text-gray-500 dark:text-gray-400">{post.date}</time>
+              <span class="relative z-10 rounded-full bg-gray-100 dark:bg-gray-800/60 px-3 py-1.5 font-medium text-gray-700 dark:text-gray-300">
+                {post.category}
+              </span>
+            </div>
+            <div class="group relative grow">
+              <h3 class="mt-3 text-lg/6 font-semibold text-gray-900 dark:text-white group-hover:text-gray-600 dark:group-hover:text-gray-300">
+                <a href={post.href}>
+                  <span class="absolute inset-0"></span>
+                  {post.title}
+                </a>
+              </h3>
+              <p class="mt-5 line-clamp-3 text-sm/6 text-gray-600 dark:text-gray-400">{post.description}</p>
+            </div>
+            <div class="relative mt-8 flex items-center gap-x-4 justify-self-end">
+              <div class="text-sm/6">
+                <p class="font-semibold text-gray-900 dark:text-white">{post.author.name}</p>
+                <p class="text-gray-500 dark:text-gray-400">{post.author.role}</p>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══ FAQ ═══ -->
+  <div class="bg-gray-50 dark:bg-gray-900">
+    <div class="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8 lg:py-40">
+      <div class="mx-auto max-w-4xl">
+        <h2 class="text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">Frequently asked questions</h2>
+        <FAQAccordion client:visible faqs={faqs} />
+      </div>
     </div>
   </div>
 </BaseLayout>
