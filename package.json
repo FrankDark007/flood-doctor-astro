@@ -1,0 +1,38 @@
+{
+  "name": "flood-doctor-astro",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "build:ashburn": "CITY=ashburn SITE_URL=https://ashburn.flood.doctor astro build",
+    "build:alexandria": "CITY=alexandria SITE_URL=https://alexandria.flood.doctor astro build",
+    "build:arlington": "CITY=arlington SITE_URL=https://arlington.flood.doctor astro build",
+    "build:centreville": "CITY=centreville SITE_URL=https://centreville.flood.doctor astro build",
+    "build:chantilly": "CITY=chantilly SITE_URL=https://chantilly.flood.doctor astro build",
+    "build:fairfax": "CITY=fairfax SITE_URL=https://fairfax.flood.doctor astro build",
+    "build:herndon": "CITY=herndon SITE_URL=https://herndon.flood.doctor astro build",
+    "build:leesburg": "CITY=leesburg SITE_URL=https://leesburg.flood.doctor astro build",
+    "build:mclean": "CITY=mclean SITE_URL=https://mclean.flood.doctor astro build",
+    "build:reston": "CITY=reston SITE_URL=https://reston.flood.doctor astro build",
+    "build:springfield": "CITY=springfield SITE_URL=https://springfield.flood.doctor astro build",
+    "build:sterling": "CITY=sterling SITE_URL=https://sterling.flood.doctor astro build",
+    "build:vienna": "CITY=vienna SITE_URL=https://vienna.flood.doctor astro build",
+    "build:all": "node scripts/build-all.mjs"
+  },
+  "dependencies": {
+    "@astrojs/react": "^4.4.2",
+    "@astrojs/sitemap": "^3.7.0",
+    "@headlessui/react": "^2.2.9",
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/vite": "^4.2.1",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "astro": "^5.17.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.2.1"
+  }
+}

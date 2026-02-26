@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Configure dark variant to use data-theme attribute instead of prefers-color-scheme */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* Theme CSS custom properties */
+:root {
+  --color-accent: theme(colors.indigo.600);
+  --color-accent-hover: theme(colors.indigo.500);
+}
+
+[data-theme="dark"] {
+  --color-accent: theme(colors.indigo.500);
+  --color-accent-hover: theme(colors.indigo.400);
+}
