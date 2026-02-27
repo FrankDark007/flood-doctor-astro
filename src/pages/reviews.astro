@@ -1,0 +1,107 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import ReviewsList from '../components/islands/ReviewsList.tsx'
+import { cityData } from '../data/cities'
+import { overallRating, totalReviews, distribution } from '../data/reviews'
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  name: `Flood Doctor ${cityData.name}`,
+  aggregateRating: {
+    '@type': 'AggregateRating',
+    ratingValue: overallRating,
+    reviewCount: totalReviews,
+    bestRating: 5,
+    worstRating: 1,
+  },
+}
+---
+
+<BaseLayout
+  title={`Customer Reviews | Flood Doctor ${cityData.name}`}
+  description={`Read ${totalReviews} verified customer reviews for Flood Doctor ${cityData.name}. ${overallRating} stars average rating for water damage restoration in ${cityData.name}, Virginia.`}
+  structuredData={structuredData}
+>
+  <!-- Page Header -->
+  <div class="py-16 sm:py-24">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl text-center">
+        <h1 class="text-4xl font-semibold tracking-tight text-balance text-white sm:text-5xl">
+          Customer Reviews
+        </h1>
+        <p class="mt-2 text-lg/8 text-gray-300">
+          See what our customers in {cityData.name} and Northern Virginia have to say.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Two-column layout -->
+  <div class="pb-24 sm:pb-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="lg:grid lg:grid-cols-12 lg:gap-8">
+        <!-- Left sidebar — sticky -->
+        <div class="lg:col-span-4">
+          <div class="lg:sticky lg:top-8 space-y-6">
+            <!-- Rating Summary Card -->
+            <div class="rounded-2xl bg-white/5 p-8 outline-1 -outline-offset-1 outline-white/10">
+              <div class="flex flex-col items-center gap-8 sm:flex-row lg:flex-col lg:items-start">
+                <div class="text-center sm:text-left lg:text-center lg:w-full">
+                  <p class="text-7xl font-bold text-white">{overallRating}</p>
+                  <div class="mt-2 flex items-center justify-center sm:justify-start lg:justify-center">
+                    {[0, 1, 2, 3, 4].map((i) => (
+                      <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class={`size-6 shrink-0 ${overallRating > i ? 'text-yellow-400' : 'text-gray-600'}`}>
+                        <path fill-rule="evenodd" d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z" clip-rule="evenodd" />
+                      </svg>
+                    ))}
+                  </div>
+                  <p class="mt-1 text-sm text-gray-400">{totalReviews} verified reviews</p>
+                </div>
+
+                <div class="w-full">
+                  {distribution.map((row) => {
+                    const pct = Math.round((row.count / totalReviews) * 100)
+                    return (
+                      <div class="flex w-full items-center gap-3 px-2 py-1 text-sm">
+                        <span class="w-3 text-right text-gray-300">{row.stars}</span>
+                        <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="size-4 text-yellow-400 shrink-0">
+                          <path fill-rule="evenodd" d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z" clip-rule="evenodd" />
+                        </svg>
+                        <div class="flex-1 overflow-hidden rounded-full bg-gray-700">
+                          <div class="h-2 rounded-full bg-yellow-400" style={`width: ${pct}%`}></div>
+                        </div>
+                        <span class="w-8 text-right text-xs text-gray-400">{row.count}</span>
+                      </div>
+                    )
+                  })}
+                </div>
+              </div>
+            </div>
+
+            <!-- Write a Review CTA Card -->
+            <div class="rounded-2xl bg-white/5 p-8 outline-1 -outline-offset-1 outline-white/10 text-center">
+              <h3 class="text-lg font-semibold text-white">Have we worked together?</h3>
+              <p class="mt-2 text-sm text-gray-400">
+                Sharing your experience helps your neighbors find trusted help.
+              </p>
+              <a
+                href="https://share.google/AhUTxb7gmJLiVuSIr"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="mt-6 inline-block rounded-md bg-indigo-500 px-6 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500"
+              >
+                Write a Review
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right side — interactive reviews -->
+        <div class="mt-10 lg:col-span-8 lg:mt-0">
+          <ReviewsList client:load />
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
