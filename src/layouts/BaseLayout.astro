@@ -5,12 +5,13 @@ import Footer from '../components/Footer.astro'
 import Breadcrumbs from '../components/Breadcrumbs.astro'
 import ThemeToggle from '../components/islands/ThemeToggle.tsx'
 import { cityData } from '../data/cities'
+import { getHreflangUrls } from '../utils/schema'
 import '../styles/global.css'
 
 interface Props {
   title?: string
   description?: string
-  structuredData?: object
+  structuredData?: object | object[]
   ogImage?: string
   noIndex?: boolean
 }
@@ -23,11 +24,9 @@ const {
   noIndex = false,
 } = Astro.props
 
-const pageTitle = title
-  ? `${title} | Flood Doctor ${cityData.name}`
-  : cityData.meta.title
-
+const pageTitle = title || cityData.meta.title
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site)
+const hreflangUrls = getHreflangUrls(Astro.url.pathname)
 ---
 <html lang="en" data-theme="dark">
   <head>
@@ -40,6 +39,11 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site)
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl.toString()} />
     {noIndex && <meta name="robots" content="noindex, nofollow" />}
+
+    <!-- Hreflang — multi-city alternate URLs -->
+    {hreflangUrls.map(({ href, hreflang }) => (
+      <link rel="alternate" hreflang={hreflang} href={href} />
+    ))}
 
     <!-- Open Graph -->
     <meta property="og:title" content={pageTitle} />
@@ -59,9 +63,13 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site)
     <link rel="icon" href="/favicon.ico" />
 
     <!-- Structured Data -->
-    {structuredData && (
+    {structuredData && Array.isArray(structuredData) ? (
+      structuredData.map((schema) => (
+        <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+      ))
+    ) : structuredData ? (
       <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
-    )}
+    ) : null}
 
     <meta name="generator" content={Astro.generator} />
   </head>

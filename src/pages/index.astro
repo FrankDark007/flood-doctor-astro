@@ -3,23 +3,9 @@ import BaseLayout from '../layouts/BaseLayout.astro'
 import FAQAccordion from '../components/islands/FAQAccordion.tsx'
 import { cityData } from '../data/cities'
 import { allServices } from '../data/services'
+import { localBusinessSchema, webSiteSchema } from '../utils/schema'
 
-const structuredData = {
-  '@context': 'https://schema.org',
-  '@type': 'LocalBusiness',
-  name: `Flood Doctor ${cityData.name}`,
-  description: cityData.meta.description,
-  telephone: cityData.phone,
-  address: {
-    '@type': 'PostalAddress',
-    addressLocality: cityData.name,
-    addressRegion: cityData.state,
-  },
-  areaServed: cityData.serviceAreas?.map((area: string) => ({
-    '@type': 'City',
-    name: area,
-  })),
-}
+const structuredData = [localBusinessSchema(), webSiteSchema()]
 
 const features = [
   { name: 'Emergency Water Extraction', description: 'Industrial-grade pumps remove standing water within hours of our arrival, preventing further damage to your property and belongings.', icon: 'bolt' },

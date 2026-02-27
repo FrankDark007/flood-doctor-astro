@@ -4,6 +4,7 @@ import Icon from '../../components/Icon.astro'
 import FAQAccordion from '../../components/islands/FAQAccordion.tsx'
 import { allServices, getService } from '../../data/services'
 import { cityData } from '../../data/cities'
+import { serviceSchema } from '../../utils/schema'
 import type { GetStaticPaths } from 'astro'
 
 export const getStaticPaths: GetStaticPaths = () => {
@@ -19,26 +20,7 @@ if (!service) {
   return Astro.redirect('/404')
 }
 
-const structuredData = {
-  '@context': 'https://schema.org',
-  '@type': 'Service',
-  name: service.name,
-  description: service.description,
-  provider: {
-    '@type': 'LocalBusiness',
-    name: `Flood Doctor ${cityData.name}`,
-    telephone: cityData.phone,
-    address: {
-      '@type': 'PostalAddress',
-      addressLocality: cityData.name,
-      addressRegion: cityData.state,
-    },
-  },
-  areaServed: {
-    '@type': 'City',
-    name: cityData.name,
-  },
-}
+const structuredData = serviceSchema(service)
 
 const blogPosts = [
   {
@@ -79,7 +61,7 @@ const timeline = [
 ---
 
 <BaseLayout
-  title={service.name}
+  title={`${service.name} | Flood Doctor ${cityData.name}`}
   description={service.description}
   structuredData={structuredData}
 >
