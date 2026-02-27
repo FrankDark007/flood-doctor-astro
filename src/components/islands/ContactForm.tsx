@@ -1,6 +1,6 @@
 import { useState, type FormEvent } from 'react'
 
-const WORKER_URL = 'https://flood-doctor-forms.frankd-fd.workers.dev'
+const WORKER_URL = 'https://flood-doctor-forms.bluemedia-account.workers.dev'
 
 interface Props {
   city?: string
