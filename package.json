@@ -20,7 +20,9 @@
     "build:springfield": "CITY=springfield SITE_URL=https://springfield.flood.doctor astro build",
     "build:sterling": "CITY=sterling SITE_URL=https://sterling.flood.doctor astro build",
     "build:vienna": "CITY=vienna SITE_URL=https://vienna.flood.doctor astro build",
-    "build:all": "node scripts/build-all.mjs"
+    "build:all": "node scripts/build-all.mjs",
+    "deploy:all": "node scripts/deploy-all.mjs",
+    "deploy:all:skip-build": "node scripts/deploy-all.mjs --no-build"
   },
   "dependencies": {
     "@astrojs/react": "^4.4.2",
