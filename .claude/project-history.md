@@ -64,3 +64,33 @@ Every component uses a consistent pattern:
 1. ad2691c — ServiceDetail page + infrastructure (Icon, FAQAccordion, updated types)
 2. b230915 — Home page
 3. 9e76328 — Services index page
+
+## 2026-02-26 — Session 3: Phase 5b-5c — Remaining Page Migrations
+
+### Work Completed
+- **Phase 5b**: Contact, Request, About, Reviews pages (commit bad3936)
+  - ReviewsList.tsx, ContactForm.tsx, RequestForm.tsx React islands
+  - reviews.ts data (103 real Google Places reviews, 4.9 stars)
+- **Phase 5c**: Blog, FAQ, Guides, 404 pages (commit 7174781)
+  - BlogBrowser.tsx React island (search, filter, pagination)
+  - blog/index, blog/[slug], faq, guides/index, guides/[slug], 404 pages
+  - Added `@tailwindcss/typography` for prose styling
+  - All 13 page types now migrated, 22 pages building
+
+## 2026-02-26 — Session 4: Phase 6-7 — SEO + Multi-City Build Pipeline (commit 6f41fc2)
+
+### Work Completed
+- `public/robots.txt` — All 13 city sitemaps + /api/ disallow
+- `src/utils/schema.ts` — 7 JSON-LD helpers (LocalBusiness, WebSite, BlogPosting, Service, FAQPage, BreadcrumbList, hreflang)
+- `scripts/build-all.mjs` — Sequential multi-city build → dist-all/{city}/
+- Hreflang tags on every page (13 cities + x-default)
+- Refactored all pages to use centralized schema helpers
+
+### Bugs Fixed
+- **Double-title bug**: BaseLayout was wrapping title with `| Flood Doctor {city}` but pages already included it. Fix: `pageTitle = title || cityData.meta.title` — pages own their full title.
+
+### Key Decisions
+- Title ownership: Pages own full `<title>` text; BaseLayout passes through
+- Schema: Centralized helpers in utils/schema.ts (DRY)
+- Multi-city build: Sequential not parallel (memory safety)
+- Hreflang: All pages get all 13 city alternates
