@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import BlogBrowser from '../../components/islands/BlogBrowser.tsx'
+import { blogPosts, blogCategories } from '../../data/blog'
+import { cityData } from '../../data/cities'
+---
+
+<BaseLayout
+  title={`Blog | Flood Doctor ${cityData.name}`}
+  description={`Expert advice on water damage restoration, mold remediation, insurance claims, and protecting your ${cityData.name} home. Tips from Flood Doctor's certified technicians.`}
+>
+  <div class="py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl text-center">
+        <h1 class="text-4xl font-semibold tracking-tight text-balance text-white sm:text-5xl">Blog</h1>
+        <p class="mt-2 text-lg/8 text-gray-300">
+          Expert advice on water damage restoration, mold remediation, and protecting your home.
+        </p>
+      </div>
+      <BlogBrowser client:load posts={blogPosts} categories={blogCategories} />
+    </div>
+  </div>
+</BaseLayout>

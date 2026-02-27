@@ -253,3 +253,5 @@ export const guideArticles: Record<string, GuideArticle> = {
     `,
   },
 }
+
+export const guidesList = Object.values(guideArticles)
