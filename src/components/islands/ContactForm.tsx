@@ -1,14 +1,47 @@
 import { useState, type FormEvent } from 'react'
 
-export default function ContactForm() {
+const WORKER_URL = 'https://flood-doctor-forms.frankd-fd.workers.dev'
+
+interface Props {
+  city?: string
+}
+
+export default function ContactForm({ city }: Props) {
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle')
+  const [errorMsg, setErrorMsg] = useState('')
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault()
     setStatus('sending')
-    // Form submission will be handled by Cloudflare Worker (Phase 8)
-    // For now, simulate success
-    setTimeout(() => setStatus('sent'), 1000)
+    setErrorMsg('')
+
+    const form = e.currentTarget
+    const data = {
+      'first-name': (form.elements.namedItem('first-name') as HTMLInputElement).value,
+      'last-name': (form.elements.namedItem('last-name') as HTMLInputElement).value,
+      email: (form.elements.namedItem('email') as HTMLInputElement).value,
+      'phone-number': (form.elements.namedItem('phone-number') as HTMLInputElement).value,
+      message: (form.elements.namedItem('message') as HTMLTextAreaElement).value,
+      city: city || '',
+    }
+
+    try {
+      const res = await fetch(`${WORKER_URL}/api/contact`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      })
+      const result = await res.json()
+      if (result.success) {
+        setStatus('sent')
+      } else {
+        setStatus('error')
+        setErrorMsg(result.error || 'Something went wrong. Please try again.')
+      }
+    } catch {
+      setStatus('error')
+      setErrorMsg('Network error. Please check your connection and try again.')
+    }
   }
 
   if (status === 'sent') {
@@ -28,6 +61,11 @@ export default function ContactForm() {
   return (
     <form onSubmit={handleSubmit} className="px-6 pt-20 pb-24 sm:pb-32 lg:px-8 lg:py-48">
       <div className="mx-auto max-w-xl lg:mr-0 lg:max-w-lg">
+        {status === 'error' && (
+          <div className="mb-6 rounded-md bg-red-500/10 p-4 text-sm text-red-400 ring-1 ring-red-500/20">
+            {errorMsg}
+          </div>
+        )}
         <div className="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
           <div>
             <label htmlFor="first-name" className="block text-sm/6 font-semibold text-white">

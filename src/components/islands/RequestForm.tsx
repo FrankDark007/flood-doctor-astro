@@ -1,14 +1,50 @@
 import { useState, type FormEvent } from 'react'
 
-export default function RequestForm() {
+const WORKER_URL = 'https://flood-doctor-forms.frankd-fd.workers.dev'
+
+interface Props {
+  city?: string
+}
+
+export default function RequestForm({ city }: Props) {
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle')
+  const [errorMsg, setErrorMsg] = useState('')
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault()
     setStatus('sending')
-    // Form submission will be handled by Cloudflare Worker (Phase 8)
-    // For now, simulate success
-    setTimeout(() => setStatus('sent'), 1000)
+    setErrorMsg('')
+
+    const form = e.currentTarget
+    const data = {
+      'first-name': (form.elements.namedItem('first-name') as HTMLInputElement).value,
+      'last-name': (form.elements.namedItem('last-name') as HTMLInputElement).value,
+      email: (form.elements.namedItem('email') as HTMLInputElement).value,
+      phone: (form.elements.namedItem('phone') as HTMLInputElement).value,
+      address: (form.elements.namedItem('address') as HTMLInputElement).value,
+      'service-type': (form.elements.namedItem('service-type') as HTMLSelectElement).value,
+      urgency: (form.querySelector('input[name="urgency"]:checked') as HTMLInputElement)?.value || '',
+      message: (form.elements.namedItem('message') as HTMLTextAreaElement).value,
+      city: city || '',
+    }
+
+    try {
+      const res = await fetch(`${WORKER_URL}/api/request`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      })
+      const result = await res.json()
+      if (result.success) {
+        setStatus('sent')
+      } else {
+        setStatus('error')
+        setErrorMsg(result.error || 'Something went wrong. Please try again.')
+      }
+    } catch {
+      setStatus('error')
+      setErrorMsg('Network error. Please check your connection and try again.')
+    }
   }
 
   if (status === 'sent') {
@@ -28,6 +64,11 @@ export default function RequestForm() {
 
   return (
     <form onSubmit={handleSubmit} className="lg:col-span-3">
+      {status === 'error' && (
+        <div className="mb-6 rounded-md bg-red-500/10 p-4 text-sm text-red-400 ring-1 ring-red-500/20">
+          {errorMsg}
+        </div>
+      )}
       <div className="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
         <div>
           <label htmlFor="req-first-name" className="block text-sm/6 font-semibold text-white">
