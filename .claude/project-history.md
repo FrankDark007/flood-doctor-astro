@@ -94,3 +94,68 @@ Every component uses a consistent pattern:
 - Schema: Centralized helpers in utils/schema.ts (DRY)
 - Multi-city build: Sequential not parallel (memory safety)
 - Hreflang: All pages get all 13 city alternates
+
+## 2026-02-26 — Session 5: Wrangler + Cloudflare Auth Setup
+
+### Work Completed
+- Updated Wrangler 4.67.0 → 4.69.0 (global npm install)
+- Obtained Cloudflare Workers-scoped API token for BlueMedia Account
+- Verified token works with `wrangler whoami` (BlueMedia Account, a6e32c7b5d77c4d75e82bba2d4238356)
+- Saved token to ~/.claude/credentials.local as CLOUDFLARE_API_TOKEN
+- Renamed old DNS-only token to CLOUDFLARE_API_TOKEN_DNS to avoid conflicts
+
+### Key Decisions
+- Workers token is the default CLOUDFLARE_API_TOKEN (wrangler auto-reads it)
+- DNS-only token preserved as CLOUDFLARE_API_TOKEN_DNS for future use
+
+## 2026-02-26 — Session 6: Phase 8 — Form Worker Deployed + E2E Verified
+
+### Work Completed
+- Created Cloudflare Worker project at `workers/form-handler/`
+- Worker handles `POST /api/contact` and `POST /api/request` with CORS for all 13 city subdomains
+- HTML email templates: contact messages + service requests with emergency 🚨 flagging
+- Updated ContactForm.tsx and RequestForm.tsx with real `fetch()` calls, `city` prop, error state UI
+- Updated contact.astro and request.astro to pass `city={cityData.slug}`
+- Deployed Worker to `https://flood-doctor-forms.bluemedia-account.workers.dev`
+- Set `RESEND_API_KEY` as Worker secret
+- Fixed sender domain: `noreply@mail.flood.doctor` (verified in Resend, `flood.doctor` root not verified)
+- E2E tested both endpoints — emails delivered to info@flood.doctor
+
+### Bugs Fixed
+- **DNS-only token couldn't deploy Workers**: Original CLOUDFLARE_API_TOKEN was scoped to DNS only. Created new Workers-scoped token.
+- **Wrangler /memberships auth error**: Even with correct token, wrangler couldn't list memberships. Fix: Added `account_id` to wrangler.toml to skip membership lookup.
+- **Resend 403 on flood.doctor**: Root domain not verified in Resend. Fix: Changed sender to `noreply@mail.flood.doctor` (verified subdomain).
+
+### Key Decisions
+- Worker URL: `flood-doctor-forms.bluemedia-account.workers.dev` (can add custom domain `forms.flood.doctor` later)
+- Resend sender: `mail.flood.doctor` subdomain (root domain not verified)
+- Account ID hardcoded in wrangler.toml to avoid auth issues
+- Worker .env with Cloudflare API token is gitignored + chmod 600
+
+### 3 Commits on main
+1. ba32673 — Phase 8: Cloudflare Worker for form submissions via Resend
+2. 5633597 — Update Worker URL to deployed endpoint and add account_id
+3. 093f580 — Fix Resend sender to use verified mail.flood.doctor subdomain
+
+## 2026-02-26 — Session 9+: Phase 9 — Site Restructure (commit 630e49c)
+
+### Work Completed
+- Created `src/data/services/service-tree.ts` — hierarchical ServiceNode tree (hub/category/service)
+- Created 26 new service data files (27 total with existing water-damage-restoration):
+  - Residential (14): water-damage-restoration, flood-cleanup, storm-damage-restoration, burst-pipe-cleanup, structural-drying, sewage-cleanup, mold-remediation, fire-smoke-cleanup, odor-removal, contents-cleaning-packout, basement-flooding, crawl-space-drying, hardwood-floor-drying, roof-leak-water-damage
+  - Commercial (13): commercial-water-damage, commercial-flood-cleanup, large-loss-restoration, commercial-sewage-cleanup, commercial-mold-remediation, commercial-fire-smoke-cleanup, healthcare-facilities, hospitality-multifamily, municipal-education, industrial-facilities, moisture-mapping-consulting, indoor-air-quality, environmental-testing
+- Rewrote `src/data/services/index.ts` to import all 27 services + re-export tree utilities
+- Created nested service routes with catch-all (`[...slug].astro`) for residential and commercial
+- Created hub pages: `/services/`, `/services/residential/`, `/services/commercial/`
+- Created resources section: hub, FAQ, homeowner guides, insurance guide, emergency checklists
+- Added 301 redirects: `/faq` → `/resources/faq`, `/guides` → `/resources/homeowner-guides`
+- Updated navigation.ts with new menu structure
+- Excluded redirect pages from sitemap via filter in astro.config.mjs
+- Deleted old flat `services/[slug].astro` route
+- 65 pages building in 1.56s, 45 files changed (+4978/-997)
+
+### Key Decisions
+- Catch-all routes handle both category pages (1 segment) and service detail pages (2 segments)
+- `var` declarations in Astro frontmatter for conditional page type variables
+- Redirects use `Astro.redirect()` which generates meta-refresh HTML in SSG mode
+- Sitemap filter excludes redirect-only pages to avoid duplicate URLs
