@@ -1,0 +1,187 @@
+import type { CityServiceContent } from '../types'
+
+export const content: CityServiceContent = {
+  meta: {
+    title: 'Mold Remediation in Great Falls, VA | Flood Doctor',
+    description: 'Great Falls mold remediation experts. Discrete service for wine cellars, art environments & estate homes. Protecting high-value properties. Call (703) 656-0112.',
+  },
+  h1: 'Mold Remediation Services in Great Falls, Virginia',
+  introSection: {
+    headline: 'Great Falls Estate Mold Remediation Specialists',
+    paragraphs: [
+      `Mold in a Great Falls estate poses risks that suburban homeowners never face. Your wine cellar's controlled humidity can become a mold incubator if moisture intrusion occurs. Your art collection faces irreversible damage from mold that establishes before you notice it. Guest wings used seasonally can develop extensive mold problems between visits. When mold threatens your Great Falls property, you need remediation experts who understand what's at stake.
+
+Flood Doctor has remediated mold throughout Great Falls for nearly two decades. We've treated wine cellars in Forestville without disrupting collections, addressed mold in art environments with museum-quality care, and cleared contamination from guest wings in estates along Georgetown Pike. Our IICRC-certified mold remediators understand that Great Falls mold work requires protecting irreplaceable assets—not just removing mold.`,
+      `Great Falls' unique property characteristics create mold conditions that other areas don't experience. Finished lower levels with climate control can trap moisture that feeds mold growth invisibly. Equestrian facilities with different ventilation needs develop mold in different patterns than homes. Properties near the Potomac face humidity levels that promote growth throughout the year.
+
+Our approach combines thorough remediation with asset protection. We don't just kill mold—we protect your wine, your art, your custom finishes, and your privacy throughout the process.`,
+    ],
+    localContext: `Great Falls estates feature environments that require specialized mold remediation: climate-controlled wine cellars, art galleries, guest wings, and equestrian facilities. Standard residential mold approaches don't address the asset protection and discretion Great Falls properties require.`,
+  },
+  processSteps: [
+    {
+      title: 'Discrete Comprehensive Assessment',
+      description: 'We begin with thorough inspection using moisture meters, thermal imaging, and air quality testing. In Great Falls estates, mold often hides in finished lower levels, behind wine cellar walls, or in guest wings that see seasonal use. Our assessment identifies all affected areas before work begins.',
+      timeframe: 'Day 1',
+    },
+    {
+      title: 'High-Value Asset Protection',
+      description: `Before any remediation, we protect threatened assets. Wine collections receive climate-controlled barriers or temporary relocation. Art is covered or moved. Custom millwork and finishes are protected from remediation activities. In Great Falls, asset protection isn't secondary—it's essential.`,
+      timeframe: 'Day 1-2',
+    },
+    {
+      title: 'Containment & Air Filtration',
+      description: 'We establish negative pressure containment with HEPA filtration to prevent mold spore spread throughout your estate. For large properties, this may mean multiple containment zones—keeping unaffected areas of your home completely protected from remediation activities.',
+      timeframe: 'Day 2',
+    },
+    {
+      title: 'Mold Removal & Material Remediation',
+      description: 'Our certified technicians remove mold-contaminated materials following IICRC protocols. For Great Falls estates with custom finishes, we work to preserve what can be saved—treating rather than replacing when possible, and coordinating with specialty contractors for irreplaceable elements.',
+      timeframe: 'Days 2-5',
+    },
+    {
+      title: 'HEPA Vacuuming & Antimicrobial Treatment',
+      description: 'All surfaces receive HEPA vacuuming to remove settled spores, followed by antimicrobial treatment that prevents regrowth. In climate-controlled spaces like wine cellars, we use products compatible with long-term storage environments.',
+      timeframe: 'Days 4-6',
+    },
+    {
+      title: 'Verification Testing & Clearance',
+      description: 'Before declaring the project complete, we conduct clearance testing—air sampling and surface testing that confirms mold levels have returned to normal. For high-value environments, we provide third-party clearance testing documentation.',
+      timeframe: 'Day 6-7',
+    },
+  ],
+  localChallenges: [
+    {
+      title: 'Wine Cellar Mold',
+      description: `Wine cellars' controlled humidity creates ideal conditions for mold if moisture intrusion occurs. Standard remediation approaches—high heat, aggressive ventilation—can damage wine collections while addressing the mold.`,
+      solution: 'We use precision remediation methods that maintain appropriate cellar conditions throughout treatment. For significant collections, we coordinate temporary climate-controlled storage during remediation. Your investment remains protected.',
+    },
+    {
+      title: 'Art Environment Contamination',
+      description: 'Mold near art collections threatens irreversible damage. Canvas, paper, textiles, and mixed media all respond differently to mold contamination—and many pieces cannot be restored once affected.',
+      solution: 'Art protection begins immediately. We establish protective barriers, coordinate with professional art handlers for relocation when necessary, and maintain controlled conditions throughout remediation. Museum-quality care for museum-quality collections.',
+    },
+    {
+      title: 'Seasonal Guest Wing Mold',
+      description: 'Guest wings used only periodically can develop extensive mold between visits. Reduced ventilation, intermittent climate control, and delayed discovery allow mold to establish throughout these spaces.',
+      solution: 'We remediate the immediate contamination and recommend ongoing monitoring solutions. For seasonally-used spaces, environmental controls can prevent recurrence during unoccupied periods.',
+    },
+    {
+      title: 'Equestrian Facility Mold',
+      description: 'Barn mold, tack room contamination, and indoor arena issues require different approaches than residential spaces. Agricultural structures have different materials, ventilation, and safety requirements.',
+      solution: 'Our crews include agricultural remediation experience. We use products safe for animal environments, maintain appropriate ventilation, and address the specific materials found in equestrian facilities.',
+    },
+    {
+      title: 'Potomac Corridor Humidity',
+      description: 'Properties near the Potomac face elevated humidity that promotes mold growth year-round. Finished lower levels, crawl spaces, and attached structures all face increased mold risk in this environment.',
+      solution: 'We address immediate contamination and recommend humidity control solutions for prevention. Proper dehumidification in finished basements and crawl space encapsulation can dramatically reduce future mold risk.',
+    },
+  ],
+  equipmentSection: {
+    headline: 'Professional Mold Remediation Equipment for Great Falls Estates',
+    equipment: [
+      {
+        name: 'HEPA Air Scrubber',
+        purpose: 'Captures airborne mold spores down to 0.3 microns, preventing cross-contamination throughout your estate during remediation. We deploy multiple units to create negative pressure containment that keeps unaffected areas of your home completely protected.',
+        brand: 'Prochem',
+      },
+      {
+        name: 'Negative Air Machine',
+        purpose: 'Creates controlled air pressure differentials that prevent mold spores from migrating outside containment zones. For Great Falls estates with extensive HVAC systems, negative air prevents spore distribution through ductwork during remediation work.',
+        brand: 'Dri-Eaz',
+      },
+      {
+        name: 'Thermal Imaging Camera',
+        purpose: 'Identifies moisture sources behind finished walls and under flooring that feed mold growth. In Great Falls estates with custom stone, plaster, and millwork, non-invasive detection locates the moisture driving mold without destructive investigation of irreplaceable finishes.',
+        brand: 'FLIR',
+      },
+      {
+        name: 'Moisture Meters (Pin and Non-Invasive)',
+        purpose: 'Quantifies moisture levels in structural materials to identify the source feeding mold growth and verify that remediation has eliminated the underlying moisture problem. Accurate readings prevent recurrence.',
+        brand: 'Delmhorst',
+      },
+      {
+        name: 'Hydroxyl Generator',
+        purpose: 'Eliminates mold-related odors and purifies air without the ozone damage that affects artwork, wine corks, and sensitive materials. Safe for occupied spaces and fine art environments—critical for Great Falls properties with valuable collections.',
+        brand: 'Vaportek',
+      },
+      {
+        name: 'Desiccant Dehumidifier',
+        purpose: 'Provides precision humidity control during and after remediation. For wine cellars and art storage spaces, desiccant units maintain the exact humidity levels your collection requires while eliminating the moisture conditions that allowed mold to establish.',
+      },
+      {
+        name: 'HEPA Vacuum System',
+        purpose: 'Removes settled mold spores from surfaces without releasing them back into the air. Industrial HEPA vacuuming of all surfaces in the remediation zone is an essential step before antimicrobial treatment and clearance testing.',
+      },
+      {
+        name: 'Air Quality Sampling Equipment',
+        purpose: 'Collects air samples before and after remediation for laboratory analysis. Clearance testing provides documented proof that mold spore levels have returned to normal—required for high-value insurance claims and real estate transactions.',
+      },
+    ],
+    localNote: `Great Falls mold remediation requires equipment that standard residential companies don't carry. Hydroxyl generators safe for art environments, desiccant dehumidifiers for wine cellars, and multi-zone containment capacity for 15,000+ square foot estates—our inventory reflects the specialized needs of these properties.`,
+  },
+  pricingSection: {
+    headline: 'Mold Remediation Costs for Great Falls Properties',
+    intro: 'Mold remediation pricing depends on the scope of contamination and the complexity of the affected environment. We provide thorough assessments with written estimates before any work begins. Our pricing accounts for the specialized protocols that Great Falls estates require—asset protection, precision climate control, and clearance testing that satisfies both insurance carriers and future real estate transactions.',
+    factors: [
+      'Total scope of mold contamination measured by square footage and number of affected rooms or structures',
+      'Asset protection complexity including wine cellar climate maintenance, art handling, and specialty finish preservation',
+      'Materials affected—custom millwork, imported stone, and specialty finishes may require preservation-grade remediation rather than removal',
+      'Contamination source—identifying and addressing the underlying moisture problem is essential to preventing recurrence',
+      'Number and size of containment zones needed to protect unaffected areas of your estate during remediation',
+      'Air quality testing requirements including pre-remediation sampling and post-remediation clearance verification',
+      'Accessibility of affected areas including finished lower levels, guest wings, crawl spaces, and equestrian facilities',
+    ],
+    cta: `Call (703) 656-0112 for a discrete mold assessment. We'll evaluate the contamination scope, identify the moisture source, and provide a written estimate that includes all asset protection and clearance testing. Insurance coordination included.`,
+  },
+  serviceAreaSection: {
+    neighborhoods: [
+      'Great Falls Village',
+      'Forestville',
+      'Hickory Farms',
+      'Seneca Estates',
+      'Riverbend',
+      'Beach Mill Estates',
+      'Springvale',
+      'Utterback Store Road corridor',
+      'Walker Road estates',
+      'Leigh Mill Road',
+      'Riva Ridge',
+      'Timberlake',
+      'The Preserve',
+      'Colvin Run',
+    ],
+    responseTime: 'We schedule mold assessments within 24 hours for all Great Falls properties. For active mold emergencies threatening wine cellars, art collections, or occupant health, we provide same-day response. Discrete service is standard—unmarked vehicles and confidential scheduling.',
+  },
+  faqs: [
+    {
+      question: 'How do you protect my wine collection during mold remediation?',
+      answer: 'Wine cellar remediation is specialized work for Great Falls properties. We establish climate-controlled barriers around your collection when possible, use remediation products compatible with wine storage, and maintain appropriate temperature and humidity throughout treatment. For extensive contamination, we coordinate with specialty wine storage for temporary relocation.',
+    },
+    {
+      question: 'Can mold damage my art collection?',
+      answer: `Yes—mold can cause irreversible damage to paintings, works on paper, textiles, and mixed media. That's why art protection is our first priority after safety assessment. We establish protective barriers, coordinate professional relocation when necessary, and ensure controlled conditions throughout remediation.`,
+    },
+    {
+      question: 'I found mold in a guest wing we rarely use—how bad could it be?',
+      answer: `Mold in seasonally-used spaces often has time to establish extensively before discovery. We'll conduct thorough assessment to determine the full scope. Don't delay—mold continues growing and spreading until addressed. Early intervention limits both remediation scope and cost.`,
+    },
+    {
+      question: 'Do you provide discrete service for mold remediation?',
+      answer: `Yes. Like all our Great Falls work, mold remediation is discrete by default. We use unmarked vehicles, maintain confidentiality, and coordinate timing around your preferences. Your neighbors don't need to know we're addressing a mold issue.`,
+    },
+    {
+      question: 'Will you test before and after remediation?',
+      answer: 'Yes. Pre-remediation testing establishes contamination scope. Clearance testing after remediation confirms mold levels have returned to normal. For high-value environments or sensitive situations, we can arrange third-party testing for additional documentation.',
+    },
+    {
+      question: 'What about the mold in my barn?',
+      answer: `We remediate mold in equestrian facilities using products safe for animal environments. Our crews understand barn ventilation requirements, tack preservation needs, and the specific materials found in agricultural structures. We coordinate timing around your horses' needs and schedules.`,
+    },
+  ],
+  relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
+  finalCTA: {
+    headline: 'Mold in Your Great Falls Estate?',
+    paragraph: `Mold threatens your wine cellar, your art, and your property value. Our discrete teams provide specialized remediation that protects your high-value assets throughout the process. Don't wait—mold spreads daily.`,
+  },
+}
