@@ -1,9 +1,9 @@
 # Session State — Flood Doctor Astro Migration
 
 ## Current Task
-Phase 9 complete — site restructure with nested services + resources section
+Phase 10A complete — City-specific service content overlay system
 
-## Status: Phase 9 COMPLETE — Ready for Deploy
+## Status: Phase 10A COMPLETE
 
 ### Completed
 - **Phase 1** ✅ Astro project scaffolded (commit b766c0d)
@@ -16,28 +16,39 @@ Phase 9 complete — site restructure with nested services + resources section
 - **Phase 6-7** ✅ SEO infrastructure + multi-city build pipeline (commit 6f41fc2)
 - **Phase 8** ✅ Cloudflare Worker deployed + E2E tested (commits ba32673, 5633597, 093f580)
 - **Phase 9** ✅ Site restructure — nested services + resources (commit 630e49c)
+- **Phase 10A** ✅ City-specific content overlay — 104 files ported, templates updated (commit ab447d5)
 
-### Phase 9 Deliverables
-- **27 service data files** — 14 residential + 13 commercial, organized into categories
-- **Service tree** — `service-tree.ts` with hub/category/service hierarchy
-- **Nested routes** — `/services/residential/[...slug]` and `/services/commercial/[...slug]` catch-all pages
-- **Hub pages** — `/services/`, `/services/residential/`, `/services/commercial/`, `/resources/`
-- **Resources section** — FAQ, homeowner guides, insurance guide, emergency checklists
-- **301 redirects** — `/faq` → `/resources/faq`, `/guides` → `/resources/homeowner-guides`
-- **65 pages** building successfully in 1.56s
-- **Sitemap** — Redirect pages excluded, only canonical URLs included
+### Phase 10A Deliverables
+- **CityServiceContent type** — `src/data/city-content/types.ts`
+- **Content matrix** — 17 cities (13 ported from fd-google-redesign + 4 new: centreville, chantilly, leesburg, sterling)
+- **104 city content files** — 13 cities × 8 services, ported from fd-google-redesign
+- **Blog cross-link mapping** — service slug → related blog post slugs
+- **getCityServiceContent()** — Vite import.meta.glob-based lookup with graceful null fallback
+- **Template modifications** — Both residential + commercial [...slug].astro consume overlay
+- **9 new UI blocks** — intro, process timeline, challenges, equipment, pricing, service area, blog links, FAQs, final CTA
+- **Port script** — `scripts/port-city-content.ts` for reproducible migration
+
+### Phase 10 Coverage
+| | 13 existing cities | 4 missing cities | Total |
+|---|---|---|---|
+| 8 core services | ✅ 104 files | ❌ 32 needed | 136 |
+| 19 additional services | ❌ 247 needed | ❌ 76 needed | 323 |
+| **Total** | **104 done + 247 todo** | **108 todo** | **459** |
 
 ### Next Steps (Priority Order)
-1. **Deploy all 17 cities** — `npm run deploy:all` to push Phase 9 changes
-2. **Verify live** — Check service pages render correctly across city subdomains
-3. **Visual QA** — Review hub/category/service page designs in browser
+1. **Phase 10B** — Generate 247 city content files for 19 remaining services across 13 existing cities
+2. **Phase 10C** — Generate 108 files for 4 missing cities (centreville, chantilly, leesburg, sterling)
+3. **Deploy** — Push Phase 10A changes to all 17 cities
+4. **Visual QA** — Review city-specific sections in browser
 
 ## Build Status
-- **65 pages** building successfully, 1.56s build time
+- **65 pages** building successfully, 1.71s build time
 - Clean build, no errors
-- Sitemap verified with all service + resource URLs
+- City content overlay verified: Ashburn shows Broadlands/Brambleton, Arlington shows Rosslyn/Clarendon
 
 ## Architecture Decisions
+- **City content overlay**: Layer system — generic ServiceData (fallback) + CityServiceContent (overlay)
+- **Content loading**: `import.meta.glob('./*/*.ts', { eager: true })` for build-time resolution
 - **Dark/light consolidation**: Tailwind `dark:` variant with `[data-theme="dark"]` selector
 - **Theme**: Cookie-based, 3-state (dark/light/system), inline script prevents flash
 - **React islands**: MobileMenu, ThemeToggle, FAQAccordion, ContactForm, RequestForm, ReviewsList, BlogBrowser
@@ -50,11 +61,13 @@ Phase 9 complete — site restructure with nested services + resources section
 - **Multi-city build**: `npm run build:all` → `scripts/build-all.mjs` → dist-all/{city}/
 
 ## Key Files
+- `src/data/city-content/types.ts` — CityServiceContent interface
+- `src/data/city-content/index.ts` — Barrel exports + getCityServiceContent()
+- `src/data/city-content/matrix.ts` — 17-city differentiation matrix
+- `src/data/city-content/blog-mapping.ts` — Service→blog cross-links
+- `src/data/city-content/{city}/*.ts` — 104 city-specific service content files
 - `src/data/services/service-tree.ts` — Hierarchical service navigation tree
 - `src/data/services/index.ts` — All 27 service imports + exports
-- `src/pages/services/residential/[...slug].astro` — Residential catch-all route
-- `src/pages/services/commercial/[...slug].astro` — Commercial catch-all route
-- `src/pages/resources/index.astro` — Resources hub page
-- `workers/form-handler/src/index.ts` — Form submission Worker
-- `src/utils/schema.ts` — JSON-LD structured data builders
-- `scripts/build-all.mjs` — Multi-city build pipeline
+- `src/pages/services/residential/[...slug].astro` — Residential catch-all (with city overlay)
+- `src/pages/services/commercial/[...slug].astro` — Commercial catch-all (with city overlay)
+- `scripts/port-city-content.ts` — Migration script from fd-google-redesign
