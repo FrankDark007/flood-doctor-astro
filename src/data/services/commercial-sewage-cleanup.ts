@@ -3,11 +3,11 @@ import type { ServiceData } from './types'
 const commercialSewageCleanup: ServiceData = {
   slug: 'commercial-sewage-cleanup',
   name: 'Commercial Sewage Cleanup',
-  tagline: 'OSHA-compliant industrial sewage remediation for commercial facilities.',
+  tagline: 'OSHA-compliant sewage remediation for commercial and institutional facilities.',
   description:
-    'Sewage contamination in a commercial environment demands immediate, regulated response. Our hazmat-certified crews handle Category 3 black water remediation with full OSHA compliance, protecting your employees, tenants, and business from biological hazards.',
+    'Sewage contamination in a commercial facility creates health hazards for employees and customers, regulatory exposure, and potential liability. Our commercial sewage team provides rapid, compliant remediation that protects your people and your business.',
   heroImageUrl:
-    'https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
+    'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
   logos: [
     { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
     { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
@@ -17,120 +17,46 @@ const commercialSewageCleanup: ServiceData = {
     { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
   ],
   features: [
-    {
-      name: 'Hazmat-Certified Response',
-      description:
-        'OSHA 40-hour HAZWOPER-certified technicians handle all sewage remediation with proper PPE, containment, and biohazard disposal protocols.',
-      icon: 'shield-check',
-    },
-    {
-      name: 'Biological Decontamination',
-      description:
-        'Hospital-grade antimicrobial treatments and ATP testing verify complete elimination of bacteria, viruses, and pathogens from all affected surfaces.',
-      icon: 'beaker',
-    },
-    {
-      name: 'Emergency Containment',
-      description:
-        'Immediate isolation of contaminated areas with physical barriers and negative air pressure prevents cross-contamination to clean zones of your facility.',
-      icon: 'bolt',
-    },
-    {
-      name: 'Regulated Waste Disposal',
-      description:
-        'Licensed transport and disposal of biohazardous waste materials in full compliance with EPA, state, and local environmental regulations.',
-      icon: 'lock-closed',
-    },
-    {
-      name: 'Air Quality Restoration',
-      description:
-        'HEPA-filtered air scrubbers and hydroxyl generators eliminate airborne pathogens and odors, restoring safe breathing conditions throughout your facility.',
-      icon: 'cloud-arrow-up',
-    },
-    {
-      name: 'Post-Remediation Verification',
-      description:
-        'Independent third-party testing confirms contaminant levels are below established thresholds before your facility is cleared for re-occupancy.',
-      icon: 'check',
-    },
+    { name: 'OSHA-Compliant Protocols', description: 'All work follows OSHA bloodborne pathogen standards and HAZWOPER requirements, with full documentation for regulatory compliance.', icon: 'shield-check' },
+    { name: 'Employee Safety Coordination', description: 'We coordinate employee evacuation, restricted access zones, and re-occupancy clearance with your HR and safety teams.', icon: 'lock-closed' },
+    { name: 'Industrial Extraction', description: 'Commercial-grade pumps and vacuum systems handle large-volume sewage extraction from expansive commercial spaces.', icon: 'bolt' },
+    { name: 'Biomedical Waste Disposal', description: 'All contaminated materials are manifested, transported, and disposed of through licensed biomedical waste contractors per EPA regulations.', icon: 'wrench-screwdriver' },
+    { name: 'Clearance Testing', description: 'ATP surface testing and air quality sampling verify decontamination meets OSHA workplace exposure limits before re-occupancy.', icon: 'beaker' },
+    { name: 'Liability Documentation', description: 'Complete chain-of-custody documentation, clearance certificates, and compliance records protect you from future liability claims.', icon: 'check' },
   ],
   contentParagraphs: [
-    'Commercial sewage contamination is one of the most hazardous events a facility can experience. Whether caused by a municipal sewer backup, septic system failure, or industrial waste overflow, Category 3 black water contains dangerous pathogens including E. coli, hepatitis, and other biological agents that pose serious health risks. OSHA regulations require specialized training, equipment, and protocols for any personnel working in sewage-contaminated environments — and failure to comply exposes your business to significant liability.',
-    'Our commercial sewage cleanup teams are HAZWOPER-certified and equipped with Level B personal protective equipment, self-contained breathing apparatus for confined spaces, and medical monitoring protocols. Upon arrival, we establish hot, warm, and cold zones around the contamination area, erect physical containment barriers, and deploy negative air machines to prevent cross-contamination. No unauthorized personnel are permitted in the work zone until remediation is verified complete.',
-    'The remediation process involves complete removal of all porous materials that contacted sewage — including carpet, pad, drywall, insulation, and ceiling tiles. Hard surfaces are cleaned, sanitized, and treated with EPA-registered antimicrobial agents. We use ATP bioluminescence testing throughout the process to verify pathogen elimination, and all waste materials are manifested and transported to licensed disposal facilities in accordance with environmental regulations.',
-    'Beyond the physical remediation, we understand the regulatory and liability landscape surrounding commercial sewage events. Our documentation package includes chain-of-custody waste manifests, air monitoring results, surface sampling data, and third-party clearance testing reports. This comprehensive record protects your organization from future liability claims and satisfies the requirements of insurers, regulators, and occupational health authorities.',
+    'Sewage contamination in commercial facilities creates a convergence of health risks, regulatory requirements, and business disruption that demands specialized expertise. OSHA workplace standards, EPA waste disposal regulations, and local health department requirements all apply — and non-compliance can result in fines, lawsuits, and reputational damage far exceeding the cost of proper remediation.',
+    'Our commercial sewage cleanup protocol begins with immediate area isolation and employee notification. We establish restricted access zones, deploy containment barriers, and set up negative air pressure to prevent cross-contamination. All technicians wear Level B or C PPE depending on contamination levels, and our safety officer monitors conditions throughout the project.',
+    'Extraction and demolition proceed under strict protocols. Contaminated water is extracted using enclosed vacuum systems that prevent aerosolization of pathogens. All porous materials that contacted sewage are removed, double-bagged in biohazard containers, and transported to licensed disposal facilities with proper manifesting and chain-of-custody documentation.',
+    'Before re-occupancy, we perform comprehensive clearance testing. ATP swab tests verify surface decontamination levels, air sampling confirms safe airborne pathogen levels, and all results are documented in a clearance report. This documentation protects your organization from worker compensation claims, tenant disputes, and regulatory enforcement actions.',
   ],
   stats: [
-    { label: 'HAZWOPER-Certified Technicians', value: '35+' },
-    { label: 'Commercial Sewage Projects', value: '300+' },
-    { label: 'Post-Remediation Pass Rate', value: '100%' },
-    { label: 'Average Clearance Time', value: '48 hrs' },
+    { label: 'Commercial Sewage Projects', value: '350+' },
+    { label: 'OSHA Compliance Rate', value: '100%' },
+    { label: 'Clearance Test Pass Rate', value: '100%' },
+    { label: 'Emergency Response', value: '<90 min' },
   ],
   testimonial: {
-    quote:
-      'A sewer main backup flooded our ground-floor medical office with raw sewage. Flood Doctor had the area contained within an hour and handled everything — decontamination, waste disposal, even coordinating with the health department. We were back in operation in three days.',
-    author: 'Dr. Amara Okafor',
-    role: 'Practice Administrator, Valley Medical Associates',
-    imageUrl:
-      'https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote: 'A main sewer line backed up into our restaurant during a Friday dinner rush. Flood Doctor had a hazmat crew there within the hour, handled the health department coordination, and had us open for business again by Tuesday. Their compliance documentation satisfied both the health inspector and our insurance company.',
+    author: 'Anthony Rossi',
+    role: 'Owner, Rossi Family Restaurant Group',
+    imageUrl: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
   },
   relatedFeatures: [
-    {
-      name: 'Commercial Flood Cleanup',
-      description: 'Rapid extraction and decontamination for flood-affected commercial spaces, including contaminated floodwater.',
-    },
-    {
-      name: 'Environmental Testing',
-      description: 'Pre- and post-remediation sampling for biological contaminants, mold spores, and hazardous materials.',
-    },
-    {
-      name: 'Indoor Air Quality Testing',
-      description: 'Comprehensive air sampling to verify safe breathing conditions after sewage contamination events.',
-    },
-    {
-      name: 'Commercial Mold Remediation',
-      description: 'Sewage events often trigger rapid mold growth. Our teams address both contamination and mold simultaneously.',
-    },
-    {
-      name: 'Healthcare Facility Restoration',
-      description: 'HIPAA-compliant sewage remediation protocols specifically designed for medical and healthcare environments.',
-    },
-    {
-      name: 'Odor Elimination',
-      description: 'Advanced hydroxyl and ozone treatments that permanently eliminate sewage odors rather than masking them.',
-    },
+    { name: 'Commercial Water Damage', description: 'Comprehensive commercial water damage restoration including sewage-related water intrusion.' },
+    { name: 'Commercial Mold Remediation', description: 'Mold remediation following sewage events in commercial environments.' },
+    { name: 'Environmental Testing', description: 'Pre and post-remediation environmental testing for regulatory compliance.' },
+    { name: 'Odor Removal', description: 'Commercial-scale deodorization to eliminate sewage odors from large facilities.' },
+    { name: 'OSHA Compliance', description: 'Full regulatory compliance documentation for workplace sewage contamination events.' },
+    { name: 'Health Department Coordination', description: 'Liaison with local health departments for food service and healthcare facility sewage events.' },
   ],
   faqs: [
-    {
-      question: 'Is commercial sewage cleanup regulated by OSHA?',
-      answer:
-        'Yes. OSHA requires that any workers exposed to sewage contamination have 40-hour HAZWOPER training, appropriate PPE, and medical monitoring. Our technicians maintain current HAZWOPER certification and follow a written health and safety plan for every sewage remediation project.',
-    },
-    {
-      question: 'How do you verify that sewage contamination has been fully eliminated?',
-      answer:
-        'We use ATP bioluminescence testing on remediated surfaces to measure biological activity in real-time during the cleanup process. After remediation is complete, we engage independent third-party laboratories to collect surface and air samples that confirm contaminant levels are below established health thresholds.',
-    },
-    {
-      question: 'What materials need to be removed after sewage contamination?',
-      answer:
-        'All porous materials that contacted sewage must be removed and disposed of as biohazardous waste. This includes carpet, carpet pad, drywall (typically cut 24 inches above the visible water line), insulation, ceiling tiles, and any absorbent contents. Non-porous hard surfaces can be cleaned and disinfected in place.',
-    },
-    {
-      question: 'How do you prevent sewage contamination from spreading to other areas?',
-      answer:
-        'We immediately establish containment barriers using 6-mil polyethylene sheeting and create negative air pressure in the contaminated zone using HEPA-filtered air machines. This prevents airborne pathogens and odors from migrating to unaffected areas. All access points are sealed and marked with biohazard signage.',
-    },
-    {
-      question: 'Can employees remain in unaffected areas of the building during cleanup?',
-      answer:
-        'In most cases, yes, provided proper containment is established and maintained. However, if sewage has entered the HVAC system or if air monitoring detects elevated pathogen levels in adjacent areas, we may recommend temporary evacuation of additional zones until air quality is restored.',
-    },
-    {
-      question: 'How is sewage waste disposed of?',
-      answer:
-        'All sewage-contaminated materials are double-bagged in biohazard-rated containers, manifested as regulated waste, and transported by licensed haulers to approved disposal facilities. We provide complete chain-of-custody documentation for your records and regulatory compliance.',
-    },
+    { question: 'What are the OSHA requirements for commercial sewage cleanup?', answer: 'OSHA requires employers to protect workers from bloodborne pathogens and biological hazards. This includes proper PPE, HAZWOPER training for cleanup workers, exposure control plans, and post-incident medical monitoring options. We handle all of this and provide compliance documentation.' },
+    { question: 'Do we need to close our business during cleanup?', answer: 'The affected area must be closed until clearance testing confirms safe conditions. However, we establish containment that often allows unaffected areas to remain operational. For restaurants and food service, the health department may require a full closure and re-inspection before reopening.' },
+    { question: 'Who notifies the health department?', answer: 'For food service, healthcare, and childcare facilities, health department notification is typically required. We can coordinate this notification and work with inspectors to ensure all requirements are met for reopening.' },
+    { question: 'What documentation do we receive?', answer: 'You receive a complete package including the scope of work, waste manifests, clearance test results, compliance certifications, and a detailed project summary. This documentation protects you from liability claims and satisfies insurance, regulatory, and tenant requirements.' },
+    { question: 'Can employees file workers comp for sewage exposure?', answer: 'Employees exposed to sewage before containment and cleanup may be eligible for workers compensation medical monitoring. Our documentation helps establish the timeline and extent of exposure. Prompt, professional cleanup reduces both exposure risk and potential claims.' },
+    { question: 'How do you dispose of contaminated materials?', answer: 'All contaminated materials are classified as regulated medical waste and disposed of through licensed biomedical waste contractors. Materials are double-bagged in biohazard containers, manifested with chain-of-custody documentation, and transported to licensed treatment and disposal facilities.' },
   ],
 }
 
