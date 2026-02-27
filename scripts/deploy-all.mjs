@@ -21,12 +21,16 @@ const cities = [
   'centreville',
   'chantilly',
   'fairfax',
+  'fallschurch',
+  'greatfalls',
   'herndon',
   'leesburg',
+  'lorton',
   'mclean',
   'reston',
   'springfield',
   'sterling',
+  'tysons',
   'vienna',
 ]
 

@@ -12,12 +12,16 @@ Sitemap: https://arlington.flood.doctor/sitemap-index.xml
 Sitemap: https://centreville.flood.doctor/sitemap-index.xml
 Sitemap: https://chantilly.flood.doctor/sitemap-index.xml
 Sitemap: https://fairfax.flood.doctor/sitemap-index.xml
+Sitemap: https://fallschurch.flood.doctor/sitemap-index.xml
+Sitemap: https://greatfalls.flood.doctor/sitemap-index.xml
 Sitemap: https://herndon.flood.doctor/sitemap-index.xml
 Sitemap: https://leesburg.flood.doctor/sitemap-index.xml
+Sitemap: https://lorton.flood.doctor/sitemap-index.xml
 Sitemap: https://mclean.flood.doctor/sitemap-index.xml
 Sitemap: https://reston.flood.doctor/sitemap-index.xml
 Sitemap: https://springfield.flood.doctor/sitemap-index.xml
 Sitemap: https://sterling.flood.doctor/sitemap-index.xml
+Sitemap: https://tysons.flood.doctor/sitemap-index.xml
 Sitemap: https://vienna.flood.doctor/sitemap-index.xml
 
 # Block crawling of form submission endpoints

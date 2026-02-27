@@ -6,12 +6,16 @@ import arlington from './arlington'
 import centreville from './centreville'
 import chantilly from './chantilly'
 import fairfax from './fairfax'
+import fallschurch from './fallschurch'
+import greatfalls from './greatfalls'
 import herndon from './herndon'
 import leesburg from './leesburg'
+import lorton from './lorton'
 import mclean from './mclean'
 import reston from './reston'
 import springfield from './springfield'
 import sterling from './sterling'
+import tysons from './tysons'
 import vienna from './vienna'
 
 const cities: Record<string, CityData> = {
@@ -21,12 +25,16 @@ const cities: Record<string, CityData> = {
   centreville,
   chantilly,
   fairfax,
+  fallschurch,
+  greatfalls,
   herndon,
   leesburg,
+  lorton,
   mclean,
   reston,
   springfield,
   sterling,
+  tysons,
   vienna,
 }
 
