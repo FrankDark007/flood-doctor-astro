@@ -159,3 +159,38 @@ Every component uses a consistent pattern:
 - `var` declarations in Astro frontmatter for conditional page type variables
 - Redirects use `Astro.redirect()` which generates meta-refresh HTML in SSG mode
 - Sitemap filter excludes redirect-only pages to avoid duplicate URLs
+
+## 2026-02-26 — Session 10: Phase 10A — City-Specific Content Overlay (commit ab447d5)
+
+### Work Completed
+- Created `src/data/city-content/types.ts` — CityServiceContent interface (intro, process, challenges, equipment, pricing, service area, FAQs, blog links, CTA)
+- Created `src/data/city-content/matrix.ts` — Content differentiation matrix for all 17 cities (13 ported + 4 new: centreville, chantilly, leesburg, sterling)
+- Created `src/data/city-content/blog-mapping.ts` — Service→blog cross-link mapping for all 27 services
+- Created `src/data/city-content/index.ts` — Barrel export with `getCityServiceContent()` using Vite `import.meta.glob`
+- Created `scripts/port-city-content.ts` — Migration script that reads fd-google-redesign service files and transforms to CityServiceContent format
+- Ported 104 city content files (13 cities × 8 services) from fd-google-redesign
+- Updated `src/pages/services/residential/[...slug].astro` — City content overlay with 9 conditional UI blocks
+- Updated `src/pages/services/commercial/[...slug].astro` — Same city content overlay logic
+- 111 files changed, +18,295 lines
+
+### New UI Blocks (render only when cityContent exists)
+1. City-specific intro section (headline + paragraphs + local context)
+2. Process steps timeline (numbered, with timeframe badges)
+3. Local challenges cards (title + description + solution)
+4. Equipment grid (name, brand, purpose)
+5. Pricing section (intro + factors checklist + CTA)
+6. Service area (neighborhood chips + response time)
+7. Related blog articles (card links from blog mapping)
+8. City-specific FAQs (replace generic when available)
+9. Final CTA banner (indigo background, city-specific headline)
+
+### Key Decisions
+- **Layer system**: Generic ServiceData (always present) + CityServiceContent (overlay, nullable)
+- **Graceful fallback**: `getCityServiceContent()` returns null → template renders generic sections
+- **Eager glob loading**: `import.meta.glob('./*/*.ts', { eager: true })` for zero-cost runtime lookup
+- **Port not rewrite**: 104 files faithfully transformed from fd-google-redesign, preserving all city-specific content
+- **Blog cross-links**: Mapped by service slug, not city — same blog posts relevant regardless of city
+
+### Coverage After Phase 10A
+- 104/459 service pages have unique city content (23%)
+- 355 still use generic ServiceData (77%) — addressed in Phases 10B + 10C
