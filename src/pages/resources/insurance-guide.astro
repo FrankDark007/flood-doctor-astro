@@ -1,0 +1,133 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import { cityData } from '../../data/cities'
+---
+
+<BaseLayout
+  title={`Water Damage Insurance Claims Guide | Flood Doctor ${cityData.name}`}
+  description={`Step-by-step guide to filing water damage insurance claims in ${cityData.name}. Learn what's covered, documentation tips, and how Flood Doctor helps with the process.`}
+>
+  <div class="py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-3xl">
+        <h1 class="text-4xl font-semibold tracking-tight text-white sm:text-5xl">
+          Water Damage Insurance Claims Guide
+        </h1>
+        <p class="mt-6 text-lg/8 text-gray-300">
+          Filing a water damage insurance claim can be overwhelming. This guide walks you through every step, from documenting damage to maximizing your payout.
+        </p>
+
+        <div class="prose prose-invert prose-lg mt-16 max-w-none prose-headings:text-white prose-p:text-gray-300 prose-a:text-indigo-400 prose-blockquote:border-indigo-500 prose-blockquote:text-gray-300 prose-strong:text-white prose-li:text-gray-300">
+
+          <h2>Step-by-Step Claims Process</h2>
+
+          <ol>
+            <li>
+              <strong>Stop the source of water.</strong> Shut off the main water supply if the damage is from a burst pipe or plumbing failure. If it's safe to do so, turn off electricity in affected areas.
+            </li>
+            <li>
+              <strong>Document everything immediately.</strong> Take photos and video of all damage before cleaning up. Include wide shots of each room and close-ups of damaged items, walls, floors, and belongings.
+            </li>
+            <li>
+              <strong>Contact your insurance company.</strong> Call your insurer's claims line as soon as possible. Most policies require prompt notification. Write down your claim number and adjuster's name.
+            </li>
+            <li>
+              <strong>Call a restoration company.</strong> Contact Flood Doctor at <a href={`tel:${cityData.phone}`}>{cityData.phone}</a> for emergency mitigation. Quick action reduces damage and strengthens your claim.
+            </li>
+            <li>
+              <strong>Mitigate further damage.</strong> Your policy requires you to take reasonable steps to prevent additional damage. This includes tarping, boarding up, and extracting standing water.
+            </li>
+            <li>
+              <strong>Meet with the adjuster.</strong> Walk the adjuster through all damage. Point out everything you documented. Having your restoration company present can help ensure nothing is missed.
+            </li>
+            <li>
+              <strong>Get repair estimates.</strong> Obtain detailed written estimates for all repairs. Flood Doctor provides insurance-ready documentation with line-item breakdowns.
+            </li>
+            <li>
+              <strong>Review the settlement.</strong> Compare your adjuster's report against your documentation and estimates. If the settlement seems low, you have the right to negotiate or request a re-inspection.
+            </li>
+          </ol>
+
+          <h2>What's Typically Covered</h2>
+
+          <p>Most standard homeowner's insurance policies cover <strong>sudden and accidental</strong> water damage, including:</p>
+
+          <ul>
+            <li>Burst or frozen pipes</li>
+            <li>Accidental appliance overflows (washing machine, dishwasher, water heater)</li>
+            <li>Sudden roof leaks from storm damage</li>
+            <li>Water damage from firefighting efforts</li>
+            <li>Accidental toilet or bathtub overflows</li>
+            <li>Ice dam damage</li>
+          </ul>
+
+          <h2>What's Typically NOT Covered</h2>
+
+          <p>Standard policies usually <strong>exclude</strong>:</p>
+
+          <ul>
+            <li><strong>Flood damage</strong> — Requires separate flood insurance (NFIP or private)</li>
+            <li><strong>Gradual leaks</strong> — Slow leaks that could have been repaired are considered maintenance issues</li>
+            <li><strong>Sewer backups</strong> — Requires a separate sewer backup rider</li>
+            <li><strong>Mold from neglect</strong> — Mold resulting from unaddressed moisture problems</li>
+            <li><strong>Foundation seepage</strong> — Groundwater entering through foundation cracks</li>
+            <li><strong>Intentional acts</strong> — Damage caused deliberately</li>
+          </ul>
+
+          <blockquote>
+            <p><strong>Pro tip:</strong> Even if you're unsure whether your damage is covered, file the claim. Let the insurance company make that determination. You may be surprised at what qualifies.</p>
+          </blockquote>
+
+          <h2>Documentation Tips</h2>
+
+          <p>Strong documentation is the difference between a full payout and a denied claim. Follow these tips:</p>
+
+          <ul>
+            <li><strong>Photograph before cleanup.</strong> Take photos the moment you discover damage, before moving or cleaning anything.</li>
+            <li><strong>Create a detailed inventory.</strong> List every damaged item with approximate value, age, and purchase price if possible.</li>
+            <li><strong>Save damaged materials.</strong> Don't throw away damaged items until the adjuster has inspected them or given permission.</li>
+            <li><strong>Keep all receipts.</strong> Save receipts for emergency repairs, temporary housing, meals, and any other out-of-pocket expenses.</li>
+            <li><strong>Record moisture readings.</strong> Professional moisture readings from Flood Doctor provide objective evidence of water damage extent.</li>
+            <li><strong>Get everything in writing.</strong> Follow up phone conversations with your insurance company via email to create a paper trail.</li>
+          </ul>
+
+          <h2>How Flood Doctor Helps with Insurance</h2>
+
+          <p>We work with insurance companies every day and know exactly what they need to approve your claim quickly:</p>
+
+          <ul>
+            <li><strong>Insurance-ready documentation</strong> — Detailed damage reports with photos, moisture readings, and scope of work that adjusters expect</li>
+            <li><strong>Direct billing</strong> — We bill your insurance company directly so you don't pay out of pocket (beyond your deductible)</li>
+            <li><strong>Adjuster coordination</strong> — We meet with your adjuster on-site to ensure all damage is properly documented</li>
+            <li><strong>Xactimate estimates</strong> — We use the same estimating software as insurance companies for seamless claim processing</li>
+            <li><strong>Supplement support</strong> — If additional damage is discovered during restoration, we file supplements to cover the full scope</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="pb-24 sm:pb-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl rounded-2xl bg-white/5 p-8 text-center outline-1 -outline-offset-1 outline-white/10 sm:p-12">
+        <h2 class="text-2xl font-semibold text-white">Need help with your insurance claim?</h2>
+        <p class="mt-4 text-gray-400">We handle the paperwork so you can focus on your family. Free estimates and direct insurance billing.</p>
+        <div class="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+          <a
+            href="/request"
+            class="rounded-md bg-indigo-500 px-6 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400"
+          >
+            Request Free Estimate
+          </a>
+          <a
+            href={`tel:${cityData.phone}`}
+            class="rounded-md bg-white/10 px-6 py-2.5 text-sm font-semibold text-white hover:bg-white/20"
+          >
+            Call {cityData.phone}
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro'
+import { guidesList } from '../../../data/guides'
+import { cityData } from '../../../data/cities'
+---
+
+<BaseLayout
+  title={`Homeowner Guides | Flood Doctor ${cityData.name}`}
+  description={`Free water damage guides for ${cityData.name} homeowners. Emergency response, prevention tips, and insurance claims help from Flood Doctor.`}
+>
+  <div class="py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl text-center">
+        <h1 class="text-4xl font-semibold tracking-tight text-balance text-white sm:text-5xl">Homeowner Guides</h1>
+        <p class="mt-2 text-lg/8 text-gray-300">
+          In-depth guides to help you prepare for, respond to, and recover from water damage.
+        </p>
+      </div>
+
+      <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+        {guidesList.map((guide) => (
+          <article class="flex flex-col items-start justify-between">
+            <div class="relative w-full">
+              <img
+                alt=""
+                src={guide.heroImage}
+                class="aspect-video w-full rounded-2xl bg-gray-800 object-cover sm:aspect-[2/1] lg:aspect-[3/2]"
+              />
+              <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-white/10"></div>
+            </div>
+            <div class="flex max-w-xl grow flex-col justify-between">
+              <div class="group relative grow">
+                <h3 class="mt-8 text-lg/6 font-semibold text-white group-hover:text-gray-300">
+                  <a href={`/resources/homeowner-guides/${guide.slug}`}>
+                    <span class="absolute inset-0"></span>
+                    {guide.title}
+                  </a>
+                </h3>
+                <p class="mt-5 line-clamp-3 text-sm/6 text-gray-400">{guide.subtitle}</p>
+              </div>
+              <div class="mt-8">
+                <a href={`/resources/homeowner-guides/${guide.slug}`} class="text-sm font-semibold text-indigo-400 hover:text-indigo-300">
+                  Read guide <span aria-hidden="true">&rarr;</span>
+                </a>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </div>
+</BaseLayout>

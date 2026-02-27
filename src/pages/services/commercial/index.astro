@@ -1,0 +1,87 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro'
+import Icon from '../../../components/Icon.astro'
+import { cityData } from '../../../data/cities'
+import { getDivisionCategories } from '../../../data/services/service-tree'
+
+const categories = getDivisionCategories('commercial')
+---
+
+<BaseLayout
+  title={`Commercial Services | Flood Doctor ${cityData.name}`}
+  description={`Commercial water damage restoration in ${cityData.name}. Large-scale restoration, cleanup, specialty, and technical services for businesses and facilities.`}
+>
+  <!-- Hero -->
+  <div class="py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl lg:mx-0">
+        <p class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">For Businesses</p>
+        <h1 class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
+          Commercial Restoration Services
+        </h1>
+        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-300">
+          Enterprise-grade restoration, cleanup, and technical services designed to minimize business disruption. Serving offices, warehouses, healthcare facilities, hotels, and industrial complexes across {cityData.name}.
+        </p>
+        <div class="mt-10 flex items-center gap-x-6">
+          <a
+            href="/request"
+            class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400"
+          >
+            Get a Free Estimate
+          </a>
+          <a href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
+            Call {cityData.phone} <span aria-hidden="true">&rarr;</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Categories -->
+  {categories.map((category, idx) => (
+    <div class={`${idx % 2 === 0 ? 'bg-gray-50 dark:bg-gray-800/30' : 'bg-white dark:bg-gray-900'} py-24 sm:py-32`}>
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto max-w-2xl lg:mx-0">
+          <div class="flex items-center gap-x-3">
+            <Icon name={category.icon || 'check'} class="size-6 text-indigo-600 dark:text-indigo-400" />
+            <h2 class="text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">
+              <a href={category.path} class="hover:text-indigo-600 dark:hover:text-indigo-400">{category.name}</a>
+            </h2>
+          </div>
+          <p class="mt-4 text-base/7 text-gray-600 dark:text-gray-400">{category.description}</p>
+        </div>
+        <dl class="mx-auto mt-12 grid max-w-2xl grid-cols-1 gap-6 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+          {(category.children || []).map((service) => (
+            <a href={service.path} class="group relative flex flex-col rounded-xl bg-white dark:bg-white/5 p-6 shadow-sm outline-1 -outline-offset-1 outline-gray-200 dark:outline-white/10 transition hover:shadow-md hover:outline-indigo-500/50">
+              <dt class="font-semibold text-gray-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
+                {service.name}
+              </dt>
+              <dd class="mt-2 grow text-sm/6 text-gray-600 dark:text-gray-400">{service.description}</dd>
+              <dd class="mt-4 text-sm font-semibold text-indigo-600 dark:text-indigo-400">
+                Learn more <span aria-hidden="true">&rarr;</span>
+              </dd>
+            </a>
+          ))}
+        </dl>
+      </div>
+    </div>
+  ))}
+
+  <!-- CTA -->
+  <div class="bg-white dark:bg-gray-900 pb-24 sm:pb-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl rounded-2xl bg-gray-50 dark:bg-white/5 p-8 text-center outline-1 -outline-offset-1 outline-gray-200 dark:outline-white/10 sm:p-12">
+        <h2 class="text-2xl font-semibold text-gray-900 dark:text-white">Need a commercial restoration partner?</h2>
+        <p class="mt-4 text-gray-600 dark:text-gray-400">We work with property managers, facility directors, and business owners to minimize downtime and maximize recovery.</p>
+        <div class="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+          <a href="/request" class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-6 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400">
+            Request Free Estimate
+          </a>
+          <a href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`} class="rounded-md bg-gray-200 dark:bg-white/10 px-6 py-2.5 text-sm font-semibold text-gray-900 dark:text-white hover:bg-gray-300 dark:hover:bg-white/20">
+            Call {cityData.phone}
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,134 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import { cityData } from '../../data/cities'
+
+const checklists = [
+  {
+    title: 'When Water Damage Strikes',
+    subtitle: 'Immediate actions in the first 60 minutes',
+    items: [
+      'Ensure personal safety — do not enter standing water near electrical outlets or appliances',
+      'Shut off the water supply at the main valve if the source is plumbing-related',
+      'Turn off electricity to affected areas at the breaker panel (only if safe to access)',
+      'Call Flood Doctor for emergency water extraction and mitigation',
+      'Contact your insurance company to start a claim',
+      'Take photos and video of all damage before touching anything',
+      'Move valuable items and furniture away from standing water if safe',
+      'Open windows and doors for ventilation if weather permits',
+      'Place aluminum foil under furniture legs to prevent staining on wet carpet',
+      'Do NOT use a household vacuum to remove water — use towels and mops only',
+    ],
+  },
+  {
+    title: 'Before the Storm',
+    subtitle: 'Preparation checklist for severe weather',
+    items: [
+      'Clear gutters and downspouts of debris to ensure proper drainage',
+      'Check sump pump operation — pour water in the pit to test it',
+      'Install or test battery backup for sump pump',
+      'Inspect and seal any foundation cracks with hydraulic cement',
+      'Move valuables and important documents to upper floors or waterproof containers',
+      'Know the location of your main water shut-off valve',
+      'Know the location of your electrical panel',
+      'Photograph your home and belongings for pre-loss documentation',
+      'Review your insurance policy — confirm water damage and flood coverage',
+      'Stock emergency supplies: flashlights, batteries, first aid kit, bottled water',
+      'Program emergency numbers into your phone, including Flood Doctor',
+    ],
+  },
+  {
+    title: 'Post-Flood Safety',
+    subtitle: 'What to do after flooding subsides',
+    items: [
+      'Do not re-enter your home until authorities confirm it is safe',
+      'Wear protective gear: rubber boots, gloves, and an N95 mask',
+      'Check for structural damage — sagging ceilings, warped walls, shifted foundations',
+      'Do not turn on electricity until an electrician inspects the system',
+      'Do not use tap water until it has been declared safe by local authorities',
+      'Document all damage with photos and video for your insurance claim',
+      'Remove standing water as quickly as possible to prevent mold growth',
+      'Discard food, medicine, and cosmetics that contacted floodwater',
+      'Open windows and use fans to begin drying (only after standing water is removed)',
+      'Contact Flood Doctor for professional drying, dehumidification, and mold prevention',
+      'Watch for signs of mold in the days and weeks following — musty odors, discoloration, respiratory symptoms',
+    ],
+  },
+  {
+    title: 'Emergency Kit Essentials',
+    subtitle: 'Keep these items ready and accessible',
+    items: [
+      'Flashlights and extra batteries',
+      'First aid kit with essential medications',
+      'Bottled water — one gallon per person per day for at least three days',
+      'Non-perishable food and a manual can opener',
+      'Battery-powered or hand-crank radio',
+      'Phone charger (portable battery pack)',
+      'Important documents in a waterproof container (insurance policies, IDs, medical records)',
+      'Cash in small bills (ATMs may be down)',
+      'N95 masks and rubber gloves',
+      'Garbage bags and plastic sheeting',
+      'Duct tape and basic tools (wrench, pliers, screwdriver)',
+      'Whistle to signal for help',
+    ],
+  },
+]
+---
+
+<BaseLayout
+  title={`Emergency Checklists | Flood Doctor ${cityData.name}`}
+  description={`Emergency water damage checklists for ${cityData.name} homeowners. Immediate response, storm prep, post-flood safety, and emergency kit essentials.`}
+>
+  <div class="py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl text-center">
+        <h1 class="text-4xl font-semibold tracking-tight text-balance text-white sm:text-5xl">Emergency Checklists</h1>
+        <p class="mt-6 text-lg/8 text-gray-300">
+          Preparation saves property and lives. Use these checklists before, during, and after water emergencies.
+        </p>
+      </div>
+
+      <div class="mx-auto mt-16 max-w-3xl space-y-16">
+        {checklists.map((checklist) => (
+          <section>
+            <h2 class="text-2xl font-semibold text-white">{checklist.title}</h2>
+            <p class="mt-2 text-sm text-gray-400">{checklist.subtitle}</p>
+            <ul class="mt-8 space-y-4">
+              {checklist.items.map((item) => (
+                <li class="flex gap-x-3">
+                  <svg class="mt-1 h-5 w-5 flex-none text-indigo-400" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                  </svg>
+                  <span class="text-sm/6 text-gray-300">{item}</span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="pb-24 sm:pb-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl rounded-2xl bg-white/5 p-8 text-center outline-1 -outline-offset-1 outline-white/10 sm:p-12">
+        <h2 class="text-2xl font-semibold text-white">Water emergency? We respond in 60 minutes.</h2>
+        <p class="mt-4 text-gray-400">Save these checklists, then call Flood Doctor when you need immediate help. Available 24/7.</p>
+        <div class="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+          <a
+            href="/request"
+            class="rounded-md bg-indigo-500 px-6 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400"
+          >
+            Request Free Estimate
+          </a>
+          <a
+            href={`tel:${cityData.phone}`}
+            class="rounded-md bg-white/10 px-6 py-2.5 text-sm font-semibold text-white hover:bg-white/20"
+          >
+            Call {cityData.phone}
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

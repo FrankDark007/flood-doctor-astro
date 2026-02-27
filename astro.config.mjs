@@ -10,7 +10,13 @@ export default defineConfig({
   site: process.env.SITE_URL || 'https://flood.doctor',
   integrations: [
     react(),
-    sitemap(),
+    sitemap({
+      filter: (page) => {
+        // Exclude redirect-only pages from sitemap
+        const redirectPaths = ['/faq/', '/guides/']
+        return !redirectPaths.some((p) => page.includes(p) && !page.includes('/resources/'))
+      },
+    }),
   ],
   vite: {
     plugins: [tailwindcss()],
