@@ -1,6 +1,9 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import Icon from '../../components/Icon.astro'
+import LogoCloud from '../../components/sections/LogoCloud.astro'
+import CTABand from '../../components/sections/CTABand.astro'
+import TestimonialSection from '../../components/sections/TestimonialSection.astro'
 import FAQAccordion from '../../components/islands/FAQAccordion.tsx'
 import { cityData } from '../../data/cities'
 import { serviceTree, getDivisionCategories } from '../../data/services/service-tree'
@@ -78,7 +81,10 @@ const faqs = [
     </div>
   </div>
 
-  <!-- ═══ RESIDENTIAL ═══ -->
+  <!-- LOGO CLOUD -->
+  <LogoCloud cityName={cityData.name} />
+
+  <!-- RESIDENTIAL -->
   <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl lg:mx-0">
@@ -160,7 +166,26 @@ const faqs = [
     </div>
   </div>
 
-  <!-- ═══ FAQ ═══ -->
+  <!-- TESTIMONIAL -->
+  <TestimonialSection
+    quote='"After a pipe burst in our ceiling, Flood Doctor had everything dried out and repaired within a week. Their team was professional, thorough, and made the insurance process painless."'
+    authorName="James Rodriguez"
+    authorRole="Homeowner"
+    cityName={cityData.name}
+    authorImage="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=1024&h=1024&q=80"
+  />
+
+  <!-- CTA BAND -->
+  <CTABand
+    heading="Water damage emergency?"
+    description="Don't wait — every minute counts. Our certified team responds in under 60 minutes with industrial-grade equipment."
+    primaryText="Request Free Estimate"
+    primaryHref="/request"
+    secondaryText={`Call ${cityData.phone}`}
+    secondaryHref={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`}
+  />
+
+  <!-- FAQ -->
   <div class="bg-white dark:bg-gray-900">
     <div class="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8 lg:py-40">
       <div class="mx-auto max-w-4xl">
