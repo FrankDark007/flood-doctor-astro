@@ -194,3 +194,51 @@ Every component uses a consistent pattern:
 ### Coverage After Phase 10A
 - 104/459 service pages have unique city content (23%)
 - 355 still use generic ServiceData (77%) — addressed in Phases 10B + 10C
+
+## 2026-03-05 — City Page Template Rebuild
+
+### Work Completed
+
+**Phase 0 — Shared Components:**
+- Extracted 5 reusable section components from index.astro into `src/components/sections/`:
+  - `LogoCloud.astro` — 5-logo grid with optional cityName prop
+  - `StatsSection.astro` — Stats with background image, configurable heading/stats/cityName
+  - `TestimonialSection.astro` — Quote with author image, configurable props
+  - `BlogPreview.astro` — 3-column blog post preview grid
+  - `CTABand.astro` — Full-width indigo CTA with primary/secondary buttons
+- Refactored homepage (index.astro) to import shared components
+
+**Page Enhancements:**
+- Enhanced `/services` index with LogoCloud, TestimonialSection, CTABand sections
+- Built standalone `/faq` page (was previously 301 redirect to `/resources/faq`)
+- Added dark/light dual classes to Blog index + Blog article pages
+- Added dark/light dual classes to Request, About, Contact pages
+
+**Build Verification:**
+- `npm run build:ashburn` — 65 pages, clean build
+- `npm run build:all` — 17/17 cities built in 41.4s, zero errors
+
+### Key Decisions
+- **Enhance not rewrite**: Pages already existed in decent shape from earlier migration; added missing sections and dark/light classes rather than starting over
+- **Dark/light dual classes**: Applied `text-gray-900 dark:text-white` pattern consistently across all pages
+
+### Dark/Light Class Mapping
+| Dark-only | Dual-mode |
+|-----------|-----------|
+| `text-white` | `text-gray-900 dark:text-white` |
+| `text-gray-300` | `text-gray-600 dark:text-gray-300` |
+| `text-gray-400` | `text-gray-500 dark:text-gray-400` |
+| `text-indigo-400` | `text-indigo-600 dark:text-indigo-400` |
+| `bg-white/5` | `bg-gray-100 dark:bg-white/5` |
+| `outline-white/10` | `outline-gray-200 dark:outline-white/10` |
+| `ring-white/10` | `ring-gray-200 dark:ring-white/10` |
+| `bg-gray-800` | `bg-gray-200 dark:bg-gray-800` |
+| `bg-indigo-500` | `bg-indigo-600 dark:bg-indigo-500` |
+| `hover:text-white` | `hover:text-gray-900 dark:hover:text-white` |
+
+### 5 Commits on main
+1. `7594ee4` Phase 0: Extract reusable section components
+2. `03b270d` Enhance Services Index with LogoCloud, Testimonial, CTA Band
+3. `e7540cf` Build standalone FAQ page replacing redirect
+4. `16e2957` Add dark/light mode dual classes to Blog pages
+5. `900e5f7` Add dark/light mode dual classes to Request, About, Contact pages
