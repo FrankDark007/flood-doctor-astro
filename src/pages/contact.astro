@@ -17,11 +17,20 @@ const structuredData = {
   },
 }
 
-const serviceAreas = cityData.serviceAreas || [
+const serviceAreas = cityData.serviceArea || [
   'Ashburn', 'Leesburg', 'Sterling', 'Herndon', 'Reston',
   'Fairfax', 'Arlington', 'Alexandria', 'McLean', 'Vienna',
   'Centreville', 'Chantilly', 'Springfield',
 ]
+
+// Split service areas into 4 columns for the grid
+const colSize = Math.ceil(serviceAreas.length / 4)
+const serviceAreaCols = [
+  serviceAreas.slice(0, colSize),
+  serviceAreas.slice(colSize, colSize * 2),
+  serviceAreas.slice(colSize * 2, colSize * 3),
+  serviceAreas.slice(colSize * 3),
+].filter((col) => col.length > 0)
 ---
 
 <BaseLayout
@@ -131,6 +140,32 @@ const serviceAreas = cityData.serviceAreas || [
         </div>
       </div>
       <ContactForm city={cityData.slug} client:load />
+    </div>
+  </div>
+
+  <!-- Service Areas Section -->
+  <div class="py-24 sm:py-32 bg-gray-50 dark:bg-gray-900">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl lg:mx-0">
+        <h2 class="text-3xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-4xl">Our Service Areas</h2>
+        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">
+          Flood Doctor proudly serves {cityData.name} and the surrounding communities throughout Northern Virginia. Wherever you are, we're just minutes away.
+        </p>
+      </div>
+      <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-8 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-4">
+        {serviceAreaCols.map((col: string[], i: number) => (
+          <div>
+            <h3 class="border-l border-indigo-500 pl-6 text-sm font-semibold text-gray-900 dark:text-white">
+              {i === 0 ? `${cityData.name} Area` : i === 1 ? 'Nearby Communities' : i === 2 ? 'Greater Region' : 'Extended Service'}
+            </h3>
+            <ul class="mt-6 space-y-4 border-l border-gray-200 dark:border-white/10 pl-6">
+              {col.map((area: string) => (
+                <li class="text-sm text-gray-600 dark:text-gray-400">{area}</li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
     </div>
   </div>
 
