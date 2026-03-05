@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
 import LogoCloud from '../components/sections/LogoCloud.astro'
-import StatsSection from '../components/sections/StatsSection.astro'
 import TestimonialSection from '../components/sections/TestimonialSection.astro'
 import BlogPreview from '../components/sections/BlogPreview.astro'
 import FAQAccordion from '../components/islands/FAQAccordion.tsx'
@@ -18,13 +17,6 @@ const features = [
   { name: '24/7 Emergency Response', description: 'Water damage doesn\'t wait for business hours. Our certified team is available around the clock, 365 days a year.', icon: 'clock' },
   { name: 'Insurance Coordination', description: 'We work directly with all major insurance carriers, handling documentation and billing so you can focus on recovery.', icon: 'wrench-screwdriver' },
   { name: 'Moisture Testing', description: 'Scientific moisture mapping with thermal imaging and hygrometers ensures no hidden pockets of moisture remain.', icon: 'beaker' },
-]
-
-const stats = [
-  { value: '<60 min', label: 'Average Response Time' },
-  { value: '2,500+', label: 'Restorations Completed' },
-  { value: '98.7%', label: 'Customer Satisfaction' },
-  { value: '45+', label: 'Insurance Partners' },
 ]
 
 const blogPosts = [
@@ -197,8 +189,113 @@ const faqs = [
     </div>
   </div>
 
-  <!-- STATS -->
-  <StatsSection stats={stats} cityName={cityData.name} />
+  <!-- CONTENT — Split with sticky image -->
+  <div class="relative isolate overflow-hidden bg-white dark:bg-gray-900 px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
+    <div class="absolute inset-0 -z-10 overflow-hidden">
+      <svg
+        aria-hidden="true"
+        class="absolute top-0 left-[max(50%,25rem)] h-256 w-512 -translate-x-1/2 mask-[radial-gradient(64rem_64rem_at_top,white,transparent)] stroke-gray-200 dark:stroke-gray-800"
+      >
+        <defs>
+          <pattern
+            x="50%"
+            y="-1"
+            id="home-content-pattern"
+            width="200"
+            height="200"
+            patternUnits="userSpaceOnUse"
+          >
+            <path d="M100 200V.5M.5 .5H200" fill="none" />
+          </pattern>
+        </defs>
+        <svg x="50%" y="-1" class="overflow-visible fill-gray-100/50 dark:fill-gray-800/50">
+          <path
+            d="M-100.5 0h201v201h-201Z M699.5 0h201v201h-201Z M499.5 400h201v201h-201Z M-300.5 600h201v201h-201Z"
+            stroke-width="0"
+          />
+        </svg>
+        <rect fill="url(#home-content-pattern)" width="100%" height="100%" stroke-width="0" />
+      </svg>
+    </div>
+    <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
+      <div class="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
+        <div class="lg:pr-4">
+          <div class="lg:max-w-lg">
+            <p class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Our Track Record</p>
+            <h2 class="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-5xl">
+              Trusted by {cityData.name} Homeowners
+            </h2>
+            <p class="mt-6 text-xl/8 text-gray-600 dark:text-gray-300">
+              With over 2,500 restorations completed and a 98.7% customer satisfaction rate, Flood Doctor is
+              Northern Virginia's most trusted water damage restoration company.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="-mt-12 -ml-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
+        <img
+          alt="Flood Doctor restoration process dashboard"
+          src="https://tailwindcss.com/plus-assets/img/component-images/dark-project-app-screenshot.png"
+          class="w-3xl max-w-none rounded-xl bg-gray-200 dark:bg-gray-800 shadow-xl ring-1 ring-gray-200 dark:ring-white/10 sm:w-228"
+        />
+      </div>
+      <div class="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
+        <div class="lg:pr-4">
+          <div class="max-w-xl text-base/7 text-gray-500 dark:text-gray-400 lg:max-w-lg">
+            <p>
+              Every restoration starts with a thorough assessment. Our IICRC-certified technicians use thermal imaging
+              and moisture meters to map the full extent of water damage — even behind walls and under floors. This
+              scientific approach ensures nothing gets missed and your property is restored completely.
+            </p>
+            <ul role="list" class="mt-8 space-y-8 text-gray-500 dark:text-gray-400">
+              <li class="flex gap-x-3">
+                <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="mt-1 size-5 flex-none text-indigo-600 dark:text-indigo-400">
+                  <path fill-rule="evenodd" d="M5.5 17a4.5 4.5 0 0 1-1.44-8.765 4.5 4.5 0 0 1 8.302-3.046 3.5 3.5 0 0 1 4.504 4.272A4 4 0 0 1 15 17H5.5Zm3.75-2.75a.75.75 0 0 0 1.5 0V9.66l1.95 2.1a.75.75 0 1 0 1.1-1.02l-3.25-3.5a.75.75 0 0 0-1.1 0l-3.25 3.5a.75.75 0 1 0 1.1 1.02l1.95-2.1v4.59Z" clip-rule="evenodd" />
+                </svg>
+                <span>
+                  <strong class="font-semibold text-gray-900 dark:text-white">60-minute emergency response.</strong> Our teams are
+                  stationed across Northern Virginia and arrive fully equipped with industrial extractors, commercial
+                  dehumidifiers, and air movers to begin work immediately.
+                </span>
+              </li>
+              <li class="flex gap-x-3">
+                <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="mt-1 size-5 flex-none text-indigo-600 dark:text-indigo-400">
+                  <path fill-rule="evenodd" d="M10 1a4.5 4.5 0 0 0-4.5 4.5V9H5a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6a2 2 0 0 0-2-2h-.5V5.5A4.5 4.5 0 0 0 10 1Zm3 8V5.5a3 3 0 1 0-6 0V9h6Z" clip-rule="evenodd" />
+                </svg>
+                <span>
+                  <strong class="font-semibold text-gray-900 dark:text-white">Direct insurance billing.</strong> We work with all
+                  major carriers and handle the entire claims process — documentation, estimates, and billing — so you
+                  don't have to fight with your insurance company.
+                </span>
+              </li>
+              <li class="flex gap-x-3">
+                <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="mt-1 size-5 flex-none text-indigo-600 dark:text-indigo-400">
+                  <path d="M4.632 3.533A2 2 0 0 1 6.577 2h6.846a2 2 0 0 1 1.945 1.533l1.976 8.234A3.489 3.489 0 0 0 16 11.5H4c-.476 0-.93.095-1.344.267l1.976-8.234Z" />
+                  <path fill-rule="evenodd" d="M4 13a2 2 0 1 0 0 4h12a2 2 0 1 0 0-4H4Zm11.24 2a.75.75 0 0 1 .75-.75H16a.75.75 0 0 1 0 1.5h-.01a.75.75 0 0 1-.75-.75Zm-2.25-.75a.75.75 0 0 0 0 1.5H13a.75.75 0 0 0 0-1.5h-.01Z" clip-rule="evenodd" />
+                </svg>
+                <span>
+                  <strong class="font-semibold text-gray-900 dark:text-white">Complete restoration.</strong> From emergency
+                  extraction through structural drying, mold prevention, and full reconstruction — we handle everything
+                  so your property is returned to pre-loss condition.
+                </span>
+              </li>
+            </ul>
+            <p class="mt-8">
+              Our team monitors the drying process daily with scientific instruments, adjusting equipment placement to
+              ensure optimal results. Most residential restorations are complete within 3-5 days, with full
+              reconstruction finished in 1-4 weeks depending on the scope of damage.
+            </p>
+            <h3 class="mt-16 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">No hidden costs. No surprises.</h3>
+            <p class="mt-6">
+              We provide detailed, line-item estimates before any work begins. Our pricing is transparent, insurance-approved,
+              and we never charge for emergency assessments. If your insurance doesn't cover it, we'll tell you upfront —
+              no surprise bills, no upselling, no pressure.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <!-- SERVICES BENTO GRID -->
   <div class="bg-white dark:bg-gray-900 py-24 sm:py-32">
