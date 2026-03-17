@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "build:main": "CITY=main SITE_URL=https://flood.doctor astro build",
+    "dev:main": "CITY=main SITE_URL=https://flood.doctor astro dev",
     "preview": "astro preview",
     "astro": "astro",
     "build:ashburn": "CITY=ashburn SITE_URL=https://ashburn.flood.doctor astro build",

@@ -17,6 +17,7 @@ import springfield from './springfield'
 import sterling from './sterling'
 import tysons from './tysons'
 import vienna from './vienna'
+import main from './main'
 
 const cities: Record<string, CityData> = {
   ashburn,
@@ -30,6 +31,7 @@ const cities: Record<string, CityData> = {
   herndon,
   leesburg,
   lorton,
+  main,
   mclean,
   reston,
   springfield,

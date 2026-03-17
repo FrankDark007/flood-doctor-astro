@@ -10,6 +10,7 @@ import { mkdirSync, cpSync, rmSync, existsSync } from 'fs'
 import { join } from 'path'
 
 const cities = [
+  'main',
   'ashburn',
   'alexandria',
   'arlington',
@@ -45,7 +46,7 @@ const results = []
 
 for (const city of cities) {
   const cityStart = Date.now()
-  const siteUrl = `https://${city}.flood.doctor`
+  const siteUrl = city === 'main' ? 'https://flood.doctor' : `https://${city}.flood.doctor`
 
   process.stdout.write(`  ⏳ ${city.padEnd(14)} ... `)
 

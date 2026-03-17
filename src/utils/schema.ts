@@ -6,17 +6,23 @@
 import { cityData, allCities } from '../data/cities'
 import type { CityData } from '../data/cities'
 
+/** Returns the canonical base URL for a city (main → flood.doctor, others → {slug}.flood.doctor) */
+export function cityBaseUrl(slug: string = cityData.slug): string {
+  return slug === 'main' ? 'https://flood.doctor' : `https://${slug}.flood.doctor`
+}
+
 // ── LocalBusiness (home page) ──────────────────────────────────────────
 
 export function localBusinessSchema(city: CityData = cityData) {
+  const baseUrl = cityBaseUrl(city.slug)
   return {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
-    '@id': `https://${city.slug}.flood.doctor/#business`,
-    name: `Flood Doctor ${city.name}`,
+    '@id': `${baseUrl}/#business`,
+    name: city.slug === 'main' ? 'Flood Doctor' : `Flood Doctor ${city.name}`,
     description: city.meta.description,
     telephone: city.phone,
-    url: `https://${city.slug}.flood.doctor`,
+    url: baseUrl,
     address: {
       '@type': 'PostalAddress',
       streetAddress: city.address.split(',')[0]?.trim(),
@@ -87,11 +93,11 @@ export function serviceSchema(service: {
     '@type': 'Service',
     name: service.name,
     description: service.description,
-    url: `https://${cityData.slug}.flood.doctor/services/${service.slug}`,
+    url: `${cityBaseUrl()}/services/${service.slug}`,
     provider: {
       '@type': 'LocalBusiness',
-      '@id': `https://${cityData.slug}.flood.doctor/#business`,
-      name: `Flood Doctor ${cityData.name}`,
+      '@id': `${cityBaseUrl()}/#business`,
+      name: cityData.slug === 'main' ? 'Flood Doctor' : `Flood Doctor ${cityData.name}`,
       telephone: cityData.phone,
       address: {
         '@type': 'PostalAddress',
@@ -123,7 +129,7 @@ export function blogPostingSchema(post: {
     description: post.description,
     image: post.imageUrl,
     datePublished: post.datetime,
-    url: `https://${cityData.slug}.flood.doctor/blog/${post.slug}`,
+    url: `${cityBaseUrl()}/blog/${post.slug}`,
     author: {
       '@type': 'Person',
       name: post.author.name,
@@ -131,8 +137,8 @@ export function blogPostingSchema(post: {
     },
     publisher: {
       '@type': 'Organization',
-      name: `Flood Doctor ${cityData.name}`,
-      url: `https://${cityData.slug}.flood.doctor`,
+      name: cityData.slug === 'main' ? 'Flood Doctor' : `Flood Doctor ${cityData.name}`,
+      url: cityBaseUrl(),
     },
   }
 }
@@ -160,13 +166,14 @@ export function getHreflangUrls(pathname: string): { href: string; hreflang: str
   const urls: { href: string; hreflang: string }[] = []
 
   for (const [slug] of Object.entries(allCities)) {
+    if (slug === 'main') continue // main is added as x-default below
     urls.push({
       href: `https://${slug}.flood.doctor${pathname}`,
       hreflang: 'en',
     })
   }
 
-  // x-default points to main domain
+  // x-default points to main domain (flood.doctor)
   urls.push({
     href: `https://flood.doctor${pathname}`,
     hreflang: 'x-default',
@@ -181,13 +188,13 @@ export function webSiteSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: `Flood Doctor ${cityData.name}`,
-    url: `https://${cityData.slug}.flood.doctor`,
+    name: cityData.slug === 'main' ? 'Flood Doctor' : `Flood Doctor ${cityData.name}`,
+    url: cityBaseUrl(),
     potentialAction: {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: `https://${cityData.slug}.flood.doctor/blog?q={search_term_string}`,
+        urlTemplate: `${cityBaseUrl()}/blog?q={search_term_string}`,
       },
       'query-input': 'required name=search_term_string',
     },

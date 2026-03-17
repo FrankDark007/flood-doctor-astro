@@ -50,7 +50,7 @@ const hreflangUrls = getHreflangUrls(Astro.url.pathname)
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalUrl.toString()} />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content={`Flood Doctor ${cityData.name}`} />
+    <meta property="og:site_name" content={cityData.slug === 'main' ? 'Flood Doctor' : `Flood Doctor ${cityData.name}`} />
     {ogImage && <meta property="og:image" content={ogImage} />}
 
     <!-- Twitter -->

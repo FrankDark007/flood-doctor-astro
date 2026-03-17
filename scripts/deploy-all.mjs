@@ -15,6 +15,7 @@ import { existsSync } from 'fs'
 import { join } from 'path'
 
 const cities = [
+  'main',
   'ashburn',
   'alexandria',
   'arlington',
@@ -137,6 +138,7 @@ console.log()
 if (succeeded > 0) {
   console.log('📋 To add custom domains, run for each city:')
   console.log('   npx wrangler pages project update fd-{city} --domain={city}.flood.doctor')
+  console.log('   For main site: npx wrangler pages project update fd-main --domain=flood.doctor')
   console.log()
 }
 
