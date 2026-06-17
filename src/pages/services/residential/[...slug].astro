@@ -5,7 +5,7 @@ import FAQAccordion from '../../../components/islands/FAQAccordion.tsx'
 import { cityData } from '../../../data/cities'
 import { getDivisionCategories, getCategoryServices, getNodeByPath } from '../../../data/services/service-tree'
 import { getService, allServices } from '../../../data/services'
-import { serviceSchema } from '../../../utils/schema'
+import { serviceSchema, faqPageSchema, breadcrumbSchema, cityBaseUrl } from '../../../utils/schema'
 import { getCityServiceContent } from '../../../data/city-content'
 import { blogPosts } from '../../../data/blog'
 import type { GetStaticPaths } from 'astro'
@@ -61,6 +61,22 @@ const relatedBlogs = cityContent?.relatedBlogSlugs
 const displayFaqs = (cityContent?.faqs && cityContent.faqs.length > 0)
   ? cityContent.faqs
   : service?.faqs ?? []
+
+// Structured data: Service + FAQPage (when FAQs exist) + BreadcrumbList (AEO)
+const _base = cityBaseUrl()
+const serviceStructuredData = service
+  ? [
+      serviceSchema(service),
+      ...(displayFaqs.length ? [faqPageSchema(displayFaqs)] : []),
+      breadcrumbSchema([
+        { name: 'Home', url: `${_base}/` },
+        { name: 'Services', url: `${_base}/services` },
+        { name: 'Residential', url: `${_base}/services/residential` },
+        ...(categoryForService ? [{ name: categoryForService.name, url: `${_base}${categoryForService.path}` }] : []),
+        { name: service.name, url: `${_base}${Astro.url.pathname}` },
+      ]),
+    ]
+  : undefined
 
 // Page title & description — city-specific when available
 const pageTitle = cityContent?.meta?.title
@@ -124,7 +140,7 @@ const pageDescription = cityContent?.meta?.description ?? service?.description ?
   <BaseLayout
     title={pageTitle}
     description={pageDescription}
-    structuredData={serviceSchema(service)}
+    structuredData={serviceStructuredData}
   >
     <!-- Hero -->
     <div class="relative isolate overflow-hidden bg-white dark:bg-gray-900">
