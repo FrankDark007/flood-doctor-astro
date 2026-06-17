@@ -34,6 +34,16 @@ const hreflangUrls = getHreflangUrls(Astro.url.pathname)
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <ThemeScript />
 
+    <!-- Google tag (gtag.js) — GA4 + Google Ads -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R3D27R16HB"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-R3D27R16HB');
+      gtag('config', 'AW-16685506666');
+    </script>
+
     <!-- SEO -->
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
