@@ -12,14 +12,14 @@ export const content: CityServiceContent = {
       `A nor'easter drives horizontal rain against a Brambleton townhome for six straight hours. The smart water monitor stays silent — no supply line has broken. But behind the vinyl siding, at the roof-wall intersection where a kick-out flashing was never installed, wind-driven rain sheets down the building paper and slips behind the spray foam insulation. Water saturates the studs, soaks the fiberglass batt in the interior partition, and wicks through builder-grade drywall from the inside out. The homeowner doesn't know until a brown stain blooms at the baseboard — and by then, the entire wall assembly behind the sealed vapor barrier has been holding water for hours with no way to dry itself.
 
 That scenario plays out across Ashburn's post-2005 neighborhoods every storm season. Spray foam, house wrap, and vapor barriers create airtight envelopes designed to keep conditioned air inside — envelopes that also trap any moisture that breaches the exterior. Once water gets past the flashing and behind the foam, it can't evaporate outward through the vapor barrier or dry inward through the spray foam. It sits in the cavity, raising relative humidity to mold-supporting levels within 36 hours.`,
-      `Flood cleanup in Ashburn demands a fundamentally different approach than restoration in older communities. You cannot point fans at sealed wall assemblies and expect results. You cannot rely on thermal imaging alone when spray foam masks temperature differentials. You cannot assume LVP flooring that looks dry isn't concealing pooled water beneath. Every material choice that makes these homes energy-efficient creates a specific failure mode when water intrudes. Our Ashburn crews understand each failure mode from hundreds of responses across Broadlands, Stone Ridge, Moorefield Station, and One Loudoun. We know how Van Metre's wall assembly traps water differently than Toll Brothers' spec, and which Brambleton phases used kick-out flashing. That builder-specific knowledge determines whether restoration takes five days or five weeks.`,
+      `Flood cleanup in Ashburn demands a fundamentally different approach than restoration in older communities. You cannot point fans at sealed wall assemblies and expect results. You cannot rely on thermal imaging alone when spray foam masks temperature differentials. You cannot assume LVP flooring that looks dry isn't concealing pooled water beneath. Every material choice that makes these homes energy-efficient creates a specific failure mode when water intrudes. Flood response in Ashburn has to account for neighborhood-by-neighborhood construction patterns across Broadlands, Brambleton, Ashburn Village, Ashburn Farm, Goose Creek Village, Moorefield Station, and One Loudoun. Similar floor plans can still hide different moisture paths depending on wall assembly, basement finish level, exterior grading, and HOA-maintained drainage around the lot.`,
     ],
     localContext: `Modern sealed-envelope construction trapping moisture in wall cavities, community stormwater management systems exceeding design capacity, builder-grade materials with predictable flood failure behavior across Ashburn's post-2005 housing stock.`,
   },
   processSteps: [
     {
-      title: 'Route 28 Corridor Rapid Deployment',
-      description: `Our crews serve Route 28, positioning equipment within ten minutes of every major neighborhood. Each truck carries thermal imaging calibrated for sealed-envelope construction and moisture profiling tools designed to read through vapor barriers. When your call comes in, we're already in your corridor with equipment specific to your construction type.`,
+      title: 'Ashburn Service-Area Intake',
+      description: `We confirm the Ashburn neighborhood, home type, basement finish level, HOA or condo contact requirements, and whether water is coming from storm intrusion, exterior drainage, or an interior system. The initial response plan accounts for townhome access, parking limits, property-manager notifications, and moisture checks for finished basements and modern wall assemblies.`,
       timeframe: 'rapid emergency response',
     },
     {
@@ -48,7 +48,28 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
       timeframe: 'Days 4-7',
     },
   ],
-  localChallenges: [],
+  localChallenges: [
+    {
+      title: 'Finished Basements with Hidden Moisture Paths',
+      description: 'Many Ashburn Village, Ashburn Farm, Broadlands, and Brambleton homes have finished basements where water can move behind baseboards, under LVP, and along bottom plates before it is visible in the room.',
+      solution: 'We map moisture at floor edges, utility rooms, stair landings, and exterior-facing walls so drying work follows the path water actually took rather than only the area that looks wet.',
+    },
+    {
+      title: 'Townhome and Condo Access Coordination',
+      description: 'Ashburn townhomes and condo-style properties often require HOA, condo association, or property manager coordination for parking, common-area protection, exterior-source checks, and after-hours access.',
+      solution: 'We identify the needed contacts during intake, protect shared entry routes when equipment is moved, and document exterior or common-element observations for the owner or manager.',
+    },
+    {
+      title: 'HOA Drainage and Stormwater Features',
+      description: 'Goose Creek Village, Broadlands, Brambleton, and nearby communities include HOA-maintained swales, storm drains, ponds, and grading transitions that can contribute to repeated basement or slab-edge water intrusion.',
+      solution: 'We note drainage patterns, downspout discharge, low points near foundations, and stormwater overflow indicators so cleanup findings can be shared with the HOA or property manager when exterior maintenance may be involved.',
+    },
+    {
+      title: 'Modern Construction That Holds Water Out of Sight',
+      description: 'Newer Ashburn construction can include tight wall assemblies, spray foam, house wrap, LVP, and finished lower levels that delay visible signs while moisture remains in cavities or under flooring.',
+      solution: 'We combine surface readings with targeted checks at expansion gaps, base trim, plumbing walls, and exterior-facing assemblies to decide what can dry in place and what needs access for drying.',
+    },
+  ],
   equipmentSection: {
     headline: 'Sealed-Envelope Flood Response Equipment',
     equipment: [
@@ -77,7 +98,7 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
         purpose: 'HVAC override protocols for Nest, Ecobee, and conventional systems, plus post-restoration floor-level flood sensor installation integrated into existing smart home ecosystems',
       },
     ],
-    localNote: `Standard restoration equipment designed for older construction doesn't work on Ashburn's sealed envelopes. Our crews carry sealed-envelope-specific tools on every Ashburn deployment because post-2005 homes require investigation and drying methods outside the standard restoration playbook.`,
+    localNote: `Standard restoration equipment designed for older construction can miss moisture in Ashburn's sealed envelopes. Post-2005 homes often require targeted investigation and drying methods beyond the standard restoration playbook.`,
   },
   pricingSection: {
     headline: 'Flood Cleanup Costs in Ashburn',
@@ -86,10 +107,10 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
       'Sealed-envelope investigation — inspection ports, cavity assessment, and concealed moisture mapping add diagnostic time',
       'Injection drying labor — drilling, installing, monitoring, and adjusting cavity drying runs 20-30% longer than standard surface drying',
       'LVP removal, subfloor decontamination, and moisture barrier evaluation for the flooring in nearly every modern Ashburn home',
-      'Builder defect documentation — professional assessment letters and photographic evidence supporting warranty recovery',
+      'Builder defect documentation — photos and written observations that help owners discuss warranty issues with the builder',
       'Smart home reconfiguration — HVAC updates, flood sensor installation, and humidity monitoring integration',
     ],
-    cta: 'Call (877) 497-0007 for emergency response and sealed-envelope assessment. We evaluate your specific construction type, identify moisture trapped in concealed assemblies, and provide detailed scopes reflecting actual scope.',
+    cta: 'Call (877) 497-0007 for emergency response and sealed-envelope assessment. We evaluate your specific construction type, identify moisture trapped in concealed assemblies, and provide a written scope reflecting observed conditions.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -108,12 +129,12 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
       'Cameron Chase',
       'Stone Ridge',
     ],
-    responseTime: 'rapid emergency response with sealed-envelope equipment prepared for the Route 28 corridor. When severe weather approaches Loudoun County, crews prepare thermal profilers, inspection port systems, and injection drying equipment — so the specialized tools your post-2005 home requires arrive with the first truck.',
+    responseTime: 'rapid emergency response planning for Ashburn neighborhoods, with attention to Broadlands, Brambleton, Ashburn Village, Ashburn Farm, Goose Creek Village, One Loudoun, and nearby communities where modern wall assemblies, finished basements, townhomes, and HOA-managed drainage can affect the cleanup plan.',
   },
   faqs: [
     {
       question: `Why is water coming through my wall when there's no plumbing there?`,
-      answer: `Almost certainly a flashing failure — the most common misdiagnosed flood source in Ashburn. Wind-driven rain enters through gaps where kick-out flashing was omitted or window pan flashing wasn't properly taped. Water travels down studs behind insulation and exits at the baseboard. We trace the intrusion, document the deficiency, and provide assessment letters for builder warranty claims. Without fixing the exterior entry point, the same wall floods during the next storm.`,
+      answer: `Almost certainly a flashing failure — the most common misdiagnosed flood source in Ashburn. Wind-driven rain enters through gaps where kick-out flashing was omitted or window pan flashing wasn't properly taped. Water travels down studs behind insulation and exits at the baseboard. We trace the intrusion, document observed conditions, and provide written notes owners can use when discussing builder warranty claims. Without fixing the exterior entry point, the same wall floods during the next storm.`,
     },
     {
       question: 'My LVP flooring looks completely dry — could there still be water underneath?',
@@ -133,7 +154,7 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
     },
     {
       question: `Will my builder's warranty cover flood damage caused by missing flashing?`,
-      answer: 'Potentially — documentation is critical. Most Ashburn builders provide a 10-year structural warranty covering envelope defects. If we document improper or omitted flashing installation, that evidence supports a warranty claim for both the flashing repair and resulting interior damage. We provide professional assessment letters formatted specifically for warranty submissions.',
+      answer: 'Potentially — documentation is critical. Most Ashburn builders provide a 10-year structural warranty covering envelope defects. If improper or omitted flashing appears to be involved, photos and written observations can help support discussions about the flashing repair and related interior damage.',
     },
   ],
   relatedBlogSlugs: [
@@ -143,6 +164,6 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
   ],
   finalCTA: {
     headline: 'Sealed-Envelope Flood Emergency in Ashburn?',
-    paragraph: 'Your modern Ashburn home requires flood response built for modern construction. Standard equipment cannot reach moisture trapped behind spray foam, under LVP flooring, or inside sealed wall cavities. Our crews carry sealed-envelope investigation and injection drying equipment on every Ashburn deployment — the specialized tools your home needs arrive on the first truck. Call now and a crew staged on Route 28 deploys to your neighborhood as quickly as available crews can safely arrive.',
+    paragraph: 'Your modern Ashburn home requires flood response built for modern construction. Standard equipment cannot reach moisture trapped behind spray foam, under LVP flooring, or inside sealed wall cavities. Sealed-envelope investigation and injection drying may be needed where water is trapped behind spray foam, under LVP flooring, or inside finished basement walls. Call now so the response can be planned around your home type, access constraints, and available crews.',
   },
 }

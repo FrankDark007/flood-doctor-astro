@@ -10,14 +10,14 @@ export const content: CityServiceContent = {
     headline: 'PEX Fitting Failures and Sealed-Envelope Water Damage in Ashburn',
     paragraphs: [
       `A brass crimp ring on the PEX line feeding your Brambleton kitchen failed after 15 years of service — a known dezincification defect in early Ashburn construction. The zinc leached out gradually, weakening the ring's grip until system pressure exceeded the connection's holding strength. At 60 PSI, the tubing blew off the fitting entirely, releasing pressurized water into the wall cavity behind closed-cell spray foam. Your Flo by Moen smart water monitor detected the anomaly and triggered automatic shutoff — but 30 seconds of uncontrolled flow at full pressure still deposited 8-10 gallons inside a sealed wall assembly where no natural evaporation path exists. Water pooled on the bottom plate, wicked into framing, and began saturating drywall from the back side before you received the alert.`,
-      'Burst pipe events in Ashburn differ from older Northern Virginia communities. PEX systems fail at fittings and connections, not mid-run — crimp rings, push-fit connectors, and transition fittings degrade on their own timeline. Spray foam insulation creates sealed building envelopes that trap water inside cavities indefinitely — unlike older homes with fiberglass batts where some evaporation occurs naturally. Builder-grade components compound the problem: the cheapest quarter-turn shutoff valves with plastic internals, the thinnest supply hoses, brass crimp rings sourced from the lowest bidder — all reaching end-of-life while the house looks brand new. Flood Doctor responds with equipment specific to sealed-envelope buildings, PEX diagnostics, and builder warranty documentation that can shift restoration costs away from the homeowner.',
+      'Burst pipe events in Ashburn differ from older Northern Virginia communities. PEX systems fail at fittings and connections, not mid-run — crimp rings, push-fit connectors, and transition fittings degrade on their own timeline. Spray foam insulation creates sealed building envelopes that trap water inside cavities indefinitely — unlike older homes with fiberglass batts where some evaporation occurs naturally. Builder-grade components compound the problem: the cheapest quarter-turn shutoff valves with plastic internals, the thinnest supply hoses, brass crimp rings sourced from the lowest bidder — all reaching end-of-life while the house looks brand new. Flood Doctor responds with equipment for sealed-envelope buildings, PEX diagnostics, and documentation owners can use when discussing builder or plumbing warranty questions.',
     ],
     localContext: 'PEX-era construction defects, sealed envelope moisture trapping, smart home integration, builder warranty pathways.',
   },
   processSteps: [
     {
-      title: 'Route 28 Corridor Rapid Deployment',
-      description: `Crews serve Route 28 from the Dulles Greenway interchange south through Waxpool Road, within minutes of every major residential community. Our dispatcher's first question after confirming your address: does this home have a smart water shutoff, and did it activate? If your Flo by Moen or Phyn Plus triggered, we shift to extraction priority. If not, we walk you through locating the main shutoff — typically in the utility closet on the lowest level — while crews are en route.`,
+      title: 'Ashburn Service-Area Intake',
+      description: `Intake starts with the neighborhood, home type, lowest-level access, and whether a smart water shutoff activated. If your Flo by Moen or Phyn Plus triggered, we prioritize extraction and moisture investigation. If not, we help you identify likely main shutoff locations — often in a utility closet on the lowest level — while the response is being coordinated.`,
       timeframe: 'Emergency dispatch',
     },
     {
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Builder-Defect Documentation for Warranty Claims',
-      description: 'If the failure matches a known defect pattern — dezincified crimp ring, cracked plastic shutoff valve, improperly secured push-fit connection — we photograph the failed component in place, record fitting specifications, and prepare a professional defect assessment before disturbing evidence. Many Ashburn homes built 2004-2018 carry 10-year structural warranties. Our documentation includes high-resolution failure photos, measurement data, defect mechanism explanation, and scope-of-damage assessment for warranty claim support.',
+      description: 'If the failure matches a known defect pattern — dezincified crimp ring, cracked plastic shutoff valve, improperly secured push-fit connection — we photograph the failed component in place, record fitting specifications, and prepare a professional defect assessment before disturbing evidence. Some Ashburn homes may still have applicable builder or product warranty paths depending on age, component, and cause. Documentation can include failure photos, measurement data, defect-mechanism notes, and a scope-of-damage assessment for owner review.',
       timeframe: 'Hours 2-4',
     },
     {
@@ -46,10 +46,31 @@ export const content: CityServiceContent = {
       timeframe: 'Final day',
     },
   ],
-  localChallenges: [],
+  localChallenges: [
+    {
+      title: 'PEX and Builder-Grade Component Failures',
+      description: 'Ashburn homes in Broadlands, Brambleton, Ashburn Village, Ashburn Farm, and Goose Creek Village often have PEX supply lines, push-fit fittings, plastic-internal shutoff valves, and flexible connector hoses reaching the age where weak points show up.',
+      solution: 'We document the failed component before removal when practical, check nearby connections in the affected run, and preserve observations that can help the owner speak with a plumber, builder, insurer, or product representative.',
+    },
+    {
+      title: 'Finished Basement Water Migration',
+      description: 'A burst line in a kitchen, laundry, bath, or mechanical area can drain into finished basements and travel under LVP, carpet pad, base trim, and wall plates before the visible wet area matches the actual footprint.',
+      solution: 'We inspect lower-level ceilings, utility chases, flooring edges, and adjacent rooms so extraction and drying address the full migration path.',
+    },
+    {
+      title: 'Townhome, Condo, and Property Manager Coordination',
+      description: 'Ashburn townhomes and condo buildings can involve shared walls, stacked plumbing, common hallways, limited parking, and property-manager notification when water affects more than one unit or a common area.',
+      solution: 'We account for access logistics, protect shared routes during equipment movement, and provide written observations that can be shared with associations or managers as needed.',
+    },
+    {
+      title: 'Smart Shutoff and Newer Construction Plumbing',
+      description: 'Smart shutoffs can reduce water volume but they do not dry trapped water inside sealed walls, under cabinets, below LVP, or inside finished basement assemblies common in newer Ashburn construction.',
+      solution: 'We verify whether water continued after shutoff, inspect concealed paths around the failure, and include the smart-device timeline as part of the cleanup record when available.',
+    },
+  ],
   pricingSection: {
     headline: `Burst Pipe Restoration Costs in Ashburn's Modern Homes`,
-    intro: 'Sealed-envelope construction costs more to restore — not because the damage is worse, but because accessing and drying moisture inside spray-foam cavities requires specialized injection techniques running 20-30% longer than conventional approaches. We provide free assessments, handle insurance documentation support, and prepare builder warranty documentation that may shift costs entirely to the builder when a construction defect caused the failure.',
+    intro: 'Sealed-envelope construction costs more to restore — not because the damage is worse, but because accessing and drying moisture inside spray-foam cavities requires specialized injection techniques running 20-30% longer than conventional approaches. The scope depends on access, water volume, affected finishes, and whether documentation is needed for insurance, builder, or product-warranty review.',
     factors: [
       'Sealed-envelope investigation — thermal imaging and inspection ports to locate moisture trapped inside spray-foam cavities where surface meters show false negatives',
       'PEX system pressure testing — isolating and testing adjacent connections to identify additional compromised fittings before they fail',
@@ -58,7 +79,7 @@ export const content: CityServiceContent = {
       'Smart home system reconfiguration — resetting shutoff valves, recalibrating flow baselines, verifying automation triggers post-restoration',
       'Builder-grade component upgrades — replacing failed components with commercial-grade alternatives during restoration',
     ],
-    cta: `Call (877) 497-0007 for immediate response. If a builder defect caused your burst pipe, our documentation can shift restoration costs to the builder's warranty.`,
+    cta: `Call (877) 497-0007 for immediate response. If a builder defect may have contributed to the burst pipe, our documentation can help you discuss warranty options with the appropriate party.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -76,12 +97,12 @@ export const content: CityServiceContent = {
       'Ashbrook',
       'Cameron Chase',
     ],
-    responseTime: 'rapid emergency response to all Ashburn neighborhoods via Route 28 corridor dispatch planning. During winter freeze events, we prepare additional crews for service-area coverage in Broadlands, Brambleton, and Stone Ridge — the communities with the highest concentration of PEX crimp ring-era construction and the most burst pipe calls per capita in Loudoun County.',
+    responseTime: 'rapid emergency response planning for Ashburn neighborhoods, including Broadlands, Brambleton, Ashburn Farm, Ashburn Village, Goose Creek Village, One Loudoun, and nearby communities with PEX-era construction, finished basements, townhomes, and property-manager access considerations.',
   },
   faqs: [
     {
       question: 'My Ashburn home is only 12 years old — why would a pipe fail already?',
-      answer: 'PEX systems installed 2004-2012 commonly used brass crimp rings that undergo dezincification — zinc leaches from the alloy, leaving a weakened copper matrix that eventually cannot hold system pressure. The pipe itself is fine; the connection hardware fails. This is a recognized material defect, not homeowner neglect, which is why active builder warranties may cover both the plumbing repair and resulting water damage.',
+      answer: 'PEX systems installed 2004-2012 commonly used brass crimp rings that undergo dezincification — zinc leaches from the alloy, leaving a weakened copper matrix that eventually cannot hold system pressure. The pipe itself is fine; the connection hardware fails. This can be a material or installation issue rather than homeowner neglect, so it is worth preserving the failed part and documenting conditions before repairs disturb the evidence.',
     },
     {
       question: 'My smart water shutoff activated and stopped the flow — do I still need professional restoration?',
@@ -93,7 +114,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Can Flood Doctor help with a builder warranty claim for a pipe failure?',
-      answer: 'Yes. When we identify a known defect pattern, we document evidence before disturbing it — high-resolution photographs in situ, precise measurements, a written defect mechanism analysis, and a complete scope-of-damage assessment linking the defect to the water damage. This technical documentation distinguishes a successful warranty claim from a denied one.',
+      answer: 'Yes. When we identify a known defect pattern, we document evidence before disturbing it — high-resolution photographs in situ, precise measurements, a written defect mechanism analysis, and a complete scope-of-damage assessment linking the defect to the water damage. This technical documentation gives the owner clearer information for warranty or insurance discussions.',
     },
     {
       question: 'Will spray foam insulation trap water from a burst pipe inside my walls?',
@@ -111,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'PEX Failure or Burst Pipe in Your Ashburn Home?',
-    paragraph: `Modern construction fails differently — and recovers differently. Sealed wall cavities, dezincified crimp rings, and builder-grade components require specialized response equipment that general contractors don't carry. Flood Doctor's Ashburn crews are trained for PEX-era construction failures, injection drying through sealed envelopes, and builder warranty documentation that can shift costs away from you. Shut off your water supply and call now — every minute of delay means deeper moisture penetration into assemblies that are difficult and expensive to access later.`,
+    paragraph: `Modern construction fails differently — and recovers differently. Sealed wall cavities, dezincified crimp rings, and builder-grade components require specialized response equipment that general contractors don't carry. Flood Doctor plans Ashburn burst-pipe response around PEX-era construction, injection drying through sealed envelopes, and documentation for builder or product-warranty discussions. Shut off your water supply and call now so moisture investigation can begin before water moves deeper into assemblies that are difficult and expensive to access later.`,
   },
 }
