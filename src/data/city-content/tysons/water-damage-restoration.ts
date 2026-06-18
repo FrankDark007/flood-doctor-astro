@@ -3,25 +3,98 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: '24/7 Emergency Water Damage Restoration in Tysons, VA',
-    description: 'Expert high-rise and commercial water damage restoration in Tysons VA. Fast 60-min response for condo flooding, commercial building leaks, and HVAC system failures.',
+    description: 'Water damage restoration in Tysons VA for high-rise condos, commercial buildings, retail spaces, and mixed-use properties near Routes 7 and 123.',
   },
-  h1: '',
+  h1: 'Water Damage Restoration in Tysons, VA',
   introSection: {
-    headline: '',
-    paragraphs: [],
-    localContext: '',
+    headline: 'Water Damage Help for Tysons Towers, Condos, and Mixed-Use Buildings',
+    paragraphs: [
+      `Water damage in Tysons often involves more than one room or one tenant. A failed supply line in a condo tower can move through wall cavities and floor assemblies, while a leak in a retail or commercial suite can affect common corridors, elevators, storage rooms, and adjacent spaces before the source is controlled.`,
+      `Flood Doctor supports Tysons property owners, condo associations, and property managers with extraction, drying, moisture mapping, and repair planning for water losses in dense vertical buildings. We account for loading docks, elevators, security desks, work-hour rules, shared mechanical systems, and the need to keep residents or businesses informed while work is underway.`,
+    ],
+    localContext:
+      'Tysons properties around Tysons Corner Center, Tysons Galleria, The Boro, and the Route 7/123 corridor mix high-rise housing, retail, hotels, and commercial towers, so water damage response often requires coordination with building staff and multiple affected parties.',
   },
-  processSteps: [],
-  localChallenges: [],
+  processSteps: [
+    {
+      title: 'Access and Source Coordination',
+      description:
+        'We coordinate with the caller, building management, or association contacts to identify access points, water shutoffs, freight elevator options, and any affected neighboring areas.',
+      timeframe: 'Initial call',
+    },
+    {
+      title: 'Water Removal and Moisture Mapping',
+      description:
+        'Standing water is extracted where accessible, and moisture readings help track migration through flooring, walls, ceilings, millwork, and shared building components.',
+      timeframe: 'Emergency phase',
+    },
+    {
+      title: 'Containment and Drying Setup',
+      description:
+        'Drying equipment is placed to fit occupied condos, commercial suites, corridors, or retail areas while limiting disruption and maintaining safe pathways where possible.',
+      timeframe: 'Same visit',
+    },
+    {
+      title: 'Monitoring and Scope Updates',
+      description:
+        'Moisture levels are checked as drying progresses, with updates for owners, association contacts, property managers, and insurers when documentation is needed.',
+      timeframe: 'Drying period',
+    },
+    {
+      title: 'Repair Planning',
+      description:
+        'After affected materials are dry or removed, we outline repair needs for finishes, baseboards, drywall, flooring, cabinetry, and other affected assemblies.',
+      timeframe: 'After mitigation',
+    },
+  ],
+  localChallenges: [
+    {
+      title: 'Vertical Water Migration',
+      description:
+        'Tysons condo and commercial towers can move water downward through chases, penetrations, and ceiling assemblies, sometimes affecting spaces that are not directly beside the source.',
+      solution:
+        'We check likely migration paths and document affected areas so owners and building contacts can make informed decisions quickly.',
+    },
+    {
+      title: 'Condo Association and Property Manager Coordination',
+      description:
+        'Many Tysons losses involve unit owners, association rules, property managers, residents, tenants, and insurance adjusters at the same time.',
+      solution:
+        'We keep the mitigation scope organized around access, notices, affected areas, and documentation so the restoration process is easier to coordinate.',
+    },
+    {
+      title: 'Retail and Mixed-Use Disruption',
+      description:
+        'Water in a mixed-use building near Tysons Corner Center, Tysons Galleria, or The Boro can affect customer-facing areas, back-of-house storage, common corridors, and residential levels.',
+      solution:
+        'We prioritize extraction, drying layout, and sequencing that protects affected materials while helping the property maintain safe access where conditions allow.',
+    },
+  ],
   pricingSection: {
-    headline: '',
-    intro: '',
-    factors: [],
-    cta: '',
+    headline: 'Water Damage Restoration Costs in Tysons',
+    intro:
+      'Costs vary by water source, affected square footage, building access, material types, number of affected units, and whether work must be coordinated around residents, tenants, or business hours.',
+    factors: [
+      'Number of affected units, suites, corridors, or common areas',
+      'Access needs such as loading docks, elevators, parking controls, and security procedures',
+      'Flooring, drywall, millwork, ceiling, and insulation removal or drying requirements',
+      'Water category and time before extraction and drying begin',
+      'Documentation needs for owners, associations, property managers, and insurers',
+    ],
+    cta: 'Call (877) 497-0007 to discuss a Tysons water damage cleanup and next steps for assessment, mitigation, and repair planning.',
   },
   serviceAreaSection: {
-    neighborhoods: [],
-    responseTime: '',
+    neighborhoods: [
+      'Tysons Corner Center area',
+      'Tysons Galleria area',
+      'The Boro',
+      'Route 7 corridor',
+      'Route 123 corridor',
+      'Tysons Central',
+      'Old Courthouse Road area',
+      'Westpark Drive area',
+    ],
+    responseTime: 'Available 24/7 for Tysons water damage calls; arrival timing depends on access, traffic, weather, and building procedures.',
   },
   faqs: [
     {
@@ -46,7 +119,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Can you work in Tysons buildings with specific vendor requirements?',
-      answer: 'Yes, we maintain pre-approved vendor status with Tysons-area property management requirements and regularly work within HOA vendor guidelines. We carry comprehensive insurance coverage meeting high-rise building requirements, provide all required documentation and certificates, and follow building-specific protocols for access, work hours, and restoration standards. Our teams are experienced in professional communication with building staff, HOA boards, and property managers.',
+      answer: 'We can work within many Tysons-area property management and association requirements. We provide requested documentation, follow building-specific protocols for access and work hours, and coordinate communication with building staff, HOA boards, and property managers.',
     },
     {
       question: 'What happens if water damage affects the parking garage in my Tysons building?',
@@ -63,7 +136,7 @@ export const content: CityServiceContent = {
     'water-damage-restoration-process',
   ],
   finalCTA: {
-    headline: '',
+    headline: 'Get Tysons Water Damage Help',
     paragraph: [
       `Tysons' status as Northern Virginia's premier urban center demands water damage restoration services that match the sophistication of its buildings and the expectations of its residents and businesses. Our comprehensive restoration capabilities, specialized high-rise experience, and understanding of Tysons' unique building environment make us the local choice for property managers, HOA boards, and property owners throughout the area.`,
       'From luxury condominiums in Tysons Corner to Class A commercial buildings in Tysons Central, from mixed-use developments at The Boro to emerging properties along The Mile, we provide professional water damage restoration that protects property values, preserves premium finishes, and minimizes disruption to residential and business operations.',

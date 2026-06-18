@@ -5,23 +5,96 @@ export const content: CityServiceContent = {
     title: 'Burst Pipe Repair & Water Damage Restoration in Tysons, VA',
     description: 'Emergency burst pipe repair and water damage restoration in Tysons VA. Specialized in high-rise plumbing failures, multi-floor flooding, and complex building system repairs.',
   },
-  h1: '',
+  h1: 'Burst Pipe Cleanup in Tysons, VA',
   introSection: {
-    headline: '',
-    paragraphs: [],
-    localContext: '',
+    headline: 'Burst Pipe Water Cleanup for Tysons Condos and Commercial Buildings',
+    paragraphs: [
+      `A burst pipe in Tysons can affect more than the room where it starts. In a condo tower or commercial building, water can move through risers, walls, ceilings, elevator lobbies, mechanical areas, and adjacent tenant spaces before valves are closed.`,
+      `Flood Doctor helps with water extraction, drying, moisture checks, affected-material removal, and repair planning after burst pipe events in Tysons high-rise condos, retail spaces, workplaces, and mixed-use properties. We coordinate with owners, condo associations, property managers, and building staff so access and communication do not slow down the mitigation work.`,
+    ],
+    localContext:
+      'Tysons burst pipe calls often involve vertical buildings near Tysons Corner Center, Tysons Galleria, The Boro, and the Route 7/123 corridor, where shared plumbing systems and multiple affected parties make documentation and coordination especially important.',
   },
-  processSteps: [],
-  localChallenges: [],
+  processSteps: [
+    {
+      title: 'Water Shutoff and Access Coordination',
+      description:
+        'We help coordinate access with the caller and building contacts, including unit entry, riser shutoff questions, affected neighbors, elevators, and staging areas.',
+      timeframe: 'Initial call',
+    },
+    {
+      title: 'Extraction and Affected Area Mapping',
+      description:
+        'Water is extracted from accessible areas, and moisture readings help identify spread through floors, walls, ceilings, and adjacent units or suites.',
+      timeframe: 'Emergency phase',
+    },
+    {
+      title: 'Selective Removal and Drying',
+      description:
+        'Wet materials that cannot reasonably dry in place are removed, and drying equipment is set for remaining affected assemblies.',
+      timeframe: 'Mitigation phase',
+    },
+    {
+      title: 'Multi-Party Updates',
+      description:
+        'Drying progress and affected-area documentation are organized for owners, association contacts, property managers, and insurance adjusters as needed.',
+      timeframe: 'Drying period',
+    },
+    {
+      title: 'Repair Planning After Drying',
+      description:
+        'Once mitigation is complete, we outline repair needs for drywall, trim, flooring, cabinets, ceilings, and other pipe-loss damage.',
+      timeframe: 'After mitigation',
+    },
+  ],
+  localChallenges: [
+    {
+      title: 'Shared Plumbing Systems',
+      description:
+        'Pipe failures in Tysons towers may involve unit plumbing, risers, common walls, or mechanical spaces, making source documentation important.',
+      solution:
+        'We document visible conditions, affected areas, and moisture readings so the responsible parties can review the scope with the right context.',
+    },
+    {
+      title: 'Damage Below the Source',
+      description:
+        'Water from an upper-level pipe can reach units, suites, corridors, or building areas below through penetrations and concealed cavities.',
+      solution:
+        'We inspect likely downward paths and coordinate access to spaces below when the caller or building contact can authorize entry.',
+    },
+    {
+      title: 'Busy Tysons Building Logistics',
+      description:
+        'Buildings near Routes 7 and 123 may have security desks, parking controls, freight elevator rules, and work-hour limits.',
+      solution:
+        'We build the cleanup plan around those access requirements while prioritizing extraction, drying, and protection of affected areas.',
+    },
+  ],
   pricingSection: {
-    headline: '',
-    intro: '',
-    factors: [],
-    cta: '',
+    headline: 'Burst Pipe Cleanup Costs in Tysons',
+    intro:
+      'Costs depend on the size of the pipe loss, how long water ran, how many spaces were affected, building access requirements, and the amount of drying or repair work needed.',
+    factors: [
+      'Whether one unit, multiple units, tenant suites, corridors, or common areas are affected',
+      'Water shutoff timing and amount of standing water present',
+      'Removal needs for drywall, insulation, flooring, trim, cabinetry, or ceilings',
+      'Access coordination with condo associations, property managers, security, or building engineers',
+      'Documentation needs for owners, associations, and insurance adjusters',
+    ],
+    cta: 'Call (877) 497-0007 for Tysons burst pipe cleanup support and next steps for mitigation, drying, and repair planning.',
   },
   serviceAreaSection: {
-    neighborhoods: [],
-    responseTime: '',
+    neighborhoods: [
+      'Tysons Corner Center area',
+      'Tysons Galleria area',
+      'The Boro',
+      'Route 7 corridor',
+      'Route 123 corridor',
+      'Tysons Central',
+      'Jones Branch Drive area',
+      'Old Courthouse Road area',
+    ],
+    responseTime: 'Available 24/7 for Tysons burst pipe calls; arrival timing depends on access, traffic, weather, and building procedures.',
   },
   faqs: [
     {
@@ -46,7 +119,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Can you work in my Tysons building if the HOA has specific vendor requirements?',
-      answer: 'Yes, we maintain pre-approved vendor status with Tysons-area property management requirements and regularly work within HOA requirements. We carry comprehensive insurance meeting high-rise building standards, provide all required certificates and documentation, and follow building-specific protocols. Emergency response typically allows immediate entry, with formal vendor approval processed during initial restoration phases.',
+      answer: 'We can work within many Tysons-area property management and HOA requirements. We provide requested documentation and follow building-specific protocols for access, work hours, and communication. Emergency entry rules vary by building, so we coordinate with the owner, manager, or association contact as early as possible.',
     },
     {
       question: 'What if the burst pipe affects the commercial workplace where I work?',
@@ -63,7 +136,7 @@ export const content: CityServiceContent = {
     'water-damage-restoration-process',
   ],
   finalCTA: {
-    headline: '',
+    headline: 'Get Tysons Burst Pipe Cleanup Help',
     paragraph: [
       `Burst pipe emergencies in Tysons' high-rise environment demand immediate professional response backed by specialized experience and commercial-grade equipment. Our comprehensive burst pipe restoration services address the unique challenges of vertical water damage, multi-unit coordination, and complex building systems that characterize Tysons properties.`,
       'From luxury condominiums in Tysons Corner to Class A commercial buildings in Tysons Central, from established towers to new mixed-use developments at The Boro, we provide professional burst pipe restoration that minimizes damage extent, accelerates recovery timelines, and coordinates effectively with building management and HOA requirements.',

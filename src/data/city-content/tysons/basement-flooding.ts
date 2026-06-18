@@ -5,28 +5,101 @@ export const content: CityServiceContent = {
     title: 'Basement & Underground Parking Flooding Solutions in Tysons, VA',
     description: '24/7 basement and underground parking garage flood cleanup in Tysons VA. Specialized in high-rise building drainage systems and below-grade water removal.',
   },
-  h1: '',
+  h1: 'Basement and Underground Parking Flooding Cleanup in Tysons, VA',
   introSection: {
-    headline: '',
-    paragraphs: [],
-    localContext: '',
+    headline: 'Below-Grade Flood Cleanup for Tysons Garages, Basements, and Mechanical Areas',
+    paragraphs: [
+      `Tysons has many properties with underground parking, lower-level storage, mechanical rooms, and below-grade commercial areas. When stormwater, drainage backups, plumbing failures, or equipment issues send water into those spaces, cleanup must account for access, electrical safety, concrete drying, elevators, and building operations.`,
+      `Flood Doctor provides water removal, drying, moisture checks, affected-material cleanup, and repair planning for Tysons below-grade flooding. We coordinate with building management, condo associations, property managers, and owners to address flooded garages, basement rooms, loading areas, and lower-level support spaces.`,
+    ],
+    localContext:
+      'Below-grade flooding around Tysons Corner Center, Tysons Galleria, The Boro, and the Route 7/123 corridor can affect parking access, mechanical equipment, resident storage, commercial operations, and shared building systems.',
   },
-  processSteps: [],
-  localChallenges: [],
+  processSteps: [
+    {
+      title: 'Safety and Water Source Review',
+      description:
+        'We review water depth, likely source, access points, electrical concerns, elevator or stair impacts, and whether building staff need to restrict entry.',
+      timeframe: 'Initial call',
+    },
+    {
+      title: 'Pumping and Extraction',
+      description:
+        'Standing water is removed from accessible areas using equipment sized to the conditions, with attention to drainage routes and ongoing inflow.',
+      timeframe: 'Emergency phase',
+    },
+    {
+      title: 'Debris and Material Cleanup',
+      description:
+        'Wet debris, affected porous materials, and impacted contents are addressed so drying can begin and hazards can be reduced.',
+      timeframe: 'After water removal',
+    },
+    {
+      title: 'Concrete and Enclosed-Space Drying',
+      description:
+        'Drying equipment and monitoring are used for concrete, lower-level rooms, storage areas, and other enclosed spaces where humidity can linger.',
+      timeframe: 'Drying period',
+    },
+    {
+      title: 'Repair and Prevention Notes',
+      description:
+        'We document affected areas and outline repair needs or observed drainage concerns for owners, building managers, and insurance review.',
+      timeframe: 'After mitigation',
+    },
+  ],
+  localChallenges: [
+    {
+      title: 'Underground Parking Access',
+      description:
+        'Flooded Tysons garages can limit resident, tenant, customer, and service access while also creating slip hazards and vehicle concerns.',
+      solution:
+        'We prioritize water removal, safe work zones, and communication with building contacts so access decisions are based on actual conditions.',
+    },
+    {
+      title: 'Mechanical and Elevator Risk',
+      description:
+        'Below-grade water can threaten elevator pits, electrical rooms, pumps, HVAC equipment, and other systems that support the whole building.',
+      solution:
+        'We coordinate with building engineers and qualified trades when equipment evaluation is needed, while documenting water levels and affected areas.',
+    },
+    {
+      title: 'Concrete Drying and Humidity',
+      description:
+        'Concrete, block, and enclosed garage levels can hold moisture and humidity long after visible water is removed.',
+      solution:
+        'We use drying equipment and monitoring to reduce moisture and help determine when the area is ready for repair or normal use.',
+    },
+  ],
   pricingSection: {
-    headline: '',
-    intro: '',
-    factors: [],
-    cta: '',
+    headline: 'Basement and Garage Flood Cleanup Costs in Tysons',
+    intro:
+      'Pricing depends on water depth, square footage, source, contamination level, access, pumping needs, drying time, debris, and whether mechanical or common areas are affected.',
+    factors: [
+      'Amount of standing water and ongoing inflow from drains, storms, or plumbing',
+      'Affected garage levels, basement rooms, storage areas, loading zones, or mechanical spaces',
+      'Need for pumping, extraction, debris removal, drying equipment, and monitoring',
+      'Coordination with building management, engineers, associations, tenants, or residents',
+      'Repair needs for walls, floors, doors, finishes, contents, or support systems',
+    ],
+    cta: 'Call (877) 497-0007 for Tysons basement, garage, or below-grade flood cleanup support.',
   },
   serviceAreaSection: {
-    neighborhoods: [],
-    responseTime: '',
+    neighborhoods: [
+      'Tysons Corner Center area',
+      'Tysons Galleria area',
+      'The Boro',
+      'Route 7 corridor',
+      'Route 123 corridor',
+      'Tysons Central',
+      'Westpark Drive area',
+      'Jones Branch Drive area',
+    ],
+    responseTime: 'Available 24/7 for Tysons below-grade flooding calls; arrival timing depends on access, traffic, weather, and building procedures.',
   },
   faqs: [
     {
       question: 'How quickly can you respond to parking garage flooding in Tysons?',
-      answer: `We provide 24/7 emergency response with industrial pumping equipment typically arriving within 90 minutes. For large-scale garage flooding, we can deploy multiple pumping units simultaneously to accelerate water removal. We coordinate immediately with building management for access to utility areas and drainage systems. Our teams are experienced with Tysons' major properties and can navigate building access procedures efficiently during emergencies.`,
+      answer: `We provide 24/7 emergency response with industrial pumping equipment for Tysons garage flooding. For large-scale garage flooding, we can deploy multiple pumping units when available to accelerate water removal. We coordinate with building management for access to utility areas and drainage systems. Our teams are familiar with the access issues common in Tysons high-rise and mixed-use properties.`,
     },
     {
       question: `Can you pump water from a Tysons garage while it's still raining?`,
@@ -59,7 +132,7 @@ export const content: CityServiceContent = {
   ],
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],
   finalCTA: {
-    headline: '',
+    headline: 'Get Tysons Below-Grade Flooding Help',
     paragraph: [
       `Tysons' extensive below-grade development creates unique flooding challenges that demand specialized experience, industrial-scale equipment, and rapid emergency response. Our comprehensive underground flooding services protect parking garages, mechanical rooms, and commercial spaces throughout Tysons Corner, Tysons Central, The Boro, and surrounding developments.`,
       'From spring snowmelt overwhelming drainage systems to mechanical room failures threatening critical infrastructure, we provide professional flooding remediation that minimizes damage, protects building systems, and accelerates recovery. Our industrial pumping capabilities, commercial drying experience, and coordination with building management ensure effective response to flooding events of any scale.',

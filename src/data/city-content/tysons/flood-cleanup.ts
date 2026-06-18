@@ -2,26 +2,99 @@ import type { CityServiceContent } from '../types'
 
 export const content: CityServiceContent = {
   meta: {
-    title: 'Commercial Flood Cleanup & Office Water Damage in Tysons, VA',
-    description: '24/7 commercial flood cleanup in Tysons VA. Specialized in commercial building water damage, retail flooding, and business continuity during restoration.',
+    title: 'Commercial Flood Cleanup & Water Damage in Tysons, VA',
+    description: '24/7 commercial flood cleanup in Tysons VA for retail, workplace, condo, and mixed-use building water damage.',
   },
-  h1: '',
+  h1: 'Flood Cleanup in Tysons, VA',
   introSection: {
-    headline: '',
-    paragraphs: [],
-    localContext: '',
+    headline: 'Flood Cleanup for Tysons Commercial, Retail, and Mixed-Use Properties',
+    paragraphs: [
+      `Flooding in Tysons can interrupt a retail tenant near the malls, a workplace suite along Route 7, a condo lobby, or a parking level serving multiple users. Cleanup has to address water removal, drying, safe access, and communication with building contacts at the same time.`,
+      `Flood Doctor helps Tysons property owners, tenants, condo associations, and managers manage flood cleanup with extraction, containment, drying equipment, moisture checks, and repair planning. The work is adapted to vertical buildings, shared corridors, elevators, loading areas, and busy mixed-use properties.`,
+    ],
+    localContext:
+      'Around Tysons Corner Center, Tysons Galleria, The Boro, and the Route 7/123 corridor, flood cleanup often needs to protect public-facing areas, tenant spaces, common elements, and building systems without overstating what can safely remain open.',
   },
-  processSteps: [],
-  localChallenges: [],
+  processSteps: [
+    {
+      title: 'Flood Source and Access Review',
+      description:
+        'We identify the likely water source, current water movement, building access requirements, and areas that may need notices or temporary restrictions.',
+      timeframe: 'Initial call',
+    },
+    {
+      title: 'Extraction and Safety Controls',
+      description:
+        'Water is removed from affected areas where accessible, and work zones are set to reduce slip hazards and separate cleanup areas from occupied spaces when possible.',
+      timeframe: 'Emergency phase',
+    },
+    {
+      title: 'Material and Moisture Assessment',
+      description:
+        'We evaluate flooring, walls, baseboards, insulation, storage areas, and common elements to determine what can be dried and what should be removed.',
+      timeframe: 'After extraction',
+    },
+    {
+      title: 'Drying and Monitoring',
+      description:
+        'Air movers, dehumidifiers, and moisture checks are used to move the property toward stable drying conditions and support documentation.',
+      timeframe: 'Drying period',
+    },
+    {
+      title: 'Repair Scope and Reopening Support',
+      description:
+        'We outline remaining repair needs and help coordinate the sequence for tenant spaces, common areas, and customer-facing areas.',
+      timeframe: 'After mitigation',
+    },
+  ],
+  localChallenges: [
+    {
+      title: 'High-Traffic Retail Areas',
+      description:
+        'Flooding near Tysons Corner Center or Tysons Galleria can affect sales floors, stock rooms, service corridors, and customer access routes.',
+      solution:
+        'We focus first on water removal, affected-material decisions, and drying layouts that separate cleanup zones from unaffected areas where safe.',
+    },
+    {
+      title: 'Commercial Tenant Coordination',
+      description:
+        'A single flood event can involve tenants, building engineers, property managers, security staff, and insurance contacts.',
+      solution:
+        'We organize documentation by affected area and keep communication tied to access, safety, drying progress, and next repair steps.',
+    },
+    {
+      title: 'Mixed-Use Building Complexity',
+      description:
+        'Tysons mixed-use properties may combine retail, residential, parking, and shared mechanical systems in one building.',
+      solution:
+        'We assess how water may have moved between uses and coordinate cleanup so shared spaces and private spaces are handled in the right order.',
+    },
+  ],
   pricingSection: {
-    headline: '',
-    intro: '',
-    factors: [],
-    cta: '',
+    headline: 'Flood Cleanup Costs in Tysons',
+    intro:
+      'Flood cleanup pricing depends on the water source, amount of standing water, affected materials, building access, drying time, and whether multiple tenants or common areas are involved.',
+    factors: [
+      'Water volume and how far it spread before cleanup began',
+      'Affected flooring, walls, trim, storage, fixtures, and common-area finishes',
+      'Need for after-hours access, loading dock use, elevator protection, or security coordination',
+      'Number of stakeholders requiring documentation or scheduling updates',
+      'Repair scope after extraction and drying are complete',
+    ],
+    cta: 'Call (877) 497-0007 to review flood cleanup needs for a Tysons commercial, retail, condo, or mixed-use property.',
   },
   serviceAreaSection: {
-    neighborhoods: [],
-    responseTime: '',
+    neighborhoods: [
+      'Tysons Corner Center area',
+      'Tysons Galleria area',
+      'The Boro',
+      'Route 7 corridor',
+      'Route 123 corridor',
+      'Tysons Central',
+      'Westpark Drive area',
+      'International Drive area',
+    ],
+    responseTime: 'Available 24/7 for Tysons flood cleanup calls; arrival timing depends on access, traffic, weather, and building procedures.',
   },
   faqs: [
     {
@@ -63,7 +136,7 @@ export const content: CityServiceContent = {
     'water-damage-insurance-claim-guide',
   ],
   finalCTA: {
-    headline: '',
+    headline: 'Get Tysons Flood Cleanup Help',
     paragraph: [
       `Commercial flooding in Tysons demands restoration services that understand business impact, prioritize operational continuity, and execute restoration with the professionalism expected in Northern Virginia's premier business district. Our comprehensive commercial flood cleanup services combine industrial capabilities with business-focused protocols that minimize interruption and accelerate recovery.`,
       'From Class A commercial buildings in Tysons Central to retail operations in Tysons Corner, from restaurant flooding to technology company disasters, we provide commercial restoration backed by specialized equipment, experienced teams, and deep understanding of the unique pressures facing Tysons businesses during flood recovery.',
