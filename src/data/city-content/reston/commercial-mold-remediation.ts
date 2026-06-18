@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Reston, VA | Flood Doctor`,
-    description: `Reston's trusted commercial mold remediation team. CIH-coordinated protocols for Town Center offices, Lake Anne businesses, and South Lakes commercial properties. Call (877) 497-0007.`,
+    description: `Reston's local commercial mold remediation team. CIH-coordinated protocols for Town Center workplaces, Lake Anne businesses, and South Lakes commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Reston, Virginia`,
   introSection: {
     headline: `Community-Savvy Mold Remediation for Reston Commercial Properties`,
     paragraphs: [
-      `Mold contamination in Reston commercial buildings requires remediation teams that understand both industrial hygiene standards and the planned community's governance framework. A chronic roof leak at a Hunters Woods office complex feeds mold growth that the shared HVAC distributes to every tenant suite. A persistent condensation issue at a Reston Town Center restaurant creates mold behind kitchen walls that triggers health department investigation. A plumbing failure behind walls at a South Lakes medical practice generates mold colonies that patients report through musty odors. Reston's commercial property managers must satisfy CIH remediation standards, Reston Association guidelines, tenant expectations, and sometimes health department requirements—simultaneously. Flood Doctor provides CIH-coordinated mold remediation with the community awareness that Reston commercial operations demand.`,
-      `Reston's commercial mold vulnerabilities reflect the planned community's development history and natural setting. Lake Anne area commercial buildings feature aging flat roofs and original HVAC systems that create condensation pathways feeding wall cavity mold. South Lakes commercial clusters sit in wooded areas where ambient humidity and leaf accumulation contribute to chronic moisture conditions. Town Center's modern buildings occasionally experience construction-related moisture problems from sealed building envelopes that trap interior humidity. North Point office parks near the W&OD Trail experience elevated groundwater that migrates through slab foundations during wet seasons. Our teams remediate mold in Reston's full spectrum of commercial properties—from Lake Anne's founding-era buildings to Town Center's contemporary towers—under CIH protocols with independent verification.`,
+      `Mold contamination in Reston commercial buildings requires remediation teams that understand both industrial hygiene standards and the planned community's governance framework. A chronic roof leak at a Hunters Woods workplace complex feeds mold growth that the shared HVAC distributes to every tenant suite. A persistent condensation issue at a Reston Town Center restaurant creates mold behind kitchen walls that triggers health department investigation. A plumbing failure behind walls at a South Lakes medical practice generates mold colonies that patients report through musty odors. Reston's commercial property managers must satisfy CIH remediation standards, Reston Association guidelines, tenant expectations, and sometimes health department requirements—simultaneously. Flood Doctor provides CIH-coordinated mold remediation with the community awareness that Reston commercial operations demand.`,
+      `Reston's commercial mold vulnerabilities reflect the planned community's development history and natural setting. Lake Anne area commercial buildings feature aging flat roofs and original HVAC systems that create condensation pathways feeding wall cavity mold. South Lakes commercial clusters sit in wooded areas where ambient humidity and leaf accumulation contribute to chronic moisture conditions. Town Center's modern buildings occasionally experience construction-related moisture problems from sealed building envelopes that trap interior humidity. North Point business parks near the W&OD Trail experience elevated groundwater that migrates through slab foundations during wet seasons. Our teams remediate mold in Reston's full spectrum of commercial properties—from Lake Anne's founding-era buildings to Town Center's contemporary towers—under CIH protocols with independent verification.`,
     ],
-    localContext: `Reston's diverse commercial building stock—spanning decades of planned community development in wooded, lake-adjacent settings—creates varied mold challenges requiring both industrial hygiene expertise and community-specific operational awareness.`,
+    localContext: `Reston's diverse commercial building stock—spanning decades of planned community development in wooded, lake-adjacent settings—creates varied mold challenges requiring both industrial hygiene experience and community-specific operational awareness.`,
   },
   processSteps: [
     {
       title: `CIH Assessment with Community Context`,
-      description: `We coordinate a certified industrial hygienist to assess your Reston commercial property. Air and surface sampling determine contamination extent and species. Assessment includes evaluation of building-specific moisture sources—whether aging Lake Anne infrastructure, South Lakes humidity, or Town Center building system issues.`,
+      description: `We coordinate a qualified industrial hygienist to assess your Reston commercial property. Air and surface sampling determine contamination extent and species. Assessment includes evaluation of building-specific moisture sources—whether aging Lake Anne infrastructure, South Lakes humidity, or Town Center building system issues.`,
       timeframe: `Days 1-3`,
     },
     {
       title: `Containment for Reston Building Types`,
-      description: `Our crews build containment adapted to your building configuration—shared-wall office clusters, multi-tenant retail, or Town Center high-rise suites. Negative air pressure and HEPA filtration protect occupied adjacent spaces. We coordinate scheduling with Reston Association guidelines as applicable.`,
+      description: `Our crews build containment adapted to your building configuration—shared-wall workplace clusters, multi-tenant retail, or Town Center high-rise suites. Negative air pressure and HEPA filtration protect occupied adjacent spaces. We coordinate scheduling with Reston Association guidelines as applicable.`,
       timeframe: `Day 3-4`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `Negative Air Machines`,
-        purpose: `Maintain containment integrity in shared-wall office clusters and multi-tenant commercial buildings throughout Reston`,
+        purpose: `Maintain containment integrity in shared-wall workplace clusters and multi-tenant commercial buildings throughout Reston`,
       },
       {
         name: `Moisture Mapping Systems`,
@@ -87,7 +87,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HEPA Vacuum Systems`,
-        purpose: `Remove settled spores from structural surfaces meeting IICRC S520 commercial mold removal standards`,
+        purpose: `Remove settled spores from structural surfaces meeting industry-standard S520 commercial mold removal standards`,
       },
       {
         name: `Thermal Imaging Cameras`,
@@ -95,14 +95,14 @@ export const content: CityServiceContent = {
         brand: `FLIR`,
       },
     ],
-    localNote: `Our Reston equipment fleet handles the community's commercial variety—from Lake Anne's original buildings to Town Center's modern towers to South Lakes and North Point office clusters in wooded settings.`,
+    localNote: `Our Reston equipment fleet handles the community's commercial variety—from Lake Anne's original buildings to Town Center's modern towers to South Lakes and North Point workplace clusters in wooded settings.`,
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Reston`,
     intro: `Reston commercial mold remediation costs depend on building type, contamination scope, and any special requirements for sensitive occupancies or community compliance. We provide clear estimates following CIH assessment and coordinate with commercial insurance when mold results from a covered water event.`,
     factors: [
       `Building age and type—Lake Anne original buildings versus Town Center modern construction differ in remediation approach`,
-      `Contamination scope—single suite versus HVAC-distributed mold across shared systems in Reston office clusters`,
+      `Contamination scope—single suite versus HVAC-distributed mold across shared systems in Reston workplace clusters`,
       `CIH professional services—assessment, protocol development, and clearance testing`,
       `Humidity management—lake-adjacent and wooded properties may need supplemental dehumidification systems`,
       `Community compliance—Reston Association guidelines may affect scheduling and methods`,
@@ -138,11 +138,11 @@ export const content: CityServiceContent = {
       answer: `Reston Association requirements may affect contractor access, work hours, equipment staging, and exterior restoration standards. Our project managers coordinate compliance with community guidelines alongside CIH remediation protocols.`,
     },
     {
-      question: `How do shared HVAC systems spread mold in Reston office parks?`,
+      question: `How do shared HVAC systems spread mold in Reston business parks?`,
       answer: `Rooftop or centralized HVAC units serving multiple suites distribute spores through shared ductwork. Mold growing near any intake or supply point reaches every connected tenant space. Effective remediation must include the entire air distribution system.`,
     },
     {
-      question: `Can our Reston office building stay open during remediation?`,
+      question: `Can our Reston commercial building stay open during remediation?`,
       answer: `Areas under active remediation must be vacated. Our containment engineering allows unaffected suites to remain operational. HVAC zone isolation and negative air pressure prevent spore migration to occupied spaces.`,
     },
     {
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold in Your Reston Commercial Property?`,
-    paragraph: `From Town Center's modern offices to Lake Anne's founding-era commercial spaces, our CIH-coordinated teams deliver clearance-verified mold remediation with Reston community awareness. Call (877) 497-0007 for a confidential assessment.`,
+    paragraph: `From Town Center's modern workplaces to Lake Anne's founding-era commercial spaces, our CIH-coordinated teams deliver clearance-verified mold remediation with Reston community awareness. Call (877) 497-0007 for a confidential assessment.`,
   },
 }

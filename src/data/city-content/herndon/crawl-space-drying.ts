@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Herndon, VA | Flood Doctor',
-    description: `Herndon crawl space drying specialists. Serving Downtown Herndon, Fox Mill & Franklin Farm. 1970s-90s home expertise. Storm drain solutions. Call (877) 497-0007.`,
+    description: `Herndon crawl space drying specialists. Serving Downtown Herndon, Fox Mill & Franklin Farm. 1970s-90s home experience. Storm drain solutions. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Herndon, Virginia',
   introSection: {
@@ -100,11 +100,11 @@ export const content: CityServiceContent = {
         purpose: 'Disinfect crawl spaces affected by storm drain or sewer backup contamination',
       },
     ],
-    localNote: 'Our Herndon crews are positioned near Dulles Airport for rapid response throughout the corridor. Equipment loads are sized for the 1,000-2,000 square foot crawl spaces typical of Fox Mill, Franklin Farm, and downtown Herndon properties.',
+    localNote: 'Our Herndon crews are available near Dulles Airport for rapid response throughout the corridor. Equipment loads are sized for the 1,000-2,000 square foot crawl spaces typical of Fox Mill, Franklin Farm, and downtown Herndon properties.',
   },
   pricingSection: {
     headline: 'Crawl Space Encapsulation Costs in Herndon',
-    intro: `Herndon crawl space encapsulation is a practical investment that reduces energy costs, eliminates musty odors, and protects your home's structural foundation. We provide free inspections and straightforward proposals with no hidden fees or surprise charges.`,
+    intro: `Herndon crawl space encapsulation is a practical investment that reduces energy costs, eliminates musty odors, and protects your home's structural foundation. We provide free inspections and straightforward proposals with itemized fees or surprise charges.`,
     factors: [
       'Crawl space size and accessibility—clearance height and access points affect labor time',
       'Existing damage requiring remediation—mold, wood rot, failed barriers, contaminated soil',

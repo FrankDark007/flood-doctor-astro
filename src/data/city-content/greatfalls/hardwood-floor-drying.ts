@@ -10,15 +10,15 @@ export const content: CityServiceContent = {
     headline: 'Protecting Great Falls Estate Hardwood Investments',
     paragraphs: [
       `Great Falls estate homes showcase the finest hardwood flooring available—hand-scraped imported European walnut across Forestville great rooms, book-matched exotic veneers in Seneca Estates formal dining rooms, reclaimed antique French oak throughout Hickory Farms manor halls, and custom-stained wide-plank installations that cost $30 to $60 per square foot before installation. When water from a private well system failure, a pool house plumbing breach, or a wine cellar cooling system malfunction contacts these surfaces in your Riverbend estate, the stakes are measured in tens of thousands of dollars. Many of these floors were custom-milled and finished on site—they cannot be reordered from a supplier, making in-place drying not just economical but essential for preservation.`,
-      `The scale of Great Falls properties amplifies both the risk and the reward of specialized drying. A single water event can affect 3,000 to 5,000 square feet of continuous premium hardwood spanning foyers, galleries, great rooms, and hallways. Pool house flooding in a Georgetown Pike estate sends water across outdoor-rated hardwood that transitions to interior premium species at the threshold. Equestrian property wash stall drainage failures saturate adjacent structures where hardwood extends into tack rooms and offices. Flood Doctor handles the estate-scale logistics, premium material expertise, and absolute discretion that Great Falls homeowners require when their most visible flooring investment is at risk—arriving in unmarked vehicles and working with the care that six-figure flooring installations demand.`,
+      `The scale of Great Falls properties amplifies both the risk and the reward of specialized drying. A single water event can affect 3,000 to 5,000 square feet of continuous premium hardwood spanning foyers, galleries, great rooms, and hallways. Pool house flooding in a Georgetown Pike estate sends water across outdoor-rated hardwood that transitions to interior premium species at the threshold. Equestrian property wash stall drainage failures saturate adjacent structures where hardwood extends into tack rooms and workplaces. Flood Doctor handles the estate-scale logistics, premium material experience, and absolute discretion that Great Falls homeowners require when their most visible flooring investment is at risk—arriving in unmarked vehicles and working with the care that six-figure flooring installations demand.`,
     ],
     localContext: `Great Falls estates feature custom-milled exotic hardwood—European walnut, reclaimed French oak, hand-scraped imports—where replacement is often impossible and floor areas span thousands of square feet, making specialized in-place drying the only viable preservation approach.`,
   },
   processSteps: [
     {
       title: 'Confidential Estate Response',
-      description: `When you call (877) 497-0007, we respond discreetly within 45 minutes. Our assessment identifies the exact wood species, finish type, and installation method—critical for exotic and custom-milled floors where manufacturer specifications may not exist. Moisture mapping covers the full affected area across multiple connected rooms.`,
-      timeframe: 'Within 45 minutes',
+      description: `When you call (877) 497-0007, we respond discreetly as quickly as access and conditions allow. Our assessment identifies the exact wood species, finish type, and installation method—critical for exotic and custom-milled floors where manufacturer specifications may not exist. Moisture mapping covers the full affected area across multiple connected rooms.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Premium Surface Extraction',
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Arnon Heights',
       'River Creek',
     ],
-    responseTime: '45-minute emergency response to all Great Falls estates. Our crews arrive in unmarked vehicles with equipment scaled for the premium flooring and expansive floor plans that define this community.',
+    responseTime: 'prompt emergency response to all Great Falls estates. Our crews arrive in unmarked vehicles with equipment scaled for the premium flooring and expansive floor plans that define this community.',
   },
   faqs: [
     {

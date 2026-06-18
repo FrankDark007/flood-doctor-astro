@@ -12,11 +12,11 @@ export const content: CityServiceContent = {
       `Large loss events in Great Falls affect properties that exist nowhere else in Northern Virginia—equestrian campuses with millions invested in facilities and livestock welfare infrastructure, luxury professional complexes housing practices serving the region's wealthiest families, and estate-adjacent commercial operations where the property itself represents significant real estate value beyond any building improvement. A major watershed flood devastating an equestrian campus near Riverbend Park, a catastrophic well-system failure flooding a Seneca Estates professional complex, or a storm event destroying commercial facilities at multiple Forestville properties simultaneously—these events generate restoration projects where asset protection, facility specialization, and ultra-premium service standards define the engagement from first response through final reconstruction.
 
 Flood Doctor's large loss division has managed the most demanding property restorations in the Great Falls market. Our senior project directors have coordinated equestrian facility recoveries, managed luxury professional complex restorations, and delivered multi-property watershed flood recovery projects—bringing enterprise capability with the discretion and premium-market awareness that Great Falls requires.`,
-      `Great Falls large loss projects involve restoration challenges absent from any other Northern Virginia market. Equestrian facilities require restoration that integrates animal welfare considerations—temporary stabling during construction, footing replacement meeting competition standards, and climate systems designed for horse health rather than human comfort. Luxury professional offices demand finish specifications sourced through the same high-end suppliers who built the original spaces—custom stone, specialty wood species, and proprietary design elements that commodity contractors cannot replicate. And the rural-luxury setting means that project logistics must navigate private roads, limited utility infrastructure, and properties where equipment staging requires acreage rather than parking lots.
+      `Great Falls large loss projects involve restoration challenges absent from any other Northern Virginia market. Equestrian facilities require restoration that integrates animal welfare considerations—temporary stabling during construction, footing replacement meeting competition standards, and climate systems designed for horse health rather than human comfort. Luxury professional workplaces demand finish specifications sourced through the same high-end suppliers who built the original spaces—custom stone, specialty wood species, and proprietary design elements that commodity contractors cannot replicate. And the rural-luxury setting means that project logistics must navigate private roads, limited utility infrastructure, and properties where equipment staging requires acreage rather than parking lots.
 
 Our project directors bring both the premium-market sensibility and the practical rural-property logistics experience that Great Falls demands. They source materials through luxury-market channels, coordinate with equine facility designers, and manage construction logistics on properties where the nearest paved road may be a quarter mile from the work site.`,
     ],
-    localContext: `Great Falls' ultra-premium commercial properties—equestrian campuses, luxury professional complexes, and estate-scale commercial operations—create large loss scenarios requiring project directors with luxury-market sourcing capability, specialized facility expertise, and rural-property logistics experience.`,
+    localContext: `Great Falls' ultra-premium commercial properties—equestrian campuses, luxury professional complexes, and estate-scale commercial operations—create large loss scenarios requiring project directors with luxury-market sourcing capability, specialized facility experience, and rural-property logistics experience.`,
   },
   processSteps: [
     {
@@ -26,7 +26,7 @@ Our project directors bring both the premium-market sensibility and the practica
     },
     {
       title: 'Specialized Facility Assessment',
-      description: 'Our team assesses damage with facility-specific expertise—equestrian infrastructure evaluation, luxury finish documentation, high-value asset cataloging, and environmental conditions assessment for the rural Great Falls setting.',
+      description: 'Our team assesses damage with facility-specific experience—equestrian infrastructure evaluation, luxury finish documentation, high-value asset cataloging, and environmental conditions assessment for the rural Great Falls setting.',
       timeframe: 'Hours 8-48',
     },
     {
@@ -36,7 +36,7 @@ Our project directors bring both the premium-market sensibility and the practica
     },
     {
       title: 'Specialist-Led Execution',
-      description: 'Specialized crews execute facility-appropriate restoration—equestrian construction specialists for barn and arena work, luxury finish craftsmen for professional office spaces, and environmental remediation crews for contaminated areas.',
+      description: 'Specialized crews execute facility-appropriate restoration—equestrian construction specialists for barn and arena work, luxury finish craftsmen for professional workplace spaces, and environmental remediation crews for contaminated areas.',
       timeframe: 'Weeks 1-8',
     },
     {
@@ -46,7 +46,7 @@ Our project directors bring both the premium-market sensibility and the practica
     },
     {
       title: 'Facility Commissioning & Project Closeout',
-      description: 'Equestrian facilities receive operational verification for animal safety. Professional offices are restored to pre-loss luxury standards. Complete documentation supports insurance claims for ultra-premium commercial properties.',
+      description: 'Equestrian facilities receive operational verification for animal safety. Professional workplaces are restored to documented luxury standards. Complete documentation supports insurance claims for ultra-premium commercial properties.',
       timeframe: 'Project completion',
     },
   ],
@@ -58,7 +58,7 @@ Our project directors bring both the premium-market sensibility and the practica
     },
     {
       title: 'Ultra-Premium Finish Procurement',
-      description: 'Great Falls luxury professional offices feature custom stone, rare wood species, artisan metalwork, and proprietary design elements. These materials are not available through standard construction supply channels and carry extended lead times that drive project duration.',
+      description: 'Great Falls luxury professional workplaces feature custom stone, rare wood species, artisan metalwork, and proprietary design elements. These materials are not available through standard construction supply channels and carry extended lead times that drive project duration.',
       solution: 'We identify specification-critical materials immediately and source through luxury-market suppliers. Long-lead items are ordered during the mitigation phase, and our construction team maintains relationships with the specialty craftsmen who serve the Great Falls ultra-premium market.',
     },
     {
@@ -82,7 +82,7 @@ Our project directors bring both the premium-market sensibility and the practica
       },
       {
         name: 'Animal-Safe Facility Equipment',
-        purpose: 'Restoration equipment and products certified safe for equestrian environments and animal welfare compliance',
+        purpose: 'Restoration equipment and products qualified safe for equestrian environments and animal welfare compliance',
       },
       {
         name: 'Luxury Finish Documentation',
@@ -114,7 +114,7 @@ Our project directors bring both the premium-market sensibility and the practica
       'Private infrastructure—well and septic system repair or replacement integrated into building restoration adds specialized scope',
       'High-value asset management—art, collections, and specialized equipment requiring individual protection and insurance documentation',
     ],
-    cta: `Call (877) 497-0007 for immediate large loss response. Our senior project director brings ultra-premium market expertise and rural-property logistics capability for Great Falls' most demanding restoration projects.`,
+    cta: `Call (877) 497-0007 for immediate large loss response. Our senior project director brings ultra-premium market experience and rural-property logistics capability for Great Falls' most demanding restoration projects.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ Our project directors bring both the premium-market sensibility and the practica
       'Great Falls Park Adjacent',
       'Riverbend Park Area',
     ],
-    responseTime: 'Emergency stabilization with asset protection within 60 minutes. Full large loss mobilization including specialty facility assessment scales within 12-24 hours for complex Great Falls properties.',
+    responseTime: 'Emergency stabilization with asset protection as quickly as access and conditions allow. Full large loss mobilization including specialty facility assessment scales within 12-24 hours for complex Great Falls properties.',
   },
   faqs: [
     {
@@ -155,7 +155,7 @@ Our project directors bring both the premium-market sensibility and the practica
     },
     {
       question: 'How long do Great Falls large loss projects take?',
-      answer: 'Duration depends on facility type and specification complexity. Equestrian campus restorations may run 6-18 months due to specialized construction. Luxury professional offices typically run 4-12 months depending on material procurement timelines.',
+      answer: 'Duration depends on facility type and specification complexity. Equestrian campus restorations may run 6-18 months due to specialized construction. Luxury professional workplaces typically run 4-12 months depending on material procurement timelines.',
     },
     {
       question: 'Do you handle insurance for ultra-premium properties?',
@@ -172,6 +172,6 @@ Our project directors bring both the premium-market sensibility and the practica
   ],
   finalCTA: {
     headline: 'Large Loss Event at Your Great Falls Property?',
-    paragraph: `Great Falls' exceptional commercial properties demand restoration matching their ultra-premium standards. Our project directors bring luxury-market expertise, equestrian facility knowledge, and rural-property logistics to every engagement.`,
+    paragraph: `Great Falls' exceptional commercial properties demand restoration matching their ultra-premium standards. Our project directors bring luxury-market experience, equestrian facility knowledge, and rural-property logistics to every engagement.`,
   },
 }

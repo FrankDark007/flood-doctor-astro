@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Reston, VA | Flood Doctor`,
-    description: `Reston's trusted commercial fire and smoke restoration team. Emergency response for Town Center offices, Lake Anne businesses, and South Lakes commercial properties. Call (877) 497-0007.`,
+    description: `Reston's local commercial fire and smoke restoration team. Emergency response for Town Center workplaces, Lake Anne businesses, and South Lakes commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Reston, Virginia`,
   introSection: {
     headline: `Comprehensive Fire Restoration for Reston's Planned Community Commercial Properties`,
     paragraphs: [
-      `Fire damage at a Reston commercial property disrupts the interconnected community that makes this planned environment distinctive. A fire at a South Lakes restaurant sends smoke through shared HVAC to contaminate adjacent tenant suites in a community-serving commercial cluster. An electrical fire at a Hunters Woods office complex triggers sprinklers that cascade water through two floors of tenant spaces. A fire at Reston Town Center affects ground-floor retail, office floors above, and the underground parking structure below. Reston commercial fire events require restoration teams that understand multi-tenant building systems, Reston Association coordination, and the community-focused business environment where rapid recovery preserves both revenue and neighborhood relationships. Flood Doctor delivers integrated fire restoration calibrated for Reston's commercial diversity.`,
-      `Smoke contamination in Reston's commercial buildings tracks the community's varied architecture. Town Center's modern office towers distribute smoke through centralized HVAC to every connected floor. Lake Anne's original commercial buildings share wall cavities and attic spaces that channel smoke between businesses in the founding-era plaza. South Lakes and North Point office clusters feature shared rooftop units that spread smoke from one suite to every connected tenant. Wooded settings that define Reston's character can slow emergency vehicle access through the planned community's winding road network. Our restoration teams address fire, smoke, water, and content damage as one managed project—deploying the multi-discipline response that Reston's diverse commercial properties require.`,
+      `Fire damage at a Reston commercial property disrupts the interconnected community that makes this planned environment distinctive. A fire at a South Lakes restaurant sends smoke through shared HVAC to contaminate adjacent tenant suites in a community-serving commercial cluster. An electrical fire at a Hunters Woods workplace complex triggers sprinklers that cascade water through two floors of tenant spaces. A fire at Reston Town Center affects ground-floor retail, workplace floors above, and the underground parking structure below. Reston commercial fire events require restoration teams that understand multi-tenant building systems, Reston Association coordination, and the community-focused business environment where rapid recovery preserves both revenue and neighborhood relationships. Flood Doctor delivers integrated fire restoration calibrated for Reston's commercial diversity.`,
+      `Smoke contamination in Reston's commercial buildings tracks the community's varied architecture. Town Center's modern workplace towers distribute smoke through centralized HVAC to every connected floor. Lake Anne's original commercial buildings share wall cavities and attic spaces that channel smoke between businesses in the founding-era plaza. South Lakes and North Point workplace clusters feature shared rooftop units that spread smoke from one suite to every connected tenant. Wooded settings that define Reston's character can slow emergency vehicle access through the planned community's winding road network. Our restoration teams address fire, smoke, water, and content damage as one managed project—deploying the multi-discipline response that Reston's diverse commercial properties require.`,
     ],
-    localContext: `Reston's planned community commercial landscape—spanning modern Town Center towers, founding-era Lake Anne spaces, and wooded office clusters—requires fire restoration that adapts to diverse building types while navigating community-specific coordination needs.`,
+    localContext: `Reston's planned community commercial landscape—spanning modern Town Center towers, founding-era Lake Anne spaces, and wooded workplace clusters—requires fire restoration that adapts to diverse building types while navigating community-specific coordination needs.`,
   },
   processSteps: [
     {
@@ -54,7 +54,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Town Center Multi-Level Fire Impacts`,
-      description: `Reston Town Center fires can affect ground-floor retail, upper-floor offices, and underground parking simultaneously. Smoke migrates through elevator shafts and HVAC systems while sprinkler water cascades to lower levels, creating multi-level damage requiring coordinated response.`,
+      description: `Reston Town Center fires can affect ground-floor retail, upper-floor workplaces, and underground parking simultaneously. Smoke migrates through elevator shafts and HVAC systems while sprinkler water cascades to lower levels, creating multi-level damage requiring coordinated response.`,
       solution: `We deploy multi-discipline teams across all affected levels simultaneously—fire cleanup, smoke decontamination, water extraction, and parking structure remediation. Unified project management coordinates across the building's vertical complexity.`,
     },
     {
@@ -77,7 +77,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HVAC Duct Cleaning Systems`,
-        purpose: `Decontaminate shared rooftop HVAC units and ductwork in Reston's multi-tenant office clusters`,
+        purpose: `Decontaminate shared rooftop HVAC units and ductwork in Reston's multi-tenant workplace clusters`,
       },
       {
         name: `Thermal Fog Generators`,
@@ -99,14 +99,14 @@ export const content: CityServiceContent = {
         brand: `Dri-Eaz`,
       },
     ],
-    localNote: `Our Reston fire equipment fleet adapts to the community's commercial diversity—modular systems that work in Lake Anne's compact original spaces, Town Center's modern towers, and South Lakes' suburban office clusters.`,
+    localNote: `Our Reston fire equipment fleet adapts to the community's commercial diversity—modular systems that work in Lake Anne's compact original spaces, Town Center's modern towers, and South Lakes' suburban workplace clusters.`,
   },
   pricingSection: {
     headline: `Commercial Fire Restoration Costs in Reston`,
     intro: `Reston commercial fire restoration costs depend on fire scope, smoke distribution, and building type. We provide clear estimates and coordinate with commercial insurance adjusters to activate all applicable coverages. Multi-tenant properties receive individual cost documentation for separate claims.`,
     factors: [
       `Fire versus smoke damage scope—shared HVAC distribution can extend cleanup far beyond the fire origin`,
-      `Building type—Town Center towers, Lake Anne original buildings, and suburban office clusters each require different approaches`,
+      `Building type—Town Center towers, Lake Anne original buildings, and suburban workplace clusters each require different approaches`,
       `Multi-tenant coordination—the number of affected businesses affects project complexity and documentation requirements`,
       `Content restoration—tenant equipment, inventory, and furnishings require individual handling and valuation`,
       `Community compliance—Reston Association requirements may affect exterior restoration standards and scheduling`,
@@ -134,7 +134,7 @@ export const content: CityServiceContent = {
   },
   faqs: [
     {
-      question: `How do you handle fire in a Reston multi-tenant office cluster?`,
+      question: `How do you handle fire in a Reston multi-tenant workplace cluster?`,
       answer: `We clean shared HVAC systems and adjacent tenant spaces first for rapid reopening, then address the fire-damaged unit. Each business receives individual documentation for their insurance claim while building systems are managed under unified project coordination.`,
     },
     {

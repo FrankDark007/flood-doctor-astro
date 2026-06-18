@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Great Falls, VA | Flood Doctor',
-    description: `Great Falls commercial water damage restoration. Equestrian facilities, luxury professional offices & estate-adjacent commercial properties near Great Falls Village Centre. Call (877) 497-0007.`,
+    description: `Great Falls commercial water damage restoration. Equestrian facilities, luxury professional workplaces & estate-adjacent commercial properties near Great Falls Village Centre. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Great Falls, Virginia',
   introSection: {
     headline: `Ultra-Premium Commercial Water Damage Response for Great Falls Properties`,
     paragraphs: [
-      `Great Falls' commercial landscape reflects the ultra-luxury character of the community—boutique professional offices in Great Falls Village Centre serving high-net-worth clients, equestrian facilities with specialized water and climate requirements, estate-adjacent commercial properties along Georgetown Pike, and the specialty businesses that serve an ultra-affluent residential market. When water damage strikes a Forestville-area veterinary practice housing specialized equine equipment, or a supply line failure floods a Seneca Estates professional office serving financial advisory clients, the restoration demands the same discretion, premium service quality, and asset-protection focus that Great Falls' clientele expects in every business interaction.
+      `Great Falls' commercial landscape reflects the ultra-luxury character of the community—boutique professional workplaces in Great Falls Village Centre serving high-net-worth clients, equestrian facilities with specialized water and climate requirements, estate-adjacent commercial properties along Georgetown Pike, and the specialty businesses that serve an ultra-affluent residential market. When water damage strikes a Forestville-area veterinary practice housing specialized equine equipment, or a supply line failure floods a Seneca Estates professional workplace serving financial advisory clients, the restoration demands the same discretion, premium service quality, and asset-protection focus that Great Falls' clientele expects in every business interaction.
 
-Flood Doctor's commercial division has restored water-damaged properties throughout Great Falls' premium commercial environment. We've managed HVAC failures in Village Centre professional offices, restored water damage in Hickory Farms equestrian support facilities, and dried flooded professional practices near Riverbend—delivering the ultra-premium service standard that this exclusive market requires.`,
+Flood Doctor's commercial division has restored water-damaged properties throughout Great Falls' premium commercial environment. We've managed HVAC failures in Village Centre professional workplaces, restored water damage in Hickory Farms equestrian support facilities, and dried flooded professional practices near Riverbend—delivering the ultra-premium service standard that this exclusive market requires.`,
       `Great Falls' commercial water damage challenges are shaped by the rural-luxury environment that defines this community. Properties rely on private well and septic systems rather than municipal water—creating unique water source and contamination considerations. The wooded, stream-adjacent setting produces storm flooding patterns driven by watershed runoff rather than municipal drainage failure. And the specialized nature of Great Falls commercial spaces—equestrian facilities, veterinary practices, art galleries, luxury retail—means that water damage affects high-value equipment and inventory that commodity restoration approaches cannot address.
 
-Our IICRC-certified commercial teams bring the technical range and service demeanor Great Falls demands. We understand private well system interactions, deploy asset-protection protocols for high-value equipment and collections, and maintain the discretion and professionalism that businesses serving ultra-high-net-worth clients require throughout the restoration process.`,
+Our trained commercial teams bring the technical range and service demeanor Great Falls demands. We understand private well system interactions, deploy asset-protection protocols for high-value equipment and collections, and maintain the discretion and professionalism that businesses serving ultra-high-net-worth clients require throughout the restoration process.`,
     ],
-    localContext: `Great Falls' ultra-luxury commercial environment—with equestrian facilities, high-net-worth professional offices, and estate-adjacent properties on private well and septic systems—creates commercial water damage scenarios requiring premium service standards, specialized asset protection, and discretion matching the community's expectations.`,
+    localContext: `Great Falls' ultra-luxury commercial environment—with equestrian facilities, high-net-worth professional workplaces, and estate-adjacent properties on private well and septic systems—creates commercial water damage scenarios requiring premium service standards, specialized asset protection, and discretion matching the community's expectations.`,
   },
   processSteps: [
     {
       title: 'Discreet Premium Dispatch',
       description: `Call (877) 497-0007 for immediate response. Our Great Falls crews arrive with unmarked vehicles when requested and maintain the discreet, professional presence that businesses serving ultra-high-net-worth clientele require.`,
-      timeframe: 'Within 45 minutes',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Asset-Priority Assessment',
@@ -31,12 +31,12 @@ Our IICRC-certified commercial teams bring the technical range and service demea
     },
     {
       title: 'Premium-Standard Extraction',
-      description: 'Water removal uses techniques that protect premium finishes and specialized surfaces. Equestrian facility restoration uses animal-safe equipment and products. Professional offices receive the careful handling their client-facing environments demand.',
+      description: 'Water removal uses techniques that protect premium finishes and specialized surfaces. Equestrian facility restoration uses animal-safe equipment and products. Professional workplaces receive the careful handling their client-facing environments demand.',
       timeframe: 'Hours 2-6',
     },
     {
       title: 'Environment-Specific Drying',
-      description: 'Drying protocols are customized for the specific environment—controlled humidity for equestrian facilities, precise parameters for professional offices with quality finishes, and animal-safe products for veterinary and equine care spaces.',
+      description: 'Drying protocols are customized for the specific environment—controlled humidity for equestrian facilities, precise parameters for professional workplaces with quality finishes, and animal-safe products for veterinary and equine care spaces.',
       timeframe: 'Hours 6-24',
     },
     {
@@ -63,7 +63,7 @@ Our IICRC-certified commercial teams bring the technical range and service demea
     },
     {
       title: 'High-Value Asset Protection',
-      description: 'Great Falls commercial spaces house high-value assets—professional art in galleries and offices, specialized equestrian equipment, luxury inventory, and confidential materials from financial and legal practices serving ultra-high-net-worth clients.',
+      description: 'Great Falls commercial spaces house high-value assets—professional art in galleries and workplaces, specialized equestrian equipment, luxury inventory, and confidential materials from financial and legal practices serving ultra-high-net-worth clients.',
       solution: 'High-value assets receive immediate priority protection. We coordinate with specialty restoration vendors for art, antiques, and collectibles. Confidential materials follow secure handling protocols. Documentation supports insurance claims for high-value commercial contents.',
     },
     {
@@ -106,7 +106,7 @@ Our IICRC-certified commercial teams bring the technical range and service demea
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Great Falls',
-    intro: 'Great Falls commercial restoration costs reflect the premium specifications, specialized facility requirements, and high-value asset protection that this market demands. We provide detailed estimates matching the professional presentation Great Falls business owners expect, and we manage insurance claims with expertise in high-value commercial property documentation.',
+    intro: 'Great Falls commercial restoration costs reflect the premium specifications, specialized facility requirements, and high-value asset protection that this market demands. We provide detailed estimates matching the professional presentation Great Falls business owners expect, and we manage insurance claims with experience in high-value commercial property documentation.',
     factors: [
       'Specialty facility requirements—equestrian, veterinary, and gallery spaces require specialized products and protocols adding scope',
       'High-value asset exposure—art, equipment, and collections requiring individual protection and documentation increase project management scope',
@@ -131,7 +131,7 @@ Our IICRC-certified commercial teams bring the technical range and service demea
       'Riverbend Park Area',
       'Old Dominion Drive Commercial',
     ],
-    responseTime: '45-minute response to Great Falls commercial properties. Crews deploy with premium equipment and discreet presentation for the luxury commercial environment.',
+    responseTime: 'prompt response to Great Falls commercial properties. Crews deploy with premium equipment and discreet presentation for the luxury commercial environment.',
   },
   faqs: [
     {
@@ -139,7 +139,7 @@ Our IICRC-certified commercial teams bring the technical range and service demea
       answer: 'Yes. We use animal-safe products and techniques in equestrian environments, understanding the specialized infrastructure—heated wash stalls, tack rooms, arena systems. We coordinate with equine facility consultants on restoration specifications.',
     },
     {
-      question: 'Do you maintain discretion for our Great Falls professional office?',
+      question: 'Do you maintain discretion for our Great Falls professional workspace?',
       answer: 'Absolutely. We arrive in unmarked vehicles when requested, schedule work to minimize client visibility, and handle confidential materials with secure protocols. Our crew demeanor matches the professional standard your clientele expects.',
     },
     {
@@ -156,7 +156,7 @@ Our IICRC-certified commercial teams bring the technical range and service demea
     },
     {
       question: 'Do you handle insurance for ultra-premium commercial properties?',
-      answer: 'We provide the detailed documentation that high-value commercial property insurance requires—including individual asset inventories, premium finish specifications, and specialty facility assessments. We work with all carriers including those specializing in high-net-worth commercial coverage.',
+      answer: 'We provide the detailed documentation that high-value commercial property insurance requires—including individual asset inventories, premium finish specifications, and specialty facility assessments. We work with insurers including those specializing in high-net-worth commercial coverage.',
     },
     {
       question: 'Can you handle storm flooding on our Georgetown Pike commercial property?',

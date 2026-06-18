@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Herndon, VA | Flood Doctor',
-    description: 'Herndon fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
+    description: 'Herndon fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. trained. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Herndon, Virginia',
   introSection: {

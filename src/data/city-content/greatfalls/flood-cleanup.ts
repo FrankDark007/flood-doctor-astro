@@ -3,31 +3,31 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls flood cleanup experts. 30-min response to storm flooding, Potomac overflow & groundwater intrusion. Protecting estates & equestrian properties. Call (877) 497-0007.',
+    description: 'Great Falls flood cleanup specialists. prompt response to storm flooding, Potomac overflow & groundwater intrusion. Protecting estates & equestrian properties. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Great Falls, Virginia',
   introSection: {
     headline: 'Great Falls Estate Flood Cleanup & Restoration',
     paragraphs: [
-      `Flooding in Great Falls takes forms that suburban areas never experience. Potomac River overflow threatens properties in the Riverbend corridor. Storm runoff on multi-acre estates can overwhelm drainage and flood lower levels, pool houses, and equestrian facilities. Groundwater pressure during wet seasons forces water through foundations that have stood for decades. When flooding strikes your Great Falls estate, you need restoration experts who understand these unique challenges.
+      `Flooding in Great Falls takes forms that suburban areas never experience. Potomac River overflow threatens properties in the Riverbend corridor. Storm runoff on multi-acre estates can overwhelm drainage and flood lower levels, pool houses, and equestrian facilities. Groundwater pressure during wet seasons forces water through foundations that have stood for decades. When flooding strikes your Great Falls estate, you need restoration specialists who understand these unique challenges.
 
-Flood Doctor has handled flood emergencies throughout Great Falls for nearly two decades. We've extracted floodwater from manors along Georgetown Pike, dried equestrian facilities in Forestville, and restored finished lower levels in properties backing to Great Falls National Park. When flooding threatens your estate, we respond within 30 minutes—with equipment and expertise scaled for properties that may span 25,000 square feet across multiple structures.`,
+Flood Doctor has handled flood emergencies throughout Great Falls across the service area. We've extracted floodwater from manors along Georgetown Pike, dried equestrian facilities in Forestville, and restored finished lower levels in properties backing to Great Falls National Park. When flooding threatens your estate, we respond as quickly as access and conditions allow—with equipment and experience scaled for properties that may span 25,000 square feet across multiple structures.`,
       `Great Falls flood challenges compound in ways subdivision flooding doesn't. Your wine cellar may flood from groundwater intrusion during a wet spring. Your barn may take on water during summer storms. Your pool house may flood from storm drainage failures. Each scenario requires different cleanup approaches—and we're experienced in all of them.
 
-Our IICRC Master Water Restorers understand that flood cleanup in Great Falls means protecting assets that exist nowhere else. Your art collection, your wine cellar, your custom finishes, your equestrian equipment—all require specialized attention during flood restoration.`,
+Our experienced restoration crews understand that flood cleanup in Great Falls means protecting assets that exist nowhere else. Your art collection, your wine cellar, your custom finishes, your equestrian equipment—all require specialized attention during flood restoration.`,
     ],
-    localContext: `Great Falls' Potomac River proximity, multi-acre estates, and mixed residential/agricultural properties create flood scenarios that standard restoration companies can't address. We bring the equipment, expertise, and discretion these situations require.`,
+    localContext: `Great Falls' Potomac River proximity, multi-acre estates, and mixed residential/agricultural properties create flood scenarios that standard restoration companies can't address. We bring the equipment, experience, and discretion these situations require.`,
   },
   processSteps: [
     {
       title: 'Immediate Discrete Dispatch',
-      description: 'When you call (877) 497-0007, we dispatch immediately. Our unmarked vehicles reach properties throughout Great Falls—Forestville, Seneca Estates, Riverbend corridor, Beach Mill Road—within 30 minutes. During widespread flood events, we prioritize based on flood type and damage scope.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007, we dispatch immediately. Our unmarked vehicles reach properties throughout Great Falls—Forestville, Seneca Estates, Riverbend corridor, Beach Mill Road—as quickly as access and conditions allow. During widespread flood events, we prioritize based on flood type and damage scope.',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Flood Category Assessment',
       description: 'Not all floodwater is equal. Clean groundwater intrusion differs from storm runoff with debris, which differs from Potomac overflow with contamination. We assess water category immediately—this determines cleanup protocols and safety requirements.',
-      timeframe: 'Upon arrival',
+      timeframe: 'During response',
     },
     {
       title: 'High-Value Asset Protection',
@@ -125,7 +125,7 @@ Our IICRC Master Water Restorers understand that flood cleanup in Great Falls me
   },
   pricingSection: {
     headline: 'Flood Cleanup Costs for Great Falls Properties',
-    intro: 'Every flood event is different, and honest pricing requires an on-site assessment. We provide free estimates within our 30-minute response window. Our pricing is transparent, itemized using industry-standard Xactimate software, and directly compatible with insurance adjuster estimates. We never charge for idle equipment and remove units as soon as moisture readings confirm an area is dry.',
+    intro: 'Every flood event is different, and honest pricing requires an on-site assessment. We provide free estimates within our prompt response window. Our pricing is transparent, itemized using industry-standard Xactimate software, and directly compatible with insurance adjuster estimates. We never charge for idle equipment and remove units as soon as moisture readings confirm an area is dry.',
     factors: [
       'Total volume of floodwater and affected square footage across all structures on the property',
       'Flood source and water category—clean groundwater intrusion differs from contaminated Potomac overflow requiring Category 3 protocols',
@@ -135,7 +135,7 @@ Our IICRC Master Water Restorers understand that flood cleanup in Great Falls me
       'Duration of structural drying, which varies based on estate size, material density, and the severity of saturation across multiple levels',
       'Emergency timing including after-hours, weekend, and holiday response when immediate intervention is critical',
     ],
-    cta: `Call (877) 497-0007 for a free on-site flood assessment. We'll evaluate your Great Falls property, explain the full scope of work, and provide a written estimate before any restoration begins. We handle direct billing with all insurance carriers.`,
+    cta: `Call (877) 497-0007 for a free on-site flood assessment. We'll evaluate your Great Falls property, explain the full scope of work, and provide a written estimate before any restoration begins. We handle insurance documentation and coordination with insurers.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -154,12 +154,12 @@ Our IICRC Master Water Restorers understand that flood cleanup in Great Falls me
       'The Preserve',
       'Colvin Run',
     ],
-    responseTime: 'Our crews respond to any Great Falls property within 30 minutes, 24 hours a day, 7 days a week. During active storm events or Potomac flood warnings, we pre-position crews along the Georgetown Pike corridor and monitor river levels to reduce response times for the Riverbend and low-lying properties most likely to flood.',
+    responseTime: 'Our crews respond to any Great Falls property as quickly as access and conditions allow, 24 hours a day, 7 days a week. During active storm events or Potomac flood warnings, we prepare crews along the Georgetown Pike corridor and monitor river levels to reduce response times for the Riverbend and low-lying properties most likely to flood.',
   },
   faqs: [
     {
       question: 'How quickly can you respond to flooding in Great Falls?',
-      answer: 'We guarantee 30-minute response to all Great Falls properties under normal conditions. During widespread flood events affecting multiple properties, we prioritize based on flood type and damage scope. Call (877) 497-0007 immediately—the sooner you call, the sooner we can respond.',
+      answer: 'We provide prompt response to all Great Falls properties under normal conditions. During widespread flood events affecting multiple properties, we prioritize based on flood type and damage scope. Call (877) 497-0007 immediately—the sooner you call, the sooner we can respond.',
     },
     {
       question: 'Can you handle flooding in my barn and main house at the same time?',
@@ -179,7 +179,7 @@ Our IICRC Master Water Restorers understand that flood cleanup in Great Falls me
     },
     {
       question: 'Will my insurance cover flood damage?',
-      answer: 'Standard homeowners policies often exclude flood damage. However, many Great Falls homeowners carry separate flood insurance or specialty policies. We handle direct billing with all carriers and provide the detailed documentation that supports claims. We can help you understand your coverage during our initial assessment.',
+      answer: 'Standard homeowners policies often exclude flood damage. However, many Great Falls homeowners carry separate flood insurance or specialty policies. We handle insurance documentation and coordination and provide the detailed documentation that supports claims. We can help you understand your coverage during our initial assessment.',
     },
   ],
   relatedBlogSlugs: [

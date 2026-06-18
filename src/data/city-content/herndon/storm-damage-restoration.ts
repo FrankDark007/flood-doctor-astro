@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When severe weather crosses Fairfax County, Herndon's mature tree canopy becomes a liability overnight. The stately oaks and maples that shade your Fox Mill colonial—many planted when these neighborhoods were developed in the 1970s and 1980s—can drop limbs through roofs, crash into fences, or topple across driveways. Add wind-driven rain breaching building envelopes, hail damage to aging roof systems, and overwhelmed storm drainage along Sugarland Run, and a single storm creates compound damage across your property that worsens with every passing hour.
 
-Flood Doctor responds to storm damage throughout Herndon within 30 minutes of safe travel conditions. Our IICRC-certified crews have tarped roofs in Fox Mill during active weather, extracted storm water from Downtown Herndon basements where Folly Lick Branch backs up during heavy rain, and coordinated tree removal with full restoration at Franklin Farm properties. Storm damage requires rapid response to prevent secondary water damage—every hour a compromised roof leaks, moisture migrates deeper into wall cavities and structural materials, multiplying restoration costs.`,
+Flood Doctor responds to storm damage throughout Herndon as quickly as access and conditions allow of safe travel conditions. Our trained crews have tarped roofs in Fox Mill during active weather, extracted storm water from Downtown Herndon basements where Folly Lick Branch backs up during heavy rain, and coordinated tree removal with full restoration at Franklin Farm properties. Storm damage requires rapid response to prevent secondary water damage—every hour a compromised roof leaks, moisture migrates deeper into wall cavities and structural materials, multiplying restoration costs.`,
       `Herndon's storm damage patterns reflect its housing mix and watershed geography. Fox Mill's colonials on larger lots face mature tree exposure across expansive yards—a single fallen oak can strike the main structure, detach gutters, and damage the garage simultaneously. Downtown Herndon's older properties along Elden Street have aging roofing and infrastructure vulnerable to wind uplift. The townhome communities in Worldgate and Franklin Farm present shared roof and siding concerns where storm damage to one unit's building envelope can drive water into adjacent homes through party walls.
 
-We coordinate all aspects of storm restoration: emergency tarping, water extraction using truck-mounted systems, structural drying with industrial dehumidifiers, debris removal coordination, thermal imaging to trace hidden moisture migration, and comprehensive insurance documentation with direct billing. One call handles everything—from the moment the storm passes until your property is fully restored.`,
+We coordinate all aspects of storm restoration: emergency tarping, water extraction using truck-mounted systems, structural drying with industrial dehumidifiers, debris removal coordination, thermal imaging to trace hidden moisture migration, and comprehensive insurance documentation with insurance coordination. One call handles everything—from the moment the storm passes until your property is fully restored.`,
     ],
     localContext: 'Herndon sits at the confluence of Sugarland Run and Folly Lick Branch watersheds, with mature 1970s-80s tree plantings throughout established neighborhoods. This combination of aging tree canopy, mixed housing density from single-family colonials to townhome clusters, and low-lying drainage corridors creates storm damage scenarios that range from single-tree roof strikes to neighborhood-wide flooding events.',
   },
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: 'Call (877) 497-0007 as soon as safely possible after storm damage. We dispatch crews throughout Herndon when severe weather clears, reaching Fox Mill, Downtown Herndon, Worldgate, Franklin Farm, McNair, and surrounding neighborhoods within our 30-minute guarantee. During area-wide events, we prioritize by damage severity and ongoing exposure risk.',
-      timeframe: '30 minutes after safe conditions',
+      description: 'Call (877) 497-0007 as soon as safely possible after storm damage. We dispatch crews throughout Herndon when severe weather clears, reaching Fox Mill, Downtown Herndon, Worldgate, Franklin Farm, McNair, and surrounding neighborhoods as quickly as access and conditions allow. During area-wide events, we prioritize by damage severity and ongoing exposure risk.',
+      timeframe: 'After safe conditions',
     },
     {
       title: 'Damage Assessment & Emergency Tarping',
@@ -36,7 +36,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     },
     {
       title: 'Content Protection',
-      description: 'Furniture, electronics, valuables, and personal items in affected areas are moved, covered, or relocated. Your home office equipment, electronics, and family belongings receive individual attention during storm restoration. We document all content handling for insurance purposes.',
+      description: 'Furniture, electronics, valuables, and personal items in affected areas are moved, covered, or relocated. Your home workplace equipment, electronics, and family belongings receive individual attention during storm restoration. We document all content handling for insurance purposes.',
       timeframe: 'Hours 3-6',
     },
     {
@@ -46,7 +46,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     },
     {
       title: 'Insurance Documentation & Restoration Coordination',
-      description: 'We photograph all damage, document restoration efforts with Xactimate estimates, and provide detailed reports for your insurance claim. Storm damage claims benefit from professional documentation—we handle direct billing with all major carriers and support your claim from emergency response through final restoration.',
+      description: 'We photograph all damage, document restoration efforts with Xactimate estimates, and provide detailed reports for your insurance claim. Storm damage claims benefit from professional documentation—we handle insurance documentation and coordination and support your claim from emergency response through final restoration.',
       timeframe: 'Throughout project',
     },
   ],
@@ -54,7 +54,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     {
       title: 'Fox Mill Mature Canopy Hazards',
       description: `Fox Mill's colonials sit on wooded lots where oaks and maples planted in the 1970s now tower 60-80 feet above rooflines. High winds topple weakened trees onto homes, and even healthy trees lose major limbs during ice storms. A single large oak falling across a colonial can breach the roof, damage gutters and siding on two sides, and block driveway access for emergency vehicles.`,
-      solution: `We respond to tree-strike emergencies with immediate tarping of all breach points—even before tree removal. Our thermal imaging traces water intrusion from every contact point, because tree strikes create damage paths that aren't visible from the obvious impact zone. We coordinate with certified arborists for safe removal while protecting the underlying structure from further exposure.`,
+      solution: `We respond to tree-strike emergencies with immediate tarping of all breach points—even before tree removal. Our thermal imaging traces water intrusion from every contact point, because tree strikes create damage paths that aren't visible from the obvious impact zone. We coordinate with qualified tree-removal specialists for safe removal while protecting the underlying structure from further exposure.`,
     },
     {
       title: 'Townhome Shared-Roof Storm Damage',
@@ -123,7 +123,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Herndon',
-    intro: `Storm damage costs in Herndon vary based on property type and damage extent. A Fox Mill colonial with a tree through the roof requires different scope than a Worldgate townhome with wind-damaged siding affecting shared walls. We provide on-site assessments during our emergency response and detailed Xactimate estimates before restoration begins. Most storm damage is covered by homeowner's insurance—we handle direct billing and comprehensive documentation to support your claim.`,
+    intro: `Storm damage costs in Herndon vary based on property type and damage extent. A Fox Mill colonial with a tree through the roof requires different scope than a Worldgate townhome with wind-damaged siding affecting shared walls. We provide on-site assessments during our emergency response and detailed Xactimate estimates before restoration begins. Most storm damage is covered by homeowner's insurance—we handle insurance coordination and comprehensive documentation to support your claim.`,
     factors: [
       'Damage type and extent—wind damage, hail impacts, tree strikes, or water intrusion through compromised building envelope',
       'Emergency stabilization needs—tarping scope, board-up requirements, and immediate extraction volume',
@@ -133,7 +133,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
       'Cascade damage from power outages—sump pump failure flooding, HVAC-related humidity damage, or frozen pipe bursts during winter storms',
       'Multi-point damage—storms often create several breach points requiring separate assessment and remediation',
     ],
-    cta: `Call (877) 497-0007 for emergency storm damage response. We'll assess damage, provide emergency weatherproofing, and guide you through the insurance process with direct billing and professional documentation.`,
+    cta: `Call (877) 497-0007 for emergency storm damage response. We'll assess damage, provide emergency weatherproofing, and guide you through the insurance process with insurance coordination and professional documentation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -153,20 +153,20 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
       'Spring Street corridor',
       'Dulles Station',
     ],
-    responseTime: '30-minute response as soon as conditions are safe. During severe weather events, we pre-position crews and equipment to respond immediately when storms clear. Fox Mill and other tree-heavy neighborhoods receive priority response due to elevated tree-strike risk.',
+    responseTime: 'prompt response as soon as conditions are safe. During severe weather events, we prepare crews and equipment to respond immediately when storms clear. Fox Mill and other tree-heavy neighborhoods receive priority response due to elevated tree-strike risk.',
   },
   faqs: [
     {
       question: 'When should I call after storm damage in Herndon?',
-      answer: `Call immediately once it's safe. Even if you're not sure about damage extent, early assessment and emergency tarping prevent secondary water damage that compounds costs dramatically. We respond to Herndon calls within 30 minutes of safe travel conditions—often while rain is still falling. Delaying even a few hours while a breached roof admits water can transform a manageable tarping job into a multi-room drying project.`,
+      answer: `Call immediately once it's safe. Even if you're not sure about damage extent, early assessment and emergency tarping prevent secondary water damage that compounds costs dramatically. We respond to Herndon calls as quickly as access and conditions allow of safe travel conditions—often while rain is still falling. Delaying even a few hours while a breached roof admits water can transform a manageable tarping job into a multi-room drying project.`,
     },
     {
       question: 'A tree fell on my Herndon home. What do I do?',
-      answer: `Evacuate if structural integrity is questionable, then call us at (877) 497-0007. We assess safety, provide emergency tarping around the tree impact, and coordinate removal with certified arborists experienced in Herndon's mature tree canopy. Don't attempt to move tree limbs yourself—shifting weight can cause additional structural collapse. We handle resulting water damage and structural drying while tree removal is coordinated.`,
+      answer: `Evacuate if structural integrity is questionable, then call us at (877) 497-0007. We assess safety, provide emergency tarping around the tree impact, and coordinate removal with qualified tree-removal specialists experienced in Herndon's mature tree canopy. Don't attempt to move tree limbs yourself—shifting weight can cause additional structural collapse. We handle resulting water damage and structural drying while tree removal is coordinated.`,
     },
     {
       question: 'Should I call my insurance company or Flood Doctor first?',
-      answer: `Call us first—we begin emergency stabilization and documentation immediately. Notify your insurance company soon after, but don't wait for their approval before emergency weatherproofing. Preventing additional damage actually protects your claim. We handle direct billing with all major carriers, provide Xactimate estimates, and support your claim with professional documentation throughout the process.`,
+      answer: `Call us first—we begin emergency stabilization and documentation immediately. Notify your insurance company soon after, but don't wait for their approval before emergency weatherproofing. Preventing additional damage actually protects your claim. We handle insurance documentation and coordination, provide Xactimate estimates, and support your claim with professional documentation throughout the process.`,
     },
     {
       question: 'How do you find hidden storm damage in my walls?',
@@ -196,6 +196,6 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
   ],
   finalCTA: {
     headline: 'Storm Damage in Herndon?',
-    paragraph: `Don't wait for clear skies while water pours through storm damage. Our IICRC-certified crews respond throughout Herndon as soon as conditions allow—with emergency tarping, truck-mounted extraction, thermal imaging, and industrial drying. One call handles everything from emergency stabilization through insurance-documented restoration.`,
+    paragraph: `Don't wait for clear skies while water pours through storm damage. Our trained crews respond throughout Herndon as soon as conditions allow—with emergency tarping, truck-mounted extraction, thermal imaging, and industrial drying. One call handles everything from emergency stabilization through insurance-documented restoration.`,
   },
 }

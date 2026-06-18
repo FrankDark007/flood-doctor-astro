@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls burst pipe emergency response. 30-min discrete service. Protecting estates from supply line failures, frozen pipes & plumbing disasters. Call (877) 497-0007.',
+    description: 'Great Falls burst pipe emergency response. prompt discrete service. Protecting estates from supply line failures, frozen pipes & plumbing disasters. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Water Damage Cleanup in Great Falls, Virginia',
   introSection: {
@@ -11,12 +11,12 @@ export const content: CityServiceContent = {
     paragraphs: [
       `A burst pipe in a Great Falls estate can release thousands of gallons before anyone notices. Your 18,000-square-foot manor has plumbing that runs through multiple floors and wings—a supply line failure in a fourth-floor bathroom can cascade water down through finished ceilings, custom millwork, art-filled galleries, and into your wine cellar three floors below. By the time you discover the flooding, damage may span your entire property.
 
-Flood Doctor responds to Great Falls burst pipe emergencies within 30 minutes. We've handled supply line failures in Forestville manors, frozen pipe bursts in Seneca Estates properties, and well system ruptures throughout the Georgetown Pike corridor. Our crews arrive with industrial extraction equipment scaled for estate-sized water events—because a burst pipe in a 15,000-square-foot home creates damage that subdivision-sized equipment can't address.`,
+Flood Doctor responds to Great Falls burst pipe emergencies as quickly as access and conditions allow. We've handled supply line failures in Forestville manors, frozen pipe bursts in Seneca Estates properties, and well system ruptures throughout the Georgetown Pike corridor. Our crews arrive with industrial extraction equipment scaled for estate-sized water events—because a burst pipe in a 15,000-square-foot home creates damage that subdivision-sized equipment can't address.`,
       `Great Falls plumbing emergencies present unique challenges. Most properties rely on private well systems with pressure tanks that can fail catastrophically. Large estates have extensive plumbing networks—hundreds of feet of supply lines running through unheated spaces, guest wings, pool houses, and outbuildings. Freeze damage during winter affects pipes in spaces that subdivision homes don't have.
 
-Our IICRC Master Water Restorers understand the complexity of Great Falls estate plumbing. We trace water migration through multiple floors, identify damage in areas far from the burst, and coordinate with plumbers who specialize in high-end residential systems. One call handles everything—from emergency extraction to complete restoration.`,
+Our experienced restoration crews understand the complexity of Great Falls estate plumbing. We trace water migration through multiple floors, identify damage in areas far from the burst, and coordinate with plumbers who specialize in high-end residential systems. One call handles everything—from emergency extraction to thorough restoration.`,
     ],
-    localContext: 'Great Falls estates feature plumbing complexity that multiplies burst pipe damage—guest wings, pool houses, well systems, and multi-story water migration paths. We respond with equipment and expertise scaled for these properties.',
+    localContext: 'Great Falls estates feature plumbing complexity that multiplies burst pipe damage—guest wings, pool houses, well systems, and multi-story water migration paths. We respond with equipment and experience scaled for these properties.',
   },
   processSteps: [
     {
@@ -26,8 +26,8 @@ Our IICRC Master Water Restorers understand the complexity of Great Falls estate
     },
     {
       title: '30-Minute Discrete Response',
-      description: 'Our unmarked vehicles dispatch immediately from our McLean staging area. We reach properties throughout Great Falls—Georgetown Pike, Forestville, Seneca Estates, Beach Mill Road—within 30 minutes. For burst pipe emergencies, minutes matter—every minute of flow means more damage.',
-      timeframe: 'Within 30 minutes',
+      description: 'Our unmarked vehicles dispatch through our Northern Virginia service network. We reach properties throughout Great Falls—Georgetown Pike, Forestville, Seneca Estates, Beach Mill Road—as quickly as access and conditions allow. For burst pipe emergencies, minutes matter—every minute of flow means more damage.',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Multi-Floor Damage Assessment',
@@ -46,7 +46,7 @@ Our IICRC Master Water Restorers understand the complexity of Great Falls estate
     },
     {
       title: 'Plumber Coordination & Documentation',
-      description: 'We coordinate with plumbers experienced in Great Falls estate systems—private well specialists, high-end residential experts. While repairs proceed, we document everything for insurance: cause of failure, extent of damage, restoration scope.',
+      description: 'We coordinate with plumbers experienced in Great Falls estate systems—private well specialists, high-end residential specialists. While repairs proceed, we document everything for insurance: cause of failure, extent of damage, restoration scope.',
       timeframe: 'Days 1-7',
     },
   ],
@@ -69,11 +69,11 @@ Our IICRC Master Water Restorers understand the complexity of Great Falls estate
     {
       title: 'High-Value Asset Exposure',
       description: `Burst pipe water cascading through floors threatens irreplaceable assets—art, antiques, wine collections, custom millwork. Damage can occur far below the burst as water travels through your estate's structure.`,
-      solution: 'Asset protection begins immediately upon arrival. We identify threatened items, coordinate protection or relocation, and establish barriers before focusing on structural drying. Your investments receive priority attention.',
+      solution: 'Asset protection begins immediately during response. We identify threatened items, coordinate protection or relocation, and establish barriers before focusing on structural drying. Your investments receive priority attention.',
     },
     {
       title: 'Complex Plumbing Networks',
-      description: 'Great Falls estates have hundreds of feet of plumbing running through multiple structures. Identifying the burst location, accessing the affected pipe, and coordinating repair requires expertise in estate-scale systems.',
+      description: 'Great Falls estates have hundreds of feet of plumbing running through multiple structures. Identifying the burst location, accessing the affected pipe, and coordinating repair requires experience in estate-scale systems.',
       solution: `We work with plumbers who specialize in Great Falls' high-end residential properties. Our coordination ensures repair happens efficiently while we handle all water damage aspects simultaneously.`,
     },
   ],
@@ -125,7 +125,7 @@ Our IICRC Master Water Restorers understand the complexity of Great Falls estate
   },
   pricingSection: {
     headline: 'Burst Pipe Restoration Costs in Great Falls',
-    intro: 'Burst pipe damage costs depend on how long the pipe ran, how far water migrated, and what materials and assets were affected. We provide free on-site assessments during our 30-minute emergency response. All pricing is itemized using Xactimate software, directly compatible with insurance adjuster formats. We handle direct billing with all carriers and provide the documentation that high-value property claims require.',
+    intro: 'Burst pipe damage costs depend on how long the pipe ran, how far water migrated, and what materials and assets were affected. We provide free on-site assessments during our prompt emergency response. All pricing is itemized using Xactimate software, directly compatible with insurance adjuster formats. We handle insurance documentation and coordination and provide the documentation that high-value property claims require.',
     factors: [
       'Duration of water flow before shutoff—every hour of an undetected burst increases damage exponentially in large estates',
       'Number of floors and structures affected by water migration from the burst location',
@@ -135,7 +135,7 @@ Our IICRC Master Water Restorers understand the complexity of Great Falls estate
       'Plumber coordination for pipe repair and system assessment alongside water damage restoration',
       `Emergency timing and the complexity of accessing the burst location within the estate's plumbing network`,
     ],
-    cta: `Call (877) 497-0007 for immediate burst pipe response. We'll guide you to shut off water during the call, arrive within 30 minutes, and provide a written estimate before restoration work begins. Insurance coordination is included.`,
+    cta: `Call (877) 497-0007 for immediate burst pipe response. We'll guide you to shut off water during the call, arrive as quickly as access and conditions allow, and provide a written estimate before restoration work begins. Insurance coordination is included.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -154,12 +154,12 @@ Our IICRC Master Water Restorers understand the complexity of Great Falls estate
       'The Preserve',
       'Colvin Run',
     ],
-    responseTime: '30-minute guaranteed response to all Great Falls properties, 24/7/365. During winter freeze events, we pre-position crews for faster response to the frozen pipe bursts that affect unheated wings, pool houses, and outbuildings throughout Great Falls estates.',
+    responseTime: 'prompt planned response to all Great Falls properties, 24/7/365. During winter freeze events, we prepare crews for faster response to the frozen pipe bursts that affect unheated wings, pool houses, and outbuildings throughout Great Falls estates.',
   },
   faqs: [
     {
       question: 'How quickly can you respond to a burst pipe in Great Falls?',
-      answer: 'We guarantee 30-minute response to all Great Falls properties. When you call (877) 497-0007, we immediately guide you to shut off water if safe, then dispatch from our McLean staging area. We reach Forestville, Seneca Estates, Georgetown Pike, and all Great Falls locations within our guaranteed timeframe.',
+      answer: 'We provide prompt response to all Great Falls properties. When you call (877) 497-0007, we immediately guide you to shut off water if safe, then dispatch through our Northern Virginia service network. We reach Forestville, Seneca Estates, Georgetown Pike, and all Great Falls locations as access and conditions allow.',
     },
     {
       question: 'A pipe burst upstairs—how do I know if damage reached lower levels?',
@@ -189,6 +189,6 @@ Our IICRC Master Water Restorers understand the complexity of Great Falls estate
   ],
   finalCTA: {
     headline: 'Burst Pipe in Your Great Falls Estate?',
-    paragraph: `Every minute of water flow creates more damage across your property. Call now for immediate dispatch—we'll guide you to shut off water and have crews on-site within 30 minutes.`,
+    paragraph: `Every minute of water flow creates more damage across your property. Call now for immediate dispatch—we'll guide you to shut off water and have crews on-site as quickly as access and conditions allow.`,
   },
 }

@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Reston, VA | Flood Doctor`,
-    description: `Reston's HIPAA-compliant healthcare restoration specialists. Serving medical offices near Reston Town Center, South Lakes, and Lake Anne. Call (877) 497-0007.`,
+    description: `Reston's HIPAA-compliant healthcare restoration specialists. Serving medical workplaces near Reston Town Center, South Lakes, and Lake Anne. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Reston, Virginia`,
   introSection: {
     headline: `HIPAA-Compliant Healthcare Restoration for Reston's Planned Community`,
     paragraphs: [
-      `Reston's planned community design concentrates healthcare facilities in village center clusters and along the Town Center corridor. Medical offices at Reston Town Center serve the surrounding corporate workforce. Family practices near South Lakes and Hunters Woods support the residential neighborhoods. Specialty clinics along Sunrise Valley Drive cater to the technology sector workforce that defines Reston's economy. When water damage strikes these facilities, the interconnected nature of Reston's planned design means medical access disruption affects the entire community—patients cannot simply redirect to the next town's providers without significant travel disruption.
+      `Reston's planned community design concentrates healthcare facilities in village center clusters and along the Town Center corridor. Medical workplaces at Reston Town Center serve the surrounding corporate workforce. Family practices near South Lakes and Hunters Woods support the residential neighborhoods. Specialty clinics along Sunrise Valley Drive cater to the technology sector workforce that defines Reston's economy. When water damage strikes these facilities, the interconnected nature of Reston's planned design means medical access disruption affects the entire community—patients cannot simply redirect to the next town's providers without significant travel disruption.
 
-Flood Doctor delivers HIPAA-compliant restoration calibrated for Reston's community-organized healthcare landscape. Our ICRA-trained crews navigate the Reston Association requirements that govern commercial property maintenance, coordinate with village center property management, and restore medical offices with the infection control standards that Joint Commission accreditation demands. We understand that Reston's healthcare providers serve a loyal patient base built on accessibility—and our restoration timelines prioritize getting those providers back in operation.`,
-      `Reston's proximity to lakes, streams, and wooded green spaces creates water damage risks specific to this planned community. Medical offices near Lake Anne and along the W&OD Trail corridor face elevated groundwater during wet seasons. Facilities at North Point and Hunters Woods village centers sit adjacent to Reston's extensive trail and drainage systems that can overwhelm during severe storms. The combination of natural water features and mature tree canopy creates humidity conditions that accelerate mold development if water damage restoration is delayed even briefly.
+Flood Doctor delivers HIPAA-compliant restoration calibrated for Reston's community-organized healthcare landscape. Our ICRA-trained crews navigate the Reston Association requirements that govern commercial property maintenance, coordinate with village center property management, and restore medical workplaces with the infection control standards that Joint Commission accreditation demands. We understand that Reston's healthcare providers serve a loyal patient base built on accessibility—and our restoration timelines prioritize getting those providers back in operation.`,
+      `Reston's proximity to lakes, streams, and wooded green spaces creates water damage risks specific to this planned community. Medical workplaces near Lake Anne and along the W&OD Trail corridor face elevated groundwater during wet seasons. Facilities at North Point and Hunters Woods village centers sit adjacent to Reston's extensive trail and drainage systems that can overwhelm during severe storms. The combination of natural water features and mature tree canopy creates humidity conditions that accelerate mold development if water damage restoration is delayed even briefly.
 
-Our Reston healthcare team accounts for these environmental factors. We deploy with moisture detection equipment calibrated for the humidity levels common in this lake-adjacent community. Air quality monitoring addresses the elevated mold spore counts typical near Reston's water features. When a medical facility near Lake Fairfax or South Lakes faces water damage, we respond with both the healthcare compliance expertise and the environmental awareness that Reston's natural setting demands.`,
+Our Reston healthcare team accounts for these environmental factors. We deploy with moisture detection equipment calibrated for the humidity levels common in this lake-adjacent community. Air quality monitoring addresses the elevated mold spore counts typical near Reston's water features. When a medical facility near Lake Fairfax or South Lakes faces water damage, we respond with both the healthcare compliance experience and the environmental awareness that Reston's natural setting demands.`,
     ],
     localContext: `Reston's planned community concentrates healthcare in village centers near lakes and green spaces, creating a dual challenge of maintaining HIPAA-compliant restoration while managing the elevated humidity and groundwater conditions unique to this nature-integrated development.`,
   },
   processSteps: [
     {
       title: `Community-Integrated Emergency Response`,
-      description: `Call (877) 497-0007 for immediate healthcare facility deployment. Our Reston crews know the village center layouts and access routes, arriving with ICRA containment and HEPA filtration at medical offices throughout Reston Town Center, South Lakes, Lake Anne, and Hunters Woods.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate healthcare facility deployment. Our Reston crews know the village center layouts and access routes, arriving with ICRA containment and HEPA filtration at medical workplaces throughout Reston Town Center, South Lakes, Lake Anne, and Hunters Woods.`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Environmental and Clinical Assessment`,
@@ -53,12 +53,12 @@ Our Reston healthcare team accounts for these environmental factors. We deploy w
   localChallenges: [
     {
       title: `Lake-Adjacent Facility Groundwater Intrusion`,
-      description: `Medical offices near Lake Anne and South Lakes experience elevated groundwater during wet seasons. Foundation seepage introduces moisture into lower-level clinical and storage spaces, creating chronic humidity problems that compromise healthcare environmental standards.`,
+      description: `Medical workplaces near Lake Anne and South Lakes experience elevated groundwater during wet seasons. Foundation seepage introduces moisture into lower-level clinical and storage spaces, creating chronic humidity problems that compromise healthcare environmental standards.`,
       solution: `We address the immediate moisture intrusion and assess the chronic groundwater source. Restoration includes enhanced dehumidification to overcome ambient humidity, and we recommend long-term waterproofing solutions appropriate for lake-adjacent medical facilities.`,
     },
     {
       title: `Village Center Multi-Tenant Coordination`,
-      description: `Reston village center medical offices share building systems with retail, restaurant, and service tenants. Water damage in one space can affect adjacent medical practices through shared plumbing, HVAC, and structural assemblies, requiring multi-tenant coordination while maintaining healthcare standards.`,
+      description: `Reston village center medical workplaces share building systems with retail, restaurant, and service tenants. Water damage in one space can affect adjacent medical practices through shared plumbing, HVAC, and structural assemblies, requiring multi-tenant coordination while maintaining healthcare standards.`,
       solution: `We manage multi-tenant restoration with separate healthcare-compliant protocols for medical spaces and standard commercial restoration for adjacent tenants. Building management coordination ensures shared system repairs proceed efficiently while ICRA containment protects medical environments.`,
     },
     {
@@ -96,7 +96,7 @@ Our Reston healthcare team accounts for these environmental factors. We deploy w
       },
       {
         name: `Injectidry Wall Systems`,
-        purpose: `Dry wall cavities without demolition in village center medical offices where minimizing disruption is essential`,
+        purpose: `Dry wall cavities without demolition in village center medical workplaces where minimizing disruption is essential`,
       },
       {
         name: `Environmental Monitoring Stations`,
@@ -133,7 +133,7 @@ Our Reston healthcare team accounts for these environmental factors. We deploy w
       `Hidden Creek`,
       `Dogwood Pool Area`,
     ],
-    responseTime: `30-minute emergency response to all Reston healthcare facilities. Our crews navigate Reston's village center layouts for efficient medical office access throughout the planned community.`,
+    responseTime: `prompt emergency response to all Reston healthcare facilities. Our crews navigate Reston's village center layouts for efficient medical workplace access throughout the planned community.`,
   },
   faqs: [
     {
@@ -145,7 +145,7 @@ Our Reston healthcare team accounts for these environmental factors. We deploy w
       answer: `Yes. We manage multi-tenant restoration with separate healthcare-grade protocols for your medical space and coordinate shared system repairs through property management. Reston Association compliance for exterior work is handled as part of our standard coordination.`,
     },
     {
-      question: `Are your crews HIPAA trained for Reston medical offices?`,
+      question: `Are your crews HIPAA trained for Reston medical workplaces?`,
       answer: `Every healthcare technician completes annual HIPAA training and signs confidentiality agreements. We execute business associate agreements with each practice. Patient records and electronic health systems are secured under chain-of-custody protocols throughout restoration.`,
     },
     {
@@ -153,7 +153,7 @@ Our Reston healthcare team accounts for these environmental factors. We deploy w
       answer: `Antimicrobial treatment is applied alongside initial extraction to inhibit mold growth from the start. Enhanced dehumidification overcomes ambient humidity. Post-restoration mold testing confirms clearance levels appropriate for healthcare environments in this microclimate.`,
     },
     {
-      question: `What about groundwater seepage in our Lake Anne medical office?`,
+      question: `What about groundwater seepage in our Lake Anne medical practice space?`,
       answer: `We address the immediate moisture damage and assess the chronic groundwater source. Beyond restoration, we recommend waterproofing solutions appropriate for lake-adjacent buildings and help relocate moisture-sensitive equipment away from seepage-prone areas.`,
     },
     {
@@ -166,6 +166,6 @@ Our Reston healthcare team accounts for these environmental factors. We deploy w
   ],
   finalCTA: {
     headline: `Reston Healthcare Facility Emergency?`,
-    paragraph: `Lake-adjacent humidity accelerates mold risk in water-damaged medical spaces. Our HIPAA-compliant crews respond within 30 minutes with enhanced environmental controls designed for Reston's unique conditions. Call (877) 497-0007 now.`,
+    paragraph: `Lake-adjacent humidity accelerates mold risk in water-damaged medical spaces. Our HIPAA-compliant crews respond as quickly as access and conditions allow with enhanced environmental controls designed for Reston's unique conditions. Call (877) 497-0007 now.`,
   },
 }

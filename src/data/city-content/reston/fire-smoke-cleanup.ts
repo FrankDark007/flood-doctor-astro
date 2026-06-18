@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Reston, VA | Flood Doctor',
-    description: 'Reston fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. Lake Anne, South Lakes, Reston Town Center. Call (877) 497-0007.',
+    description: 'Reston fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. trained. Lake Anne, South Lakes, Reston Town Center. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Reston, Virginia',
   introSection: {
@@ -11,12 +11,12 @@ export const content: CityServiceContent = {
     paragraphs: [
       `After firefighters leave your Reston property, the real restoration challenge begins. The fire may be out, but smoke has penetrated every room, soot coats surfaces far from the flames, and water from suppression efforts saturates floors and walls. Your South Lakes colonial or Lake Anne townhome—with its finished spaces and carefully maintained interiors—now requires specialized restoration that most companies aren't equipped to provide.
 
-Flood Doctor has restored fire-damaged properties throughout Reston for nearly two decades. We've removed soot from Hunters Woods kitchens, eliminated smoke odor from North Point colonials, and dried fire suppression water from walkout basements facing Reston's natural areas. Fire damage restoration combines smoke and soot cleaning, odor elimination, water damage restoration, and content cleaning—we handle all of it.`,
+Flood Doctor has restored fire-damaged properties throughout Reston across the service area. We've removed soot from Hunters Woods kitchens, eliminated smoke odor from North Point colonials, and dried fire suppression water from walkout basements facing Reston's natural areas. Fire damage restoration combines smoke and soot cleaning, odor elimination, water damage restoration, and content cleaning—we handle all of it.`,
       `Reston's diverse housing presents unique fire restoration challenges. Townhomes with party walls mean smoke and odor can migrate to neighbors' units. Cluster housing shares HVAC systems that spread contamination. Condos in Reston Town Center require coordination with building management and adjacent units. The planned community's interconnected design adds complexity that standalone homes don't face.
 
 We respond within hours of fire department clearance, beginning the restoration process while damage is still fresh. Early intervention saves more of your property—soot continues etching surfaces and smoke odor sets deeper every day.`,
     ],
-    localContext: `Reston's townhomes, cluster housing, and condos create fire restoration challenges beyond typical residential work. Party wall concerns, shared HVAC, and neighbor coordination require expertise in the planned community's unique structure.`,
+    localContext: `Reston's townhomes, cluster housing, and condos create fire restoration challenges beyond typical residential work. Party wall concerns, shared HVAC, and neighbor coordination require experience in the planned community's unique structure.`,
   },
   processSteps: [
     {

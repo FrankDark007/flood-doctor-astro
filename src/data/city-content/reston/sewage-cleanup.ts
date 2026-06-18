@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Reston, VA | Flood Doctor',
-    description: 'Reston sewage backup cleanup. Biohazard-certified crews for sewer overflow, drain backups & storm-related sewage. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
+    description: 'Reston sewage backup cleanup. Biohazard-trained crews for sewer overflow, drain backups & storm-related sewage. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in Reston, Virginia',
   introSection: {
@@ -22,12 +22,12 @@ Our crews don't approach sewage like regular water damage. This is biohazard wor
     {
       title: 'Emergency Dispatch with Biohazard Equipment',
       description: `Sewage calls receive priority dispatch. Our Reston crews carry full PPE, antimicrobial agents, and biohazard disposal materials on every truck. We don't need to return to a warehouse before responding to your South Lakes or Lake Anne emergency.`,
-      timeframe: '30-minute response',
+      timeframe: 'prompt response',
     },
     {
       title: 'Contamination Zone Establishment',
       description: `We isolate affected areas to prevent cross-contamination. In Reston's open floor plan colonials and multi-level townhomes, this containment prevents sewage from spreading to unaffected areas—critical when your finished basement connects to main living spaces.`,
-      timeframe: 'First 30 minutes on-site',
+      timeframe: 'Initial on-site actions',
     },
     {
       title: 'PPE-Protected Extraction',
@@ -83,7 +83,7 @@ Our crews don't approach sewage like regular water damage. This is biohazard wor
       'Wainwright',
       'Polo Fields',
     ],
-    responseTime: 'Priority 30-minute response for sewage emergencies. Biohazard situations receive immediate dispatch. Our Reston crews carry full decontamination equipment on every truck.',
+    responseTime: 'Priority prompt response for sewage emergencies. Biohazard situations receive immediate dispatch. Our Reston crews carry full decontamination equipment on every truck.',
   },
   faqs: [
     {
@@ -114,6 +114,6 @@ Our crews don't approach sewage like regular water damage. This is biohazard wor
   relatedBlogSlugs: ['first-24-hours-after-water-damage', 'water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: 'Sewage Emergency in Reston?',
-    paragraph: `Sewage backup is a health emergency. Don't enter contaminated areas or attempt cleanup yourself. Our biohazard-certified crews are positioned throughout Reston for immediate response with full decontamination equipment.`,
+    paragraph: `Sewage backup is a health emergency. Don't enter contaminated areas or attempt cleanup yourself. Our biohazard-trained crews are available throughout Reston for immediate response with full decontamination equipment.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Herndon, VA | Flood Doctor`,
-    description: `Herndon's trusted restoration for schools, the Herndon Community Center, and public facilities. FCPS and Town of Herndon experienced. Call (877) 497-0007.`,
+    description: `Herndon's local restoration for schools, the Herndon Community Center, and public facilities. FCPS and Town of Herndon experienced. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Herndon, Virginia`,
   introSection: {
@@ -22,7 +22,7 @@ Our teams address these infrastructure realities with practical restoration and 
     {
       title: `Emergency Facility Response`,
       description: `Call (877) 497-0007 for immediate school or municipal facility deployment. We coordinate with FCPS facilities management for schools or Town of Herndon public works for community buildings, activating appropriate emergency procurement procedures.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Infrastructure and Hazard Assessment`,
@@ -133,7 +133,7 @@ Our teams address these infrastructure realities with practical restoration and 
       `Dulles Connection`,
       `Reston Connection`,
     ],
-    responseTime: `45-minute emergency response to all Herndon schools and municipal facilities. Our crews coordinate with FCPS security and Town of Herndon public works for immediate building access.`,
+    responseTime: `prompt emergency response to all Herndon schools and municipal facilities. Our crews coordinate with FCPS security and Town of Herndon public works for immediate building access.`,
   },
   faqs: [
     {
@@ -158,7 +158,7 @@ Our teams address these infrastructure realities with practical restoration and 
     },
     {
       question: `What about asbestos in older Herndon school buildings?`,
-      answer: `Certified inspectors assess for regulated materials before demolition begins. Licensed abatement contractors handle identified hazards under EPA AHERA compliance. Documentation is maintained for school AHERA management plans.`,
+      answer: `Qualified inspectors assess for regulated materials before demolition begins. Licensed abatement contractors handle identified hazards under EPA AHERA compliance. Documentation is maintained for school AHERA management plans.`,
     },
   ],
   relatedBlogSlugs: [
@@ -166,6 +166,6 @@ Our teams address these infrastructure realities with practical restoration and 
   ],
   finalCTA: {
     headline: `Herndon School or Community Facility Emergency?`,
-    paragraph: `Students and community members depend on these facilities daily. Our crews respond within 45 minutes with practical restoration capability and the infrastructure assessment that prevents future emergencies. Call (877) 497-0007 immediately.`,
+    paragraph: `Students and community members depend on these facilities daily. Our crews respond as quickly as access and conditions allow with practical restoration capability and the infrastructure assessment that prevents future emergencies. Call (877) 497-0007 immediately.`,
   },
 }

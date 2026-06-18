@@ -3,30 +3,30 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Herndon, VA | Flood Doctor',
-    description: `Herndon's trusted water damage restoration experts. 30-min response to Fox Mill, Downtown, Worldgate & Franklin Farm. Commercial & residential. Call (877) 497-0007.`,
+    description: `Herndon's local water damage restoration specialists. prompt response to Fox Mill, Downtown, Worldgate & Franklin Farm. Commercial & residential. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Herndon, Virginia',
   introSection: {
     headline: `Protecting Herndon's Homes and Businesses from Water Damage`,
     paragraphs: [
-      `When water infiltrates your Herndon property, the stakes are significant whether you're a homeowner or business owner. Your Fox Mill colonial's finished basement isn't just storage—it's a recreation room, home office, or guest suite. Your Downtown Herndon commercial space isn't just square footage—it's your livelihood.
+      `When water infiltrates your Herndon property, the stakes are significant whether you're a homeowner or business owner. Your Fox Mill colonial's finished basement isn't just storage—it's a recreation room, home workspace, or guest suite. Your Downtown Herndon commercial space isn't just square footage—it's your livelihood.
 
-Flood Doctor has restored water-damaged properties throughout Herndon for nearly two decades. We've extracted standing water from Franklin Farm family homes, dried the finished basements of Fox Mill families, and protected commercial operations in the Dulles tech corridor. When your Worldgate neighbor or business associate recommends a restoration company, they mention us—because we've already served their community.`,
+Flood Doctor has restored water-damaged properties throughout Herndon across the service area. We've extracted standing water from Franklin Farm family homes, dried the finished basements of Fox Mill families, and protected commercial operations in the Dulles tech corridor. When your Worldgate neighbor or business associate recommends a restoration company, they mention us—because we've already served their community.`,
       `Herndon's water damage challenges span both residential and commercial sectors. The clay soil beneath established neighborhoods shifts during wet seasons, creating foundation cracks. Commercial buildings with extensive plumbing, HVAC systems, and fire suppression can release thousands of gallons when systems fail. The mature oaks in Fox Mill and Downtown Herndon—the same trees that provide neighborhood character—send roots into aging sewer lines.
 
-Our IICRC Master Water Restorers don't just pump water and leave. We understand that your McNair property requires precision drying to protect finished spaces, that your Downtown Herndon commercial lease has uptime requirements, and that your Worldgate townhome's open floor plan means water travels quickly between levels.`,
+Our experienced restoration crews don't just pump water and leave. We understand that your McNair property requires precision drying to protect finished spaces, that your Downtown Herndon commercial lease has uptime requirements, and that your Worldgate townhome's open floor plan means water travels quickly between levels.`,
     ],
-    localContext: `Herndon's mix of established residential neighborhoods and commercial tech corridor requires restoration expertise that spans both sectors. We've protected homes in Fox Mill, businesses near Dulles, and everything in between for years.`,
+    localContext: `Herndon's mix of established residential neighborhoods and commercial tech corridor requires restoration experience that spans both sectors. We've protected homes in Fox Mill, businesses near Dulles, and everything in between for years.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Herndon hotline at (877) 497-0007, we dispatch from our local facility immediately. Our trucks are positioned to reach Downtown Herndon, Fox Mill, Worldgate, Franklin Farm, and McNair within our 30-minute guarantee—not from a distant warehouse, but from the Herndon corridor where we're already stationed.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call our Herndon hotline at (877) 497-0007, we dispatch through our Northern Virginia service network. Our trucks are available to reach Downtown Herndon, Fox Mill, Worldgate, Franklin Farm, and McNair as quickly as access and conditions allow—not from a distant warehouse, but from the Herndon corridor from our Northern Virginia service network.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Comprehensive Damage Assessment',
-      description: `Our IICRC-certified technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Herndon's multi-level townhomes, this often reveals water migration paths that aren't visible—from an upper bathroom traveling down to the basement.`,
+      description: `Our trained technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Herndon's multi-level townhomes, this often reveals water migration paths that aren't visible—from an upper bathroom traveling down to the basement.`,
       timeframe: 'First hour',
     },
     {
@@ -68,7 +68,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       title: 'Commercial System Failures',
-      description: `Herndon's tech corridor includes office buildings, data centers, and commercial facilities with extensive water systems. Fire suppression, HVAC, and commercial plumbing can release massive water volumes when they fail.`,
+      description: `Herndon's tech corridor includes commercial buildings, data centers, and commercial facilities with extensive water systems. Fire suppression, HVAC, and commercial plumbing can release massive water volumes when they fail.`,
       solution: 'We respond to commercial emergencies with urgency matching your uptime requirements. Our crews understand that water near server rooms, inventory, or production equipment demands immediate, expert attention.',
     },
     {
@@ -113,7 +113,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Herndon',
-    intro: 'Herndon water damage restoration costs vary based on property type, damage scope, and affected materials. We provide free inspections and detailed estimates before any work begins. Most Herndon property owners file insurance claims—and we handle direct billing with all major carriers.',
+    intro: 'Herndon water damage restoration costs vary based on property type, damage scope, and affected materials. We provide free inspections and detailed estimates before any work begins. Most Herndon property owners file insurance claims—and we handle insurance documentation and coordination.',
     factors: [
       'Square footage affected—commercial spaces and larger homes involve more extensive work',
       'Water category—clean water from a burst pipe differs from sewage backup requiring biohazard protocols',
@@ -139,7 +139,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
       'Woodland Park',
       'Herndon Parkway Corridor',
     ],
-    responseTime: '30-minute response to all Herndon neighborhoods and commercial areas. Our crews are stationed throughout the Herndon corridor—from Elden Street to the Dulles access road—for immediate emergency dispatch.',
+    responseTime: 'prompt response to all Herndon neighborhoods and commercial areas. Our crews are serving the Herndon corridor—from Elden Street to the Dulles access road—for immediate emergency dispatch.',
   },
   faqs: [
     {
@@ -152,11 +152,11 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       question: 'Do you handle commercial water damage in Herndon?',
-      answer: `Yes. Herndon's position in the Dulles tech corridor means we regularly respond to commercial facilities—from small offices on Elden Street to large facilities near the airport. We understand that commercial water damage involves business interruption concerns beyond just property damage.`,
+      answer: `Yes. Herndon's position in the Dulles tech corridor means we regularly respond to commercial facilities—from small workplaces on Elden Street to large facilities near the airport. We understand that commercial water damage involves business interruption concerns beyond just property damage.`,
     },
     {
       question: 'Will you work directly with my insurance company?',
-      answer: 'Yes. We handle direct billing with all major carriers and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim. Professional documentation typically improves claim outcomes.',
+      answer: 'Yes. We handle insurance documentation and coordination and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim. Professional documentation typically improves claim outcomes.',
     },
     {
       question: 'How do you prevent mold after water damage?',
@@ -164,11 +164,11 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       question: `What's the difference between your service and national chains?`,
-      answer: `We're locally focused and positioned in the Herndon area. Our crews know the neighborhoods, understand both residential and commercial construction, and are positioned for 30-minute response. National franchises often dispatch from distant locations and lack expertise in Herndon's specific challenges.`,
+      answer: `We're locally focused and available in the Herndon area. Our crews know the neighborhoods, understand both residential and commercial construction, and are available for prompt response. National franchises often dispatch from distant locations and lack experience in Herndon's specific challenges.`,
     },
     {
       question: 'Can you help with water damage in a multi-unit building?',
-      answer: `Yes. Herndon's many townhome communities and commercial buildings often require coordination when water affects multiple units. We work with HOAs, property managers, and building owners to ensure complete restoration across all affected spaces.`,
+      answer: `Yes. Herndon's many townhome communities and commercial buildings often require coordination when water affects multiple units. We work with HOAs, property managers, and building owners to ensure thorough restoration across all affected spaces.`,
     },
   ],
   relatedBlogSlugs: [
@@ -178,6 +178,6 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Herndon?',
-    paragraph: 'Every hour of delay means more damage to your property. Our crews are stationed throughout Herndon for immediate 30-minute response. One call handles everything—from water extraction to insurance documentation.',
+    paragraph: 'Every hour of delay means more damage to your property. Our crews are serving Herndon for immediate prompt response. One call handles everything—from water extraction to insurance documentation.',
   },
 }

@@ -9,10 +9,10 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Comprehensive Large Loss Management Across Reston's Diverse Commercial Portfolio`,
     paragraphs: [
-      `Large loss events in Reston span the community's full range of commercial property types—a catastrophic mechanical failure flooding multiple floors of a Reston Town Center office tower, a major storm event devastating a neighborhood commercial center at Hunters Woods, or a campus-wide water intrusion affecting the office park complex along Sunrise Valley Drive. Each scenario generates a restoration project measured in hundreds of thousands or millions of dollars, but each requires different technical approaches, stakeholder management strategies, and community coordination reflecting Reston's unique planned community environment.
+      `Large loss events in Reston span the community's full range of commercial property types—a catastrophic mechanical failure flooding multiple floors of a Reston Town Center workplace tower, a major storm event devastating a neighborhood commercial center at Hunters Woods, or a campus-wide water intrusion affecting the business park complex along Sunrise Valley Drive. Each scenario generates a restoration project measured in hundreds of thousands or millions of dollars, but each requires different technical approaches, stakeholder management strategies, and community coordination reflecting Reston's unique planned community environment.
 
-Flood Doctor's large loss division has managed significant commercial restorations throughout Reston. Our senior project directors have coordinated multi-floor recoveries in Town Center high-rises, managed multi-building events across neighborhood commercial centers near Lake Anne Plaza, and delivered office park restorations in the North Point and Sunset Hills business districts—adapting our enterprise project management to the specific context each Reston commercial property type presents.`,
-      `Reston's large loss landscape carries complexity beyond standard commercial restoration. The planned community's governance structure means that Reston Association coordination may overlay standard property management relationships. The community's environmental consciousness creates expectations for restoration practices that minimize ecological impact. And the integrated nature of Reston's commercial areas—where business districts serve as community gathering spaces alongside their commercial function—means that large loss projects affect community life in ways that suburban office park restorations do not.
+Flood Doctor's large loss division has managed significant commercial restorations throughout Reston. Our senior project directors have coordinated multi-floor recoveries in Town Center high-rises, managed multi-building events across neighborhood commercial centers near Lake Anne Plaza, and delivered business park restorations in the North Point and Sunset Hills business districts—adapting our enterprise project management to the specific context each Reston commercial property type presents.`,
+      `Reston's large loss landscape carries complexity beyond standard commercial restoration. The planned community's governance structure means that Reston Association coordination may overlay standard property management relationships. The community's environmental consciousness creates expectations for restoration practices that minimize ecological impact. And the integrated nature of Reston's commercial areas—where business districts serve as community gathering spaces alongside their commercial function—means that large loss projects affect community life in ways that suburban business park restorations do not.
 
 Our project directors factor these community dimensions into every Reston large loss project plan. Construction activity management considers the W&OD Trail users passing through business districts, the community events that commercial areas host, and the aesthetic standards that Reston's engaged residents expect of commercial properties. This community awareness shapes our execution approach without compromising the project management discipline that large loss projects require.`,
     ],
@@ -53,7 +53,7 @@ Our project directors factor these community dimensions into every Reston large 
   localChallenges: [
     {
       title: 'Multi-Building Campus Events',
-      description: 'Reston office parks along Sunrise Valley Drive, Sunset Hills, and Isaac Newton Square feature connected buildings sharing infrastructure. A catastrophic event can affect multiple buildings simultaneously, creating a campus-scale restoration project with multiple property owners and dozens of affected tenants.',
+      description: 'Reston business parks along Sunrise Valley Drive, Sunset Hills, and Isaac Newton Square feature connected buildings sharing infrastructure. A catastrophic event can affect multiple buildings simultaneously, creating a campus-scale restoration project with multiple property owners and dozens of affected tenants.',
       solution: 'We assign a program manager above individual building project directors to coordinate campus-wide resource allocation, shared infrastructure repairs, and cross-building scheduling. Each building maintains its own restoration timeline while the program manager ensures overall efficiency.',
     },
     {
@@ -82,7 +82,7 @@ Our project directors factor these community dimensions into every Reston large 
       },
       {
         name: 'Industrial Drying Systems',
-        purpose: 'Commercial-scale dehumidification for office towers, neighborhood centers, and campus buildings',
+        purpose: 'Commercial-scale dehumidification for workplace towers, neighborhood centers, and campus buildings',
         brand: 'Munters',
       },
       {
@@ -130,11 +130,11 @@ Our project directors factor these community dimensions into every Reston large 
       'Reston Parkway Commercial Corridor',
       'W&OD Trail Business District',
     ],
-    responseTime: 'Emergency stabilization within 60 minutes to Reston commercial properties. Full large loss mobilization including community coordination scales within 12-24 hours for campus-wide events.',
+    responseTime: 'Emergency stabilization as quickly as access and conditions allow to Reston commercial properties. Full large loss mobilization including community coordination scales within 12-24 hours for campus-wide events.',
   },
   faqs: [
     {
-      question: 'Can you manage a large loss affecting multiple buildings in a Reston office park?',
+      question: 'Can you manage a large loss affecting multiple buildings in a Reston business park?',
       answer: 'Yes. We assign program-level management above individual building project directors for campus-wide events. Shared infrastructure repairs, cross-building scheduling, and coordinated resource allocation ensure efficient restoration across connected properties.',
     },
     {

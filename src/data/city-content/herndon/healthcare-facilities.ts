@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Herndon, VA | Flood Doctor`,
-    description: `Herndon's HIPAA-compliant healthcare restoration experts. Serving medical offices in Downtown Herndon, Fox Mill, and Franklin Farm. Call (877) 497-0007.`,
+    description: `Herndon's HIPAA-compliant healthcare restoration specialists. Serving medical workplaces in Downtown Herndon, Fox Mill, and Franklin Farm. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Herndon, Virginia`,
   introSection: {
     headline: `HIPAA-Compliant Restoration for Herndon's Growing Healthcare Network`,
     paragraphs: [
-      `Herndon straddles the boundary between Dulles corridor commercial power and small-town community character, and its healthcare facilities reflect both identities. Family practices near the Herndon Town Green serve longtime residents with the continuity that builds patient trust. Urgent care centers along Elden Street handle the walk-in traffic from the Worldgate Centre workforce. Specialty clinics in Franklin Farm and Fox Mill support the growing suburban population. Occupational health facilities near Dulles Airport serve the airline and logistics workforce. When water damage strikes these practices, the impact ranges from disrupted family care relationships to interrupted employee health screening programs that keep the corridor's workforce certified.
+      `Herndon straddles the boundary between Dulles corridor commercial power and small-town community character, and its healthcare facilities reflect both identities. Family practices near the Herndon Town Green serve longtime residents with the continuity that builds patient trust. Urgent care centers along Elden Street handle the walk-in traffic from the Worldgate Centre workforce. Specialty clinics in Franklin Farm and Fox Mill support the growing suburban population. Occupational health facilities near Dulles Airport serve the airline and logistics workforce. When water damage strikes these practices, the impact ranges from disrupted family care relationships to interrupted employee health screening programs that keep the corridor's workforce credentialed.
 
 Flood Doctor provides HIPAA-compliant restoration scaled for Herndon's practical healthcare market. Our ICRA-trained crews deliver the same infection control and patient information protection standards as any Northern Virginia healthcare restoration—but with the community responsiveness that Herndon medical practices expect. We coordinate with building owners in downtown Herndon's older commercial buildings, navigate the professional park logistics of Fox Mill and Franklin Farm, and understand that a Herndon family doctor serves a patient base that values accessibility above all else.`,
-      `Herndon's healthcare buildings span from historic downtown structures to suburban professional parks, each with distinct water damage vulnerabilities. Downtown medical offices near the Town Green occupy older commercial buildings with aging plumbing and roof systems. Professional parks in Floris and McNair areas feature shared HVAC and plumbing serving multiple medical tenants. Commercial buildings near Worldgate Centre house medical practices in spaces originally designed for retail, with drainage and mechanical systems that may not accommodate healthcare facility demands.
+      `Herndon's healthcare buildings span from historic downtown structures to suburban professional parks, each with distinct water damage vulnerabilities. Downtown medical workplaces near the Town Green occupy older commercial buildings with aging plumbing and roof systems. Professional parks in Floris and McNair areas feature shared HVAC and plumbing serving multiple medical tenants. Commercial buildings near Worldgate Centre house medical practices in spaces originally designed for retail, with drainage and mechanical systems that may not accommodate healthcare facility demands.
 
 Our Herndon healthcare team adapts restoration approaches to each building context. Older downtown buildings receive plumbing failure documentation supporting landlord maintenance claims. Multi-tenant professional parks get coordinated restoration addressing shared system failures. Converted commercial spaces are assessed for whether the building infrastructure adequately supports the medical use, with documentation that helps practices negotiate appropriate facility improvements with their landlords.`,
     ],
@@ -21,8 +21,8 @@ Our Herndon healthcare team adapts restoration approaches to each building conte
   processSteps: [
     {
       title: `Practical Emergency Response`,
-      description: `Call (877) 497-0007 for immediate medical facility deployment. Our Herndon crews arrive with ICRA containment and HEPA filtration at medical offices throughout downtown Herndon, Fox Mill, Franklin Farm, Worldgate, and the Floris corridor.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate medical facility deployment. Our Herndon crews arrive with ICRA containment and HEPA filtration at medical workplaces throughout downtown Herndon, Fox Mill, Franklin Farm, Worldgate, and the Floris corridor.`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Building Context Assessment`,
@@ -36,7 +36,7 @@ Our Herndon healthcare team adapts restoration approaches to each building conte
     },
     {
       title: `Building-Appropriate Drying`,
-      description: `Drying protocols match the building type. Older downtown structures receive moisture-sensitive approaches preserving existing finishes. Professional park offices get efficient commercial drying. Converted spaces receive equipment placement accounting for non-standard floor plans.`,
+      description: `Drying protocols match the building type. Older downtown structures receive moisture-sensitive approaches preserving existing finishes. Professional park workplaces get efficient commercial drying. Converted spaces receive equipment placement accounting for non-standard floor plans.`,
       timeframe: `Days 1-4`,
     },
     {
@@ -53,23 +53,23 @@ Our Herndon healthcare team adapts restoration approaches to each building conte
   localChallenges: [
     {
       title: `Downtown Herndon Aging Infrastructure`,
-      description: `Medical offices near the Herndon Town Green occupy commercial buildings with plumbing and roof systems from original construction. These systems fail with increasing frequency, flooding clinical spaces and creating liability questions between building owners and medical tenants.`,
+      description: `Medical workplaces near the Herndon Town Green occupy commercial buildings with plumbing and roof systems from original construction. These systems fail with increasing frequency, flooding clinical spaces and creating liability questions between building owners and medical tenants.`,
       solution: `We address the water damage while documenting the infrastructure failure for landlord notification and insurance claims. Our assessment identifies the building system deficiency and helps practices evaluate whether their lease adequately addresses building maintenance responsibilities.`,
     },
     {
       title: `Multi-Tenant Professional Park Coordination`,
-      description: `Medical offices in Fox Mill and Franklin Farm share building systems with other healthcare and commercial tenants. HVAC condensate failures and shared plumbing issues affect multiple practices simultaneously, requiring coordination across tenants with different practice types and schedules.`,
+      description: `Medical workplaces in Fox Mill and Franklin Farm share building systems with other healthcare and commercial tenants. HVAC condensate failures and shared plumbing issues affect multiple practices simultaneously, requiring coordination across tenants with different practice types and schedules.`,
       solution: `We manage multi-tenant restoration with healthcare-grade protocols for medical spaces and coordinate shared system repairs through building management. Each medical tenant receives individual HIPAA-compliant documentation while building-level issues are addressed separately.`,
     },
     {
       title: `Storm Drain Backup Contamination`,
-      description: `Herndon's older storm drainage infrastructure backs up during heavy rain events, pushing contaminated water into ground-level medical offices near the Town Green and along Elden Street. Category 2-3 contamination in healthcare environments requires enhanced remediation protocols.`,
+      description: `Herndon's older storm drainage infrastructure backs up during heavy rain events, pushing contaminated water into ground-level medical workplaces near the Town Green and along Elden Street. Category 2-3 contamination in healthcare environments requires enhanced remediation protocols.`,
       solution: `We activate appropriate contamination protocols based on water source classification. Antimicrobial treatment addresses biohazard concerns while HIPAA personnel secure patient materials. Documentation supports both the contamination-related insurance claim and the building drainage deficiency notification.`,
     },
     {
       title: `Occupational Health Facility Quick Turnaround`,
       description: `Occupational health clinics near Dulles Airport process employee screenings, drug testing, and injury treatment on tight schedules. Extended closures disrupt workforce certification programs for airlines, logistics companies, and government contractors who depend on these services.`,
-      solution: `We prioritize treatment and testing rooms for accelerated restoration, deploying additional resources when needed. Phased reopening allows critical screening services to resume while remaining spaces complete restoration. Documentation supports the business interruption claim.`,
+      solution: `We prioritize treatment and testing rooms for accelerated restoration, deploying additional resources when needed. Phased reopening allows critical screening services to resume while remaining spaces thorough restoration. Documentation supports the business interruption claim.`,
     },
   ],
   equipmentSection: {
@@ -77,12 +77,12 @@ Our Herndon healthcare team adapts restoration approaches to each building conte
     equipment: [
       {
         name: `HEPA Air Scrubbers`,
-        purpose: `Healthcare-grade air filtration for medical office environments during restoration activities`,
+        purpose: `Healthcare-grade air filtration for medical workplace environments during restoration activities`,
         brand: `Phoenix`,
       },
       {
         name: `Low-Profile Dehumidifiers`,
-        purpose: `Efficient moisture removal for the varied medical office configurations found in Herndon's diverse building stock`,
+        purpose: `Efficient moisture removal for the varied medical workplace configurations found in Herndon's diverse building stock`,
         brand: `Dri-Eaz`,
       },
       {
@@ -115,7 +115,7 @@ Our Herndon healthcare team adapts restoration approaches to each building conte
       `Multi-tenant building coordination for shared system failures affecting multiple practices`,
       `Practice type and scheduling urgency—occupational health facilities may require expedited restoration`,
     ],
-    cta: `Call (877) 497-0007 for emergency healthcare assessment. We provide practical, HIPAA-compliant estimates for Herndon medical offices in any building type.`,
+    cta: `Call (877) 497-0007 for emergency healthcare assessment. We provide practical, HIPAA-compliant estimates for Herndon medical workplaces in any building type.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,11 +132,11 @@ Our Herndon healthcare team adapts restoration approaches to each building conte
       `W&OD Trail Corridor`,
       `Herndon Metro Area`,
     ],
-    responseTime: `30-minute emergency response to all Herndon healthcare facilities. Our crews serve medical practices from downtown Herndon through the Dulles corridor professional parks.`,
+    responseTime: `prompt emergency response to all Herndon healthcare facilities. Our crews serve medical practices from downtown Herndon through the Dulles corridor professional parks.`,
   },
   faqs: [
     {
-      question: `Can you restore our downtown Herndon medical office with aging plumbing?`,
+      question: `Can you restore our downtown Herndon medical workplace with aging plumbing?`,
       answer: `Yes. We address the water damage while documenting the plumbing failure for landlord notification and insurance. Our assessment identifies whether building infrastructure deficiencies contributed to the event, helping you evaluate maintenance responsibility under your lease.`,
     },
     {
@@ -165,6 +165,6 @@ Our Herndon healthcare team adapts restoration approaches to each building conte
   ],
   finalCTA: {
     headline: `Herndon Medical Practice Emergency?`,
-    paragraph: `From downtown family practices to Dulles corridor clinics, your patients need you back in operation. Our HIPAA-compliant crews reach any Herndon medical facility within 30 minutes. Call (877) 497-0007 now.`,
+    paragraph: `From downtown family practices to Dulles corridor clinics, your patients need you back in operation. Our HIPAA-compliant crews reach any Herndon medical facility as quickly as access and conditions allow. Call (877) 497-0007 now.`,
   },
 }

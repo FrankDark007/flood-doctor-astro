@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       `Herndon homeowners facing persistent odors need practical solutions, not temporary cover-ups. The musty basement smell in your Fox Mill colonial likely traces to mold growing behind finished walls where decades of minor moisture accumulation created ideal conditions. The sewer gas that appears in your Downtown Herndon home after rainstorms points to aging infrastructure connections that allow municipal system gases into your living space. The lingering smoke odor in your Franklin Farm kitchen — weeks after a small grease fire — has embedded in wall cavities and HVAC ductwork that surface cleaning and open windows cannot reach.
 
 Flood Doctor has permanently eliminated stubborn odors from Herndon homes across every neighborhood — treating musty basement conditions in Worldgate townhomes where shared-wall moisture had fed hidden mold, removing sewage odors from Downtown properties where deteriorated lateral lines connected to aging municipal infrastructure, and resolving smoke contamination in McNair colonials where thermal fogging reached the embedded molecules that cleaning missed. We address the molecular source, not the symptom.`,
-      `Effective deodorization in Herndon requires both molecular chemistry and construction knowledge. Homes built in the 1970s-1990s use fiberglass batt insulation that absorbs and retains odor compounds. Vinyl-covered basement drywall traps mold volatiles against concrete walls. HVAC return ducts positioned in basement floors pull contaminated air upward through the entire house. Understanding how Herndon-era construction interacts with odor compounds is essential for permanent elimination.
+      `Effective deodorization in Herndon requires both molecular chemistry and construction knowledge. Homes built in the 1970s-1990s use fiberglass batt insulation that absorbs and retains odor compounds. Vinyl-covered basement drywall traps mold volatiles against concrete walls. HVAC return ducts available in basement floors pull contaminated air upward through the entire house. Understanding how Herndon-era construction interacts with odor compounds is essential for permanent elimination.
 
 Our technicians use hydroxyl generators that safely neutralize airborne odor molecules while your family stays home. Thermal fogging sends heated deodorizing agents deep into wall cavities and porous insulation. Ozone treatment provides maximum molecular destruction in vacated spaces. We trace every odor to its origin using borescopes, moisture meters, and thermal imaging — then eliminate both the molecules and the condition that created them.`,
     ],
@@ -130,7 +130,7 @@ Our technicians use hydroxyl generators that safely neutralize airborne odor mol
       'Spring Street',
       'Dulles Park',
     ],
-    responseTime: '30-minute response for odor emergencies. Non-emergency assessments scheduled within 24-48 hours throughout Herndon.',
+    responseTime: 'prompt response for odor emergencies. Non-emergency assessments scheduled within 24-48 hours throughout Herndon.',
   },
   faqs: [
     {

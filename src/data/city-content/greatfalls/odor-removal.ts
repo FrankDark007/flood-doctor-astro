@@ -125,7 +125,7 @@ Our technicians deploy hydroxyl generators for safe treatment in occupied estate
       'Springvale',
       'Difficult Run',
     ],
-    responseTime: '30-minute emergency response throughout Great Falls. Non-emergency assessments scheduled at your convenience with the discretion estate properties require.',
+    responseTime: 'prompt emergency response throughout Great Falls. Non-emergency assessments scheduled at your convenience with the discretion estate properties require.',
   },
   faqs: [
     {
@@ -159,6 +159,6 @@ Our technicians deploy hydroxyl generators for safe treatment in occupied estate
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Great Falls Estate?',
-    paragraph: 'From wine cellar mustiness to septic gas infiltration to equestrian facility migration, your estate deserves odor elimination with the material expertise and discretion Great Falls properties demand. Call (877) 497-0007.',
+    paragraph: 'From wine cellar mustiness to septic gas infiltration to equestrian facility migration, your estate deserves odor elimination with the material experience and discretion Great Falls properties demand. Call (877) 497-0007.',
   },
 }

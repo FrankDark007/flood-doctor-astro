@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Herndon, VA | Flood Doctor',
-    description: `Herndon's structural drying experts. Fast response to Downtown Herndon, Fox Mill, Franklin Farm & Worldgate. Scientific drying for 1970s-90s homes. Call (877) 497-0007.`,
+    description: `Herndon's structural drying specialists. Fast response to Downtown Herndon, Fox Mill, Franklin Farm & Worldgate. Scientific drying for 1970s-90s homes. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Herndon, Virginia',
   introSection: {
@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has dried homes throughout Herndon — extracting floodwater from Downtown Herndon basements where storm drain backups overwhelmed aging infrastructure, managing moisture in Fox Mill townhome developments where shared-wall water migration affected multiple units, and drying finished basements in McNair and Floris properties after sump pump failures during summer thunderstorms. We treat every Herndon home with the practical, thorough approach that this community values.`,
       `Structural drying is applied science — calculating the atmospheric conditions that cause building materials to release trapped moisture at controlled rates. In Herndon, the variety of construction eras within a small area means our technicians adapt their approach from property to property. A 1970s Fox Mill townhome with original materials needs different drying parameters than a 2000s McNair colonial. Older infrastructure in downtown creates storm drain backup scenarios that introduce contaminated water requiring Category 3 protocols alongside standard drying.
 
-Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed air movers, and injection drying systems that reach moisture trapped inside wall cavities without unnecessary demolition. Daily monitoring with moisture meters and thermal imaging provides the scientific documentation that insurance adjusters require. We communicate progress clearly and schedule monitoring visits around your family routine — because Herndon homeowners need practical restoration that respects their daily life.`,
+Our trained technicians deploy LGR dehumidifiers, strategically placed air movers, and injection drying systems that reach moisture trapped inside wall cavities without unnecessary demolition. Daily monitoring with moisture meters and thermal imaging provides the scientific documentation that insurance adjusters require. We communicate progress clearly and schedule monitoring visits around your family routine — because Herndon homeowners need practical restoration that respects their daily life.`,
     ],
     localContext: `Herndon's mix of downtown charm and suburban development creates drying challenges spanning multiple construction eras — from aging downtown infrastructure to 1970s-90s developments with specific material profiles that require era-appropriate drying methods.`,
   },
   processSteps: [
     {
       title: 'Fast Herndon Response',
-      description: `Call (877) 497-0007 and our crews arrive within 30 minutes. We reach Downtown Herndon, Fox Mill, Worldgate, Franklin Farm, McNair, and Floris from staging positions along the Herndon corridor — positioned for rapid deployment throughout the town.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews arrive as quickly as access and conditions allow. We reach Downtown Herndon, Fox Mill, Worldgate, Franklin Farm, McNair, and Floris through our Northern Virginia service network for service-area deployment throughout the town.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Era-Specific Damage Assessment',
@@ -31,7 +31,7 @@ Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed a
     },
     {
       title: 'Practical Drying Plan',
-      description: 'We develop a drying strategy matched to your home materials and layout. Equipment is positioned for maximum effectiveness while maintaining livable conditions for your household. The plan accounts for material-specific drying rates and provides realistic completion timelines.',
+      description: 'We develop a drying strategy matched to your home materials and layout. Equipment is available for maximum effectiveness while maintaining livable conditions for your household. The plan accounts for material-specific drying rates and provides realistic completion timelines.',
       timeframe: 'Hours 2-4',
     },
     {
@@ -54,7 +54,7 @@ Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed a
     {
       title: 'Storm Drain Backups in Older Infrastructure',
       description: 'Downtown Herndon and established neighborhoods rely on aging storm drainage that backs up during heavy rain events. Water entering basements through floor drains and foundation joints often carries Category 2 or 3 contaminants that require hazardous material protocols alongside structural drying.',
-      solution: 'We follow IICRC S500 protocols for contaminated water: affected porous materials are removed, structural surfaces are treated with antimicrobials, and drying proceeds with air scrubbing for occupant safety. Documentation identifies the municipal infrastructure cause for insurance and potential claims.',
+      solution: 'We follow industry-standard water damage protocols for contaminated water: affected porous materials are removed, structural surfaces are treated with antimicrobials, and drying proceeds with air scrubbing for occupant safety. Documentation identifies the municipal infrastructure cause for insurance and potential claims.',
     },
     {
       title: 'Townhome Development Water Migration',
@@ -108,7 +108,7 @@ Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed a
   },
   pricingSection: {
     headline: 'Structural Drying Costs in Herndon',
-    intro: 'Herndon drying costs depend on damage scope, water category, and property type. We provide free assessments and detailed estimates before work begins. Most water damage events are insurance-covered — we handle direct billing with your carrier.',
+    intro: 'Herndon drying costs depend on damage scope, water category, and property type. We provide free assessments and detailed estimates before work begins. Most water damage events are insurance-covered — we handle insurance documentation and coordination with your carrier.',
     factors: [
       'Affected area size — finished basements in Herndon colonials range from compact to extensive, directly impacting equipment and timeline',
       'Water contamination category — storm drain backups require additional protocols that increase treatment scope and cost',
@@ -133,16 +133,16 @@ Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed a
       'Van Buren',
       'Dulles Park',
     ],
-    responseTime: '30-minute response to all Herndon neighborhoods. Our crews are positioned along the Herndon corridor near the W&OD Trail for rapid dispatch to Downtown, Fox Mill, Franklin Farm, and surrounding communities.',
+    responseTime: 'prompt response to all Herndon neighborhoods. Our crews are available along the Herndon corridor near the W&OD Trail for rapid dispatch to Downtown, Fox Mill, Franklin Farm, and surrounding communities.',
   },
   faqs: [
     {
       question: 'How fast can you respond to a flooded basement in Herndon?',
-      answer: 'Within 30 minutes. Our crews are stationed along the Herndon corridor. Basement flooding — whether from sump pump failure, plumbing burst, or storm drain backup — worsens every minute. Call (877) 497-0007 immediately when you discover water.',
+      answer: 'As quickly as access and conditions allow. Our crews are serving the Herndon corridor. Basement flooding — whether from sump pump failure, plumbing burst, or storm drain backup — worsens every minute. Call (877) 497-0007 immediately when you discover water.',
     },
     {
       question: 'What if the flooding came from a storm drain backup?',
-      answer: 'Storm drain water is treated as contaminated under IICRC protocols. We remove affected porous materials, treat surfaces with antimicrobials, and dry with air scrubbing for safety. Documentation identifies the infrastructure cause, which may support claims against municipal systems.',
+      answer: 'Storm drain water is treated as contaminated under industry-standard cleanup protocols. We remove affected porous materials, treat surfaces with antimicrobials, and dry with air scrubbing for safety. Documentation identifies the infrastructure cause, which may support claims against municipal systems.',
     },
     {
       question: 'Can you dry my townhome without affecting my neighbor?',
@@ -158,7 +158,7 @@ Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed a
     },
     {
       question: 'Will insurance cover structural drying in Herndon?',
-      answer: 'Most homeowner policies cover water damage restoration. Storm drain backup and sump pump failure coverage may require specific riders — check your policy. We document everything for your claim and handle direct billing with all major carriers.',
+      answer: 'Most homeowner policies cover water damage restoration. Storm drain backup and sump pump failure coverage may require specific riders — check your policy. We document everything for your claim and handle insurance documentation and coordination.',
     },
   ],
   relatedBlogSlugs: [
@@ -167,6 +167,6 @@ Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed a
   ],
   finalCTA: {
     headline: 'Water Damage in Your Herndon Home?',
-    paragraph: 'Every hour of uncontrolled moisture leads to more damage and higher costs. Our Herndon crews arrive within 30 minutes with the equipment and expertise your home needs. Call (877) 497-0007 now — practical, thorough restoration for the Herndon community.',
+    paragraph: 'Every hour of uncontrolled moisture leads to more damage and higher costs. Our Herndon crews arrive as quickly as access and conditions allow with the equipment and experience your home needs. Call (877) 497-0007 now — practical, thorough restoration for the Herndon community.',
   },
 }

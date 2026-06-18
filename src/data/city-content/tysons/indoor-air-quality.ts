@@ -9,8 +9,8 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Commercial and Residential IAQ Assessment for Tysons Properties`,
     paragraphs: [
-      `Tysons IAQ requirements span from Class A office buildings where employee health complaints demand OSHA-referenced investigation to luxury residential towers where mold or chemical contamination affects unit owners paying premium prices for high-rise living. A Tysons Central office building where sick building syndrome symptoms affect an entire floor, a Boro residential tower where post-construction off-gassing from common-area finishes penetrates individual units, or a Scotts Run commercial space where water damage from a roof membrane failure has generated mold contamination throughout the HVAC system—each requires testing protocols matched to building type, occupancy, and regulatory context. Flood Doctor provides laboratory-grade IAQ assessment calibrated for Tysons commercial and high-rise residential buildings.`,
-      `Our IAQ specialists have documented Aspergillus contamination in Tysons Corner Center-area office building HVAC systems where cooling tower drift entered outdoor air intakes, identified elevated VOC concentrations in recently completed mixed-use developments near Tysons Metro where tenant build-out materials had not adequately off-gassed, and traced persistent allergy complaints in Capital One campus-area residential towers to inadequate air filtration failing to manage construction particulate from adjacent development. Commercial IAQ assessment in Tysons requires understanding of OSHA workplace exposure limits, ASHRAE ventilation standards, and building management coordination protocols that differ fundamentally from residential testing. Our reports address the documentation needs of property managers, tenant employers, building owners, and regulatory agencies.`,
+      `Tysons IAQ requirements span from Class A commercial buildings where employee health complaints demand OSHA-referenced investigation to luxury residential towers where mold or chemical contamination affects unit owners paying premium prices for high-rise living. A Tysons Central commercial building where sick building syndrome symptoms affect an entire floor, a Boro residential tower where post-construction off-gassing from common-area finishes penetrates individual units, or a Scotts Run commercial space where water damage from a roof membrane failure has generated mold contamination throughout the HVAC system—each requires testing protocols matched to building type, occupancy, and regulatory context. Flood Doctor provides laboratory-grade IAQ assessment calibrated for Tysons commercial and high-rise residential buildings.`,
+      `Our IAQ specialists have documented Aspergillus contamination in Tysons Corner Center-area commercial building HVAC systems where cooling tower drift entered outdoor air intakes, identified elevated VOC concentrations in recently completed mixed-use developments near Tysons Metro where tenant build-out materials had not adequately off-gassed, and traced persistent allergy complaints in Capital One campus-area residential towers to inadequate air filtration failing to manage construction particulate from adjacent development. Commercial IAQ assessment in Tysons requires understanding of OSHA workplace exposure limits, ASHRAE ventilation standards, and building management coordination protocols that differ fundamentally from residential testing. Our reports address the documentation needs of property managers, tenant employers, building owners, and regulatory agencies.`,
     ],
     localContext: `Tysons hosts Northern Virginia's largest concentration of Class A commercial space alongside luxury residential towers, requiring IAQ consultants proficient in both OSHA workplace standards and residential air quality assessment.`,
   },
@@ -49,13 +49,13 @@ export const content: CityServiceContent = {
   localChallenges: [
     {
       title: 'Sick Building Syndrome in Commercial Office Space',
-      description: `Tysons office buildings experiencing multiple employee complaints—headaches, fatigue, respiratory irritation, eye discomfort—face potential OSHA investigation, tenant lease disputes, and productivity losses. These non-specific symptoms typically stem from inadequate ventilation, chemical contaminant accumulation, or biological contamination within HVAC systems.`,
+      description: `Tysons commercial buildings experiencing multiple employee complaints—headaches, fatigue, respiratory irritation, eye discomfort—face potential OSHA investigation, tenant lease disputes, and productivity losses. These non-specific symptoms typically stem from inadequate ventilation, chemical contaminant accumulation, or biological contamination within HVAC systems.`,
       solution: `Our commercial IAQ protocol evaluates all three common SBS causes simultaneously. CO2 monitoring assesses ventilation adequacy. VOC measurement identifies chemical sources. Mold and bacterial sampling detects biological contamination. This comprehensive approach identifies the specific contributing factors rather than pursuing each possibility sequentially.`,
     },
     {
       title: 'New Construction and Tenant Build-Out Off-Gassing',
       description: `Tysons mixed-use developments and tenant improvement projects introduce massive volumes of new materials—paint, adhesives, carpet, composite millwork—into mechanically ventilated buildings. Without adequate flush-out periods per LEED or ASHRAE guidelines, occupants are exposed to concentrated VOC emissions during the first months of occupancy.`,
-      solution: `We measure total VOCs and specific compounds against OSHA, EPA, and ASHRAE guidelines. When levels exceed recommended thresholds, we calculate the ventilation enhancement and duration needed for adequate flush-out. For LEED-certified buildings, we verify whether ASHRAE 189.1 flush-out protocols were properly completed.`,
+      solution: `We measure total VOCs and specific compounds against OSHA, EPA, and ASHRAE guidelines. When levels exceed recommended thresholds, we calculate the ventilation enhancement and duration needed for adequate flush-out. For LEED-qualified buildings, we verify whether ASHRAE 189.1 flush-out protocols were properly completed.`,
     },
     {
       title: 'Cooling Tower Drift Contamination',
@@ -65,7 +65,7 @@ export const content: CityServiceContent = {
     {
       title: 'Residential Tower Post-Water Event Contamination',
       description: `Water events in Tysons luxury residential towers—whether from plumbing failures, roof leaks, or fire suppression discharge—can generate mold contamination in wall cavities, above suspended ceilings, and within HVAC components. Unit owners paying premium prices expect rapid, definitive IAQ assessment and clearance verification after remediation.`,
-      solution: `We provide comprehensive post-event IAQ assessment including air sampling in affected and adjacent units, HVAC system evaluation, and comparison against outdoor baseline conditions. Post-remediation clearance testing follows IICRC S520 protocols, ensuring contamination has been eliminated before containment release and finish restoration.`,
+      solution: `We provide comprehensive post-event IAQ assessment including air sampling in affected and adjacent units, HVAC system evaluation, and comparison against outdoor baseline conditions. Post-remediation clearance testing follows industry-standard S520 protocols, ensuring contamination has been eliminated before containment release and finish restoration.`,
     },
   ],
   equipmentSection: {
@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Indoor Air Quality Testing Costs in Tysons',
-    intro: `Tysons commercial and high-rise IAQ assessments involve scope proportional to building size, occupancy, and regulatory requirements. Multi-floor office investigations differ from individual residential unit testing. We develop detailed proposals in coordination with property management to deliver comprehensive assessment within project budgets.`,
+    intro: `Tysons commercial and high-rise IAQ assessments involve scope proportional to building size, occupancy, and regulatory requirements. Multi-floor workplace investigations differ from individual residential unit testing. We develop detailed proposals in coordination with property management to deliver comprehensive assessment within project budgets.`,
     factors: [
       'Building type and size—commercial floor plate assessments versus individual residential unit testing',
       'Number of floors, units, or zones requiring sampling for representative IAQ characterization',

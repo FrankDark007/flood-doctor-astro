@@ -30,7 +30,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How quickly can you respond to burst pipe emergencies in Tysons high-rise buildings?',
-      answer: 'We provide 24/7 emergency response with typical arrival within 60-90 minutes throughout Tysons. We coordinate with building management during transit to expedite access and begin water shutoff procedures. For large-scale pipe failures affecting multiple floors, we can deploy multiple teams simultaneously. Our rapid response minimizes the critical window when water is actively spreading through building structures.',
+      answer: 'We provide 24/7 emergency response with response as quickly as access and conditions allow throughout Tysons. We coordinate with building management during transit to expedite access and begin water shutoff procedures. For large-scale pipe failures affecting multiple floors, we can deploy multiple teams simultaneously. Our rapid response minimizes the critical window when water is actively spreading through building structures.',
     },
     {
       question: 'Will a burst pipe in my unit damage neighboring condos in my Tysons building?',
@@ -46,10 +46,10 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Can you work in my Tysons building if the HOA has specific vendor requirements?',
-      answer: 'Yes, we maintain pre-approved vendor status with major Tysons property management companies and regularly work within HOA requirements. We carry comprehensive insurance meeting high-rise building standards, provide all required certificates and documentation, and follow building-specific protocols. Emergency response typically allows immediate entry, with formal vendor approval processed during initial restoration phases.',
+      answer: 'Yes, we maintain pre-approved vendor status with Tysons-area property management requirements and regularly work within HOA requirements. We carry comprehensive insurance meeting high-rise building standards, provide all required certificates and documentation, and follow building-specific protocols. Emergency response typically allows immediate entry, with formal vendor approval processed during initial restoration phases.',
     },
     {
-      question: 'What if the burst pipe affects the commercial office where I work?',
+      question: 'What if the burst pipe affects the commercial workplace where I work?',
       answer: 'Commercial burst pipe restoration prioritizes business continuity alongside property restoration. We work extended hours and weekends to accelerate recovery, coordinate with building management to maintain partial operations when possible, and implement containment allowing unaffected areas to remain occupied. We provide detailed timelines that help businesses plan for restoration impact and document damages supporting business interruption insurance claims.',
     },
     {
@@ -65,9 +65,9 @@ export const content: CityServiceContent = {
   finalCTA: {
     headline: '',
     paragraph: [
-      `Burst pipe emergencies in Tysons' high-rise environment demand immediate professional response backed by specialized expertise and commercial-grade equipment. Our comprehensive burst pipe restoration services address the unique challenges of vertical water damage, multi-unit coordination, and complex building systems that characterize Tysons properties.`,
-      'From luxury condominiums in Tysons Corner to Class A office buildings in Tysons Central, from established towers to new mixed-use developments at The Boro, we provide professional burst pipe restoration that minimizes damage extent, accelerates recovery timelines, and coordinates effectively with building management and HOA requirements.',
-      `Burst pipes don't wait for convenient times—they fail during winter cold snaps, weekend pressure surges, and overnight when buildings are unoccupied. Our 24/7 emergency availability ensures immediate response whenever plumbing failures threaten your Tysons property. Contact us at (877) 497-0007 for emergency burst pipe restoration backed by high-rise expertise, industrial equipment, and a commitment to complete recovery.`,
+      `Burst pipe emergencies in Tysons' high-rise environment demand immediate professional response backed by specialized experience and commercial-grade equipment. Our comprehensive burst pipe restoration services address the unique challenges of vertical water damage, multi-unit coordination, and complex building systems that characterize Tysons properties.`,
+      'From luxury condominiums in Tysons Corner to Class A commercial buildings in Tysons Central, from established towers to new mixed-use developments at The Boro, we provide professional burst pipe restoration that minimizes damage extent, accelerates recovery timelines, and coordinates effectively with building management and HOA requirements.',
+      `Burst pipes don't wait for convenient times—they fail during winter cold snaps, weekend pressure surges, and overnight when buildings are unoccupied. Our 24/7 emergency availability ensures immediate response whenever plumbing failures threaten your Tysons property. Contact us at (877) 497-0007 for emergency burst pipe restoration backed by high-rise experience, industrial equipment, and a commitment to complete recovery.`,
     ],
   },
 }

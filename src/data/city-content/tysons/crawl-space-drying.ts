@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Tysons, VA | Flood Doctor',
-    description: `Tysons crawl space drying for residential and mixed-use properties. Serving Tysons Corner, The Boro & Scotts Run. Modern building expertise. Call (877) 497-0007.`,
+    description: `Tysons crawl space drying for residential and mixed-use properties. Serving Tysons Corner, The Boro & Scotts Run. Modern building experience. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Tysons, Virginia',
   introSection: {
     headline: 'Modern Crawl Space Solutions for Tysons Residential Properties',
     paragraphs: [
       `Tysons has transformed from a suburban crossroads into Northern Virginia's urban center, but residential properties in the surrounding neighborhoods still rely on crawl space foundations that require professional moisture management. Homes in Scotts Run, Tysons Woods, and along the perimeter of the Tysons Corner commercial core sit on traditional foundations where crawl space conditions directly affect indoor comfort and structural integrity. Townhome developments near The Boro and newer residential clusters around The Mile feature modern construction with crawl spaces that can still develop moisture issues from HVAC condensate failures, improper grading, and the construction shortcuts that sometimes accompany rapid development.`,
-      `Property managers overseeing residential communities near Tysons Corner Center and Tysons Galleria face crawl space challenges that differ from single-family homeowners. Multi-unit townhome complexes share foundation walls, meaning moisture in one crawl space migrates to adjacent units. Condominium associations managing ground-floor units with crawl space access must coordinate maintenance across ownership boundaries. The Capital One headquarters campus and surrounding development have altered drainage patterns for nearby residential properties, directing more stormwater toward foundations that were graded for lower volumes. Flood Doctor brings both residential expertise and commercial property management experience to Tysons crawl space projects, working within HOA frameworks and building management structures to deliver complete moisture solutions.`,
+      `Property managers overseeing residential communities near Tysons Corner Center and Tysons Galleria face crawl space challenges that differ from single-family homeowners. Multi-unit townhome complexes share foundation walls, meaning moisture in one crawl space migrates to adjacent units. Condominium associations managing ground-floor units with crawl space access must coordinate maintenance across ownership boundaries. The Capital One headquarters campus and surrounding development have altered drainage patterns for nearby residential properties, directing more stormwater toward foundations that were graded for lower volumes. Flood Doctor brings both residential experience and commercial property management experience to Tysons crawl space projects, working within HOA frameworks and building management structures to deliver complete moisture solutions.`,
     ],
     localContext: `Tysons' evolution from suburban to urban has reshaped drainage patterns around residential properties, while modern construction practices and multi-unit coordination create crawl space challenges unique to this rapidly developing area.`,
   },
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Spring Hill Estates',
       'Westgate',
     ],
-    responseTime: 'Same-day crawl space assessments for Tysons residential properties. Emergency flooding response within 30 minutes throughout the Tysons corridor from Scotts Run to Tysons Metro.',
+    responseTime: 'Same-day crawl space assessments for Tysons residential properties. Emergency flooding response as quickly as access and conditions allow throughout the Tysons corridor from Scotts Run to Tysons Metro.',
   },
   faqs: [
     {

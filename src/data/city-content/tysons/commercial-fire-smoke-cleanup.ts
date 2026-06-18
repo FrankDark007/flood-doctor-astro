@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Tysons, VA | Flood Doctor`,
-    description: `Tysons' trusted commercial fire and smoke restoration specialists. Emergency response for Class A towers, mixed-use developments, and retail centers near Tysons Corner Center and The Boro. Call (877) 497-0007.`,
+    description: `Tysons' local commercial fire and smoke restoration specialists. Emergency response for Class A towers, mixed-use developments, and retail centers near Tysons Corner Center and The Boro. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Tysons, Virginia`,
   introSection: {
     headline: `Enterprise-Scale Fire Restoration for Tysons Commercial Properties`,
     paragraphs: [
-      `Commercial fire damage in Tysons creates business disruption proportional to the area's building scale. A fire in one suite of a Tysons Central office tower pushes smoke through centralized HVAC to contaminate twenty floors of Class A tenant space. A retail fire near Tysons Corner Center triggers sprinkler activation that floods multiple levels of underground parking and ground-floor storefronts. An electrical fire in a The Boro mixed-use development's mechanical room affects commercial, retail, and residential occupancies simultaneously. Tysons commercial fires require restoration teams that operate at enterprise scale—multi-discipline crews deploying across multiple floors, coordinating with institutional property management, and managing insurance claims that can reach eight figures. Flood Doctor provides the large-loss commercial fire restoration capability that Tysons' building class demands.`,
-      `Smoke damage in Tysons' modern towers follows the buildings' interconnected systems. Centralized HVAC distributes smoke particulate to every floor connected to the affected air handler—often the entire building. Smoke migrates through elevator shafts, utility chases, and fire-rated assembly penetrations to contaminate floors above and below the fire origin. Soot particles settle on electronics in every affected office suite, creating corrosive damage that compounds hourly. The premium finishes in Tysons Class A spaces—stone lobbies, custom millwork, designer lighting—require restoration expertise beyond standard commercial cleaning. Our integrated approach deploys fire, smoke, water, content, and HVAC restoration teams under unified project management to minimize the business interruption that costs Tysons tenants thousands per day.`,
+      `Commercial fire damage in Tysons creates business disruption proportional to the area's building scale. A fire in one suite of a Tysons Central workplace tower pushes smoke through centralized HVAC to contaminate twenty floors of Class A tenant space. A retail fire near Tysons Corner Center triggers sprinkler activation that floods multiple levels of underground parking and ground-floor storefronts. An electrical fire in a The Boro mixed-use development's mechanical room affects commercial, retail, and residential occupancies simultaneously. Tysons commercial fires require restoration teams that operate at enterprise scale—multi-discipline crews deploying across multiple floors, coordinating with institutional property management, and managing insurance claims that can reach eight figures. Flood Doctor provides the large-loss commercial fire restoration capability that Tysons' building class demands.`,
+      `Smoke damage in Tysons' modern towers follows the buildings' interconnected systems. Centralized HVAC distributes smoke particulate to every floor connected to the affected air handler—often the entire building. Smoke migrates through elevator shafts, utility chases, and fire-rated assembly penetrations to contaminate floors above and below the fire origin. Soot particles settle on electronics in every affected workplace suite, creating corrosive damage that compounds hourly. The premium finishes in Tysons Class A spaces—stone lobbies, custom millwork, designer lighting—require restoration experience beyond standard commercial cleaning. Our integrated approach deploys fire, smoke, water, content, and HVAC restoration teams under unified project management to minimize the business interruption that costs Tysons tenants thousands per day.`,
     ],
-    localContext: `Tysons' enterprise-scale commercial environment—with Class A office towers, mixed-use high-rises, and institutional ownership—requires fire restoration capability matching the building class in both scale and quality standards.`,
+    localContext: `Tysons' enterprise-scale commercial environment—with Class A workplace towers, mixed-use high-rises, and institutional ownership—requires fire restoration capability matching the building class in both scale and quality standards.`,
   },
   processSteps: [
     {
@@ -49,7 +49,7 @@ export const content: CityServiceContent = {
   localChallenges: [
     {
       title: `Building-Wide Smoke Distribution via Centralized HVAC`,
-      description: `Tysons' Class A office towers rely on centralized HVAC systems that serve 500,000+ square feet. A fire on any floor pushes smoke through the air handling system to every connected space, creating building-wide contamination that far exceeds the physical fire footprint.`,
+      description: `Tysons' Class A workplace towers rely on centralized HVAC systems that serve 500,000+ square feet. A fire on any floor pushes smoke through the air handling system to every connected space, creating building-wide contamination that far exceeds the physical fire footprint.`,
       solution: `Our HVAC decontamination capability matches Tysons building scale. We clean entire centralized systems from rooftop air handlers through terminal units, then verify with air quality testing before returning systems to operation. This prevents the ongoing smoke circulation that would extend tenant displacement indefinitely.`,
     },
     {
@@ -64,7 +64,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Multi-Occupancy Fire Impact`,
-      description: `Mixed-use Tysons developments combine office, retail, restaurant, and residential occupancies. A fire event triggers different response requirements, notification obligations, and re-occupancy standards for each occupancy type.`,
+      description: `Mixed-use Tysons developments combine workspace, retail, restaurant, and residential occupancies. A fire event triggers different response requirements, notification obligations, and re-occupancy standards for each occupancy type.`,
       solution: `Our project management team coordinates across all occupancy types, providing tailored responses that meet commercial, retail, and residential requirements simultaneously. Building-wide systems are managed under unified project oversight while occupancy-specific needs are addressed individually.`,
     },
   ],

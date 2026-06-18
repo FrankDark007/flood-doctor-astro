@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Sewage backup in a Tysons high-rise or commercial building creates immediate biohazard conditions requiring specialized response. When a sanitary riser clogs in a luxury tower at The Boro, sewage can back up into multiple units simultaneously—contaminating finished spaces, creating health hazards, and requiring rapid professional cleanup. When a lift station fails at a commercial development, sewage flooding can affect parking structures, loading docks, and ground-floor tenant spaces.
 
-Flood Doctor provides Category 3 biohazard cleanup throughout Tysons' urban core with the expertise and capacity these complex buildings require. We've cleaned sewage backups affecting multiple high-rise units, decontaminated commercial restroom failures that threatened tenant operations, and restored parking facilities after lift station failures. Property managers call us because we respond immediately, understand biohazard protocols, and coordinate multi-stakeholder cleanup in complex buildings.`,
+Flood Doctor provides Category 3 biohazard cleanup throughout Tysons' urban core with the experience and capacity these complex buildings require. We've cleaned sewage backups affecting multiple high-rise units, decontaminated commercial restroom failures that threatened tenant operations, and restored parking facilities after lift station failures. Property managers call us because we respond immediately, understand biohazard protocols, and coordinate multi-stakeholder cleanup in complex buildings.`,
       `Tysons' vertical construction and commercial plumbing systems create sewage backup risks different from suburban residential properties. High-rise sanitary risers serve multiple floors, and blockages can affect entire building sections. Commercial buildings with restaurants and food service generate grease loading that overwhelms sanitary systems. Lift stations serving below-grade spaces become critical failure points—when they fail, sewage floods the lowest building levels.
 
-Our IICRC-certified technicians are trained in Category 3 biohazard response with full personal protective equipment and proper disposal protocols. We coordinate with property management to isolate affected areas, protect building occupants, and maintain documentation for health department and insurance requirements. When sewage threatens your Tysons property, you need immediate response from professionals who understand both the biohazard and the building complexity.`,
+Our trained technicians are trained in Category 3 biohazard response with full personal protective equipment and proper disposal protocols. We coordinate with property management to isolate affected areas, protect building occupants, and maintain documentation for health department and insurance requirements. When sewage threatens your Tysons property, you need immediate response from professionals who understand both the biohazard and the building complexity.`,
     ],
     localContext: `Tysons' high-rises and commercial buildings feature complex sanitary systems with lift stations, sanitary risers, and commercial-grade plumbing that create unique sewage backup risks. We've built emergency response relationships with property managers throughout Tysons Corner, The Boro, Tysons Central, The Mile, and Scotts Run.`,
   },
   processSteps: [
     {
       title: 'Emergency Response & Isolation',
-      description: 'Sewage backups require immediate response—contamination spreads quickly and health hazards increase hourly. When you call (877) 497-0007, we dispatch immediately while guiding you on isolation procedures. We reach Tysons properties within 30 minutes with full biohazard response equipment.',
-      timeframe: 'Within 30 minutes',
+      description: 'Sewage backups require immediate response—contamination spreads quickly and health hazards increase hourly. When you call (877) 497-0007, we dispatch immediately while guiding you on isolation procedures. We reach Tysons properties as quickly as access and conditions allow with full biohazard response equipment.',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Hazard Assessment & Containment',
@@ -148,12 +148,12 @@ Our IICRC-certified technicians are trained in Category 3 biohazard response wit
       'Greensboro Station area',
       'McLean Metro area',
     ],
-    responseTime: '30-minute emergency response to all Tysons properties. Our biohazard crews are equipped and ready for immediate deployment to high-rise residential, commercial, and mixed-use buildings.',
+    responseTime: 'prompt emergency response to all Tysons properties. Our biohazard crews are equipped and ready for immediate deployment to high-rise residential, commercial, and mixed-use buildings.',
   },
   faqs: [
     {
       question: 'How quickly can you respond to a sewage backup in Tysons?',
-      answer: 'We guarantee 30-minute response to Tysons properties. Sewage contamination spreads quickly and health hazards increase hourly—rapid response is essential. Our crews are stationed in the Tysons corridor with biohazard equipment ready for immediate deployment to any building type.',
+      answer: 'We provide prompt response to Tysons properties. Sewage contamination spreads quickly and health hazards increase hourly—rapid response is essential. Our crews are serving the Tysons corridor with biohazard equipment ready for immediate deployment to any building type.',
     },
     {
       question: 'Is sewage cleanup dangerous?',
@@ -173,7 +173,7 @@ Our IICRC-certified technicians are trained in Category 3 biohazard response wit
     },
     {
       question: 'How do you handle disposal of contaminated materials?',
-      answer: 'Biohazard waste follows regulatory disposal protocols. Contaminated materials are contained in approved biohazard containers and transported by licensed haulers to appropriate facilities. We provide disposal manifests for property management and insurance documentation.',
+      answer: 'Biohazard waste follows regulatory disposal protocols. Contaminated materials are contained in approved biohazard containers and transported by approved waste haulers to appropriate facilities. We provide disposal manifests for property management and insurance documentation.',
     },
     {
       question: 'Will there be lingering odors after cleanup?',
@@ -183,6 +183,6 @@ Our IICRC-certified technicians are trained in Category 3 biohazard response wit
   relatedBlogSlugs: ['first-24-hours-after-water-damage', 'water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: 'Sewage Emergency in Your Tysons Building?',
-    paragraph: 'Sewage contamination creates immediate health hazards that worsen hourly. Our biohazard crews respond in 30 minutes with full protective equipment and decontamination capacity. One call handles the entire cleanup—from extraction to clearance documentation.',
+    paragraph: 'Sewage contamination creates immediate health hazards that worsen hourly. Our biohazard crews respond as quickly as access and conditions allow with full protective equipment and decontamination capacity. One call handles the entire cleanup—from extraction to clearance documentation.',
   },
 }

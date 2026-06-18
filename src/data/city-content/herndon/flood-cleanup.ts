@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Herndon, VA | Flood Doctor',
-    description: 'Herndon flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
+    description: 'Herndon flood cleanup specialists. prompt emergency response for storm flooding, flash floods & water damage. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Herndon, Virginia',
   introSection: {
@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: 'Multi-Unit Triage & HOA Notification',
       description: `When one townhome calls, we probe adjacent units immediately. Moisture checks on every shared wall determine single-unit vs. block-wide scope. If shared infrastructure contributed, we contact the HOA emergency line before extraction begins — starting the clock on shared-infrastructure claims and ensuring the association's insurance carrier is notified alongside individual policies.`,
-      timeframe: 'First 30 minutes',
+      timeframe: 'Initial on-site actions',
     },
     {
       title: 'Party Wall Moisture Mapping',
@@ -42,7 +42,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Unit-by-Unit Clearance with HOA Reporting',
-      description: 'Each unit receives independent drying verification and clearance certificates meeting IICRC S500 standards. A consolidated HOA report covers shared infrastructure condition, documents the failure cause, and recommends drainage improvements. This dual-reporting satisfies both individual insurance adjusters and HOA management companies.',
+      description: 'Each unit receives independent drying verification and clearance certificates meeting industry-standard S500 standards. A consolidated HOA report covers shared infrastructure condition, documents the failure cause, and recommends drainage improvements. This dual-reporting satisfies both individual insurance adjusters and HOA management companies.',
       timeframe: 'Day 7-10',
     },
   ],
@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
       'Woodland Park',
       'Herndon Parkway Corridor',
     ],
-    responseTime: '30-minute emergency response during active storms. We pre-position crews throughout Herndon when severe weather approaches, with additional truck capacity staged for townhome-dense corridors along Worldgate Drive, Franklin Farm Road, and Herndon Parkway where multi-unit events are most likely.',
+    responseTime: 'prompt emergency response during active storms. We prepare crews throughout Herndon when severe weather approaches, with additional truck capacity staged for townhome-dense corridors along Worldgate Drive, Franklin Farm Road, and Herndon Parkway where multi-unit events are most likely.',
   },
   faqs: [
     {

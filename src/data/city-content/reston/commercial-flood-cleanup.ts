@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Reston, VA | Flood Doctor',
-    description: `Reston commercial flood cleanup for Town Center offices, lakeside commercial properties & neighborhood business centers. Industrial response. Call (877) 497-0007.`,
+    description: `Reston commercial flood cleanup for Town Center workplaces, lakeside commercial properties & neighborhood business centers. Industrial response. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Reston, Virginia',
   introSection: {
@@ -21,8 +21,8 @@ Our commercial flood teams understand Reston's specific hydrological profile. We
   processSteps: [
     {
       title: 'Reston-Wide Flood Dispatch',
-      description: `Call (877) 497-0007 for immediate commercial flood response. Our crews are positioned throughout Reston for rapid deployment—whether the flooding is in a Town Center tower, a lakeside commercial property, or a neighborhood business center.`,
-      timeframe: 'Within 60 minutes',
+      description: `Call (877) 497-0007 for immediate commercial flood response. Our crews are available throughout Reston for rapid deployment—whether the flooding is in a Town Center tower, a lakeside commercial property, or a neighborhood business center.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Source-Specific Contamination Assessment',
@@ -90,7 +90,7 @@ Our commercial flood teams understand Reston's specific hydrological profile. We
       },
       {
         name: 'Commercial Drying Systems',
-        purpose: 'Industrial dehumidifiers and air movers for commercial floor plans ranging from neighborhood retail to Town Center offices',
+        purpose: 'Industrial dehumidifiers and air movers for commercial floor plans ranging from neighborhood retail to Town Center workplaces',
         brand: 'Dri-Eaz',
       },
       {
@@ -132,7 +132,7 @@ Our commercial flood teams understand Reston's specific hydrological profile. We
       'Lake Fairfax Area',
       'Dulles Toll Road Business Corridor',
     ],
-    responseTime: '60-minute commercial flood response to all Reston business areas. Crews pre-positioned throughout the planned community for rapid deployment to Town Center, neighborhood centers, and lakeside commercial properties.',
+    responseTime: 'prompt commercial flood response to all Reston business areas. Crews available throughout the planned community for rapid deployment to Town Center, neighborhood centers, and lakeside commercial properties.',
   },
   faqs: [
     {
@@ -153,11 +153,11 @@ Our commercial flood teams understand Reston's specific hydrological profile. We
     },
     {
       question: 'What if the flood mixed storm water with lake water?',
-      answer: 'Mixed-source floodwater is tested and classified per IICRC standards. Lake-mixed storm water typically requires elevated safety protocols including biohazard PPE, antimicrobial treatment, and environmental clearance testing before reoccupancy.',
+      answer: 'Mixed-source floodwater is tested and classified per industry-standard restoration practices. Lake-mixed storm water typically requires elevated safety protocols including biohazard PPE, antimicrobial treatment, and environmental clearance testing before reoccupancy.',
     },
     {
       question: 'Do you handle commercial flood insurance claims?',
-      answer: 'We work with all major commercial carriers and provide complete documentation—Xactimate estimates, contamination classification reports, moisture logs, and progress documentation. We handle direct billing and support adjuster meetings throughout your claim.',
+      answer: 'We work with all major commercial carriers and provide complete documentation—Xactimate estimates, contamination classification reports, moisture logs, and progress documentation. We handle insurance coordination and support adjuster meetings throughout your claim.',
     },
   ],
   relatedBlogSlugs: [

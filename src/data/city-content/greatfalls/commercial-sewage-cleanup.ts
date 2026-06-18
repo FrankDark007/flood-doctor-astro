@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Great Falls, VA | Flood Doctor`,
-    description: `Great Falls commercial sewage cleanup experts. OSHA-compliant biohazard remediation for estate properties and equestrian facilities near Georgetown Pike and Great Falls Village Centre. Call (877) 497-0007.`,
+    description: `Great Falls commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for estate properties and equestrian facilities near Georgetown Pike and Great Falls Village Centre. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Great Falls, Virginia`,
   introSection: {
     headline: `Protecting Great Falls Ultra-Premium Commercial Properties from Sewage Contamination`,
     paragraphs: [
       `Sewage contamination at a Great Falls commercial property demands the highest caliber of biohazard response. Whether a private septic system has failed at a Forestville equestrian facility, a sewer lateral has backed up into a Great Falls Village Centre retail space, or a grease trap overflow has shut down a Georgetown Pike restaurant, the consequences extend far beyond cleanup costs. Health department citations, employee exposure liability, and reputational damage to Great Falls premium addresses require a restoration partner that understands both biohazard protocols and the ultra-high expectations of this market. Flood Doctor delivers OSHA-compliant commercial sewage remediation with the discretion and professionalism that Great Falls property managers and business owners demand.`,
-      `Great Falls commercial properties face sewage challenges tied to the area's distinctive infrastructure. Many facilities along Georgetown Pike and near Great Falls Village Centre rely on private septic systems rather than municipal sewer connections, and saturated drain fields during heavy rain events cause Category 3 biohazardous waste to flood commercial interiors without warning. Properties in Hickory Farms and Seneca Estates commercial areas experience well and septic system failures that contaminate both indoor spaces and surrounding grounds. Our IICRC-certified technicians have remediated sewage contamination in Great Falls office buildings, equestrian facilities, restaurants, and retail centers—each project completed under strict OSHA bloodborne pathogen standards with full regulatory documentation.`,
+      `Great Falls commercial properties face sewage challenges tied to the area's distinctive infrastructure. Many facilities along Georgetown Pike and near Great Falls Village Centre rely on private septic systems rather than municipal sewer connections, and saturated drain fields during heavy rain events cause Category 3 biohazardous waste to flood commercial interiors without warning. Properties in Hickory Farms and Seneca Estates commercial areas experience well and septic system failures that contaminate both indoor spaces and surrounding grounds. Our trained technicians have remediated sewage contamination in Great Falls commercial buildings, equestrian facilities, restaurants, and retail centers—each project completed under strict OSHA bloodborne pathogen standards with full regulatory documentation.`,
     ],
-    localContext: `Great Falls reliance on private septic systems, combined with ultra-premium commercial addresses and equestrian properties, creates sewage contamination risks that require specialized biohazard expertise paired with discreet, asset-protective service.`,
+    localContext: `Great Falls reliance on private septic systems, combined with ultra-premium commercial addresses and equestrian properties, creates sewage contamination risks that require specialized biohazard experience paired with discreet, asset-protective service.`,
   },
   processSteps: [
     {
       title: `Emergency Response and Containment`,
       description: `When you contact our Great Falls commercial line at (877) 497-0007, we dispatch a hazmat-equipped crew immediately. Our teams reach Great Falls Village, Forestville, and Georgetown Pike commercial properties within our rapid response window, establishing restricted access zones and containment barriers before contamination spreads to unaffected areas.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Biohazard Assessment and Safety Protocols`,
-      description: `Our safety officer evaluates contamination scope using ATP surface testing and visual assessment. We classify the sewage category, identify affected zones, and implement OSHA-compliant PPE requirements. For Great Falls properties with equestrian facilities or outdoor commercial spaces, we assess both interior contamination and grounds contamination that may affect animals and outdoor operations.`,
+      description: `Our safety lead evaluates contamination scope using ATP surface testing and visual assessment. We classify the sewage category, identify affected zones, and implement OSHA-compliant PPE requirements. For Great Falls properties with equestrian facilities or outdoor commercial spaces, we assess both interior contamination and grounds contamination that may affect animals and outdoor operations.`,
       timeframe: `Hours 1-2`,
     },
     {
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Demolition and Decontamination`,
-      description: `All porous materials contacted by sewage are removed under containment protocols. Contaminated drywall, carpet, insulation, and ceiling tiles are double-bagged in biohazard containers for licensed disposal. Structural surfaces receive hospital-grade antimicrobial treatment and are verified clean via ATP swab testing.`,
+      description: `All porous materials contacted by sewage are removed under containment protocols. Contaminated drywall, carpet, insulation, and ceiling tiles are double-bagged in biohazard containers for approved disposal. Structural surfaces receive hospital-grade antimicrobial treatment and are verified clean via ATP swab testing.`,
       timeframe: `Hours 6-24`,
     },
     {
@@ -49,7 +49,7 @@ export const content: CityServiceContent = {
   localChallenges: [
     {
       title: `Private Septic System Failures Across Great Falls`,
-      description: `Unlike most Fairfax County communities, Great Falls commercial properties predominantly rely on private septic systems. Heavy rain events saturate drain fields on the large lots characteristic of this area, causing sewage to back up through floor drains and plumbing fixtures into commercial interiors—including equestrian facilities, estate offices, and retail spaces.`,
+      description: `Unlike most Fairfax County communities, Great Falls commercial properties predominantly rely on private septic systems. Heavy rain events saturate drain fields on the large lots characteristic of this area, causing sewage to back up through floor drains and plumbing fixtures into commercial interiors—including equestrian facilities, estate workplaces, and retail spaces.`,
       solution: `We treat all septic-related backups as Category 3 biohazard events requiring full OSHA protocols. Our remediation includes decontamination of all affected surfaces and documentation for health department compliance. We coordinate with septic specialists familiar with Great Falls soil conditions and large-lot drain field requirements.`,
     },
     {
@@ -65,7 +65,7 @@ export const content: CityServiceContent = {
     {
       title: `Health Department Compliance for Food Service`,
       description: `Great Falls restaurants and food service establishments near Great Falls Village Centre and along Georgetown Pike must satisfy Fairfax County Health Department requirements before reopening after a sewage event. The remote location means inspector scheduling requires proactive coordination.`,
-      solution: `We coordinate directly with Fairfax County Health Department inspectors, perform pre-inspection verification testing, and provide the clearance documentation required for food service re-permitting. Our experience with Great Falls commercial sewage events ensures efficient compliance despite the area's distance from county offices.`,
+      solution: `We coordinate directly with Fairfax County Health Department inspectors, perform pre-inspection verification testing, and provide the clearance documentation required for food service re-permitting. Our experience with Great Falls commercial sewage events ensures efficient compliance despite the area's distance from county workplaces.`,
     },
   ],
   equipmentSection: {
@@ -97,10 +97,10 @@ export const content: CityServiceContent = {
       },
       {
         name: `Biohazard Waste Containment Units`,
-        purpose: `Secure contaminated materials for manifested transport to licensed biomedical waste disposal facilities`,
+        purpose: `Secure contaminated materials for manifested transport to approved biomedical waste disposal facilities`,
       },
     ],
-    localNote: `Our Great Falls-dedicated commercial crews carry equipment scaled for premium office spaces, restaurant facilities, and equestrian properties—including extended hose runs necessary for large-lot Great Falls properties where vehicle access to affected areas may be limited.`,
+    localNote: `Our Great Falls-dedicated commercial crews carry equipment scaled for premium workplace spaces, restaurant facilities, and equestrian properties—including extended hose runs necessary for large-lot Great Falls properties where vehicle access to affected areas may be limited.`,
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Great Falls`,
@@ -129,12 +129,12 @@ export const content: CityServiceContent = {
       `Forestville Farms`,
       `Beach Mill Road Area`,
     ],
-    responseTime: `60-minute emergency response to all Great Falls commercial properties. Our hazmat-equipped crews are positioned throughout Fairfax County for immediate dispatch to Georgetown Pike, Great Falls Village Centre, and all Great Falls business and equestrian properties.`,
+    responseTime: `prompt emergency response to all Great Falls commercial properties. Our hazmat-equipped crews are available throughout Fairfax County for immediate dispatch to Georgetown Pike, Great Falls Village Centre, and all Great Falls business and equestrian properties.`,
   },
   faqs: [
     {
       question: `How quickly can you respond to a commercial sewage emergency in Great Falls?`,
-      answer: `We maintain 24/7 commercial dispatch and typically reach Great Falls commercial properties within 60 minutes. Our hazmat-equipped crews are pre-positioned throughout Fairfax County. Call (877) 497-0007 immediately—sewage contamination worsens rapidly and early response reduces both health risk and remediation cost.`,
+      answer: `We maintain 24/7 commercial dispatch and typically reach Great Falls commercial properties as quickly as access and conditions allow. Our hazmat-equipped crews are made ready throughout Fairfax County. Call (877) 497-0007 immediately—sewage contamination worsens rapidly and early response reduces both health risk and remediation cost.`,
     },
     {
       question: `Do Great Falls commercial properties need health department clearance after sewage cleanup?`,
@@ -150,7 +150,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Does commercial insurance cover sewage cleanup in Great Falls?`,
-      answer: `Most commercial property policies cover sewage backup damage, though coverage limits vary. We handle direct billing with all major commercial carriers and provide the detailed documentation adjusters require. For properties with multiple use types, we allocate costs by affected area to simplify insurance processing.`,
+      answer: `Most commercial property policies cover sewage backup damage, though coverage limits vary. We handle insurance coordination with all major commercial carriers and provide the detailed documentation adjusters require. For properties with multiple use types, we allocate costs by affected area to simplify insurance processing.`,
     },
     {
       question: `What OSHA requirements apply to commercial sewage cleanup?`,

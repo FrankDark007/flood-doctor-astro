@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Herndon, VA | Flood Doctor`,
-    description: `Herndon's trusted commercial fire and smoke restoration team. Emergency response for data center corridor facilities, downtown businesses, and Worldgate commercial properties. Call (877) 497-0007.`,
+    description: `Herndon's local commercial fire and smoke restoration team. Emergency response for data center corridor facilities, downtown businesses, and Worldgate commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Herndon, Virginia`,
   introSection: {
@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       `Commercial fire damage in Herndon impacts businesses ranging from downtown Elden Street shops to Dulles corridor technology operations. An electrical fire at a Franklin Farm data center support facility threatens equipment worth millions while smoke infiltrates the building's precision-controlled air environment. A kitchen fire at a downtown Herndon restaurant sends smoke through shared walls to contaminate neighboring businesses near the Town Green. A mechanical room fire at Worldgate Centre triggers sprinklers that flood commercial suites on multiple floors while smoke enters the shared HVAC system. Each Herndon commercial fire scenario demands restoration calibrated to the specific property type and operational requirements. Flood Doctor provides integrated fire restoration spanning downtown community businesses and mission-critical Dulles corridor facilities.`,
       `Smoke damage in Herndon's commercial environment follows the corridor's infrastructure patterns. Downtown Herndon's shared-wall construction channels smoke between businesses through common wall cavities and ceiling spaces. Worldgate and Fox Mill commercial buildings distribute smoke through shared HVAC systems to tenant suites far from the fire origin. Technology facilities in Franklin Farm and McNair face specialized risks where smoke particulate damages sensitive electronics, contaminates clean environments, and creates corrosion that worsens by the hour. Sprinkler activation adds water damage that compounds the original fire loss in any building type. Our multi-discipline approach deploys fire cleanup, smoke decontamination, water extraction, equipment restoration, and HVAC cleaning as one coordinated project.`,
     ],
-    localContext: `Herndon's commercial fire restoration needs span from downtown community businesses to Dulles corridor technology facilities—each requiring different expertise, equipment, and documentation approaches.`,
+    localContext: `Herndon's commercial fire restoration needs span from downtown community businesses to Dulles corridor technology facilities—each requiring different experience, equipment, and documentation approaches.`,
   },
   processSteps: [
     {
@@ -81,7 +81,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HVAC Duct Cleaning Systems`,
-        purpose: `Decontaminate shared commercial HVAC systems in Worldgate, Fox Mill, and Franklin Farm office buildings`,
+        purpose: `Decontaminate shared commercial HVAC systems in Worldgate, Fox Mill, and Franklin Farm commercial buildings`,
       },
       {
         name: `Thermal Fog Generators`,
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
         brand: `Phoenix`,
       },
     ],
-    localNote: `Our Herndon equipment fleet bridges the corridor's commercial spectrum—precision tools for technology facility electronics alongside industrial systems for Worldgate office buildings and gentle-action equipment for downtown Herndon's character spaces.`,
+    localNote: `Our Herndon equipment fleet bridges the corridor's commercial spectrum—precision tools for technology facility electronics alongside industrial systems for Worldgate commercial buildings and gentle-action equipment for downtown Herndon's character spaces.`,
   },
   pricingSection: {
     headline: `Commercial Fire Restoration Costs in Herndon`,
@@ -141,7 +141,7 @@ export const content: CityServiceContent = {
       answer: `Yes. We clean adjacent businesses first, decontaminate shared HVAC components, and verify air quality. Once adjacent spaces pass testing, those businesses can resume operations while reconstruction continues in the fire-damaged property.`,
     },
     {
-      question: `What about smoke in the HVAC system at our Worldgate office?`,
+      question: `What about smoke in the HVAC system at our Worldgate workplace?`,
       answer: `Shared HVAC distributes smoke to every connected suite. We clean the entire air system—handlers, ductwork, coils, and terminal units—and verify with air quality testing before returning the system to operation. Without HVAC cleaning, smoke contamination recirculates indefinitely.`,
     },
     {
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Herndon?`,
-    paragraph: `From downtown shops to Dulles corridor technology facilities, our integrated fire restoration teams deploy equipment and expertise matched to your facility type. Call (877) 497-0007 for immediate emergency response and facility-appropriate restoration.`,
+    paragraph: `From downtown shops to Dulles corridor technology facilities, our integrated fire restoration teams deploy equipment and experience matched to your facility type. Call (877) 497-0007 for immediate emergency response and facility-appropriate restoration.`,
   },
 }

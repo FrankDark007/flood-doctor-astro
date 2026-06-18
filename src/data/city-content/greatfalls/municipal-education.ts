@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Great Falls, VA | Flood Doctor`,
-    description: `Great Falls' trusted restoration for schools and community facilities. Specialized crews serving Great Falls Village, Forestville, and Seneca Estates area institutions. Call (877) 497-0007.`,
+    description: `Great Falls' local restoration for schools and community facilities. Specialized crews serving Great Falls Village, Forestville, and Seneca Estates area institutions. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Great Falls, Virginia`,
   introSection: {
@@ -26,7 +26,7 @@ The community's engagement extends beyond attendance at board meetings. Great Fa
     },
     {
       title: `Hazardous Materials Assessment`,
-      description: `Before any demolition in Great Falls' older school buildings, our certified inspectors assess for asbestos, lead paint, and other regulated materials. Newer additions receive construction assessment to identify any defect-related water intrusion sources requiring documentation.`,
+      description: `Before any demolition in Great Falls' older school buildings, our qualified inspectors assess for asbestos, lead paint, and other regulated materials. Newer additions receive construction assessment to identify any defect-related water intrusion sources requiring documentation.`,
       timeframe: `Hours 2-6`,
     },
     {
@@ -58,7 +58,7 @@ The community's engagement extends beyond attendance at board meetings. Great Fa
     },
     {
       title: `Community Expectations Exceeding Standard Approaches`,
-      description: `Great Falls parents and community members expect facility restoration that meets the aesthetic and quality standards of their private homes—premium finishes, meticulous attention to detail, and completion quality indistinguishable from pre-loss conditions. Standard institutional restoration approaches may not satisfy this community.`,
+      description: `Great Falls parents and community members expect facility restoration that meets the aesthetic and quality standards of their private homes—premium finishes, meticulous attention to detail, and completion quality indistinguishable from stable, usable conditions. Standard institutional restoration approaches may not satisfy this community.`,
       solution: `We apply premium restoration standards to Great Falls public facilities, matching existing finishes precisely rather than accepting standard institutional replacements. Our completion quality reflects the community expectations, and documentation photographs demonstrate the restoration standard achieved.`,
     },
     {
@@ -171,6 +171,6 @@ The community's engagement extends beyond attendance at board meetings. Great Fa
   ],
   finalCTA: {
     headline: `School or Community Facility Emergency in Great Falls?`,
-    paragraph: `Student safety and community programs depend on rapid, premium-quality restoration. Our crews respond to Great Falls schools and community facilities within 1 hour, equipped with the expertise and equipment these facilities require. Call (877) 497-0007 immediately.`,
+    paragraph: `Student safety and community programs depend on rapid, premium-quality restoration. Our crews respond to Great Falls schools and community facilities within 1 hour, equipped with the experience and equipment these facilities require. Call (877) 497-0007 immediately.`,
   },
 }

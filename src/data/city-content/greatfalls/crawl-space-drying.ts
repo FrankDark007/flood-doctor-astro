@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Great Falls, VA | Flood Doctor',
-    description: `Great Falls estate crawl space specialists. Serving Great Falls Village, Forestville & Seneca Estates. Ultra-luxury property expertise. Equestrian facilities. Call (877) 497-0007.`,
+    description: `Great Falls estate crawl space specialists. Serving Great Falls Village, Forestville & Seneca Estates. Ultra-luxury property experience. Equestrian facilities. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Great Falls, Virginia',
   introSection: {
@@ -37,7 +37,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Multi-Zone Dehumidification',
-      description: 'Large estates require multiple dehumidification units strategically positioned throughout the crawl space. Each unit is ducted for optimal air circulation across its zone. For properties with wine cellars or climate-controlled spaces above, dehumidifier placement considers the integration with those precision systems.',
+      description: 'Large estates require multiple dehumidification units strategically available throughout the crawl space. Each unit is ducted for optimal air circulation across its zone. For properties with wine cellars or climate-controlled spaces above, dehumidifier placement considers the integration with those precision systems.',
       timeframe: 'Days 5-6',
     },
     {
@@ -134,7 +134,7 @@ export const content: CityServiceContent = {
       'Arnon Heights',
       'River Creek',
     ],
-    responseTime: 'Same-day estate assessments by appointment. Emergency crawl space flooding response within 45 minutes to all Great Falls properties from the Village Centre to Riverbend.',
+    responseTime: 'Same-day estate assessments by appointment. Emergency crawl space flooding response as quickly as access and conditions allow to all Great Falls properties from the Village Centre to Riverbend.',
   },
   faqs: [
     {

@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Herndon, VA | Flood Doctor',
-    description: `Herndon roof leak water damage specialists. Serving Downtown Herndon, Fox Mill & Franklin Farm. Townhome and single-family expertise. Fast response. Call (877) 497-0007.`,
+    description: `Herndon roof leak water damage specialists. Serving Downtown Herndon, Fox Mill & Franklin Farm. Townhome and single-family experience. Fast response. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Herndon, Virginia',
   introSection: {
     headline: 'Dependable Roof Leak Restoration for Herndon Properties',
     paragraphs: [
       `Herndon's 1970s-90s housing stock has reached the age where roofing systems need attention—original and second-generation asphalt shingles on Fox Mill colonials, aging flashing around Franklin Farm chimneys, and deteriorating pipe boots and vent caps across neighborhoods throughout the Dulles corridor. When a slow chimney flashing leak in your Downtown Herndon colonial saturates the attic insulation for weeks before you notice the ceiling stain, when storm winds tear shingles from your McNair townhome exposing the underlayment to driving rain, or when ice dams form along the eaves of your Floris home forcing meltwater into the wall cavity, the interior damage demands immediate professional intervention.`,
-      `Townhome developments in the Worldgate and Franklin Farm areas add shared-roof complexity to Herndon roof leak situations. Continuous roof systems span multiple units, and a failure at the ridge or valley between your section and your neighbor's sends water into both homes. The W&OD Trail corridor that runs through Herndon brings mature tree canopy that drops limbs during storms and clogs gutters with debris, creating the drainage backups that force water beneath shingles and into roof structures. Flood Doctor provides the straightforward, efficient roof leak response Herndon homeowners and property investors need—emergency tarping, thorough interior assessment, and complete restoration at pricing that respects the practical sensibility of this community near Herndon Town Green.`,
+      `Townhome developments in the Worldgate and Franklin Farm areas add shared-roof complexity to Herndon roof leak situations. Continuous roof systems span multiple units, and a failure at the ridge or valley between your section and your neighbor's sends water into both homes. The W&OD Trail corridor that runs through Herndon brings mature tree canopy that drops limbs during storms and clogs gutters with debris, creating the drainage backups that force water beneath shingles and into roof structures. Flood Doctor provides the straightforward, efficient roof leak response Herndon homeowners and property investors need—emergency tarping, thorough interior assessment, and thorough restoration at pricing that respects the practical sensibility of this community near Herndon Town Green.`,
     ],
     localContext: `Herndon's 1970s-90s homes have reached the age of roof system failures, while townhome developments add shared-roof coordination and the W&OD Trail corridor brings mature tree canopy challenges that accelerate roof deterioration.`,
   },
   processSteps: [
     {
       title: 'Fast Herndon Response',
-      description: `Call (877) 497-0007 and our crews reach your Herndon property within 30 minutes. We assess the interior damage first, then trace the leak through the attic to its roof-level source. For townhome developments near Worldgate, we identify whether the leak originates in your roof section or a shared area.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews reach your Herndon property as quickly as access and conditions allow. We assess the interior damage first, then trace the leak through the attic to its roof-level source. For townhome developments near Worldgate, we identify whether the leak originates in your roof section or a shared area.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Emergency Tarping',
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Bradley Farm',
       'Coppermine Crossing',
     ],
-    responseTime: '30-minute emergency response throughout Herndon. Our Dulles corridor crews reach Downtown Herndon through Franklin Farm with complete roof leak response equipment.',
+    responseTime: 'prompt emergency response throughout Herndon. Our Dulles corridor crews reach Downtown Herndon through Franklin Farm with complete roof leak response equipment.',
   },
   faqs: [
     {

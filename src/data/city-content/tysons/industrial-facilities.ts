@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Tysons, VA | Flood Doctor`,
-    description: `Tysons' commercial and industrial restoration specialists. Serving corporate offices, data centers, and commercial operations near Capital One HQ and Tysons Corner. Call (877) 497-0007.`,
+    description: `Tysons' commercial and industrial restoration specialists. Serving corporate workplaces, data centers, and commercial operations near Capital One HQ and Tysons Corner. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Tysons, Virginia`,
   introSection: {
     headline: `Corporate and Commercial Facility Restoration in Tysons' Business District`,
     paragraphs: [
-      `Tysons concentrates more Class A commercial office space than any other location in Northern Virginia. Capital One's global headquarters, Booz Allen Hamilton, SAIC, and hundreds of technology and defense firms operate from high-rise office towers and modern campus buildings throughout Tysons Corner, Tysons Central, and The Mile. These facilities house mission-critical computing infrastructure, proprietary research data, and corporate operations that generate millions in daily revenue. When water damage strikes a Tysons corporate facility, the business impact—measured in server downtime, lost productivity, and data exposure—often exceeds the physical damage by orders of magnitude.
+      `Tysons concentrates more Class A commercial workplace space than any other location in Northern Virginia. Capital One's global headquarters, Booz Allen Hamilton, SAIC, and hundreds of technology and defense firms operate from high-rise workplace towers and modern campus buildings throughout Tysons Corner, Tysons Central, and The Mile. These facilities house mission-critical computing infrastructure, proprietary research data, and corporate operations that generate millions in daily revenue. When water damage strikes a Tysons corporate facility, the business impact—measured in server downtime, lost productivity, and data exposure—often exceeds the physical damage by orders of magnitude.
 
-Flood Doctor provides the industrial-grade restoration capability these Tysons corporate operations demand. Our HAZWOPER-certified crews handle the hazardous material concerns that arise in laboratory and technical facilities. Our technology recovery teams deploy anti-corrosion treatment to protect computing equipment within hours. We coordinate with corporate facilities management, building engineers, and security teams to navigate the complex access and coordination requirements of major commercial buildings. When your Tysons operation faces water damage, we deliver corporate-scale restoration with the urgency your business requires.`,
-      `The modern construction of Tysons' commercial buildings creates water damage pathways that differ fundamentally from traditional office environments. Centralized cooling systems distribute condensate through buildings via extensive pipe networks that can fail silently, damaging ceiling plenums and tenant spaces. Curtain wall assemblies develop leaks at joints and transitions, allowing wind-driven rain to penetrate into premium office interiors. Underground parking structures serving multi-tenant buildings flood during severe storms, threatening shared electrical and mechanical infrastructure that serves the entire complex.
+Flood Doctor provides the industrial-grade restoration capability these Tysons corporate operations demand. Our HAZWOPER-trained crews handle the hazardous material concerns that arise in laboratory and technical facilities. Our technology recovery teams deploy anti-corrosion treatment to protect computing equipment within hours. We coordinate with corporate facilities management, building engineers, and security teams to navigate the complex access and coordination requirements of major commercial buildings. When your Tysons operation faces water damage, we deliver corporate-scale restoration with the urgency your business requires.`,
+      `The modern construction of Tysons' commercial buildings creates water damage pathways that differ fundamentally from traditional workplace environments. Centralized cooling systems distribute condensate through buildings via extensive pipe networks that can fail silently, damaging ceiling plenums and tenant spaces. Curtain wall assemblies develop leaks at joints and transitions, allowing wind-driven rain to penetrate into premium workplace interiors. Underground parking structures serving multi-tenant buildings flood during severe storms, threatening shared electrical and mechanical infrastructure that serves the entire complex.
 
 Our Tysons commercial team understands these modern-building vulnerabilities. We trace moisture through curtain wall assemblies, diagnose HVAC condensate failures, and dewater underground structures while maintaining building habitability above. For corporate facilities at Scotts Run and near Tysons Galleria, we also document potential construction defects that may support builder warranty claims—a significant cost recovery opportunity in buildings less than ten years old.`,
     ],
-    localContext: `Tysons' concentration of Class A corporate facilities in modern high-rise buildings—housing mission-critical operations and high-value computing infrastructure—requires restoration that combines industrial capability with commercial building expertise and corporate-scale project management.`,
+    localContext: `Tysons' concentration of Class A corporate facilities in modern high-rise buildings—housing mission-critical operations and high-value computing infrastructure—requires restoration that combines industrial capability with commercial building experience and corporate-scale project management.`,
   },
   processSteps: [
     {
       title: `Corporate Facility Emergency Response`,
-      description: `Call (877) 497-0007 for immediate commercial deployment. We coordinate with building management and corporate facilities teams during transit, arriving with anti-corrosion treatment materials and computing equipment protection systems within 30 minutes.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate commercial deployment. We coordinate with building management and corporate facilities teams during transit, arriving with anti-corrosion treatment materials and computing equipment protection systems as quickly as access and conditions allow.`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Mission-Critical Systems Prioritization`,
@@ -58,7 +58,7 @@ Our Tysons commercial team understands these modern-building vulnerabilities. We
     },
     {
       title: `Curtain Wall Water Intrusion`,
-      description: `Modern curtain wall assemblies in Tysons office towers can develop leaks at joints, transitions, and sealant failures. Wind-driven rain penetrates into premium office interiors, and the damage pattern often repeats during subsequent storms until the envelope deficiency is corrected.`,
+      description: `Modern curtain wall assemblies in Tysons workplace towers can develop leaks at joints, transitions, and sealant failures. Wind-driven rain penetrates into premium workplace interiors, and the damage pattern often repeats during subsequent storms until the envelope deficiency is corrected.`,
       solution: `We trace curtain wall intrusion pathways using thermal imaging and moisture mapping. Documentation identifies the specific assembly failure for building management and supports warranty claims when applicable. Restoration addresses interior damage while recommending envelope repairs to prevent recurrence.`,
     },
     {
@@ -102,7 +102,7 @@ Our Tysons commercial team understands these modern-building vulnerabilities. We
         purpose: `Industrial capacity extraction and drying systems sized for freight elevator deployment in Tysons high-rises`,
       },
     ],
-    localNote: `Our Tysons commercial response includes data center recovery equipment, submersible pumps for underground garage dewatering, and the elevator-compatible industrial equipment needed for deployment in the Class A office towers concentrated around Tysons Corner Center, Capital One HQ, and The Boro.`,
+    localNote: `Our Tysons commercial response includes data center recovery equipment, submersible pumps for underground garage dewatering, and the elevator-compatible industrial equipment needed for deployment in the Class A workplace towers concentrated around Tysons Corner Center, Capital One HQ, and The Boro.`,
   },
   pricingSection: {
     headline: `Commercial and Industrial Restoration Costs in Tysons`,
@@ -114,7 +114,7 @@ Our Tysons commercial team understands these modern-building vulnerabilities. We
       `Construction warranty recovery—potential builder defect claims in newer buildings may offset restoration costs`,
       `Multi-tenant coordination—shared building system repairs and cost allocation between ownership and tenants`,
     ],
-    cta: `Call (877) 497-0007 for emergency corporate or commercial facility assessment. We deploy to Tysons office towers within 30 minutes with data center recovery and industrial extraction capability.`,
+    cta: `Call (877) 497-0007 for emergency corporate or commercial facility assessment. We deploy to Tysons workplace towers as quickly as access and conditions allow with data center recovery and industrial extraction capability.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,7 +132,7 @@ Our Tysons commercial team understands these modern-building vulnerabilities. We
       `Spring Hill Metro Area`,
       `Greensboro Metro Area`,
     ],
-    responseTime: `30-minute emergency response to all Tysons commercial and corporate facilities. Building management coordination begins during dispatch for immediate freight elevator access and server room entry authorization.`,
+    responseTime: `prompt emergency response to all Tysons commercial and corporate facilities. Building management coordination begins during dispatch for immediate freight elevator access and server room entry authorization.`,
   },
   faqs: [
     {
@@ -140,7 +140,7 @@ Our Tysons commercial team understands these modern-building vulnerabilities. We
       answer: `Anti-corrosion treatment deploys within hours to all affected computing equipment. Precision environmental controls maintain server room temperature and humidity within manufacturer specifications. We coordinate with your IT team and hardware vendors for equipment-specific recovery protocols.`,
     },
     {
-      question: `Can you restore our Tysons office while operations continue on other floors?`,
+      question: `Can you restore our Tysons workplace while operations continue on other floors?`,
       answer: `Yes. We use containment barriers between restoration zones and active areas, schedule disruptive work during off-peak hours, and coordinate equipment movement through service corridors. Unaffected floors maintain normal operations throughout the restoration process.`,
     },
     {
@@ -165,6 +165,6 @@ Our Tysons commercial team understands these modern-building vulnerabilities. We
   ],
   finalCTA: {
     headline: `Corporate Facility Emergency in Tysons?`,
-    paragraph: `Server rooms, computing equipment, and corporate operations face permanent damage with every passing hour. Our data center recovery and commercial restoration teams reach any Tysons facility within 30 minutes. Call (877) 497-0007 immediately.`,
+    paragraph: `Server rooms, computing equipment, and corporate operations face permanent damage with every passing hour. Our data center recovery and commercial restoration teams reach any Tysons facility as quickly as access and conditions allow. Call (877) 497-0007 immediately.`,
   },
 }

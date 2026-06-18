@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Herndon, VA | Flood Doctor`,
-    description: `Herndon's trusted commercial mold remediation specialists. CIH-coordinated protocols for data center facilities, downtown offices, and Worldgate commercial properties. Call (877) 497-0007.`,
+    description: `Herndon's local commercial mold remediation specialists. CIH-coordinated protocols for data center facilities, downtown workplaces, and Worldgate commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Herndon, Virginia`,
   introSection: {
     headline: `Mold Remediation for Herndon's Technology Corridor and Downtown Commercial Properties`,
     paragraphs: [
-      `Mold in a Herndon commercial property affects businesses across the spectrum—from downtown Elden Street shops where musty odors drive away customers, to Worldgate office suites where employee health complaints trigger OSHA investigations, to Franklin Farm technology offices where mold contamination threatens sensitive equipment and clean-room standards. Herndon's dual-identity commercial market requires mold remediation that scales from community-focused small business sensitivity to the documentation rigor that technology and data center corridor facilities demand. Flood Doctor provides CIH-coordinated commercial mold remediation that adapts protocols, equipment, and communication to each Herndon facility type.`,
-      `Herndon's commercial mold conditions reflect the corridor's mixed building ages and environments. Downtown Herndon commercial buildings near the Town Green feature 1970s-era construction with aging HVAC systems that breed condensation-driven mold in ductwork and above ceiling tiles. Worldgate Centre's commercial spaces experience moisture intrusion through aging building envelopes that support hidden mold colonies behind walls. Fox Mill and Floris office parks sit in wooded settings where ambient humidity and poor drainage create persistent moisture at foundation level. Franklin Farm and McNair technology buildings occasionally harbor mold from HVAC condensation problems that go undetected in continuously cooled server-adjacent environments. Our remediation teams clear mold from Herndon's full commercial spectrum under CIH protocols with independent verification.`,
+      `Mold in a Herndon commercial property affects businesses across the spectrum—from downtown Elden Street shops where musty odors drive away customers, to Worldgate workplace suites where employee health complaints trigger OSHA investigations, to Franklin Farm technology workplaces where mold contamination threatens sensitive equipment and clean-room standards. Herndon's dual-identity commercial market requires mold remediation that scales from community-focused small business sensitivity to the documentation rigor that technology and data center corridor facilities demand. Flood Doctor provides CIH-coordinated commercial mold remediation that adapts protocols, equipment, and communication to each Herndon facility type.`,
+      `Herndon's commercial mold conditions reflect the corridor's mixed building ages and environments. Downtown Herndon commercial buildings near the Town Green feature 1970s-era construction with aging HVAC systems that breed condensation-driven mold in ductwork and above ceiling tiles. Worldgate Centre's commercial spaces experience moisture intrusion through aging building envelopes that support hidden mold colonies behind walls. Fox Mill and Floris business parks sit in wooded settings where ambient humidity and poor drainage create persistent moisture at foundation level. Franklin Farm and McNair technology buildings occasionally harbor mold from HVAC condensation problems that go undetected in continuously cooled server-adjacent environments. Our remediation teams clear mold from Herndon's full commercial spectrum under CIH protocols with independent verification.`,
     ],
     localContext: `Herndon's commercial corridor—bridging downtown charm and Dulles technology infrastructure—creates mold challenges ranging from aging downtown buildings to modern technology facilities, each requiring adapted remediation approaches.`,
   },
   processSteps: [
     {
       title: `CIH Assessment for Herndon Facility Types`,
-      description: `We coordinate a certified industrial hygienist to assess your Herndon commercial property. Assessment is adapted to facility type—standard commercial protocols for downtown and Worldgate spaces, enhanced evaluation for technology facilities where mold may affect equipment environments and air quality standards.`,
+      description: `We coordinate a qualified industrial hygienist to assess your Herndon commercial property. Assessment is adapted to facility type—standard commercial protocols for downtown and Worldgate spaces, enhanced evaluation for technology facilities where mold may affect equipment environments and air quality standards.`,
       timeframe: `Days 1-3`,
     },
     {
       title: `Containment Engineering`,
-      description: `Our crews construct containment barriers appropriate to your building—shared-wall containment for downtown Herndon, multi-suite isolation for Worldgate office spaces, and enhanced containment for technology facilities where air quality standards exceed standard commercial requirements.`,
+      description: `Our crews construct containment barriers appropriate to your building—shared-wall containment for downtown Herndon, multi-suite isolation for Worldgate workplace spaces, and enhanced containment for technology facilities where air quality standards exceed standard commercial requirements.`,
       timeframe: `Day 3-4`,
     },
     {
@@ -49,7 +49,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Technology Facility Air Quality Standards`,
-      description: `Data center support offices and technology facilities in the Franklin Farm and McNair corridor maintain air quality standards exceeding normal commercial requirements. Mold contamination in these environments affects both occupant health and operational compliance.`,
+      description: `Data center support workplaces and technology facilities in the Franklin Farm and McNair corridor maintain air quality standards exceeding normal commercial requirements. Mold contamination in these environments affects both occupant health and operational compliance.`,
       solution: `We coordinate enhanced CIH protocols for technology facilities, with clearance criteria matching facility-specific air quality requirements. Our documentation supports both standard OSHA compliance and any enhanced operational standards the facility maintains.`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `Negative Air Machines`,
-        purpose: `Maintain containment integrity in shared-wall downtown buildings and multi-tenant Herndon office parks`,
+        purpose: `Maintain containment integrity in shared-wall downtown buildings and multi-tenant Herndon business parks`,
       },
       {
         name: `Moisture Mapping Instruments`,
@@ -95,15 +95,15 @@ export const content: CityServiceContent = {
         purpose: `Collect samples for CIH analysis meeting both standard commercial and enhanced technology facility air quality requirements`,
       },
     ],
-    localNote: `Our Herndon equipment fleet bridges the corridor's commercial spectrum—sensitive enough for downtown Elden Street retail, robust enough for Worldgate office complexes, and precision-grade for Franklin Farm technology facility environments.`,
+    localNote: `Our Herndon equipment fleet bridges the corridor's commercial spectrum—sensitive enough for downtown Elden Street retail, robust enough for Worldgate workplace complexes, and precision-grade for Franklin Farm technology facility environments.`,
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Herndon`,
     intro: `Herndon commercial mold remediation costs depend on facility type, contamination scope, and any enhanced air quality requirements. We provide transparent estimates following CIH assessment and coordinate with commercial insurance when mold results from a covered water event.`,
     factors: [
-      `Facility type—downtown retail, Worldgate office space, and technology corridor facilities each have different remediation requirements`,
+      `Facility type—downtown retail, Worldgate workplace space, and technology corridor facilities each have different remediation requirements`,
       `Air quality standards—technology facilities with enhanced requirements need additional testing and documentation`,
-      `HVAC involvement—shared system contamination in Herndon office parks adds specialized cleaning scope`,
+      `HVAC involvement—shared system contamination in Herndon business parks adds specialized cleaning scope`,
       `Building age—downtown properties require different approaches than modern Franklin Farm technology buildings`,
       `Humidity management—wooded-area properties may need supplemental dehumidification installation`,
     ],
@@ -138,7 +138,7 @@ export const content: CityServiceContent = {
       answer: `Downtown buildings feature older HVAC systems with condensation problems, aging building envelopes allowing moisture intrusion, and infrastructure from decades past that lacks modern moisture management. These age-related vulnerabilities create persistent conditions supporting mold growth.`,
     },
     {
-      question: `Can our Herndon office park tenants remain during remediation?`,
+      question: `Can our Herndon business park tenants remain during remediation?`,
       answer: `Spaces under active remediation must be vacated. Our containment engineering allows unaffected suites to remain operational. HVAC zone isolation prevents spore migration to occupied areas. We schedule disruptive work outside business hours when possible.`,
     },
     {

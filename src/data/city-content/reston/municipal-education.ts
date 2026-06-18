@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Reston, VA | Flood Doctor`,
-    description: `Reston's trusted restoration for FCPS schools, community centers, and public facilities. Experienced with Reston Association and FCPS requirements. Call (877) 497-0007.`,
+    description: `Reston's local restoration for FCPS schools, community centers, and public facilities. Experienced with Reston Association and FCPS requirements. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Reston, Virginia`,
   introSection: {
@@ -22,7 +22,7 @@ Our teams factor these environmental conditions into every public facility resto
     {
       title: `Emergency Public Facility Response`,
       description: `Call (877) 497-0007 for immediate school or community facility response. We coordinate with FCPS facilities management for schools or Reston Community Center management for civic facilities, activating emergency procurement procedures appropriate for each organization.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Environmental and Hazard Assessment`,
@@ -133,7 +133,7 @@ Our teams factor these environmental conditions into every public facility resto
       `Dogwood Pool Area`,
       `Colts Neck`,
     ],
-    responseTime: `45-minute emergency response to all Reston schools and community facilities. Our crews carry enhanced environmental equipment for the humidity and mold risk conditions specific to this planned community.`,
+    responseTime: `prompt emergency response to all Reston schools and community facilities. Our crews carry enhanced environmental equipment for the humidity and mold risk conditions specific to this planned community.`,
   },
   faqs: [
     {
@@ -166,6 +166,6 @@ Our teams factor these environmental conditions into every public facility resto
   ],
   finalCTA: {
     headline: `Reston School or Community Facility Emergency?`,
-    paragraph: `Students and community members need safe, operational facilities. Our crews respond within 45 minutes with the enhanced environmental equipment Reston's nature-integrated buildings require. Call (877) 497-0007 immediately.`,
+    paragraph: `Students and community members need safe, operational facilities. Our crews respond as quickly as access and conditions allow with the enhanced environmental equipment Reston's nature-integrated buildings require. Call (877) 497-0007 immediately.`,
   },
 }

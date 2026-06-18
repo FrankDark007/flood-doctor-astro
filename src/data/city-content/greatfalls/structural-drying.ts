@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Great Falls, VA | Flood Doctor',
-    description: `Great Falls estate structural drying specialists. Protecting wine cellars, equestrian facilities & custom homes on Georgetown Pike. 30-min response. Call (877) 497-0007.`,
+    description: `Great Falls estate structural drying specialists. Protecting wine cellars, equestrian facilities & custom homes on Georgetown Pike. prompt response. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Great Falls, Virginia',
   introSection: {
@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has protected Great Falls estates throughout the community — drying custom millwork and imported stone in Georgetown Pike properties without surface damage, managing wine cellar humidity restoration where temperature and moisture precision preserved collections worth hundreds of thousands, and responding to equestrian facility flooding at properties where barn construction required agricultural-scale extraction alongside residential-grade drying of adjacent living spaces.`,
       `Structural drying in Great Falls demands equipment capacity and material knowledge that standard residential restoration cannot provide. Estate construction features engineered hardwood over radiant heat systems, imported limestone and marble, custom plaster finishes, and multi-zone HVAC systems that create distinct atmospheric conditions across different wings. A wine cellar requires different drying parameters than the adjacent recreation room. A pool house with exterior-grade materials dries differently than the main residence connected by a climate-controlled corridor.
 
-Our IICRC-certified technicians develop zone-specific drying plans for each area of your Great Falls estate. Desiccant dehumidifiers protect temperature-sensitive wine storage. LGR units handle high-volume extraction in recreation spaces. Injection drying preserves custom wall finishes. Psychrometric monitoring tracks conditions across every zone independently — ensuring each material reaches its dry standard without damage to adjacent premium finishes. Complete documentation supports both insurance claims and the asset protection priorities Great Falls homeowners require.`,
+Our trained technicians develop zone-specific drying plans for each area of your Great Falls estate. Desiccant dehumidifiers protect temperature-sensitive wine storage. LGR units handle high-volume extraction in recreation spaces. Injection drying preserves custom wall finishes. Psychrometric monitoring tracks conditions across every zone independently — ensuring each material reaches its dry standard without damage to adjacent premium finishes. Complete documentation supports both insurance claims and the asset protection priorities Great Falls homeowners require.`,
     ],
-    localContext: `Great Falls' ultra-luxury estates — with custom construction, premium materials, wine cellars, and equestrian facilities — require structural drying expertise that addresses both the scale and the asset protection demands of the community.`,
+    localContext: `Great Falls' ultra-luxury estates — with custom construction, premium materials, wine cellars, and equestrian facilities — require structural drying experience that addresses both the scale and the asset protection demands of the community.`,
   },
   processSteps: [
     {
       title: 'Immediate Estate Response',
-      description: `Call (877) 497-0007 and our crews reach Great Falls Village, Forestville, Hickory Farms, Seneca Estates, and Riverbend within 30 minutes. Emergency extraction begins immediately to protect premium flooring, custom finishes, and temperature-sensitive spaces.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews reach Great Falls Village, Forestville, Hickory Farms, Seneca Estates, and Riverbend as quickly as access and conditions allow. Emergency extraction begins immediately to protect premium flooring, custom finishes, and temperature-sensitive spaces.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Comprehensive Estate Assessment',
@@ -36,7 +36,7 @@ Our IICRC-certified technicians develop zone-specific drying plans for each area
     },
     {
       title: 'Premium Equipment Deployment',
-      description: 'Desiccant units maintain wine cellar temperature stability. High-capacity LGR dehumidifiers address estate-scale square footage. Injection drying preserves custom wall finishes without removal. Air movers are positioned to protect premium surfaces while maintaining effective evaporation across every zone.',
+      description: 'Desiccant units maintain wine cellar temperature stability. High-capacity LGR dehumidifiers address estate-scale square footage. Injection drying preserves custom wall finishes without removal. Air movers are available to protect premium surfaces while maintaining effective evaporation across every zone.',
       timeframe: 'Day 1',
     },
     {
@@ -54,7 +54,7 @@ Our IICRC-certified technicians develop zone-specific drying plans for each area
     {
       title: 'Wine Cellar Humidity Restoration',
       description: 'Great Falls estate wine cellars maintain precise temperature and humidity conditions for collections often valued at six figures or more. Water intrusion disrupts these conditions and threatens both the structure and the collection. Standard drying destroys the controlled environment that protects the wine.',
-      solution: 'Desiccant dehumidifiers restore cellar conditions without temperature spikes that damage wine. Moisture extraction proceeds gradually to prevent label damage and cork compromise. We coordinate with wine storage specialists when collections require temporary relocation. Cellar conditions are restored to pre-loss specifications documented by your climate control system.',
+      solution: 'Desiccant dehumidifiers restore cellar conditions without temperature spikes that damage wine. Moisture extraction proceeds gradually to prevent label damage and cork compromise. We coordinate with wine storage specialists when collections require temporary relocation. Cellar conditions are restored to documented specifications documented by your climate control system.',
     },
     {
       title: 'Estate-Scale Lower Level Flooding',
@@ -64,7 +64,7 @@ Our IICRC-certified technicians develop zone-specific drying plans for each area
     {
       title: 'Private Well & Septic Complications',
       description: 'Great Falls properties rely on private well and septic systems rather than municipal water and sewer. Well pump failures can cause supply line pressure surges. Septic system backups introduce contaminated water requiring hazardous protocols alongside standard structural drying.',
-      solution: 'Well system pressure surges are addressed at the mechanical source while drying proceeds. Septic contamination follows IICRC Category 3 protocols — removal of affected porous materials, antimicrobial treatment, HEPA air scrubbing, and certified drying. System assessment identifies the infrastructure cause for repair.',
+      solution: 'Well system pressure surges are addressed at the mechanical source while drying proceeds. Septic contamination follows industry-standard Category 3 protocols — removal of affected porous materials, antimicrobial treatment, HEPA air scrubbing, and qualified drying. System assessment identifies the infrastructure cause for repair.',
     },
     {
       title: 'Pool House & Equestrian Facility Drying',
@@ -132,7 +132,7 @@ Our IICRC-certified technicians develop zone-specific drying plans for each area
       'Springvale',
       'Difficult Run',
     ],
-    responseTime: '30-minute emergency response throughout Great Falls. Our crews navigate Georgetown Pike, Beach Mill Road, and Springvale Road with the familiarity that estate-scale emergencies require.',
+    responseTime: 'prompt emergency response throughout Great Falls. Our crews navigate Georgetown Pike, Beach Mill Road, and Springvale Road with the familiarity that estate-scale emergencies require.',
   },
   faqs: [
     {
@@ -157,7 +157,7 @@ Our IICRC-certified technicians develop zone-specific drying plans for each area
     },
     {
       question: 'Does insurance cover estate-scale restoration?',
-      answer: 'Yes. Homeowner insurance covers water damage restoration regardless of property value. Higher-value properties often carry expanded coverage. We document every zone and material for comprehensive claims and handle direct billing with all carriers.',
+      answer: 'Yes. Homeowner insurance covers water damage restoration regardless of property value. Higher-value properties often carry expanded coverage. We document every zone and material for comprehensive claims and handle insurance documentation and coordination.',
     },
   ],
   relatedBlogSlugs: [
@@ -166,6 +166,6 @@ Our IICRC-certified technicians develop zone-specific drying plans for each area
   ],
   finalCTA: {
     headline: 'Water Damage Threatening Your Great Falls Estate?',
-    paragraph: 'From wine cellar flooding to estate-scale lower level intrusion to equestrian facility damage, your property deserves restoration that matches its construction quality. Our Great Falls team responds within 30 minutes with estate-appropriate expertise. Call (877) 497-0007.',
+    paragraph: 'From wine cellar flooding to estate-scale lower level intrusion to equestrian facility damage, your property deserves restoration that matches its construction quality. Our Great Falls team responds as quickly as access and conditions allow with estate-appropriate experience. Call (877) 497-0007.',
   },
 }

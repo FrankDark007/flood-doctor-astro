@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Herndon, VA | Flood Doctor`,
-    description: `Herndon's multi-unit restoration experts. Serving apartments, townhomes, and hotels in Downtown Herndon, Franklin Farm, and Worldgate. Call (877) 497-0007.`,
+    description: `Herndon's multi-unit restoration specialists. Serving apartments, townhomes, and hotels in Downtown Herndon, Franklin Farm, and Worldgate. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Herndon, Virginia`,
   introSection: {
@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has restored multifamily properties throughout Herndon, from the older townhome developments along the W&OD Trail to the newer apartment communities near the Herndon Metro station. Our multi-unit coordination manages simultaneous restoration across affected units with individual tracking for each, allowing phased re-occupancy as spaces clear. We work with Herndon property managers and HOAs who need straightforward communication, reasonable timelines, and documentation that makes insurance resolution efficient.`,
       `Herndon's multifamily housing stock spans construction eras that present different restoration challenges. 1970s-1990s townhomes in Fox Mill and along Elden Street feature the aging plumbing, original-era roofing, and sump pump systems that create predictable water damage patterns in this generation of housing. Newer apartment communities near the Metro feature modern materials requiring specific drying protocols. Hotels near Dulles Airport experience high turnover that amplifies the revenue impact of room displacement and demands the fastest possible restoration turnaround.
 
-Our Herndon team applies construction-era-specific expertise to each property type. We know that 1980s townhome shared walls allow water migration that requires assessment of the full connected row. We understand that rental property turnaround expectations in the Dulles corridor leave no room for extended restoration timelines. We coordinate with the property management companies that oversee Herndon's investor-owned rental inventory to deliver the practical results that keep properties occupied and generating revenue.`,
+Our Herndon team applies construction-era-specific experience to each property type. We know that 1980s townhome shared walls allow water migration that requires assessment of the full connected row. We understand that rental property turnaround expectations in the Dulles corridor leave no room for extended restoration timelines. We coordinate with the property management companies that oversee Herndon's investor-owned rental inventory to deliver the practical results that keep properties occupied and generating revenue.`,
     ],
-    localContext: `Herndon's mix of 1970s-1990s townhomes, newer apartment communities, and Dulles corridor hotels requires multi-unit restoration that combines construction-era expertise with the practical efficiency the corridor's working community and property investors demand.`,
+    localContext: `Herndon's mix of 1970s-1990s townhomes, newer apartment communities, and Dulles corridor hotels requires multi-unit restoration that combines construction-era experience with the practical efficiency the corridor's working community and property investors demand.`,
   },
   processSteps: [
     {
       title: `Multi-Unit Emergency Response`,
       description: `Call (877) 497-0007 for immediate deployment. We assess beyond the initial unit—checking adjacent townhomes in Franklin Farm, neighboring apartments in Floris, and building systems at Worldgate area hotels for hidden water migration.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Scope and Occupant Communication`,
@@ -63,7 +63,7 @@ Our Herndon team applies construction-era-specific expertise to each property ty
     },
     {
       title: `Rental Property Quick Turnaround Expectations`,
-      description: `Herndon's investor-owned rental properties near the Metro need vacant units restored rapidly for re-leasing. Extended vacancies during restoration cost property investors rental income and may trigger lease guarantee issues with management companies.`,
+      description: `Herndon's investor-owned rental properties near the Metro need vacant units restored rapidly for re-leasing. Extended vacancies during restoration cost property investors rental income and may trigger lease service commitment issues with management companies.`,
       solution: `We deploy efficiently to minimize total project duration. Property managers receive firm completion estimates within 24 hours. Documentation supports loss-of-rent insurance claims and provides the turnover documentation new tenants and management companies require.`,
     },
     {
@@ -133,7 +133,7 @@ Our Herndon team applies construction-era-specific expertise to each property ty
       `Sterling Connection`,
       `Reston Connection`,
     ],
-    responseTime: `30-minute emergency response to all Herndon multifamily and hospitality properties. Our crews carry multi-unit equipment for immediate deployment to townhome communities, apartment buildings, and Dulles corridor hotels.`,
+    responseTime: `prompt emergency response to all Herndon multifamily and hospitality properties. Our crews carry multi-unit equipment for immediate deployment to townhome communities, apartment buildings, and Dulles corridor hotels.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ Our Herndon team applies construction-era-specific expertise to each property ty
   ],
   finalCTA: {
     headline: `Multi-Unit Water Damage in Herndon?`,
-    paragraph: `Shared walls and aging plumbing mean damage spreads fast. Our multi-unit team arrives within 30 minutes with the practical, efficient restoration Herndon properties need. Call (877) 497-0007 now.`,
+    paragraph: `Shared walls and aging plumbing mean damage spreads fast. Our multi-unit team arrives as quickly as access and conditions allow with the practical, efficient restoration Herndon properties need. Call (877) 497-0007 now.`,
   },
 }

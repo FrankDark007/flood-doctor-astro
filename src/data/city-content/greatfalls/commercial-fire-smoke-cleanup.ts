@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Great Falls, VA | Flood Doctor`,
-    description: `Great Falls commercial fire and smoke restoration experts. Emergency stabilization, HVAC decontamination, and full reconstruction for estate offices and equestrian properties. Call (877) 497-0007.`,
+    description: `Great Falls commercial fire and smoke restoration specialists. Emergency stabilization, HVAC decontamination, and full reconstruction for estate workplaces and equestrian properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Great Falls, Virginia`,
   introSection: {
     headline: `Restoring Great Falls Ultra-Premium Commercial Properties After Fire and Smoke Damage`,
     paragraphs: [
-      `A fire at a Great Falls commercial property threatens far more than the physical structure. Premium office tenants along Georgetown Pike, equestrian facilities in Seneca Estates, and high-end retail near Great Falls Village Centre face business interruption costs that compound daily while restoration stalls. Smoke infiltrates HVAC systems and migrates through entire buildings, damaging spaces never touched by flame. Every hour without professional response means deeper smoke penetration into building materials, greater corrosion damage to equipment, and longer business displacement. Flood Doctor provides emergency fire stabilization and comprehensive smoke restoration for Great Falls commercial properties, managed as an integrated project from board-up through certificate of occupancy.`,
-      `Great Falls commercial fire damage presents challenges unique to this ultra-premium market. Smoke from an electrical fire in a Forestville office complex travels through ductwork to contaminate adjacent suites. A barn fire at a Riverbend equestrian facility damages valuable tack, equipment, and structures requiring specialized agricultural restoration. Fire suppression water from sprinkler activation in a Hickory Farms commercial building creates secondary water damage that compounds the original fire loss. Our commercial fire restoration teams understand these cascading impacts and deploy multi-discipline crews that address fire damage, smoke contamination, water damage, and content restoration simultaneously.`,
+      `A fire at a Great Falls commercial property threatens far more than the physical structure. Premium workplace tenants along Georgetown Pike, equestrian facilities in Seneca Estates, and high-end retail near Great Falls Village Centre face business interruption costs that compound daily while restoration stalls. Smoke infiltrates HVAC systems and migrates through entire buildings, damaging spaces never touched by flame. Every hour without professional response means deeper smoke penetration into building materials, greater corrosion damage to equipment, and longer business displacement. Flood Doctor provides emergency fire stabilization and comprehensive smoke restoration for Great Falls commercial properties, managed as an integrated project from board-up through certificate of occupancy.`,
+      `Great Falls commercial fire damage presents challenges unique to this ultra-premium market. Smoke from an electrical fire in a Forestville workplace complex travels through ductwork to contaminate adjacent suites. A barn fire at a Riverbend equestrian facility damages valuable tack, equipment, and structures requiring specialized agricultural restoration. Fire suppression water from sprinkler activation in a Hickory Farms commercial building creates secondary water damage that compounds the original fire loss. Our commercial fire restoration teams understand these cascading impacts and deploy multi-discipline crews that address fire damage, smoke contamination, water damage, and content restoration simultaneously.`,
     ],
-    localContext: `Great Falls commercial properties—featuring ultra-premium office space, equestrian facilities, and village retail—require fire restoration that preserves property value, protects high-value assets, and coordinates complex insurance claims for multi-loss events.`,
+    localContext: `Great Falls commercial properties—featuring ultra-premium workplace space, equestrian facilities, and village retail—require fire restoration that preserves property value, protects high-value assets, and coordinates complex insurance claims for multi-loss events.`,
   },
   processSteps: [
     {
@@ -54,7 +54,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `HVAC Smoke Distribution in Estate Office Buildings`,
-      description: `Great Falls commercial office buildings share HVAC systems across multiple tenant suites. A fire in one space pushes smoke through ductwork to contaminate offices throughout the building—often causing more total damage than the fire itself.`,
+      description: `Great Falls commercial commercial buildings share HVAC systems across multiple tenant suites. A fire in one space pushes smoke through ductwork to contaminate workplaces throughout the building—often causing more total damage than the fire itself.`,
       solution: `Our HVAC decontamination team cleans the entire air distribution system, including ductwork, air handlers, coils, filters, and plenums. We verify decontamination with air quality testing before returning the system to operation, preventing ongoing smoke odor and particulate circulation.`,
     },
     {
@@ -81,7 +81,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `Hydroxyl Generators`,
-        purpose: `Eliminate smoke odors safely in occupied or sensitive environments—critical for Great Falls office spaces and equestrian facilities housing animals`,
+        purpose: `Eliminate smoke odors safely in occupied or sensitive environments—critical for Great Falls workplace spaces and equestrian facilities housing animals`,
         brand: `Vaportek`,
       },
       {
@@ -102,7 +102,7 @@ export const content: CityServiceContent = {
         purpose: `Eliminate persistent smoke odors in unoccupied spaces—used only in sealed, evacuated areas with proper safety protocols`,
       },
     ],
-    localNote: `Our Great Falls commercial fire restoration crews deploy equipment scaled for estate office buildings, equestrian facilities, and village retail, with extended logistics capability for remote large-lot properties requiring off-road equipment access.`,
+    localNote: `Our Great Falls commercial fire restoration crews deploy equipment scaled for estate commercial buildings, equestrian facilities, and village retail, with extended logistics capability for remote large-lot properties requiring off-road equipment access.`,
   },
   pricingSection: {
     headline: `Commercial Fire Restoration Costs in Great Falls`,

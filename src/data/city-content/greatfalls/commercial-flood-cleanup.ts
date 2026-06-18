@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Great Falls, VA | Flood Doctor',
-    description: `Great Falls commercial flood cleanup. Equestrian facilities, luxury offices & estate-adjacent properties. Watershed flood response near Great Falls Park & Riverbend. Call (877) 497-0007.`,
+    description: `Great Falls commercial flood cleanup. Equestrian facilities, luxury workplaces & estate-adjacent properties. Watershed flood response near Great Falls Park & Riverbend. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Great Falls, Virginia',
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Great Falls commercial properties face flood exposure driven by the area's dramatic natural terrain—the Potomac River gorge, Difficult Run stream corridor, and the wooded hills that channel storm runoff with intensity unmatched in Northern Virginia's suburban landscape. When a severe summer thunderstorm drives watershed flooding into a Forestville equestrian facility, when Difficult Run overtops its banks flooding a Hickory Farms commercial property, or when torrential rain overwhelms the drainage serving Great Falls Village Centre, the flood cleanup must handle the natural-source contamination, rural-setting logistics, and specialized facility requirements that standard suburban commercial flood crews never encounter.
 
-Flood Doctor's commercial flood division has managed watershed-driven flooding events throughout Great Falls' commercial properties. We've pumped out flooded equestrian arenas near Riverbend Park, extracted stream-debris-laden floodwater from Georgetown Pike commercial spaces, and cleaned up well-system-related flooding in Seneca Estates professional offices—bringing industrial extraction with the rural-luxury service approach Great Falls demands.`,
+Flood Doctor's commercial flood division has managed watershed-driven flooding events throughout Great Falls' commercial properties. We've pumped out flooded equestrian arenas near Riverbend Park, extracted stream-debris-laden floodwater from Georgetown Pike commercial spaces, and cleaned up well-system-related flooding in Seneca Estates professional workplaces—bringing industrial extraction with the rural-luxury service approach Great Falls demands.`,
       `Commercial flood dynamics in Great Falls differ fundamentally from suburban Northern Virginia. There are no storm sewers to back up—instead, natural watershed runoff concentrates in low-lying areas with explosive force during intense storms. Floodwater carries natural contaminants—stream sediment, organic debris, and biological material from wooded and agricultural-adjacent areas. Access to flooded commercial properties may require navigating rural roads, long driveways, and properties without standard loading dock access. And the specialized nature of affected facilities—equestrian operations, outdoor event venues, nursery businesses—creates cleanup requirements outside standard commercial restoration protocols.
 
 Our commercial flood teams deploy to Great Falls with portable pumping equipment that does not require loading dock access, contamination assessment for natural-source floodwater, and the animal-safe products and specialized facility knowledge that the community's commercial operations require.`,
     ],
-    localContext: `Great Falls' watershed-driven flood dynamics, natural-source contamination, rural-setting access challenges, and specialized commercial facilities create a flood cleanup environment requiring portable industrial capability alongside premium service standards and specialized facility expertise.`,
+    localContext: `Great Falls' watershed-driven flood dynamics, natural-source contamination, rural-setting access challenges, and specialized commercial facilities create a flood cleanup environment requiring portable industrial capability alongside premium service standards and specialized facility experience.`,
   },
   processSteps: [
     {
       title: 'Rural-Premium Flood Dispatch',
       description: `Call (877) 497-0007 for immediate flood response. Our Great Falls crews carry portable industrial extraction equipment that deploys without loading dock access, reaching rural-setting commercial properties throughout the community.`,
-      timeframe: 'Within 60 minutes',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Natural-Source Contamination Assessment',
@@ -41,7 +41,7 @@ Our commercial flood teams deploy to Great Falls with portable pumping equipment
     },
     {
       title: 'Facility-Appropriate Drying',
-      description: 'Drying equipment deploys with facility-specific protocols—animal-safe for equestrian spaces, controlled parameters for professional offices, and enhanced capacity for the humid wooded environment that slows drying in Great Falls settings.',
+      description: 'Drying equipment deploys with facility-specific protocols—animal-safe for equestrian spaces, controlled parameters for professional workplaces, and enhanced capacity for the humid wooded environment that slows drying in Great Falls settings.',
       timeframe: 'Days 2-7',
     },
     {
@@ -130,7 +130,7 @@ Our commercial flood teams deploy to Great Falls with portable pumping equipment
       'Riverbend Park Area',
       'Difficult Run Corridor',
     ],
-    responseTime: '60-minute commercial flood response to Great Falls properties. Portable industrial equipment deploys via rural-access routes when standard commercial staging is unavailable.',
+    responseTime: 'prompt commercial flood response to Great Falls properties. Portable industrial equipment deploys via rural-access routes when standard commercial staging is unavailable.',
   },
   faqs: [
     {
@@ -146,7 +146,7 @@ Our commercial flood teams deploy to Great Falls with portable pumping equipment
       answer: 'Watershed flooding carries natural contaminants—stream sediment, organic debris, biological material—requiring cleanup protocols beyond urban storm water procedures. The concentrated force and debris load also cause structural damage that standard commercial flooding rarely produces.',
     },
     {
-      question: 'Can you pre-position during severe weather warnings?',
+      question: 'Can you prepare during severe weather warnings?',
       answer: 'Yes. Priority response agreements for Great Falls commercial properties with known flood exposure enable pre-deployment during severe weather alerts, positioning crews before watershed flooding reaches your property.',
     },
     {
@@ -164,6 +164,6 @@ Our commercial flood teams deploy to Great Falls with portable pumping equipment
   ],
   finalCTA: {
     headline: 'Flood Emergency at Your Great Falls Commercial Property?',
-    paragraph: 'Watershed flooding in Great Falls carries natural contamination and reaches properties that standard flood crews cannot access. Our portable industrial equipment and specialized facility expertise deploy where others cannot reach.',
+    paragraph: 'Watershed flooding in Great Falls carries natural contamination and reaches properties that standard flood crews cannot access. Our portable industrial equipment and specialized facility experience deploy where others cannot reach.',
   },
 }

@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Herndon, VA | Flood Doctor',
-    description: `Herndon's contents restoration experts. Professional pack-out, cleaning & storage for water & fire-damaged belongings. Downtown Herndon, Fox Mill, Franklin Farm. Call (877) 497-0007.`,
+    description: `Herndon's contents restoration specialists. Professional pack-out, cleaning & storage for water & fire-damaged belongings. Downtown Herndon, Fox Mill, Franklin Farm. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Herndon, Virginia',
   introSection: {
     headline: 'Protecting Herndon Family Belongings After Damage',
     paragraphs: [
-      `When water damage strikes your Herndon home, the belongings at risk represent your family daily life — the computers and files in the Franklin Farm home office, the children toys and electronics in the Fox Mill rec room, the holiday decorations and stored memories in the McNair basement. These are the items that insurance adjusters evaluate by replacement cost but that your family values by the memories and convenience they hold. A flooded basement in Herndon does not just damage property — it disrupts the routines and treasured possessions your household depends on.
+      `When water damage strikes your Herndon home, the belongings at risk represent your family daily life — the computers and files in the Franklin Farm home workspace, the children toys and electronics in the Fox Mill rec room, the holiday decorations and stored memories in the McNair basement. These are the items that insurance adjusters evaluate by replacement cost but that your family values by the memories and convenience they hold. A flooded basement in Herndon does not just damage property — it disrupts the routines and treasured possessions your household depends on.
 
 Flood Doctor's contents team has restored belongings from Herndon homes in every neighborhood — freeze-drying water-saturated family documents from Downtown Herndon basements flooded during storm drain backups, cleaning smoke-damaged kitchenware from Worldgate townhomes after cooking fires, and packing out entire Floris colonials while structural drying equipment operated in the lower level. We treat every family's possessions with care that matches their personal value, not just their insurance value.`,
       `The contents restoration process starts with urgency — documents and photographs exposed to water bond permanently within 48 hours if not frozen. Electronics develop circuit board corrosion that advances hourly. Mold begins colonizing damp fabric and paper within days. Our emergency triage prioritizes these time-sensitive items, stabilizing them for transport to our climate-controlled facility while the full pack-out proceeds methodically.
@@ -21,7 +21,7 @@ Every item we touch is photographed, catalogued with condition notes, and barcod
   processSteps: [
     {
       title: 'Rapid Priority Triage',
-      description: `Within 30 minutes of your call to (877) 497-0007, we identify and stabilize time-sensitive items. Documents and photos are bagged for freezing. Electronics are disconnected for corrosion prevention. Sentimental items from your Herndon home receive priority attention before the systematic pack-out begins.`,
+      description: `After your call to (877) 497-0007, we identify and stabilize time-sensitive items. Documents and photos are bagged for freezing. Electronics are disconnected for corrosion prevention. Sentimental items from your Herndon home receive priority attention before the systematic pack-out begins.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -53,8 +53,8 @@ Every item we touch is photographed, catalogued with condition notes, and barcod
     },
     {
       title: 'Home Office Equipment Recovery',
-      description: 'Many Herndon residents work remotely, with home offices containing computers, monitors, printers, and critical files. Water damage to this equipment creates both financial loss and inability to work during restoration — a double impact on the household.',
-      solution: 'Home office electronics receive top-priority triage and fast-tracked corrosion treatment. Critical work equipment can be returned within days. Documents are freeze-dried for preservation. We help maintain work continuity during the restoration period.',
+      description: 'Many Herndon residents work remotely, with home workplaces containing computers, monitors, printers, and critical files. Water damage to this equipment creates both financial loss and inability to work during restoration — a double impact on the household.',
+      solution: 'Home workplace electronics receive top-priority triage and fast-tracked corrosion treatment. Critical work equipment can be returned within days. Documents are freeze-dried for preservation. We help maintain work continuity during the restoration period.',
     },
     {
       title: 'Basement-Stored Family Archives',
@@ -80,7 +80,7 @@ Every item we touch is photographed, catalogued with condition notes, and barcod
       },
       {
         name: 'Electronics Restoration',
-        purpose: 'Component-level circuit board cleaning and corrosion treatment for computers, home office equipment, and entertainment electronics',
+        purpose: 'Component-level circuit board cleaning and corrosion treatment for computers, home workplace equipment, and entertainment electronics',
       },
       {
         name: 'Textile Restoration',
@@ -123,7 +123,7 @@ Every item we touch is photographed, catalogued with condition notes, and barcod
       'Spring Street',
       'Dulles Park',
     ],
-    responseTime: '30-minute emergency response for priority item stabilization throughout Herndon. Full pack-out scheduling coordinates with your structural restoration timeline.',
+    responseTime: 'prompt emergency response for priority item stabilization throughout Herndon. Full pack-out scheduling coordinates with your structural restoration timeline.',
   },
   faqs: [
     {
@@ -131,8 +131,8 @@ Every item we touch is photographed, catalogued with condition notes, and barcod
       answer: 'Hard goods can typically be decontaminated through antimicrobial treatment and ultrasonic cleaning. Many textiles can be restored through specialized laundering. Porous items that cannot be safely decontaminated — mattresses, stuffed items, some paper goods — are documented for replacement claims.',
     },
     {
-      question: 'How fast can you get to my home office equipment?',
-      answer: 'Electronics receive top-priority triage during our initial 30-minute response. Computers and work equipment are disconnected, documented, and transported for corrosion treatment within hours. Fast-tracked restoration can return critical work devices within days.',
+      question: 'How fast can you get to my home workplace equipment?',
+      answer: 'Electronics receive top-priority triage during our initial prompt response. Computers and work equipment are disconnected, documented, and transported for corrosion treatment within hours. Fast-tracked restoration can return critical work devices within days.',
     },
     {
       question: 'Can you save water-damaged family photos?',
@@ -140,7 +140,7 @@ Every item we touch is photographed, catalogued with condition notes, and barcod
     },
     {
       question: 'Does insurance cover contents pack-out?',
-      answer: 'Yes. Contents restoration is a standard covered expense following covered water or fire damage events. Insurance carriers prefer restoration because it costs 40-60% less than full replacement. We handle all documentation and direct billing.',
+      answer: 'Yes. Contents restoration is a standard covered expense following covered water or fire damage events. Insurance carriers prefer restoration because it costs 40-60% less than full replacement. We handle all documentation and insurance coordination.',
     },
     {
       question: 'How long does contents restoration take?',
@@ -157,6 +157,6 @@ Every item we touch is photographed, catalogued with condition notes, and barcod
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Herndon Home?',
-    paragraph: 'Documents, electronics, and photographs suffer irreversible damage with every passing hour. Our Herndon contents team responds within 30 minutes to stabilize what matters most and begins professional pack-out service. Call (877) 497-0007 now.',
+    paragraph: 'Documents, electronics, and photographs suffer irreversible damage with every passing hour. Our Herndon contents team responds as quickly as access and conditions allow to stabilize what matters most and begins professional pack-out service. Call (877) 497-0007 now.',
   },
 }

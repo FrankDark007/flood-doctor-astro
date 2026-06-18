@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Great Falls, VA | Flood Doctor',
-    description: `Great Falls' certified environmental testing for asbestos, lead, mold, well water & hazardous materials. AIHA-accredited lab analysis for estates in Great Falls Village, Forestville & Seneca Estates. Call (877) 497-0007.`,
+    description: `Great Falls' qualified environmental testing for asbestos, lead, mold, well water & hazardous materials. AIHA-accredited lab analysis for estates in Great Falls Village, Forestville & Seneca Estates. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Great Falls, Virginia',
   introSection: {
-    headline: `Certified Environmental Testing for Great Falls Estate and Equestrian Properties`,
+    headline: `Qualified Environmental Testing for Great Falls Estate and Equestrian Properties`,
     paragraphs: [
       `Great Falls estate properties present environmental testing complexity proportional to their scale—5,000 to 20,000+ square feet of finished living space, guest houses, pool houses, equestrian facilities, and private well and septic systems spread across multi-acre lots. Custom homes along Georgetown Pike built in the 1970s and 1980s contain asbestos in mechanical insulation, floor tile systems, and exterior materials that renovations will disturb. Properties in Forestville and Seneca Estates rely on private wells vulnerable to contamination from septic systems, agricultural runoff, and naturally occurring minerals. Climate-controlled art galleries, wine cellars, and finished basements create sealed environments where mold and VOC concentrations accumulate. Equestrian facilities—barns, tack rooms, and indoor riding arenas—introduce unique environmental testing needs involving dust, ammonia, and biological contaminants. Flood Doctor provides AIHA-accredited environmental testing scaled for Great Falls estate complexity—comprehensive hazardous materials assessment, well water analysis, indoor air quality evaluation, and specialty structure environmental testing—with the discretion and thoroughness that ultra-luxury property stewardship demands.`,
-      `Our certified inspectors have documented asbestos in mechanical room insulation at Riverbend estates undergoing HVAC replacement, identified lead paint on original exterior surfaces of Hickory Farms custom homes, quantified elevated mold spore concentrations in Great Falls Village basements where private well pump failures introduced contaminated groundwater, and conducted comprehensive well water testing for properties near Great Falls Park where natural geology introduces elevated mineral and radon concentrations. For estate properties valued at $3M-$20M+, environmental conditions directly affect both occupant health and property value. Art collections, wine cellars, and premium finishes represent assets vulnerable to contamination damage. Our testing protocols address the full environmental profile of Great Falls estates—from legacy construction materials to well water chemistry to specialty room air quality—producing laboratory documentation that serves health investigation, renovation planning, asset protection, and real estate transaction due diligence.`,
+      `Our qualified inspectors have documented asbestos in mechanical room insulation at Riverbend estates undergoing HVAC replacement, identified lead paint on original exterior surfaces of Hickory Farms custom homes, quantified elevated mold spore concentrations in Great Falls Village basements where private well pump failures introduced contaminated groundwater, and conducted comprehensive well water testing for properties near Great Falls Park where natural geology introduces elevated mineral and radon concentrations. For estate properties valued at $3M-$20M+, environmental conditions directly affect both occupant health and property value. Art collections, wine cellars, and premium finishes represent assets vulnerable to contamination damage. Our testing protocols address the full environmental profile of Great Falls estates—from legacy construction materials to well water chemistry to specialty room air quality—producing laboratory documentation that serves health investigation, renovation planning, asset protection, and real estate transaction due diligence.`,
     ],
     localContext: `Great Falls estate properties combine ultra-luxury construction across multiple decades, private well and septic infrastructure, specialty rooms with unique environmental conditions, and equestrian facilities—creating environmental testing requirements unmatched in scope by any other Northern Virginia community.`,
   },
   processSteps: [
     {
       title: 'Estate Assessment and Multi-Structure Scoping',
-      description: `Our certified inspector evaluates the full estate—main residence, guest house, pool house, equestrian facilities, and outbuildings—against construction dates, material types, well and septic system locations, and specific concerns. We map the testing protocol across all structures and environmental systems, prioritizing based on renovation plans, health concerns, or transaction timelines.`,
+      description: `Our qualified inspector evaluates the full estate—main residence, guest house, pool house, equestrian facilities, and outbuildings—against construction dates, material types, well and septic system locations, and specific concerns. We map the testing protocol across all structures and environmental systems, prioritizing based on renovation plans, health concerns, or transaction timelines.`,
       timeframe: 'Hours 1-3',
     },
     {
@@ -69,7 +69,7 @@ export const content: CityServiceContent = {
     },
   ],
   equipmentSection: {
-    headline: 'Certified Environmental Testing Equipment for Great Falls Estates',
+    headline: 'Qualified Environmental Testing Equipment for Great Falls Estates',
     equipment: [
       {
         name: 'Niton XL3t XRF Analyzer',

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Reston, VA | Flood Doctor',
-    description: `Reston's structural drying specialists. HOA-experienced teams for townhome clusters, garden condos & lake-area properties. 30-min response. Call (877) 497-0007.`,
+    description: `Reston's structural drying specialists. HOA-experienced teams for townhome clusters, garden condos & lake-area properties. prompt response. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Reston, Virginia',
   introSection: {
@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has served Reston's diverse housing stock since this planned community began its growth — drying water-damaged townhomes in North Point where shared-wall moisture migration affected three units simultaneously, extracting floodwater from garden-level condos near Lake Anne Plaza after spring storms overwhelmed drainage, and managing structural drying in single-family homes along the W&OD Trail where mature tree canopy and grading direct water toward foundations. We navigate Reston Association requirements and HOA protocols with the familiarity of a community partner.`,
       `The science of structural drying adapts to Reston's remarkably diverse housing within a compact geographic area. A townhome cluster unit built in the 1970s with original materials requires different drying parameters than a Reston Town Center high-rise condo with modern construction. Garden condos with concrete slab floors demand desiccant dehumidification. Wooded-lot homes with persistent below-grade moisture need chronic condition management alongside acute damage drying.
 
-Our IICRC-certified technicians develop property-specific drying plans that account for Reston's unique building diversity. We calculate psychrometric conditions for each material type, deploy equipment sized for each housing format, and monitor daily to ensure scientific progress toward dry standard. For townhome cluster events affecting multiple units, we coordinate simultaneous drying plans with separate documentation for each owner — managing the community complexity that defines Reston restoration work.`,
+Our trained technicians develop property-specific drying plans that account for Reston's unique building diversity. We calculate psychrometric conditions for each material type, deploy equipment sized for each housing format, and monitor daily to ensure scientific progress toward dry standard. For townhome cluster events affecting multiple units, we coordinate simultaneous drying plans with separate documentation for each owner — managing the community complexity that defines Reston restoration work.`,
     ],
     localContext: `Reston's planned community encompasses townhome clusters with shared walls, garden condos with below-grade challenges, lake-adjacent properties, and single-family homes in wooded settings — each housing type presenting distinct structural drying requirements within a community-governed framework.`,
   },
   processSteps: [
     {
       title: 'Community-Ready Response',
-      description: `Call (877) 497-0007 and our Reston-positioned crews arrive within 30 minutes. We reach South Lakes, Lake Anne, Hunters Woods, North Point, and Reston Town Center from staging locations along the Dulles Toll Road corridor — familiar with community access roads, cluster parking, and HOA entry protocols.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Reston-positioned crews arrive as quickly as access and conditions allow. We reach South Lakes, Lake Anne, Hunters Woods, North Point, and Reston Town Center from staging locations along the Dulles Toll Road corridor — familiar with community access roads, cluster parking, and HOA entry protocols.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Multi-Unit Moisture Assessment',
@@ -134,7 +134,7 @@ Our IICRC-certified technicians develop property-specific drying plans that acco
       'Glade',
       'Wainwright',
     ],
-    responseTime: '30-minute response to all Reston neighborhoods. Our crews are familiar with cluster access roads, community parking, and HOA entry protocols throughout the planned community.',
+    responseTime: 'prompt response to all Reston neighborhoods. Our crews are familiar with cluster access roads, community parking, and HOA entry protocols throughout the planned community.',
   },
   faqs: [
     {
@@ -168,6 +168,6 @@ Our IICRC-certified technicians develop property-specific drying plans that acco
   ],
   finalCTA: {
     headline: 'Water Damage in Your Reston Home?',
-    paragraph: 'In Reston, water damage rarely stays in one unit. Shared walls, connected systems, and community drainage mean rapid professional response protects both your home and your neighbors. Call (877) 497-0007 — we arrive within 30 minutes with the community expertise your property requires.',
+    paragraph: 'In Reston, water damage rarely stays in one unit. Shared walls, connected systems, and community drainage mean rapid professional response protects both your home and your neighbors. Call (877) 497-0007 — we arrive as quickly as access and conditions allow with the community experience your property requires.',
   },
 }

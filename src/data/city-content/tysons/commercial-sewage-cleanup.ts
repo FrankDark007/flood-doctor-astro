@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Tysons, VA | Flood Doctor`,
-    description: `Tysons' trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for Class A offices, mixed-use towers, and commercial properties near Tysons Corner Center and The Boro. Call (877) 497-0007.`,
+    description: `Tysons' local commercial sewage cleanup team. OSHA-compliant biohazard remediation for Class A workplaces, mixed-use towers, and commercial properties near Tysons Corner Center and The Boro. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Tysons, Virginia`,
   introSection: {
     headline: `Modern Building Sewage Remediation for Tysons Commercial Properties`,
     paragraphs: [
-      `Sewage contamination in Tysons' commercial core presents challenges unique to Northern Virginia's most intensive urban development. A sewer main surcharge floods the underground parking structure beneath a Tysons Central Class A office tower, contaminating concrete across four below-grade levels. A grease interceptor failure at a Tysons Corner Center restaurant sends Category 3 waste into shared building corridors during peak shopping hours. A construction defect in a new mixed-use development at The Boro allows sewage to back up through improperly installed plumbing into ground-floor retail and residential lobbies. Tysons commercial property managers oversee buildings worth hundreds of millions, housing thousands of workers and shoppers—sewage events here create liability exposure, regulatory risk, and business disruption at a scale that demands industrial-grade response. Flood Doctor provides OSHA-compliant commercial sewage remediation engineered for Tysons' modern, high-density building environment.`,
-      `Tysons' commercial sewage vulnerabilities mirror its rapid transformation from suburban shopping destination to urban center. New construction during the Metro-era building boom sometimes features plumbing installations that fail within years. The increased density from mixed-use towers loads sewer infrastructure originally designed for suburban commercial capacity. Underground parking structures spanning multiple subterranean levels sit well below sewer grade, creating backflow vulnerability during system surcharges. Shared plumbing risers in The Mile and Scotts Run high-rises mean that a failure on one floor can cascade waste to lower levels. Our hazmat teams have remediated sewage events in Tysons office towers, retail centers, parking structures, and mixed-use developments—each project managed with the commercial property management sophistication that Tysons' institutional-grade buildings require.`,
+      `Sewage contamination in Tysons' commercial core presents challenges unique to Northern Virginia's most intensive urban development. A sewer main surcharge floods the underground parking structure beneath a Tysons Central Class A workplace tower, contaminating concrete across four below-grade levels. A grease interceptor failure at a Tysons Corner Center restaurant sends Category 3 waste into shared building corridors during peak shopping hours. A construction defect in a new mixed-use development at The Boro allows sewage to back up through improperly installed plumbing into ground-floor retail and residential lobbies. Tysons commercial property managers oversee buildings worth hundreds of millions, housing thousands of workers and shoppers—sewage events here create liability exposure, regulatory risk, and business disruption at a scale that demands industrial-grade response. Flood Doctor provides OSHA-compliant commercial sewage remediation engineered for Tysons' modern, high-density building environment.`,
+      `Tysons' commercial sewage vulnerabilities mirror its rapid transformation from suburban shopping destination to urban center. New construction during the Metro-era building boom sometimes features plumbing installations that fail within years. The increased density from mixed-use towers loads sewer infrastructure originally designed for suburban commercial capacity. Underground parking structures spanning multiple subterranean levels sit well below sewer grade, creating backflow vulnerability during system surcharges. Shared plumbing risers in The Mile and Scotts Run high-rises mean that a failure on one floor can cascade waste to lower levels. Our hazmat teams have remediated sewage events in Tysons workplace towers, retail centers, parking structures, and mixed-use developments—each project managed with the commercial property management sophistication that Tysons' institutional-grade buildings require.`,
     ],
-    localContext: `Tysons' modern high-density commercial environment—with Class A office towers, mixed-use developments, underground parking structures, and new construction—creates sewage contamination scenarios requiring industrial-scale response and sophisticated property management coordination.`,
+    localContext: `Tysons' modern high-density commercial environment—with Class A workplace towers, mixed-use developments, underground parking structures, and new construction—creates sewage contamination scenarios requiring industrial-scale response and sophisticated property management coordination.`,
   },
   processSteps: [
     {
       title: `High-Rise Emergency Deployment`,
-      description: `Call (877) 497-0007 and our commercial hazmat crew deploys to your Tysons property. We coordinate with building management on loading dock access, freight elevator priority, and security protocols. Equipment staging begins while our safety officer assesses contamination scope across affected floors and parking levels.`,
-      timeframe: `Within 60 minutes`,
+      description: `Call (877) 497-0007 and our commercial hazmat crew deploys to your Tysons property. We coordinate with building management on loading dock access, freight elevator priority, and security protocols. Equipment staging begins while our safety lead assesses contamination scope across affected floors and parking levels.`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Multi-Level Contamination Mapping`,
@@ -27,12 +27,12 @@ export const content: CityServiceContent = {
     },
     {
       title: `Industrial Extraction`,
-      description: `Commercial-grade enclosed vacuum systems extract sewage from office floors, retail spaces, and parking structures. Our enclosed extraction prevents pathogen aerosolization in Tysons buildings where HVAC systems serve thousands of occupants. Underground parking receives specialized concrete extraction treatment.`,
+      description: `Commercial-grade enclosed vacuum systems extract sewage from workplace floors, retail spaces, and parking structures. Our enclosed extraction prevents pathogen aerosolization in Tysons buildings where HVAC systems serve thousands of occupants. Underground parking receives specialized concrete extraction treatment.`,
       timeframe: `Hours 3-10`,
     },
     {
       title: `Decontamination Across All Affected Areas`,
-      description: `Contaminated materials are removed under containment and disposed of through licensed biomedical waste contractors. Building-grade finishes in Tysons commercial spaces receive antimicrobial treatment verified by ATP testing. Parking structure concrete receives pressure washing and antimicrobial application.`,
+      description: `Contaminated materials are removed under containment and disposed of through approved biomedical waste contractors. Building-grade finishes in Tysons commercial spaces receive antimicrobial treatment verified by ATP testing. Parking structure concrete receives pressure washing and antimicrobial application.`,
       timeframe: `Hours 10-30`,
     },
     {
@@ -45,7 +45,7 @@ export const content: CityServiceContent = {
     {
       title: `Underground Parking Structure Contamination`,
       description: `Tysons commercial buildings feature multi-level underground parking that sits well below sewer grade. During system surcharges or main line failures, sewage enters through floor drains, elevator pits, and sump systems—contaminating vast concrete areas across multiple subterranean levels.`,
-      solution: `We deploy specialized concrete extraction and pressure washing equipment for underground garage decontamination. Antimicrobial treatments address concrete porosity. Multi-level teams work simultaneously to restore parking access as quickly as possible for Tysons office buildings with thousands of daily users.`,
+      solution: `We deploy specialized concrete extraction and pressure washing equipment for underground garage decontamination. Antimicrobial treatments address concrete porosity. Multi-level teams work simultaneously to restore parking access as quickly as possible for Tysons commercial buildings with thousands of daily users.`,
     },
     {
       title: `New Construction Plumbing Defects`,
@@ -54,12 +54,12 @@ export const content: CityServiceContent = {
     },
     {
       title: `Mixed-Use Building Complexity`,
-      description: `Tysons mixed-use towers at The Boro, The Mile, and Scotts Run combine retail, office, and residential occupancies under one building system. A sewage event affects tenants with different lease provisions, notification requirements, and re-occupancy expectations.`,
+      description: `Tysons mixed-use towers at The Boro, The Mile, and Scotts Run combine retail, workspace, and residential occupancies under one building system. A sewage event affects tenants with different lease provisions, notification requirements, and re-occupancy expectations.`,
       solution: `Our project managers coordinate with property management across occupancy types. We provide segmented documentation for commercial tenants, residential units, and retail operators. Remediation priorities account for the different business continuity needs of each occupancy type.`,
     },
     {
       title: `High-Density Tenant Coordination`,
-      description: `Tysons office towers may house 50+ commercial tenants across 20+ floors. A sewage event affecting building infrastructure—parking, lobbies, elevators—impacts every tenant simultaneously, creating coordination complexity that suburban properties never face.`,
+      description: `Tysons workplace towers may house 50+ commercial tenants across 20+ floors. A sewage event affecting building infrastructure—parking, lobbies, elevators—impacts every tenant simultaneously, creating coordination complexity that suburban properties never face.`,
       solution: `We work through building management's communication infrastructure to coordinate tenant notification, schedule disruptions, and phase re-occupancy. Our documentation supports building-wide communication while individual tenant packages provide claim-specific records.`,
     },
   ],
@@ -98,15 +98,15 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Tysons`,
-    intro: `Tysons commercial sewage cleanup costs reflect the scale and complexity of modern high-rise buildings. Multi-level parking structures, Class A office finishes, and high-density tenant coordination drive project scope. We provide institutional-quality estimates and coordinate directly with commercial insurance carriers and property management firms.`,
+    intro: `Tysons commercial sewage cleanup costs reflect the scale and complexity of modern high-rise buildings. Multi-level parking structures, Class A workplace finishes, and high-density tenant coordination drive project scope. We provide institutional-quality estimates and coordinate directly with commercial insurance carriers and property management firms.`,
     factors: [
       `Underground parking levels affected—multi-level concrete decontamination significantly increases remediation scope and duration`,
-      `Building class and finish level—Class A Tysons office spaces require premium material replacement and meticulous decontamination`,
+      `Building class and finish level—Class A Tysons workplace spaces require premium material replacement and meticulous decontamination`,
       `Tenant displacement count—the number of affected commercial, retail, and residential occupants influences coordination complexity`,
       `Construction defect documentation—warranty claim support requires additional investigation and photography during remediation`,
       `Building system contamination—elevator pits, mechanical rooms, and HVAC involvement increase project scope`,
     ],
-    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response at your Tysons property. Our industrial hazmat crews are equipped for Class A office towers, mixed-use developments, and underground parking structures.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response at your Tysons property. Our industrial hazmat crews are equipped for Class A workplace towers, mixed-use developments, and underground parking structures.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       `Greensboro Metro Area`,
       `Tysons Metro Area`,
     ],
-    responseTime: `60-minute emergency response to all Tysons commercial properties. Our hazmat crews are pre-positioned in the Tysons corridor for rapid deployment to office towers, mixed-use developments, and retail centers throughout the urban core.`,
+    responseTime: `prompt emergency response to all Tysons commercial properties. Our hazmat crews are made ready in the Tysons corridor for rapid deployment to workplace towers, mixed-use developments, and retail centers throughout the urban core.`,
   },
   faqs: [
     {
@@ -150,7 +150,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How quickly can you respond to a Tysons high-rise sewage emergency?`,
-      answer: `We maintain crews positioned in the Tysons corridor for 60-minute response. Equipment arrives via pre-planned loading dock access routes, and our teams coordinate with building management on freight elevator and security protocols to minimize deployment delays.`,
+      answer: `We maintain crews available in the Tysons corridor for prompt response. Equipment arrives via pre-planned loading dock access routes, and our teams coordinate with building management on freight elevator and security protocols to minimize deployment delays.`,
     },
   ],
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],

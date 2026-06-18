@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Reston, VA | Flood Doctor',
-    description: 'Reston mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
+    description: 'Reston mold removal specialists. trained remediation for basement mold, hidden growth & water damage mold. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in Reston, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `That musty smell in your South Lakes basement isn't just unpleasant—it's a warning sign of mold growth that may have spread far beyond what you can see. Reston's integration with lakes and natural areas creates higher humidity conditions that accelerate mold growth. Your lake-adjacent townhome, your North Point colonial backing to preserved woodlands, or your walkout basement facing natural areas all face elevated mold risk compared to typical Virginia homes.
 
-Flood Doctor's IICRC-certified mold remediation technicians have cleared mold from Reston properties for nearly two decades. We've remediated hidden growth in Lake Anne Village townhomes, eliminated mold colonies behind the walls of Hunters Woods colonials, and restored healthy air quality in properties where previous water damage went unaddressed. Mold doesn't respect Robert E. Simon's vision—your planned community home is vulnerable like any other.`,
+Flood Doctor's trained mold remediation technicians have cleared mold from Reston properties across the service area. We've remediated hidden growth in Lake Anne Village townhomes, eliminated mold colonies behind the walls of Hunters Woods colonials, and restored healthy air quality in properties where previous water damage went unaddressed. Mold doesn't respect Robert E. Simon's vision—your planned community home is vulnerable like any other.`,
       `Reston's mold challenges stem from its unique design. Properties near the four lakes experience higher ambient humidity year-round. Walkout basements facing natural areas trap moisture. Townhome construction with shared walls can spread mold from neglected units to well-maintained neighbors. Large HVAC systems spread spores throughout homes before anyone notices the source.
 
 We don't simply spray bleach and hope for the best. Professional mold remediation requires containment, HEPA filtration, source elimination, surface treatment, and verification testing. For Reston homeowners with health concerns, real estate transactions pending, or visible mold growth, proper remediation protects both health and property value.`,
@@ -116,6 +116,6 @@ We don't simply spray bleach and hope for the best. Professional mold remediatio
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: 'Concerned About Mold in Your Reston Home?',
-    paragraph: `Don't ignore musty odors or visible growth. Our IICRC-certified technicians provide professional assessment and thorough remediation that protects your family's health and your property value in Reston's lake-integrated community.`,
+    paragraph: `Don't ignore musty odors or visible growth. Our trained technicians provide professional assessment and thorough remediation that protects your family's health and your property value in Reston's lake-integrated community.`,
   },
 }

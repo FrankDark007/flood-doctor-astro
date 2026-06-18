@@ -9,20 +9,20 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Commercial Water Damage Expertise for Reston's Planned Community Business Landscape`,
     paragraphs: [
-      `Reston's commercial environment reflects its planned community heritage—a sophisticated mix of Reston Town Center Class A office towers, neighborhood commercial centers integrated throughout the community, and the growing mixed-use development near Metro stations that is adding urban commercial density to this established community. When water damage strikes a Town Center office tower, a South Lakes neighborhood commercial building, or a professional practice in the Hunters Woods area, the restoration must navigate both standard commercial challenges and the Reston Association requirements that add a regulatory layer unique to this planned community.
+      `Reston's commercial environment reflects its planned community heritage—a sophisticated mix of Reston Town Center Class A workplace towers, neighborhood commercial centers integrated throughout the community, and the growing mixed-use development near Metro stations that is adding urban commercial density to this established community. When water damage strikes a Town Center workplace tower, a South Lakes neighborhood commercial building, or a professional practice in the Hunters Woods area, the restoration must navigate both standard commercial challenges and the Reston Association requirements that add a regulatory layer unique to this planned community.
 
-Flood Doctor's commercial division has restored water-damaged businesses throughout Reston's diverse commercial landscape. We've managed multi-floor events in Town Center high-rises, dried neighborhood commercial spaces near Lake Anne Plaza, and restored professional offices in the North Point business area—bringing commercial capability calibrated for Reston's specific mix of urban towers, neighborhood retail, and community-integrated commercial properties.`,
+Flood Doctor's commercial division has restored water-damaged businesses throughout Reston's diverse commercial landscape. We've managed multi-floor events in Town Center high-rises, dried neighborhood commercial spaces near Lake Anne Plaza, and restored professional workplaces in the North Point business area—bringing commercial capability calibrated for Reston's specific mix of urban towers, neighborhood retail, and community-integrated commercial properties.`,
       `Reston's commercial water damage challenges span the full range of building types. Town Center towers feature the modern building systems—chiller loops, fire suppression, building automation—that create complex multi-floor restoration scenarios when they fail. Neighborhood commercial centers built during Reston's earlier development phases have aging plumbing, flat-roof membrane issues, and drainage systems designed for lower-intensity rainfall than current severe weather delivers. And lake-adjacent commercial properties near Lake Anne and South Lakes face water table and drainage challenges that amplify storm-related flooding exposure.
 
-Our IICRC-certified commercial teams bring the technical range to handle all of Reston's commercial property types. We deploy high-rise equipment for Town Center, understand the community association coordination required for neighborhood commercial centers, and address the lake-proximity challenges unique to Reston's waterfront commercial areas—all while navigating the Reston Association requirements that affect commercial restoration in this community.`,
+Our trained commercial teams bring the technical range to handle all of Reston's commercial property types. We deploy high-rise equipment for Town Center, understand the community association coordination required for neighborhood commercial centers, and address the lake-proximity challenges unique to Reston's waterfront commercial areas—all while navigating the Reston Association requirements that affect commercial restoration in this community.`,
     ],
     localContext: `Reston's planned community structure—combining Town Center urban density, neighborhood commercial centers, and lake-adjacent properties—creates a commercial landscape where water damage restoration must address diverse building types alongside Reston Association coordination requirements.`,
   },
   processSteps: [
     {
       title: 'Rapid Reston Dispatch',
-      description: `Call (877) 497-0007 for immediate commercial response. Our Reston crews are positioned near Town Center, the Dulles Toll Road corridor, and South Lakes for rapid deployment to commercial properties throughout the community.`,
-      timeframe: 'Within 45 minutes',
+      description: `Call (877) 497-0007 for immediate commercial response. Our Reston crews are available near Town Center, the Dulles Toll Road corridor, and South Lakes for rapid deployment to commercial properties throughout the community.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Property-Type Assessment',
@@ -53,7 +53,7 @@ Our IICRC-certified commercial teams bring the technical range to handle all of 
   localChallenges: [
     {
       title: 'Town Center High-Rise Building System Failures',
-      description: 'Reston Town Center office towers feature sophisticated mechanical systems—chiller water loops, fire suppression risers, and complex HVAC configurations—that produce multi-floor water damage events when they fail. These systems carry pressurized water through every floor of the building.',
+      description: 'Reston Town Center workplace towers feature sophisticated mechanical systems—chiller water loops, fire suppression risers, and complex HVAC configurations—that produce multi-floor water damage events when they fail. These systems carry pressurized water through every floor of the building.',
       solution: 'We deploy multi-floor extraction with high-rise-compatible equipment, coordinate with building engineers on system isolation and repair, and manage the tenant coordination that multi-floor events in dense Town Center buildings require.',
     },
     {
@@ -135,12 +135,12 @@ Our IICRC-certified commercial teams bring the technical range to handle all of 
       'W&OD Trail Commercial Corridor',
       'Lake Fairfax Area',
     ],
-    responseTime: '45-minute commercial response to all Reston business areas. Crews stationed near Town Center and the Dulles Toll Road corridor for rapid deployment across the planned community.',
+    responseTime: 'prompt commercial response to all Reston business areas. Crews serving Town Center and the Dulles Toll Road corridor for rapid deployment across the planned community.',
   },
   faqs: [
     {
       question: 'Can you handle water damage in a Reston Town Center high-rise?',
-      answer: 'Yes. Our commercial division deploys high-rise-compatible equipment to Town Center towers, coordinates with building engineers on mechanical system diagnostics, and manages multi-tenant events with the vertical logistics expertise these buildings require.',
+      answer: 'Yes. Our commercial division deploys high-rise-compatible equipment to Town Center towers, coordinates with building engineers on mechanical system diagnostics, and manages multi-tenant events with the vertical logistics experience these buildings require.',
     },
     {
       question: 'What about the Reston Association requirements during restoration?',
@@ -156,7 +156,7 @@ Our IICRC-certified commercial teams bring the technical range to handle all of 
     },
     {
       question: 'Will you coordinate with our commercial insurance carrier?',
-      answer: 'We work with all major commercial carriers and provide Xactimate estimates, moisture documentation, and daily progress reports. We handle direct billing and participate in adjuster meetings to support your claim.',
+      answer: 'We work with all major commercial carriers and provide Xactimate estimates, moisture documentation, and daily progress reports. We handle insurance coordination and participate in adjuster meetings to support your claim.',
     },
     {
       question: 'Can you minimize disruption to our Reston business operations?',
@@ -173,6 +173,6 @@ Our IICRC-certified commercial teams bring the technical range to handle all of 
   ],
   finalCTA: {
     headline: 'Water Damage in Your Reston Commercial Property?',
-    paragraph: `From Town Center towers to neighborhood commercial centers, Reston's diverse commercial properties need restoration matched to their specific building type. Our crews bring the right equipment and expertise for every Reston commercial environment.`,
+    paragraph: `From Town Center towers to neighborhood commercial centers, Reston's diverse commercial properties need restoration matched to their specific building type. Our crews bring the right equipment and experience for every Reston commercial environment.`,
   },
 }

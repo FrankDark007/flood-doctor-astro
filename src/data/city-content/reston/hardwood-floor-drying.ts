@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Reston, VA | Save Your Floors | Flood Doctor',
-    description: `Reston hardwood floor drying specialists. Saving floors in South Lakes, Lake Anne & Hunters Woods. Townhome and single-family expertise. RA compliant. Call (877) 497-0007.`,
+    description: `Reston hardwood floor drying specialists. Saving floors in South Lakes, Lake Anne & Hunters Woods. Townhome and single-family experience. RA compliant. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Reston, Virginia',
   introSection: {
@@ -12,13 +12,13 @@ export const content: CityServiceContent = {
       `Reston's diverse housing—from townhome clusters in Hunters Woods to single-family homes around South Lakes to garden condos near Lake Anne—features hardwood flooring that homeowners have invested in through renovations, upgrades, and careful maintenance. When a townhome shared wall leak sends water across your North Point living room, a sump pump failure floods hardwood in your South Lakes basement recreation area, or a burst pipe during a freeze damages the oak flooring in your Lake Anne home, the question of whether to replace or dry determines both cost and disruption to your daily life. Flood Doctor provides in-place drying that saves Reston hardwood for a fraction of replacement cost.`,
       `The community structure of Reston adds layers to hardwood floor drying that suburban settings do not face. Townhome clusters along the W&OD Trail share plumbing walls where one unit's leak becomes another unit's hardwood emergency. Garden condos at Hunters Woods have units above and below, creating water pathways through ceiling-floor assemblies that saturate hardwood from directions a single-family homeowner would never encounter. Lake-adjacent properties in the South Lakes and Lake Anne neighborhoods face elevated humidity from below that contributes to chronic moisture conditions in subfloors. Our crews work within Reston Association requirements and cluster HOA structures daily, coordinating access, managing neighbor communication, and delivering complete hardwood drying that accounts for the shared-environment realities of this planned community.`,
     ],
-    localContext: `Reston's planned community structure—with townhome clusters, shared walls, garden condos, and lake-adjacent properties—creates hardwood floor drying scenarios requiring both technical expertise and community-aware coordination.`,
+    localContext: `Reston's planned community structure—with townhome clusters, shared walls, garden condos, and lake-adjacent properties—creates hardwood floor drying scenarios requiring both technical experience and community-aware coordination.`,
   },
   processSteps: [
     {
       title: 'Community-Coordinated Response',
-      description: `When you call (877) 497-0007, we dispatch to your Reston home within 30 minutes. For townhome clusters and garden condos, we coordinate with adjacent owners and HOAs for access as needed. Our assessment identifies both the hardwood condition and whether the water source involves shared building elements.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call (877) 497-0007, we dispatch to your Reston home as quickly as access and conditions allow. For townhome clusters and garden condos, we coordinate with adjacent owners and HOAs for access as needed. Our assessment identifies both the hardwood condition and whether the water source involves shared building elements.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Floor and Water Source Assessment',
@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Hardwood Floor Drying Costs in Reston',
-    intro: `Reston hardwood floor drying saves homeowners thousands compared to replacement while preserving the flooring that makes your home comfortable. Insurance covers drying as a standard expense and we handle billing directly with all carriers.`,
+    intro: `Reston hardwood floor drying saves homeowners thousands compared to replacement while preserving the flooring that makes your home comfortable. Insurance covers drying as a standard expense and we handle billing directly with insurers.`,
     factors: [
       'Square footage affected—townhome rooms to single-family open floor plans span wide ranges',
       'Water source location—shared-wall origin may involve multi-party insurance coordination',
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Stuart Mill',
       'Dogwood area',
     ],
-    responseTime: '30-minute emergency response throughout Reston. Our community-equipped crews reach every neighborhood from Lake Anne to South Lakes with hardwood drying systems ready for townhome, condo, or single-family deployment.',
+    responseTime: 'prompt emergency response throughout Reston. Our community-equipped crews reach every neighborhood from Lake Anne to South Lakes with hardwood drying systems ready for townhome, condo, or single-family deployment.',
   },
   faqs: [
     {

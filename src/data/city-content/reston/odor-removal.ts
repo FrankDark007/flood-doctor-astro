@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Reston, VA | Flood Doctor',
-    description: `Reston's odor elimination experts. Permanent treatment for musty, mold & sewage odors in townhomes, garden condos & lake-area homes. HOA-experienced. Call (877) 497-0007.`,
+    description: `Reston's odor elimination specialists. Permanent treatment for musty, mold & sewage odors in townhomes, garden condos & lake-area homes. HOA-experienced. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Reston, Virginia',
   introSection: {
@@ -126,7 +126,7 @@ Our technicians deploy hydroxyl generators that neutralize odor molecules safely
       'Polo Fields',
       'Glade',
     ],
-    responseTime: '30-minute emergency response throughout Reston. Non-emergency assessments scheduled within 24-48 hours, coordinated with HOA access requirements.',
+    responseTime: 'prompt emergency response throughout Reston. Non-emergency assessments scheduled within 24-48 hours, coordinated with HOA access requirements.',
   },
   faqs: [
     {

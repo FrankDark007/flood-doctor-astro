@@ -22,7 +22,7 @@ Our estate facility restoration addresses both the structural damage and the ext
     {
       title: `Emergency Response and Estate Coordination`,
       description: `Call (877) 497-0007 for immediate facility response. For estate properties, we coordinate with estate managers or property caretakers for access. For equestrian facilities, we coordinate with stable managers to ensure animal safety during restoration mobilization.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Facility and Content Assessment`,
@@ -64,7 +64,7 @@ Our estate facility restoration addresses both the structural damage and the ext
     {
       title: `Well and Septic System Failures on Estate Properties`,
       description: `Great Falls estate properties rely on private well and septic systems. Well pump failures can flood mechanical rooms and basements, while septic system backups create Category 3 contamination requiring specialized cleanup in workshop and operational areas.`,
-      solution: `We handle both clean water well failures and contaminated septic events with appropriate protocols. HAZWOPER-certified technicians manage septic contamination with proper PPE, antimicrobial treatment, and waste disposal. Well system restoration coordinates with pump contractors for equipment repair concurrent with facility restoration.`,
+      solution: `We handle both clean water well failures and contaminated septic events with appropriate protocols. HAZWOPER-trained technicians manage septic contamination with proper PPE, antimicrobial treatment, and waste disposal. Well system restoration coordinates with pump contractors for equipment repair concurrent with facility restoration.`,
     },
     {
       title: `Remote Property Access and Equipment Logistics`,
@@ -96,7 +96,7 @@ Our estate facility restoration addresses both the structural damage and the ext
       },
       {
         name: `Animal-Safe Antimicrobial Systems`,
-        purpose: `Antimicrobial treatment products certified safe for use in equestrian environments where horses are present or will return`,
+        purpose: `Antimicrobial treatment products qualified safe for use in equestrian environments where horses are present or will return`,
       },
       {
         name: `Environmental Monitoring Systems`,
@@ -138,12 +138,12 @@ Our estate facility restoration addresses both the structural damage and the ext
       `Great Falls Park Area`,
       `River Bend Road`,
     ],
-    responseTime: `45-minute emergency response to all Great Falls estate and commercial facilities. Our teams coordinate with estate managers for property access and carry equipment suitable for remote estate building locations.`,
+    responseTime: `prompt emergency response to all Great Falls estate and commercial facilities. Our teams coordinate with estate managers for property access and carry equipment suitable for remote estate building locations.`,
   },
   faqs: [
     {
       question: `Can you restore equestrian facilities while horses are present?`,
-      answer: `We coordinate with stable managers to maintain safe conditions for horses. When horses must be relocated, we assist with logistics. All products used in barn environments are certified animal-safe. Our crews follow equestrian facility protocols throughout the restoration.`,
+      answer: `We coordinate with stable managers to maintain safe conditions for horses. When horses must be relocated, we assist with logistics. All products used in barn environments are qualified animal-safe. Our crews follow equestrian facility protocols throughout the restoration.`,
     },
     {
       question: `How do you protect vehicle collections from water damage?`,
@@ -151,7 +151,7 @@ Our estate facility restoration addresses both the structural damage and the ext
     },
     {
       question: `What about well or septic system failures on our property?`,
-      answer: `We handle both clean water well failures and contaminated septic events. HAZWOPER-certified technicians manage septic contamination with proper protocols and waste disposal. Well system restoration coordinates with pump contractors for concurrent equipment repair.`,
+      answer: `We handle both clean water well failures and contaminated septic events. HAZWOPER-trained technicians manage septic contamination with proper protocols and waste disposal. Well system restoration coordinates with pump contractors for concurrent equipment repair.`,
     },
     {
       question: `Can your equipment access remote estate buildings?`,
@@ -175,6 +175,6 @@ Our estate facility restoration addresses both the structural damage and the ext
   ],
   finalCTA: {
     headline: `Estate Facility Emergency in Great Falls?`,
-    paragraph: `High-value equipment and collections face increasing damage every hour. Our crews respond to Great Falls estate facilities within 45 minutes with industrial extraction equipment and the asset protection expertise your property demands. Call (877) 497-0007 now.`,
+    paragraph: `High-value equipment and collections face increasing damage every hour. Our crews respond to Great Falls estate facilities as quickly as access and conditions allow with industrial extraction equipment and the asset protection experience your property demands. Call (877) 497-0007 now.`,
   },
 }

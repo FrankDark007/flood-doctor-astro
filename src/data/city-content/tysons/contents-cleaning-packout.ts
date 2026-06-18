@@ -11,17 +11,17 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Tysons luxury condominiums contain belongings that reflect the modern urban lifestyle — premium electronics integrated throughout the home, designer furniture selected for contemporary spaces, professional wardrobes, and curated artwork suited to floor-to-ceiling window walls. When water cascading from an upper-floor HVAC failure reaches your Tysons Central unit, or when fire damage at The Boro requires a full pack-out, the logistics of removing your belongings from a high-rise through elevators, corridors, and loading docks adds complexity that suburban restoration companies have never navigated.
 
-Flood Doctor's contents team has executed pack-outs throughout Tysons modern residential buildings — from penthouse units at The Mile where every item traveled through freight elevators on scheduled intervals, to Scotts Run condos where multi-unit water events required simultaneous pack-outs from several floors with shared building access. We have restored water-damaged electronics, cleaned smoke-affected designer furnishings, and preserved documents from Tysons professional home offices where the contents were as critical as the structure.`,
+Flood Doctor's contents team has executed pack-outs throughout Tysons modern residential buildings — from penthouse units at The Mile where every item traveled through freight elevators on scheduled intervals, to Scotts Run condos where multi-unit water events required simultaneous pack-outs from several floors with shared building access. We have restored water-damaged electronics, cleaned smoke-affected designer furnishings, and preserved documents from Tysons professional home workplaces where the contents were as critical as the structure.`,
       `The contents pack-out process in Tysons high-rises begins with building logistics coordination — scheduling elevator time, reserving loading dock access, and confirming work hour compliance with property management — before a single item is moved. Our project coordinators handle this coordination while the contents team triages time-sensitive items inside your unit. Electronics exposed to water need corrosion prevention treatment within hours. Documents and artwork must be stabilized before moisture causes irreversible damage.
 
 Every item is photographed, catalogued with condition notes, and barcoded for tracking through our climate-controlled restoration facility. For Tysons condo residents affected by multi-unit water events, our inventory system clearly tags ownership per unit — critical when adjacent units are being packed out simultaneously and insurance claims must be filed individually. You track every item through our online portal, with status updates from initial packing through treatment completion and return delivery.`,
     ],
-    localContext: `Tysons' luxury high-rise residences contain contemporary furnishings, premium electronics, and professional equipment that require contents restoration combining technical cleaning expertise with the building logistics coordination that urban pack-outs demand.`,
+    localContext: `Tysons' luxury high-rise residences contain contemporary furnishings, premium electronics, and professional equipment that require contents restoration combining technical cleaning experience with the building logistics coordination that urban pack-outs demand.`,
   },
   processSteps: [
     {
       title: 'Priority Stabilization & Building Coordination',
-      description: `Within 30 minutes of your call to (877) 497-0007, our team arrives to triage time-sensitive items while our coordinator contacts building management to schedule elevator access and loading dock reservations for the full pack-out. Electronics are disconnected for corrosion prevention and documents are bagged for stabilization.`,
+      description: `After your call to (877) 497-0007, our team triages time-sensitive items while our coordinator contacts building management to schedule elevator access and loading dock reservations for the full pack-out. Electronics are disconnected for corrosion prevention and documents are bagged for stabilization.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -63,7 +63,7 @@ Every item is photographed, catalogued with condition notes, and barcoded for tr
     },
     {
       title: 'Designer Furniture & Contemporary Art',
-      description: 'Tysons condo residents furnish with designer pieces selected for modern spaces — contemporary art, custom upholstery, and imported furnishings that represent significant investment. Water and smoke damage to these items requires treatment expertise beyond standard restoration cleaning.',
+      description: 'Tysons condo residents furnish with designer pieces selected for modern spaces — contemporary art, custom upholstery, and imported furnishings that represent significant investment. Water and smoke damage to these items requires treatment experience beyond standard restoration cleaning.',
       solution: 'Designer furniture receives individualized treatment plans based on material composition and manufacturer care requirements. Contemporary artwork is assessed for material-specific stabilization needs. Enhanced documentation with market valuation supports insurance claims for premium items.',
     },
   ],
@@ -123,7 +123,7 @@ Every item is photographed, catalogued with condition notes, and barcoded for tr
       'Greensboro',
       'Jones Branch',
     ],
-    responseTime: '30-minute response for priority item stabilization. Full pack-out scheduling coordinated with your building management for elevator and dock access.',
+    responseTime: 'prompt response for priority item stabilization. Full pack-out scheduling coordinated with your building management for elevator and dock access.',
   },
   faqs: [
     {
@@ -144,7 +144,7 @@ Every item is photographed, catalogued with condition notes, and barcoded for tr
     },
     {
       question: 'Does condo insurance cover contents restoration?',
-      answer: 'Yes. Your HO-6 condo policy covers personal property restoration following covered losses. Insurance carriers prefer professional restoration over replacement because it costs less. We handle all documentation and direct billing with your carrier.',
+      answer: 'Yes. Your HO-6 condo policy covers personal property restoration following covered losses. Insurance carriers prefer professional restoration over replacement because it costs less. We handle all documentation and insurance documentation and coordination with your carrier.',
     },
     {
       question: 'Can I get priority items back before the full restoration?',
@@ -157,6 +157,6 @@ Every item is photographed, catalogued with condition notes, and barcoded for tr
   ],
   finalCTA: {
     headline: 'Contents at Risk in Your Tysons Condo?',
-    paragraph: 'Electronics corrode, designer fabrics stain permanently, and documents deteriorate with every hour of exposure. Our Tysons contents team responds within 30 minutes, coordinates with your building management, and begins professional pack-out immediately. Call (877) 497-0007.',
+    paragraph: 'Electronics corrode, designer fabrics stain permanently, and documents deteriorate with every hour of exposure. Our Tysons contents team responds as quickly as access and conditions allow, coordinates with your building management, and begins professional pack-out immediately. Call (877) 497-0007.',
   },
 }

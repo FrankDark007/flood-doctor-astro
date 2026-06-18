@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls basement flooding experts. 30-min response. Protecting wine cellars, home theaters & finished lower levels in estate homes. Call (877) 497-0007.',
+    description: 'Great Falls basement flooding specialists. prompt response. Protecting wine cellars, home theaters & finished lower levels in estate homes. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Cleanup in Great Falls, Virginia',
   introSection: {
@@ -11,23 +11,23 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Great Falls basements aren't typical basement spaces. Your finished lower level might include a 3,000-bottle wine cellar, a home theater with $200,000 in electronics, a full guest suite, or an art gallery with pieces you've collected over decades. When water floods these spaces, you're not protecting drywall—you're protecting investments that may exceed the value of most homes.
 
-Flood Doctor has extracted water from flooded basements throughout Great Falls for nearly two decades. We've saved wine collections in Forestville cellars, protected home theaters in Seneca Estates properties, and dried finished lower levels in manors along Georgetown Pike. When your estate's lower level floods at 2 AM, we respond within 30 minutes—with equipment scaled for the 5,000+ square foot spaces common in Great Falls.`,
+Flood Doctor has extracted water from flooded basements throughout Great Falls across the service area. We've saved wine collections in Forestville cellars, protected home theaters in Seneca Estates properties, and dried finished lower levels in manors along Georgetown Pike. When your estate's lower level floods at 2 AM, we respond as quickly as access and conditions allow—with equipment scaled for the 5,000+ square foot spaces common in Great Falls.`,
       `The causes of basement flooding in Great Falls differ from typical suburban areas. Most properties operate on private well systems—when pressure tanks fail or pumps malfunction, water can flood your lower level before you realize there's a problem. Septic systems can back up, creating biohazard conditions that require specialized cleanup. The high water table near the Potomac creates persistent groundwater pressure against foundation walls, especially after heavy rains.
 
-Our IICRC Master Water Restorers understand these Great Falls-specific challenges. We don't just extract water—we identify why your basement flooded and help prevent recurrence while protecting the irreplaceable assets that make your lower level unique.`,
+Our experienced restoration crews understand these Great Falls-specific challenges. We don't just extract water—we identify why your basement flooded and help prevent recurrence while protecting the irreplaceable assets that make your lower level unique.`,
     ],
     localContext: `Great Falls' finished lower levels often contain more value than typical entire homes—wine cellars, home theaters, art, guest suites. We provide the specialized protection these investments require, from climate-controlled drying for wine collections to asset relocation for fine art.`,
   },
   processSteps: [
     {
       title: 'Immediate Discrete Dispatch',
-      description: 'When you call (877) 497-0007, we dispatch immediately from our McLean staging area. Our unmarked vehicles reach properties throughout Great Falls—Forestville, Seneca Estates, Riverbend, Georgetown Pike corridor—within 30 minutes. For basement emergencies, every minute matters.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007, we dispatch through our Northern Virginia service network. Our unmarked vehicles reach properties throughout Great Falls—Forestville, Seneca Estates, Riverbend, Georgetown Pike corridor—as quickly as access and conditions allow. For basement emergencies, every minute matters.',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Rapid Asset Assessment & Protection',
       description: 'Before extraction, we identify what needs immediate protection. Wine collection? We assess cellar conditions and determine if bottles need relocation. Home theater? We establish protective barriers for electronics. Art? We coordinate protection or removal from the affected zone. Asset protection begins immediately.',
-      timeframe: 'First 30 minutes on-site',
+      timeframe: 'Initial on-site actions',
     },
     {
       title: 'Industrial Water Extraction',
@@ -64,7 +64,7 @@ Our IICRC Master Water Restorers understand these Great Falls-specific challenge
     {
       title: 'Septic Backup Contamination',
       description: `Septic system backups—from root infiltration, tank failures, or drain field problems—create Category 3 biohazard conditions. Standard basement cleanup won't address the contamination risks these situations create.`,
-      solution: `We're certified for Category 3 biohazard remediation. Our protocols include antimicrobial treatment, safe disposal, and thorough decontamination. We coordinate with septic specialists for system repair while handling the contaminated cleanup.`,
+      solution: `We're qualified for Category 3 biohazard remediation. Our protocols include antimicrobial treatment, safe disposal, and thorough decontamination. We coordinate with septic specialists for system repair while handling the contaminated cleanup.`,
     },
     {
       title: 'High Water Table Intrusion',
@@ -124,7 +124,7 @@ Our IICRC Master Water Restorers understand these Great Falls-specific challenge
   },
   pricingSection: {
     headline: 'Basement Flooding Restoration Costs in Great Falls',
-    intro: 'Great Falls basement flooding costs vary based on the scale of your lower level and the assets involved. We provide free on-site assessments within our 30-minute response window. Our pricing is itemized using Xactimate software compatible with all insurance carriers, and we handle direct billing. For high-value claims involving wine cellars and specialty spaces, our documentation meets the requirements of specialty insurers.',
+    intro: 'Great Falls basement flooding costs vary based on the scale of your lower level and the assets involved. We provide free on-site assessments within our prompt response window. Our pricing is itemized using Xactimate software compatible with insurers, and we handle insurance coordination. For high-value claims involving wine cellars and specialty spaces, our documentation meets the requirements of specialty insurers.',
     factors: [
       'Total square footage of the affected lower level—Great Falls basements range from 3,000 to over 8,000 square feet',
       'Water source and category—clean well water failure differs from septic backup requiring Category 3 biohazard protocols',
@@ -153,12 +153,12 @@ Our IICRC Master Water Restorers understand these Great Falls-specific challenge
       'The Preserve',
       'Colvin Run',
     ],
-    responseTime: '30-minute response to all Great Falls properties, day or night. Properties in the Riverbend corridor and low-lying areas near the Potomac receive priority dispatch during high water table events and heavy rainfall. Our crews are positioned along the Georgetown Pike corridor for immediate deployment.',
+    responseTime: 'prompt response to all Great Falls properties, day or night. Properties in the Riverbend corridor and low-lying areas near the Potomac receive priority dispatch during high water table events and heavy rainfall. Our crews are available along the Georgetown Pike corridor for immediate deployment.',
   },
   faqs: [
     {
       question: 'How quickly can you respond to basement flooding in Great Falls?',
-      answer: `We guarantee 30-minute response to all Great Falls properties. Our crews are positioned throughout the Georgetown Pike corridor—when you call about a flooded basement in Forestville, Seneca Estates, or any Great Falls location, we're already nearby. Every minute matters with basement flooding—call immediately at (877) 497-0007.`,
+      answer: `We provide prompt response to all Great Falls properties. Our crews are available throughout the Georgetown Pike corridor—when you call about a flooded basement in Forestville, Seneca Estates, or any Great Falls location, we're already nearby. Every minute matters with basement flooding—call immediately at (877) 497-0007.`,
     },
     {
       question: 'Can you protect my wine cellar during basement flooding cleanup?',
@@ -166,7 +166,7 @@ Our IICRC Master Water Restorers understand these Great Falls-specific challenge
     },
     {
       question: 'What if my basement flooded from septic backup?',
-      answer: `Septic backups are Category 3 biohazard events requiring specialized protocols. We're certified for this level of contamination—our crews use appropriate protective equipment, antimicrobial treatments, and safe disposal methods. We coordinate with septic specialists for system repair while handling the contaminated cleanup.`,
+      answer: `Septic backups are Category 3 biohazard events requiring specialized protocols. We're qualified for this level of contamination—our crews use appropriate protective equipment, antimicrobial treatments, and safe disposal methods. We coordinate with septic specialists for system repair while handling the contaminated cleanup.`,
     },
     {
       question: 'My well system caused the flooding—do you work with well contractors?',
@@ -178,12 +178,12 @@ Our IICRC Master Water Restorers understand these Great Falls-specific challenge
     },
     {
       question: 'Will you work with my insurance company on a basement flooding claim?',
-      answer: 'Yes. We handle direct billing with all major carriers and specialty insurers. For high-value basement claims common in Great Falls, we provide detailed documentation—moisture readings, photographic evidence, equipment logs, and itemized assessments—that supports complete coverage.',
+      answer: 'Yes. We handle insurance documentation and coordination and specialty insurers. For high-value basement claims common in Great Falls, we provide detailed documentation—moisture readings, photographic evidence, equipment logs, and itemized assessments—that supports well-documented claim review.',
     },
   ],
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],
   finalCTA: {
     headline: 'Flooded Basement in Your Great Falls Estate?',
-    paragraph: 'Your wine cellar, home theater, and finished spaces are at risk every minute water remains. Our discrete crews are positioned throughout Great Falls for immediate 30-minute response—with equipment scaled for estate-sized lower levels.',
+    paragraph: 'Your wine cellar, home theater, and finished spaces are at risk every minute water remains. Our discrete crews are available throughout Great Falls for immediate prompt response—with equipment scaled for estate-sized lower levels.',
   },
 }

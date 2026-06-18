@@ -3,30 +3,30 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Great Falls, VA | Flood Doctor`,
-    description: `Great Falls' trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for concierge medical offices and private clinics. Call (877) 497-0007.`,
+    description: `Great Falls' local healthcare facility restoration specialists. HIPAA-compliant water damage restoration for concierge medical workplaces and private clinics. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Great Falls, Virginia`,
   introSection: {
     headline: `Protecting Great Falls' Exclusive Medical Practices from Water Damage`,
     paragraphs: [
-      `Great Falls supports a select network of concierge medical practices, private wellness centers, and specialist clinics that serve the area's ultra-high-net-worth residents. These facilities—tucked along Georgetown Pike, nestled in Great Falls Village Centre, and operating from converted estate properties in Forestville and Seneca Estates—provide personalized care to patients who expect absolute discretion and uninterrupted access to their physicians. When water damage strikes a concierge medicine office in Hickory Farms or a private dermatology practice near Riverbend, the stakes extend beyond property loss to patient safety, HIPAA compliance, and the reputational standing of practices built on exclusivity.
+      `Great Falls supports a select network of concierge medical practices, private wellness centers, and specialist clinics that serve the area's ultra-high-net-worth residents. These facilities—tucked along Georgetown Pike, nestled in Great Falls Village Centre, and operating from converted estate properties in Forestville and Seneca Estates—provide personalized care to patients who expect absolute discretion and uninterrupted access to their physicians. When water damage strikes a concierge medicine workplace in Hickory Farms or a private dermatology practice near Riverbend, the stakes extend beyond property loss to patient safety, HIPAA compliance, and the reputational standing of practices built on exclusivity.
 
-Flood Doctor has restored healthcare facilities serving Great Falls' most discerning clientele, safeguarding patient records, protecting sensitive diagnostic equipment, and maintaining infection control standards with the discretion this community demands. Our ICRA-trained technicians deploy containment barriers that meet Joint Commission standards while our HIPAA-certified project managers ensure protected health information remains secure. Great Falls medical practices trust us because we combine clinical-grade restoration with the privacy and premium service standards their patients expect.`,
+Flood Doctor has restored healthcare facilities serving Great Falls' most discerning clientele, safeguarding patient records, protecting sensitive diagnostic equipment, and maintaining infection control standards with the discretion this community demands. Our ICRA-trained technicians deploy containment barriers that meet Joint Commission standards while our HIPAA-aware project managers ensure protected health information remains secure. Great Falls medical practices trust us because we combine clinical-grade restoration with the privacy and premium service standards their patients expect.`,
       `The medical facilities serving Great Falls often operate in unique settings that complicate standard restoration approaches. Concierge practices in converted residential properties along Georgetown Pike feature residential-grade plumbing systems handling commercial patient volumes. Private wellness centers on multi-acre lots in Seneca Estates rely on well water and septic systems that create additional contamination risks during failures. Specialty clinics in Great Falls Village Centre share walls with retail tenants, creating multi-tenant coordination challenges.
 
 Our healthcare restoration protocols address these Great Falls-specific challenges. We coordinate with medical equipment manufacturers, maintain temperature and humidity logs for pharmaceutical storage compliance, and provide documentation that satisfies CMS survey readiness requirements. For practices operating in residential conversions, we understand the unique building system vulnerabilities and the privacy expectations of a clientele that includes diplomats, executives, and public figures.`,
     ],
-    localContext: `Great Falls' exclusive medical practices—many operating in converted estates or boutique village settings—demand restoration that combines healthcare compliance expertise with the ultra-premium service standards and absolute discretion this community requires.`,
+    localContext: `Great Falls' exclusive medical practices—many operating in converted estates or boutique village settings—demand restoration that combines healthcare compliance experience with the ultra-premium service standards and absolute discretion this community requires.`,
   },
   processSteps: [
     {
       title: `Emergency Response and Facility Assessment`,
       description: `Call our Great Falls healthcare hotline at (877) 497-0007 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager and security team before entering any patient care area.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Emergency response`,
     },
     {
       title: `ICRA Classification and Containment`,
-      description: `We conduct an Infection Control Risk Assessment with your infection control officer to classify affected areas. Containment barriers meeting the appropriate ICRA class are installed before any demolition or drying equipment is deployed, preventing airborne contamination in adjacent patient areas.`,
+      description: `We conduct an Infection Control Risk Assessment with your infection control lead to classify affected areas. Containment barriers meeting the appropriate ICRA class are installed before any demolition or drying equipment is deployed, preventing airborne contamination in adjacent patient areas.`,
       timeframe: `Hours 1-3`,
     },
     {
@@ -69,7 +69,7 @@ Our healthcare restoration protocols address these Great Falls-specific challeng
     {
       title: `Remote Location Response Logistics`,
       description: `Great Falls practices on multi-acre lots along Georgetown Pike and near Riverbend Park are farther from commercial restoration supply lines. After-hours emergencies at these locations risk extended water exposure before crews arrive.`,
-      solution: `We maintain pre-staged equipment caches and position response vehicles to ensure 45-minute arrival to Great Falls healthcare facilities. Pre-arranged facility access protocols allow us to begin securing the practice even before clinical staff arrives on site.`,
+      solution: `We prepare healthcare response equipment for Great Falls service-area calls. Pre-arranged facility access protocols can help speed stabilization when clinical staff are available to authorize access.`,
     },
   ],
   equipmentSection: {
@@ -96,14 +96,14 @@ Our healthcare restoration protocols address these Great Falls-specific challeng
       },
       {
         name: `Injectidry Panel Systems`,
-        purpose: `Dry wall cavities without demolition, preserving medical office finishes and reducing downtime`,
+        purpose: `Dry wall cavities without demolition, preserving medical workplace finishes and reducing downtime`,
       },
       {
         name: `Data Recovery Equipment`,
         purpose: `Stabilize and recover water-damaged electronic medical records and digital imaging storage systems`,
       },
     ],
-    localNote: `Our Great Falls healthcare response vehicles carry ICRA containment materials, HEPA filtration, antimicrobial supplies, and septic contamination equipment pre-staged for the unique challenges of medical facilities on private well and septic systems.`,
+    localNote: `Our Great Falls healthcare response equipment includes ICRA containment materials, HEPA filtration, antimicrobial supplies, and septic contamination equipment selected for medical facilities on private well and septic systems.`,
   },
   pricingSection: {
     headline: `Healthcare Facility Restoration Costs in Great Falls`,
@@ -132,11 +132,11 @@ Our healthcare restoration protocols address these Great Falls-specific challeng
       `Colvin Run Area`,
       `Difficult Run`,
     ],
-    responseTime: `45-minute emergency response to all Great Falls healthcare facilities. Our crews are pre-positioned with ICRA containment materials and healthcare-grade equipment for immediate deployment to medical practices throughout the Great Falls area.`,
+    responseTime: `prompt emergency response to all Great Falls healthcare facilities. Our crews are made ready with ICRA containment materials and healthcare-grade equipment for immediate deployment to medical practices throughout the Great Falls area.`,
   },
   faqs: [
     {
-      question: `Are your restoration crews HIPAA trained for Great Falls medical offices?`,
+      question: `Are your restoration crews HIPAA trained for Great Falls medical workplaces?`,
       answer: `Yes. Every technician assigned to healthcare projects completes annual HIPAA training and signs confidentiality agreements. We execute business associate agreements with each medical practice and maintain chain-of-custody documentation for any materials containing protected health information.`,
     },
     {
@@ -148,7 +148,7 @@ Our healthcare restoration protocols address these Great Falls-specific challeng
       answer: `Septic failures require Category 3 contamination protocols combined with healthcare ICRA standards. We deploy antimicrobial treatment immediately, establish ICRA-compliant containment, and coordinate septic system repair with infection control requirements to return the practice to safe operations.`,
     },
     {
-      question: `Can you restore our converted estate medical office?`,
+      question: `Can you restore our converted estate medical practice space?`,
       answer: `Yes. We understand the unique building systems in Great Falls converted residential practices. Our restoration addresses both the residential construction characteristics and the medical-grade environmental requirements, ensuring the facility returns to full clinical compliance.`,
     },
     {
@@ -157,7 +157,7 @@ Our healthcare restoration protocols address these Great Falls-specific challeng
     },
     {
       question: `How quickly can you respond to an after-hours emergency at our Great Falls clinic?`,
-      answer: `We guarantee 45-minute response to Great Falls healthcare facilities 24/7. Pre-arranged facility access protocols allow us to begin securing your medical practice even before staff arrives, preventing water migration into patient care areas and equipment rooms.`,
+      answer: `We provide prompt response to Great Falls healthcare facilities 24/7. Pre-arranged facility access protocols allow us to begin securing your medical practice even before staff arrives, preventing water migration into patient care areas and equipment rooms.`,
     },
     {
       question: `Do you handle medical facility insurance claims?`,
@@ -169,6 +169,6 @@ Our healthcare restoration protocols address these Great Falls-specific challeng
   ],
   finalCTA: {
     headline: `Healthcare Facility Emergency in Great Falls?`,
-    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Great Falls medical facilities within 45 minutes with containment materials, healthcare-grade equipment, and the discretion your practice demands. Call (877) 497-0007 now.`,
+    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-aware, ICRA-trained crews respond to Great Falls medical facilities as quickly as access and conditions allow with containment materials, healthcare-grade equipment, and the discretion your practice demands. Call (877) 497-0007 now.`,
   },
 }

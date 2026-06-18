@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Great Falls, VA | Flood Doctor',
-    description: `Great Falls estate roof leak specialists. Serving Great Falls Village, Forestville & Seneca Estates. Slate, copper & complex roof expertise. Art protection. Call (877) 497-0007.`,
+    description: `Great Falls estate roof leak specialists. Serving Great Falls Village, Forestville & Seneca Estates. Slate, copper & complex roof experience. Art protection. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Great Falls, Virginia',
   introSection: {
@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Discreet Estate Emergency Response',
-      description: `Call (877) 497-0007 and our crews respond within 45 minutes, arriving in unmarked vehicles. Our first action is protecting interior contents and finishes beneath the leak—covering furnishings, art, and electronics while assessing the water entry path from roof through attic to the living space.`,
-      timeframe: 'Within 45 minutes',
+      description: `Call (877) 497-0007 and our crews respond as quickly as access and conditions allow, arriving in unmarked vehicles. Our first action is protecting interior contents and finishes beneath the leak—covering furnishings, art, and electronics while assessing the water entry path from roof through attic to the living space.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Premium Roof Material Tarping',
@@ -49,7 +49,7 @@ export const content: CityServiceContent = {
   localChallenges: [
     {
       title: 'Multi-Material Roof Junction Failures',
-      description: 'Great Falls estate roofs use multiple premium materials that meet at complex junctions—slate-to-copper transitions, flat-to-pitched connections, and material changes at dormers and wing connections. Each junction type has unique failure modes that require specific assessment expertise.',
+      description: 'Great Falls estate roofs use multiple premium materials that meet at complex junctions—slate-to-copper transitions, flat-to-pitched connections, and material changes at dormers and wing connections. Each junction type has unique failure modes that require specific assessment experience.',
       solution: 'Our assessment identifies the specific junction type and failure mode, documenting it for the specialty roofing contractor who will make the permanent repair. Knowledge of how slate, copper, and tile systems interact at transitions allows us to trace the water path accurately through the attic.',
     },
     {
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Arnon Heights',
       'River Creek',
     ],
-    responseTime: '45-minute emergency response to all Great Falls estates. Our crews arrive with premium-roof tarping, content protection, and precision drying equipment for immediate estate-scale intervention.',
+    responseTime: 'prompt emergency response to all Great Falls estates. Our crews arrive with premium-roof tarping, content protection, and precision drying equipment for immediate estate-scale intervention.',
   },
   faqs: [
     {

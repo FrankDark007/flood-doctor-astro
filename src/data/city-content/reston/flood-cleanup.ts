@@ -3,18 +3,18 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Reston, VA | Flood Doctor',
-    description: 'Reston flood cleanup experts. 30-min emergency response for storm flooding, lake-area flooding & water damage. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
+    description: 'Reston flood cleanup specialists. prompt emergency response for storm flooding, lake-area flooding & water damage. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Reston, Virginia',
   introSection: {
     headline: `Professional Flood Cleanup for Reston's Lake-Integrated Community`,
     paragraphs: [
-      `Summer storms roll through Northern Virginia with little warning. One moment your North Point colonial is peaceful; an hour later, six inches of rain has overwhelmed the stormwater system, raised the water table near Lake Audubon, and sent muddy water cascading into your walkout basement. The family room facing the nature preserve, the home office where you work remotely—now under brown water carried by the very natural integration that makes Reston special.
+      `Summer storms roll through Northern Virginia with little warning. One moment your North Point colonial is peaceful; an hour later, six inches of rain has overwhelmed the stormwater system, raised the water table near Lake Audubon, and sent muddy water cascading into your walkout basement. The family room facing the nature preserve, the home workplace where you work remotely—now under brown water carried by the very natural integration that makes Reston special.
 
 Flood Doctor has cleaned up after every major storm event in Reston for years. We've pumped out lake-adjacent basements after flash floods, extracted storm water from Hunters Woods colonials, and restored South Lakes properties after summer deluges. When NOAA issues a flash flood warning for Fairfax County, our phones light up with Reston addresses—and our trucks are already positioned to respond.`,
       `Flood cleanup in Reston differs from typical water damage. Storm water carries soil from the pathways, debris from natural areas, and contaminants that complicate restoration. Reston's unique hydrology—four man-made lakes, extensive stormwater management, and homes integrated with nature—means flood water often carries sediment from the community's natural areas. Properties near Lake Anne or Lake Thoreau may also experience groundwater flooding when the water table rises during extended storms.
 
-Our IICRC-certified crews understand Reston's flood patterns: the low-lying areas where stormwater collects, the walkout basements vulnerable to runoff, the lake-adjacent properties where groundwater rises during wet periods. We don't just pump and leave—we extract, decontaminate, and restore.`,
+Our trained crews understand Reston's flood patterns: the low-lying areas where stormwater collects, the walkout basements vulnerable to runoff, the lake-adjacent properties where groundwater rises during wet periods. We don't just pump and leave—we extract, decontaminate, and restore.`,
     ],
     localContext: `Reston's integration with natural areas and four lakes creates flood risks unique to the planned community. Properties near water features, in natural drainage paths, or at lower elevations face higher exposure during severe storms.`,
   },
@@ -22,12 +22,12 @@ Our IICRC-certified crews understand Reston's flood patterns: the low-lying area
     {
       title: 'Emergency Storm Response',
       description: `When storms hit Reston, we dispatch multiple crews simultaneously. Your South Lakes colonial isn't waiting while we finish in Herndon—we have capacity for the community's concentrated emergency needs. Call (877) 497-0007 and we're moving within minutes.`,
-      timeframe: '30-minute response',
+      timeframe: 'prompt response',
     },
     {
       title: 'Safety Assessment & Power Coordination',
       description: `Flood water and electricity don't mix. We assess electrical hazards, coordinate with Dominion Energy if needed, and ensure safe working conditions before extraction begins. In walkout basements with exterior electrical panels, this assessment prevents secondary disasters.`,
-      timeframe: 'First 30 minutes',
+      timeframe: 'Initial on-site actions',
     },
     {
       title: 'High-Volume Water Extraction',
@@ -53,7 +53,7 @@ Our IICRC-certified crews understand Reston's flood patterns: the low-lying area
   localChallenges: [],
   pricingSection: {
     headline: 'Flood Cleanup Costs in Reston',
-    intro: `Flood cleanup costs depend on water volume, contamination category, affected materials, and property type. Reston's walkout basements and lake-adjacent properties may require extended drying due to higher ambient humidity. Most flood damage is covered by homeowner's insurance; we handle direct billing.`,
+    intro: `Flood cleanup costs depend on water volume, contamination category, affected materials, and property type. Reston's walkout basements and lake-adjacent properties may require extended drying due to higher ambient humidity. Most flood damage is covered by homeowner's insurance; we handle insurance coordination.`,
     factors: [
       'Square footage affected—Reston basements range from compact townhome levels to expansive walkouts',
       'Contamination category—storm water with debris requires more extensive treatment than clean water',
@@ -79,7 +79,7 @@ Our IICRC-certified crews understand Reston's flood patterns: the low-lying area
       'Polo Fields',
       'Fox Mill Woods',
     ],
-    responseTime: '30-minute emergency response during storms. We pre-position crews throughout Reston when severe weather approaches, ensuring rapid response to lake-area and flood-prone neighborhoods.',
+    responseTime: 'prompt emergency response during storms. We prepare crews throughout Reston when severe weather approaches, ensuring rapid response to lake-area and flood-prone neighborhoods.',
   },
   faqs: [
     {
@@ -114,6 +114,6 @@ Our IICRC-certified crews understand Reston's flood patterns: the low-lying area
   ],
   finalCTA: {
     headline: 'Flood Emergency in Reston?',
-    paragraph: `Don't wait for the storm to pass. Our crews are positioned throughout Reston and ready to respond the moment conditions allow. One call starts the extraction process that protects your lake-integrated home from escalating damage.`,
+    paragraph: `Don't wait for the storm to pass. Our crews are available throughout Reston and ready to respond the moment conditions allow. One call starts the extraction process that protects your lake-integrated home from escalating damage.`,
   },
 }

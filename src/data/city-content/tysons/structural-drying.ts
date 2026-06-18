@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Tysons, VA | Flood Doctor',
-    description: `Tysons structural drying for luxury high-rises & modern buildings. HVAC system expertise, concrete slab drying & HOA coordination. 30-min response. Call (877) 497-0007.`,
+    description: `Tysons structural drying for luxury high-rises & modern buildings. HVAC system experience, concrete slab drying & HOA coordination. prompt response. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Tysons, Virginia',
   introSection: {
     headline: 'Modern Building Structural Drying for Tysons Properties',
     paragraphs: [
-      `Tysons has transformed from a suburban crossroads into an urban center with luxury high-rise condominiums, mixed-use developments, and modern residential buildings that present drying challenges unlike anything found in traditional suburban neighborhoods. When a burst HVAC condensate line on the 20th floor of a Tysons Central tower sends water cascading through multiple units, the structural drying response requires expertise in concrete slab construction, steel-framed walls, and building management coordination that residential-focused companies have never developed. When water intrusion at The Boro damages a unit with floor-to-ceiling windows and radiant floor heating, the drying approach must account for modern systems that suburban restorers have never encountered.
+      `Tysons has transformed from a suburban crossroads into an urban center with luxury high-rise condominiums, mixed-use developments, and modern residential buildings that present drying challenges unlike anything found in traditional suburban neighborhoods. When a burst HVAC condensate line on the 20th floor of a Tysons Central tower sends water cascading through multiple units, the structural drying response requires experience in concrete slab construction, steel-framed walls, and building management coordination that residential-focused companies have never developed. When water intrusion at The Boro damages a unit with floor-to-ceiling windows and radiant floor heating, the drying approach must account for modern systems that suburban restorers have never encountered.
 
-Flood Doctor brings modern building expertise to Tysons' evolving urban core. We have dried water damage in luxury condos overlooking Tysons Corner Center, managed multi-unit cascading events in towers along the Metro corridor, and coordinated with property management teams at The Mile, Scotts Run, and Tysons Central to navigate building access protocols while delivering rapid structural drying. Our technicians understand the materials, systems, and logistics that define Tysons modern residential construction.`,
+Flood Doctor brings modern building experience to Tysons' evolving urban core. We have dried water damage in luxury condos overlooking Tysons Corner Center, managed multi-unit cascading events in towers along the Metro corridor, and coordinated with property management teams at The Mile, Scotts Run, and Tysons Central to navigate building access protocols while delivering rapid structural drying. Our technicians understand the materials, systems, and logistics that define Tysons modern residential construction.`,
       `The science of structural drying applies universally, but its application in Tysons modern buildings demands specific knowledge. Post-tensioned concrete floor slabs hold moisture for weeks and require desiccant dehumidification that standard residential equipment cannot achieve. Steel stud framing in luxury high-rises does not absorb moisture like wood — but the drywall and insulation attached to it does, with different drying parameters than traditional construction. Radiant floor heating systems, spray foam insulation, and sealed building envelopes create moisture dynamics that require precise psychrometric calculations.
 
-Our IICRC-certified technicians deploy equipment optimized for modern building systems. Compact LGR dehumidifiers fit through standard unit doorways and operate within building noise restrictions. Desiccant units achieve the ultra-low humidity needed for concrete slab drying. Injection drying systems address moisture in wall cavities without demolishing premium interior finishes. Daily monitoring with ASTM-standard concrete testing ensures every material — from engineered flooring to concrete substrate — reaches verified dry standard before the project concludes.`,
+Our trained technicians deploy equipment optimized for modern building systems. Compact LGR dehumidifiers fit through standard unit doorways and operate within building noise restrictions. Desiccant units achieve the ultra-low humidity needed for concrete slab drying. Injection drying systems address moisture in wall cavities without demolishing premium interior finishes. Daily monitoring with ASTM-standard concrete testing ensures every material — from engineered flooring to concrete substrate — reaches verified dry standard before the project concludes.`,
     ],
-    localContext: `Tysons' transformation into an urban center has created a concentration of modern high-rise residential buildings with construction systems — concrete slabs, steel framing, sealed envelopes — that require structural drying expertise specific to contemporary building technology.`,
+    localContext: `Tysons' transformation into an urban center has created a concentration of modern high-rise residential buildings with construction systems — concrete slabs, steel framing, sealed envelopes — that require structural drying experience specific to contemporary building technology.`,
   },
   processSteps: [
     {
       title: 'Rapid Urban Response',
-      description: `Call (877) 497-0007 and our Tysons-positioned crews arrive within 30 minutes. We are familiar with the access protocols, elevator systems, and loading dock procedures at major Tysons developments — reaching your unit in Tysons Corner, The Boro, Scotts Run, or Tysons Central without the delays that unfamiliar crews experience in these buildings.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Tysons-positioned crews arrive as quickly as access and conditions allow. We are familiar with the access protocols, elevator systems, and loading dock procedures at major Tysons developments — reaching your unit in Tysons Corner, The Boro, Scotts Run, or Tysons Central without the delays that unfamiliar crews experience in these buildings.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Modern Building Moisture Assessment',
@@ -143,7 +143,7 @@ Our IICRC-certified technicians deploy equipment optimized for modern building s
       'Greensboro',
       'Jones Branch',
     ],
-    responseTime: '30-minute response to all Tysons locations. Our crews are familiar with building access protocols, elevator logistics, and loading dock procedures at every major Tysons development.',
+    responseTime: 'prompt response to all Tysons locations. Our crews are familiar with building access protocols, elevator logistics, and loading dock procedures at every major Tysons development.',
   },
   faqs: [
     {
@@ -177,6 +177,6 @@ Our IICRC-certified technicians deploy equipment optimized for modern building s
   ],
   finalCTA: {
     headline: 'Water Damage in Your Tysons Property?',
-    paragraph: 'Modern high-rise water events escalate rapidly across multiple units and require immediate professional response. Our Tysons-specialized crews arrive within 30 minutes with building-appropriate equipment and the coordination expertise these complex properties demand. Call (877) 497-0007 now.',
+    paragraph: 'Modern high-rise water events escalate rapidly across multiple units and require immediate professional response. Our Tysons-specialized crews arrive as quickly as access and conditions allow with building-appropriate equipment and the coordination experience these complex properties demand. Call (877) 497-0007 now.',
   },
 }

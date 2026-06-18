@@ -50,7 +50,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'What happens to mechanical systems in flooded below-grade rooms?',
-      answer: 'Mechanical equipment requires immediate professional assessment after water exposure. Some equipment can be dried and restored; other components need replacement. We coordinate with licensed mechanical contractors, electrical engineers, and equipment manufacturers to evaluate damage. Critical factors include water depth, duration of exposure, water contamination level, and equipment type. Detailed documentation supports insurance claims for equipment replacement when necessary.',
+      answer: 'Mechanical equipment requires immediate professional assessment after water exposure. Some equipment can be dried and restored; other components need replacement. We coordinate with qualified mechanical contractors, electrical engineers, and equipment manufacturers to evaluate damage. Critical factors include water depth, duration of exposure, water contamination level, and equipment type. Detailed documentation supports insurance claims for equipment replacement when necessary.',
     },
     {
       question: 'Can you prevent garage flooding in my Tysons building?',
@@ -61,9 +61,9 @@ export const content: CityServiceContent = {
   finalCTA: {
     headline: '',
     paragraph: [
-      `Tysons' extensive below-grade development creates unique flooding challenges that demand specialized expertise, industrial-scale equipment, and rapid emergency response. Our comprehensive underground flooding services protect parking garages, mechanical rooms, and commercial spaces throughout Tysons Corner, Tysons Central, The Boro, and surrounding developments.`,
-      'From spring snowmelt overwhelming drainage systems to mechanical room failures threatening critical infrastructure, we provide professional flooding remediation that minimizes damage, protects building systems, and accelerates recovery. Our industrial pumping capabilities, commercial drying expertise, and coordination with building management ensure effective response to flooding events of any scale.',
-      `Underground flooding emergencies require immediate professional intervention. Every hour of delay increases damage to concrete, threatens mechanical systems, and extends recovery timelines. Contact us at (877) 497-0007 for 24/7 emergency response backed by industrial equipment, specialized expertise, and a commitment to complete recovery of your Tysons property's below-grade spaces.`,
+      `Tysons' extensive below-grade development creates unique flooding challenges that demand specialized experience, industrial-scale equipment, and rapid emergency response. Our comprehensive underground flooding services protect parking garages, mechanical rooms, and commercial spaces throughout Tysons Corner, Tysons Central, The Boro, and surrounding developments.`,
+      'From spring snowmelt overwhelming drainage systems to mechanical room failures threatening critical infrastructure, we provide professional flooding remediation that minimizes damage, protects building systems, and accelerates recovery. Our industrial pumping capabilities, commercial drying experience, and coordination with building management ensure effective response to flooding events of any scale.',
+      `Underground flooding emergencies require immediate professional intervention. Every hour of delay increases damage to concrete, threatens mechanical systems, and extends recovery timelines. Contact us at (877) 497-0007 for 24/7 emergency response backed by industrial equipment, specialized experience, and a commitment to complete recovery of your Tysons property's below-grade spaces.`,
     ],
   },
 }

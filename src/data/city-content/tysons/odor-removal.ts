@@ -125,7 +125,7 @@ Our technicians deploy hydroxyl generators that operate safely in occupied luxur
       'Greensboro',
       'Jones Branch',
     ],
-    responseTime: '30-minute emergency response. Non-emergency odor assessments are scheduled within 24-48 hours, coordinated with building access requirements.',
+    responseTime: 'prompt emergency response. Non-emergency odor assessments are scheduled within 24-48 hours, coordinated with building access requirements.',
   },
   faqs: [
     {

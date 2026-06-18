@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Great Falls, VA | Flood Doctor`,
-    description: `Great Falls' trusted restoration for luxury estate guest houses, equestrian lodging, and exclusive residential communities. Discreet service near Great Falls Village and Seneca Estates. Call (877) 497-0007.`,
+    description: `Great Falls' local restoration for luxury estate guest houses, equestrian lodging, and exclusive residential communities. Discreet service near Great Falls Village and Seneca Estates. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Great Falls, Virginia`,
   introSection: {
@@ -22,7 +22,7 @@ Our approach treats each Great Falls property as the unique asset it is. We depl
     {
       title: `Immediate Property Assessment and Containment`,
       description: `When you call (877) 497-0007, our estate response team deploys immediately. We coordinate with estate managers or security personnel for property access, assess the full scope of water damage across affected structures, and install containment to protect ultra-luxury finishes from further exposure.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Estate Manager and Owner Communication Protocol`,
@@ -46,7 +46,7 @@ Our approach treats each Great Falls property as the unique asset it is. We depl
     },
     {
       title: `Restoration Completion and Craftsperson Coordination`,
-      description: `Structures are cleared individually as they meet dry standards. When custom finish replacement is needed, we coordinate with the original craftspeople, designers, and specialty suppliers to restore Great Falls properties to their pre-loss standard of excellence.`,
+      description: `Structures are cleared individually as they meet dry standards. When custom finish replacement is needed, we coordinate with the original craftspeople, designers, and specialty suppliers to restore Great Falls properties to their documented standard of excellence.`,
       timeframe: `Days 5-10`,
     },
   ],
@@ -137,7 +137,7 @@ Our approach treats each Great Falls property as the unique asset it is. We depl
       `Great Falls Park Area`,
       `River Bend Road`,
     ],
-    responseTime: `45-minute emergency response to all Great Falls estate and hospitality properties. Our teams coordinate with estate managers and security personnel for immediate property access and restoration mobilization.`,
+    responseTime: `prompt emergency response to all Great Falls estate and hospitality properties. Our teams coordinate with estate managers and security personnel for immediate property access and restoration mobilization.`,
   },
   faqs: [
     {
@@ -162,7 +162,7 @@ Our approach treats each Great Falls property as the unique asset it is. We depl
     },
     {
       question: `What is your response time for Great Falls estate emergencies?`,
-      answer: `We guarantee 45-minute response to Great Falls properties. Our estate teams coordinate with your manager or security for immediate access and arrive with premium equipment designed for ultra-luxury property restoration.`,
+      answer: `We provide prompt response to Great Falls properties. Our estate teams coordinate with your manager or security for immediate access and arrive with premium equipment designed for ultra-luxury property restoration.`,
     },
     {
       question: `How do you handle insurance on high-value estate properties?`,
@@ -179,6 +179,6 @@ Our approach treats each Great Falls property as the unique asset it is. We depl
   ],
   finalCTA: {
     headline: `Water Damage at Your Great Falls Estate?`,
-    paragraph: `Every hour of water exposure threatens custom finishes and irreplaceable materials. Our estate response team arrives within 45 minutes with premium equipment and the discretion your Great Falls property demands. Call (877) 497-0007 now.`,
+    paragraph: `Every hour of water exposure threatens custom finishes and irreplaceable materials. Our estate response team arrives as quickly as access and conditions allow with premium equipment and the discretion your Great Falls property demands. Call (877) 497-0007 now.`,
   },
 }

@@ -9,7 +9,7 @@ export const content: CityServiceContent = {
   introSection: {
     headline: 'Saving Belongings Across Reston Community Properties',
     paragraphs: [
-      `Reston residents have built their lives around the planned community — from townhome cluster neighborhoods where children walk to school along tree-lined paths to garden condos near Lake Anne Plaza where retirees have curated decades of memories. When water damage threatens the contents of these homes, the loss extends into daily community life. The photographs from South Lakes neighborhood gatherings, the outdoor equipment stored for W&OD Trail adventures, the home office that connects you to work while living the Reston lifestyle — every item tells a story of community belonging.
+      `Reston residents have built their lives around the planned community — from townhome cluster neighborhoods where children walk to school along tree-lined paths to garden condos near Lake Anne Plaza where retirees have curated decades of memories. When water damage threatens the contents of these homes, the loss extends into daily community life. The photographs from South Lakes neighborhood gatherings, the outdoor equipment stored for W&OD Trail adventures, the home workplace that connects you to work while living the Reston lifestyle — every item tells a story of community belonging.
 
 Flood Doctor's contents team has restored personal property from every housing type in Reston — freeze-drying water-damaged photo collections from Hunters Woods townhomes flooded when a shared party wall pipe burst, packing out garden condo units near Lake Anne where spring storms overwhelmed below-grade drainage, and carefully handling the accumulated possessions of North Point families whose basements flooded during summer thunderstorms. We navigate cluster parking, narrow townhome stairways, and garden-level access with the familiarity of a Reston neighbor.`,
       `The contents pack-out process in Reston adapts to each housing type. Townhome pack-outs require navigating narrow stairways and moving items through shared cluster pathways. Garden condo pack-outs may involve below-grade access with limited staging areas. Single-family home projects in wooded areas near Lake Fairfax Park offer more space but often involve larger volumes of basement-stored belongings accumulated over decades of Reston living.
@@ -21,7 +21,7 @@ Every item we handle is photographed, catalogued, and barcoded for tracking thro
   processSteps: [
     {
       title: 'Emergency Triage & Stabilization',
-      description: `Within 30 minutes of your call to (877) 497-0007, our team arrives to identify time-sensitive items. Water-soaked documents and photographs are bagged for freezing. Electronics are disconnected for corrosion prevention. Sentimental items stored in flooded basements and lower levels are prioritized for immediate handling.`,
+      description: `After your call to (877) 497-0007, our team identifies time-sensitive items. Water-soaked documents and photographs are bagged for freezing. Electronics are disconnected for corrosion prevention. Sentimental items stored in flooded basements and lower levels are prioritized for immediate handling.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -80,7 +80,7 @@ Every item we handle is photographed, catalogued, and barcoded for tracking thro
       },
       {
         name: 'Electronics Restoration',
-        purpose: 'Component-level cleaning for computers, home office equipment, and fitness electronics — corrosion treatment that saves devices within 48-72 hours',
+        purpose: 'Component-level cleaning for computers, home workplace equipment, and fitness electronics — corrosion treatment that saves devices within 48-72 hours',
       },
       {
         name: 'Textile Cleaning & Deodorization',
@@ -124,7 +124,7 @@ Every item we handle is photographed, catalogued, and barcoded for tracking thro
       'Polo Fields',
       'Glade',
     ],
-    responseTime: '30-minute emergency response for priority item stabilization throughout Reston. Full pack-out scheduling navigates cluster access and community parking logistics.',
+    responseTime: 'prompt emergency response for priority item stabilization throughout Reston. Full pack-out scheduling navigates cluster access and community parking logistics.',
   },
   faqs: [
     {
@@ -145,7 +145,7 @@ Every item we handle is photographed, catalogued, and barcoded for tracking thro
     },
     {
       question: 'Does insurance cover contents restoration in Reston?',
-      answer: 'Yes. Contents restoration is a standard covered expense under homeowner policies following covered loss events. For townhome owners, your individual HO-6 policy covers personal property. We handle documentation and direct billing with your carrier.',
+      answer: 'Yes. Contents restoration is a standard covered expense under homeowner policies following covered loss events. For townhome owners, your individual HO-6 policy covers personal property. We handle documentation and insurance documentation and coordination with your carrier.',
     },
     {
       question: 'How long will my belongings be stored?',
@@ -158,6 +158,6 @@ Every item we handle is photographed, catalogued, and barcoded for tracking thro
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Reston Home?',
-    paragraph: 'Every hour of water exposure damages documents, photographs, and electronics that connect your family to years of Reston community life. Our contents team responds within 30 minutes to stabilize what matters most. Call (877) 497-0007 now.',
+    paragraph: 'Every hour of water exposure damages documents, photographs, and electronics that connect your family to years of Reston community life. Our contents team responds as quickly as access and conditions allow to stabilize what matters most. Call (877) 497-0007 now.',
   },
 }

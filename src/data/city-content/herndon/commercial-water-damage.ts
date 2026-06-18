@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Herndon, VA | Flood Doctor',
-    description: `Herndon commercial water damage restoration. Data center corridor expertise, downtown offices & Worldgate commercial properties. Rapid response. Call (877) 497-0007.`,
+    description: `Herndon commercial water damage restoration. Data center corridor experience, downtown workplaces & Worldgate commercial properties. Rapid response. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Herndon, Virginia',
   introSection: {
     headline: `Data Center Corridor Commercial Water Damage Specialists in Herndon`,
     paragraphs: [
-      `Herndon occupies a unique position in Northern Virginia's commercial landscape—straddling the data center corridor along the Dulles Toll Road while maintaining a charming downtown business district centered on Herndon Town Green. This dual identity creates commercial water damage scenarios ranging from mission-critical data center emergencies where every second of water exposure threatens millions in equipment, to downtown professional office and retail flooding where the community-focused business district needs rapid restoration to maintain its small-town vitality. Each scenario demands different technical approaches, but both require the fast, competent commercial response that Herndon's business community expects.
+      `Herndon occupies a unique position in Northern Virginia's commercial landscape—straddling the data center corridor along the Dulles Toll Road while maintaining a charming downtown business district centered on Herndon Town Green. This dual identity creates commercial water damage scenarios ranging from mission-critical data center emergencies where every second of water exposure threatens millions in equipment, to downtown professional workplace and retail flooding where the community-focused business district needs rapid restoration to maintain its small-town vitality. Each scenario demands different technical approaches, but both require the fast, competent commercial response that Herndon's business community expects.
 
-Flood Doctor's commercial division has restored water-damaged commercial properties throughout Herndon's varied business landscape. We've managed emergency responses at data center support facilities near Dulles Airport, dried flooded professional offices in the Worldgate Centre area, and restored water damage in Downtown Herndon retail and restaurant spaces—deploying the technical range from mission-critical IT protection to community-oriented business restoration.`,
+Flood Doctor's commercial division has restored water-damaged commercial properties throughout Herndon's varied business landscape. We've managed emergency responses at data center support facilities near Dulles Airport, dried flooded professional workplaces in the Worldgate Centre area, and restored water damage in Downtown Herndon retail and restaurant spaces—deploying the technical range from mission-critical IT protection to community-oriented business restoration.`,
       `Herndon's commercial water damage challenges stem from both its infrastructure age and its industry concentration. Downtown Herndon's older commercial buildings contain aging plumbing and roofing that produce increasing water damage events as systems deteriorate. The data center corridor's critical facilities depend on sophisticated cooling systems—chilled water loops, CRAC units, and condensate drainage networks—where any water release threatens catastrophic equipment damage. And the Fox Mill and Franklin Farm business areas house technology companies and government contractors whose server rooms and IT infrastructure require immediate protection protocols when water is detected.
 
-Our IICRC-certified commercial teams bring the technical spectrum Herndon requires. We deploy with anti-corrosion treatments for IT equipment protection, industrial extraction for commercial floor flooding, and the building system knowledge to interface with the sophisticated mechanical systems in data center corridor properties—all with response times calibrated for a market where minutes can determine millions in damage.`,
+Our trained commercial teams bring the technical spectrum Herndon requires. We deploy with anti-corrosion treatments for IT equipment protection, industrial extraction for commercial floor flooding, and the building system knowledge to interface with the sophisticated mechanical systems in data center corridor properties—all with response times calibrated for a market where minutes can determine millions in damage.`,
     ],
-    localContext: `Herndon's data center corridor concentration alongside its charming downtown business district creates a commercial water damage market requiring both mission-critical IT protection capability and community-oriented commercial restoration expertise in a single response team.`,
+    localContext: `Herndon's data center corridor concentration alongside its charming downtown business district creates a commercial water damage market requiring both mission-critical IT protection capability and community-oriented commercial restoration experience in a single response team.`,
   },
   processSteps: [
     {
       title: 'Mission-Critical Commercial Dispatch',
       description: `Call (877) 497-0007 for immediate response. Our Herndon crews carry both IT protection equipment for data center corridor emergencies and standard commercial restoration capability for Downtown Herndon and Worldgate area businesses.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Prioritized Damage Assessment',
@@ -36,7 +36,7 @@ Our IICRC-certified commercial teams bring the technical spectrum Herndon requir
     },
     {
       title: 'Controlled Commercial Drying',
-      description: 'Drying equipment deploys with attention to the specific environment—controlled humidity for server rooms, standard commercial protocols for office and retail spaces, and material-specific parameters for the building type present.',
+      description: 'Drying equipment deploys with attention to the specific environment—controlled humidity for server rooms, standard commercial protocols for workplace and retail spaces, and material-specific parameters for the building type present.',
       timeframe: 'Hours 6-24',
     },
     {
@@ -68,7 +68,7 @@ Our IICRC-certified commercial teams bring the technical spectrum Herndon requir
     },
     {
       title: 'Worldgate and Franklin Farm Office Park Challenges',
-      description: 'The Worldgate Centre and Franklin Farm business areas house multi-tenant office buildings where water from one suite migrates through shared ceiling plenums and wall assemblies into adjacent businesses—each with separate insurance and operational concerns.',
+      description: 'The Worldgate Centre and Franklin Farm business areas house multi-tenant commercial buildings where water from one suite migrates through shared ceiling plenums and wall assemblies into adjacent businesses—each with separate insurance and operational concerns.',
       solution: 'We trace water migration through shared building systems using thermal imaging, establish individual scopes for each affected tenant, and coordinate the multi-tenant restoration as a single managed project with separate insurance documentation for each business.',
     },
   ],
@@ -81,7 +81,7 @@ Our IICRC-certified commercial teams bring the technical spectrum Herndon requir
       },
       {
         name: 'Truck-Mounted Extraction Systems',
-        purpose: 'Industrial water removal from commercial office spaces, retail environments, and warehouse facilities',
+        purpose: 'Industrial water removal from commercial workplace spaces, retail environments, and warehouse facilities',
         brand: 'Prochem',
       },
       {
@@ -90,7 +90,7 @@ Our IICRC-certified commercial teams bring the technical spectrum Herndon requir
       },
       {
         name: 'Commercial Dehumidifiers',
-        purpose: 'Industrial-capacity moisture removal for standard commercial office and retail environments',
+        purpose: 'Industrial-capacity moisture removal for standard commercial workplace and retail environments',
         brand: 'Dri-Eaz',
       },
       {
@@ -107,15 +107,15 @@ Our IICRC-certified commercial teams bring the technical spectrum Herndon requir
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Herndon',
-    intro: 'Herndon commercial restoration costs vary significantly between data center corridor IT emergencies and standard commercial office flooding. IT infrastructure protection carries specialized costs but prevents equipment losses that dwarf restoration expenses. We provide detailed estimates for commercial carriers with documentation appropriate to each property type.',
+    intro: 'Herndon commercial restoration costs vary significantly between data center corridor IT emergencies and standard commercial workplace flooding. IT infrastructure protection carries specialized costs but prevents equipment losses that dwarf restoration expenses. We provide detailed estimates for commercial carriers with documentation appropriate to each property type.',
     factors: [
       'IT infrastructure exposure—anti-corrosion treatment, controlled drying, and environmental monitoring for data center properties add specialized scope',
-      'Property type—data center corridor facilities, Worldgate offices, and Downtown Herndon retail each carry different restoration profiles',
-      'Multi-tenant coordination—each affected business in shared office buildings requires individual scope documentation and insurance claims',
+      'Property type—data center corridor facilities, Worldgate workplaces, and Downtown Herndon retail each carry different restoration profiles',
+      'Multi-tenant coordination—each affected business in shared commercial buildings requires individual scope documentation and insurance claims',
       'Turnaround urgency—vacant commercial spaces and data center environments may justify accelerated schedules at premium rates',
       'Building infrastructure condition—aging Downtown Herndon systems may reveal additional scope during restoration assessment',
     ],
-    cta: `Call (877) 497-0007 for immediate commercial assessment. Whether your emergency involves server room water exposure or downtown office flooding, our Herndon team deploys with the right capability for your situation.`,
+    cta: `Call (877) 497-0007 for immediate commercial assessment. Whether your emergency involves server room water exposure or downtown workplace flooding, our Herndon team deploys with the right capability for your situation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -133,16 +133,16 @@ Our IICRC-certified commercial teams bring the technical spectrum Herndon requir
       'Herndon Parkway Corridor',
       'Sterling-Herndon Border Area',
     ],
-    responseTime: '30-minute response to data center corridor emergencies. 45-minute response to all other Herndon commercial properties. Crews positioned throughout the Dulles Toll Road corridor and Downtown Herndon.',
+    responseTime: 'prompt response to data center corridor emergencies. prompt response to all other Herndon commercial properties. Crews available throughout the Dulles Toll Road corridor and Downtown Herndon.',
   },
   faqs: [
     {
       question: 'How quickly can you respond to water near our server room or data center?',
-      answer: 'We maintain priority response capability for IT infrastructure emergencies. Crews deploy within 30 minutes to Herndon data center corridor properties with anti-corrosion treatments and environmental control equipment. Call (877) 497-0007 immediately—minutes matter for electronics.',
+      answer: 'We maintain priority response capability for IT infrastructure emergencies. Crews deploy as quickly as access and conditions allow to Herndon data center corridor properties with anti-corrosion treatments and environmental control equipment. Call (877) 497-0007 immediately—minutes matter for electronics.',
     },
     {
-      question: 'What about standard office water damage in Downtown Herndon?',
-      answer: 'We handle all commercial water damage with the same professional approach. Downtown Herndon offices receive industrial extraction, commercial drying, and full insurance documentation. Our crews carry equipment for both IT emergencies and standard commercial restoration.',
+      question: 'What about standard workplace water damage in Downtown Herndon?',
+      answer: 'We handle all commercial water damage with the same professional approach. Downtown Herndon workplaces receive industrial extraction, commercial drying, and full insurance documentation. Our crews carry equipment for both IT emergencies and standard commercial restoration.',
     },
     {
       question: 'Can you protect our IT equipment from corrosion damage?',

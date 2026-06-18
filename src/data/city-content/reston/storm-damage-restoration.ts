@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When severe weather crosses Fairfax County, Reston's integration with natural areas creates compound damage scenarios. The mature trees along the 55+ miles of pathways can drop limbs onto roofs, crash through fences, or topple onto the power lines that serve cluster housing. Add wind-driven rain, hail damage, and overwhelmed stormwater systems, and a single storm can create multiple damage types across Reston's diverse housing stock.
 
-Flood Doctor responds to storm damage throughout Reston within 30 minutes of safe travel conditions. We've tarped roofs in Hunters Woods during active weather, extracted storm water from South Lakes basements, and coordinated tree removal with restoration at North Point properties. Storm damage requires rapid response to prevent secondary water damage—every hour a compromised roof leaks, restoration costs climb.`,
+Flood Doctor responds to storm damage throughout Reston as quickly as access and conditions allow of safe travel conditions. We've tarped roofs in Hunters Woods during active weather, extracted storm water from South Lakes basements, and coordinated tree removal with restoration at North Point properties. Storm damage requires rapid response to prevent secondary water damage—every hour a compromised roof leaks, restoration costs climb.`,
       `Reston's storm damage differs from typical suburban properties. Townhomes with shared roofs mean one unit's damage can affect neighbors. The pathway system's mature trees create debris impact risk throughout the community. Walkout basements facing natural areas receive concentrated runoff during heavy storms.
 
 We coordinate all aspects of storm restoration: emergency tarping, water extraction, structural drying, debris removal coordination, and insurance documentation. One call handles everything—from the moment the storm passes until your planned community home is restored.`,
@@ -21,8 +21,8 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: 'Call (877) 497-0007 as soon as safely possible after storm damage. We dispatch crews throughout Reston when severe weather clears, reaching Lake Anne, South Lakes, Hunters Woods, and North Point within our 30-minute guarantee.',
-      timeframe: '30 minutes after safe conditions',
+      description: 'Call (877) 497-0007 as soon as safely possible after storm damage. We dispatch crews throughout Reston when severe weather clears, reaching Lake Anne, South Lakes, Hunters Woods, and North Point as quickly as access and conditions allow.',
+      timeframe: 'After safe conditions',
     },
     {
       title: 'Damage Assessment & Emergency Tarping',
@@ -79,12 +79,12 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
       'Wainwright',
       'Polo Fields',
     ],
-    responseTime: '30-minute response as soon as conditions are safe. During severe weather events, we pre-position crews and equipment to respond immediately when storms clear. Reston receives priority response due to mature tree density and townhome complexity.',
+    responseTime: 'prompt response as soon as conditions are safe. During severe weather events, we prepare crews and equipment to respond immediately when storms clear. Reston receives priority response due to mature tree density and townhome complexity.',
   },
   faqs: [
     {
       question: 'When should I call after storm damage?',
-      answer: `Call immediately once it's safe. Even if you're not sure about damage extent, early assessment and emergency tarping prevent secondary water damage. We respond to Reston calls within 30 minutes of safe travel conditions—often while rain is still falling.`,
+      answer: `Call immediately once it's safe. Even if you're not sure about damage extent, early assessment and emergency tarping prevent secondary water damage. We respond to Reston calls as quickly as access and conditions allow of safe travel conditions—often while rain is still falling.`,
     },
     {
       question: 'A tree fell on my Reston townhome. What do I do?',

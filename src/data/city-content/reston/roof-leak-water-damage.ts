@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Reston, VA | Flood Doctor',
-    description: `Reston roof leak water damage specialists. Serving South Lakes, Lake Anne & Hunters Woods. Townhome cluster & garden condo expertise. RA compliant. Call (877) 497-0007.`,
+    description: `Reston roof leak water damage specialists. Serving South Lakes, Lake Anne & Hunters Woods. Townhome cluster & garden condo experience. RA compliant. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Reston, Virginia',
   introSection: {
@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Community-Coordinated Response',
-      description: `Call (877) 497-0007 and our crews respond within 30 minutes. For townhome clusters and garden condos, we begin HOA and management coordination simultaneously with dispatch. For single-family homes near South Lakes or Lake Fairfax Park, direct response begins immediately.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews respond as quickly as access and conditions allow. For townhome clusters and garden condos, we begin HOA and management coordination simultaneously with dispatch. For single-family homes near South Lakes or Lake Fairfax Park, direct response begins immediately.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Shared Roof Assessment & Tarping',
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Stuart Mill',
       'Dogwood area',
     ],
-    responseTime: '30-minute emergency response throughout Reston. HOA and association coordination begins on the phone so access is arranged before our crews arrive with community-appropriate equipment.',
+    responseTime: 'prompt emergency response throughout Reston. HOA and association coordination begins on the phone so access is arranged before our crews arrive with community-appropriate equipment.',
   },
   faqs: [
     {

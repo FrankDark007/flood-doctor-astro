@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Fire damage in a Great Falls estate creates devastation that extends far beyond the flames. The fire itself destroys what it touches—but smoke travels through every room of your 18,000-square-foot manor, coating surfaces with corrosive soot that continues damaging materials for weeks. The water firefighters use to extinguish the blaze soaks through floors and walls, creating secondary water damage throughout your property. Your wine cellar, your art collection, your irreplaceable antiques—all face threats from smoke, soot, and water even if flames never reached them.
 
-Flood Doctor has restored fire-damaged estates throughout Great Falls for nearly two decades. We've removed smoke from Forestville manors, extracted firefighting water from Seneca Estates properties, and protected art collections in homes along Georgetown Pike. When fire threatens your estate, we respond with restoration expertise scaled for the largest properties—and specialized protocols for the irreplaceable assets Great Falls homes contain.`,
+Flood Doctor has restored fire-damaged estates throughout Great Falls across the service area. We've removed smoke from Forestville manors, extracted firefighting water from Seneca Estates properties, and protected art collections in homes along Georgetown Pike. When fire threatens your estate, we respond with restoration experience scaled for the largest properties—and specialized protocols for the irreplaceable assets Great Falls homes contain.`,
       `Great Falls fire damage challenges compound in ways suburban fires don't. Your estate may have 12,000 square feet affected by smoke while only 500 square feet touched by flame. Firefighting water can cascade through multiple floors to your finished basement, soaking wine cellars and home theaters. Soot particles—microscopic and corrosive—penetrate HVAC systems that spread damage throughout your property.
 
-Our IICRC-certified fire restorers understand that Great Falls fire recovery means protecting what survived as urgently as addressing what burned. Your wine collection, your art, your custom millwork—all require immediate attention to prevent secondary damage from smoke, soot, and water.`,
+Our trained fire restorers understand that Great Falls fire recovery means protecting what survived as urgently as addressing what burned. Your wine collection, your art, your custom millwork—all require immediate attention to prevent secondary damage from smoke, soot, and water.`,
     ],
     localContext: 'Great Falls estates contain irreplaceable assets threatened by smoke and water long after flames are extinguished. We provide the specialized protection these properties require—from art handling to wine cellar stabilization to discrete, thorough restoration.',
   },
   processSteps: [
     {
       title: 'Immediate Post-Fire Response',
-      description: 'Once fire crews clear your property for entry, we respond immediately. Fire damage continues worsening after flames are out—soot etches into surfaces within hours, and firefighting water spreads throughout the structure. Our crews reach Great Falls properties within 30 minutes of clearance.',
-      timeframe: 'Within 30 minutes of clearance',
+      description: 'Once fire crews clear your property for entry, we respond immediately. Fire damage continues worsening after flames are out—soot etches into surfaces within hours, and firefighting water spreads throughout the structure. Our crews reach Great Falls properties as quickly as access and conditions allow of clearance.',
+      timeframe: 'After clearance',
     },
     {
       title: 'Comprehensive Damage Assessment',
@@ -127,7 +127,7 @@ Our IICRC-certified fire restorers understand that Great Falls fire recovery mea
   },
   pricingSection: {
     headline: 'Fire Damage Restoration Costs in Great Falls',
-    intro: 'Fire damage restoration pricing for Great Falls estates reflects the compound nature of the damage—fire, smoke, soot, and water all require different remediation approaches. We provide comprehensive assessments that address all damage types and provide itemized estimates before work begins. Fire claims for high-value properties are complex, and our detailed documentation supports complete coverage with both standard and specialty insurers.',
+    intro: 'Fire damage restoration pricing for Great Falls estates reflects the compound nature of the damage—fire, smoke, soot, and water all require different remediation approaches. We provide comprehensive assessments that address all damage types and provide itemized estimates before work begins. Fire claims for high-value properties are complex, and our detailed documentation supports well-documented claim review with both standard and specialty insurers.',
     factors: [
       'Fire damage scope—direct flame damage area versus smoke and soot distribution throughout the estate',
       'Smoke penetration extent—HVAC-distributed smoke can affect 20,000+ square feet even from a small fire',
@@ -137,7 +137,7 @@ Our IICRC-certified fire restorers understand that Great Falls fire recovery mea
       'Odor elimination scope and method—hydroxyl generation for art-safe environments versus thermal fogging for structural spaces',
       'Restoration coordination for custom millwork, plaster, and specialty finishes that require artisan-level repair',
     ],
-    cta: 'Call (877) 497-0007 as soon as fire crews clear your property for entry. We respond within 30 minutes to begin protecting your assets from ongoing smoke, soot, and water damage. Free assessment and insurance coordination included.',
+    cta: 'Call (877) 497-0007 as soon as fire crews clear your property for entry. We respond as quickly as access and conditions allow to begin protecting your assets from ongoing smoke, soot, and water damage. Free assessment and insurance coordination included.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -156,12 +156,12 @@ Our IICRC-certified fire restorers understand that Great Falls fire recovery mea
       'The Preserve',
       'Colvin Run',
     ],
-    responseTime: '30-minute response after fire department clearance to all Great Falls properties. Smoke and soot damage worsens every hour—we respond immediately to begin asset protection and prevent secondary damage. During large fire events, we pre-stage equipment for rapid deployment.',
+    responseTime: 'prompt response after fire department clearance to all Great Falls properties. Smoke and soot damage worsens every hour—we respond immediately to begin asset protection and prevent secondary damage. During large fire events, we pre-stage equipment for rapid deployment.',
   },
   faqs: [
     {
       question: 'How quickly can you respond after a fire in Great Falls?',
-      answer: 'We respond within 30 minutes of fire department clearance. Smoke and soot damage worsens hourly—the sooner we begin, the more we can save. Call (877) 497-0007 as soon as fire crews indicate the property is safe for entry, or even before for scheduling.',
+      answer: 'We respond as quickly as access and conditions allow of fire department clearance. Smoke and soot damage worsens hourly—the sooner we begin, the more we can save. Call (877) 497-0007 as soon as fire crews indicate the property is safe for entry, or even before for scheduling.',
     },
     {
       question: 'Can you protect my art collection after a fire?',
@@ -181,12 +181,12 @@ Our IICRC-certified fire restorers understand that Great Falls fire recovery mea
     },
     {
       question: 'Will you work with my insurance on fire damage claims?',
-      answer: 'Yes. Fire damage claims for Great Falls estates are often complex and high-value. We provide detailed documentation—room-by-room assessments, photographic evidence, material inventories—that supports complete coverage. Our experience with high-value claims helps ensure nothing is overlooked.',
+      answer: 'Yes. Fire damage claims for Great Falls estates are often complex and high-value. We provide detailed documentation—room-by-room assessments, photographic evidence, material inventories—that supports well-documented claim review. Our experience with high-value claims helps ensure nothing is overlooked.',
     },
   ],
   relatedBlogSlugs: ['water-damage-insurance-claim-guide', 'first-24-hours-after-water-damage'],
   finalCTA: {
     headline: 'Fire Damage at Your Great Falls Estate?',
-    paragraph: 'Smoke and soot continue damaging your property every hour after flames are out. Your art, wine, and irreplaceable assets need immediate protection. Our specialized teams respond within 30 minutes of fire department clearance.',
+    paragraph: 'Smoke and soot continue damaging your property every hour after flames are out. Your art, wine, and irreplaceable assets need immediate protection. Our specialized teams respond as quickly as access and conditions allow of fire department clearance.',
   },
 }

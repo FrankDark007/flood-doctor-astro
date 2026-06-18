@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Herndon, VA | Flood Doctor',
-    description: 'Herndon burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
+    description: 'Herndon burst pipe emergency response. prompt response for frozen pipes, supply line breaks & water main damage. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Cleanup in Herndon, Virginia',
   introSection: {
@@ -20,12 +20,12 @@ Herndon's townhome-dense neighborhoods — Worldgate, Franklin Farm, Herndon Sta
     {
       title: 'Multi-Unit Triage Dispatch',
       description: `When a townhome resident calls (877) 497-0007, dispatch probes for multi-unit involvement — which walls are wet, whether water appears on shared walls, whether neighbors have been contacted. Our crew arrives with thermal imaging and scans both sides of every party wall before demolition begins, determining whether we're dealing with a single-unit event or shared-wall failure affecting multiple properties.`,
-      timeframe: 'Within 30 minutes of call',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Source Isolation in Stacked Plumbing',
       description: `Identifying which unit's line failed determines insurance responsibility. We shut off the calling unit's supply, then check whether flow continues — if it does, the source is in the adjacent unit or shared infrastructure. Pressure testing on both sides confirms the failure point. We document the failed fitting's location relative to the property line with photographs and measurements adjusters need to assign responsibility.`,
-      timeframe: 'First 45 minutes on-site',
+      timeframe: 'Initial on-site actions',
     },
     {
       title: 'Party Wall Moisture Mapping',
@@ -74,7 +74,7 @@ Herndon's townhome-dense neighborhoods — Worldgate, Franklin Farm, Herndon Sta
       'Reflection Lake',
       'Woodland Park',
     ],
-    responseTime: '30-minute emergency response to all Herndon neighborhoods. Our crews carry thermal imaging and deep-wall moisture detection equipment on every truck, enabling immediate multi-unit assessment at townhome communities in Worldgate, Franklin Farm, Herndon Station, and McNair without waiting for specialized equipment to arrive separately.',
+    responseTime: 'prompt emergency response to all Herndon neighborhoods. Our crews carry thermal imaging and deep-wall moisture detection equipment on every truck, enabling immediate multi-unit assessment at townhome communities in Worldgate, Franklin Farm, Herndon Station, and McNair without waiting for specialized equipment to arrive separately.',
   },
   faqs: [
     {

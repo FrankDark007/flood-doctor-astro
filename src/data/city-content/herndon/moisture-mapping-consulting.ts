@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Herndon, VA | Flood Doctor',
-    description: `Herndon moisture mapping experts. Infrared thermography for townhomes, commercial properties & historic downtown buildings in Fox Mill, Franklin Farm & Worldgate. Call (877) 497-0007.`,
+    description: `Herndon moisture mapping specialists. Infrared thermography for townhomes, commercial properties & historic downtown buildings in Fox Mill, Franklin Farm & Worldgate. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Herndon, Virginia',
   introSection: {
     headline: `Professional Moisture Diagnostics for Herndon Residential and Commercial Properties`,
     paragraphs: [
       `Herndon sits at the intersection of residential neighborhoods, data center infrastructure, and a charming downtown district—each presenting distinct moisture mapping challenges. A Franklin Farm townhome where water from an upstairs bathroom has migrated through the subfloor into the unit below, a Fox Mill colonial with chronic basement dampness from aging foundation waterproofing, or a Worldgate Centre commercial space experiencing HVAC condensate accumulation in wall cavities—each requires scientific moisture diagnostics to quantify the problem and guide effective remediation. Flood Doctor provides FLIR infrared thermography, NIST-calibrated moisture instrumentation, and psychrometric analysis tailored to Herndon building types.`,
-      `Our consulting practice has documented moisture conditions in 1980s townhome developments along the W&OD Trail, mapped water migration patterns through commercial structures near Dulles Airport, and traced storm drain backup pathways into Downtown Herndon properties after heavy rain events. Herndon properties range from vintage downtown buildings with original infrastructure to newer construction in Floris and McNair with modern materials requiring different assessment approaches. Our IICRC-certified moisture consultants produce digital moisture maps that serve as restoration planning tools, insurance claim documentation, and evidentiary records when landlord-tenant disputes or commercial lease disagreements arise over water damage responsibility.`,
+      `Our consulting practice has documented moisture conditions in 1980s townhome developments along the W&OD Trail, mapped water migration patterns through commercial structures near Dulles Airport, and traced storm drain backup pathways into Downtown Herndon properties after heavy rain events. Herndon properties range from vintage downtown buildings with original infrastructure to newer construction in Floris and McNair with modern materials requiring different assessment approaches. Our trained moisture consultants produce digital moisture maps that serve as restoration planning tools, insurance claim documentation, and evidentiary records when landlord-tenant disputes or commercial lease disagreements arise over water damage responsibility.`,
     ],
     localContext: `Herndon combines residential townhome communities, commercial properties along the Dulles corridor, and a historic downtown core—each requiring adapted moisture assessment protocols and documentation approaches.`,
   },
@@ -49,8 +49,8 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Storm Drain Backup in Downtown Properties',
-      description: `Downtown Herndon properties near the Herndon Town Green experience storm drain surcharging during intense rainfall. Backflow through floor drains introduces contaminated water (Category 2 or 3 per IICRC S500) into lower-level commercial and residential spaces, affecting building materials that require classification-appropriate remediation.`,
-      solution: `Our assessment includes water classification determination alongside moisture mapping. We document which materials contacted contaminated water versus clean water migration, as IICRC standards require different remediation protocols for each category. This classification directly affects both the restoration scope and insurance coverage determination.`,
+      description: `Downtown Herndon properties near the Herndon Town Green experience storm drain surcharging during intense rainfall. Backflow through floor drains introduces contaminated water (Category 2 or 3 per industry-standard S500) into lower-level commercial and residential spaces, affecting building materials that require classification-appropriate remediation.`,
+      solution: `Our assessment includes water classification determination alongside moisture mapping. We document which materials contacted contaminated water versus clean water migration, as industry-standard restoration practices require different remediation protocols for each category. This classification directly affects both the restoration scope and insurance coverage determination.`,
     },
     {
       title: 'Older Infrastructure Plumbing Failures',
@@ -135,11 +135,11 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Do you provide moisture assessment for commercial properties in Herndon?',
-      answer: `Yes. We assess commercial office spaces, retail properties, and mixed-use buildings along the Dulles corridor and Worldgate area. Commercial assessments include documentation formatted for property management reporting, commercial insurance claims, and lease responsibility determinations.`,
+      answer: `Yes. We assess commercial workplace spaces, retail properties, and mixed-use buildings along the Dulles corridor and Worldgate area. Commercial assessments include documentation formatted for property management reporting, commercial insurance claims, and lease responsibility determinations.`,
     },
     {
       question: 'How do you handle storm drain backup water classification?',
-      answer: `We assess water category per IICRC S500 standards. Storm drain backup (typically Category 2 or 3) requires different remediation protocols than clean water from supply line failures. Our documentation distinguishes which materials contacted contaminated water, directly affecting the restoration scope and insurance coverage.`,
+      answer: `We assess water category per industry-standard S500 standards. Storm drain backup (typically Category 2 or 3) requires different remediation protocols than clean water from supply line failures. Our documentation distinguishes which materials contacted contaminated water, directly affecting the restoration scope and insurance coverage.`,
     },
     {
       question: 'What about slow leaks that have been going on for a long time?',

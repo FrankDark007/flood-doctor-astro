@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Herndon, VA | Flood Doctor',
-    description: `Herndon's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes and commercial properties in Downtown Herndon, Fox Mill & Franklin Farm. Call (877) 497-0007.`,
+    description: `Herndon's qualified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes and commercial properties in Downtown Herndon, Fox Mill & Franklin Farm. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Herndon, Virginia',
   introSection: {
-    headline: `Certified Environmental Testing for Herndon Residential and Commercial Properties`,
+    headline: `Qualified Environmental Testing for Herndon Residential and Commercial Properties`,
     paragraphs: [
       `Herndon\`s mix of 1970s-1990s residential neighborhoods and Dulles corridor commercial properties creates environmental testing demands spanning both household hazardous materials and commercial regulatory compliance. Downtown Herndon homes near the Town Green built in the 1970s contain asbestos floor tiles, pipe insulation, and textured ceiling materials. Fox Mill and Franklin Farm townhomes from the 1980s and 1990s present shared-wall moisture dynamics where water intrusion in one unit drives mold contamination into adjacent homes. Commercial properties near Worldgate Centre and along the Dulles corridor—including data center facilities requiring pristine environmental conditions—face OSHA and EPA compliance requirements for renovation, maintenance, and ongoing operations. Flood Doctor provides AIHA-accredited environmental testing for Herndon\`s full property spectrum—residential hazardous materials assessment, commercial compliance surveys, and data center environmental evaluation—with chain-of-custody protocols meeting both residential and commercial regulatory standards.`,
-      `Our certified inspectors have sampled asbestos in original pipe insulation in Downtown Herndon basements, identified lead paint on 1970s exterior siding in Fox Mill neighborhoods, quantified mold contamination in Franklin Farm townhomes following shared-wall plumbing failures, and conducted environmental compliance assessments for Dulles corridor commercial facilities near Dulles Airport. Herndon rental property investors managing tenant turnovers need rapid environmental clearance testing. Data center operators near the W&OD Trail require particulate and contamination monitoring that protects sensitive equipment. Downtown property owners renovating historic commercial spaces encounter legacy materials requiring regulatory-compliant identification and handling. Our testing protocols address each scenario with the appropriate sampling methodology, laboratory analysis, and reporting format.`,
+      `Our qualified inspectors have sampled asbestos in original pipe insulation in Downtown Herndon basements, identified lead paint on 1970s exterior siding in Fox Mill neighborhoods, quantified mold contamination in Franklin Farm townhomes following shared-wall plumbing failures, and conducted environmental compliance assessments for Dulles corridor commercial facilities near Dulles Airport. Herndon rental property investors managing tenant turnovers need rapid environmental clearance testing. Data center operators near the W&OD Trail require particulate and contamination monitoring that protects sensitive equipment. Downtown property owners renovating historic commercial spaces encounter legacy materials requiring regulatory-compliant identification and handling. Our testing protocols address each scenario with the appropriate sampling methodology, laboratory analysis, and reporting format.`,
     ],
     localContext: `Herndon\`s dual residential-commercial character combines 1970s-1990s suburban housing with legacy hazardous materials and Dulles corridor commercial properties requiring sophisticated environmental compliance testing and documentation.`,
   },
   processSteps: [
     {
       title: 'Property Classification and Testing Scope',
-      description: `Our certified inspector evaluates your Herndon property—residential home, townhome cluster, commercial office, or specialized facility—against construction date, materials, renovation scope, and applicable regulatory requirements. For commercial properties, we identify OSHA, EPA, and Virginia DEQ compliance obligations that shape the testing protocol.`,
+      description: `Our qualified inspector evaluates your Herndon property—residential home, townhome cluster, commercial workspace, or specialized facility—against construction date, materials, renovation scope, and applicable regulatory requirements. For commercial properties, we identify OSHA, EPA, and Virginia DEQ compliance obligations that shape the testing protocol.`,
       timeframe: 'Hours 1-2',
     },
     {
@@ -69,7 +69,7 @@ export const content: CityServiceContent = {
     },
   ],
   equipmentSection: {
-    headline: 'Certified Environmental Testing Equipment for Herndon Properties',
+    headline: 'Qualified Environmental Testing Equipment for Herndon Properties',
     equipment: [
       {
         name: 'Niton XL3t XRF Analyzer',
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
     headline: 'Environmental Testing Costs in Herndon',
     intro: `Herndon environmental testing costs reflect the property type, construction era, and regulatory complexity of the assessment. Residential home evaluations, townhome multi-unit assessments, and commercial facility surveys each require different protocols and documentation standards.`,
     factors: [
-      'Property type—single-family, townhome, commercial office, or specialized facility',
+      'Property type—single-family, townhome, commercial workspace, or specialized facility',
       'Construction era determining the range of suspect hazardous materials',
       'Number of asbestos and lead paint samples within the renovation or assessment scope',
       'Multi-unit shared-wall assessment spanning adjacent townhome properties',
@@ -143,7 +143,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Do you provide environmental testing for commercial properties in Herndon?',
-      answer: `Yes. Our commercial environmental assessments cover office buildings, data center facilities, and mixed-use properties throughout the Herndon and Dulles corridor area. We follow OSHA, EPA, and Virginia DEQ protocols, producing documentation that satisfies commercial regulatory requirements for renovation, demolition, and ongoing operations.`,
+      answer: `Yes. Our commercial environmental assessments cover commercial buildings, data center facilities, and mixed-use properties throughout the Herndon and Dulles corridor area. We follow OSHA, EPA, and Virginia DEQ protocols, producing documentation that satisfies commercial regulatory requirements for renovation, demolition, and ongoing operations.`,
     },
     {
       question: 'What environmental testing do data centers need?',
@@ -159,7 +159,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'What happens if asbestos is found in my Herndon home?',
-      answer: `Finding asbestos does not automatically mean removal is required. Undisturbed asbestos in good condition can often be managed in place. If your renovation will disturb the material, licensed abatement contractors remove it following specific protocols before your renovation proceeds. Our report documents the material, its condition, and the applicable regulatory requirements.`,
+      answer: `Finding asbestos does not automatically mean removal is required. Undisturbed asbestos in good condition can often be managed in place. If your renovation will disturb the material, qualified abatement contractors remove it following specific protocols before your renovation proceeds. Our report documents the material, its condition, and the applicable regulatory requirements.`,
     },
   ],
   relatedBlogSlugs: [
@@ -168,6 +168,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Testing for Your Herndon Property?',
-    paragraph: `Certified environmental assessment for residential homes, townhome communities, and Dulles corridor commercial properties. AIHA-accredited laboratory analysis with chain-of-custody documentation. Call (877) 497-0007 for a consultation.`,
+    paragraph: `Qualified environmental assessment for residential homes, townhome communities, and Dulles corridor commercial properties. AIHA-accredited laboratory analysis with chain-of-custody documentation. Call (877) 497-0007 for a consultation.`,
   },
 }

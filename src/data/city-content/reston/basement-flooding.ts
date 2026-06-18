@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Reston, VA | Flood Doctor',
-    description: 'Reston basement flooding specialists. Lake-adjacent property expertise, groundwater intrusion solutions, wooded lot moisture control. 24/7 emergency response. (877) 497-0007',
+    description: 'Reston basement flooding specialists. Lake-adjacent property experience, groundwater intrusion solutions, wooded lot moisture control. 24/7 emergency response. (877) 497-0007',
   },
   h1: 'Basement Flooding Restoration in Reston, Virginia',
   introSection: {
@@ -14,20 +14,20 @@ export const content: CityServiceContent = {
 Flood Doctor has restored flooded basements throughout Reston's neighborhoods for years. We've extracted thousands of gallons from South Lakes finished basements during spring floods, dried Lake Anne properties affected by seasonal water table fluctuations, and addressed wooded lot moisture intrusion in Hunters Woods clusters. When your North Point neighbor's sump pump fails during a weekend storm, they call us—because we understand the specific flooding patterns affecting each Reston neighborhood.`,
       `Reston's diverse basement types require different restoration approaches. The finished lower levels in South Lakes single-family homes—complete with rec rooms, guest bedrooms, and full bathrooms—demand careful material protection during drying. Garden-style condo clusters in Hunters Woods have below-grade storage areas shared between units, requiring coordination with your HOA. The high-rise buildings near Reston Town Center feature underground parking and mechanical rooms where flooding affects entire building systems, not just individual units.
 
-Our IICRC-certified crews don't just pump water and leave. We identify why your basement flooded—failed sump pump, overwhelmed perimeter drainage, groundwater intrusion, or surface water infiltration—then address both the immediate damage and prevent recurrence. Your Lake Anne village townhome requires different expertise than a South Lakes detached home on a wooded lot, and we deliver both with equal proficiency.`,
+Our trained crews don't just pump water and leave. We identify why your basement flooded—failed sump pump, overwhelmed perimeter drainage, groundwater intrusion, or surface water infiltration—then address both the immediate damage and prevent recurrence. Your Lake Anne village townhome requires different experience than a South Lakes detached home on a wooded lot, and we deliver both with equal proficiency.`,
     ],
     localContext: `Reston's lakefront properties, wooded lots, and planned drainage systems create unique basement flooding patterns. We've mastered restoration for every scenario: seasonal lake area groundwater rises, wooded lot persistent moisture, cluster drainage failures, and sump pump emergencies.`,
   },
   processSteps: [
     {
       title: 'Emergency Response to Flooded Basements',
-      description: 'When you discover basement flooding and call (877) 497-0007, our crews dispatch immediately. We reach South Lakes, Hunters Woods, and Lake Anne properties within 45 minutes with truck-mounted extraction equipment sized for complete basement flooding—not just residential shop-vacs that take hours to remove standing water.',
-      timeframe: 'Within 45 minutes',
+      description: 'When you discover basement flooding and call (877) 497-0007, our crews dispatch immediately. We reach South Lakes, Hunters Woods, and Lake Anne properties as quickly as access and conditions allow with truck-mounted extraction equipment sized for complete basement flooding—not just residential shop-vacs that take hours to remove standing water.',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Water Source Identification',
       description: 'Before extraction begins, we identify the flooding source. Lake-adjacent properties experience groundwater intrusion from seasonal water table rises. Wooded lot homes face saturated soil seepage. Cluster townhomes may have shared drainage system failures. Each cause requires different long-term solutions.',
-      timeframe: 'First 30 minutes',
+      timeframe: 'Initial on-site actions',
     },
     {
       title: 'Complete Water Extraction',
@@ -117,7 +117,7 @@ Our IICRC-certified crews don't just pump water and leave. We identify why your 
   },
   pricingSection: {
     headline: 'Basement Flooding Restoration Costs in Reston',
-    intro: 'Reston basement flooding costs vary based on water volume, affected square footage, and material damage. Lakefront properties experiencing seasonal groundwater intrusion may need ongoing solutions beyond initial drying. We provide free assessments and detailed estimates before work begins. Most homeowners file insurance claims—we handle direct billing with all carriers.',
+    intro: 'Reston basement flooding costs vary based on water volume, affected square footage, and material damage. Lakefront properties experiencing seasonal groundwater intrusion may need ongoing solutions beyond initial drying. We provide free assessments and detailed estimates before work begins. Most homeowners file insurance claims—we handle insurance documentation and coordination.',
     factors: [
       'Flooded square footage—finished basements with multiple rooms cost more than unfinished storage areas',
       'Water volume—inches versus feet of standing water affects extraction time and equipment requirements',
@@ -145,7 +145,7 @@ Our IICRC-certified crews don't just pump water and leave. We identify why your 
       'Station Square',
       'Fairway Apartments',
     ],
-    responseTime: '45-minute emergency response to all Reston neighborhoods. Our crews are positioned throughout the area for immediate dispatch when you discover basement flooding—day or night, weekday or weekend.',
+    responseTime: 'prompt emergency response to all Reston neighborhoods. Our crews are available throughout the area for immediate dispatch when you discover basement flooding—day or night, weekday or weekend.',
   },
   faqs: [
     {
@@ -154,7 +154,7 @@ Our IICRC-certified crews don't just pump water and leave. We identify why your 
     },
     {
       question: 'Can you save carpet and drywall after basement flooding?',
-      answer: 'It depends on water category and saturation duration. Clean water from sump failures can often be dried if we respond within 24-48 hours. Sewage-contaminated water requires material removal. We assess each situation individually and recommend the safest, most cost-effective approach based on IICRC standards.',
+      answer: 'It depends on water category and saturation duration. Clean water from sump failures can often be dried if we respond within 24-48 hours. Sewage-contaminated water requires material removal. We assess each situation individually and recommend the safest, most cost-effective approach based on industry-standard restoration practices.',
     },
     {
       question: 'What if my sump pump failed and caused the flooding?',

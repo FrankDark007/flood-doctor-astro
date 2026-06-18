@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Reston, VA | Flood Doctor',
-    description: 'Reston burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
+    description: 'Reston burst pipe emergency response. prompt response for frozen pipes, supply line breaks & water main damage. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Cleanup in Reston, Virginia',
   introSection: {
     headline: 'Emergency Burst Pipe Response for Reston Homes',
     paragraphs: [
-      `A burst pipe releases 400-600 gallons of water per hour into your Reston home. Within the time it takes to drive home from the Wiehle-Reston East Metro, a failed supply line can flood your entire lower level. In a townhome, that water travels through party walls to your neighbors' units. The finished basement where your family gathers, the home office where you work remotely—underwater because of a quarter-inch crack in a copper line.
+      `A burst pipe releases 400-600 gallons of water per hour into your Reston home. Within the time it takes to drive home from the Wiehle-Reston East Metro, a failed supply line can flood your entire lower level. In a townhome, that water travels through party walls to your neighbors' units. The finished basement where your family gathers, the home workplace where you work remotely—underwater because of a quarter-inch crack in a copper line.
 
-Flood Doctor has responded to burst pipe emergencies throughout Reston for nearly two decades. We've extracted water from Lake Anne Village townhomes at 3 AM, dried the walkout basements of North Point colonials after supply line failures, and restored Hunters Woods properties following winter freeze damage. When pipes burst in Reston—and they burst every winter—our crews are positioned within minutes of your door.`,
+Flood Doctor has responded to burst pipe emergencies throughout Reston across the service area. We support Lake Anne Village townhomes, North Point colonials, and Hunters Woods properties with service-area response for supply-line failures and winter freeze damage. When pipes burst in Reston—and they burst every winter—our crews are available available for service-area response.`,
       `Reston's pipe failures follow predictable patterns. Winter freezes catch exterior hose bibs, attic supply lines, and the pipes in unheated spaces of townhome construction. Summer brings pressurized supply line failures, often inside wall cavities where they flood for hours before detection. The original Lake Anne Village and Hickory Cluster properties—built in the 1960s—have aging copper and galvanized plumbing that fails more frequently than modern PEX systems.
 
 We coordinate water shutoff, extract standing water, and begin drying before a plumber even arrives. In Reston's townhomes, we also assess party walls for moisture migration—because your pipe burst could become your neighbor's mold problem.`,
@@ -22,12 +22,12 @@ We coordinate water shutoff, extract standing water, and begin drying before a p
     {
       title: '30-Minute Emergency Dispatch',
       description: `Call (877) 497-0007 and describe the situation. We'll guide you to shut off your main water supply if you haven't already—stopping the source before we arrive. Our crews dispatch immediately from positions throughout the Reston corridor.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Source Identification & Shutoff Verification',
       description: `We confirm water shutoff, identify the burst location, and assess the full scope of water migration. In Reston's multi-level homes and townhomes, water from a second-floor bathroom can affect the basement—and in cluster housing, possibly the neighbor's basement too.`,
-      timeframe: 'First 30 minutes on-site',
+      timeframe: 'Initial on-site actions',
     },
     {
       title: 'Rapid Water Extraction',
@@ -78,7 +78,7 @@ We coordinate water shutoff, extract standing water, and begin drying before a p
       'Wainwright',
       'Polo Fields',
     ],
-    responseTime: '30-minute emergency response to all Reston neighborhoods. During winter freeze events, we pre-position additional crews to handle the surge in burst pipe calls throughout Lake Anne, South Lakes, and Hunters Woods.',
+    responseTime: 'prompt emergency response to all Reston neighborhoods. During winter freeze events, we prepare additional crews to handle the surge in burst pipe calls throughout Lake Anne, South Lakes, and Hunters Woods.',
   },
   faqs: [
     {
@@ -113,6 +113,6 @@ We coordinate water shutoff, extract standing water, and begin drying before a p
   ],
   finalCTA: {
     headline: 'Burst Pipe in Reston?',
-    paragraph: `Every minute of water flow means more damage—and in Reston's townhomes, potential damage to neighbors' homes. Shut off the water and call immediately—we're positioned throughout Reston for 30-minute emergency response.`,
+    paragraph: `Every minute of water flow means more damage—and in Reston's townhomes, potential damage to neighbors' homes. Shut off the water and call immediately—we're available throughout Reston for prompt emergency response.`,
   },
 }

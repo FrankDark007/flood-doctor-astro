@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Tysons, VA | Flood Doctor',
-    description: `Tysons large loss restoration for Class A office towers, mixed-use developments & commercial campuses. Multi-million dollar project management. Call (877) 497-0007.`,
+    description: `Tysons large loss restoration for Class A workplace towers, mixed-use developments & commercial campuses. Multi-million dollar project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Tysons, Virginia',
   introSection: {
@@ -68,7 +68,7 @@ Our project directors bring commercial construction management credentials to ev
     },
     {
       title: 'Class A Specification Reconstruction Procurement',
-      description: 'Reconstructing Tysons Class A office space requires materials and subcontractors matching the original premium specifications—specific stone finishes, proprietary ceiling systems, custom metalwork, and specialty mechanical equipment. These items carry extended lead times that can drive project duration.',
+      description: 'Reconstructing Tysons Class A workplace space requires materials and subcontractors matching the original premium specifications—specific stone finishes, proprietary ceiling systems, custom metalwork, and specialty mechanical equipment. These items carry extended lead times that can drive project duration.',
       solution: 'We identify specification-critical items during initial assessment and begin procurement immediately, often before demolition is complete. Long-lead items are ordered in parallel with ongoing mitigation, and our construction team maintains relationships with the specialty suppliers and subcontractors who serve the Tysons Class A market.',
     },
   ],
@@ -132,7 +132,7 @@ Our project directors bring commercial construction management credentials to ev
       'Spring Hill Metro Area',
       'Greensboro Metro Area',
     ],
-    responseTime: 'Emergency stabilization within 45 minutes to Tysons commercial properties. Full large loss mobilization including building system specialists scales within 8-12 hours for tower-scale events.',
+    responseTime: 'Emergency stabilization as quickly as access and conditions allow to Tysons commercial properties. Full large loss mobilization including building system specialists scales within 8-12 hours for tower-scale events.',
   },
   faqs: [
     {

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Tysons, VA | Flood Doctor',
-    description: `Tysons roof leak water damage specialists. Serving Tysons Corner, The Boro & Scotts Run. High-rise, new construction & modern building expertise. Call (877) 497-0007.`,
+    description: `Tysons roof leak water damage specialists. Serving Tysons Corner, The Boro & Scotts Run. High-rise, new construction & modern building experience. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Tysons, Virginia',
   introSection: {
@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Building-Coordinated Response',
-      description: `Call (877) 497-0007 and we respond within 30 minutes. For Tysons high-rise and mid-rise buildings, we coordinate with building management for roof access and freight elevator availability. For single-family homes in Scotts Run, direct roof access begins immediately.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and we respond as quickly as access and conditions allow. For Tysons high-rise and mid-rise buildings, we coordinate with building management for roof access and freight elevator availability. For single-family homes in Scotts Run, direct roof access begins immediately.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Roof System Assessment & Tarping',
@@ -124,7 +124,7 @@ export const content: CityServiceContent = {
       'Westgate',
       'Lemon Road area',
     ],
-    responseTime: '30-minute emergency response to all Tysons residential properties. Building management coordination begins on the phone so roof and unit access are arranged before crews arrive.',
+    responseTime: 'prompt emergency response to all Tysons residential properties. Building management coordination begins on the phone so roof and unit access are arranged before crews arrive.',
   },
   faqs: [
     {

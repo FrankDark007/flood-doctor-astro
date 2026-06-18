@@ -3,18 +3,18 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Tysons, VA | Flood Doctor',
-    description: `Tysons commercial flood cleanup. High-rise office towers, underground parking & mixed-use developments near Tysons Corner Center, Capital One HQ & The Boro. Call (877) 497-0007.`,
+    description: `Tysons commercial flood cleanup. High-rise workplace towers, underground parking & mixed-use developments near Tysons Corner Center, Capital One HQ & The Boro. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Tysons, Virginia',
   introSection: {
     headline: `Industrial-Scale Flood Response for Tysons' Modern Commercial Core`,
     paragraphs: [
-      `Tysons' dense commercial core concentrates more high-value commercial real estate per square mile than anywhere else in Northern Virginia—and that concentration means flood events here carry outsized financial impact. When a domestic water riser catastrophically fails in a Tysons Central tower, sending water cascading through twenty floors of Class A office space, or when a severe storm overwhelms the underground parking drainage at The Boro, flooding a mixed-use development's mechanical infrastructure, the business interruption losses accumulate at thousands of dollars per hour across dozens of affected tenants. These events demand immediate industrial-scale response with technical sophistication matching the buildings themselves.
+      `Tysons' dense commercial core concentrates more high-value commercial real estate per square mile than anywhere else in Northern Virginia—and that concentration means flood events here carry outsized financial impact. When a domestic water riser catastrophically fails in a Tysons Central tower, sending water cascading through twenty floors of Class A workplace space, or when a severe storm overwhelms the underground parking drainage at The Boro, flooding a mixed-use development's mechanical infrastructure, the business interruption losses accumulate at thousands of dollars per hour across dozens of affected tenants. These events demand immediate industrial-scale response with technical sophistication matching the buildings themselves.
 
-Flood Doctor's commercial flood division has managed major flooding events throughout Tysons' urban core. We've pumped out flooded parking structures beneath Tysons Corner Center-area towers, cleaned up catastrophic sprinkler activations in Scotts Run office buildings, and restored flood damage in The Mile mixed-use properties—deploying industrial capacity with the modern building system knowledge that Tysons' commercial environment requires.`,
-      `The flood risks confronting Tysons commercial properties are amplified by the area's rapid urban development and vertical density. Underground parking structures beneath virtually every major building create below-grade spaces vulnerable to both storm flooding and internal system failures. The ongoing transformation from suburban office park to urban mixed-use environment has created transitional drainage challenges as new construction alters established water flow patterns. And the sheer density of interconnected building systems—domestic water, chiller loops, fire suppression, storm drainage—in Tysons' towers means that a single system failure produces cascading effects across multiple floors and systems.
+Flood Doctor's commercial flood division has managed major flooding events throughout Tysons' urban core. We've pumped out flooded parking structures beneath Tysons Corner Center-area towers, cleaned up catastrophic sprinkler activations in Scotts Run commercial buildings, and restored flood damage in The Mile mixed-use properties—deploying industrial capacity with the modern building system knowledge that Tysons' commercial environment requires.`,
+      `The flood risks confronting Tysons commercial properties are amplified by the area's rapid urban development and vertical density. Underground parking structures beneath virtually every major building create below-grade spaces vulnerable to both storm flooding and internal system failures. The ongoing transformation from suburban business park to urban mixed-use environment has created transitional drainage challenges as new construction alters established water flow patterns. And the sheer density of interconnected building systems—domestic water, chiller loops, fire suppression, storm drainage—in Tysons' towers means that a single system failure produces cascading effects across multiple floors and systems.
 
-Our commercial flood teams deploy with the equipment and expertise calibrated for this environment: submersible pumps for underground structure extraction, multi-floor drying systems for simultaneous deployment across affected levels, and contamination assessment capability for mixed-source flooding that combines storm water, mechanical system water, and potentially contaminated parking structure runoff.`,
+Our commercial flood teams deploy with the equipment and experience calibrated for this environment: submersible pumps for underground structure extraction, multi-floor drying systems for simultaneous deployment across affected levels, and contamination assessment capability for mixed-source flooding that combines storm water, mechanical system water, and potentially contaminated parking structure runoff.`,
     ],
     localContext: `Tysons' vertical commercial density, extensive underground infrastructure, and ongoing urban transformation create concentrated flood exposure where industrial-scale extraction, modern building system knowledge, and multi-floor logistics must converge in a single response team.`,
   },
@@ -22,7 +22,7 @@ Our commercial flood teams deploy with the equipment and expertise calibrated fo
     {
       title: 'Rapid Urban Core Deployment',
       description: `Call (877) 497-0007 for immediate flood response. Our Tysons crews maintain staging positions throughout the urban core with industrial extraction and high-rise deployment equipment for immediate mobilization to any Tysons commercial property.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Building System Source Identification',
@@ -68,7 +68,7 @@ Our commercial flood teams deploy with the equipment and expertise calibrated fo
     },
     {
       title: 'Tenant Density and Business Interruption Scale',
-      description: 'A single Tysons office tower may house 30+ tenants employing thousands of workers. Major flood events displace entire floors of businesses simultaneously, generating aggregate business interruption losses that dwarf the physical damage costs and creating pressure for the fastest possible restoration.',
+      description: 'A single Tysons workplace tower may house 30+ tenants employing thousands of workers. Major flood events displace entire floors of businesses simultaneously, generating aggregate business interruption losses that dwarf the physical damage costs and creating pressure for the fastest possible restoration.',
       solution: 'We prioritize tenant restoration based on business criticality and lease obligations, enabling phased return that puts the highest-impact tenants back first. Multi-shift operations and expanded crew deployment compress timelines when aggregate business interruption justifies the investment.',
     },
   ],
@@ -115,7 +115,7 @@ Our commercial flood teams deploy with the equipment and expertise calibrated fo
       'Building system complexity—modern mechanical system damage requires specialized assessment and repair beyond surface restoration',
       'Business interruption scale—aggregate revenue loss across dozens of tenants creates financial justification for accelerated restoration timelines',
     ],
-    cta: `Call (877) 497-0007 for immediate commercial flood response. Our Tysons team deploys with the urban-scale equipment and building system expertise this market demands.`,
+    cta: `Call (877) 497-0007 for immediate commercial flood response. Our Tysons team deploys with the urban-scale equipment and building system experience this market demands.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -134,7 +134,7 @@ Our commercial flood teams deploy with the equipment and expertise calibrated fo
       'Spring Hill Metro Area',
       'Greensboro Metro Area',
     ],
-    responseTime: '30-minute commercial flood response throughout the Tysons urban core. Industrial extraction and underground pumping equipment pre-positioned for immediate high-rise and parking structure deployment.',
+    responseTime: 'prompt commercial flood response throughout the Tysons urban core. Industrial extraction and underground pumping equipment made ready for immediate high-rise and parking structure deployment.',
   },
   faqs: [
     {
@@ -146,12 +146,12 @@ Our commercial flood teams deploy with the equipment and expertise calibrated fo
       answer: 'We deploy extraction simultaneously on all affected floors, working from top to bottom. Containment isolates unaffected tenants on each level. Building management system data helps map the full cascade path, and our thermal imaging traces hidden water migration through floor assemblies.',
     },
     {
-      question: 'What about flooding in a mixed-use building with offices, retail, and residential?',
+      question: 'What about flooding in a mixed-use building with workplaces, retail, and residential?',
       answer: 'We manage the integrated restoration while maintaining separate scopes and documentation for each use type. Different insurance structures, regulatory requirements, and operational priorities are coordinated by our project manager as a single efficient project.',
     },
     {
       question: 'How quickly can you scale for a building-wide flood event?',
-      answer: 'Initial response deploys within 30 minutes. For building-wide events requiring multiple crews, we scale industrial resources within 4-6 hours through our regional network. We have managed simultaneous operations across 15+ floors in Tysons commercial towers.',
+      answer: 'Initial response deploys as quickly as access and conditions allow. For building-wide events requiring multiple crews, we scale industrial resources within 4-6 hours through our regional network. We have managed simultaneous operations across 15+ floors in Tysons commercial towers.',
     },
     {
       question: 'Do you coordinate with building automation systems?',
@@ -168,6 +168,6 @@ Our commercial flood teams deploy with the equipment and expertise calibrated fo
   ],
   finalCTA: {
     headline: 'Flood Emergency in Your Tysons Commercial Property?',
-    paragraph: `In Tysons' dense commercial environment, floodwater threatens millions in tenant business value every hour. Our industrial crews deploy with the urban-scale equipment and building system expertise to extract water, protect infrastructure, and restore operations at the pace this market demands.`,
+    paragraph: `In Tysons' dense commercial environment, floodwater threatens millions in tenant business value every hour. Our industrial crews deploy with the urban-scale equipment and building system experience to extract water, protect infrastructure, and restore operations at the pace this market demands.`,
   },
 }

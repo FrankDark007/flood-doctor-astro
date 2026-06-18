@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Herndon, VA | Flood Doctor',
-    description: 'Herndon mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
+    description: 'Herndon mold removal specialists. trained remediation for basement mold, hidden growth & water damage mold. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in Herndon, Virginia',
   introSection: {
@@ -54,7 +54,7 @@ What makes Herndon remediation particularly challenging is the townhome coordina
     {
       title: 'Galvanized Plumbing in Fox Mill-Era Homes',
       description: `Herndon's 1970s-1980s single-family homes were built with galvanized steel supply lines that corrode internally over 40-50 years. These pipes develop pinhole leaks behind finished basement walls, releasing small amounts of water continuously. The leak isn't dramatic enough for a water alarm or visible drip, but maintains wall cavity humidity above 60% for months — perfect conditions for extensive hidden mold colonies. By the time homeowners notice musty odors, the mold has spread well beyond the leak's immediate area.`,
-      solution: 'During remediation, we camera-inspect all original galvanized runs in affected areas. When corrosion is confirmed, we coordinate with licensed plumbers to replace with PEX or copper before reconstruction — eliminating the moisture source permanently.',
+      solution: 'During remediation, we camera-inspect all original galvanized runs in affected areas. When corrosion is confirmed, we coordinate with qualified plumbers to replace with PEX or copper before reconstruction — eliminating the moisture source permanently.',
     },
     {
       title: 'Townhome Party Wall Mold Migration',
@@ -166,6 +166,6 @@ What makes Herndon remediation particularly challenging is the townhome coordina
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: 'Mold Problems in Your Herndon Home or Townhome?',
-    paragraph: `Whether you're in a Fox Mill colonial with aging plumbing or a Herndon Station townhome with shared-wall concerns, our IICRC-certified technicians understand the mold risks specific to your property type and neighborhood.`,
+    paragraph: `Whether you're in a Fox Mill colonial with aging plumbing or a Herndon Station townhome with shared-wall concerns, our trained technicians understand the mold risks specific to your property type and neighborhood.`,
   },
 }

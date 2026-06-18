@@ -12,16 +12,16 @@ export const content: CityServiceContent = {
       `Great Falls estates contain belongings that reflect decades of collecting, commissioning, and curating — original artwork displayed throughout Georgetown Pike residences, wine collections stored in climate-controlled cellars at Seneca Estates properties, equestrian tack and equipment in Forestville barn facilities, imported furnishings selected during international travel, and the accumulated possessions of families who have built their homes into personal museums of their lives. When water damage from a supply line burst, hydrostatic basement flooding, or septic system failure threatens these belongings, the loss extends far beyond insurance replacement value.
 
 Flood Doctor's contents team has managed pack-outs across Great Falls' most demanding estate environments — stabilizing a Georgetown Pike art collection where water from an upstairs bath had reached gallery-hung originals, packing out a wine cellar at a Hickory Farms estate where foundation flooding threatened hundreds of bottles alongside custom cabinetry, and coordinating multi-building pack-outs at equestrian properties where barn contents, pool house furnishings, and main residence belongings all required simultaneous attention with different handling protocols.`,
-      `Estate-scale pack-outs demand logistics, expertise, and equipment that standard residential contents restoration cannot provide. A single Great Falls property may contain artwork requiring museum-grade handling, electronics worth tens of thousands, wine requiring temperature-controlled transport, equestrian equipment needing specialized cleaning, and household contents spanning dozens of rooms across multiple structures. Our team manages this complexity with systematic professionalism.
+      `Estate-scale pack-outs demand logistics, experience, and equipment that standard residential contents restoration cannot provide. A single Great Falls property may contain artwork requiring museum-grade handling, electronics worth tens of thousands, wine requiring temperature-controlled transport, equestrian equipment needing specialized cleaning, and household contents spanning dozens of rooms across multiple structures. Our team manages this complexity with systematic professionalism.
 
-Every item is photographed, catalogued with condition notes, and tracked through our barcode inventory system. For Great Falls estates with high-value art, wine, and collectibles, we create enhanced documentation that captures provenance, appraisal context, and the specific significance that insurance replacement values alone cannot convey. Priority items — home office equipment, daily essentials, and items needed for equestrian operations — can be returned early while the complete inventory undergoes restoration at our climate-controlled facility.`,
+Every item is photographed, catalogued with condition notes, and tracked through our barcode inventory system. For Great Falls estates with high-value art, wine, and collectibles, we create enhanced documentation that captures provenance, appraisal context, and the specific significance that insurance replacement values alone cannot convey. Priority items — home workplace equipment, daily essentials, and items needed for equestrian operations — can be returned early while the complete inventory undergoes restoration at our climate-controlled facility.`,
     ],
     localContext: `Great Falls' ultra-luxury estates — with art collections, wine cellars, equestrian facilities, and custom furnishings across multi-building properties — require contents restoration that matches the asset protection and discretion standards of the community.`,
   },
   processSteps: [
     {
       title: 'Emergency Collection Stabilization',
-      description: `Within 30 minutes of calling (877) 497-0007, our team stabilizes time-sensitive items. Artwork receives immediate assessment and protective covering. Wine collections are evaluated for temperature exposure. Documents from your Great Falls estate office are bagged for emergency freezing. Electronics are disconnected for corrosion prevention.`,
+      description: `After you call (877) 497-0007, our team stabilizes time-sensitive items. Artwork receives immediate assessment and protective covering. Wine collections are evaluated for temperature exposure. Documents from your Great Falls estate workplace are bagged for emergency freezing. Electronics are disconnected for corrosion prevention.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -41,7 +41,7 @@ Every item is photographed, catalogued with condition notes, and tracked through
     },
     {
       title: 'Coordinated Estate Return',
-      description: 'Restored items return building by building when your estate is ready. Art is rehung with condition documentation. Wine returns to restored cellar conditions. Priority items — office equipment, equestrian essentials, daily household needs — are returned early upon request.',
+      description: 'Restored items return building by building when your estate is ready. Art is rehung with condition documentation. Wine returns to restored cellar conditions. Priority items — workplace equipment, equestrian essentials, daily household needs — are returned early upon request.',
       timeframe: 'Upon estate completion',
     },
   ],
@@ -49,12 +49,12 @@ Every item is photographed, catalogued with condition notes, and tracked through
     {
       title: 'Art Collection Protection',
       description: 'Great Falls estates display original artwork — oil paintings, watercolors, prints, sculptures, and mixed media — throughout living spaces. Water damage causes canvas warping, paint separation, paper deterioration, and frame destruction. Each piece requires medium-specific emergency response that standard contents teams cannot provide.',
-      solution: 'Artwork is assessed by medium upon arrival. Oil paintings receive controlled drying to prevent cracking. Watercolors and works on paper are frozen to halt deterioration. Sculptures are cleaned according to material composition. Enhanced documentation captures each piece with provenance and appraisal context. We coordinate with art conservators for pieces requiring specialist intervention.',
+      solution: 'Artwork is assessed by medium during response. Oil paintings receive controlled drying to prevent cracking. Watercolors and works on paper are frozen to halt deterioration. Sculptures are cleaned according to material composition. Enhanced documentation captures each piece with provenance and appraisal context. We coordinate with art conservators for pieces requiring specialist intervention.',
     },
     {
       title: 'Wine Collection Recovery',
       description: 'Great Falls wine cellars house collections accumulated over decades — ranging from everyday selections to vintage bottles worth thousands each. Flooding damages labels, compromises corks through temperature disruption, and contaminates storage cabinetry. The collection must be handled with temperature awareness throughout.',
-      solution: 'Wine is inventoried by bottle with label photography and condition assessment. Temperature-controlled containers maintain appropriate conditions during transport. Damaged labels are documented for insurance. Bottles with compromised corks receive individual assessment. Custom cabinetry is restored separately. Collection returns to cellar conditions verified at pre-loss specifications.',
+      solution: 'Wine is inventoried by bottle with label photography and condition assessment. Temperature-controlled containers maintain appropriate conditions during transport. Damaged labels are documented for insurance. Bottles with compromised corks receive individual assessment. Custom cabinetry is restored separately. Collection returns to cellar conditions verified at documented specifications.',
     },
     {
       title: 'Equestrian Equipment Restoration',
@@ -123,7 +123,7 @@ Every item is photographed, catalogued with condition notes, and tracked through
       'Springvale',
       'Difficult Run',
     ],
-    responseTime: '30-minute emergency response throughout Great Falls for collection stabilization and time-sensitive item triage. Estate-scale pack-out scheduling adapts to property complexity and household needs.',
+    responseTime: 'prompt emergency response throughout Great Falls for collection stabilization and time-sensitive item triage. Estate-scale pack-out scheduling adapts to property complexity and household needs.',
   },
   faqs: [
     {
@@ -132,7 +132,7 @@ Every item is photographed, catalogued with condition notes, and tracked through
     },
     {
       question: 'How do you transport and store wine collections?',
-      answer: 'Temperature-controlled containers maintain appropriate conditions during transport. Our storage facility provides wine-appropriate temperature and humidity. Each bottle is inventoried individually with label photography and condition notes. Collections return when cellar conditions are verified at pre-loss specifications.',
+      answer: 'Temperature-controlled containers maintain appropriate conditions during transport. Our storage facility provides wine-appropriate temperature and humidity. Each bottle is inventoried individually with label photography and condition notes. Collections return when cellar conditions are verified at documented specifications.',
     },
     {
       question: 'What about equestrian equipment and tack?',
@@ -157,6 +157,6 @@ Every item is photographed, catalogued with condition notes, and tracked through
   ],
   finalCTA: {
     headline: 'Collections at Risk in Your Great Falls Estate?',
-    paragraph: 'Art, wine, equestrian equipment, and irreplaceable furnishings deserve restoration that matches their significance. Our Great Falls team responds within 30 minutes with estate-grade expertise and the discretion your property demands. Call (877) 497-0007.',
+    paragraph: 'Art, wine, equestrian equipment, and irreplaceable furnishings deserve restoration that matches their significance. Our Great Falls team responds as quickly as access and conditions allow with estate-grade experience and the discretion your property demands. Call (877) 497-0007.',
   },
 }

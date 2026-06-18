@@ -9,7 +9,7 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `High-Rise Residential and Hospitality Restoration in Tysons' Urban Core`,
     paragraphs: [
-      `Tysons has evolved into Northern Virginia's most concentrated high-rise residential and hospitality market. Luxury apartment towers at The Boro reach 30 stories above the Tysons Metro. Full-service hotels near Tysons Corner Center and Tysons Galleria cater to corporate travelers and international shoppers. Mixed-use developments along The Mile combine residential floors above retail and restaurant spaces. When water cascades through these vertical communities, the scale of damage, displacement, and financial exposure requires restoration expertise calibrated for modern high-rise complexity.
+      `Tysons has evolved into Northern Virginia's most concentrated high-rise residential and hospitality market. Luxury apartment towers at The Boro reach 30 stories above the Tysons Metro. Full-service hotels near Tysons Corner Center and Tysons Galleria cater to corporate travelers and international shoppers. Mixed-use developments along The Mile combine residential floors above retail and restaurant spaces. When water cascades through these vertical communities, the scale of damage, displacement, and financial exposure requires restoration experience calibrated for modern high-rise complexity.
 
 Flood Doctor specializes in the large-scale multi-unit restoration that Tysons' vertical real estate demands. Our teams manage 20+ unit events across multiple floors, coordinating with professional property management companies, corporate hotel brands, and condominium HOA boards simultaneously. We navigate the complex building systems—centralized HVAC, pressurized plumbing risers, shared fire suppression—that both enable high-rise living and create the cascade events unique to these buildings. Tysons property managers trust our capability because we deliver results at the scale their buildings require.`,
       `The financial dynamics of Tysons hospitality and multifamily properties amplify every hour of restoration delay. Luxury apartments at Scotts Run command premium rents that make vacant units costly. Hotels near Capital One headquarters serve corporate accounts that redirect business permanently after poor experiences. Mixed-use developments lose both residential rent and retail revenue when common areas are compromised. New construction buildings may carry unresolved builder warranty claims that complicate insurance recovery for water damage events.
@@ -21,8 +21,8 @@ Our Tysons approach addresses these financial realities. Revenue-generating hote
   processSteps: [
     {
       title: `High-Rise Emergency Mobilization`,
-      description: `Call (877) 497-0007 for immediate multi-unit deployment. We coordinate with building management for freight elevator reservation and security access during transit. Equipment staging begins on arrival at your Tysons property.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate multi-unit deployment. We coordinate with building management for freight elevator reservation and security access during transit. Equipment staging begins during response at your Tysons property.`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Vertical Migration Mapping`,
@@ -59,11 +59,11 @@ Our Tysons approach addresses these financial realities. Revenue-generating hote
     {
       title: `Corporate Hotel Brand Standards`,
       description: `Hotels near Tysons Corner Center and Tysons Galleria operate under corporate brand standards that specify restoration materials, finish levels, and operational protocols. Non-compliant restoration can trigger brand compliance issues in addition to the physical damage.`,
-      solution: `We coordinate with hotel corporate offices to understand brand-specific requirements before finalizing restoration plans. Material selections match brand standards, and our discreet operations protocols align with hospitality industry expectations for guest experience protection.`,
+      solution: `We coordinate with hotel corporate workplaces to understand brand-specific requirements before finalizing restoration plans. Material selections match brand standards, and our discreet operations protocols align with hospitality industry expectations for guest experience protection.`,
     },
     {
       title: `Mixed-Use Building Complexity`,
-      description: `The Mile and The Boro developments combine residential units above retail, restaurant, and office spaces. Water migrating from residential floors can damage commercial tenants below, creating cross-use liability and insurance complexity with multiple property types under one roof.`,
+      description: `The Mile and The Boro developments combine residential units above retail, restaurant, and workplace spaces. Water migrating from residential floors can damage commercial tenants below, creating cross-use liability and insurance complexity with multiple property types under one roof.`,
       solution: `We manage cross-use restoration with separate documentation for residential and commercial components. Each property type receives appropriate restoration protocols—residential unit drying versus commercial space recovery—while the building-level response addresses shared infrastructure affecting both uses.`,
     },
     {
@@ -137,7 +137,7 @@ Our Tysons approach addresses these financial realities. Revenue-generating hote
       `Jones Branch Drive`,
       `International Drive`,
     ],
-    responseTime: `30-minute emergency response to all Tysons hospitality and multifamily properties. Building management coordination begins during dispatch for immediate freight elevator access and security clearance upon arrival.`,
+    responseTime: `prompt emergency response to all Tysons hospitality and multifamily properties. Building management coordination begins during dispatch for immediate freight elevator access and security clearance during response.`,
   },
   faqs: [
     {
@@ -146,7 +146,7 @@ Our Tysons approach addresses these financial realities. Revenue-generating hote
     },
     {
       question: `Can you match hotel brand standards for restoration materials?`,
-      answer: `Yes. We coordinate with hotel corporate offices to identify brand-standard materials and finishes. Our restoration plan specifies approved materials and our project manager verifies brand compliance before final installation.`,
+      answer: `Yes. We coordinate with hotel corporate workplaces to identify brand-standard materials and finishes. Our restoration plan specifies approved materials and our project manager verifies brand compliance before final installation.`,
     },
     {
       question: `What about new construction defects in our Tysons building?`,
@@ -171,6 +171,6 @@ Our Tysons approach addresses these financial realities. Revenue-generating hote
   ],
   finalCTA: {
     headline: `High-Rise Emergency in Tysons?`,
-    paragraph: `Cascade damage in vertical buildings worsens every hour. Our multi-floor response team reaches any Tysons property within 30 minutes with the equipment and coordination capability your building demands. Call (877) 497-0007 immediately.`,
+    paragraph: `Cascade damage in vertical buildings worsens every hour. Our multi-floor response team reaches any Tysons property as quickly as access and conditions allow with the equipment and coordination capability your building demands. Call (877) 497-0007 immediately.`,
   },
 }

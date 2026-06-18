@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Herndon, VA | Flood Doctor',
-    description: `Herndon large loss restoration for data center facilities, technology campuses & multi-building commercial properties. Project management with IT expertise. Call (877) 497-0007.`,
+    description: `Herndon large loss restoration for data center facilities, technology campuses & multi-building commercial properties. Project management with IT experience. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Herndon, Virginia',
   introSection: {
     headline: `Technology-Aware Large Loss Management for Herndon's Critical Commercial Infrastructure`,
     paragraphs: [
-      `Large loss events in Herndon carry stakes that extend beyond physical building damage into the technology infrastructure that powers the region's digital economy. A catastrophic chiller failure flooding a multi-building data center support campus near Dulles Airport, a major fire suppression activation cascading through an entire Worldgate office complex housing technology companies, or a severe storm overwhelming drainage and flooding the commercial core of Downtown Herndon—these events generate restoration projects where physical building restoration intersects with IT infrastructure recovery, creating complexity that standard large loss contractors cannot manage.
+      `Large loss events in Herndon carry stakes that extend beyond physical building damage into the technology infrastructure that powers the region's digital economy. A catastrophic chiller failure flooding a multi-building data center support campus near Dulles Airport, a major fire suppression activation cascading through an entire Worldgate workplace complex housing technology companies, or a severe storm overwhelming drainage and flooding the commercial core of Downtown Herndon—these events generate restoration projects where physical building restoration intersects with IT infrastructure recovery, creating complexity that standard large loss contractors cannot manage.
 
-Flood Doctor's large loss division has managed the most technically demanding restoration projects in Herndon's commercial market. Our senior project directors have coordinated data facility recovery projects in the Dulles corridor, managed multi-building office campus restorations at Franklin Farm, and delivered downtown commercial block recoveries—integrating IT infrastructure protection into every phase of enterprise-scale project management.`,
-      `Herndon's large loss projects require project directors who understand that building restoration and technology recovery are inseparable. A data facility large loss project cannot sequence drying before IT assessment—the environmental conditions required for drying may conflict with equipment operating parameters, and the timeline for structural restoration must integrate with equipment replacement procurement and system restoration. Similarly, a technology office campus restoration must account for the IT infrastructure in every suite, coordinating server room environmental controls with building-wide drying operations.
+Flood Doctor's large loss division has managed the most technically demanding restoration projects in Herndon's commercial market. Our senior project directors have coordinated data facility recovery projects in the Dulles corridor, managed multi-building workplace campus restorations at Franklin Farm, and delivered downtown commercial block recoveries—integrating IT infrastructure protection into every phase of enterprise-scale project management.`,
+      `Herndon's large loss projects require project directors who understand that building restoration and technology recovery are inseparable. A data facility large loss project cannot sequence drying before IT assessment—the environmental conditions required for drying may conflict with equipment operating parameters, and the timeline for structural restoration must integrate with equipment replacement procurement and system restoration. Similarly, a technology workplace campus restoration must account for the IT infrastructure in every suite, coordinating server room environmental controls with building-wide drying operations.
 
 Our project directors bring both commercial construction management and technology facility awareness to Herndon engagements. They coordinate with IT directors alongside facilities managers, integrate equipment procurement timelines into project schedules, and manage the parallel tracks of building restoration and technology recovery that Herndon's commercial market demands.`,
     ],
@@ -114,7 +114,7 @@ Our project directors bring both commercial construction management and technolo
       'Environmental maintenance—technology spaces requiring controlled conditions throughout restoration carry ongoing monitoring costs',
       'Dual-track coordination—integrated building-IT project management adds complexity and project director bandwidth requirements',
     ],
-    cta: `Call (877) 497-0007 for immediate large loss response. Our project director brings both construction management and technology facility expertise for the integrated approach Herndon's commercial market demands.`,
+    cta: `Call (877) 497-0007 for immediate large loss response. Our project director brings both construction management and technology facility experience for the integrated approach Herndon's commercial market demands.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ Our project directors bring both commercial construction management and technolo
       'Herndon Parkway Commercial Area',
       'Sterling-Herndon Corridor',
     ],
-    responseTime: 'Emergency stabilization with IT protection within 45 minutes to Herndon commercial properties. Full large loss mobilization scales within 8-12 hours for campus-wide technology facility events.',
+    responseTime: 'Emergency stabilization with IT protection as quickly as access and conditions allow to Herndon commercial properties. Full large loss mobilization scales within 8-12 hours for campus-wide technology facility events.',
   },
   faqs: [
     {
@@ -172,6 +172,6 @@ Our project directors bring both commercial construction management and technolo
   ],
   finalCTA: {
     headline: 'Large Loss Event at Your Herndon Technology Facility?',
-    paragraph: `When building damage and technology infrastructure loss converge, you need a restoration partner managing both recovery tracks as an integrated project. Our project directors deliver the dual expertise Herndon's critical commercial facilities demand.`,
+    paragraph: `When building damage and technology infrastructure loss converge, you need a restoration partner managing both recovery tracks as an integrated project. Our project directors deliver the dual experience Herndon's critical commercial facilities demand.`,
   },
 }

@@ -11,17 +11,17 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Storms affect Tysons' urban core differently than suburban neighborhoods. When a summer thunderstorm dumps 3 inches of rain in an hour, the impervious surfaces covering this developed area concentrate runoff in ways that overwhelm drainage systems within minutes. Underground parking structures flood. Ground-floor retail spaces take on water through loading docks. Commercial roofs develop leaks that weren't apparent during lighter rain. Wind-driven rain penetrates building envelopes designed for average conditions, not severe weather.
 
-Flood Doctor responds to urban storm damage throughout Tysons with the capacity and expertise these commercial and high-rise buildings require. We've pumped flooded parking garages at The Boro after flash flood events, extracted water from Class A office lobbies after roof drainage failures, and restored high-rise units after window assembly leaks during wind-driven rain. Property managers call us during storm season because we respond immediately with equipment scaled for commercial restoration.`,
+Flood Doctor responds to urban storm damage throughout Tysons with the capacity and experience these commercial and high-rise buildings require. We've pumped flooded parking garages at The Boro after flash flood events, extracted water from Class A commercial lobbies after roof drainage failures, and restored high-rise units after window assembly leaks during wind-driven rain. Property managers call us during storm season because we respond immediately with equipment scaled for commercial restoration.`,
       `Tysons' modern construction creates storm vulnerabilities that older suburban housing doesn't face. High-rise buildings present large surface areas to wind-driven rain, and curtain wall systems can leak at seams and penetrations during severe weather. Commercial flat roofs with internal drainage can fail when drains clog, creating ponding water that overwhelms roofing membranes. The urban heat island effect can intensify local thunderstorms, producing more severe weather events than surrounding suburban areas experience.
 
-Our IICRC-certified storm damage teams understand urban restoration challenges. We coordinate with property management during multi-building storm events, prioritize critical building systems like mechanical rooms and electrical equipment, and work simultaneously across multiple affected properties. When storms threaten Tysons' urban core, we're ready with the response capacity this commercial environment demands.`,
+Our trained storm damage teams understand urban restoration challenges. We coordinate with property management during multi-building storm events, prioritize critical building systems like mechanical rooms and electrical equipment, and work simultaneously across multiple affected properties. When storms threaten Tysons' urban core, we're ready with the response capacity this commercial environment demands.`,
     ],
     localContext: `Tysons' concentrated development creates urban flash flooding risks during severe weather. We've built storm response relationships with property managers throughout Tysons Corner, The Boro, Tysons Central, The Mile, and Scotts Run—responding to commercial and high-rise storm damage with 24/7 availability.`,
   },
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: 'During active storm damage, call (877) 497-0007 for immediate dispatch. We prioritize based on damage severity and building system exposure—mechanical room flooding takes precedence over minor office intrusion. Our crews deploy throughout Tysons simultaneously during major storm events.',
+      description: 'During active storm damage, call (877) 497-0007 for immediate dispatch. We prioritize based on damage severity and building system exposure—mechanical room flooding takes precedence over minor workplace intrusion. Our crews deploy throughout Tysons simultaneously during major storm events.',
       timeframe: 'During/immediately after storm',
     },
     {
@@ -31,7 +31,7 @@ Our IICRC-certified storm damage teams understand urban restoration challenges. 
     },
     {
       title: 'Emergency Water Extraction',
-      description: 'We deploy commercial-scale extraction equipment: submersible pumps for parking structures, truck-mounted systems for lobbies and commercial spaces, portable extractors for office suites. Multi-level buildings may require simultaneous extraction at multiple locations. Equipment stages through service elevators and loading facilities.',
+      description: 'We deploy commercial-scale extraction equipment: submersible pumps for parking structures, truck-mounted systems for lobbies and commercial spaces, portable extractors for workplace suites. Multi-level buildings may require simultaneous extraction at multiple locations. Equipment stages through service elevators and loading facilities.',
       timeframe: 'Hours 1-12',
     },
     {
@@ -97,7 +97,7 @@ Our IICRC-certified storm damage teams understand urban restoration challenges. 
       },
       {
         name: 'Truck-Mounted Extraction Systems',
-        purpose: 'Remove water from commercial lobbies, retail spaces, and office suites through extended hose runs—maintaining extraction power across large areas',
+        purpose: 'Remove water from commercial lobbies, retail spaces, and workplace suites through extended hose runs—maintaining extraction power across large areas',
         brand: 'Prochem',
       },
       {
@@ -157,16 +157,16 @@ Our IICRC-certified storm damage teams understand urban restoration challenges. 
       'Route 7 commercial corridor',
       'Greensboro Station area',
     ],
-    responseTime: '30-minute response to all Tysons properties during storm events. We maintain crews positioned throughout the urban core for immediate dispatch to commercial and high-rise storm damage.',
+    responseTime: 'prompt response to all Tysons properties during storm events. We maintain crews available throughout the urban core for immediate dispatch to commercial and high-rise storm damage.',
   },
   faqs: [
     {
       question: 'Can you respond during active storms?',
-      answer: 'We dispatch during active storms when conditions are safe for crews. For flash flooding events, we often arrive as storms are subsiding—positioned for immediate extraction as soon as conditions allow. Our crews are experienced with storm response safety protocols. Call immediately when you observe flooding or water intrusion.',
+      answer: 'We dispatch during active storms when conditions are safe for crews. For flash flooding events, we often arrive as storms are subsiding—available for immediate extraction as soon as conditions allow. Our crews are experienced with storm response safety protocols. Call immediately when you observe flooding or water intrusion.',
     },
     {
       question: 'What if multiple buildings are affected by the same storm?',
-      answer: 'We maintain response capacity for simultaneous multi-building deployment. During major storm events, we prioritize based on damage severity and building system exposure—mechanical room flooding takes precedence over minor office intrusion. Property managers with established relationships receive coordinated response across their portfolios.',
+      answer: 'We maintain response capacity for simultaneous multi-building deployment. During major storm events, we prioritize based on damage severity and building system exposure—mechanical room flooding takes precedence over minor workplace intrusion. Property managers with established relationships receive coordinated response across their portfolios.',
     },
     {
       question: `Our building's parking garage flooded—can you help?`,

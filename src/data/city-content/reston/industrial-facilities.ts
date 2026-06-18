@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Reston, VA | Flood Doctor`,
-    description: `Reston's commercial and industrial restoration specialists. Serving technology offices, data centers, and business operations along Sunrise Valley and Reston Town Center. Call (877) 497-0007.`,
+    description: `Reston's commercial and industrial restoration specialists. Serving technology workplaces, data centers, and business operations along Sunrise Valley and Reston Town Center. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Reston, Virginia`,
   introSection: {
@@ -21,8 +21,8 @@ These environmental factors demand proactive facility management and reactive re
   processSteps: [
     {
       title: `Technology Facility Emergency Response`,
-      description: `Call (877) 497-0007 for immediate commercial deployment. Our Reston crews arrive with anti-corrosion treatment, precision environmental controls, and server room protection equipment within 30 minutes to technology offices along Sunrise Valley, at Reston Town Center, and throughout the business parks.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate commercial deployment. Our Reston crews arrive with anti-corrosion treatment, precision environmental controls, and server room protection equipment as quickly as access and conditions allow to technology workplaces along Sunrise Valley, at Reston Town Center, and throughout the business parks.`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Technology Asset Prioritization`,
@@ -53,12 +53,12 @@ These environmental factors demand proactive facility management and reactive re
   localChallenges: [
     {
       title: `Server Room and Data Center Water Intrusion`,
-      description: `Technology offices along Sunrise Valley and near Reston Town Center house server infrastructure supporting government contracts and commercial operations. Water from HVAC failures, roof leaks, or plumbing events can reach server rooms before building management detects the problem.`,
+      description: `Technology workplaces along Sunrise Valley and near Reston Town Center house server infrastructure supporting government contracts and commercial operations. Water from HVAC failures, roof leaks, or plumbing events can reach server rooms before building management detects the problem.`,
       solution: `Anti-corrosion treatment deploys within hours. Precision environmental controls maintain server room conditions. We coordinate with IT teams for equipment-specific recovery and prioritize data preservation alongside hardware protection.`,
     },
     {
       title: `Flat Roof Debris Accumulation and Failure`,
-      description: `Commercial buildings surrounded by Reston's tree canopy accumulate organic debris on flat roof membranes. Blocked drains cause ponding that eventually overwhelms roofing systems, introducing water across wide areas of office and server spaces below.`,
+      description: `Commercial buildings surrounded by Reston's tree canopy accumulate organic debris on flat roof membranes. Blocked drains cause ponding that eventually overwhelms roofing systems, introducing water across wide areas of workplace and server spaces below.`,
       solution: `We address interior damage while documenting the roof condition for insurance and landlord notification. For tenants, documentation supports lease claims for building maintenance failures. Widespread roof intrusion requires strategic equipment placement based on the water entry pattern.`,
     },
     {
@@ -77,7 +77,7 @@ These environmental factors demand proactive facility management and reactive re
     equipment: [
       {
         name: `Anti-Corrosion Treatment Systems`,
-        purpose: `Immediate protection for servers, workstations, networking equipment, and technology investments in Reston offices`,
+        purpose: `Immediate protection for servers, workstations, networking equipment, and technology investments in Reston workplaces`,
       },
       {
         name: `Precision Environmental Controls`,
@@ -90,7 +90,7 @@ These environmental factors demand proactive facility management and reactive re
       },
       {
         name: `Industrial Desiccant Dehumidifiers`,
-        purpose: `Large-scale moisture removal for warehouse, office, and mixed commercial spaces in Reston business parks`,
+        purpose: `Large-scale moisture removal for warehouse, workspace, and mixed commercial spaces in Reston business parks`,
         brand: `Munters`,
       },
       {
@@ -132,7 +132,7 @@ These environmental factors demand proactive facility management and reactive re
       `Colts Neck`,
       `Hidden Creek`,
     ],
-    responseTime: `30-minute emergency response to all Reston commercial and technology facilities. Our crews carry anti-corrosion treatment, precision environmental controls, and enhanced dehumidification for immediate deployment to Reston's innovation corridor.`,
+    responseTime: `prompt emergency response to all Reston commercial and technology facilities. Our crews carry anti-corrosion treatment, precision environmental controls, and enhanced dehumidification for immediate deployment to Reston's innovation corridor.`,
   },
   faqs: [
     {
@@ -165,6 +165,6 @@ These environmental factors demand proactive facility management and reactive re
   ],
   finalCTA: {
     headline: `Reston Technology or Commercial Emergency?`,
-    paragraph: `Computing equipment and digital infrastructure face permanent damage within hours of water exposure. Our technology recovery teams respond within 30 minutes with anti-corrosion treatment and environmental controls designed for Reston's humid conditions. Call (877) 497-0007 now.`,
+    paragraph: `Computing equipment and digital infrastructure face permanent damage within hours of water exposure. Our technology recovery teams respond as quickly as access and conditions allow with anti-corrosion treatment and environmental controls designed for Reston's humid conditions. Call (877) 497-0007 now.`,
   },
 }

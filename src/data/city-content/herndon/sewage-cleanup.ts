@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Herndon, VA | Flood Doctor',
-    description: 'Herndon sewage backup cleanup. Biohazard-certified crews for sewer overflow, septic failure & drain backups. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
+    description: 'Herndon sewage backup cleanup. Biohazard-trained crews for sewer overflow, septic failure & drain backups. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in Herndon, Virginia',
   introSection: {
@@ -18,12 +18,12 @@ export const content: CityServiceContent = {
     {
       title: 'Multi-Unit Triage Dispatch',
       description: 'Every Herndon sewage call triggers our shared-lateral assessment protocol. Dispatch cross-references our database of Worldgate, Franklin Farm, and Herndon Station plumbing configurations and deploys enough crews for the likely scope. A single-unit call at a Franklin Farm interior townhome automatically dispatches a second team because 70% expand to adjacent units within the first hour.',
-      timeframe: '30-minute multi-crew response',
+      timeframe: 'prompt multi-crew response',
     },
     {
       title: 'Cross-Unit Contamination Mapping',
       description: 'Before extracting a single gallon, technicians walk the entire row checking every unit on the shared lateral — basement floor drains, lower-level bathrooms, laundry connections, utility sinks. We map every affected space, contact the HOA, and establish whether the blockage lies in an individual branch line or the shared lateral — a distinction determining insurance routing and financial responsibility.',
-      timeframe: 'First 45 minutes on-site',
+      timeframe: 'Initial on-site actions',
     },
     {
       title: 'Galvanized Pipe Assessment & Source Identification',
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       'Reflection Lake',
       'Woodland Park',
     ],
-    responseTime: 'Priority 30-minute response with multi-unit triage capability. Herndon calls automatically trigger shared-lateral assessment, and dispatch evaluates whether additional crews should deploy for adjacent units. When a Worldgate block reports backup, we send enough crews for the full row.',
+    responseTime: 'Priority prompt response with multi-unit triage capability. Herndon calls automatically trigger shared-lateral assessment, and dispatch evaluates whether additional crews should deploy for adjacent units. When a Worldgate block reports backup, we send enough crews for the full row.',
   },
   faqs: [
     {

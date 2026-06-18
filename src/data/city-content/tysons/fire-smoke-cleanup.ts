@@ -9,12 +9,12 @@ export const content: CityServiceContent = {
   introSection: {
     headline: 'Commercial & High-Rise Fire Damage Restoration for Tysons Properties',
     paragraphs: [
-      `Fire damage in Tysons' urban environment presents complexities that single-family home restoration companies rarely encounter. When a kitchen fire in a Boro luxury unit triggers building-wide fire suppression, the water damage from activated sprinklers often exceeds the fire damage itself—flooding multiple floors through the time it takes firefighters to arrive and reset systems. When an electrical fire in a Class A office suite fills an entire floor with smoke, restoration must address building HVAC systems that have circulated contamination throughout connected spaces.
+      `Fire damage in Tysons' urban environment presents complexities that single-family home restoration companies rarely encounter. When a kitchen fire in a Boro luxury unit triggers building-wide fire suppression, the water damage from activated sprinklers often exceeds the fire damage itself—flooding multiple floors through the time it takes firefighters to arrive and reset systems. When an electrical fire in a Class A workplace suite fills an entire floor with smoke, restoration must address building HVAC systems that have circulated contamination throughout connected spaces.
 
-Flood Doctor provides comprehensive fire damage restoration throughout Tysons' urban core with expertise in both fire damage and the extensive water damage that typically accompanies commercial building fires. We've restored high-rise units after cooking fires triggered sprinkler activation, remediated smoke damage in commercial offices after electrical equipment failures, and coordinated multi-floor restoration after fire suppression system testing accidents. Property managers call us because we understand that high-rise fire damage requires both fire restoration expertise and water damage capabilities.`,
-      `Tysons' modern buildings incorporate sophisticated fire suppression systems that protect lives but can cause significant property damage when activated. Sprinkler heads covering 20x20 foot areas release 20-30 gallons per minute until manually shut off—typically 10-20 minutes after fire department arrival. A single activated head in a condo can flood the unit and multiple floors below. Multiple heads in a commercial space can release thousands of gallons before water stops flowing.
+Flood Doctor provides comprehensive fire damage restoration throughout Tysons' urban core with experience in both fire damage and the extensive water damage that typically accompanies commercial building fires. We've restored high-rise units after cooking fires triggered sprinkler activation, remediated smoke damage in commercial workplaces after electrical equipment failures, and coordinated multi-floor restoration after fire suppression system testing accidents. Property managers call us because we understand that high-rise fire damage requires both fire restoration experience and water damage capabilities.`,
+      `Tysons' modern buildings incorporate sophisticated fire suppression systems that protect lives but can cause significant property damage when activated. Sprinkler heads covering 20x20 foot areas release 20-30 gallons per minute until manually shut off—typically 10-20 minutes after fire department shutoff access. A single activated head in a condo can flood the unit and multiple floors below. Multiple heads in a commercial space can release thousands of gallons before water stops flowing.
 
-Our IICRC-certified technicians are trained in fire, smoke, and water damage restoration—the combined expertise that Tysons fire events demand. We coordinate with fire departments during active scenes, begin water extraction immediately upon clearance, and address smoke damage throughout affected building systems. When fire threatens your Tysons property, you need restoration specialists who understand that fire damage in high-rises means water damage, smoke damage, and complex building system coordination.`,
+Our trained technicians are trained in fire, smoke, and water damage restoration—the combined experience that Tysons fire events demand. We coordinate with fire departments during active scenes, begin water extraction immediately upon clearance, and address smoke damage throughout affected building systems. When fire threatens your Tysons property, you need restoration specialists who understand that fire damage in high-rises means water damage, smoke damage, and complex building system coordination.`,
     ],
     localContext: `Tysons' high-rise residential and commercial buildings feature advanced fire suppression systems that protect lives but can cause extensive water damage when activated. We've built fire damage restoration relationships with property managers throughout Tysons Corner, The Boro, Tysons Central, The Mile, and Scotts Run.`,
   },
@@ -64,7 +64,7 @@ Our IICRC-certified technicians are trained in fire, smoke, and water damage res
     {
       title: 'Smoke Migration Through HVAC Systems',
       description: 'High-rise HVAC systems that efficiently circulate conditioned air also circulate smoke throughout connected spaces. A fire in one unit can deposit smoke residue in units across the building that share air handling systems. Smoke enters ductwork, accumulates in air handlers, and continues affecting air quality long after fires are extinguished.',
-      solution: 'We assess entire HVAC systems connected to fire-affected areas, cleaning air handlers, ductwork, and diffusers where smoke has migrated. Our smoke remediation includes building systems, not just visible unit damage—ensuring complete restoration and preventing ongoing air quality issues.',
+      solution: 'We assess entire HVAC systems connected to fire-affected areas, cleaning air handlers, ductwork, and diffusers where smoke has migrated. Our smoke remediation includes building systems, not just visible unit damage—ensuring thorough restoration and preventing ongoing air quality issues.',
     },
     {
       title: 'Multi-Unit Coordination',
@@ -171,7 +171,7 @@ Our IICRC-certified technicians are trained in fire, smoke, and water damage res
       answer: 'Yes—high-rise HVAC systems circulate smoke throughout connected spaces. A fire in one unit can deposit smoke residue in units across the building sharing the same air handling system. Our smoke remediation includes assessment and cleaning of HVAC systems, addressing smoke migration that may not be visible in affected spaces but impacts air quality.',
     },
     {
-      question: 'How do you handle fire damage in commercial offices?',
+      question: 'How do you handle fire damage in commercial workplaces?',
       answer: 'Commercial fire restoration prioritizes business continuity alongside property restoration. We work extended hours and weekends to accelerate recovery, coordinate with tenant operations to stage work allowing partial occupancy, and provide documentation supporting business interruption claims. Our goal is returning your business to operation as quickly as thorough restoration allows.',
     },
     {
@@ -190,6 +190,6 @@ Our IICRC-certified technicians are trained in fire, smoke, and water damage res
   relatedBlogSlugs: ['water-damage-insurance-claim-guide', 'first-24-hours-after-water-damage'],
   finalCTA: {
     headline: 'Fire Damage in Your Tysons Building?',
-    paragraph: 'High-rise fire events create combined fire, smoke, and water damage requiring comprehensive restoration expertise. Our crews respond immediately upon fire department clearance with equipment for all damage types. One call coordinates the entire restoration.',
+    paragraph: 'High-rise fire events create combined fire, smoke, and water damage requiring comprehensive restoration experience. Our crews respond immediately upon fire department clearance with equipment for all damage types. One call coordinates the entire restoration.',
   },
 }

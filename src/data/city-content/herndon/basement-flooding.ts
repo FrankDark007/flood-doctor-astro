@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Herndon, VA | Flood Doctor',
-    description: 'Herndon basement flooding experts. 30-min response for finished basements, home offices & recreation rooms. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
+    description: 'Herndon basement flooding specialists. prompt response for finished basements, home workplaces & recreation rooms. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in Herndon, Virginia',
   introSection: {
     headline: 'Townhome Communities, Shared Walls, and the Flooding Problems That Come With Them',
     paragraphs: [
-      `It is 6:15 AM on a Wednesday in Worldgate. You step down to the lower level for your laptop before the commute and feel cold water through your socks. The carpet is saturated wall to wall. Your home office power strip is submerged. Then you notice: the water line on the shared wall extends its full length, meaning this is not just your problem anymore.
+      `It is 6:15 AM on a Wednesday in Worldgate. You step down to the lower level for your laptop before the commute and feel cold water through your socks. The carpet is saturated wall to wall. Your home workplace power strip is submerged. Then you notice: the water line on the shared wall extends its full length, meaning this is not just your problem anymore.
 
 Herndon is townhome-dominated. Worldgate, Franklin Farm, Chandon, Herndon Station, Dulles Park—these neighborhoods are built around attached homes sharing foundation slabs, party walls, and storm drainage infrastructure. When a basement floods in a Herndon townhome, water migrates through shared wall assemblies, pools along common foundation lines, and exposes failures in drainage systems serving entire rows of units. A single event routinely becomes a multi-unit restoration project.`,
       `The older single-family pockets tell a different story. Fox Mill's 1970s-1980s colonials carry their own risks: galvanized supply lines at end-of-life, corroding cast-iron drain stacks, and clay soil that has shifted against foundations for fifty years. Downtown Herndon's pre-1970s housing adds shallow basements with waterproofing that predates modern building science. Flood Doctor operates across all of these housing types. A flooding call from a Worldgate townhome requires a fundamentally different response protocol than a call from a Fox Mill colonial—different equipment, different assessment priorities, different coordination.`,
@@ -70,7 +70,7 @@ Herndon is townhome-dominated. Worldgate, Franklin Farm, Chandon, Herndon Statio
     intro: 'Costs vary significantly based on whether the property is an attached townhome or detached single-family home. Townhome flooding involving shared-wall assessment, multi-unit coordination, and HOA documentation adds complexity that single-home projects lack. We provide a detailed scope and cost estimate during the initial assessment and work directly with your insurance carrier.',
     factors: [
       'Single-unit versus multi-unit involvement—shared-wall moisture migration increases labor hours and documentation requirements',
-      'Finished versus unfinished space—a home office with electronics and engineered hardwood costs significantly more to restore than a concrete utility basement',
+      'Finished versus unfinished space—a home workplace with electronics and engineered hardwood costs significantly more to restore than a concrete utility basement',
       'Water source classification—clean supply-line water requires different protocols than Category 2 sump overflow or Category 3 sewage backup',
       'Flooring material type—LVP mat drying, engineered hardwood restraint systems, and carpet pad replacement carry different costs',
       'HOA documentation—multi-party insurance reporting for townhome communities requires additional evidence gathering and adjuster coordination',
@@ -90,7 +90,7 @@ Herndon is townhome-dominated. Worldgate, Franklin Farm, Chandon, Herndon Statio
       'Reflection Lake',
       'Woodland Park',
     ],
-    responseTime: '30-minute emergency response to all Herndon neighborhoods. Crews are positioned along the Elden Street and Centreville Road corridors. Townhome flooding calls receive multi-unit staging by default—we arrive prepared to assess adjacent properties, not just the unit that called.',
+    responseTime: 'prompt emergency response to all Herndon neighborhoods. Crews are available along the Elden Street and Centreville Road corridors. Townhome flooding calls receive multi-unit staging by default—we arrive prepared to assess adjacent properties, not just the unit that called.',
   },
   faqs: [
     {
@@ -121,6 +121,6 @@ Herndon is townhome-dominated. Worldgate, Franklin Farm, Chandon, Herndon Statio
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],
   finalCTA: {
     headline: 'Basement Flooding in Your Herndon Townhome or Home?',
-    paragraph: 'Whether you are in a Worldgate townhome with water crossing the party wall or a Fox Mill colonial with a failed supply line, the response protocol matters. We arrive in 30 minutes, assess adjacent units when applicable, document for insurance and HOA claims simultaneously, and dry modern materials without unnecessary replacement.',
+    paragraph: 'Whether you are in a Worldgate townhome with water crossing the party wall or a Fox Mill colonial with a failed supply line, the response protocol matters. We respond as quickly as conditions allow, assess adjacent units when applicable, document for insurance and HOA claims simultaneously, and dry modern materials without unnecessary replacement.',
   },
 }

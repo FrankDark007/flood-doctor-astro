@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Reston, VA | Flood Doctor',
-    description: `Reston's trusted water damage restoration experts. 30-min response to Lake Anne, South Lakes & Reston Town Center. HOA coordination included. Call (877) 497-0007.`,
+    description: `Reston's local water damage restoration specialists. prompt response to Lake Anne, South Lakes & Reston Town Center. HOA coordination included. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Reston, Virginia',
   introSection: {
@@ -11,22 +11,22 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When water infiltrates your Reston home, the stakes extend beyond your property. In America's first planned community, where townhomes share walls, clusters share infrastructure, and everyone shares the pathways and lakes, water damage can ripple through your neighborhood. Your South Lakes colonial's basement flood today could be your neighbor's mold problem next month if not properly addressed.
 
-Flood Doctor has restored water-damaged properties throughout Reston for nearly two decades. We've extracted standing water from Lake Anne Village townhomes, dried the walkout basements of North Point homes backing to natural areas, and prevented mold growth in condos throughout Reston Town Center. When your cluster's property manager recommends a restoration company, they mention us—because we've already served your community.`,
+Flood Doctor has restored water-damaged properties throughout Reston across the service area. We've extracted standing water from Lake Anne Village townhomes, dried the walkout basements of North Point homes backing to natural areas, and prevented mold growth in condos throughout Reston Town Center. When your cluster's property manager recommends a restoration company, they mention us—because we've already served your community.`,
       `Reston's water damage challenges stem from its revolutionary design. Robert E. Simon's vision of integrating homes with nature means higher water tables near the four lakes, aggressive stormwater management that still overwhelms basements during heavy storms, and housing diversity that ranges from 1960s townhomes to modern high-rises. Generic restoration companies don't understand these complexities.
 
-Our IICRC Master Water Restorers know that your Hunters Woods cluster requires different coordination than a Reston Town Center condo. We understand that party walls in townhomes can transmit moisture to neighbors. We recognize that HOA approval delays shouldn't mean watching water damage spread. We handle the restoration and the coordination that Reston's planned community structure demands.`,
+Our experienced restoration crews know that your Hunters Woods cluster requires different coordination than a Reston Town Center condo. We understand that party walls in townhomes can transmit moisture to neighbors. We recognize that HOA approval delays shouldn't mean watching water damage spread. We handle the restoration and the coordination that Reston's planned community structure demands.`,
     ],
-    localContext: `Reston's diverse housing stock—from original Lake Anne townhomes to contemporary Reston Town Center condos—requires restoration expertise that adapts to each building type. We've served every Reston cluster and understand the unique challenges each presents.`,
+    localContext: `Reston's diverse housing stock—from original Lake Anne townhomes to contemporary Reston Town Center condos—requires restoration experience that adapts to each building type. We've served every Reston cluster and understand the unique challenges each presents.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Reston hotline at (877) 497-0007, we dispatch immediately. Our trucks are positioned to reach Lake Anne, Hunters Woods, South Lakes, and North Point within our 30-minute guarantee—not from a distant warehouse, but from the Reston corridor where we're already stationed.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call our Reston hotline at (877) 497-0007, we dispatch immediately. Our trucks are available to reach Lake Anne, Hunters Woods, South Lakes, and North Point as quickly as access and conditions allow—not from a distant warehouse, but from the Reston corridor from our Northern Virginia service network.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Comprehensive Damage Assessment',
-      description: 'Our IICRC-certified technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Reston townhomes and cluster housing, this includes evaluating party walls for moisture migration that could affect neighboring units.',
+      description: 'Our trained technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Reston townhomes and cluster housing, this includes evaluating party walls for moisture migration that could affect neighboring units.',
       timeframe: 'First hour',
     },
     {
@@ -113,7 +113,7 @@ Our IICRC Master Water Restorers know that your Hunters Woods cluster requires d
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Reston',
-    intro: 'Reston water damage restoration costs vary based on property type, damage scope, and affected materials. Townhomes, single-family homes, and condos each present different challenges. We provide free inspections and detailed estimates before any work begins. Most Reston homeowners file insurance claims—and we handle direct billing with all major carriers.',
+    intro: 'Reston water damage restoration costs vary based on property type, damage scope, and affected materials. Townhomes, single-family homes, and condos each present different challenges. We provide free inspections and detailed estimates before any work begins. Most Reston homeowners file insurance claims—and we handle insurance documentation and coordination.',
     factors: [
       'Property type and size—townhomes, colonials, and condos each require different approaches',
       'Water category—clean water from a burst pipe differs from stormwater requiring contamination protocols',
@@ -140,7 +140,7 @@ Our IICRC Master Water Restorers know that your Hunters Woods cluster requires d
       'Fox Mill Woods',
       'Stratton Woods',
     ],
-    responseTime: '30-minute response to all Reston neighborhoods. Our crews are stationed throughout the Reston corridor—from Lake Anne to North Point—for immediate emergency dispatch.',
+    responseTime: 'prompt response to all Reston neighborhoods. Our crews are serving the Reston corridor—from Lake Anne to North Point—for immediate emergency dispatch.',
   },
   faqs: [
     {
@@ -157,7 +157,7 @@ Our IICRC Master Water Restorers know that your Hunters Woods cluster requires d
     },
     {
       question: 'Will you work directly with my insurance company?',
-      answer: 'Yes. We handle direct billing with all major carriers and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim. Professional documentation typically improves claim outcomes for Reston homeowners.',
+      answer: 'Yes. We handle insurance documentation and coordination and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim. Professional documentation typically improves claim outcomes for Reston homeowners.',
     },
     {
       question: 'How do you prevent mold after water damage?',
@@ -165,7 +165,7 @@ Our IICRC Master Water Restorers know that your Hunters Woods cluster requires d
     },
     {
       question: `What's the difference between your service and national chains?`,
-      answer: `We're locally owned and Reston-focused. Our crews know the clusters, understand HOA requirements, and are positioned for 30-minute response. National franchises often dispatch from distant locations and lack expertise in Reston's specific challenges—party wall issues, lake-adjacent groundwater, and planned community coordination.`,
+      answer: `We're locally owned and Reston-focused. Our crews know the clusters, understand HOA requirements, and are available for prompt response. National franchises often dispatch from distant locations and lack experience in Reston's specific challenges—party wall issues, lake-adjacent groundwater, and planned community coordination.`,
     },
     {
       question: 'Do you handle water damage in Reston Town Center high-rises?',
@@ -179,6 +179,6 @@ Our IICRC Master Water Restorers know that your Hunters Woods cluster requires d
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Reston?',
-    paragraph: `Every hour of delay means more damage to your home—and in Reston's connected community, potentially to your neighbors' homes too. Our crews are stationed throughout Reston for immediate 30-minute response. One call handles everything—from water extraction to HOA coordination.`,
+    paragraph: `Every hour of delay means more damage to your home—and in Reston's connected community, potentially to your neighbors' homes too. Our crews are serving Reston for immediate prompt response. One call handles everything—from water extraction to HOA coordination.`,
   },
 }

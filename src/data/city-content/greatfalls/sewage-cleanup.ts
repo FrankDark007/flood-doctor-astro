@@ -11,22 +11,22 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Nearly every Great Falls estate operates on a private septic system—and when these systems fail, the consequences are immediate and serious. Sewage backing up into your finished lower level isn't just property damage; it's a biohazard emergency that threatens your family's health and requires specialized cleanup protocols most restoration companies aren't equipped to handle.
 
-Flood Doctor has responded to septic emergencies throughout Great Falls for nearly two decades. We've cleaned up backups in Forestville estates, decontaminated finished basements in Seneca Estates properties, and restored lower levels throughout the Georgetown Pike corridor. When sewage threatens your home, we respond within 30 minutes with crews certified in Category 3 biohazard remediation—not general restoration workers learning on your property.`,
+Flood Doctor has responded to septic emergencies throughout Great Falls across the service area. We've cleaned up backups in Forestville estates, decontaminated finished basements in Seneca Estates properties, and restored lower levels throughout the Georgetown Pike corridor. When sewage threatens your home, we respond as quickly as access and conditions allow with crews qualified in Category 3 biohazard remediation—not general restoration workers learning on your property.`,
       `Great Falls septic systems face unique challenges. Multi-acre estates often have septic infrastructure that's decades old—clay pipes that mature trees have infiltrated, drain fields that have reached capacity, and tanks that haven't been maintained to match occupancy changes. These systems serve properties with 8+ bathrooms, guest houses, pool houses, and sometimes equestrian facilities—demanding loads that can overwhelm aging infrastructure.
 
-Our IICRC Master Water Restorers and biohazard-certified crews understand that sewage cleanup in Great Falls means protecting irreplaceable assets while ensuring complete decontamination. Your wine cellar, your custom finishes, your family's health—all require the thoroughness and discretion we provide.`,
+Our experienced restoration crews and biohazard-trained crews understand that sewage cleanup in Great Falls means protecting irreplaceable assets while ensuring complete decontamination. Your wine cellar, your custom finishes, your family's health—all require the thoroughness and discretion we provide.`,
     ],
-    localContext: `Great Falls' private septic systems—often serving large estates with significant plumbing loads—require specialized backup cleanup. We respond with biohazard protocols, septic system expertise, and the discretion Great Falls homeowners expect.`,
+    localContext: `Great Falls' private septic systems—often serving large estates with significant plumbing loads—require specialized backup cleanup. We respond with biohazard protocols, septic system experience, and the discretion Great Falls homeowners expect.`,
   },
   processSteps: [
     {
       title: 'Immediate Biohazard Response',
-      description: 'When you call (877) 497-0007 about sewage backup, we dispatch immediately with biohazard-equipped crews. Sewage contains pathogens that pose immediate health risks—speed matters. We reach Great Falls properties within 30 minutes.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007 about sewage backup, we dispatch immediately with biohazard-equipped crews. Sewage contains pathogens that pose immediate health risks—speed matters. We reach Great Falls properties as quickly as access and conditions allow.',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Safety Isolation & Assessment',
-      description: 'Upon arrival, we isolate affected areas to prevent cross-contamination throughout your estate. Our assessment determines backup extent, affected materials, and contamination boundaries—sewage can spread further than visible contamination suggests.',
+      description: 'During response, we isolate affected areas to prevent cross-contamination throughout your estate. Our assessment determines backup extent, affected materials, and contamination boundaries—sewage can spread further than visible contamination suggests.',
       timeframe: 'First hour',
     },
     {
@@ -87,7 +87,7 @@ Our IICRC Master Water Restorers and biohazard-certified crews understand that s
       },
       {
         name: 'EPA-Registered Antimicrobial Treatment System',
-        purpose: 'Applies hospital-grade antimicrobial agents to all surfaces that contacted sewage. Our treatment systems ensure complete coverage of floors, walls, and structural members, neutralizing bacteria, viruses, and parasites before drying begins.',
+        purpose: 'Applies hospital-grade antimicrobial agents to all surfaces that contacted sewage. Our treatment systems ensure well-documented claim review of floors, walls, and structural members, neutralizing bacteria, viruses, and parasites before drying begins.',
       },
       {
         name: 'Negative Air Machine with HEPA Filtration',
@@ -122,7 +122,7 @@ Our IICRC Master Water Restorers and biohazard-certified crews understand that s
   },
   pricingSection: {
     headline: 'Sewage Cleanup Costs for Great Falls Properties',
-    intro: `Sewage cleanup pricing reflects the biohazard protocols required for safe decontamination. We provide on-site assessments within our 30-minute emergency response window. All pricing is itemized using Xactimate and directly compatible with insurance adjuster formats. Sewage backup claims often involve both homeowner's insurance and optional sewer/septic endorsements—we help navigate coverage across all applicable policies.`,
+    intro: `Sewage cleanup pricing reflects the biohazard protocols required for safe decontamination. We provide on-site assessments within our prompt emergency response window. All pricing is itemized using Xactimate and directly compatible with insurance adjuster formats. Sewage backup claims often involve both homeowner's insurance and optional sewer/septic endorsements—we help navigate coverage across all applicable policies.`,
     factors: [
       'Square footage of contaminated area and extent of sewage penetration into structural materials',
       'Water category confirmation—septic backup is Category 3 requiring the most aggressive decontamination protocols',
@@ -132,7 +132,7 @@ Our IICRC Master Water Restorers and biohazard-certified crews understand that s
       'Antimicrobial treatment scope and air quality verification requirements',
       'Emergency timing and the complexity of biohazard response protocols for after-hours events',
     ],
-    cta: 'Call (877) 497-0007 immediately for sewage backup response. We arrive within 30 minutes with full biohazard equipment and provide a written estimate before beginning decontamination work. Insurance coordination and septic specialist referrals included.',
+    cta: 'Call (877) 497-0007 immediately for sewage backup response. We arrive as quickly as access and conditions allow with full biohazard equipment and provide a written estimate before beginning decontamination work. Insurance coordination and septic specialist referrals included.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -151,16 +151,16 @@ Our IICRC Master Water Restorers and biohazard-certified crews understand that s
       'The Preserve',
       'Colvin Run',
     ],
-    responseTime: '30-minute biohazard response to all Great Falls properties, 24/7/365. Nearly every Great Falls home operates on private septic—our crews are trained specifically for the septic system failures common in this community. Discrete service is standard for all sewage-related work.',
+    responseTime: 'prompt biohazard response to all Great Falls properties, 24/7/365. Nearly every Great Falls home operates on private septic—our crews are trained specifically for the septic system failures common in this community. Discrete service is standard for all sewage-related work.',
   },
   faqs: [
     {
       question: 'How quickly can you respond to a sewage backup in Great Falls?',
-      answer: 'We guarantee 30-minute response with biohazard-equipped crews. Sewage backup creates immediate health risks—every minute of delay exposes your family and spreads contamination. Call (877) 497-0007 immediately upon discovering a backup.',
+      answer: 'We provide prompt response with biohazard-equipped crews. Sewage backup creates immediate health risks—every minute of delay exposes your family and spreads contamination. Call (877) 497-0007 immediately upon discovering a backup.',
     },
     {
       question: 'Is sewage backup dangerous?',
-      answer: 'Yes. Sewage contains bacteria, viruses, and parasites that pose serious health risks. Category 3 (black water) contamination requires professional biohazard cleanup—not DIY attempts. Keep family members and pets away from affected areas until our certified crews arrive.',
+      answer: 'Yes. Sewage contains bacteria, viruses, and parasites that pose serious health risks. Category 3 (black water) contamination requires professional biohazard cleanup—not DIY attempts. Keep family members and pets away from affected areas until our trained crews arrive.',
     },
     {
       question: 'Do you work with septic contractors to fix the underlying problem?',
@@ -182,6 +182,6 @@ Our IICRC Master Water Restorers and biohazard-certified crews understand that s
   relatedBlogSlugs: ['first-24-hours-after-water-damage', 'water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: 'Sewage Backup in Your Great Falls Home?',
-    paragraph: 'Sewage contamination poses immediate health risks. Our biohazard-certified crews respond within 30 minutes with proper equipment and protocols. Discrete service, thorough decontamination, septic coordination—one call handles everything.',
+    paragraph: 'Sewage contamination poses immediate health risks. Our biohazard-trained crews respond as quickly as access and conditions allow with proper equipment and protocols. Discrete service, thorough decontamination, septic coordination—one call handles everything.',
   },
 }

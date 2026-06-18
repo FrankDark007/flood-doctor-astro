@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Herndon, VA | Save Your Floors | Flood Doctor',
-    description: `Herndon hardwood floor drying specialists. Saving floors in Downtown Herndon, Fox Mill & Franklin Farm. Rental and homeowner expertise. Fast turnaround. Call (877) 497-0007.`,
+    description: `Herndon hardwood floor drying specialists. Saving floors in Downtown Herndon, Fox Mill & Franklin Farm. Rental and homeowner experience. Fast turnaround. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Herndon, Virginia',
   introSection: {
@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Fast Herndon Response',
-      description: `Call (877) 497-0007 and our crews reach your Herndon property within 30 minutes. We assess the hardwood condition, measure moisture content, and determine the full extent of water migration—including into adjacent rooms and beneath cabinetry where water often pools undetected.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews reach your Herndon property as quickly as access and conditions allow. We assess the hardwood condition, measure moisture content, and determine the full extent of water migration—including into adjacent rooms and beneath cabinetry where water often pools undetected.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Extraction Across Full Affected Area',
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Bradley Farm',
       'Coppermine Crossing',
     ],
-    responseTime: '30-minute emergency response throughout Herndon. Our Dulles corridor positioned crews reach Downtown Herndon through Franklin Farm with complete floor drying systems.',
+    responseTime: 'prompt emergency response throughout Herndon. Our Dulles corridor positioned crews reach Downtown Herndon through Franklin Farm with complete floor drying systems.',
   },
   faqs: [
     {
@@ -147,7 +147,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Does insurance cover hardwood floor drying for rental properties?',
-      answer: 'Yes. Landlord insurance policies cover water damage restoration including hardwood floor drying. We provide the documentation insurance adjusters require and handle direct billing. For tenant-caused damage, liability may shift to renter insurance—we document the source for either claim.',
+      answer: 'Yes. Landlord insurance policies cover water damage restoration including hardwood floor drying. We provide the documentation insurance adjusters require and handle insurance coordination. For tenant-caused damage, liability may shift to renter insurance—we document the source for either claim.',
     },
     {
       question: 'Can you match replacement boards to our existing Herndon flooring?',

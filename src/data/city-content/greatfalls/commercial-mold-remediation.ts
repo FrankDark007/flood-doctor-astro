@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Great Falls, VA | Flood Doctor`,
-    description: `Great Falls commercial mold remediation specialists. CIH-coordinated protocols for estate offices, equestrian facilities, and premium commercial properties near Georgetown Pike. Call (877) 497-0007.`,
+    description: `Great Falls commercial mold remediation specialists. CIH-coordinated protocols for estate workplaces, equestrian facilities, and premium commercial properties near Georgetown Pike. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Great Falls, Virginia`,
   introSection: {
     headline: `Safeguarding Great Falls Commercial and Equestrian Properties from Mold Contamination`,
     paragraphs: [
-      `Mold discovered in a Great Falls commercial property creates immediate obligations for property managers and building owners. Tenant notification requirements, employee health concerns, indoor air quality standards, and the reputational risk of mold at an ultra-premium address demand rapid, scientifically grounded remediation. When staff at a Forestville estate office report musty odors or respiratory symptoms emerge at a Hickory Farms equestrian facility, the response must be swift and thoroughly documented. Flood Doctor provides certified commercial mold remediation coordinated with independent industrial hygienists, delivering clearance-verified results that protect both building occupants and property ownership interests across Great Falls.`,
-      `Great Falls commercial buildings face mold risks amplified by the area's distinctive property characteristics and humid Mid-Atlantic climate. Properties along Georgetown Pike feature older building envelopes that allow chronic moisture intrusion behind walls and above ceiling tiles. Equestrian facilities in Seneca Estates and Riverbend maintain high-humidity environments that accelerate mold colonization on structural surfaces. Properties relying on private wells and septic systems experience moisture conditions that differ fundamentally from municipal-serviced buildings. Our teams have remediated mold contamination in Great Falls office buildings, equestrian barns, retail centers, and mixed-use properties—always under CIH-developed protocols with independent post-remediation verification.`,
+      `Mold discovered in a Great Falls commercial property creates immediate obligations for property managers and building owners. Tenant notification requirements, employee health concerns, indoor air quality standards, and the reputational risk of mold at an ultra-premium address demand rapid, scientifically grounded remediation. When staff at a Forestville estate workplace report musty odors or respiratory symptoms emerge at a Hickory Farms equestrian facility, the response must be swift and thoroughly documented. Flood Doctor provides qualified commercial mold remediation coordinated with independent industrial hygienists, delivering clearance-verified results that protect both building occupants and property ownership interests across Great Falls.`,
+      `Great Falls commercial buildings face mold risks amplified by the area's distinctive property characteristics and humid Mid-Atlantic climate. Properties along Georgetown Pike feature older building envelopes that allow chronic moisture intrusion behind walls and above ceiling tiles. Equestrian facilities in Seneca Estates and Riverbend maintain high-humidity environments that accelerate mold colonization on structural surfaces. Properties relying on private wells and septic systems experience moisture conditions that differ fundamentally from municipal-serviced buildings. Our teams have remediated mold contamination in Great Falls commercial buildings, equestrian barns, retail centers, and mixed-use properties—always under CIH-developed protocols with independent post-remediation verification.`,
     ],
-    localContext: `Great Falls ultra-premium commercial market—with its estate offices, equestrian facilities, and Georgetown Pike retail—requires mold remediation that meets regulatory standards while addressing the unique moisture challenges of large-lot, septic-served properties.`,
+    localContext: `Great Falls ultra-premium commercial market—with its estate workplaces, equestrian facilities, and Georgetown Pike retail—requires mold remediation that meets regulatory standards while addressing the unique moisture challenges of large-lot, septic-served properties.`,
   },
   processSteps: [
     {
       title: `Initial Assessment and CIH Coordination`,
-      description: `We coordinate with a certified industrial hygienist to conduct air and surface sampling at your Great Falls commercial property. The CIH develops a remediation protocol based on mold species, contamination extent, and building-specific factors including HVAC configuration, facility type, and occupancy patterns unique to Great Falls commercial and equestrian properties.`,
+      description: `We coordinate with a qualified industrial hygienist to conduct air and surface sampling at your Great Falls commercial property. The CIH develops a remediation protocol based on mold species, contamination extent, and building-specific factors including HVAC configuration, facility type, and occupancy patterns unique to Great Falls commercial and equestrian properties.`,
       timeframe: `Days 1-3`,
     },
     {
@@ -59,7 +59,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Premium Property Discretion Requirements`,
-      description: `Great Falls commercial properties serve ultra-high-net-worth clients who expect discretion. Mold remediation activity at a Georgetown Pike office complex or Seneca Estates facility must be managed to protect the property's reputation and client relationships.`,
+      description: `Great Falls commercial properties serve ultra-high-net-worth clients who expect discretion. Mold remediation activity at a Georgetown Pike workplace complex or Seneca Estates facility must be managed to protect the property's reputation and client relationships.`,
       solution: `We manage remediation with unmarked vehicles, minimal signage, and scheduling that reduces visibility. Our project managers coordinate with property management on communication strategies that maintain client confidence while ensuring regulatory transparency.`,
     },
   ],
@@ -87,7 +87,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HEPA Vacuum Systems`,
-        purpose: `Remove settled spores from structural surfaces during remediation, meeting IICRC S520 standards for commercial mold removal`,
+        purpose: `Remove settled spores from structural surfaces during remediation, meeting industry-standard S520 standards for commercial mold removal`,
       },
       {
         name: `Moisture Mapping Instruments`,
@@ -99,13 +99,13 @@ export const content: CityServiceContent = {
         purpose: `Collect pre- and post-remediation air samples for CIH laboratory analysis and clearance verification`,
       },
     ],
-    localNote: `Our Great Falls commercial teams deploy equipment scaled for estate office complexes, equestrian facilities, and large-footprint commercial properties, with extended capability for the oversized structures and mixed-use buildings characteristic of Great Falls.`,
+    localNote: `Our Great Falls commercial teams deploy equipment scaled for estate workplace complexes, equestrian facilities, and large-footprint commercial properties, with extended capability for the oversized structures and mixed-use buildings characteristic of Great Falls.`,
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Great Falls`,
     intro: `Great Falls commercial mold remediation costs reflect the scope of contamination, building complexity, and regulatory requirements. We provide detailed estimates following CIH assessment. Many commercial insurance policies cover mold remediation when linked to a covered water damage event—we help establish and document that connection.`,
     factors: [
-      `Contamination area—single office suite remediation differs significantly from equestrian facility or multi-building mold events`,
+      `Contamination area—single workplace suite remediation differs significantly from equestrian facility or multi-building mold events`,
       `CIH assessment and clearance testing—independent industrial hygienist services are a necessary component of commercial mold remediation`,
       `HVAC involvement—mold in air handling systems requires specialized ductwork cleaning that adds complexity`,
       `Facility type—equestrian properties and mixed-use buildings require adapted protocols with additional considerations`,

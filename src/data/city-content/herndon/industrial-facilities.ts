@@ -9,20 +9,20 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Data Center and Commercial Facility Restoration in Herndon's Technology Corridor`,
     paragraphs: [
-      `Herndon sits at the epicenter of the world's largest concentration of data centers. The Dulles corridor running through Herndon houses hyperscale computing facilities, colocation centers, and enterprise data infrastructure that powers a significant portion of global internet traffic. Beyond data centers, Herndon's commercial landscape includes technology company offices at Worldgate Centre, logistics operations near Dulles Airport, and light manufacturing facilities serving the aerospace and defense industries. When water damage threatens any of these operations, the consequences ripple far beyond the property—internet connectivity, cloud services, supply chains, and national security infrastructure can all be affected.
+      `Herndon sits at the epicenter of the world's largest concentration of data centers. The Dulles corridor running through Herndon houses hyperscale computing facilities, colocation centers, and enterprise data infrastructure that powers a significant portion of global internet traffic. Beyond data centers, Herndon's commercial landscape includes technology company workplaces at Worldgate Centre, logistics operations near Dulles Airport, and light manufacturing facilities serving the aerospace and defense industries. When water damage threatens any of these operations, the consequences ripple far beyond the property—internet connectivity, cloud services, supply chains, and national security infrastructure can all be affected.
 
-Flood Doctor provides the industrial-grade, technology-aware restoration these Herndon facilities demand. Our data center response teams deploy anti-corrosion treatment and precision environmental controls within hours. Our HAZWOPER-certified crews handle the chemical and electrical hazards present in industrial computing environments. We coordinate with facility operations teams who manage 24/7 uptime requirements and cannot tolerate the disruption of poorly managed restoration work. For Herndon's data center operators and technology companies, we represent the difference between a controlled incident and an operational catastrophe.`,
+Flood Doctor provides the industrial-grade, technology-aware restoration these Herndon facilities demand. Our data center response teams deploy anti-corrosion treatment and precision environmental controls within hours. Our HAZWOPER-trained crews handle the chemical and electrical hazards present in industrial computing environments. We coordinate with facility operations teams who manage 24/7 uptime requirements and cannot tolerate the disruption of poorly managed restoration work. For Herndon's data center operators and technology companies, we represent the difference between a controlled incident and an operational catastrophe.`,
       `The concentration of critical computing infrastructure in Herndon creates unique restoration challenges beyond standard commercial water damage. Data centers maintain precise environmental conditions—temperature within narrow ranges, humidity controlled to prevent both static discharge and condensation. Water intrusion disrupts these conditions, and the restoration process itself can introduce environmental variations that damage equipment already stressed by the water event. Cooling system failures—the most common data center water source—simultaneously flood the facility and eliminate the environmental controls that protect billions of dollars in computing equipment.
 
 Our Herndon data center team addresses these interrelated challenges. We stabilize environmental conditions before addressing structural water damage, maintaining the precise temperature and humidity specifications each facility requires. Anti-corrosion treatment begins within hours, not days. Equipment recovery follows manufacturer protocols coordinated with OEM service teams. For the technology companies in Franklin Farm and McNair commercial parks, we apply similar principles at smaller scale—treating servers, networking equipment, and development hardware with the same urgency and precision that data center operators require.`,
     ],
-    localContext: `Herndon's position as the world's data center capital demands industrial restoration expertise specific to critical computing infrastructure, alongside capability for the technology offices, logistics operations, and light manufacturing that support the Dulles corridor economy.`,
+    localContext: `Herndon's position as the world's data center capital demands industrial restoration experience specific to critical computing infrastructure, alongside capability for the technology workplaces, logistics operations, and light manufacturing that support the Dulles corridor economy.`,
   },
   processSteps: [
     {
       title: `Critical Infrastructure Emergency Response`,
-      description: `Call (877) 497-0007 for immediate deployment. Our Herndon data center and commercial response teams coordinate with facility operations during transit, arriving with anti-corrosion treatment, environmental controls, and extraction equipment within 30 minutes.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate deployment. Our Herndon data center and commercial response teams coordinate with facility operations during transit, arriving with anti-corrosion treatment, environmental controls, and extraction equipment as quickly as access and conditions allow.`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Environmental Stabilization`,
@@ -131,7 +131,7 @@ Our Herndon data center team addresses these interrelated challenges. We stabili
       `Sterling Connection`,
       `Ashburn Connection`,
     ],
-    responseTime: `30-minute emergency response to all Herndon commercial, technology, and data center facilities. Anti-corrosion treatment and environmental stabilization equipment deploy with every response team.`,
+    responseTime: `prompt emergency response to all Herndon commercial, technology, and data center facilities. Anti-corrosion treatment and environmental stabilization equipment deploy with every response team.`,
   },
   faqs: [
     {
@@ -155,7 +155,7 @@ Our Herndon data center team addresses these interrelated challenges. We stabili
       answer: `Yes. We prepare timeline documentation, environmental monitoring records, and restoration progress reports formatted for the SLA compliance and client notification requirements data center operators manage.`,
     },
     {
-      question: `What about technology offices in Franklin Farm and McNair?`,
+      question: `What about technology workplaces in Franklin Farm and McNair?`,
       answer: `We apply the same equipment-first principles at smaller scale. Server rooms, development hardware, and engineering workstations receive anti-corrosion treatment and environmental protection alongside structural restoration. Business resumption planning begins immediately.`,
     },
   ],
@@ -164,6 +164,6 @@ Our Herndon data center team addresses these interrelated challenges. We stabili
   ],
   finalCTA: {
     headline: `Data Center or Technology Facility Emergency in Herndon?`,
-    paragraph: `Critical computing infrastructure faces permanent damage within hours. Our precision environmental and anti-corrosion teams respond to Herndon data centers and technology facilities within 30 minutes. Call (877) 497-0007 immediately.`,
+    paragraph: `Critical computing infrastructure faces permanent damage within hours. Our precision environmental and anti-corrosion teams respond to Herndon data centers and technology facilities as quickly as access and conditions allow. Call (877) 497-0007 immediately.`,
   },
 }

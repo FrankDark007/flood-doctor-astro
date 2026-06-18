@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Tysons, VA | Flood Doctor`,
-    description: `Tysons' trusted commercial mold remediation team. CIH-coordinated protocols for Class A offices, mixed-use towers, and commercial buildings near Tysons Corner Center and Capital One HQ. Call (877) 497-0007.`,
+    description: `Tysons' local commercial mold remediation team. CIH-coordinated protocols for Class A workplaces, mixed-use towers, and commercial buildings near Tysons Corner Center and Capital One HQ. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Tysons, Virginia`,
   introSection: {
     headline: `Large-Scale Mold Remediation for Tysons' Modern Commercial Buildings`,
     paragraphs: [
-      `Mold contamination in Tysons' commercial towers creates liability and operational disruption at a scale matching the area's building class. A centralized HVAC system in a Tysons Central Class A office building distributes mold spores from a contaminated plenum to twenty floors of occupied tenant space. A persistent condensation problem in a The Boro mixed-use development feeds mold colonies behind walls of both commercial suites and residential units. A construction defect in a Scotts Run tower allows water intrusion that generates mold growth visible to tenants months after certificate of occupancy. Tysons property managers overseeing institutional-grade assets need mold remediation that matches the building class—CIH-coordinated, independently verified, and documented to standards that satisfy both regulatory requirements and sophisticated tenant expectations. Flood Doctor delivers large-scale commercial mold remediation engineered for Tysons' modern building environment.`,
+      `Mold contamination in Tysons' commercial towers creates liability and operational disruption at a scale matching the area's building class. A centralized HVAC system in a Tysons Central Class A commercial building distributes mold spores from a contaminated plenum to twenty floors of occupied tenant space. A persistent condensation problem in a The Boro mixed-use development feeds mold colonies behind walls of both commercial suites and residential units. A construction defect in a Scotts Run tower allows water intrusion that generates mold growth visible to tenants months after certificate of occupancy. Tysons property managers overseeing institutional-grade assets need mold remediation that matches the building class—CIH-coordinated, independently verified, and documented to standards that satisfy both regulatory requirements and sophisticated tenant expectations. Flood Doctor delivers large-scale commercial mold remediation engineered for Tysons' modern building environment.`,
       `Tysons' commercial mold challenges are shaped by the area's building boom and HVAC complexity. New construction towers may harbor hidden moisture from installation defects, improperly sealed curtain walls, or condensation issues in complex mechanical systems. Large-format centralized HVAC serving 20+ floors distributes contamination building-wide when mold colonizes any component of the air handling system. Below-grade retail and parking levels in Tysons Corner Center and Tysons Galleria experience humidity migration through concrete that supports mold growth on interior surfaces. The high occupant density in Tysons commercial buildings means that even localized mold affects building-wide indoor air quality perception, triggering tenant complaints that demand professional, documented resolution.`,
     ],
     localContext: `Tysons' modern commercial towers—featuring centralized HVAC systems, mixed-use occupancies, and institutional ownership—require mold remediation at a scale and documentation standard matching the area's Class A building environment.`,
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `CIH Assessment for Complex Building Systems`,
-      description: `We coordinate a certified industrial hygienist experienced with Tysons-class commercial buildings. Assessment includes air and surface sampling across affected and baseline areas, moisture mapping of the building envelope, and evaluation of centralized HVAC systems that may be distributing contamination across multiple floors.`,
+      description: `We coordinate a qualified industrial hygienist experienced with Tysons-class commercial buildings. Assessment includes air and surface sampling across affected and baseline areas, moisture mapping of the building envelope, and evaluation of centralized HVAC systems that may be distributing contamination across multiple floors.`,
       timeframe: `Days 1-4`,
     },
     {
@@ -44,7 +44,7 @@ export const content: CityServiceContent = {
   localChallenges: [
     {
       title: `Centralized HVAC Mold Distribution`,
-      description: `Tysons Class A office buildings feature centralized air handling systems serving 500,000+ square feet across 20+ floors. Mold colonizing any component—coils, drain pans, plenums, or ductwork—distributes spores building-wide, creating contamination that affects thousands of occupants.`,
+      description: `Tysons Class A commercial buildings feature centralized air handling systems serving 500,000+ square feet across 20+ floors. Mold colonizing any component—coils, drain pans, plenums, or ductwork—distributes spores building-wide, creating contamination that affects thousands of occupants.`,
       solution: `Our HVAC remediation capability matches Tysons building scale. We clean entire centralized systems including rooftop air handlers, vertical risers, horizontal distribution, and terminal units. UV germicidal and improved condensate management recommendations prevent recolonization.`,
     },
     {
@@ -133,7 +133,7 @@ export const content: CityServiceContent = {
       answer: `Centralized air handling systems in Tysons towers circulate air through shared ductwork serving all connected floors. Mold colonizing coils, drain pans, plenums, or ductwork distributes spores building-wide. Remediation must address the entire air handling system to stop building-wide contamination.`,
     },
     {
-      question: `Can a Tysons office tower remain occupied during mold remediation?`,
+      question: `Can a Tysons workplace tower remain occupied during mold remediation?`,
       answer: `Floors under active remediation must be vacated. Our containment engineering and HVAC zone isolation allow unaffected floors to remain operational. Zone-by-zone clearance testing enables progressive re-occupancy as areas pass verification.`,
     },
     {

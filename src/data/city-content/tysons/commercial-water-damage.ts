@@ -3,18 +3,18 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Tysons, VA | Flood Doctor',
-    description: `Tysons commercial water damage experts. Class A office towers, mixed-use developments & data centers near Tysons Corner Center, The Boro & Capital One HQ. Call (877) 497-0007.`,
+    description: `Tysons commercial water damage specialists. Class A workplace towers, mixed-use developments & data centers near Tysons Corner Center, The Boro & Capital One HQ. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Tysons, Virginia',
   introSection: {
     headline: `Advanced Commercial Water Damage Response for Tysons' Modern Building Systems`,
     paragraphs: [
-      `Tysons represents the epicenter of Northern Virginia's commercial real estate market—Class A office towers housing Fortune 500 headquarters, mixed-use developments combining luxury residential with premium retail, and the modern building systems that make these properties efficient but complex when water damage occurs. When a chiller line ruptures on the 20th floor of a Tysons Corner tower, when an HVAC condensate failure spreads hidden moisture through the ceiling plenum of a Scotts Run office building, or when a domestic water riser fails in a mixed-use development at The Boro, the restoration demands a team that understands modern commercial building systems at a technical level matching the engineers who designed them.
+      `Tysons represents the epicenter of Northern Virginia's commercial real estate market—Class A workplace towers housing Fortune 500 headquarters, mixed-use developments combining luxury residential with premium retail, and the modern building systems that make these properties efficient but complex when water damage occurs. When a chiller line ruptures on the 20th floor of a Tysons Corner tower, when an HVAC condensate failure spreads hidden moisture through the ceiling plenum of a Scotts Run commercial building, or when a domestic water riser fails in a mixed-use development at The Boro, the restoration demands a team that understands modern commercial building systems at a technical level matching the engineers who designed them.
 
-Flood Doctor's commercial division has restored water-damaged properties across Tysons' most prominent addresses. We've managed multi-floor extraction events in Tysons Central high-rises, dried compromised server infrastructure in Tysons Metro-area office towers, and restored water damage in The Mile mixed-use development—deploying the technical expertise and industrial capacity that this market demands.`,
+Flood Doctor's commercial division has restored water-damaged properties across Tysons' most prominent addresses. We've managed multi-floor extraction events in Tysons Central high-rises, dried compromised server infrastructure in Tysons Metro-area workplace towers, and restored water damage in The Mile mixed-use development—deploying the technical experience and industrial capacity that this market demands.`,
       `Tysons' commercial water damage challenges are rooted in modern building system complexity. High-rise towers feature domestic water risers, chiller water loops, fire suppression systems, and condensate drainage networks—each carrying water under pressure through every floor of the building. A single failure point in any of these systems can release thousands of gallons across multiple floors in minutes. The newer construction at The Boro, Scotts Run, and Tysons Central uses modern materials—spray foam insulation, engineered products, integrated building management systems—that require technicians trained in current construction methods rather than legacy building knowledge.
 
-Our commercial teams bring the modern building system expertise Tysons requires. We interface with building automation systems to diagnose water sources, understand the interaction between chiller water and HVAC systems, and deploy drying protocols calibrated for the materials and assemblies used in Tysons' contemporary commercial construction. When we coordinate with your building engineer, we speak the same technical language.`,
+Our commercial teams bring the modern building system experience Tysons requires. We interface with building automation systems to diagnose water sources, understand the interaction between chiller water and HVAC systems, and deploy drying protocols calibrated for the materials and assemblies used in Tysons' contemporary commercial construction. When we coordinate with your building engineer, we speak the same technical language.`,
     ],
     localContext: `Tysons' concentration of Class A high-rise towers, modern mixed-use developments, and sophisticated building management systems creates commercial water damage scenarios requiring restoration teams with advanced technical knowledge of contemporary commercial building systems.`,
   },
@@ -22,7 +22,7 @@ Our commercial teams bring the modern building system expertise Tysons requires.
     {
       title: 'Technical Commercial Dispatch',
       description: `Call (877) 497-0007 for immediate commercial response. Our Tysons commercial crews are equipped for high-rise deployment with elevator-compatible equipment and the building system knowledge to coordinate with your engineering staff from the first minute on site.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Building System Diagnostic Assessment',
@@ -63,12 +63,12 @@ Our commercial teams bring the modern building system expertise Tysons requires.
     },
     {
       title: 'Data Center and Server Room Exposure',
-      description: 'Tysons office towers house critical IT infrastructure for government contractors, financial firms, and technology companies. Water reaching server rooms or network closets creates data loss risk and equipment damage that can exceed the physical restoration costs by orders of magnitude.',
+      description: 'Tysons workplace towers house critical IT infrastructure for government contractors, financial firms, and technology companies. Water reaching server rooms or network closets creates data loss risk and equipment damage that can exceed the physical restoration costs by orders of magnitude.',
       solution: 'IT infrastructure receives priority response from our first minutes on site. Anti-corrosion treatments are applied within the critical window, controlled drying environments are established, and we coordinate with your IT team on equipment assessment. Our documentation supports both insurance claims and equipment warranty processes.',
     },
     {
       title: 'Mixed-Use Building Complexity',
-      description: 'The Boro and Tysons Corner developments combine Class A office, luxury retail, and residential uses in connected structures. Water damage in one use type propagates into others, creating insurance coordination complexity across commercial, retail, and residential carriers.',
+      description: 'The Boro and Tysons Corner developments combine Class A workspace, luxury retail, and residential uses in connected structures. Water damage in one use type propagates into others, creating insurance coordination complexity across commercial, retail, and residential carriers.',
       solution: 'Our project manager establishes separate scopes and documentation for each use type while managing the overall restoration as an integrated project. We understand the different insurance structures and regulatory requirements for commercial, retail, and residential restoration.',
     },
     {
@@ -82,7 +82,7 @@ Our commercial teams bring the modern building system expertise Tysons requires.
     equipment: [
       {
         name: 'High-Rise Extraction Systems',
-        purpose: 'Elevator-compatible modular extraction for simultaneous multi-floor deployment in Tysons office towers',
+        purpose: 'Elevator-compatible modular extraction for simultaneous multi-floor deployment in Tysons workplace towers',
         brand: 'Prochem',
       },
       {
@@ -140,11 +140,11 @@ Our commercial teams bring the modern building system expertise Tysons requires.
       'Spring Hill Metro Area',
       'Greensboro Metro Area',
     ],
-    responseTime: '30-minute commercial response to all Tysons business properties. Crews stationed throughout the Tysons urban core with high-rise-compatible equipment for immediate tower deployment.',
+    responseTime: 'prompt commercial response to all Tysons business properties. Crews serving the Tysons urban core with high-rise-compatible equipment for immediate tower deployment.',
   },
   faqs: [
     {
-      question: 'Can you handle water damage in a Tysons Class A office tower?',
+      question: 'Can you handle water damage in a Tysons Class A workplace tower?',
       answer: `Yes. Our commercial division specializes in modern high-rise restoration. We deploy elevator-compatible equipment, coordinate with building automation systems, and interface with building engineers on complex mechanical system interactions. We have managed multi-floor events in Tysons' tallest commercial properties.`,
     },
     {
@@ -160,16 +160,16 @@ Our commercial teams bring the modern building system expertise Tysons requires.
       answer: 'We document water damage with construction defect implications in mind, distinguishing between maintenance-related damage and installation defects. Our documentation supports warranty claims, insurance claims, and potential litigation simultaneously.',
     },
     {
-      question: 'Do you work after hours in occupied Tysons office buildings?',
+      question: 'Do you work after hours in occupied Tysons commercial buildings?',
       answer: 'We coordinate all scheduling with building management and affected tenants. Noisy work is typically scheduled evenings and weekends, with quiet drying operations during business hours. Our project managers adapt to the 24/7 operational schedules common in Tysons commercial properties.',
     },
     {
-      question: 'How do you manage a mixed-use building where water affects offices and retail?',
+      question: 'How do you manage a mixed-use building where water affects workplaces and retail?',
       answer: 'We establish separate scopes and insurance documentation for each use type while managing the integrated restoration efficiently. Different carriers, coverage structures, and operational priorities are managed by our project manager as a single coordinated project.',
     },
     {
       question: 'Do you offer priority response agreements for Tysons property managers?',
-      answer: 'Yes. Priority response agreements guarantee deployment times, designate dedicated project managers, and establish pre-authorized emergency protocols. Several major Tysons commercial portfolios maintain active agreements with our commercial division.',
+      answer: 'Yes. Priority response agreements service commitment deployment times, designate dedicated project managers, and establish pre-authorized emergency protocols. Several major Tysons commercial portfolios maintain active agreements with our commercial division.',
     },
   ],
   relatedBlogSlugs: [
@@ -178,6 +178,6 @@ Our commercial teams bring the modern building system expertise Tysons requires.
   ],
   finalCTA: {
     headline: 'Commercial Water Damage in Your Tysons Building?',
-    paragraph: 'Modern building systems demand a restoration team with matching technical expertise. Our commercial crews interface with your building engineers, protect your IT infrastructure, and restore Class A commercial space to the standard this market requires.',
+    paragraph: 'Modern building systems demand a restoration team with matching technical experience. Our commercial crews interface with your building engineers, protect your IT infrastructure, and restore Class A commercial space to the standard this market requires.',
   },
 }

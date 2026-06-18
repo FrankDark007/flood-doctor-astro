@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Reston, VA | Flood Doctor`,
-    description: `Reston's multi-unit restoration experts. Serving townhome clusters, garden condos, and hotels near Reston Town Center, South Lakes, and Lake Anne. Call (877) 497-0007.`,
+    description: `Reston's multi-unit restoration specialists. Serving townhome clusters, garden condos, and hotels near Reston Town Center, South Lakes, and Lake Anne. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Reston, Virginia`,
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Reston's planned community pioneered the mix of housing types that defines suburban Northern Virginia—townhome clusters sharing walls and rooflines, garden-style condominiums nestled in wooded settings, high-rise apartments near Reston Town Center, and hospitality properties serving the corporate and cultural visitors drawn to this vibrant community. Each housing type creates distinct water damage patterns. Townhome shared walls allow migration between units. Garden condos in Hunters Woods and North Point sit close to grade where groundwater and stormwater intrusion are persistent risks. High-rise apartments at Reston Station feature the cascade dynamics of vertical construction.
 
-Flood Doctor has restored multifamily properties across Reston's housing spectrum, developing particular expertise in the townhome cluster events that characterize this planned community. When a burst pipe in a South Lakes townhome sends water through shared walls and roof assemblies to adjacent units, we coordinate restoration across all affected homes while managing the Reston Association covenants, individual homeowner insurance claims, and HOA common element coverage that govern these communities.`,
+Flood Doctor has restored multifamily properties across Reston's housing spectrum, developing particular experience in the townhome cluster events that characterize this planned community. When a burst pipe in a South Lakes townhome sends water through shared walls and roof assemblies to adjacent units, we coordinate restoration across all affected homes while managing the Reston Association covenants, individual homeowner insurance claims, and HOA common element coverage that govern these communities.`,
       `The natural integration of Reston's planned design—lakes, streams, wooded buffers, and trail corridors woven through residential areas—creates environmental conditions that complicate multifamily restoration. Properties near Lake Anne experience chronically elevated humidity that accelerates mold development in water-damaged units. Townhomes adjacent to the W&OD Trail corridor face drainage challenges during heavy rain. Garden condominiums surrounded by mature tree canopy retain moisture longer after water damage events, extending drying timelines beyond what property managers accustomed to drier locations expect.
 
-Our Reston multifamily team accounts for these environmental factors in every restoration plan. Enhanced dehumidification overcomes ambient humidity. Antimicrobial treatment inhibits the accelerated mold colonization risk. Drying timelines are set realistically for Reston conditions rather than applying standard timelines from drier environments. For property managers and HOA boards, this environmental expertise translates into restoration plans that work on the first attempt rather than requiring costly callbacks for incomplete drying.`,
+Our Reston multifamily team accounts for these environmental factors in every restoration plan. Enhanced dehumidification overcomes ambient humidity. Antimicrobial treatment inhibits the accelerated mold colonization risk. Drying timelines are set realistically for Reston conditions rather than applying standard timelines from drier environments. For property managers and HOA boards, this environmental experience translates into restoration plans that work on the first attempt rather than requiring costly callbacks for incomplete drying.`,
     ],
-    localContext: `Reston's diverse multifamily housing—townhome clusters, garden condominiums, and high-rise apartments integrated with lakes and wooded green spaces—requires restoration expertise that addresses both multi-unit coordination and the environmental challenges unique to this nature-integrated planned community.`,
+    localContext: `Reston's diverse multifamily housing—townhome clusters, garden condominiums, and high-rise apartments integrated with lakes and wooded green spaces—requires restoration experience that addresses both multi-unit coordination and the environmental challenges unique to this nature-integrated planned community.`,
   },
   processSteps: [
     {
       title: `Multi-Unit Community Response`,
       description: `Call (877) 497-0007 for immediate multifamily deployment. Our Reston crews assess beyond the initial unit—checking adjacent townhomes, neighboring condo units, and shared building systems that may have distributed water throughout the cluster or building.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Environmental and Structural Assessment`,
@@ -134,7 +134,7 @@ Our Reston multifamily team accounts for these environmental factors in every re
       `Wiehle Metro Area`,
       `Colts Neck`,
     ],
-    responseTime: `30-minute emergency response to all Reston multifamily properties. Our crews navigate community layouts and carry enhanced environmental equipment for the humidity conditions unique to Reston's nature-integrated residential areas.`,
+    responseTime: `prompt emergency response to all Reston multifamily properties. Our crews navigate community layouts and carry enhanced environmental equipment for the humidity conditions unique to Reston's nature-integrated residential areas.`,
   },
   faqs: [
     {
@@ -168,6 +168,6 @@ Our Reston multifamily team accounts for these environmental factors in every re
   ],
   finalCTA: {
     headline: `Multi-Unit Water Damage in Reston?`,
-    paragraph: `Shared walls and humid conditions accelerate damage in Reston's residential communities. Our multi-unit team responds within 30 minutes with enhanced environmental controls and community coordination expertise. Call (877) 497-0007 now.`,
+    paragraph: `Shared walls and humid conditions accelerate damage in Reston's residential communities. Our multi-unit team responds as quickly as access and conditions allow with enhanced environmental controls and community coordination experience. Call (877) 497-0007 now.`,
   },
 }

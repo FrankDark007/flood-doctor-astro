@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Tysons, VA | Flood Doctor`,
-    description: `Tysons' trusted restoration for schools and public facilities. Experienced with modern building systems in the Tysons Corner and Scotts Run development areas. Call (877) 497-0007.`,
+    description: `Tysons' local restoration for schools and public facilities. Experienced with modern building systems in the Tysons Corner and Scotts Run development areas. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Tysons, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Tysons' transformation from suburban commercial district to urban center has generated new public facility needs alongside its residential and commercial growth. Schools serving the expanding residential population operate in both older facilities near Scotts Run and newer buildings designed for the urban density transforming this area. Community meeting spaces, public parks infrastructure, and transit-related facilities along the Silver Line serve a growing population that expects modern, functional public environments. When water damage affects these facilities, the response must match the pace and expectations of a community accustomed to new construction standards.
 
-Flood Doctor brings public facility restoration expertise to Tysons' unique environment—a mix of newer public buildings with modern systems and older facilities being repurposed for an urban community. We navigate Fairfax County procurement procedures for school and county facility projects, coordinate with building management for public spaces within mixed-use developments, and provide the documentation that public accountability in a high-profile development zone demands.`,
+Flood Doctor brings public facility restoration experience to Tysons' unique environment—a mix of newer public buildings with modern systems and older facilities being repurposed for an urban community. We navigate Fairfax County procurement procedures for school and county facility projects, coordinate with building management for public spaces within mixed-use developments, and provide the documentation that public accountability in a high-profile development zone demands.`,
       `Tysons' public facilities face water damage risks amplified by the area's ongoing construction activity and modern building systems. New school buildings feature complex HVAC systems, green building components, and advanced fire suppression that introduce water damage vectors not present in traditional school construction. Public spaces integrated into mixed-use developments share building systems with commercial and residential tenants, creating coordination complexity when water damage crosses property boundaries. The concentration of hard surfaces and limited green space in Tysons Central increases stormwater runoff that can overwhelm building perimeter drainage.
 
 Our teams understand these modern infrastructure challenges. We assess building system failures with the technical knowledge needed for Tysons' newest construction, coordinate multi-stakeholder restoration in mixed-use environments, and deliver on the compressed timelines that public facility disruptions in a high-profile development district demand.`,
@@ -22,7 +22,7 @@ Our teams understand these modern infrastructure challenges. We assess building 
     {
       title: `Public Facility Emergency Response`,
       description: `Call (877) 497-0007 for immediate school or public facility response. We coordinate with FCPS facilities management or Fairfax County DPW to establish incident command and activate emergency procurement procedures appropriate for the affected facility.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Emergency response`,
     },
     {
       title: `Modern Building System Assessment`,
@@ -133,7 +133,7 @@ Our teams understand these modern infrastructure challenges. We assess building 
       `Chain Bridge Road`,
       `International Drive`,
     ],
-    responseTime: `45-minute emergency response to all Tysons schools and public facilities. We coordinate with FCPS and county building management for immediate access to public facilities in both standalone and mixed-use building environments.`,
+    responseTime: `prompt emergency response to all Tysons schools and public facilities. We coordinate with FCPS and county building management for immediate access to public facilities in both standalone and mixed-use building environments.`,
   },
   faqs: [
     {
@@ -166,6 +166,6 @@ Our teams understand these modern infrastructure challenges. We assess building 
   ],
   finalCTA: {
     headline: `Tysons School or Public Facility Emergency?`,
-    paragraph: `Modern public facilities need restoration teams that understand contemporary building systems and multi-stakeholder environments. Our crews respond within 45 minutes with the expertise Tysons' growing community demands. Call (877) 497-0007 immediately.`,
+    paragraph: `Modern public facilities need restoration teams that understand contemporary building systems and multi-stakeholder environments. Our crews respond as quickly as access and conditions allow with the experience Tysons' growing community demands. Call (877) 497-0007 immediately.`,
   },
 }

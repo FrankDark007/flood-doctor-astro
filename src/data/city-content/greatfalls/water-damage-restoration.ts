@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Great Falls, VA | Flood Doctor',
-    description: `Great Falls' trusted water damage restoration experts. 30-min discrete response to all estates. Protecting wine cellars, art collections & equestrian properties. Call (877) 497-0007.`,
+    description: `Great Falls' local water damage restoration specialists. prompt discrete response to all estates. Protecting wine cellars, art collections & equestrian properties. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Great Falls, Virginia',
   introSection: {
@@ -11,22 +11,22 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When water infiltrates your Great Falls estate, the stakes exceed typical residential restoration by orders of magnitude. Your 18,000-square-foot manor isn't just a home—it's a repository of custom Italian marble, hand-hewn beams imported from European chateaus, a climate-controlled wine cellar with bottles older than the house, and art collections assembled over generations.
 
-Flood Doctor has restored water-damaged estates throughout Great Falls for nearly two decades. We've extracted standing water from properties along Georgetown Pike, dried the equestrian facilities of Forestville estates, and prevented mold growth in the historic manors near Great Falls Park. When your neighbor on a private lane recommends a restoration company, they mention us—because we've already served properties on their road.`,
+Flood Doctor has restored water-damaged estates throughout Great Falls across the service area. We've extracted standing water from properties along Georgetown Pike, dried the equestrian facilities of Forestville estates, and prevented mold growth in the historic manors near Great Falls Park. When your neighbor on a private lane recommends a restoration company, they mention us—because we've already served properties on their road.`,
       `Great Falls' water damage challenges differ fundamentally from suburban Northern Virginia. The Potomac River creates high water tables throughout the Riverbend corridor. Nearly every property operates on private well and septic—when these systems fail, contamination categories change and so do restoration protocols. Mature trees on multi-acre estates can send roots into infrastructure that's been in place for decades.
 
-Our IICRC Master Water Restorers don't just pump water and leave. We understand that your Seneca Estates property requires precision drying to protect hand-painted murals, that your Forestville wine cellar demands specialized temperature and humidity control during restoration, and that the equestrian barn on your Hickory Farms property requires agricultural-grade remediation expertise.`,
+Our experienced restoration crews don't just pump water and leave. We understand that your Seneca Estates property requires precision drying to protect hand-painted murals, that your Forestville wine cellar demands specialized temperature and humidity control during restoration, and that the equestrian barn on your Hickory Farms property requires agricultural-grade remediation experience.`,
     ],
-    localContext: `Great Falls' ultra-luxury estates—ranging from 8,000 to 25,000+ square feet—require restoration expertise that most companies simply don't possess. We've protected irreplaceable assets in Forestville, Seneca Estates, and throughout the Georgetown Pike corridor for years.`,
+    localContext: `Great Falls' ultra-luxury estates—ranging from 8,000 to 25,000+ square feet—require restoration experience that most companies simply don't possess. We've protected irreplaceable assets in Forestville, Seneca Estates, and throughout the Georgetown Pike corridor for years.`,
   },
   processSteps: [
     {
       title: '30-Minute Discrete Emergency Response',
-      description: 'When you call our Great Falls hotline at (877) 497-0007, we dispatch immediately from our McLean staging area. Our unmarked vehicles reach properties on Georgetown Pike, Beach Mill Road, Springvale Road, and every private lane within our 30-minute guarantee. Discretion is automatic—not requested.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call our Great Falls hotline at (877) 497-0007, we dispatch through our Northern Virginia service network. Our unmarked vehicles reach properties on Georgetown Pike, Beach Mill Road, Springvale Road, and every private lane as quickly as access and conditions allow. Discretion is automatic—not requested.',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Comprehensive Estate Assessment',
-      description: `Our IICRC-certified technician conducts full-scope assessment using thermal imaging that detects moisture behind walls, under imported stone floors, and through cathedral ceiling spaces. In Great Falls estates, water migration can travel from a fourth-floor bathroom to your basement wine cellar through routes that aren't visible without professional detection.`,
+      description: `Our trained technician conducts full-scope assessment using thermal imaging that detects moisture behind walls, under imported stone floors, and through cathedral ceiling spaces. In Great Falls estates, water migration can travel from a fourth-floor bathroom to your basement wine cellar through routes that aren't visible without professional detection.`,
       timeframe: 'First hour',
     },
     {
@@ -46,7 +46,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       title: 'Daily Monitoring & Insurance Documentation',
-      description: 'Every day, we return to measure moisture levels, adjust equipment, and document progress. For high-value claims common in Great Falls, this documentation often determines complete coverage—we photograph everything, log every reading, and provide reports that satisfy both adjusters and specialty insurers.',
+      description: 'Every day, we return to measure moisture levels, adjust equipment, and document progress. For high-value claims common in Great Falls, this documentation often determines well-documented claim review—we photograph everything, log every reading, and provide reports that satisfy both adjusters and specialty insurers.',
       timeframe: 'Days 2-7',
     },
     {
@@ -64,7 +64,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     {
       title: 'Art Collection & Antique Protection',
       description: `Many Great Falls estates contain museum-quality art, antique furniture, and irreplaceable decorative pieces. Water migration through large homes can threaten these assets even when they're not in the visibly affected area.`,
-      solution: 'Our assessment traces all water migration paths using thermal imaging. We establish protective barriers, coordinate with professional art handlers when needed, and maintain documentation for insurance purposes. Asset protection protocols begin immediately upon arrival.',
+      solution: 'Our assessment traces all water migration paths using thermal imaging. We establish protective barriers, coordinate with professional art handlers when needed, and maintain documentation for insurance purposes. Asset protection protocols begin immediately during response.',
     },
     {
       title: 'Private Well System Failures',
@@ -74,7 +74,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     {
       title: 'Septic System Backups',
       description: 'Private septic systems serving Great Falls estates can back up when roots infiltrate lines or systems fail. These are Category 3 (biohazard) events requiring specialized cleanup protocols—not standard water restoration.',
-      solution: `We're certified for all contamination categories, including full biohazard remediation. We coordinate with septic specialists for system repair while handling the contaminated cleanup according to IICRC protocols.`,
+      solution: `We're equipped for multiple contamination categories, including full biohazard remediation. We coordinate with septic specialists for system repair while handling the contaminated cleanup according to industry-standard cleanup protocols.`,
     },
     {
       title: 'Equestrian Facility Water Damage',
@@ -127,7 +127,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Great Falls',
-    intro: 'Great Falls water damage restoration costs reflect the unique requirements of ultra-luxury estates. We provide free inspections and detailed estimates before any work begins. Most Great Falls homeowners file insurance claims with carriers and specialty insurers who understand high-value properties—we handle direct billing and provide the meticulous documentation these claims require.',
+    intro: 'Great Falls water damage restoration costs reflect the unique requirements of ultra-luxury estates. We provide free inspections and detailed estimates before any work begins. Most Great Falls homeowners file insurance claims with carriers and specialty insurers who understand high-value properties—we handle insurance coordination and provide the meticulous documentation these claims require.',
     factors: [
       'Square footage affected—Great Falls estates often involve multiple floors, wings, and outbuildings',
       'Water category—clean water from a supply line differs from septic backup requiring biohazard protocols',
@@ -154,7 +154,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
       'The Preserve',
       'Colvin Run',
     ],
-    responseTime: '30-minute discrete response to all Great Falls properties. Our crews are positioned throughout the Georgetown Pike corridor—from McLean to the Potomac—for immediate emergency deployment.',
+    responseTime: 'prompt discrete response to all Great Falls properties. Our crews are available throughout the Georgetown Pike corridor—from McLean to the Potomac—for immediate emergency deployment.',
   },
   faqs: [
     {
@@ -171,7 +171,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       question: 'Do you have experience with equestrian facilities?',
-      answer: 'Yes. Many Great Falls properties include barns, indoor arenas, and tack rooms. We understand the unique requirements of agricultural structure restoration—proper ventilation, animal safety, and the different materials involved. Our crews handle equestrian facility water damage with appropriate expertise.',
+      answer: 'Yes. Many Great Falls properties include barns, indoor arenas, and tack rooms. We understand the unique requirements of agricultural structure restoration—proper ventilation, animal safety, and the different materials involved. Our crews handle equestrian facility water damage with appropriate experience.',
     },
     {
       question: 'How do you ensure discretion for Great Falls properties?',
@@ -179,11 +179,11 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       question: 'Will you work with my specialty insurer?',
-      answer: 'Yes. High-value properties often carry specialty insurance beyond standard homeowners policies. We handle direct billing with all carriers and provide the detailed documentation—itemized asset protection, moisture readings, photographic evidence—that specialty insurers require for complete coverage.',
+      answer: 'Yes. High-value properties often carry specialty insurance beyond standard homeowners policies. We handle insurance documentation and coordination and provide the detailed documentation—itemized asset protection, moisture readings, photographic evidence—that specialty insurers require for well-documented claim review.',
     },
     {
       question: `What's the difference between your service and national restoration chains?`,
-      answer: `We're locally owned and Great Falls-focused. Our crews know the properties, understand ultra-luxury restoration requirements, and are positioned for 30-minute response. National franchises often dispatch from distant locations and lack expertise in Great Falls' specific challenges—private well and septic systems, estate-scale complexity, and high-value asset protection.`,
+      answer: `We're locally owned and Great Falls-focused. Our crews know the properties, understand ultra-luxury restoration requirements, and are available for prompt response. National franchises often dispatch from distant locations and lack experience in Great Falls' specific challenges—private well and septic systems, estate-scale complexity, and high-value asset protection.`,
     },
   ],
   relatedBlogSlugs: [
@@ -193,6 +193,6 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   ],
   finalCTA: {
     headline: 'Water Damage Emergency on Your Great Falls Estate?',
-    paragraph: `Every hour of delay means more damage—and in a 15,000-square-foot property, damage spreads faster than you'd expect. Our discrete crews are positioned throughout Great Falls for immediate 30-minute response. One call handles everything—from water extraction to insurance documentation.`,
+    paragraph: `Every hour of delay means more damage—and in a 15,000-square-foot property, damage spreads faster than you'd expect. Our discrete crews are available throughout Great Falls for immediate prompt response. One call handles everything—from water extraction to insurance documentation.`,
   },
 }

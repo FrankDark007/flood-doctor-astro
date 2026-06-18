@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Great Falls' mature tree canopy—the oaks and maples that define estate landscapes—becomes a liability during severe storms. When wind topples a 100-year-old oak onto your manor's roof, or lightning strikes a tree that falls through your pool house, damage can cascade through your property in seconds. Your 18,000-square-foot estate, exposed to the elements through a breached roof, faces water damage that multiplies with every passing hour.
 
-Flood Doctor responds to Great Falls storm emergencies within 30 minutes. We've tarped storm-damaged roofs along Georgetown Pike, extracted water from manors hit by fallen trees, and restored equestrian facilities damaged by summer microbursts. When storm damage threatens your estate, we arrive with industrial equipment scaled for the largest properties—and crews experienced in protecting the irreplaceable assets Great Falls homes contain.`,
+Flood Doctor responds to Great Falls storm emergencies as quickly as access and conditions allow. We've tarped storm-damaged roofs along Georgetown Pike, extracted water from manors hit by fallen trees, and restored equestrian facilities damaged by summer microbursts. When storm damage threatens your estate, we arrive with industrial equipment scaled for the largest properties—and crews experienced in protecting the irreplaceable assets Great Falls homes contain.`,
       `Great Falls storm damage challenges differ from suburban areas. Multi-acre properties mean more trees that can fall—and further distances for debris to travel. Multiple structures—main residence, guest house, pool house, equestrian facilities—multiply points of vulnerability. The same storms that topple trees can overwhelm drainage, flooding lower levels while roof damage lets water in from above.
 
-Our IICRC-certified crews understand that storm restoration in Great Falls means protecting wine cellars from water intrusion while tarping breached roofs, securing art from wind exposure while extracting flood water, and coordinating emergency repairs for multiple structures simultaneously.`,
+Our trained crews understand that storm restoration in Great Falls means protecting wine cellars from water intrusion while tarping breached roofs, securing art from wind exposure while extracting flood water, and coordinating emergency repairs for multiple structures simultaneously.`,
     ],
     localContext: `Great Falls' estate properties with mature trees, multiple structures, and high-value assets require storm response that suburban companies can't provide. We arrive prepared for the scale and complexity these properties demand.`,
   },
   processSteps: [
     {
       title: 'Immediate Emergency Dispatch',
-      description: 'When you call (877) 497-0007 during or after a storm, we dispatch immediately. Our crews reach Great Falls properties within 30 minutes. During widespread storm events, we prioritize based on damage severity and ongoing exposure risk.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007 during or after a storm, we dispatch immediately. Our crews reach Great Falls properties as quickly as access and conditions allow. During widespread storm events, we prioritize based on damage severity and ongoing exposure risk.',
+      timeframe: 'Emergency response',
     },
     {
       title: 'Property-Wide Damage Assessment',
@@ -63,7 +63,7 @@ Our IICRC-certified crews understand that storm restoration in Great Falls means
     },
     {
       title: 'Roof Complexity',
-      description: `Estate roofs often feature multiple levels, dormers, slate or copper materials, and significant square footage. Proper emergency tarping and subsequent repair require expertise in high-end roofing systems that tract home roofers don't have.`,
+      description: `Estate roofs often feature multiple levels, dormers, slate or copper materials, and significant square footage. Proper emergency tarping and subsequent repair require experience in high-end roofing systems that tract home roofers don't have.`,
       solution: 'We work with roofing contractors who specialize in Great Falls estate work—craftsmen who understand slate installation, copper maintenance, and custom roofing systems. Our tarping protects until proper repairs can be completed.',
     },
     {
@@ -123,7 +123,7 @@ Our IICRC-certified crews understand that storm restoration in Great Falls means
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Great Falls',
-    intro: 'Storm damage pricing for Great Falls estates depends on the scope of damage across all structures, the extent of water intrusion, and the emergency measures required to prevent ongoing deterioration. We provide on-site assessments during our emergency response and detailed written estimates before restoration begins. Storm claims for high-value properties require comprehensive documentation—our Xactimate estimates and photographic evidence support complete coverage.',
+    intro: 'Storm damage pricing for Great Falls estates depends on the scope of damage across all structures, the extent of water intrusion, and the emergency measures required to prevent ongoing deterioration. We provide on-site assessments during our emergency response and detailed written estimates before restoration begins. Storm claims for high-value properties require comprehensive documentation—our Xactimate estimates and photographic evidence support well-documented claim review.',
     factors: [
       'Number of structures affected—main residence, guest house, pool house, and equestrian facilities each require separate assessment and response',
       'Roof damage scope and tarping requirements for slate, copper, and complex roof systems',
@@ -133,7 +133,7 @@ Our IICRC-certified crews understand that storm restoration in Great Falls means
       'Duration of structural drying required after water intrusion, factoring in estate scale and material types',
       'Emergency board-up and securing requirements for broken windows and structural openings',
     ],
-    cta: 'Call (877) 497-0007 during or immediately after a storm. We respond within 30 minutes with tarping, extraction, and asset protection. Free assessment and insurance coordination for all Great Falls storm damage.',
+    cta: 'Call (877) 497-0007 during or immediately after a storm. We respond as quickly as access and conditions allow with tarping, extraction, and asset protection. Free assessment and insurance coordination for all Great Falls storm damage.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -152,12 +152,12 @@ Our IICRC-certified crews understand that storm restoration in Great Falls means
       'The Preserve',
       'Colvin Run',
     ],
-    responseTime: '30-minute storm damage response to all Great Falls properties, 24/7/365. During severe weather events, we monitor conditions and pre-position crews for rapid deployment. We prioritize based on damage severity and ongoing exposure risk—breached roofs with active rain receive immediate response.',
+    responseTime: 'prompt storm damage response to all Great Falls properties, 24/7/365. During severe weather events, we monitor conditions and prepare crews for rapid deployment. We prioritize based on damage severity and ongoing exposure risk—breached roofs with active rain receive immediate response.',
   },
   faqs: [
     {
       question: 'How quickly can you respond after a storm in Great Falls?',
-      answer: 'We guarantee 30-minute response under normal conditions. During widespread storm events affecting multiple properties, we prioritize by damage severity and ongoing exposure risk. Call (877) 497-0007 immediately—even during the storm if safe—to get on our response list.',
+      answer: 'We provide prompt response under normal conditions. During widespread storm events affecting multiple properties, we prioritize by damage severity and ongoing exposure risk. Call (877) 497-0007 immediately—even during the storm if safe—to get on our response list.',
     },
     {
       question: 'Can you handle storm damage to my barn as well as my house?',
@@ -173,7 +173,7 @@ Our IICRC-certified crews understand that storm restoration in Great Falls means
     },
     {
       question: 'Will you work with my insurance on storm damage claims?',
-      answer: 'Yes. We handle direct billing with all carriers and provide the comprehensive documentation storm claims require. Our assessment reports, photographs, and moisture readings support complete claim coverage. For Great Falls high-value properties, thorough documentation often determines claim outcomes.',
+      answer: 'Yes. We handle insurance documentation and coordination and provide the comprehensive documentation storm claims require. Our assessment reports, photographs, and moisture readings support complete claim coverage. For Great Falls high-value properties, thorough documentation often determines claim outcomes.',
     },
     {
       question: 'How do you protect my wine cellar during storm damage restoration?',
@@ -187,6 +187,6 @@ Our IICRC-certified crews understand that storm restoration in Great Falls means
   ],
   finalCTA: {
     headline: 'Storm Damage on Your Great Falls Estate?',
-    paragraph: 'Every hour with a breached roof means more water damage inside. Our crews respond within 30 minutes with tarping, extraction, and asset protection—for main residences, guest houses, and equestrian facilities alike.',
+    paragraph: 'Every hour with a breached roof means more water damage inside. Our crews respond as quickly as access and conditions allow with tarping, extraction, and asset protection—for main residences, guest houses, and equestrian facilities alike.',
   },
 }

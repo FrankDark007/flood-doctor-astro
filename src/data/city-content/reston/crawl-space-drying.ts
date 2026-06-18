@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Reston, VA | Flood Doctor',
-    description: `Reston's crawl space specialists. Serving South Lakes, Lake Anne & Hunters Woods. HOA and Reston Association compliant. Townhome cluster expertise. Call (877) 497-0007.`,
+    description: `Reston's crawl space specialists. Serving South Lakes, Lake Anne & Hunters Woods. HOA and Reston Association compliant. Townhome cluster experience. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Reston, Virginia',
   introSection: {
@@ -127,7 +127,7 @@ export const content: CityServiceContent = {
       'Soapstone',
       'Stuart Mill',
     ],
-    responseTime: 'Same-day crawl space assessments throughout Reston. Emergency flooding response within 45 minutes to all neighborhoods from Lake Anne to South Lakes via our Reston-stationed crews.',
+    responseTime: 'Same-day crawl space assessments throughout Reston. Emergency flooding response as quickly as access and conditions allow to all neighborhoods from Lake Anne to South Lakes via our crews serving Reston.',
   },
   faqs: [
     {

@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Reston, VA | Flood Doctor',
-    description: `Reston's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in South Lakes, Lake Anne, Hunters Woods & North Point. Call (877) 497-0007.`,
+    description: `Reston's qualified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in South Lakes, Lake Anne, Hunters Woods & North Point. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Reston, Virginia',
   introSection: {
-    headline: `Certified Environmental Testing for Reston Planned Community Properties`,
+    headline: `Qualified Environmental Testing for Reston Planned Community Properties`,
     paragraphs: [
       `Reston\`s planned community encompasses housing types spanning five decades—original 1960s townhomes near Lake Anne Plaza, 1970s-1980s garden condos in Hunters Woods, single-family colonials in South Lakes, and modern high-rise apartments near Reston Town Center—each presenting distinct environmental testing requirements. Early Reston construction contains asbestos in floor tiles, pipe insulation, and joint compound typical of the era. Townhome clusters along the W&OD Trail and lake-adjacent properties face persistent moisture conditions that drive mold colonization in shared-wall assemblies and below-grade spaces. Garden condos with original building systems harbor aging materials that renovation projects inevitably disturb. Flood Doctor provides AIHA-accredited environmental testing calibrated to Reston\`s diverse housing stock—asbestos identification, lead paint analysis, mold assessment, and indoor air quality evaluation—with protocols that address both the environmental hazards and the Reston Association compliance documentation that community members require.`,
-      `Our certified inspectors have identified asbestos pipe insulation in Lake Anne area townhome basements, documented lead-based paint on original exterior surfaces in Hunters Woods garden condos, and quantified elevated mold spore concentrations in North Point single-family homes where basement flooding from lake-area runoff created sustained moisture conditions. Properties near Lake Fairfax Park and South Lakes face seasonal water table fluctuations that introduce moisture into foundations and crawlspaces. Whether you are renovating a townhome requiring Reston Association approval, investigating mold in a garden condo after a shared-wall water intrusion, or conducting pre-purchase assessment before buying in Reston, our testing delivers chain-of-custody laboratory data that satisfies contractors, HOAs, the Reston Association, and regulatory agencies.`,
+      `Our qualified inspectors have identified asbestos pipe insulation in Lake Anne area townhome basements, documented lead-based paint on original exterior surfaces in Hunters Woods garden condos, and quantified elevated mold spore concentrations in North Point single-family homes where basement flooding from lake-area runoff created sustained moisture conditions. Properties near Lake Fairfax Park and South Lakes face seasonal water table fluctuations that introduce moisture into foundations and crawlspaces. Whether you are renovating a townhome requiring Reston Association approval, investigating mold in a garden condo after a shared-wall water intrusion, or conducting pre-purchase assessment before buying in Reston, our testing delivers chain-of-custody laboratory data that satisfies contractors, HOAs, the Reston Association, and regulatory agencies.`,
     ],
     localContext: `Reston\`s planned community housing diversity—from 1960s townhomes to modern high-rises—creates environmental testing needs spanning legacy hazardous materials, lake-area moisture challenges, and shared-wall contamination dynamics unique to the community\`s cluster housing design.`,
   },
   processSteps: [
     {
       title: 'Property Assessment and Community Context',
-      description: `Our certified inspector evaluates your Reston property against construction date, housing type, renovation scope, and community-specific factors. For townhome clusters and garden condos, we assess shared-wall implications and coordinate with HOA or Reston Association requirements. Lake-adjacent properties receive additional moisture and water quality evaluation scoping.`,
+      description: `Our qualified inspector evaluates your Reston property against construction date, housing type, renovation scope, and community-specific factors. For townhome clusters and garden condos, we assess shared-wall implications and coordinate with HOA or Reston Association requirements. Lake-adjacent properties receive additional moisture and water quality evaluation scoping.`,
       timeframe: 'Hours 1-2',
     },
     {
@@ -69,7 +69,7 @@ export const content: CityServiceContent = {
     },
   ],
   equipmentSection: {
-    headline: 'Certified Environmental Testing Equipment for Reston Properties',
+    headline: 'Qualified Environmental Testing Equipment for Reston Properties',
     equipment: [
       {
         name: 'Niton XL3t XRF Analyzer',
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Concerns in Your Reston Property?',
-    paragraph: `Certified environmental testing for Reston\`s diverse housing—townhomes, garden condos, single-family homes, and lake-area properties. AIHA-accredited laboratory analysis with community-compliant documentation. Call (877) 497-0007 for a consultation.`,
+    paragraph: `Qualified environmental testing for Reston\`s diverse housing—townhomes, garden condos, single-family homes, and lake-area properties. AIHA-accredited laboratory analysis with community-compliant documentation. Call (877) 497-0007 for a consultation.`,
   },
 }

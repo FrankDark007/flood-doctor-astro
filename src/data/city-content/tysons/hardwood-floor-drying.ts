@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Tysons, VA | Save Your Floors | Flood Doctor',
-    description: `Tysons hardwood floor drying for condos, townhomes & residences. Serving Tysons Corner, The Boro & Scotts Run. High-rise and modern building expertise. Call (877) 497-0007.`,
+    description: `Tysons hardwood floor drying for condos, townhomes & residences. Serving Tysons Corner, The Boro & Scotts Run. High-rise and modern building experience. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Tysons, Virginia',
   introSection: {
     headline: 'Specialized Hardwood Drying for Tysons Modern Residences',
     paragraphs: [
-      `Tysons residential properties showcase modern hardwood flooring at its finest—wide-plank engineered walnut in luxury high-rise condos near Tysons Corner Center, premium oak throughout Scotts Run single-family homes, and designer selections in The Boro mixed-use residences. When HVAC condensate leaks onto your Tysons Central condo hardwood, a dishwasher failure floods your Scotts Run kitchen, or water intrusion from a building system failure affects your unit at The Mile, the modern flooring that defines your space is immediately at risk. Flood Doctor brings high-rise access logistics, building management coordination, and modern material expertise to Tysons hardwood emergencies.`,
+      `Tysons residential properties showcase modern hardwood flooring at its finest—wide-plank engineered walnut in luxury high-rise condos near Tysons Corner Center, premium oak throughout Scotts Run single-family homes, and designer selections in The Boro mixed-use residences. When HVAC condensate leaks onto your Tysons Central condo hardwood, a dishwasher failure floods your Scotts Run kitchen, or water intrusion from a building system failure affects your unit at The Mile, the modern flooring that defines your space is immediately at risk. Flood Doctor brings high-rise access logistics, building management coordination, and modern material experience to Tysons hardwood emergencies.`,
       `The Tysons residential market features modern construction with building systems that create unique hardwood damage scenarios. HVAC condensate line failures are the leading cause of hardwood water damage in Tysons high-rise and mid-rise buildings—condensate that should drain to a waste line instead pools on hardwood for hours or days before the stain becomes visible. New construction defects in recently built residences near Tysons Galleria sometimes direct water behind walls and beneath floors through improperly sealed penetrations. Even underground parking garage flooding can affect ground-level unit hardwood through the building slab in ways that are invisible until cupping appears weeks later. Our technicians understand modern building system pathways and construction-era defects specific to Tysons' recent development, providing targeted drying that addresses the actual moisture source rather than just the visible symptom.`,
     ],
-    localContext: `Tysons' modern residential development features premium hardwood in high-rise condos and luxury homes where HVAC failures, building system issues, and new construction defects create water damage scenarios requiring modern building expertise.`,
+    localContext: `Tysons' modern residential development features premium hardwood in high-rise condos and luxury homes where HVAC failures, building system issues, and new construction defects create water damage scenarios requiring modern building experience.`,
   },
   processSteps: [
     {
       title: 'Coordinated Building Response',
-      description: `When you call (877) 497-0007, we coordinate with your building management for access—freight elevator scheduling for Tysons high-rises, security protocols for gated communities in Scotts Run, and parking logistics for The Boro. Equipment arrives ready for immediate deployment within 30 minutes.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call (877) 497-0007, we coordinate with your building management for access—freight elevator scheduling for Tysons high-rises, security protocols for gated communities in Scotts Run, and parking logistics for The Boro. Equipment arrives ready for immediate deployment as quickly as access and conditions allow.`,
+      timeframe: 'Emergency response',
     },
     {
       title: 'Modern Flooring Assessment',
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Westgate',
       'Lemon Road area',
     ],
-    responseTime: '30-minute emergency response to all Tysons residential properties. Building management coordination begins on the phone so equipment access is cleared before our crews arrive.',
+    responseTime: 'prompt emergency response to all Tysons residential properties. Building management coordination begins on the phone so equipment access is cleared before our crews arrive.',
   },
   faqs: [
     {
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Tysons Hardwood Emergency? Modern Solutions, Fast Response.',
-    paragraph: `Your premium Tysons hardwood deserves drying expertise that understands modern buildings, engineered flooring, and concrete subfloors. Call (877) 497-0007 for immediate response with building-coordinated access.`,
+    paragraph: `Your premium Tysons hardwood deserves drying experience that understands modern buildings, engineered flooring, and concrete subfloors. Call (877) 497-0007 for immediate response with building-coordinated access.`,
   },
 }

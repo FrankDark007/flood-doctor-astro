@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Tysons, VA | Flood Doctor',
-    description: `Tysons moisture mapping for commercial and residential properties. Infrared thermography for high-rises, office buildings & mixed-use at The Boro and Tysons Corner. Call (877) 497-0007.`,
+    description: `Tysons moisture mapping for commercial and residential properties. Infrared thermography for high-rises, commercial buildings & mixed-use at The Boro and Tysons Corner. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Tysons, Virginia',
   introSection: {
     headline: `Commercial and Residential Moisture Diagnostics for Tysons Properties`,
     paragraphs: [
-      `Tysons represents Northern Virginia's most complex moisture mapping environment—luxury high-rise condominiums with centralized mechanical systems, Class A office buildings requiring minimal operational disruption, and mixed-use developments at The Boro and Tysons Corner where commercial and residential spaces share building envelopes. Water intrusion in a Tysons Central residential tower can affect multiple units across several floors simultaneously. A roof membrane failure at a Scotts Run office building can saturate insulation and structural steel before any interior signs appear. Flood Doctor provides the scientific moisture assessment capability these modern buildings demand, using FLIR infrared thermography, NIST-calibrated instrumentation, and psychrometric analysis designed for commercial-grade building systems.`,
-      `Our consulting team has mapped moisture patterns through post-tensioned concrete slabs in Capital One headquarters-area residential towers, documented curtain wall failures in Tysons Galleria-adjacent office buildings, and traced HVAC-generated moisture through the complex mechanical systems of mixed-use developments near Tysons Metro. Commercial and high-rise properties require moisture consultants who understand building management protocols, tenant notification requirements, and the documentation standards that property managers and commercial insurers expect. Our IICRC-certified assessments produce court-admissible moisture maps that establish damage scope, origin determination, and restoration requirements for properties where single water events can generate six-figure claims.`,
+      `Tysons represents Northern Virginia's most complex moisture mapping environment—luxury high-rise condominiums with centralized mechanical systems, Class A commercial buildings requiring minimal operational disruption, and mixed-use developments at The Boro and Tysons Corner where commercial and residential spaces share building envelopes. Water intrusion in a Tysons Central residential tower can affect multiple units across several floors simultaneously. A roof membrane failure at a Scotts Run commercial building can saturate insulation and structural steel before any interior signs appear. Flood Doctor provides the scientific moisture assessment capability these modern buildings demand, using FLIR infrared thermography, NIST-calibrated instrumentation, and psychrometric analysis designed for commercial-grade building systems.`,
+      `Our consulting team has mapped moisture patterns through post-tensioned concrete slabs in Capital One headquarters-area residential towers, documented curtain wall failures in Tysons Galleria-adjacent commercial buildings, and traced HVAC-generated moisture through the complex mechanical systems of mixed-use developments near Tysons Metro. Commercial and high-rise properties require moisture consultants who understand building management protocols, tenant notification requirements, and the documentation standards that property managers and commercial insurers expect. Our trained assessments produce court-admissible moisture maps that establish damage scope, origin determination, and restoration requirements for properties where single water events can generate six-figure claims.`,
     ],
     localContext: `Tysons modern building stock features steel, concrete, and curtain wall construction with complex mechanical systems that produce moisture mapping challenges fundamentally different from residential wood-frame assessment.`,
   },
@@ -44,7 +44,7 @@ export const content: CityServiceContent = {
   localChallenges: [
     {
       title: 'Curtain Wall Moisture Infiltration',
-      description: `Tysons office buildings and residential towers use aluminum and glass curtain wall systems. Sealant failure, thermal cycling stress, and installation defects allow wind-driven rain to penetrate the building envelope. Moisture enters the wall assembly and migrates through insulation cavities before reaching interior finishes, often affecting multiple floors along the same curtain wall line.`,
+      description: `Tysons commercial buildings and residential towers use aluminum and glass curtain wall systems. Sealant failure, thermal cycling stress, and installation defects allow wind-driven rain to penetrate the building envelope. Moisture enters the wall assembly and migrates through insulation cavities before reaching interior finishes, often affecting multiple floors along the same curtain wall line.`,
       solution: `We perform exterior thermal imaging during and after rain events to identify curtain wall moisture entry points. Interior mapping traces the moisture migration path from entry to affected finishes. This dual approach pinpoints the specific curtain wall sections requiring remediation rather than replacing entire facade sections.`,
     },
     {
@@ -130,8 +130,8 @@ export const content: CityServiceContent = {
   },
   faqs: [
     {
-      question: 'Do you perform moisture mapping for commercial office buildings?',
-      answer: `Yes. Commercial assessments are a core part of our practice. We map moisture in office buildings, retail spaces, and mixed-use developments throughout Tysons. Our protocols account for commercial construction types, tenant coordination requirements, and the documentation standards commercial property managers and insurers expect.`,
+      question: 'Do you perform moisture mapping for commercial commercial buildings?',
+      answer: `Yes. Commercial assessments are a core part of our practice. We map moisture in commercial buildings, retail spaces, and mixed-use developments throughout Tysons. Our protocols account for commercial construction types, tenant coordination requirements, and the documentation standards commercial property managers and insurers expect.`,
     },
     {
       question: 'How do you assess moisture in concrete high-rise construction?',
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Assessment for Your Tysons Property?',
-    paragraph: `From residential towers to commercial office buildings, our scientific moisture mapping provides the data property managers and building owners need. Call (877) 497-0007 for a professional consultation.`,
+    paragraph: `From residential towers to commercial commercial buildings, our scientific moisture mapping provides the data property managers and building owners need. Call (877) 497-0007 for a professional consultation.`,
   },
 }

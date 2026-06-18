@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls mold remediation experts. Discrete service for wine cellars, art environments & estate homes. Protecting high-value properties. Call (877) 497-0007.',
+    description: 'Great Falls mold remediation specialists. Discrete service for wine cellars, art environments & estate homes. Protecting high-value properties. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in Great Falls, Virginia',
   introSection: {
     headline: 'Great Falls Estate Mold Remediation Specialists',
     paragraphs: [
-      `Mold in a Great Falls estate poses risks that suburban homeowners never face. Your wine cellar's controlled humidity can become a mold incubator if moisture intrusion occurs. Your art collection faces irreversible damage from mold that establishes before you notice it. Guest wings used seasonally can develop extensive mold problems between visits. When mold threatens your Great Falls property, you need remediation experts who understand what's at stake.
+      `Mold in a Great Falls estate poses risks that suburban homeowners never face. Your wine cellar's controlled humidity can become a mold incubator if moisture intrusion occurs. Your art collection faces irreversible damage from mold that establishes before you notice it. Guest wings used seasonally can develop extensive mold problems between visits. When mold threatens your Great Falls property, you need remediation specialists who understand what's at stake.
 
-Flood Doctor has remediated mold throughout Great Falls for nearly two decades. We've treated wine cellars in Forestville without disrupting collections, addressed mold in art environments with museum-quality care, and cleared contamination from guest wings in estates along Georgetown Pike. Our IICRC-certified mold remediators understand that Great Falls mold work requires protecting irreplaceable assets—not just removing mold.`,
+Flood Doctor has remediated mold throughout Great Falls across the service area. We've treated wine cellars in Forestville without disrupting collections, addressed mold in art environments with museum-quality care, and cleared contamination from guest wings in estates along Georgetown Pike. Our trained mold remediators understand that Great Falls mold work requires protecting irreplaceable assets—not just removing mold.`,
       `Great Falls' unique property characteristics create mold conditions that other areas don't experience. Finished lower levels with climate control can trap moisture that feeds mold growth invisibly. Equestrian facilities with different ventilation needs develop mold in different patterns than homes. Properties near the Potomac face humidity levels that promote growth throughout the year.
 
 Our approach combines thorough remediation with asset protection. We don't just kill mold—we protect your wine, your art, your custom finishes, and your privacy throughout the process.`,
@@ -36,7 +36,7 @@ Our approach combines thorough remediation with asset protection. We don't just 
     },
     {
       title: 'Mold Removal & Material Remediation',
-      description: 'Our certified technicians remove mold-contaminated materials following IICRC protocols. For Great Falls estates with custom finishes, we work to preserve what can be saved—treating rather than replacing when possible, and coordinating with specialty contractors for irreplaceable elements.',
+      description: 'Our trained technicians remove mold-contaminated materials following industry-standard cleanup protocols. For Great Falls estates with custom finishes, we work to preserve what can be saved—treating rather than replacing when possible, and coordinating with specialty contractors for irreplaceable elements.',
       timeframe: 'Days 2-5',
     },
     {
