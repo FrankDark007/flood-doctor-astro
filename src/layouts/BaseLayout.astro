@@ -35,9 +35,6 @@ const hreflangUrls = getHreflangUrls(Astro.url.pathname)
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <ThemeScript />
 
-    <!-- Preconnect to Unsplash image CDN (hero LCP image origin) -->
-    <link rel="preconnect" href="https://images.unsplash.com" crossorigin />
-
     <!-- Google tag (gtag.js) — GA4 + Google Ads, deferred to window load to free the main thread -->
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
