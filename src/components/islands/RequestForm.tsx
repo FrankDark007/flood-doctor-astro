@@ -1,14 +1,12 @@
 import { useState, type FormEvent } from 'react'
 import { FORM_WORKER_URL } from '../../config/forms'
+import { toTelHref } from '../../utils/phone'
 
 interface Props {
   city?: string
   phone?: string
 }
 
-function phoneHref(phone: string): string {
-  return `tel:+1${phone.replace(/\D/g, '')}`
-}
 
 export default function RequestForm({ city, phone = '(877) 497-0007' }: Props) {
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle')
@@ -61,7 +59,7 @@ export default function RequestForm({ city, phone = '(877) 497-0007' }: Props) {
         </div>
         <h3 className="mt-4 text-lg font-semibold text-white">Request Submitted!</h3>
         <p className="mt-2 text-sm text-gray-400">We'll contact you within 30 minutes during business hours.</p>
-        <p className="mt-1 text-sm text-gray-400">For emergencies, call <a href={phoneHref(phone)} className="text-indigo-400 hover:text-indigo-300">{phone}</a> now.</p>
+        <p className="mt-1 text-sm text-gray-400">For emergencies, call <a href={toTelHref(phone)} className="text-indigo-400 hover:text-indigo-300">{phone}</a> now.</p>
       </div>
     )
   }

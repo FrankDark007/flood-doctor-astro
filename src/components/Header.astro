@@ -2,6 +2,8 @@
 import MobileMenu from './islands/MobileMenu.tsx'
 import { cityData } from '../data/cities'
 import { mainNavigation, secondaryNavigation } from '../data/navigation'
+import { toTelHref } from '../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
 
 const currentPath = Astro.url.pathname
 ---
@@ -54,7 +56,7 @@ const currentPath = Astro.url.pathname
     <!-- CTA -->
     <div class="hidden lg:flex lg:flex-1 lg:justify-end lg:gap-x-4">
       <a
-        href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`}
+        href={cityPhoneHref}
         class="text-sm/6 font-semibold text-gray-900 dark:text-white hover:text-indigo-600 dark:hover:text-indigo-400"
       >
         {cityData.phone}

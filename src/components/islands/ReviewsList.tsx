@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { reviews, totalReviews } from '../../data/reviews'
+import { reviews } from '../../data/reviews'
 
 type SortMode = 'relevant' | 'newest' | 'highest'
 const PAGE_SIZE = 3
@@ -88,7 +88,7 @@ export default function ReviewsList() {
       )}
 
       <p className="mt-6 text-center text-sm text-gray-500">
-        Showing {visibleReviews.length} of {totalReviews} reviews
+        Showing {visibleReviews.length} of {reviews.length} featured review excerpts
       </p>
     </div>
   )

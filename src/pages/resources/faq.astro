@@ -4,6 +4,8 @@ import FAQAccordion from '../../components/islands/FAQAccordion.tsx'
 import { faqs } from '../../data/faqs'
 import { cityData } from '../../data/cities'
 import { faqPageSchema } from '../../utils/schema'
+import { toTelHref } from '../../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
 
 const structuredData = faqPageSchema(faqs)
 ---
@@ -20,7 +22,7 @@ const structuredData = faqPageSchema(faqs)
           Frequently Asked Questions
         </h1>
         <p class="mt-6 text-lg/8 text-gray-400">
-          Got questions about water damage restoration? We've got answers. If you don't find what you're looking for, <a href="/contact" class="text-indigo-400 hover:text-indigo-300">contact us</a> or call <a href={`tel:${cityData.phone}`} class="text-indigo-400 hover:text-indigo-300">{cityData.phone}</a>.
+          Got questions about water damage restoration? We've got answers. If you don't find what you're looking for, <a href="/contact" class="text-indigo-400 hover:text-indigo-300">contact us</a> or call <a href={cityPhoneHref} class="text-indigo-400 hover:text-indigo-300">{cityData.phone}</a>.
         </p>
         <div class="mt-10">
           <FAQAccordion client:load faqs={faqs} />
@@ -43,7 +45,7 @@ const structuredData = faqPageSchema(faqs)
             Request Free Estimate
           </a>
           <a
-            href={`tel:${cityData.phone}`}
+            href={cityPhoneHref}
             class="rounded-md bg-white/10 px-6 py-2.5 text-sm font-semibold text-white hover:bg-white/20"
           >
             Call {cityData.phone}

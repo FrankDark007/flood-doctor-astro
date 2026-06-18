@@ -5,6 +5,8 @@ import TestimonialSection from '../components/sections/TestimonialSection.astro'
 import ContactForm from '../components/islands/ContactForm.tsx'
 import { cityData } from '../data/cities'
 import { localBusinessSchema, webSiteSchema } from '../utils/schema'
+import { toTelHref } from '../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
 
 const structuredData = [localBusinessSchema(), webSiteSchema()]
 
@@ -63,7 +65,7 @@ const features = [
               >
                 Get a Free Estimate
               </a>
-              <a href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
+              <a href={cityPhoneHref} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
                 Call {cityData.phone} <span aria-hidden="true">&rarr;</span>
               </a>
             </div>
@@ -321,7 +323,7 @@ const features = [
                 </svg>
               </dt>
               <dd>
-                <a href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`} class="hover:text-gray-900 dark:hover:text-white">
+                <a href={cityPhoneHref} class="hover:text-gray-900 dark:hover:text-white">
                   {cityData.phone}
                 </a>
               </dd>

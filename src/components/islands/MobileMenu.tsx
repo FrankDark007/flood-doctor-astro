@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import { PhoneIcon } from '@heroicons/react/20/solid'
+import { toTelHref } from '../../utils/phone'
 
 interface NavItem {
   name: string
@@ -81,7 +82,7 @@ export default function MobileMenu({ navigation, secondaryNav, phone, cityName }
           </div>
           <div className="sticky bottom-0 bg-gray-50 dark:bg-gray-800/50 p-6">
             <a
-              href={`tel:${phone.replace(/[^0-9+]/g, '')}`}
+              href={toTelHref(phone)}
               className="flex items-center justify-center gap-x-2.5 rounded-md bg-indigo-600 dark:bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400"
             >
               <PhoneIcon className="size-5" />

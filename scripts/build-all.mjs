@@ -32,6 +32,7 @@ const cities = [
 
 const rootDir = new URL('..', import.meta.url).pathname
 const distAll = join(rootDir, 'dist-all')
+const distDir = join(rootDir, 'dist')
 
 // Clean previous multi-city output
 if (existsSync(distAll)) {
@@ -51,6 +52,12 @@ for (const city of cities) {
   process.stdout.write(`  ⏳ ${city.padEnd(14)} ... `)
 
   try {
+    // Astro's static build can leave server chunks from the previous CITY build.
+    // Start each variant from a clean dist/ so copied output is deterministic.
+    if (existsSync(distDir)) {
+      rmSync(distDir, { recursive: true })
+    }
+
     execSync(`CITY=${city} SITE_URL=${siteUrl} npx astro build`, {
       cwd: rootDir,
       stdio: 'pipe',
@@ -59,7 +66,7 @@ for (const city of cities) {
 
     // Copy dist/ → dist-all/{city}/
     const cityDist = join(distAll, city)
-    cpSync(join(rootDir, 'dist'), cityDist, { recursive: true })
+    cpSync(distDir, cityDist, { recursive: true })
 
     const elapsed = ((Date.now() - cityStart) / 1000).toFixed(1)
     console.log(`✅ ${elapsed}s`)

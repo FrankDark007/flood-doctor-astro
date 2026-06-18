@@ -1,6 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import { cityData } from '../../data/cities'
+import { toTelHref } from '../../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
 ---
 
 <BaseLayout
@@ -32,7 +34,7 @@ import { cityData } from '../../data/cities'
               <strong>Contact your insurance company.</strong> Call your insurer's claims line as soon as possible. Most policies require prompt notification. Write down your claim number and adjuster's name.
             </li>
             <li>
-              <strong>Call a restoration company.</strong> Contact Flood Doctor at <a href={`tel:${cityData.phone}`}>{cityData.phone}</a> for emergency mitigation. Quick action reduces damage and strengthens your claim.
+              <strong>Call a restoration company.</strong> Contact Flood Doctor at <a href={cityPhoneHref}>{cityData.phone}</a> for emergency mitigation. Quick action reduces damage and strengthens your claim.
             </li>
             <li>
               <strong>Mitigate further damage.</strong> Your policy requires you to take reasonable steps to prevent additional damage. This includes tarping, boarding up, and extracting standing water.
@@ -121,7 +123,7 @@ import { cityData } from '../../data/cities'
             Request Free Estimate
           </a>
           <a
-            href={`tel:${cityData.phone}`}
+            href={cityPhoneHref}
             class="rounded-md bg-white/10 px-6 py-2.5 text-sm font-semibold text-white hover:bg-white/20"
           >
             Call {cityData.phone}

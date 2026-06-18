@@ -7,6 +7,8 @@ import TestimonialSection from '../../components/sections/TestimonialSection.ast
 import FAQAccordion from '../../components/islands/FAQAccordion.tsx'
 import { cityData } from '../../data/cities'
 import { serviceTree, getDivisionCategories } from '../../data/services/service-tree'
+import { toTelHref } from '../../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
 
 const residentialCategories = getDivisionCategories('residential')
 const commercialCategories = getDivisionCategories('commercial')
@@ -72,7 +74,7 @@ const faqs = [
             >
               Get a Free Estimate
             </a>
-            <a href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
+            <a href={cityPhoneHref} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
               Call {cityData.phone} <span aria-hidden="true">&rarr;</span>
             </a>
           </div>
@@ -182,7 +184,7 @@ const faqs = [
     primaryText="Request Free Estimate"
     primaryHref="/request"
     secondaryText={`Call ${cityData.phone}`}
-    secondaryHref={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`}
+    secondaryHref={cityPhoneHref}
   />
 
   <!-- FAQ -->

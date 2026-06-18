@@ -40,8 +40,8 @@ const cities: Record<string, CityData> = {
   vienna,
 }
 
-const citySlug = import.meta.env.CITY || 'ashburn'
+const citySlug = import.meta.env.CITY || 'main'
 
-export const cityData: CityData = cities[citySlug] || ashburn
+export const cityData: CityData = cities[citySlug] || main
 export const allCities = cities
 export type { CityData }

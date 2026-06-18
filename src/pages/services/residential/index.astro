@@ -3,6 +3,8 @@ import BaseLayout from '../../../layouts/BaseLayout.astro'
 import Icon from '../../../components/Icon.astro'
 import { cityData } from '../../../data/cities'
 import { getDivisionCategories, getCategoryServices } from '../../../data/services/service-tree'
+import { toTelHref } from '../../../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
 
 const categories = getDivisionCategories('residential')
 ---
@@ -29,7 +31,7 @@ const categories = getDivisionCategories('residential')
           >
             Get a Free Estimate
           </a>
-          <a href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
+          <a href={cityPhoneHref} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
             Call {cityData.phone} <span aria-hidden="true">&rarr;</span>
           </a>
         </div>
@@ -77,7 +79,7 @@ const categories = getDivisionCategories('residential')
           <a href="/request" class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-6 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400">
             Request Free Estimate
           </a>
-          <a href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`} class="rounded-md bg-gray-200 dark:bg-white/10 px-6 py-2.5 text-sm font-semibold text-gray-900 dark:text-white hover:bg-gray-300 dark:hover:bg-white/20">
+          <a href={cityPhoneHref} class="rounded-md bg-gray-200 dark:bg-white/10 px-6 py-2.5 text-sm font-semibold text-gray-900 dark:text-white hover:bg-gray-300 dark:hover:bg-white/20">
             Call {cityData.phone}
           </a>
         </div>

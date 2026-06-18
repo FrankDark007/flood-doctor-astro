@@ -34,7 +34,7 @@ const main: CityData = {
   meta: {
     title: 'Flood Doctor | 24/7 Water Damage Restoration in Northern Virginia',
     description:
-      '24/7 emergency water damage restoration serving all of Northern Virginia & DC Metro. IICRC certified, VA Class-A contractor. 60-minute response guarantee. Call (877) 497-0007.',
+      '24/7 emergency water damage restoration serving Northern Virginia & the DC Metro. Professional mitigation, drying, cleanup, and insurance documentation. Call (877) 497-0007.',
   },
 }
 

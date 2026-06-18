@@ -2,6 +2,8 @@
 import BaseLayout from '../layouts/BaseLayout.astro'
 import ContactForm from '../components/islands/ContactForm.tsx'
 import { cityData } from '../data/cities'
+import { toTelHref } from '../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
 
 const serviceAreaCount = cityData.serviceArea.length
 
@@ -189,7 +191,7 @@ const values = [
                 Request Free Estimate
               </a>
               <a
-                href={`tel:${cityData.phone}`}
+                href={cityPhoneHref}
                 class="rounded-md bg-gray-200 dark:bg-white/10 px-3.5 py-2.5 text-sm font-semibold text-gray-900 dark:text-white shadow-xs hover:bg-gray-300 dark:hover:bg-white/20"
               >
                 Call {cityData.phone}
@@ -284,7 +286,7 @@ const values = [
                   </svg>
                 </dt>
                 <dd>
-                  <a href={`tel:${cityData.phone}`} class="hover:text-gray-900 dark:hover:text-white">
+                  <a href={cityPhoneHref} class="hover:text-gray-900 dark:hover:text-white">
                     {cityData.phone}
                   </a>
                 </dd>

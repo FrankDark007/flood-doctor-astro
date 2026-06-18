@@ -2,6 +2,8 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro'
 import { guideArticles, guidesList } from '../../../data/guides'
 import { cityData } from '../../../data/cities'
+import { toTelHref } from '../../../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
 
 export function getStaticPaths() {
   return Object.keys(guideArticles).map((slug) => ({
@@ -45,7 +47,7 @@ const otherGuides = guidesList.filter((g) => g.slug !== guide.slug)
               Our emergency team responds within 60 minutes, 24/7. Don't wait — water damage gets worse every hour.
             </p>
             <a
-              href={`tel:${cityData.phone}`}
+              href={cityPhoneHref}
               class="mt-6 block w-full rounded-md bg-indigo-500 px-4 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-400"
             >
               Call {cityData.phone}

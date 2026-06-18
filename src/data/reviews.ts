@@ -1,15 +1,7 @@
-// Real Google Places reviews for Flood Doctor (Place ID: ChIJa0sP0YtKtokRTEAP8H5946o)
-// Last fetched: 2026-02-26
+// Selected public Google review excerpts for Flood Doctor.
+// Do not use these excerpts to generate AggregateRating schema.
 
-export const overallRating = 4.9
-export const totalReviews = 103
-export const distribution = [
-  { stars: 5, count: 92 },
-  { stars: 4, count: 8 },
-  { stars: 3, count: 2 },
-  { stars: 2, count: 1 },
-  { stars: 1, count: 0 },
-]
+export const reviewsSourceUrl = 'https://share.google/AhUTxb7gmJLiVuSIr'
 
 export interface Review {
   id: number

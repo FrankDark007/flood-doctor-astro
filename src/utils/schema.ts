@@ -3,10 +3,10 @@
  * DRY structured data builders for SEO
  */
 
-import { cityData, allCities } from '../data/cities'
+import { cityData } from '../data/cities'
 import type { CityData } from '../data/cities'
 
-const HEADQUARTERS = {
+export const HEADQUARTERS = {
   streetAddress: '8466D Tyco Rd',
   addressLocality: 'Vienna',
   addressRegion: 'VA',
@@ -34,11 +34,6 @@ export function localBusinessSchema(city: CityData = cityData) {
     address: {
       '@type': 'PostalAddress',
       ...HEADQUARTERS,
-    },
-    geo: {
-      '@type': 'GeoCoordinates',
-      latitude: city.coordinates.lat,
-      longitude: city.coordinates.lng,
     },
     areaServed: city.serviceArea.map((area: string) => ({
       '@type': 'City',
@@ -99,8 +94,7 @@ export function serviceSchema(service: {
       telephone: cityData.phone,
       address: {
         '@type': 'PostalAddress',
-        addressLocality: cityData.name,
-        addressRegion: cityData.stateAbbr,
+        ...HEADQUARTERS,
       },
     },
     areaServed: {
@@ -160,24 +154,9 @@ export function faqPageSchema(faqs: { question: string; answer: string }[]) {
 
 // ── Hreflang helpers ────────────────────────────────────────────────────
 
-export function getHreflangUrls(pathname: string): { href: string; hreflang: string }[] {
-  const urls: { href: string; hreflang: string }[] = []
-
-  for (const [slug] of Object.entries(allCities)) {
-    if (slug === 'main') continue // main is added as x-default below
-    urls.push({
-      href: `https://${slug}.flood.doctor${pathname}`,
-      hreflang: 'en',
-    })
-  }
-
-  // x-default points to main domain (flood.doctor)
-  urls.push({
-    href: `https://flood.doctor${pathname}`,
-    hreflang: 'x-default',
-  })
-
-  return urls
+export function getHreflangUrls(_pathname: string): { href: string; hreflang: string }[] {
+  // City subdomains are geo-targeted variants, not language alternates.
+  return []
 }
 
 // ── WebSite schema (for sitelinks search) ───────────────────────────────

@@ -1,6 +1,10 @@
 ---
 import { cityData } from '../data/cities'
 import { footerNavigation } from '../data/navigation'
+import { HEADQUARTERS } from '../utils/schema'
+import { toTelHref } from '../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
+const headquartersAddress = `${HEADQUARTERS.streetAddress}, ${HEADQUARTERS.addressLocality}, ${HEADQUARTERS.addressRegion} ${HEADQUARTERS.postalCode}`
 ---
 
 <footer class="bg-gray-50 dark:bg-gray-900 border-t border-gray-200 dark:border-white/10">
@@ -12,11 +16,11 @@ import { footerNavigation } from '../data/navigation'
         Water damage? We're here to help.
       </p>
       <p class="mx-auto mt-6 max-w-xl text-lg/8 text-pretty text-gray-600 dark:text-gray-400">
-        Flood Doctor {cityData.name} responds in 60 minutes or less. IICRC certified technicians, direct insurance billing, and guaranteed satisfaction.
+        Flood Doctor {cityData.name} provides emergency water damage help, professional drying, insurance documentation, and clear communication from first call to closeout.
       </p>
       <div class="mt-8 flex flex-col sm:flex-row justify-center gap-4">
         <a
-          href={`tel:${cityData.phone.replace(/[^0-9+]/g, '')}`}
+          href={cityPhoneHref}
           class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-5 py-3 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400"
         >
           Call {cityData.phone}
@@ -37,7 +41,7 @@ import { footerNavigation } from '../data/navigation'
         <p class="mt-4 text-sm text-gray-500 dark:text-gray-400 max-w-xs">
           Professional water damage restoration serving {cityData.name} and {cityData.serviceArea.slice(0, 3).join(', ')} areas.
         </p>
-        <p class="mt-2 text-sm text-gray-500 dark:text-gray-400">{cityData.address}</p>
+        <p class="mt-2 text-sm text-gray-500 dark:text-gray-400">Headquarters: {headquartersAddress}</p>
       </div>
       <div class="mt-16 grid grid-cols-3 gap-8 xl:col-span-2 xl:mt-0">
         <div>

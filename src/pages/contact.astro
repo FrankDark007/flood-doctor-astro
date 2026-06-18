@@ -3,6 +3,9 @@ import BaseLayout from '../layouts/BaseLayout.astro'
 import ContactForm from '../components/islands/ContactForm.tsx'
 import Icon from '../components/Icon.astro'
 import { cityData } from '../data/cities'
+import { HEADQUARTERS } from '../utils/schema'
+import { toTelHref } from '../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
 
 const structuredData = {
   '@context': 'https://schema.org',
@@ -12,15 +15,14 @@ const structuredData = {
   email: 'info@flood.doctor',
   address: {
     '@type': 'PostalAddress',
-    addressLocality: cityData.name,
-    addressRegion: cityData.state,
+    ...HEADQUARTERS,
   },
 }
 
 const serviceAreas = cityData.serviceArea || [
   'Ashburn', 'Leesburg', 'Sterling', 'Herndon', 'Reston',
   'Fairfax', 'Arlington', 'Alexandria', 'McLean', 'Vienna',
-  'Centreville', 'Chantilly', 'Springfield',
+  'Centreville', 'Chantilly', 'Springfield', 'Falls Church',
 ]
 
 // Split service areas into 4 columns for the grid
@@ -104,7 +106,7 @@ const serviceAreaCols = [
                 </svg>
               </dt>
               <dd>
-                <a href={`tel:${cityData.phone}`} class="hover:text-gray-900 dark:hover:text-white">
+                <a href={cityPhoneHref} class="hover:text-gray-900 dark:hover:text-white">
                   {cityData.phone}
                 </a>
                 <p class="text-sm text-gray-500">24/7 Emergency Line</p>
