@@ -82,7 +82,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Water Damage Restoration Pricing for Leesburg`,
-    intro: `Every Leesburg water damage situation is unique. A pre-Civil War stone home near the Historic District requires a different approach — and different pricing — than a modern home in Lees Corner. We provide transparent, detailed estimates before work begins.`,
+    intro: `Every Leesburg water damage situation is unique. A pre-Civil War stone home near the Historic District requires a different approach — and different pricing — than a modern home in Lees Corner. We provide transparent, detailed scopes before work begins.`,
     factors: [
       `Extent and category of water damage (clean, gray, or black water)`,
       `Property age and construction type — historic plaster vs. modern drywall`,

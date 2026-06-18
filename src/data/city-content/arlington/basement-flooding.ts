@@ -113,7 +113,7 @@ Our trained technicians bring industrial extraction capacity to every undergroun
   },
   pricingSection: {
     headline: 'Basement Flooding Restoration Costs in Arlington',
-    intro: 'Arlington basement flooding costs vary significantly based on the space type—commercial parking structure versus finished basement apartment—and the scope of damage. We provide free inspections and detailed estimates before any work begins. For multi-owner buildings, we coordinate separate estimates while providing unified documentation for HOA involvement.',
+    intro: 'Arlington basement flooding costs vary significantly based on the space type—commercial parking structure versus finished basement apartment—and the scope of damage. We provide on-site assessments and detailed scopes before any work begins. For multi-owner buildings, we coordinate separate estimates while providing unified documentation for HOA involvement.',
     factors: [
       'Space type—commercial parking structures require different equipment and approaches than finished basement apartments',
       'Water depth and duration—deeper water and longer standing time mean more damage and more extensive restoration',
@@ -121,7 +121,7 @@ Our trained technicians bring industrial extraction capacity to every undergroun
       'Contents affected—storage unit contents and finished basement furnishings require documentation and potential restoration',
       'Contamination category—storm drain backup differs from clean groundwater in restoration requirements',
     ],
-    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the flooding, explain your options, and provide detailed estimates for restoration.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the flooding, explain your options, and provide detailed scopes for restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [

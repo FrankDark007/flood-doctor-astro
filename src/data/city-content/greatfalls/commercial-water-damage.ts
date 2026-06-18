@@ -106,7 +106,7 @@ Our trained commercial teams bring the technical range and service demeanor Grea
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Great Falls',
-    intro: 'Great Falls commercial restoration costs reflect the premium specifications, specialized facility requirements, and high-value asset protection that this market demands. We provide detailed estimates matching the professional presentation Great Falls business owners expect, and we manage insurance claims with experience in high-value commercial property documentation.',
+    intro: 'Great Falls commercial restoration costs reflect the premium specifications, specialized facility requirements, and high-value asset protection that this market demands. We provide detailed scopes matching the professional presentation Great Falls business owners expect, and we manage insurance claims with experience in high-value commercial property documentation.',
     factors: [
       'Specialty facility requirements—equestrian, veterinary, and gallery spaces require specialized products and protocols adding scope',
       'High-value asset exposure—art, equipment, and collections requiring individual protection and documentation increase project management scope',

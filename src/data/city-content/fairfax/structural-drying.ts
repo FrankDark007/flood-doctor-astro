@@ -112,7 +112,7 @@ Our technicians calculate drying parameters for each material type in your home,
   },
   pricingSection: {
     headline: 'Structural Drying Costs in Fairfax',
-    intro: 'Fairfax structural drying costs depend on the scope of damage and materials affected. Finished basement flooding is the most common scenario, and costs scale with square footage and material involvement. We provide free inspections and detailed estimates before work begins, and handle direct insurance billing.',
+    intro: 'Fairfax structural drying costs depend on the scope of damage and materials affected. Finished basement flooding is the most common scenario, and costs scale with square footage and material involvement. We provide on-site assessments and detailed scopes before work begins, and handle direct insurance billing.',
     factors: [
       'Square footage of affected area — finished basements ranging from 500 to 2,000+ square feet significantly impact equipment needs and duration',
       'Water source type — clean water from supply lines differs from sump failure groundwater or sewage backup in treatment requirements',

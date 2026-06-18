@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Crawl Space Encapsulation Costs in Fairfax',
-    intro: `Fairfax crawl space encapsulation is one of the most cost-effective home improvements available—reducing energy bills, eliminating musty odors, and protecting structural integrity. We offer free inspections and provide detailed proposals that break down every cost component.`,
+    intro: `Fairfax crawl space encapsulation is one of the most cost-effective home improvements available—reducing energy bills, eliminating musty odors, and protecting structural integrity. We offer on-site assessments and provide detailed proposals that break down every cost component.`,
     factors: [
       'Crawl space square footage and number of foundation sections in split-level designs',
       'Existing damage requiring treatment—mold, wood rot, pest damage, failed previous barriers',
@@ -150,7 +150,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How do I know if my crawl space is causing my indoor air quality problems?',
-      answer: 'If you notice musty odors on the first floor, higher humidity indoors than expected, condensation on windows, or worsened allergy symptoms, your crawl space is likely the source. We offer free inspections that include moisture readings in the crawl space and on the first floor above—proving the connection with data.',
+      answer: 'If you notice musty odors on the first floor, higher humidity indoors than expected, condensation on windows, or worsened allergy symptoms, your crawl space is likely the source. We offer on-site assessments that include moisture readings in the crawl space and on the first floor above—proving the connection with data.',
     },
     {
       question: 'Will encapsulation help with my energy bills?',

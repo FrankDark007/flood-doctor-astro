@@ -99,7 +99,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Herndon`,
-    intro: `Herndon commercial sewage cleanup costs depend on facility type, contamination scope, and any technology equipment involvement. We provide detailed estimates and coordinate with commercial insurance carriers. For data center corridor facilities, we document equipment exposure separately from structural remediation.`,
+    intro: `Herndon commercial sewage cleanup costs depend on facility type, contamination scope, and any technology equipment involvement. We provide detailed scopes and coordinate with commercial insurance carriers. For data center corridor facilities, we document equipment exposure separately from structural remediation.`,
     factors: [
       `Facility type—downtown retail differs from technology business parks and data center support facilities in remediation requirements`,
       `Equipment involvement—technology facilities may require equipment decontamination adding specialized scope`,

@@ -88,7 +88,7 @@ const fireSmokeCleanup: ServiceData = {
     },
     {
       name: 'Insurance Claims Management',
-      description: 'Full claims documentation, Xactimate estimates, and direct adjuster coordination for fire damage claims.',
+      description: 'Full claims documentation, claim documentation, and direct adjuster coordination for fire damage claims.',
     },
   ],
   faqs: [

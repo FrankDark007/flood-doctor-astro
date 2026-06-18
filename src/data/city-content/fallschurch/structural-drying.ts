@@ -113,7 +113,7 @@ Our trained technicians develop property-specific drying plans: desiccant dehumi
   },
   pricingSection: {
     headline: 'Structural Drying Costs in Falls Church',
-    intro: 'Falls Church drying costs reflect property type, construction era, and damage complexity. Historic homes may require extended timelines. Apartment multi-unit events involve coordination costs. We provide detailed estimates and handle insurance billing directly.',
+    intro: 'Falls Church drying costs reflect property type, construction era, and damage complexity. Historic homes may require extended timelines. Apartment multi-unit events involve coordination costs. We provide detailed scopes and handle insurance billing directly.',
     factors: [
       'Construction era — historic plaster requires slower drying protocols; modern materials dry faster with standard equipment',
       'Water table involvement — Lake Barcroft properties may require chronic moisture management alongside acute damage treatment',

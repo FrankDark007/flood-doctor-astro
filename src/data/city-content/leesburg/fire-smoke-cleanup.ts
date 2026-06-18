@@ -65,7 +65,7 @@ export const content: CityServiceContent = {
   ],
   pricingSection: {
     headline: `Fire & Smoke Cleanup Costs in Leesburg`,
-    intro: `Fire and smoke cleanup costs depend on fire severity, smoke type, affected area, and the need for historic preservation techniques. We provide detailed estimates after completing our initial assessment.`,
+    intro: `Fire and smoke cleanup costs depend on fire severity, smoke type, affected area, and the need for historic preservation techniques. We provide detailed scopes after completing our initial assessment.`,
     factors: [
       `Extent of fire damage and structural repair needs`,
       `Smoke type and depth of penetration into materials`,

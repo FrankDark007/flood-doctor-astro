@@ -109,7 +109,7 @@ Our trained commercial teams carry the credentials and equipment to handle McLea
   },
   pricingSection: {
     headline: 'Commercial Water Damage Restoration Costs in McLean',
-    intro: 'McLean commercial water damage costs depend on affected square footage, building system complexity, and finish quality. We provide detailed Xactimate estimates formatted for commercial insurance carriers and coordinate directly with your adjuster. Our documentation supports both property damage and business interruption claims.',
+    intro: 'McLean commercial water damage costs depend on affected square footage, building system complexity, and finish quality. We provide detailed claim documentation formatted for commercial insurance carriers and coordinate directly with your adjuster. Our documentation supports both property damage and business interruption claims.',
     factors: [
       'Total affected square footage across suites and floors—multi-tenant events require individual scope documentation',
       'Water source and category—clean water from supply lines versus contaminated water from sewage or floodwater requires different protocols',
@@ -156,7 +156,7 @@ Our trained commercial teams carry the credentials and equipment to handle McLea
     },
     {
       question: 'Will you coordinate with our commercial insurance carrier?',
-      answer: 'We work with all major commercial carriers and provide Xactimate estimates formatted for commercial adjusters. Our documentation covers property damage, business interruption, and extra expense claims. We participate in adjuster meetings and provide supplemental documentation as needed.',
+      answer: 'We work with all major commercial carriers and provide claim documentation formatted for commercial adjusters. Our documentation covers property damage, business interruption, and extra expense claims. We participate in adjuster meetings and provide supplemental documentation as needed.',
     },
     {
       question: 'What about multi-tenant buildings where water affects several suites?',

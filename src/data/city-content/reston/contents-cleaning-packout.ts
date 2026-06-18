@@ -106,7 +106,7 @@ Every item we handle is photographed, catalogued, and barcoded for tracking thro
       'Contamination level — below-grade items may require decontamination protocols beyond standard cleaning',
       'Storage duration — climate-controlled storage costs extend with longer structural restoration timelines',
     ],
-    cta: `Call (877) 497-0007 for immediate contents triage. We stabilize time-sensitive items within hours and provide detailed estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents triage. We stabilize time-sensitive items within hours and provide detailed scopes for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [

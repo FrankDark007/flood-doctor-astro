@@ -89,7 +89,7 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
       'Builder defect documentation — professional assessment letters and photographic evidence supporting warranty recovery',
       'Smart home reconfiguration — HVAC updates, flood sensor installation, and humidity monitoring integration',
     ],
-    cta: 'Call (877) 497-0007 for emergency response and sealed-envelope assessment. We evaluate your specific construction type, identify moisture trapped in concealed assemblies, and provide detailed estimates reflecting actual scope.',
+    cta: 'Call (877) 497-0007 for emergency response and sealed-envelope assessment. We evaluate your specific construction type, identify moisture trapped in concealed assemblies, and provide detailed scopes reflecting actual scope.',
   },
   serviceAreaSection: {
     neighborhoods: [

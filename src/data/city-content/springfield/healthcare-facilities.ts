@@ -107,7 +107,7 @@ Our healthcare restoration protocols address these aging-infrastructure challeng
   },
   pricingSection: {
     headline: `Healthcare Facility Restoration Costs in Springfield`,
-    intro: `Healthcare facility restoration in Springfield involves specialized protocols that affect project scope and cost. ICRA containment, HIPAA compliance measures, and medical equipment handling add complexity beyond standard commercial restoration. Older building conditions—including potential asbestos and lead paint management—may increase scope in Springfield's 1960s-80s medical buildings. We provide detailed estimates that distinguish between structural restoration and healthcare-specific compliance requirements for accurate insurance submissions.`,
+    intro: `Healthcare facility restoration in Springfield involves specialized protocols that affect project scope and cost. ICRA containment, HIPAA compliance measures, and medical equipment handling add complexity beyond standard commercial restoration. Older building conditions—including potential asbestos and lead paint management—may increase scope in Springfield's 1960s-80s medical buildings. We provide detailed scopes that distinguish between structural restoration and healthcare-specific compliance requirements for accurate insurance submissions.`,
     factors: [
       `ICRA classification level required for affected areas and adjacent patient care zones`,
       `Contamination category—sewage backups in older Springfield buildings require enhanced antimicrobial protocols`,

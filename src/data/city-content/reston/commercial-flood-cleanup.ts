@@ -106,7 +106,7 @@ Our commercial flood teams understand Reston's specific hydrological profile. We
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in Reston',
-    intro: 'Reston commercial flood costs depend on the property type, flood source, and contamination level. Lake-adjacent and storm-related flooding with natural contamination carries higher costs than clean-water building system failures. We provide detailed estimates for commercial carriers and manage the claims process throughout.',
+    intro: 'Reston commercial flood costs depend on the property type, flood source, and contamination level. Lake-adjacent and storm-related flooding with natural contamination carries higher costs than clean-water building system failures. We provide detailed scopes for commercial carriers and manage the claims process throughout.',
     factors: [
       'Flood source contamination—lake-mixed storm water requires biohazard protocols exceeding clean-water cleanup costs',
       'Property type—Town Center high-rise events with underground parking involvement differ significantly from neighborhood commercial flooding',
@@ -157,7 +157,7 @@ Our commercial flood teams understand Reston's specific hydrological profile. We
     },
     {
       question: 'Do you handle commercial flood insurance claims?',
-      answer: 'We work with all major commercial carriers and provide complete documentation—Xactimate estimates, contamination classification reports, moisture logs, and progress documentation. We handle insurance coordination and support adjuster meetings throughout your claim.',
+      answer: 'We work with all major commercial carriers and provide complete documentation—claim documentation, contamination classification reports, moisture logs, and progress documentation. We handle insurance coordination and support adjuster meetings throughout your claim.',
     },
   ],
   relatedBlogSlugs: [

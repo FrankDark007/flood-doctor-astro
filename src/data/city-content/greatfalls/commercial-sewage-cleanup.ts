@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Great Falls`,
-    intro: `Great Falls commercial sewage cleanup costs depend on contamination scope, affected square footage, and regulatory requirements. We provide detailed estimates before work begins and coordinate directly with commercial insurance carriers. For properties with both commercial and equestrian components, we document costs by affected area for accurate insurance allocation.`,
+    intro: `Great Falls commercial sewage cleanup costs depend on contamination scope, affected square footage, and regulatory requirements. We provide detailed scopes before work begins and coordinate directly with commercial insurance carriers. For properties with both commercial and equestrian components, we document costs by affected area for accurate insurance allocation.`,
     factors: [
       `Square footage of contaminated area—Great Falls commercial spaces range from village retail suites to expansive equestrian facilities`,
       `Sewage category classification—septic system failures require full biohazard protocols with enhanced decontamination`,

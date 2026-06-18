@@ -108,7 +108,7 @@ Our technicians trace every odor to its source using borescopes that inspect ins
       'Infrastructure condition — aging sewer laterals and cast iron pipes may need repair alongside deodorization to prevent recurrence',
       'Chronic moisture conditions — properties near the Potomac water table may require integrated moisture management alongside odor treatment',
     ],
-    cta: `Call (877) 497-0007 for a professional odor assessment. We trace the source, explain treatment options compatible with your Alexandria property, and provide detailed estimates.`,
+    cta: `Call (877) 497-0007 for a professional odor assessment. We trace the source, explain treatment options compatible with your Alexandria property, and provide detailed scopes.`,
   },
   serviceAreaSection: {
     neighborhoods: [

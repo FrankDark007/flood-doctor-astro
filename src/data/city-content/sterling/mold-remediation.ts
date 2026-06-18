@@ -74,7 +74,7 @@ Our approach addresses both the mold and its moisture source. Removing visible m
   ],
   pricingSection: {
     headline: `Mold Remediation Costs in Sterling`,
-    intro: `Mold remediation costs in Sterling depend on the extent of contamination, affected materials, and moisture source correction needs. Small contained areas cost significantly less than widespread hidden mold behind walls. Many insurance policies cover mold remediation when it results from a covered water damage event. We provide detailed estimates before work begins.`,
+    intro: `Mold remediation costs in Sterling depend on the extent of contamination, affected materials, and moisture source correction needs. Small contained areas cost significantly less than widespread hidden mold behind walls. Many insurance policies cover mold remediation when it results from a covered water damage event. We provide detailed scopes before work begins.`,
     factors: [
       `Contamination extent—small bathroom mold differs dramatically from widespread hidden growth behind Sterling Park walls`,
       `Material types—vintage plaster and hardwood in older homes may require different remediation approaches than modern drywall`,

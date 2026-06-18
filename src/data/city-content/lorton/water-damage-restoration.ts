@@ -117,7 +117,7 @@ Our trained technicians don't just extract water and leave. We understand that y
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Lorton',
-    intro: 'Lorton water damage restoration costs vary based on damage extent, water category, affected square footage, and property type. We provide free inspections and detailed written estimates before work begins. Most Lorton homeowners file insurance claims—and we handle insurance documentation and carrier coordination.',
+    intro: 'Lorton water damage restoration costs vary based on damage extent, water category, affected square footage, and property type. We provide on-site assessments and detailed written estimates before work begins. Most Lorton homeowners file insurance claims—and we handle insurance documentation and carrier coordination.',
     factors: [
       'Square footage affected—larger homes and multi-level water migration increase costs',
       'Water category—clean water from burst pipes costs less to remediate than septic backup (Category 3)',
@@ -157,7 +157,7 @@ Our trained technicians don't just extract water and leave. We understand that y
     },
     {
       question: 'Will you work directly with my insurance company?',
-      answer: 'Yes. We handle insurance documentation and carrier coordination and provide comprehensive documentation—photos, moisture readings, daily monitoring logs, and detailed estimates—that insurance adjusters require. Our professional reports often improve claim outcomes for Lorton homeowners.',
+      answer: 'Yes. We handle insurance documentation and carrier coordination and provide comprehensive documentation—photos, moisture readings, daily monitoring logs, and detailed scopes—that insurance adjusters require. Our professional reports often improve claim outcomes for Lorton homeowners.',
     },
     {
       question: 'How do you prevent mold after water damage?',

@@ -112,7 +112,7 @@ Our industrial restoration approach addresses both the physical damage and the o
   },
   pricingSection: {
     headline: `Industrial Facility Restoration Costs in McLean`,
-    intro: `Commercial and industrial restoration costs in McLean vary based on facility type, equipment involved, and operational urgency. We provide detailed estimates that separate structural restoration from equipment recovery and compliance documentation, supporting both standard commercial insurance and government contract claim processes.`,
+    intro: `Commercial and industrial restoration costs in McLean vary based on facility type, equipment involved, and operational urgency. We provide detailed scopes that separate structural restoration from equipment recovery and compliance documentation, supporting both standard commercial insurance and government contract claim processes.`,
     factors: [
       `Facility size and construction type—laboratory, warehouse, and commercial spaces each present different restoration requirements`,
       `Equipment value and complexity—specialized machinery, computing systems, and laboratory instruments require manufacturer-coordinated restoration`,
@@ -120,7 +120,7 @@ Our industrial restoration approach addresses both the physical damage and the o
       `Environmental compliance—hazardous material management, waste disposal, and regulatory reporting add project scope`,
       `Business interruption urgency—expedited timelines for production-critical operations require additional crew deployment`,
     ],
-    cta: `Call (877) 497-0007 for emergency commercial or industrial facility assessment. We provide detailed estimates supporting both commercial insurance and government contract documentation requirements.`,
+    cta: `Call (877) 497-0007 for emergency commercial or industrial facility assessment. We provide detailed scopes supporting both commercial insurance and government contract documentation requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [

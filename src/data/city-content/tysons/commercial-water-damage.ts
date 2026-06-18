@@ -113,7 +113,7 @@ Our commercial teams bring the modern building system experience Tysons requires
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Tysons',
-    intro: 'Tysons commercial water damage restoration costs reflect the complexity of modern high-rise building systems and the premium specifications of Class A commercial space. Multi-floor events, building system damage, and IT infrastructure protection create scope beyond standard commercial restoration. We provide Xactimate estimates formatted for Tysons commercial insurance carriers.',
+    intro: 'Tysons commercial water damage restoration costs reflect the complexity of modern high-rise building systems and the premium specifications of Class A commercial space. Multi-floor events, building system damage, and IT infrastructure protection create scope beyond standard commercial restoration. We provide claim documentation formatted for Tysons commercial insurance carriers.',
     factors: [
       'Number of floors and total area affected—modern building system failures can propagate water across many floors simultaneously',
       'Building system damage—chiller, HVAC, fire suppression, and building automation system repairs add significant scope',

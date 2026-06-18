@@ -154,7 +154,7 @@ Our commercial flood teams deploy to Springfield with contamination assessment e
     },
     {
       question: 'Do you handle commercial flood insurance claims?',
-      answer: 'We work with commercial carriers and provide complete documentation—Xactimate estimates, contamination classification, moisture logs, and progress reports. We handle carrier coordination and support adjuster meetings.',
+      answer: 'We work with commercial carriers and provide complete documentation—claim documentation, contamination classification, moisture logs, and progress reports. We handle carrier coordination and support adjuster meetings.',
     },
     {
       question: 'Can you help prevent future flooding at our Springfield commercial property?',

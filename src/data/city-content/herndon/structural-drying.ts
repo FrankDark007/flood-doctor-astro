@@ -108,7 +108,7 @@ Our trained technicians deploy LGR dehumidifiers, strategically placed air mover
   },
   pricingSection: {
     headline: 'Structural Drying Costs in Herndon',
-    intro: 'Herndon drying costs depend on damage scope, water category, and property type. We provide free assessments and detailed estimates before work begins. Most water damage events are insurance-covered — we handle insurance documentation and coordination with your carrier.',
+    intro: 'Herndon drying costs depend on damage scope, water category, and property type. We provide free assessments and detailed scopes before work begins. Most water damage events are insurance-covered — we handle insurance documentation and coordination with your carrier.',
     factors: [
       'Affected area size — finished basements in Herndon colonials range from compact to extensive, directly impacting equipment and timeline',
       'Water contamination category — storm drain backups require additional protocols that increase treatment scope and cost',

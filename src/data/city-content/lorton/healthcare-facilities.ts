@@ -107,7 +107,7 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
   },
   pricingSection: {
     headline: `Healthcare Facility Restoration Costs in Lorton`,
-    intro: `Healthcare facility restoration in Lorton involves specialized protocols that affect project scope and cost. ICRA containment, HIPAA compliance measures, and medical equipment handling add complexity beyond standard commercial restoration. Newer construction may qualify for builder warranty recovery that offsets certain costs. We provide detailed estimates that distinguish between structural restoration and healthcare-specific compliance requirements for accurate insurance submissions.`,
+    intro: `Healthcare facility restoration in Lorton involves specialized protocols that affect project scope and cost. ICRA containment, HIPAA compliance measures, and medical equipment handling add complexity beyond standard commercial restoration. Newer construction may qualify for builder warranty recovery that offsets certain costs. We provide detailed scopes that distinguish between structural restoration and healthcare-specific compliance requirements for accurate insurance submissions.`,
     factors: [
       `ICRA classification level required for affected areas and adjacent patient care zones`,
       `Water source—drainage failures versus plumbing events affect contamination protocols and restoration scope`,

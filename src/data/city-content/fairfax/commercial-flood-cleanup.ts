@@ -155,7 +155,7 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
     },
     {
       question: 'Do you handle the insurance claim for commercial flooding?',
-      answer: 'We work with all major commercial carriers and provide complete documentation—Xactimate estimates, moisture logs, photo documentation, and daily progress reports. We provide claim-ready documentation and can participate in adjuster meetings to support your claim.',
+      answer: 'We work with all major commercial carriers and provide complete documentation—claim documentation, moisture logs, photo documentation, and daily progress reports. We provide claim-ready documentation and can participate in adjuster meetings to support your claim.',
     },
     {
       question: 'Can you prevent future flooding at our Fairfax commercial property?',

@@ -103,7 +103,7 @@ Our commercial restoration team provides project management from first call thro
   },
   pricingSection: {
     headline: 'Commercial Water Damage Restoration Costs in Centreville',
-    intro: `Commercial restoration costs reflect the scale of damage, business interruption mitigation efforts, and reconstruction scope. We provide detailed estimates for property management and insurance, and handle carrier coordination with commercial carriers.`,
+    intro: `Commercial restoration costs reflect the scale of damage, business interruption mitigation efforts, and reconstruction scope. We provide detailed scopes for property management and insurance, and handle carrier coordination with commercial carriers.`,
     factors: [
       'Affected square footage—commercial floor plates and multi-suite involvement increase scope',
       'Business interruption mitigation—after-hours work and phased approaches may reduce revenue loss but add labor costs',

@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Great Falls`,
-    intro: `Great Falls commercial mold remediation costs reflect the scope of contamination, building complexity, and regulatory requirements. We provide detailed estimates following CIH assessment. Many commercial insurance policies cover mold remediation when linked to a covered water damage event—we help establish and document that connection.`,
+    intro: `Great Falls commercial mold remediation costs reflect the scope of contamination, building complexity, and regulatory requirements. We provide detailed scopes following CIH assessment. Many commercial insurance policies cover mold remediation when linked to a covered water damage event—we help establish and document that connection.`,
     factors: [
       `Contamination area—single workplace suite remediation differs significantly from equestrian facility or multi-building mold events`,
       `CIH assessment and clearance testing—independent industrial hygienist services are a necessary component of commercial mold remediation`,

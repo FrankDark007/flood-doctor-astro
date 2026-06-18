@@ -112,7 +112,7 @@ Our industrial restoration approach addresses both physical damage and operation
   },
   pricingSection: {
     headline: `Industrial Facility Restoration Costs in Springfield`,
-    intro: `Commercial and industrial restoration costs in Springfield reflect the practical realities of I-95 corridor operations. We provide detailed estimates separating structural restoration from equipment recovery and inventory documentation, supporting standard commercial insurance and government contractor claim processes.`,
+    intro: `Commercial and industrial restoration costs in Springfield reflect the practical realities of I-95 corridor operations. We provide detailed scopes separating structural restoration from equipment recovery and inventory documentation, supporting standard commercial insurance and government contractor claim processes.`,
     factors: [
       `Facility type—warehouse, manufacturing, and government contractor spaces present different restoration requirements`,
       `Equipment value and complexity—production machinery, computing systems, and specialized equipment require different restoration approaches`,
@@ -120,7 +120,7 @@ Our industrial restoration approach addresses both physical damage and operation
       `Inventory damage scope—warehouse contents require rapid triage and detailed documentation for insurance claims`,
       `Business interruption urgency—supply chain obligations and government contract compliance drive restoration timeline requirements`,
     ],
-    cta: `Call (877) 497-0007 for emergency industrial or commercial facility assessment. We provide detailed estimates supporting commercial insurance, government contractor claims, and business interruption documentation.`,
+    cta: `Call (877) 497-0007 for emergency industrial or commercial facility assessment. We provide detailed scopes supporting commercial insurance, government contractor claims, and business interruption documentation.`,
   },
   serviceAreaSection: {
     neighborhoods: [

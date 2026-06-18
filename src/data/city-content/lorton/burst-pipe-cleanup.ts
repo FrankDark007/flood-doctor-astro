@@ -118,7 +118,7 @@ Our trained crews don't just extract water—we coordinate with licensed plumber
   },
   pricingSection: {
     headline: 'Burst Pipe Restoration Costs in Lorton',
-    intro: 'Burst pipe restoration costs vary based on water volume released, number of levels affected, and materials damaged. We provide free emergency inspections and detailed estimates. Most Lorton homeowners file insurance claims for sudden pipe bursts—and we handle insurance documentation and carrier coordination.',
+    intro: 'Burst pipe restoration costs vary based on water volume released, number of levels affected, and materials damaged. We provide free emergency inspections and detailed scopes. Most Lorton homeowners file insurance claims for sudden pipe bursts—and we handle insurance documentation and carrier coordination.',
     factors: [
       'Water volume and release duration—pipes can release hundreds of gallons before shutoff',
       'Vertical migration extent—multi-story damage increases restoration complexity and cost',

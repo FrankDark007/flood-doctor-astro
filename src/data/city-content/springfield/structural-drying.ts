@@ -114,7 +114,7 @@ Our trained technicians assess material types before deploying equipment, calcul
   },
   pricingSection: {
     headline: 'Structural Drying Costs in Springfield',
-    intro: 'Springfield drying costs depend on damage scope, water category, and home construction era. We provide free inspections and clear estimates. Most water damage is insurance-covered — we handle carrier coordination and provide the documentation your carrier requires.',
+    intro: 'Springfield drying costs depend on damage scope, water category, and home construction era. We provide on-site assessments and clear estimates. Most water damage is insurance-covered — we handle carrier coordination and provide the documentation your carrier requires.',
     factors: [
       'Construction era — 1960s split-levels, 1970s colonials, and 1990s townhomes each involve different drying approaches and timelines',
       'Water contamination — sewer backup events require additional hazardous protocols that increase treatment scope',

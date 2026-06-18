@@ -108,7 +108,7 @@ Our trained commercial teams understand Ashburn's modern building stock and its 
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Ashburn',
-    intro: 'Ashburn commercial restoration costs reflect the modern construction materials and IT equipment concentration that characterize this market. Builder warranty recovery potential may offset portions of restoration costs for newer properties. We provide detailed estimates for commercial carriers and document warranty-eligible items separately.',
+    intro: 'Ashburn commercial restoration costs reflect the modern construction materials and IT equipment concentration that characterize this market. Builder warranty recovery potential may offset portions of restoration costs for newer properties. We provide detailed scopes for commercial carriers and document warranty-eligible items separately.',
     factors: [
       'Modern material involvement—spray foam, OSB, and engineered materials require specialized protocols affecting restoration approach and cost',
       'IT infrastructure exposure—data center corridor properties carry specialized anti-corrosion and environmental control costs',
@@ -156,7 +156,7 @@ Our trained commercial teams understand Ashburn's modern building stock and its 
     },
     {
       question: 'Do you handle commercial insurance claims in Ashburn?',
-      answer: 'We work with all major commercial carriers and provide thorough documentation including Xactimate estimates, moisture logs, and daily progress reports. For properties with warranty potential, we document these items separately for clean insurance processing.',
+      answer: 'We work with all major commercial carriers and provide thorough documentation including claim documentation, moisture logs, and daily progress reports. For properties with warranty potential, we document these items separately for clean insurance processing.',
     },
     {
       question: 'Can you detect hidden HVAC-related water damage in our commercial building?',

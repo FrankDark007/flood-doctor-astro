@@ -113,7 +113,7 @@ Our water-damage restoration team understand that Springfield homeowners are oft
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Springfield',
-    intro: 'Springfield water damage restoration costs vary based on the scope of damage, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most Springfield homeowners file insurance claims—and we handle insurance documentation and carrier coordination including USAA.',
+    intro: 'Springfield water damage restoration costs vary based on the scope of damage, affected materials, and property size. We provide on-site assessments and detailed scopes before any work begins. Most Springfield homeowners file insurance claims—and we handle insurance documentation and carrier coordination including USAA.',
     factors: [
       'Square footage affected—finished basements and split-level lower floors often expand scope',
       'Water category—clean water from a burst pipe differs from sewage backup requiring biohazard protocols',

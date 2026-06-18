@@ -69,7 +69,7 @@ Our trained fire restoration crews understand both the chemistry and the urgency
   ],
   pricingSection: {
     headline: `Fire & Smoke Cleanup Costs in Sterling`,
-    intro: `Fire restoration costs in Sterling depend on the fire extent, smoke type and penetration, water damage from firefighting, and your home's construction. Insurance typically covers fire restoration comprehensively. We provide detailed estimates and handle carrier coordination with all carriers.`,
+    intro: `Fire restoration costs in Sterling depend on the fire extent, smoke type and penetration, water damage from firefighting, and your home's construction. Insurance typically covers fire restoration comprehensively. We provide detailed scopes and handle carrier coordination with all carriers.`,
     factors: [
       `Fire extent—contained kitchen fires differ dramatically from structural fires affecting multiple rooms`,
       `Smoke type and penetration depth—protein, synthetic, and complex smoke each require different restoration approaches`,

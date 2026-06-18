@@ -113,7 +113,7 @@ Our trained commercial teams bring the vertical experience Arlington demands. We
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Arlington',
-    intro: 'Arlington commercial restoration costs reflect the complexity of high-rise and dense urban environments. Multi-floor events, elevator logistics, and after-hours scheduling affect project scope. We provide Xactimate estimates formatted for commercial carriers and coordinate directly with adjusters.',
+    intro: 'Arlington commercial restoration costs reflect the complexity of high-rise and dense urban environments. Multi-floor events, elevator logistics, and after-hours scheduling affect project scope. We provide claim documentation formatted for commercial carriers and coordinate directly with adjusters.',
     factors: [
       'Number of floors affected—vertical water migration in high-rise buildings can multiply affected area exponentially',
       'Building access complexity—freight elevator availability, security protocols, and staging limitations affect crew efficiency',

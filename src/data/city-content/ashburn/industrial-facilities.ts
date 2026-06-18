@@ -120,7 +120,7 @@ Our industrial restoration approach addresses both physical damage and operation
       `Business interruption urgency—SLA-driven data center operations require maximum restoration speed`,
       `Construction defect documentation—newer Ashburn facilities may require assessment supporting warranty claims`,
     ],
-    cta: `Call (877) 497-0007 for emergency data center or industrial facility assessment. We provide detailed estimates supporting commercial insurance, equipment policies, and SLA compliance documentation.`,
+    cta: `Call (877) 497-0007 for emergency data center or industrial facility assessment. We provide detailed scopes supporting commercial insurance, equipment policies, and SLA compliance documentation.`,
   },
   serviceAreaSection: {
     neighborhoods: [

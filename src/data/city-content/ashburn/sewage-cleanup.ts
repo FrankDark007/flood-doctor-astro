@@ -117,7 +117,7 @@ Our trained technicians treat every call as both a contamination emergency and a
   },
   pricingSection: {
     headline: 'Sewage Cleanup Costs in Ashburn',
-    intro: 'Ashburn sewage cleanup costs reflect both biohazard remediation and construction-defect documentation. Because many Ashburn homes carry active builder warranties, proper documentation during cleanup can shift restoration costs from homeowner to builder — making the documentation investment one of the highest-value services we provide. Free inspections and detailed estimates precede all work.',
+    intro: 'Ashburn sewage cleanup costs reflect both biohazard remediation and construction-defect documentation. Because many Ashburn homes carry active builder warranties, proper documentation during cleanup can shift restoration costs from homeowner to builder — making the documentation investment one of the highest-value services we provide. On-site assessments and detailed scopes precede all work.',
     factors: [
       `Builder warranty claim documentation — forensic evidence gathering adds assessment time but frequently recovers full restoration cost from the builder's warranty program`,
       'HOA liability determination — camera inspection establishing whether backup originated in homeowner lateral or HOA collector main',
@@ -126,7 +126,7 @@ Our trained technicians treat every call as both a contamination emergency and a
       'Loudoun County permit requirements — lateral replacement triggered by documented slope deficiency requires county permits and inspections',
       'Multi-unit coordination — townhome backups affecting multiple homes require parallel crew deployment and individualized documentation',
     ],
-    cta: 'Call (877) 497-0007 immediately for sewage backup. Free inspection, detailed estimates, and documentation support for insurance claims, builder warranty cases, and HOA liability recovery. Every hour of delay increases contamination spread and restoration cost.',
+    cta: 'Call (877) 497-0007 immediately for sewage backup. Free inspection, detailed scopes, and documentation support for insurance claims, builder warranty cases, and HOA liability recovery. Every hour of delay increases contamination spread and restoration cost.',
   },
   serviceAreaSection: {
     neighborhoods: [

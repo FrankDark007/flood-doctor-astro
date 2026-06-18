@@ -111,7 +111,7 @@ Our approach addresses both visible mold and the conditions enabling growth. Rem
   },
   pricingSection: {
     headline: 'Mold Remediation Costs in Vienna',
-    intro: 'Vienna mold remediation costs depend on contamination extent, affected materials, and underlying moisture issues. We provide free inspections with detailed scope assessment before quoting. Some homeowners insurance policies cover mold remediation when related to covered water damage.',
+    intro: 'Vienna mold remediation costs depend on contamination extent, affected materials, and underlying moisture issues. We provide on-site assessments with detailed scope assessment before quoting. Some homeowners insurance policies cover mold remediation when related to covered water damage.',
     factors: [
       'Contamination extent—larger affected areas require more containment, equipment, and labor',
       'Contaminated material type—drywall and insulation removal costs more than surface-only treatment',
@@ -174,6 +174,6 @@ Our approach addresses both visible mold and the conditions enabling growth. Rem
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: 'Suspect Mold in Your Vienna Home?',
-    paragraph: `Don't wait—mold contamination spreads and health risks increase with time. Our trained teams provide professional remediation that protects your family and prevents recurrence. Free inspections available.`,
+    paragraph: `Don't wait—mold contamination spreads and health risks increase with time. Our trained teams provide professional remediation that protects your family and prevents recurrence. On-site assessments available.`,
   },
 }

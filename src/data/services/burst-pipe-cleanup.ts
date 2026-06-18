@@ -88,7 +88,7 @@ const burstPipeCleanup: ServiceData = {
     },
     {
       name: 'Insurance Documentation',
-      description: 'Thorough documentation including moisture maps, photos, and Xactimate estimates for your claim.',
+      description: 'Thorough documentation including moisture maps, photos, and claim documentation for your claim.',
     },
   ],
   faqs: [

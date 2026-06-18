@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Crawl Space Encapsulation Costs in Tysons',
-    intro: `Tysons crawl space encapsulation costs depend on property type, size, and existing conditions. Multi-unit coordination and warranty documentation add value beyond basic encapsulation. We provide free inspections and transparent proposals tailored to your property's specific needs.`,
+    intro: `Tysons crawl space encapsulation costs depend on property type, size, and existing conditions. Multi-unit coordination and warranty documentation add value beyond basic encapsulation. We provide on-site assessments and transparent proposals tailored to your property's specific needs.`,
     factors: [
       'Property type—single-family, townhome, or multi-unit with shared wall considerations',
       'Existing moisture damage requiring remediation before encapsulation',

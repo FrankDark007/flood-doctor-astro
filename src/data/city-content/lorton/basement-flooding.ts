@@ -116,7 +116,7 @@ Our water-damage restoration team don't just pump basements dry. We understand t
   },
   pricingSection: {
     headline: 'Basement Flooding Repair Costs in Lorton',
-    intro: 'Basement flood repair costs in Lorton vary significantly based on water volume, contamination category, square footage, and finish level. We provide free emergency inspections and detailed estimates. Most homeowners file insurance claims—and we handle carrier coordination to streamline the process.',
+    intro: 'Basement flood repair costs in Lorton vary significantly based on water volume, contamination category, square footage, and finish level. We provide free emergency inspections and detailed scopes. Most homeowners file insurance claims—and we handle carrier coordination to streamline the process.',
     factors: [
       'Basement size and configuration—finished basements cost more to restore than unfinished storage areas',
       'Water contamination category—clean groundwater differs from sewer backup requiring biohazard protocols',

@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Crawl Space Drying & Encapsulation Costs in Arlington',
-    intro: `Arlington crawl space costs vary based on property type, accessibility, and existing conditions. Rowhouse crawl spaces with shared walls require different approaches than standalone ramblers. We provide free inspections and detailed proposals before any work begins.`,
+    intro: `Arlington crawl space costs vary based on property type, accessibility, and existing conditions. Rowhouse crawl spaces with shared walls require different approaches than standalone ramblers. We provide on-site assessments and detailed proposals before any work begins.`,
     factors: [
       'Crawl space square footage and clearance height—low clearance increases labor time',
       'Shared-wall conditions in rowhouses and townhomes requiring additional barrier treatment',

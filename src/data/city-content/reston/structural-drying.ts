@@ -115,7 +115,7 @@ Our trained technicians develop property-specific drying plans that account for 
       'Below-grade conditions — concrete slab drying and elevated water table management require specialized desiccant equipment',
       'HOA and Reston Association requirements — compliance documentation and exterior work approvals may add administrative scope',
     ],
-    cta: `Call (877) 497-0007 for a community-aware assessment. We evaluate your Reston property, coordinate with your HOA, and provide detailed estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for a community-aware assessment. We evaluate your Reston property, coordinate with your HOA, and provide detailed scopes for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [

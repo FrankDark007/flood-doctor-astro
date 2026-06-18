@@ -107,7 +107,7 @@ Our Vienna healthcare team adapts to each building type while maintaining consis
   },
   pricingSection: {
     headline: `Healthcare Facility Restoration Costs in Vienna`,
-    intro: `Vienna medical practice restoration costs vary by building type, equipment involved, and clinical complexity. Older buildings may require regulated materials management. Specialty practices with high-value equipment need manufacturer-coordinated recovery. We provide detailed estimates with healthcare-specific categories for accurate insurance submissions.`,
+    intro: `Vienna medical practice restoration costs vary by building type, equipment involved, and clinical complexity. Older buildings may require regulated materials management. Specialty practices with high-value equipment need manufacturer-coordinated recovery. We provide detailed scopes with healthcare-specific categories for accurate insurance submissions.`,
     factors: [
       `Building era and construction type—older Vienna commercial buildings and converted residential structures each present specific challenges and costs`,
       `Medical equipment value—specialty instruments, imaging systems, and dental equipment require manufacturer-approved restoration protocols`,

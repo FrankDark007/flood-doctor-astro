@@ -122,7 +122,7 @@ Our project managers work with facility directors, school administrators, and mu
     },
     {
       question: `What documentation do you provide for municipal insurance claims?`,
-      answer: `Comprehensive documentation including damage assessment, daily progress reports, moisture readings, air quality monitoring data, and detailed estimates. We format documentation for both insurance carriers and municipal record-keeping requirements.`,
+      answer: `Comprehensive documentation including damage assessment, daily progress reports, moisture readings, air quality monitoring data, and detailed scopes. We format documentation for both insurance carriers and municipal record-keeping requirements.`,
     },
   ],
   relatedBlogSlugs: [

@@ -107,7 +107,7 @@ Our healthcare restoration protocols address these facility-specific requirement
   },
   pricingSection: {
     headline: `Healthcare Facility Restoration Costs in McLean`,
-    intro: `Healthcare facility restoration in McLean involves specialized protocols that affect project scope and cost. healthcare containment, patient-privacy compliance measures, and medical equipment handling add complexity beyond standard commercial restoration. We provide detailed estimates that distinguish between structural restoration and healthcare-specific compliance requirements for accurate insurance submissions.`,
+    intro: `Healthcare facility restoration in McLean involves specialized protocols that affect project scope and cost. healthcare containment, patient-privacy compliance measures, and medical equipment handling add complexity beyond standard commercial restoration. We provide detailed scopes that distinguish between structural restoration and healthcare-specific compliance requirements for accurate insurance submissions.`,
     factors: [
       `appropriate healthcare riskification level required for affected areas and adjacent patient care zones`,
       `Medical equipment involved—diagnostic imaging, surgical instruments, and laboratory systems each require specialized handling`,

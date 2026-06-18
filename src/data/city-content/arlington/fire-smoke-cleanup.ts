@@ -112,7 +112,7 @@ Our trained fire restoration crews understand the complexity of high-rise fire r
   },
   pricingSection: {
     headline: 'Fire Damage Restoration Costs in Arlington',
-    intro: 'Arlington fire damage restoration costs depend on the fire size, number of affected units, and extent of smoke migration. A small kitchen fire affecting one unit costs far less than a major fire requiring multi-floor restoration. Firefighting water damage adds to costs when lower units are affected. We provide detailed estimates before work begins.',
+    intro: 'Arlington fire damage restoration costs depend on the fire size, number of affected units, and extent of smoke migration. A small kitchen fire affecting one unit costs far less than a major fire requiring multi-floor restoration. Firefighting water damage adds to costs when lower units are affected. We provide detailed scopes before work begins.',
     factors: [
       'Fire extent and severity—char damage requires more extensive restoration than smoke exposure alone',
       'Number of affected units—multi-unit smoke migration and water damage increase total scope',

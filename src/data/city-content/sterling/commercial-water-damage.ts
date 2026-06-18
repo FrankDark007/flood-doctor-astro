@@ -110,7 +110,7 @@ Our commercial project managers handle the coordination that Sterling multi-tena
     },
     {
       question: `Do you handle commercial insurance claims?`,
-      answer: `Yes. We work with all commercial carriers and provide Xactimate estimates, moisture documentation, daily progress reports, and the detailed scope documentation commercial adjusters require. We also provide documentation formatted for property management companies and landlords.`,
+      answer: `Yes. We work with all commercial carriers and provide claim documentation, moisture documentation, daily progress reports, and the detailed scope documentation commercial adjusters require. We also provide documentation formatted for property management companies and landlords.`,
     },
     {
       question: `My restaurant had water damage. What about health department requirements?`,

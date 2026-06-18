@@ -108,7 +108,7 @@ Our trained commercial teams adapt to each property's construction era and envir
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Lorton',
-    intro: 'Lorton commercial water damage costs vary with building age, waterfront proximity, and commercial use type. New construction warranty claims follow different cost-recovery paths than standard insurance. We provide detailed estimates and navigate both insurance and warranty processes for Lorton business owners.',
+    intro: 'Lorton commercial water damage costs vary with building age, waterfront proximity, and commercial use type. New construction warranty claims follow different cost-recovery paths than standard insurance. We provide detailed scopes and navigate both insurance and warranty processes for Lorton business owners.',
     factors: [
       'Construction era—new Laurel Hill buildings may involve warranty recovery while older Route 1 properties follow standard insurance processes',
       'Waterfront proximity—Occoquan-area properties require enhanced drying capacity adding equipment and timeline scope',

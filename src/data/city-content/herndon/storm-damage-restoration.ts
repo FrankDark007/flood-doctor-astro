@@ -46,7 +46,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     },
     {
       title: 'Insurance Documentation & Restoration Coordination',
-      description: 'We photograph all damage, document restoration efforts with Xactimate estimates, and provide detailed reports for your insurance claim. Storm damage claims benefit from professional documentation—we handle insurance documentation and coordination and support your claim from emergency response through final restoration.',
+      description: 'We photograph all damage, document restoration efforts with claim documentation, and provide detailed reports for your insurance claim. Storm damage claims benefit from professional documentation—we handle insurance documentation and coordination and support your claim from emergency response through final restoration.',
       timeframe: 'Throughout project',
     },
   ],
@@ -123,7 +123,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Herndon',
-    intro: `Storm damage costs in Herndon vary based on property type and damage extent. A Fox Mill colonial with a tree through the roof requires different scope than a Worldgate townhome with wind-damaged siding affecting shared walls. We provide on-site assessments during our emergency response and detailed Xactimate estimates before restoration begins. Most storm damage is covered by homeowner's insurance—we handle insurance coordination and comprehensive documentation to support your claim.`,
+    intro: `Storm damage costs in Herndon vary based on property type and damage extent. A Fox Mill colonial with a tree through the roof requires different scope than a Worldgate townhome with wind-damaged siding affecting shared walls. We provide on-site assessments during our emergency response and detailed claim documentation before restoration begins. Most storm damage is covered by homeowner's insurance—we handle insurance coordination and comprehensive documentation to support your claim.`,
     factors: [
       'Damage type and extent—wind damage, hail impacts, tree strikes, or water intrusion through compromised building envelope',
       'Emergency stabilization needs—tarping scope, board-up requirements, and immediate extraction volume',
@@ -166,7 +166,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     },
     {
       question: 'Should I call my insurance company or Flood Doctor first?',
-      answer: `Call us first—we begin emergency stabilization and documentation immediately. Notify your insurance company soon after, but don't wait for their approval before emergency weatherproofing. Preventing additional damage actually protects your claim. We handle insurance documentation and coordination, provide Xactimate estimates, and support your claim with professional documentation throughout the process.`,
+      answer: `Call us first—we begin emergency stabilization and documentation immediately. Notify your insurance company soon after, but don't wait for their approval before emergency weatherproofing. Preventing additional damage actually protects your claim. We handle insurance documentation and coordination, provide claim documentation, and support your claim with professional documentation throughout the process.`,
     },
     {
       question: 'How do you find hidden storm damage in my walls?',

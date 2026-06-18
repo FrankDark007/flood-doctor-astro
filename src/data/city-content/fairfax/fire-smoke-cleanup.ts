@@ -119,7 +119,7 @@ Our trained fire damage technicians understand this complexity. We address smoke
       'Contents damage—on-site cleaning vs. pack-out for off-site restoration',
       'Reconstruction scope—cosmetic repairs vs. major rebuilding',
     ],
-    cta: 'Call (877) 497-0007 for immediate fire damage response. We provide detailed estimates for insurance purposes and coordinate the thorough restoration process.',
+    cta: 'Call (877) 497-0007 for immediate fire damage response. We provide detailed scopes for insurance purposes and coordinate the thorough restoration process.',
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -156,7 +156,7 @@ Our trained commercial teams bring the technical range to handle all of Reston's
     },
     {
       question: 'Will you coordinate with our commercial insurance carrier?',
-      answer: 'We work with all major commercial carriers and provide Xactimate estimates, moisture documentation, and daily progress reports. We handle insurance coordination and participate in adjuster meetings to support your claim.',
+      answer: 'We work with all major commercial carriers and provide claim documentation, moisture documentation, and daily progress reports. We handle insurance coordination and participate in adjuster meetings to support your claim.',
     },
     {
       question: 'Can you minimize disruption to our Reston business operations?',

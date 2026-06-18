@@ -113,14 +113,14 @@ Our trained technicians calculate psychrometric drying conditions for every mate
   },
   pricingSection: {
     headline: 'Structural Drying Costs in Ashburn',
-    intro: 'Ashburn structural drying costs reflect modern home construction and material complexity. Extensive finished basements and open floor plans can mean large affected areas. We provide free inspections and detailed estimates. Most situations are insurance-covered — we handle billing directly and document for warranty claims when applicable.',
+    intro: 'Ashburn structural drying costs reflect modern home construction and material complexity. Extensive finished basements and open floor plans can mean large affected areas. We provide on-site assessments and detailed scopes. Most situations are insurance-covered — we handle billing directly and document for warranty claims when applicable.',
     factors: [
       'Affected area — Ashburn open floor plans and finished basements can mean extensive square footage requiring equipment and monitoring',
       'Modern material involvement — OSB subfloors, spray foam cavities, and engineered flooring require specialized protocols that add precision',
       'Water source documentation — potential warranty situations require additional investigation and evidence gathering',
       'HOA coordination — community-related drainage issues may involve additional documentation and compliance requirements',
     ],
-    cta: `Call (877) 497-0007 for a free inspection. We assess the damage, document the cause, and provide detailed estimates that support both your insurance claim and warranty options.`,
+    cta: `Call (877) 497-0007 for a free inspection. We assess the damage, document the cause, and provide detailed scopes that support both your insurance claim and warranty options.`,
   },
   serviceAreaSection: {
     neighborhoods: [

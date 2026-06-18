@@ -107,7 +107,7 @@ Our healthcare restoration protocols address these Great Falls-specific challeng
   },
   pricingSection: {
     headline: `Healthcare Facility Restoration Costs in Great Falls`,
-    intro: `Healthcare facility restoration in Great Falls involves specialized protocols that affect project scope and cost. ICRA containment, HIPAA compliance measures, and medical equipment handling add complexity beyond standard commercial restoration. Converted estate practices and facilities on well and septic systems present additional considerations. We provide detailed estimates that distinguish between structural restoration and healthcare-specific compliance requirements for accurate insurance submissions.`,
+    intro: `Healthcare facility restoration in Great Falls involves specialized protocols that affect project scope and cost. ICRA containment, HIPAA compliance measures, and medical equipment handling add complexity beyond standard commercial restoration. Converted estate practices and facilities on well and septic systems present additional considerations. We provide detailed scopes that distinguish between structural restoration and healthcare-specific compliance requirements for accurate insurance submissions.`,
     factors: [
       `ICRA classification level required for affected areas and adjacent patient care zones`,
       `Well and septic system involvement—contamination from septic failures requires enhanced antimicrobial protocols`,

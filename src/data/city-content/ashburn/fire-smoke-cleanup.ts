@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Fire Damage Restoration Costs in Ashburn',
-    intro: 'Sprinkler-activated fires frequently cost more to restore than non-sprinkler fires — fire damage may be minor, but hundreds of gallons across open floor plans creates extensive water scope. We provide detailed estimates before work begins and handle insurance documentation support.',
+    intro: 'Sprinkler-activated fires frequently cost more to restore than non-sprinkler fires — fire damage may be minor, but hundreds of gallons across open floor plans creates extensive water scope. We provide detailed scopes before work begins and handle insurance documentation support.',
     factors: [
       'Sprinkler water damage scope — discharge volume, migration through floor penetrations, and number of levels affected often drive costs higher than the fire damage itself',
       'Synthetic soot cleaning complexity — petroleum-based residue requires labor-intensive solvent-based protocols rather than standard soot removal',

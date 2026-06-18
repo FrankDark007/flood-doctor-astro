@@ -87,7 +87,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Does homeowners insurance cover burst pipe damage?',
-      answer: 'Yes, homeowners insurance typically covers sudden burst pipe damage, including emergency water extraction, structural drying, repairs to damaged building materials, and affected personal property. Coverage applies regardless of pipe age or material, though some policies exclude damage from lack of maintenance. We document damage thoroughly, work directly with insurance adjusters, and provide detailed estimates that secure full reimbursement under replacement cost provisions.',
+      answer: 'Yes, homeowners insurance typically covers sudden burst pipe damage, including emergency water extraction, structural drying, repairs to damaged building materials, and affected personal property. Coverage applies regardless of pipe age or material, though some policies exclude damage from lack of maintenance. We document damage thoroughly, work directly with insurance adjusters, and provide detailed scopes that secure full reimbursement under replacement cost provisions.',
     },
     {
       question: 'How do you prevent mold growth after burst pipe flooding?',

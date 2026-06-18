@@ -108,7 +108,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in McLean`,
-    intro: `McLean commercial mold remediation costs reflect the scope of contamination, building complexity, and regulatory requirements. We provide detailed estimates following CIH assessment. Many commercial insurance policies cover mold remediation when linked to a covered water damage event—we help establish and document that connection.`,
+    intro: `McLean commercial mold remediation costs reflect the scope of contamination, building complexity, and regulatory requirements. We provide detailed scopes following CIH assessment. Many commercial insurance policies cover mold remediation when linked to a covered water damage event—we help establish and document that connection.`,
     factors: [
       `Contamination area—single suite remediation differs significantly from multi-floor HVAC-distributed mold events`,
       `CIH assessment and verification testing—independent industrial hygienist services are a necessary component of commercial mold remediation`,

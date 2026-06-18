@@ -118,7 +118,7 @@ Our trained crews are trained specifically in Category 3 biohazard remediation. 
       'Insurance coverage—sewer backup endorsement provides better coverage',
       'Plumbing repairs—line clearing or replacement is separate from cleanup costs',
     ],
-    cta: `Call (877) 497-0007 immediately if you're experiencing a sewage backup. We provide detailed estimates for insurance purposes and can explain your coverage options.`,
+    cta: `Call (877) 497-0007 immediately if you're experiencing a sewage backup. We provide detailed scopes for insurance purposes and can explain your coverage options.`,
   },
   serviceAreaSection: {
     neighborhoods: [

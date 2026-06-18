@@ -127,7 +127,7 @@ Our large loss project managers bring experience with Sterling's specific proper
     },
     {
       question: `What documentation do you provide for large loss events?`,
-      answer: `Comprehensive master documentation plus carrier-specific, unit-specific, and stakeholder-specific reports. This includes daily logs, moisture readings, photo documentation, Xactimate estimates per unit, and summary reports for HOA boards and property managers.`,
+      answer: `Comprehensive master documentation plus carrier-specific, unit-specific, and stakeholder-specific reports. This includes daily logs, moisture readings, photo documentation, claim documentation per unit, and summary reports for HOA boards and property managers.`,
     },
   ],
   relatedBlogSlugs: [

@@ -123,7 +123,7 @@ Our trained crews understand that storm restoration in Great Falls means protect
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Great Falls',
-    intro: 'Storm damage pricing for Great Falls estates depends on the scope of damage across all structures, the extent of water intrusion, and the emergency measures required to prevent ongoing deterioration. We provide on-site assessments during our emergency response and detailed written estimates before restoration begins. Storm claims for high-value properties require comprehensive documentation—our Xactimate estimates and photographic evidence support well-documented claim review.',
+    intro: 'Storm damage pricing for Great Falls estates depends on the scope of damage across all structures, the extent of water intrusion, and the emergency measures required to prevent ongoing deterioration. We provide on-site assessments during our emergency response and detailed written estimates before restoration begins. Storm claims for high-value properties require comprehensive documentation—our claim documentation and photographic evidence support well-documented claim review.',
     factors: [
       'Number of structures affected—main residence, guest house, pool house, and equestrian facilities each require separate assessment and response',
       'Roof damage scope and tarping requirements for slate, copper, and complex roof systems',

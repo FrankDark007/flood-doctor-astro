@@ -65,7 +65,7 @@ export const content: CityServiceContent = {
   ],
   pricingSection: {
     headline: `Commercial Water Damage Costs in Leesburg`,
-    intro: `Commercial water damage costs vary based on property size, damage extent, business type, and urgency of restoration. We provide detailed estimates and work with commercial insurance policies to minimize your out-of-pocket costs.`,
+    intro: `Commercial water damage costs vary based on property size, damage extent, business type, and urgency of restoration. We provide detailed scopes and work with commercial insurance policies to minimize your out-of-pocket costs.`,
     factors: [
       `Affected square footage and number of floors or units`,
       `Type of commercial operations and equipment involved`,

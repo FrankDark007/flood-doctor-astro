@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       `Duration of flooding before response—faster extraction reduces secondary damage costs`,
       `Prevention measures—sump pump upgrades and waterproofing are additional investments`,
     ],
-    cta: `Call (877) 497-0007 for emergency basement flooding response. We arrive as soon as crews are available and provide free damage assessments with detailed estimates.`,
+    cta: `Call (877) 497-0007 for emergency basement flooding response. We arrive as soon as crews are available and provide free damage assessments with detailed scopes.`,
   },
   serviceAreaSection: {
     neighborhoods: [

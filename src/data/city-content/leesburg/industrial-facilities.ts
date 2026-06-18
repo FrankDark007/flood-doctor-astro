@@ -70,7 +70,7 @@ export const content: CityServiceContent = {
   ],
   pricingSection: {
     headline: `Industrial Facility Restoration Costs in Leesburg`,
-    intro: `Industrial restoration is priced based on facility size, damage scope, equipment involvement, and production urgency. We provide detailed estimates and work with commercial and industrial insurance carriers for carrier coordination.`,
+    intro: `Industrial restoration is priced based on facility size, damage scope, equipment involvement, and production urgency. We provide detailed scopes and work with commercial and industrial insurance carriers for carrier coordination.`,
     factors: [
       `Facility square footage and building construction type`,
       `Volume of water and contamination category`,

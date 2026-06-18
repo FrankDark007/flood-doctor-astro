@@ -46,7 +46,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     },
     {
       title: 'Insurance Documentation & Restoration Coordination',
-      description: 'We photograph all damage, document restoration efforts with Xactimate estimates, and provide detailed reports for your insurance claim. We handle insurance documentation and carrier coordination and coordinate with roofing contractors, general contractors, and other specialists needed for full restoration of your Springfield home.',
+      description: 'We photograph all damage, document restoration efforts with claim documentation, and provide detailed reports for your insurance claim. We handle insurance documentation and carrier coordination and coordinate with roofing contractors, general contractors, and other specialists needed for full restoration of your Springfield home.',
       timeframe: 'Throughout project',
     },
   ],
@@ -123,7 +123,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Springfield',
-    intro: `Storm damage costs in Springfield depend on property type, damage extent, and the specific challenges your home presents. A West Springfield split-level with a tree through the roof and lower-level flooding requires different scope than a Kingstowne townhome with wind-damaged shared siding. We provide on-site assessments during our emergency response and detailed Xactimate estimates before restoration begins. Most storm damage is covered by homeowner's insurance—we handle carrier coordination and comprehensive documentation to support complete claim coverage.`,
+    intro: `Storm damage costs in Springfield depend on property type, damage extent, and the specific challenges your home presents. A West Springfield split-level with a tree through the roof and lower-level flooding requires different scope than a Kingstowne townhome with wind-damaged shared siding. We provide on-site assessments during our emergency response and detailed claim documentation before restoration begins. Most storm damage is covered by homeowner's insurance—we handle carrier coordination and comprehensive documentation to support complete claim coverage.`,
     factors: [
       'Damage type and extent—wind damage, hail impacts, tree strikes, or water intrusion through compromised building envelope',
       'Emergency stabilization needs—tarping scope, board-up requirements, and immediate extraction volume for below-grade flooding',
@@ -166,7 +166,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     },
     {
       question: 'Should I call my insurance company or Flood Doctor first?',
-      answer: `Call us first—we begin emergency stabilization and documentation immediately. Notify your insurance company soon after, but don't wait for their approval before emergency weatherproofing. Preventing additional damage actually protects your claim. We handle insurance documentation and carrier coordination, provide Xactimate estimates, and support your claim with professional documentation throughout the entire process.`,
+      answer: `Call us first—we begin emergency stabilization and documentation immediately. Notify your insurance company soon after, but don't wait for their approval before emergency weatherproofing. Preventing additional damage actually protects your claim. We handle insurance documentation and carrier coordination, provide claim documentation, and support your claim with professional documentation throughout the entire process.`,
     },
     {
       question: 'How do you find hidden storm damage in my walls?',

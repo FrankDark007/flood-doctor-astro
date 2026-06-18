@@ -120,7 +120,7 @@ Our trained biohazard cleanup crews understand that sewage emergencies in high-r
       'Material removal scope—more contaminated drywall, flooring, and contents mean higher disposal costs',
       'Verification requirements—some HOAs and insurance carriers require independent clearance testing',
     ],
-    cta: `Call (877) 497-0007 for immediate sewage emergency response. We'll assess the scope, coordinate with building management, and provide detailed estimates for complete biohazard cleanup.`,
+    cta: `Call (877) 497-0007 for immediate sewage emergency response. We'll assess the scope, coordinate with building management, and provide detailed scopes for complete biohazard cleanup.`,
   },
   serviceAreaSection: {
     neighborhoods: [

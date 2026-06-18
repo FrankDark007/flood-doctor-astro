@@ -65,7 +65,7 @@ export const content: CityServiceContent = {
   ],
   pricingSection: {
     headline: `Commercial Fire & Smoke Cleanup Costs in Leesburg`,
-    intro: `Commercial fire restoration costs depend on the fire extent, smoke distribution, water damage from suppression, and the type of business affected. Detailed estimates are provided after our initial assessment.`,
+    intro: `Commercial fire restoration costs depend on the fire extent, smoke distribution, water damage from suppression, and the type of business affected. Detailed scopes are provided after our initial assessment.`,
     factors: [
       `Fire damage extent and structural repair requirements`,
       `Smoke type and distribution throughout the building`,

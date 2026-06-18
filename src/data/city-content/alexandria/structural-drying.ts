@@ -117,7 +117,7 @@ Our trained technicians calculate material-specific drying parameters for every 
   },
   pricingSection: {
     headline: 'Structural Drying Costs in Alexandria',
-    intro: 'Alexandria structural drying costs reflect both the damage scope and the preservation requirements of historic properties. Historic materials require slower, more controlled drying that may extend project timelines compared to modern construction. We provide detailed estimates and coordinate directly with insurance carriers.',
+    intro: 'Alexandria structural drying costs reflect both the damage scope and the preservation requirements of historic properties. Historic materials require slower, more controlled drying that may extend project timelines compared to modern construction. We provide detailed scopes and coordinate directly with insurance carriers.',
     factors: [
       'Historic material involvement — original plaster, lime mortar, and old-growth timber require slower drying protocols that extend timeline and monitoring',
       'Water category — clean water versus sewage backup from combined sewer overflows requires different protocols and contamination handling',
@@ -125,7 +125,7 @@ Our trained technicians calculate material-specific drying parameters for every 
       'Property size and construction complexity — mixed-era construction with both original and renovated sections requires multiple drying approaches',
       'Regulatory considerations — BAR-compliant documentation and preservation-priority methods may add scope to historic district properties',
     ],
-    cta: `Call (877) 497-0007 for a preservation-aware assessment. We evaluate both the water damage and the historic materials at risk, providing detailed estimates that account for Alexandria's unique restoration requirements.`,
+    cta: `Call (877) 497-0007 for a preservation-aware assessment. We evaluate both the water damage and the historic materials at risk, providing detailed scopes that account for Alexandria's unique restoration requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -107,7 +107,7 @@ These location-specific risks demand a restoration partner with deep Alexandria 
   },
   pricingSection: {
     headline: `Healthcare Facility Restoration Costs in Alexandria`,
-    intro: `Alexandria healthcare restoration costs reflect the dual complexity of medical compliance and historic building preservation. Combined sewer events require biohazard protocols that add to standard water damage restoration scope. We provide detailed estimates separating healthcare compliance, historic preservation, and standard restoration costs for accurate insurance submissions.`,
+    intro: `Alexandria healthcare restoration costs reflect the dual complexity of medical compliance and historic building preservation. Combined sewer events require biohazard protocols that add to standard water damage restoration scope. We provide detailed scopes separating healthcare compliance, historic preservation, and standard restoration costs for accurate insurance submissions.`,
     factors: [
       `Water contamination category—combined sewer backups in Old Town require Category 3 biohazard protocols significantly expanding scope`,
       `Historic building requirements—BAR compliance, plaster preservation, and specialty material handling in pre-1900 medical workspaces`,

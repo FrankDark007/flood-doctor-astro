@@ -111,7 +111,7 @@ Our remediation process addresses both the mold and the moisture source. Removin
   },
   pricingSection: {
     headline: 'Mold Remediation Costs in Falls Church',
-    intro: 'Mold remediation costs depend on the extent of contamination, accessibility of affected areas, and the remediation complexity. Small, contained mold problems cost less than widespread growth in concealed spaces. We provide free inspections and detailed estimates before any work begins.',
+    intro: 'Mold remediation costs depend on the extent of contamination, accessibility of affected areas, and the remediation complexity. Small, contained mold problems cost less than widespread growth in concealed spaces. We provide on-site assessments and detailed scopes before any work begins.',
     factors: [
       'Size of affected area—square footage directly impacts remediation scope and cost',
       'Location of mold—concealed mold in wall cavities or attics requires more extensive access',

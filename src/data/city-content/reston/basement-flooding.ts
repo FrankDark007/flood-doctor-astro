@@ -117,7 +117,7 @@ Our trained crews don't just pump water and leave. We identify why your basement
   },
   pricingSection: {
     headline: 'Basement Flooding Restoration Costs in Reston',
-    intro: 'Reston basement flooding costs vary based on water volume, affected square footage, and material damage. Lakefront properties experiencing seasonal groundwater intrusion may need ongoing solutions beyond initial drying. We provide free assessments and detailed estimates before work begins. Most homeowners file insurance claims—we handle insurance documentation and coordination.',
+    intro: 'Reston basement flooding costs vary based on water volume, affected square footage, and material damage. Lakefront properties experiencing seasonal groundwater intrusion may need ongoing solutions beyond initial drying. We provide free assessments and detailed scopes before work begins. Most homeowners file insurance claims—we handle insurance documentation and coordination.',
     factors: [
       'Flooded square footage—finished basements with multiple rooms cost more than unfinished storage areas',
       'Water volume—inches versus feet of standing water affects extraction time and equipment requirements',

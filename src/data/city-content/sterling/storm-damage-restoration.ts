@@ -77,7 +77,7 @@ Our crews document storm damage carefully, distinguishing between storm-caused d
       `Multi-unit involvement—townhome storm damage in Cascades or Countryside may require coordinated community response`,
       `Emergency protection needs—tarping and board-up costs depend on damage accessibility and extent`,
     ],
-    cta: `Call (877) 497-0007 for emergency storm response. We protect your Sterling home immediately and provide detailed estimates for full recovery planning.`,
+    cta: `Call (877) 497-0007 for emergency storm response. We protect your Sterling home immediately and provide detailed scopes for full recovery planning.`,
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -111,7 +111,7 @@ Every item our team touches is photographed, catalogued with condition notes, an
       'Specialty items requiring expert treatment — electronics, documents, artwork, and antiques each need specific protocols',
       'Storage duration — longer structural restoration timelines extend climate-controlled storage periods',
     ],
-    cta: `Call (877) 497-0007 for immediate contents assessment. We triage priority items promptly, coordinate with your building, and provide detailed estimates for insurance filing.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We triage priority items promptly, coordinate with your building, and provide detailed scopes for insurance filing.`,
   },
   serviceAreaSection: {
     neighborhoods: [

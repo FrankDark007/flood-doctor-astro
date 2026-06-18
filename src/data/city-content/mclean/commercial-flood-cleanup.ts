@@ -117,7 +117,7 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in McLean',
-    intro: 'McLean commercial flood cleanup costs depend on flooding scale, water contamination level, and business interruption exposure. We provide detailed Xactimate estimates for commercial insurance carriers and coordinate directly with adjusters on property damage, business interruption, and extra expense claims.',
+    intro: 'McLean commercial flood cleanup costs depend on flooding scale, water contamination level, and business interruption exposure. We provide detailed claim documentation for commercial insurance carriers and coordinate directly with adjusters on property damage, business interruption, and extra expense claims.',
     factors: [
       'Flood volume and affected square footage—parking garages and multi-floor events significantly increase extraction scope',
       'Water contamination category—storm floodwater requires biohazard protocols that increase cleanup costs versus clean-water events',
@@ -168,7 +168,7 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
     },
     {
       question: 'Do you handle commercial flood insurance claims?',
-      answer: 'We work with all major commercial carriers and provide thorough documentation including Xactimate estimates, daily progress reports, moisture logs, and photo documentation. Our estimators understand commercial policy structures including business interruption, extra expense, and ordinance and law coverage.',
+      answer: 'We work with all major commercial carriers and provide thorough documentation including claim documentation, daily progress reports, moisture logs, and photo documentation. Our estimators understand commercial policy structures including business interruption, extra expense, and ordinance and law coverage.',
     },
   ],
   relatedBlogSlugs: [

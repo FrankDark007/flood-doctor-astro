@@ -106,7 +106,7 @@ Our commercial flood teams deploy to Herndon with the dual capability this marke
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in Herndon',
-    intro: 'Herndon commercial flood costs are heavily influenced by IT infrastructure involvement. Technology environment flood cleanup with equipment protection protocols carries specialized costs that are typically a fraction of the equipment losses prevented. Standard commercial flood cleanup follows regional pricing patterns. We provide detailed estimates for commercial carriers.',
+    intro: 'Herndon commercial flood costs are heavily influenced by IT infrastructure involvement. Technology environment flood cleanup with equipment protection protocols carries specialized costs that are typically a fraction of the equipment losses prevented. Standard commercial flood cleanup follows regional pricing patterns. We provide detailed scopes for commercial carriers.',
     factors: [
       'IT infrastructure exposure—anti-corrosion treatment, environmental controls, and raised-floor drying for technology environments add specialized costs',
       'Contamination classification—storm drain backup contamination requires biohazard protocols increasing costs versus clean-water cooling system failures',

@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       `Shared-wall involvement—contamination migrating to adjacent tenants in strip malls expands remediation scope`,
       `Business interruption timeline—Fairfax restaurant and retail operators benefit from expedited service to reduce revenue loss`,
     ],
-    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Fairfax. We provide free on-site assessment, detailed estimates, and coordinate with your insurance carrier to streamline the claims process.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Fairfax. We provide free on-site assessment, detailed scopes, and coordinate with your insurance carrier to streamline the claims process.`,
   },
   serviceAreaSection: {
     neighborhoods: [

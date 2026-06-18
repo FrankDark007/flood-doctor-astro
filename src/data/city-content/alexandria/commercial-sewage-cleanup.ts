@@ -99,7 +99,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Alexandria`,
-    intro: `Alexandria commercial sewage cleanup costs vary based on contamination scope, building type, and regulatory requirements. Historic building remediation involves additional material preservation steps. We provide detailed estimates and coordinate directly with commercial insurance carriers. For multi-property CSO events, we allocate costs by individual business.`,
+    intro: `Alexandria commercial sewage cleanup costs vary based on contamination scope, building type, and regulatory requirements. Historic building remediation involves additional material preservation steps. We provide detailed scopes and coordinate directly with commercial insurance carriers. For multi-property CSO events, we allocate costs by individual business.`,
     factors: [
       `Building type—historic Old Town properties require preservation-sensitive techniques that differ from modern Carlyle or Kingstowne commercial spaces`,
       `Combined sewer overflow scope—CSO events affecting multiple properties simultaneously require scaled response deployment`,

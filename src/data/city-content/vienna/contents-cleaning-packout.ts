@@ -106,7 +106,7 @@ Every belonging is photographed, described with condition notes, and barcoded fo
       'Climate-controlled storage duration — longer structural restoration timelines extend storage requirements',
       'Documentation detail — enhanced documentation for antiques and high-value items adds assessment time',
     ],
-    cta: `Call (877) 497-0007 for immediate contents assessment. We stabilize time-sensitive items within hours and provide detailed estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We stabilize time-sensitive items within hours and provide detailed scopes for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [

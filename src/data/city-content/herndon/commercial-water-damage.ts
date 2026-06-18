@@ -107,7 +107,7 @@ Our trained commercial teams bring the technical spectrum Herndon requires. We d
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Herndon',
-    intro: 'Herndon commercial restoration costs vary significantly between data center corridor IT emergencies and standard commercial workplace flooding. IT infrastructure protection carries specialized costs but prevents equipment losses that dwarf restoration expenses. We provide detailed estimates for commercial carriers with documentation appropriate to each property type.',
+    intro: 'Herndon commercial restoration costs vary significantly between data center corridor IT emergencies and standard commercial workplace flooding. IT infrastructure protection carries specialized costs but prevents equipment losses that dwarf restoration expenses. We provide detailed scopes for commercial carriers with documentation appropriate to each property type.',
     factors: [
       'IT infrastructure exposure—anti-corrosion treatment, controlled drying, and environmental monitoring for data center properties add specialized scope',
       'Property type—data center corridor facilities, Worldgate workplaces, and Downtown Herndon retail each carry different restoration profiles',

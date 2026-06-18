@@ -118,7 +118,7 @@ Our water-damage restoration team understand both the damage and the building sc
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Centreville',
-    intro: `Centreville water damage restoration costs vary based on scope, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most Centreville homeowners file insurance claims—and we handle insurance documentation and carrier coordination.`,
+    intro: `Centreville water damage restoration costs vary based on scope, affected materials, and property size. We provide on-site assessments and detailed scopes before any work begins. Most Centreville homeowners file insurance claims—and we handle insurance documentation and carrier coordination.`,
     factors: [
       `Square footage affected—Centreville's large finished basements significantly increase potential affected area`,
       'Water category—clean water from a burst polybutylene pipe differs from sewage backup requiring biohazard protocols',

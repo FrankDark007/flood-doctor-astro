@@ -99,7 +99,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Does insurance cover water damage restoration for historic homes?',
-      answer: `Coverage depends on damage cause and your policy specifics. Sudden pipe bursts are typically covered; gradual seepage often isn't. Our team documents damage thoroughly, provides detailed estimates including historic construction cost modifiers, and works directly with adjusters to explain preservation requirements. We've successfully secured full coverage for BAR-compliant restoration by educating adjusters on the specialized requirements of Alexandria historic properties.`,
+      answer: `Coverage depends on damage cause and your policy specifics. Sudden pipe bursts are typically covered; gradual seepage often isn't. Our team documents damage thoroughly, provides detailed scopes including historic construction cost modifiers, and works directly with adjusters to explain preservation requirements. We've successfully secured full coverage for BAR-compliant restoration by educating adjusters on the specialized requirements of Alexandria historic properties.`,
     },
     {
       question: 'Can you restore water-damaged historic brick foundations?',

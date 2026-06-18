@@ -133,7 +133,7 @@ Our trained storm damage teams understand urban restoration challenges. We coord
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Tysons',
-    intro: 'Storm damage costs depend on water volume, affected areas, and building system exposure. Commercial storm damage often involves larger scales than residential work—but rapid professional response protects building operations, prevents secondary damage, and supports insurance recovery. We provide detailed estimates and coordinate with property management for billing.',
+    intro: 'Storm damage costs depend on water volume, affected areas, and building system exposure. Commercial storm damage often involves larger scales than residential work—but rapid professional response protects building operations, prevents secondary damage, and supports insurance recovery. We provide detailed scopes and coordinate with property management for billing.',
     factors: [
       'Flood extent—parking structure flooding, lobby damage, and multi-floor roof leaks create different restoration scopes',
       'Building system exposure—mechanical room flooding with equipment damage adds significant costs',

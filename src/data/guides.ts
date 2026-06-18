@@ -247,7 +247,7 @@ export const guideArticles: Record<string, GuideArticle> = {
         <li>Insurance-ready documentation with photos, measurements, and scope of work</li>
         <li>Insurance documentation support to your insurance company</li>
         <li>Assistance with the claims process and adjuster coordination</li>
-        <li>Xactimate estimates (the same software insurance companies use)</li>
+        <li>claim documentation (the same software insurance companies use)</li>
       </ul>
       <p>Call <strong>(877) 497-0007</strong> or <a href="/request">request service</a> to get started.</p>
     `,

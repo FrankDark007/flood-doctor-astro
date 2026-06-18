@@ -100,7 +100,7 @@ Every item is photographed, barcoded, and inventoried before packing. This detai
   },
   pricingSection: {
     headline: 'Contents Cleaning & Pack-Out Costs in Centreville',
-    intro: `Contents cleaning and pack-out is typically covered by homeowner's insurance as part of the restoration claim. We provide detailed estimates, inventory documentation, and handle coordination with your carrier.`,
+    intro: `Contents cleaning and pack-out is typically covered by homeowner's insurance as part of the restoration claim. We provide detailed scopes, inventory documentation, and handle coordination with your carrier.`,
     factors: [
       'Volume of contents—large Centreville basements with extensive belongings increase pack-out labor and storage needs',
       'Damage type—water, smoke, and mold each require different cleaning techniques with varying costs',

@@ -106,7 +106,7 @@ Our commercial flood teams deploy to Lorton with both the industrial pumping cap
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in Lorton',
-    intro: 'Lorton commercial flood costs reflect the contamination complexity of tidal and storm flooding, the food-service restoration requirements common in the Occoquan dining district, and the development-related drainage documentation that may support recovery beyond standard insurance. We provide detailed estimates and navigate multiple recovery pathways.',
+    intro: 'Lorton commercial flood costs reflect the contamination complexity of tidal and storm flooding, the food-service restoration requirements common in the Occoquan dining district, and the development-related drainage documentation that may support recovery beyond standard insurance. We provide detailed scopes and navigate multiple recovery pathways.',
     factors: [
       'Tidal contamination severity—brackish Occoquan River flooding requires enhanced decontamination beyond standard storm water cleanup',
       'Sediment and debris load—tidal and construction-area flooding deposits heavy material requiring industrial removal equipment',

@@ -61,7 +61,7 @@ Our trained crews understand Reston's flood patterns: the low-lying areas where 
       'Material types—hardwood walkout floors require more careful drying than concrete',
       'Lake proximity—properties near water features may require extended drying time',
     ],
-    cta: `Call (877) 497-0007 for emergency response and free assessment. We'll evaluate damage, explain contamination categories, and provide detailed estimates.`,
+    cta: `Call (877) 497-0007 for emergency response and free assessment. We'll evaluate damage, explain contamination categories, and provide detailed scopes.`,
   },
   serviceAreaSection: {
     neighborhoods: [

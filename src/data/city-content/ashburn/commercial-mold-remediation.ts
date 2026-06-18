@@ -99,7 +99,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Ashburn`,
-    intro: `Ashburn commercial mold remediation costs depend on contamination scope, building system involvement, and construction defect factors. We provide detailed estimates following CIH assessment. When construction installation defects caused the mold condition, warranty claim documentation may recover remediation costs from the builder.`,
+    intro: `Ashburn commercial mold remediation costs depend on contamination scope, building system involvement, and construction defect factors. We provide detailed scopes following CIH assessment. When construction installation defects caused the mold condition, warranty claim documentation may recover remediation costs from the builder.`,
     factors: [
       `Contamination scope—localized growth versus HVAC-distributed mold across multiple floors or tenant spaces`,
       `CIH assessment and verification—independent verification is essential for professional commercial remediation`,

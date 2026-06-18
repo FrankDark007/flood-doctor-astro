@@ -108,7 +108,7 @@ At our 12,000-square-foot climate-controlled facility, every item receives treat
   },
   pricingSection: {
     headline: 'Contents Restoration Costs for McLean Properties',
-    intro: 'Contents cleaning and pack-out costs depend on the volume of items, types of treatment required, and duration of storage. For McLean estate projects, we provide detailed estimates based on our initial assessment. Insurance companies typically cover professional contents restoration as it costs significantly less than full replacement — we coordinate directly with your carrier.',
+    intro: 'Contents cleaning and pack-out costs depend on the volume of items, types of treatment required, and duration of storage. For McLean estate projects, we provide detailed scopes based on our initial assessment. Insurance companies typically cover professional contents restoration as it costs significantly less than full replacement — we coordinate directly with your carrier.',
     factors: [
       'Volume and type of items — estate-scale projects with thousands of items require larger crews and longer facility time',
       'Specialty items requiring technical treatment — artwork, wine, antiques, and electronics each involve specialized restoration protocols',

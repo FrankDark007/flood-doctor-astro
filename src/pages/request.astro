@@ -3,12 +3,14 @@ import BaseLayout from '../layouts/BaseLayout.astro'
 import RequestForm from '../components/islands/RequestForm.tsx'
 import { cityData } from '../data/cities'
 import { toTelHref } from '../utils/phone'
+import { cityBaseUrl } from '../utils/schema'
 const cityPhoneHref = toTelHref(cityData.phone)
 
 const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'Service',
   name: `Service Request - Flood Doctor ${cityData.name}`,
+  url: `${cityBaseUrl(cityData.slug)}/request/`,
   provider: {
     '@type': 'LocalBusiness',
     name: `Flood Doctor ${cityData.name}`,

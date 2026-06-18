@@ -69,7 +69,7 @@ We coordinate with third-party industrial hygienists for pre-remediation assessm
   ],
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Sterling`,
-    intro: `Commercial mold remediation costs in Sterling depend on contamination extent, building configuration, and business continuity requirements. Property owners and commercial insurance carriers receive detailed estimates with the specificity commercial claims require. After-hours remediation to minimize tenant disruption is available at standard rates.`,
+    intro: `Commercial mold remediation costs in Sterling depend on contamination extent, building configuration, and business continuity requirements. Property owners and commercial insurance carriers receive detailed scopes with the specificity commercial claims require. After-hours remediation to minimize tenant disruption is available at standard rates.`,
     factors: [
       `Contamination extent—small localized mold versus building-wide HVAC contamination`,
       `Building configuration—multi-tenant coordination and HVAC isolation complexity`,

@@ -102,7 +102,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Arlington`,
-    intro: `Arlington commercial sewage cleanup costs reflect the complexity of urban remediation—multi-floor contamination, underground parking decontamination, and high-rise equipment logistics factor into project scope. We provide detailed estimates and coordinate directly with commercial insurance carriers. Emergency response begins before paperwork—we stabilize the situation first.`,
+    intro: `Arlington commercial sewage cleanup costs reflect the complexity of urban remediation—multi-floor contamination, underground parking decontamination, and high-rise equipment logistics factor into project scope. We provide detailed scopes and coordinate directly with commercial insurance carriers. Emergency response begins before paperwork—we stabilize the situation first.`,
     factors: [
       `Number of affected floors—vertical migration in Arlington high-rises multiplies contamination scope`,
       `Underground parking involvement—concrete decontamination in below-grade structures requires specialized equipment and extended treatment`,

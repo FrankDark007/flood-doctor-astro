@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Water damage from firefighting—dual restoration increases scope`,
       `HVAC system contamination—larger Chantilly homes have more extensive ductwork to clean`,
     ],
-    cta: `Call (877) 497-0007 for fire and smoke damage assessment. We provide free inspections and coordinate directly with your insurance carrier throughout the restoration process.`,
+    cta: `Call (877) 497-0007 for fire and smoke damage assessment. We provide on-site assessments and coordinate directly with your insurance carrier throughout the restoration process.`,
   },
   serviceAreaSection: {
     neighborhoods: [

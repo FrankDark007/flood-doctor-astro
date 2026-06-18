@@ -108,7 +108,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Crawl Space Encapsulation Costs in Ashburn',
-    intro: `Ashburn crawl space encapsulation upgrades builder-grade installations to professional standards. We provide free inspections that identify both moisture conditions and potential warranty opportunities, giving you a complete picture before any work begins.`,
+    intro: `Ashburn crawl space encapsulation upgrades builder-grade installations to professional standards. We provide on-site assessments that identify both moisture conditions and potential warranty opportunities, giving you a complete picture before any work begins.`,
     factors: [
       'Crawl space square footage—Ashburn homes often feature extensive below-grade footprints',
       'Builder-grade equipment replacement needs including sump pump upgrades and drainage additions',

@@ -117,7 +117,7 @@ Our trained technicians calculate grain depression, specific humidity, and dew p
   },
   pricingSection: {
     headline: 'Structural Drying Costs in Arlington',
-    intro: 'Arlington structural drying costs reflect both the affected area and building complexity. Condo drying involves different considerations than single-family homes. We provide detailed estimates before work begins and coordinate directly with insurance carriers. For multi-unit events, we provide individual estimates for each affected unit.',
+    intro: 'Arlington structural drying costs reflect both the affected area and building complexity. Condo drying involves different considerations than single-family homes. We provide detailed scopes before work begins and coordinate directly with insurance carriers. For multi-unit events, we provide individual estimates for each affected unit.',
     factors: [
       'Property type and size — condo units, rowhouses, and single-family homes each present different drying requirements and equipment needs',
       'Building material types — concrete slab construction in high-rises requires specialized desiccant equipment that adds capacity and time',

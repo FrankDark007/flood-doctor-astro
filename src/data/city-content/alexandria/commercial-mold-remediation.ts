@@ -99,7 +99,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Alexandria`,
-    intro: `Alexandria commercial mold remediation costs vary based on building type, contamination scope, and preservation requirements. Historic building remediation involves specialized techniques that differ from standard commercial protocols. We provide detailed estimates following CIH assessment and coordinate with commercial insurance carriers when mold results from covered water damage events.`,
+    intro: `Alexandria commercial mold remediation costs vary based on building type, contamination scope, and preservation requirements. Historic building remediation involves specialized techniques that differ from standard commercial protocols. We provide detailed scopes following CIH assessment and coordinate with commercial insurance carriers when mold results from covered water damage events.`,
     factors: [
       `Building type—historic Old Town properties requiring preservation techniques versus modern Carlyle or Kingstowne commercial spaces`,
       `Contamination extent—localized growth behind a wall differs from building-wide HVAC-distributed mold`,

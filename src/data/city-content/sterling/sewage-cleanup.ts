@@ -74,7 +74,7 @@ Our trained technicians follow strict ANSI/industry-standard S500 protocols for 
   ],
   pricingSection: {
     headline: `Sewage Cleanup Costs in Sterling`,
-    intro: `Sewage cleanup costs in Sterling reflect the biohazard nature of the work—specialized PPE, EPA-registered antimicrobials, contaminated material disposal, and clearance testing. These costs are typically covered by homeowners insurance under sewer backup coverage. We provide detailed estimates and handle carrier coordination with all carriers.`,
+    intro: `Sewage cleanup costs in Sterling reflect the biohazard nature of the work—specialized PPE, EPA-registered antimicrobials, contaminated material disposal, and clearance testing. These costs are typically covered by homeowners insurance under sewer backup coverage. We provide detailed scopes and handle carrier coordination with all carriers.`,
     factors: [
       `Contamination extent—how much of your Sterling home was affected by sewage contact`,
       `Material type and age—older porous materials in Sterling Park homes may require more extensive removal`,

@@ -112,7 +112,7 @@ Our trained technicians respond to Alexandria storm emergencies with both water 
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Alexandria',
-    intro: 'Alexandria storm damage costs vary significantly based on damage type, affected area, and property type. A single tree through a roof differs from widespread wind-driven rain intrusion. Historic properties require specialized approaches that may add complexity. We provide detailed estimates after assessment.',
+    intro: 'Alexandria storm damage costs vary significantly based on damage type, affected area, and property type. A single tree through a roof differs from widespread wind-driven rain intrusion. Historic properties require specialized approaches that may add complexity. We provide detailed scopes after assessment.',
     factors: [
       'Damage type and extent—roof breaches, window damage, flooding, and sewer backup each involve different scopes',
       'Property type—historic materials require specialized drying and BAR-compliant repairs',

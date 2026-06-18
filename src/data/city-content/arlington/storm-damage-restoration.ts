@@ -112,7 +112,7 @@ Our trained storm damage crews understand that Arlington storm response often me
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Arlington',
-    intro: 'Arlington storm damage costs vary widely based on damage type and extent. Roof breaches with interior water damage cost more than simple water extraction. High-rise access requirements add complexity. We provide free assessments and detailed estimates before work begins, documenting everything for insurance claims.',
+    intro: 'Arlington storm damage costs vary widely based on damage type and extent. Roof breaches with interior water damage cost more than simple water extraction. High-rise access requirements add complexity. We provide free assessments and detailed scopes before work begins, documenting everything for insurance claims.',
     factors: [
       'Damage type—roof breaches, window failures, and flooding each require different restoration approaches',
       'Water intrusion extent—more affected areas mean more extraction and drying equipment',

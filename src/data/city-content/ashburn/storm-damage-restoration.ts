@@ -116,7 +116,7 @@ Our trained storm damage specialists understand these Ashburn-specific failure m
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Ashburn',
-    intro: `Storm damage costs vary significantly based on water intrusion extent, structural damage, and whether builder warranties or HOA liability apply. We provide free inspections and detailed estimates before work begins. Most storm damage is covered by homeowner's insurance—we handle insurance documentation support.`,
+    intro: `Storm damage costs vary significantly based on water intrusion extent, structural damage, and whether builder warranties or HOA liability apply. We provide on-site assessments and detailed scopes before work begins. Most storm damage is covered by homeowner's insurance—we handle insurance documentation support.`,
     factors: [
       'Storm water intrusion extent—flooding affecting finished basements requires complete water extraction and drying',
       'Structural damage—roof, siding, and window failures requiring emergency protection and repair coordination',
@@ -125,7 +125,7 @@ Our trained storm damage specialists understand these Ashburn-specific failure m
       'Emergency protection requirements—tarping and board-up preventing further damage during storms',
       'Response speed—calls during or immediately after storms prevent dramatically higher damage costs',
     ],
-    cta: 'Call (877) 497-0007 immediately for storm damage—during or after the event. Free inspection, detailed estimates, and insurance documentation support. Emergency tarping available during active storms.',
+    cta: 'Call (877) 497-0007 immediately for storm damage—during or after the event. Free inspection, detailed scopes, and insurance documentation support. Emergency tarping available during active storms.',
   },
   serviceAreaSection: {
     neighborhoods: [

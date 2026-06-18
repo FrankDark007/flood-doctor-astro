@@ -118,7 +118,7 @@ We deploy commercial LGR dehumidifiers and desiccant units alongside high-veloci
   },
   pricingSection: {
     headline: 'Structural Drying Investment for McLean Properties',
-    intro: 'Structural drying costs in McLean reflect the scale and complexity of estate properties. We provide comprehensive assessments and detailed estimates before beginning work. Most McLean homeowners file insurance claims, and we handle claim-support documentation for insurers while providing the premium documentation these high-value claims require.',
+    intro: 'Structural drying costs in McLean reflect the scale and complexity of estate properties. We provide comprehensive assessments and detailed scopes before beginning work. Most McLean homeowners file insurance claims, and we handle claim-support documentation for insurers while providing the premium documentation these high-value claims require.',
     factors: [
       'Property square footage affected — McLean estates often require multi-zone drying across 4,000-15,000 square feet',
       'Material complexity — exotic hardwoods, natural stone, and custom finishes require specialized drying protocols that add precision time',

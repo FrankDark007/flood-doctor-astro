@@ -113,7 +113,7 @@ Our experienced restoration crews don't just pump water and leave. We understand
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Herndon',
-    intro: 'Herndon water damage restoration costs vary based on property type, damage scope, and affected materials. We provide free inspections and detailed estimates before any work begins. Most Herndon property owners file insurance claims—and we handle insurance documentation and coordination.',
+    intro: 'Herndon water damage restoration costs vary based on property type, damage scope, and affected materials. We provide on-site assessments and detailed scopes before any work begins. Most Herndon property owners file insurance claims—and we handle insurance documentation and coordination.',
     factors: [
       'Square footage affected—commercial spaces and larger homes involve more extensive work',
       'Water category—clean water from a burst pipe differs from sewage backup requiring biohazard protocols',

@@ -116,7 +116,7 @@ Our trained technicians are trained in both biohazard protocols and historic pre
   },
   pricingSection: {
     headline: 'Sewage Cleanup Costs in Alexandria',
-    intro: 'Alexandria sewage cleanup costs depend on contamination extent, affected materials, and source correction needs. Combined sewer overflows affecting finished basement apartments cost more than simple toilet overflows. Historic properties requiring careful material assessment add complexity. We provide detailed estimates after assessment.',
+    intro: 'Alexandria sewage cleanup costs depend on contamination extent, affected materials, and source correction needs. Combined sewer overflows affecting finished basement apartments cost more than simple toilet overflows. Historic properties requiring careful material assessment add complexity. We provide detailed scopes after assessment.',
     factors: [
       'Contamination extent—how much area was affected, including areas with wicking or migration',
       'Material types—finished spaces with drywall, carpet, and furniture require more extensive treatment',

@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Crawl Space Encapsulation Costs in Springfield',
-    intro: `Springfield crawl space encapsulation delivers practical value—lower energy bills, eliminated odors, and protected structure—at pricing that respects family budgets. We provide free inspections and clear proposals with every cost explained upfront.`,
+    intro: `Springfield crawl space encapsulation delivers practical value—lower energy bills, eliminated odors, and protected structure—at pricing that respects family budgets. We provide on-site assessments and clear proposals with every cost explained upfront.`,
     factors: [
       'Crawl space size and number of sections in split-level configurations',
       'Existing damage from decades of moisture—wood rot, mold, failed original barriers',

@@ -120,7 +120,7 @@ Our trained crews are trained in flood-specific cleanup. We don't just extract w
       'Debris volume—heavy silting and flood debris add cleanup time and disposal costs',
       'Access conditions—flooding that blocks equipment access or requires pumping from distance adds complexity',
     ],
-    cta: 'Call (877) 497-0007 for immediate flood cleanup response. We provide detailed estimates for insurance purposes and handle claims documentation.',
+    cta: 'Call (877) 497-0007 for immediate flood cleanup response. We provide detailed scopes for insurance purposes and handle claims documentation.',
   },
   serviceAreaSection: {
     neighborhoods: [

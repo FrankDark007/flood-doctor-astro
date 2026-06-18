@@ -157,7 +157,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
     },
     {
       question: 'How do you handle our commercial insurance claim?',
-      answer: 'We provide thorough documentation and insurance documentation support for all major commercial carriers. Xactimate estimates, photo documentation, moisture logs, and daily progress reports support your claim throughout the process.',
+      answer: 'We provide thorough documentation and insurance documentation support for all major commercial carriers. claim documentation, photo documentation, moisture logs, and daily progress reports support your claim throughout the process.',
     },
   ],
   relatedBlogSlugs: [

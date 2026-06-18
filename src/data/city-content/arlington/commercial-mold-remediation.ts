@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Arlington`,
-    intro: `Arlington commercial mold remediation costs reflect building complexity, contamination scope, and the CIH services required for professional-grade results. We provide detailed estimates following industrial hygienist assessment. When mold results from a covered water damage event, insurance coverage may apply—we document the connection.`,
+    intro: `Arlington commercial mold remediation costs reflect building complexity, contamination scope, and the CIH services required for professional-grade results. We provide detailed scopes following industrial hygienist assessment. When mold results from a covered water damage event, insurance coverage may apply—we document the connection.`,
     factors: [
       `Contamination scope—single-suite projects differ substantially from multi-floor HVAC-distributed mold in Arlington high-rises`,
       `CIH professional services—assessment, protocol development, and clearance testing are essential components`,
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Building access logistics—high-rise equipment deployment and after-hours scheduling affect project efficiency`,
       `Tenant displacement count—the number of affected tenants influences scheduling urgency and coordination requirements`,
     ],
-    cta: `Call (877) 497-0007 for a confidential commercial mold assessment in Arlington. We coordinate CIH engagement, provide detailed estimates, and help establish insurance coverage for mold events linked to water damage.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment in Arlington. We coordinate CIH engagement, provide detailed scopes, and help establish insurance coverage for mold events linked to water damage.`,
   },
   serviceAreaSection: {
     neighborhoods: [

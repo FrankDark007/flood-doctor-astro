@@ -112,7 +112,7 @@ Our trained mold remediation specialists understand that Arlington mold problems
   },
   pricingSection: {
     headline: 'Mold Remediation Costs in Arlington',
-    intro: 'Arlington mold remediation costs depend on the extent of contamination, number of affected spaces, and whether HVAC systems require cleaning. Multi-unit situations typically cost more per unit due to coordination requirements and shared system assessment. We provide detailed estimates before work begins.',
+    intro: 'Arlington mold remediation costs depend on the extent of contamination, number of affected spaces, and whether HVAC systems require cleaning. Multi-unit situations typically cost more per unit due to coordination requirements and shared system assessment. We provide detailed scopes before work begins.',
     factors: [
       'Extent of mold growth—surface mold on limited walls differs from extensive hidden contamination',
       'Number of affected units—multi-unit remediation involves coordination and separate containment',
@@ -120,7 +120,7 @@ Our trained mold remediation specialists understand that Arlington mold problems
       'Material removal scope—extensive drywall and insulation removal increases cost and timeline',
       'Clearance testing requirements—some insurance carriers and HOAs require independent verification',
     ],
-    cta: `Call (877) 497-0007 for a free mold inspection. We'll assess visible and hidden growth, check shared systems, and provide detailed estimates for complete remediation.`,
+    cta: `Call (877) 497-0007 for a free mold inspection. We'll assess visible and hidden growth, check shared systems, and provide detailed scopes for complete remediation.`,
   },
   serviceAreaSection: {
     neighborhoods: [

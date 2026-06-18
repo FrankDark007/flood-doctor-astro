@@ -120,7 +120,7 @@ Our trained crews are trained for the complete spectrum of storm damage. We coor
       'Materials damaged—ceiling drywall, insulation, flooring, and personal property affect totals',
       'Reconstruction needs—minor drywall repair vs. major structural reconstruction',
     ],
-    cta: 'Call (877) 497-0007 for immediate storm damage response. We provide detailed estimates for insurance purposes and can coordinate with your carrier on claims.',
+    cta: 'Call (877) 497-0007 for immediate storm damage response. We provide detailed scopes for insurance purposes and can coordinate with your carrier on claims.',
   },
   serviceAreaSection: {
     neighborhoods: [

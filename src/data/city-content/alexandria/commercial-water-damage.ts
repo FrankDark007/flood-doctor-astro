@@ -113,7 +113,7 @@ Our trained commercial teams carry specialized knowledge of historic building ma
   },
   pricingSection: {
     headline: 'Commercial Water Damage Restoration Costs in Alexandria',
-    intro: 'Alexandria commercial restoration costs reflect the specialized experience required for historic properties alongside standard commercial restoration scope. Historic material preservation, BAR compliance, and contamination from sewer overflow events add to project complexity. We provide detailed estimates formatted for commercial insurance carriers.',
+    intro: 'Alexandria commercial restoration costs reflect the specialized experience required for historic properties alongside standard commercial restoration scope. Historic material preservation, BAR compliance, and contamination from sewer overflow events add to project complexity. We provide detailed scopes formatted for commercial insurance carriers.',
     factors: [
       'Property age and construction type—historic plaster, brick, and original materials require specialized preservation protocols that add restoration time',
       'Contamination source—combined sewer overflow events require biohazard protocols significantly exceeding clean-water restoration costs',
@@ -157,11 +157,11 @@ Our trained commercial teams carry specialized knowledge of historic building ma
     },
     {
       question: 'How do you handle water damage in modern Alexandria commercial buildings?',
-      answer: 'Our commercial division handles Carlyle, Potomac Yard, and Eisenhower corridor commercial buildings with standard commercial protocols—industrial extraction, commercial drying, and Xactimate estimates for commercial carriers. The same project management rigor applies to modern buildings without the historic preservation overlay.',
+      answer: 'Our commercial division handles Carlyle, Potomac Yard, and Eisenhower corridor commercial buildings with standard commercial protocols—industrial extraction, commercial drying, and claim documentation for commercial carriers. The same project management rigor applies to modern buildings without the historic preservation overlay.',
     },
     {
       question: 'Will you coordinate with our commercial insurance carrier?',
-      answer: 'We work with all major commercial carriers and provide detailed documentation including Xactimate estimates, moisture logs, photo documentation, and daily progress reports. For historic properties, we include preservation cost justification that supports premium restoration approaches over commodity replacement.',
+      answer: 'We work with all major commercial carriers and provide detailed documentation including claim documentation, moisture logs, photo documentation, and daily progress reports. For historic properties, we include preservation cost justification that supports premium restoration approaches over commodity replacement.',
     },
     {
       question: 'Can you work after hours in our Alexandria retail or restaurant space?',

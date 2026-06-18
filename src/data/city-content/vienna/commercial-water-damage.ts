@@ -108,7 +108,7 @@ Our trained commercial teams bring the technical range to handle all of Vienna's
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Vienna',
-    intro: 'Vienna commercial restoration costs reflect both the scope of water damage and the quality of finish preservation achieved. Saving quality materials through proper protocols often costs less than demolition and commodity replacement while preserving the character of your space. We provide detailed estimates and manage insurance claims for all major commercial carriers.',
+    intro: 'Vienna commercial restoration costs reflect both the scope of water damage and the quality of finish preservation achieved. Saving quality materials through proper protocols often costs less than demolition and commodity replacement while preserving the character of your space. We provide detailed scopes and manage insurance claims for all major commercial carriers.',
     factors: [
       'Affected area and material type—quality hardwood, specialty flooring, and custom millwork require preservation protocols beyond standard drying',
       'Water source—supply line failures from aging infrastructure require different documentation than HVAC-related moisture events',

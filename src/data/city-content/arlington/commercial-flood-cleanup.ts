@@ -108,7 +108,7 @@ Our commercial flood teams approach Arlington with equipment and strategies desi
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in Arlington',
-    intro: 'Arlington commercial flood costs reflect the complexity of urban high-rise environments and the concentrated business impact of flooding in dense commercial corridors. We provide detailed Xactimate estimates for commercial insurance carriers with separate documentation for property damage, business interruption, and building infrastructure claims.',
+    intro: 'Arlington commercial flood costs reflect the complexity of urban high-rise environments and the concentrated business impact of flooding in dense commercial corridors. We provide detailed claim documentation for commercial insurance carriers with separate documentation for property damage, business interruption, and building infrastructure claims.',
     factors: [
       'Flood volume and vertical extent—multi-floor events in high-rise buildings multiply extraction and drying scope',
       'Underground infrastructure involvement—parking garage and mechanical room flooding adds specialized extraction and infrastructure repair costs',

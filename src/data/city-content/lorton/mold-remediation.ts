@@ -113,7 +113,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Mold Remediation Costs in Lorton',
-    intro: 'Mold remediation costs vary based on affected area size, mold type, location accessibility, and moisture source complexity. We provide free mold inspections and detailed estimates. Some homeowners insurance policies cover mold remediation—we work with carriers to maximize your coverage.',
+    intro: 'Mold remediation costs vary based on affected area size, mold type, location accessibility, and moisture source complexity. We provide free mold inspections and detailed scopes. Some homeowners insurance policies cover mold remediation—we work with carriers to maximize your coverage.',
     factors: [
       'Mold affected area—small bathroom growth differs from extensive basement or crawlspace contamination',
       'Location accessibility—crawlspace mold costs more to remediate than visible basement mold',

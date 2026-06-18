@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Tysons`,
-    intro: `Tysons commercial mold remediation costs reflect building scale, HVAC system complexity, and the institutional documentation standards required by Class A property management. We provide detailed estimates following CIH assessment and coordinate with commercial insurance carriers for mold events linked to covered water damage.`,
+    intro: `Tysons commercial mold remediation costs reflect building scale, HVAC system complexity, and the institutional documentation standards required by Class A property management. We provide detailed scopes following CIH assessment and coordinate with commercial insurance carriers for mold events linked to covered water damage.`,
     factors: [
       `Building scale—single-floor projects differ dramatically from multi-floor HVAC-distributed contamination in Tysons towers`,
       `Centralized HVAC involvement—large-format air handling system remediation is a significant cost component`,

@@ -108,7 +108,7 @@ Our trained technicians map moisture throughout your Vienna home and develop zon
   },
   pricingSection: {
     headline: 'Structural Drying Costs in Vienna',
-    intro: 'Vienna drying costs reflect the affected area, construction era, and material complexity of your home. We provide free assessments and detailed estimates before work begins. Insurance covers most water damage events, and we handle claim-support documentation for insurers.',
+    intro: 'Vienna drying costs reflect the affected area, construction era, and material complexity of your home. We provide free assessments and detailed scopes before work begins. Insurance covers most water damage events, and we handle claim-support documentation for insurers.',
     factors: [
       'Construction era and materials — vintage plaster and masonry require different equipment and longer timelines than modern drywall construction',
       'Affected square footage — finished basements in Vienna homes range from compact to expansive luxury spaces, directly impacting equipment needs',

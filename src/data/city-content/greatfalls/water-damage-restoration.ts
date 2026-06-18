@@ -127,7 +127,7 @@ Our experienced restoration crews don't just pump water and leave. We understand
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Great Falls',
-    intro: 'Great Falls water damage restoration costs reflect the unique requirements of ultra-luxury estates. We provide free inspections and detailed estimates before any work begins. Most Great Falls homeowners file insurance claims with carriers and specialty insurers who understand high-value properties—we handle insurance coordination and provide the meticulous documentation these claims require.',
+    intro: 'Great Falls water damage restoration costs reflect the unique requirements of ultra-luxury estates. We provide on-site assessments and detailed scopes before any work begins. Most Great Falls homeowners file insurance claims with carriers and specialty insurers who understand high-value properties—we handle insurance coordination and provide the meticulous documentation these claims require.',
     factors: [
       'Square footage affected—Great Falls estates often involve multiple floors, wings, and outbuildings',
       'Water category—clean water from a supply line differs from septic backup requiring biohazard protocols',

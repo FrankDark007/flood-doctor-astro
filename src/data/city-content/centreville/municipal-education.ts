@@ -102,7 +102,7 @@ Our public facility team coordinates with administration, facility management, a
   },
   pricingSection: {
     headline: 'Municipal & Education Restoration Costs in Centreville',
-    intro: `Public facility restoration costs meet procurement standards for government and school district clients. We provide detailed estimates, competitive pricing, and documentation formatted for public accountability and insurance requirements.`,
+    intro: `Public facility restoration costs meet procurement standards for government and school district clients. We provide detailed scopes, competitive pricing, and documentation formatted for public accountability and insurance requirements.`,
     factors: [
       'Facility size and type—schools, community centers, and government buildings each have different restoration requirements',
       'Schedule constraints—after-hours and break-period scheduling may affect project timelines',

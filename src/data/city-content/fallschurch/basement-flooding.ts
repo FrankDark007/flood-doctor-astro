@@ -112,7 +112,7 @@ Our trained teams arrive prepared for Falls Church basements specifically. We br
   },
   pricingSection: {
     headline: 'Basement Flooding Cleanup Costs in Falls Church',
-    intro: 'Falls Church basement flooding costs depend on water depth, basement size, and whether the space is finished. Contaminated water (sewer backup) requires additional biohazard protocols. We provide free assessments and detailed estimates before work begins. Most homeowners file insurance claims—we handle carrier coordination.',
+    intro: 'Falls Church basement flooding costs depend on water depth, basement size, and whether the space is finished. Contaminated water (sewer backup) requires additional biohazard protocols. We provide free assessments and detailed scopes before work begins. Most homeowners file insurance claims—we handle carrier coordination.',
     factors: [
       'Water depth and basement square footage—standing water volume determines extraction time',
       'Finished vs. unfinished—finished basements with drywall, carpet, and furniture require more extensive work',

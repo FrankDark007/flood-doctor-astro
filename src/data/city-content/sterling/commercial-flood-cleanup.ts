@@ -114,7 +114,7 @@ Our commercial crews carry both the extraction capacity for large commercial flo
     },
     {
       question: `Do you handle commercial flood insurance claims?`,
-      answer: `Yes. We work with all commercial carriers and provide complete documentation—Xactimate estimates, moisture logs, contamination classification, and per-unit damage reports. We also provide documentation for property management companies and landlords.`,
+      answer: `Yes. We work with all commercial carriers and provide complete documentation—claim documentation, moisture logs, contamination classification, and per-unit damage reports. We also provide documentation for property management companies and landlords.`,
     },
     {
       question: `Can flood-damaged commercial inventory be saved?`,

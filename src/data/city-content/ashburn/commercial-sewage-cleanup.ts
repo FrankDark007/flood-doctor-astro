@@ -99,7 +99,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Ashburn`,
-    intro: `Ashburn commercial sewage cleanup costs depend on contamination scope, facility type, and whether construction defect documentation is required. We provide detailed estimates and coordinate with commercial insurance carriers. Warranty claim documentation is included when construction defects contribute to the sewage event.`,
+    intro: `Ashburn commercial sewage cleanup costs depend on contamination scope, facility type, and whether construction defect documentation is required. We provide detailed scopes and coordinate with commercial insurance carriers. Warranty claim documentation is included when construction defects contribute to the sewage event.`,
     factors: [
       `Facility type—retail centers, commercial buildings, restaurants, and data center support facilities each present different remediation requirements`,
       `Construction defect involvement—warranty claim documentation adds investigation scope but may recover costs from builders`,

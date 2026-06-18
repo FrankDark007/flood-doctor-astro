@@ -113,7 +113,7 @@ Our experienced restoration crews know that your Hunters Woods cluster requires 
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Reston',
-    intro: 'Reston water damage restoration costs vary based on property type, damage scope, and affected materials. Townhomes, single-family homes, and condos each present different challenges. We provide free inspections and detailed estimates before any work begins. Most Reston homeowners file insurance claims—and we handle insurance documentation and coordination.',
+    intro: 'Reston water damage restoration costs vary based on property type, damage scope, and affected materials. Townhomes, single-family homes, and condos each present different challenges. We provide on-site assessments and detailed scopes before any work begins. Most Reston homeowners file insurance claims—and we handle insurance documentation and coordination.',
     factors: [
       'Property type and size—townhomes, colonials, and condos each require different approaches',
       'Water category—clean water from a burst pipe differs from stormwater requiring contamination protocols',

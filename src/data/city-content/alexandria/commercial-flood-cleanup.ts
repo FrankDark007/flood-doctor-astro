@@ -110,7 +110,7 @@ Our commercial flood teams deploy with contamination assessment equipment alongs
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in Alexandria',
-    intro: 'Alexandria commercial flood cleanup costs are driven by contamination severity, historic preservation requirements, and the extent of inventory and fixture damage. Contaminated flood events from sewer overflow or river flooding carry significantly higher costs than clean-water events. We provide detailed estimates for commercial carriers with separate documentation for contamination remediation and preservation costs.',
+    intro: 'Alexandria commercial flood cleanup costs are driven by contamination severity, historic preservation requirements, and the extent of inventory and fixture damage. Contaminated flood events from sewer overflow or river flooding carry significantly higher costs than clean-water events. We provide detailed scopes for commercial carriers with separate documentation for contamination remediation and preservation costs.',
     factors: [
       'Contamination level—Category 3 biohazard cleanup from sewer overflow or river flooding costs substantially more than clean-water extraction',
       'Historic material involvement—preservation protocols for original plaster, brick, and architectural elements add specialized labor costs',

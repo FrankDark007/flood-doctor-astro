@@ -120,7 +120,7 @@ const crawlSpaceDrying: ServiceData = {
     {
       question: 'How much does crawl space encapsulation cost?',
       answer:
-        'Cost varies based on crawl space size, accessibility, existing conditions, and scope of work needed. A basic vapor barrier installation runs less than full encapsulation with sealed walls, drainage, and dehumidification. We provide free inspections and detailed proposals so you know exactly what is included before any work begins.',
+        'Cost varies based on crawl space size, accessibility, existing conditions, and scope of work needed. A basic vapor barrier installation runs less than full encapsulation with sealed walls, drainage, and dehumidification. We provide on-site assessments and detailed proposals so you know exactly what is included before any work begins.',
     },
   ],
 }

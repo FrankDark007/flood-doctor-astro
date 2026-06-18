@@ -113,7 +113,7 @@ Our water damage restoration team don't just pump water and leave. We understand
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in McLean',
-    intro: 'McLean water damage restoration costs vary significantly based on the scope of damage, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most McLean homeowners file insurance claims—and we handle claim-support documentation for insurers.',
+    intro: 'McLean water damage restoration costs vary significantly based on the scope of damage, affected materials, and property size. We provide on-site assessments and detailed scopes before any work begins. Most McLean homeowners file insurance claims—and we handle claim-support documentation for insurers.',
     factors: [
       'Square footage affected—McLean estates often involve multiple floors and extensive finished basements',
       'Water category—clean water from a burst pipe differs from sewage backup requiring biohazard protocols',

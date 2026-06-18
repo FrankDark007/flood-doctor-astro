@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Crawl Space Encapsulation Costs in Herndon',
-    intro: `Herndon crawl space encapsulation is a practical investment that reduces energy costs, eliminates musty odors, and protects your home's structural foundation. We provide free inspections and straightforward proposals with itemized fees or surprise charges.`,
+    intro: `Herndon crawl space encapsulation is a practical investment that reduces energy costs, eliminates musty odors, and protects your home's structural foundation. We provide on-site assessments and straightforward proposals with itemized fees or surprise charges.`,
     factors: [
       'Crawl space size and accessibility—clearance height and access points affect labor time',
       'Existing damage requiring remediation—mold, wood rot, failed barriers, contaminated soil',

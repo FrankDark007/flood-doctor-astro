@@ -115,7 +115,7 @@ Our Vienna commercial team treats every business restoration with the urgency th
       `Building responsibility—tenant versus landlord liability for plumbing, roof, and building system failures`,
       `Business interruption urgency—revenue loss timeline driving expedited restoration requirements`,
     ],
-    cta: `Call (877) 497-0007 for emergency commercial assessment. We provide detailed estimates supporting every applicable insurance coverage category for Vienna business restoration.`,
+    cta: `Call (877) 497-0007 for emergency commercial assessment. We provide detailed scopes supporting every applicable insurance coverage category for Vienna business restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -112,7 +112,7 @@ Our restoration technicians understand high-rise plumbing architecture. We know 
   },
   pricingSection: {
     headline: 'Burst Pipe Repair & Cleanup Costs in Arlington',
-    intro: 'Arlington burst pipe restoration costs depend heavily on the number of affected units and the extent of water migration. A contained failure in a single unit costs far less than a cascading event affecting multiple floors. We provide free inspections and separate estimates for each affected unit while coordinating overall documentation.',
+    intro: 'Arlington burst pipe restoration costs depend heavily on the number of affected units and the extent of water migration. A contained failure in a single unit costs far less than a cascading event affecting multiple floors. We provide on-site assessments and separate estimates for each affected unit while coordinating overall documentation.',
     factors: [
       'Number of affected units—cascading damage through multiple floors significantly increases restoration scope',
       'Building access and timing—after-hours response and freight elevator coordination add complexity',
@@ -120,7 +120,7 @@ Our restoration technicians understand high-rise plumbing architecture. We know 
       'Materials affected—carpet, hardwood, and drywall have different restoration requirements and costs',
       'Insurance coordination—multi-policy claims require additional documentation and adjuster coordination',
     ],
-    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess all affected units, trace water migration paths, and provide detailed estimates that support your insurance claim.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess all affected units, trace water migration paths, and provide detailed scopes that support your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [

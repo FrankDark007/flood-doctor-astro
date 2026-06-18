@@ -113,7 +113,7 @@ Our water-damage restoration team don't just pump water and leave. We understand
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Falls Church',
-    intro: `Falls Church water damage restoration costs vary based on the scope of damage, affected materials, and your home's construction type. We provide free inspections and detailed estimates before any work begins. Most Falls Church homeowners file insurance claims—and we handle insurance documentation and carrier coordination.`,
+    intro: `Falls Church water damage restoration costs vary based on the scope of damage, affected materials, and your home's construction type. We provide on-site assessments and detailed scopes before any work begins. Most Falls Church homeowners file insurance claims—and we handle insurance documentation and carrier coordination.`,
     factors: [
       'Square footage affected—basements, multiple floors, and connected spaces all impact scope',
       'Water category—clean water from burst pipes differs from sewage backup requiring biohazard protocols',

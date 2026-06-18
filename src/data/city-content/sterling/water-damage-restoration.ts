@@ -108,7 +108,7 @@ Our water-damage restoration team understand both legacy and modern construction
   },
   pricingSection: {
     headline: `Water Damage Restoration Costs in Sterling`,
-    intro: `Sterling water damage restoration costs vary based on your home's age, construction materials, and damage scope. We provide free inspections and detailed estimates before work begins. Most Sterling homeowners file insurance claims, and we handle insurance documentation and carrier coordination. For older Sterling Park homes, we provide honest assessments of what needs restoration versus what needs repair.`,
+    intro: `Sterling water damage restoration costs vary based on your home's age, construction materials, and damage scope. We provide on-site assessments and detailed scopes before work begins. Most Sterling homeowners file insurance claims, and we handle insurance documentation and carrier coordination. For older Sterling Park homes, we provide honest assessments of what needs restoration versus what needs repair.`,
     factors: [
       `Home age and construction materials—1970s plaster and hardwood require different approaches than modern drywall and engineered flooring`,
       `Water source and category—aging plumbing failures differ from storm flooding or sewage backup`,

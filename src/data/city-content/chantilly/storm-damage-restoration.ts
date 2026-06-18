@@ -70,7 +70,7 @@ export const content: CityServiceContent = {
   ],
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Chantilly',
-    intro: `Storm damage restoration costs in Chantilly vary significantly based on the type and extent of damage. Most storm damage is covered by homeowners insurance. We provide detailed estimates and work directly with your insurance carrier throughout the claim process.`,
+    intro: `Storm damage restoration costs in Chantilly vary significantly based on the type and extent of damage. Most storm damage is covered by homeowners insurance. We provide detailed scopes and work directly with your insurance carrier throughout the claim process.`,
     factors: [
       `Type of storm damage—wind, hail, rain intrusion, and fallen trees each require different restoration approaches`,
       `Extent of water intrusion—how far rain penetrated before emergency tarping was completed`,

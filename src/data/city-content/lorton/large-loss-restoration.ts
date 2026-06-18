@@ -106,7 +106,7 @@ Our project directors navigate these growth-market complexities. They coordinate
   },
   pricingSection: {
     headline: 'Large Loss Restoration Investment in Lorton',
-    intro: 'Lorton large loss projects range from $200,000 to over $2 million depending on the number of affected tenants, contamination severity, and warranty recovery complexity. Our project directors provide detailed estimates that distinguish insurance-recoverable costs from builder warranty claims, helping property owners maximize total recovery across all available channels.',
+    intro: 'Lorton large loss projects range from $200,000 to over $2 million depending on the number of affected tenants, contamination severity, and warranty recovery complexity. Our project directors provide detailed scopes that distinguish insurance-recoverable costs from builder warranty claims, helping property owners maximize total recovery across all available channels.',
     factors: [
       'Multi-tenant scope—retail center and flex-space events affecting numerous businesses multiply project management and coordination costs',
       'Warranty recovery integration—new-construction failure documentation and builder coordination add forensic and legal support scope',

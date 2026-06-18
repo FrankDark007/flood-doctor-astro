@@ -69,7 +69,7 @@ Our crews are trained in healthcare restoration protocols and understand the reg
   ],
   pricingSection: {
     headline: `Healthcare Facility Restoration Costs in Sterling`,
-    intro: `Healthcare facility restoration costs reflect the specialized protocols required—infection control measures, equipment protection, HIPAA compliance, and healthcare-standard air quality verification. Commercial insurance covers these elevated requirements. We provide detailed estimates and coordinate directly with commercial carriers.`,
+    intro: `Healthcare facility restoration costs reflect the specialized protocols required—infection control measures, equipment protection, HIPAA compliance, and healthcare-standard air quality verification. Commercial insurance covers these elevated requirements. We provide detailed scopes and coordinate directly with commercial carriers.`,
     factors: [
       `Facility type—medical workspaces, dental practices, and urgent care each have specific protocol requirements`,
       `Medical equipment exposure—protection and assessment of sensitive healthcare technology`,

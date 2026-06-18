@@ -206,7 +206,7 @@ export default function RequestForm({ city, phone = '(877) 497-0007' }: Props) {
                 value="routine"
                 className="size-4 border-white/10 bg-white/5 text-indigo-500 focus:ring-indigo-500"
               />
-              Routine estimate
+              Scheduled assessment
             </label>
           </div>
         </div>

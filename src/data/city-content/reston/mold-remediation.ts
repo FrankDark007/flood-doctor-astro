@@ -58,7 +58,7 @@ We don't simply spray bleach and hope for the best. Professional mold remediatio
   localChallenges: [],
   pricingSection: {
     headline: 'Mold Remediation Costs in Reston',
-    intro: `Mold remediation costs depend on affected area size, mold species, materials requiring removal, and accessibility. Reston's diverse housing—townhomes, colonials, condos—each present different challenges. Lake-adjacent properties may require additional moisture control. We provide detailed estimates after assessment.`,
+    intro: `Mold remediation costs depend on affected area size, mold species, materials requiring removal, and accessibility. Reston's diverse housing—townhomes, colonials, condos—each present different challenges. Lake-adjacent properties may require additional moisture control. We provide detailed scopes after assessment.`,
     factors: [
       'Square footage of affected area—larger colonization requires more extensive work',
       'Property type—townhomes may require party wall assessment and neighbor coordination',

@@ -108,7 +108,7 @@ Our trained commercial teams understand the building systems common in Fairfax's
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Fairfax',
-    intro: 'Fairfax commercial water damage restoration costs depend on affected area, materials involved, and the source of water damage. We provide clear, detailed estimates before work begins and handle claim-ready documentation for commercial insurance carriers. Clear scope updates—just straightforward pricing for professional restoration.',
+    intro: 'Fairfax commercial water damage restoration costs depend on affected area, materials involved, and the source of water damage. We provide clear, detailed scopes before work begins and handle claim-ready documentation for commercial insurance carriers. Clear scope updates—just straightforward pricing for professional restoration.',
     factors: [
       'Affected square footage across all tenant suites—water migration through ceiling plenums often affects more area than initially visible',
       'Water source and category—clean-water pipe bursts require different protocols than contaminated sewer backups',
@@ -152,7 +152,7 @@ Our trained commercial teams understand the building systems common in Fairfax's
     },
     {
       question: 'Do you handle insurance claims for commercial properties?',
-      answer: 'Yes. We provide documentation for commercial carriers, provide Xactimate estimates, and provide claim-ready documentation. Our documentation includes moisture logs, daily progress photos, and detailed scoping that commercial adjusters require for claim processing.',
+      answer: 'Yes. We provide documentation for commercial carriers, provide claim documentation, and provide claim-ready documentation. Our documentation includes moisture logs, daily progress photos, and detailed scoping that commercial adjusters require for claim processing.',
     },
     {
       question: 'Our roof has been leaking into the ceiling—can you handle that?',
@@ -160,7 +160,7 @@ Our trained commercial teams understand the building systems common in Fairfax's
     },
     {
       question: 'How much does commercial water damage restoration typically cost?',
-      answer: 'Costs vary by scope, but we provide detailed estimates before beginning work. Most Fairfax commercial water damage events are covered by insurance, and we handle the claims process. Our estimates are transparent—we show exactly what work is needed and why.',
+      answer: 'Costs vary by scope, but we provide detailed scopes before beginning work. Most Fairfax commercial water damage events are covered by insurance, and we handle the claims process. Our estimates are transparent—we show exactly what work is needed and why.',
     },
     {
       question: 'Can you help with water damage near George Mason University?',

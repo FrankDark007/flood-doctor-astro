@@ -49,7 +49,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Documentation and Insurance Coordination',
-      description: 'Throughout the process, we photograph all damage, document every material removed, and log all moisture readings with timestamps. This documentation package meets the requirements of every major insurance carrier. Our claims specialists work directly with your adjuster to ensure coverage of all legitimate restoration costs. We provide itemized Xactimate estimates that adjusters recognize and approve.',
+      description: 'Throughout the process, we photograph all damage, document every material removed, and log all moisture readings with timestamps. This documentation package meets the requirements of every major insurance carrier. Our claims specialists work directly with your adjuster to ensure coverage of all legitimate restoration costs. We provide itemized claim documentation that adjusters recognize and approve.',
       timeframe: 'Ongoing throughout project',
     },
   ],

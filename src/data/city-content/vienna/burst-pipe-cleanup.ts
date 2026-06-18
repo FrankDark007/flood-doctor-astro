@@ -168,7 +168,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Does homeowners insurance cover burst pipe damage?',
-      answer: 'Most Vienna homeowners insurance policies cover sudden and accidental burst pipe damage, including water extraction, structural drying, antimicrobial treatment, and full reconstruction of affected areas. Coverage typically extends to damaged personal property, temporary living expenses if displacement is necessary, and plumbing repairs. Gradual leaks that develop over weeks or months may have limited coverage. We document everything with photographs, moisture readings, and detailed estimates in Xactimate format that insurance adjusters recognize and approve. Our team communicates directly with your adjuster throughout the claim process.',
+      answer: 'Most Vienna homeowners insurance policies cover sudden and accidental burst pipe damage, including water extraction, structural drying, antimicrobial treatment, and full reconstruction of affected areas. Coverage typically extends to damaged personal property, temporary living expenses if displacement is necessary, and plumbing repairs. Gradual leaks that develop over weeks or months may have limited coverage. We document everything with photographs, moisture readings, and detailed scopes in Xactimate format that insurance adjusters recognize and approve. Our team communicates directly with your adjuster throughout the claim process.',
     },
     {
       question: 'How do you prevent mold after a burst pipe flood?',

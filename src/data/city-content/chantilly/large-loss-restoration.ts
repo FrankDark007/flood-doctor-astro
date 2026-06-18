@@ -70,7 +70,7 @@ export const content: CityServiceContent = {
   ],
   pricingSection: {
     headline: 'Large Loss Restoration Costs in Chantilly',
-    intro: `Large loss restoration costs range from six to seven figures depending on property size, damage type, and restoration scope. We provide detailed estimates with phased budgets, work directly with insurance carriers and public adjusters, and maintain transparent cost tracking throughout the project.`,
+    intro: `Large loss restoration costs range from six to seven figures depending on property size, damage type, and restoration scope. We provide detailed scopes with phased budgets, work directly with insurance carriers and public adjusters, and maintain transparent cost tracking throughout the project.`,
     factors: [
       `Property size and damage scope—commercial buildings and multi-unit residential properties increase scale dramatically`,
       `Damage type complexity—combined water, fire, and structural damage requires parallel restoration tracks`,

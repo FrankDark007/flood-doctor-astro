@@ -106,7 +106,7 @@ Every item is photographed, catalogued, and barcoded for tracking. For Ashburn h
       'Treatment types — freeze-drying, ultrasonic cleaning, electronics restoration, and textile treatment each have different costs',
       'Storage duration — climate-controlled storage extends with longer structural restoration timelines',
     ],
-    cta: `Call (877) 497-0007 for immediate contents assessment. We stabilize priority items within hours, guide first-time claim filers through the process, and provide detailed estimates.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We stabilize priority items within hours, guide first-time claim filers through the process, and provide detailed scopes.`,
   },
   serviceAreaSection: {
     neighborhoods: [

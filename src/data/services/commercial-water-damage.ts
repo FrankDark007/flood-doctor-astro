@@ -42,7 +42,7 @@ const commercialWaterDamage: ServiceData = {
     {
       name: 'Documentation & Compliance',
       description:
-        'Detailed moisture logs, OSHA compliance documentation, and Xactimate estimates formatted for commercial insurance carriers.',
+        'Detailed moisture logs, OSHA compliance documentation, and claim documentation formatted for commercial insurance carriers.',
       icon: 'shield-check',
     },
   ],

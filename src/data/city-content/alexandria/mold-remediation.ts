@@ -118,7 +118,7 @@ Our trained mold remediation technicians understand both the science of mold rem
   },
   pricingSection: {
     headline: 'Mold Remediation Costs in Alexandria',
-    intro: 'Alexandria mold remediation costs depend on affected area size, contamination severity, material types, and required testing. Historic properties often need more careful approaches that take longer. We provide detailed estimates after inspection and recommend testing when appropriate.',
+    intro: 'Alexandria mold remediation costs depend on affected area size, contamination severity, material types, and required testing. Historic properties often need more careful approaches that take longer. We provide detailed scopes after inspection and recommend testing when appropriate.',
     factors: [
       'Affected area size—larger contamination requires more extensive containment and treatment',
       'Contamination severity—surface mold differs from deep penetration into structural materials',

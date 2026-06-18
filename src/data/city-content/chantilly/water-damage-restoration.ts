@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Chantilly',
-    intro: `Chantilly water damage restoration costs depend on scope, affected materials, and property size. We provide free inspections and detailed estimates before work begins. Most Chantilly homeowners file insurance claims—we handle insurance documentation and carrier coordination. For builder warranty situations, we prepare separate documentation.`,
+    intro: `Chantilly water damage restoration costs depend on scope, affected materials, and property size. We provide on-site assessments and detailed scopes before work begins. Most Chantilly homeowners file insurance claims—we handle insurance documentation and carrier coordination. For builder warranty situations, we prepare separate documentation.`,
     factors: [
       `Square footage affected—Chantilly homes often feature extensive finished basements and large floor plans that increase affected area`,
       `Water category—clean water from supply lines differs from sewage backup requiring biohazard protocols`,

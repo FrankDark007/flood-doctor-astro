@@ -111,7 +111,7 @@ These geographic realities demand proactive emergency planning and reactive capa
   },
   pricingSection: {
     headline: `Industrial and Commercial Restoration Costs in Alexandria`,
-    intro: `Alexandria industrial restoration costs depend on facility size, inventory exposure, and equipment involvement. We provide detailed estimates separating structural restoration from inventory loss, equipment recovery, and business interruption—supporting the multi-category claims typical of commercial and industrial insurance policies.`,
+    intro: `Alexandria industrial restoration costs depend on facility size, inventory exposure, and equipment involvement. We provide detailed scopes separating structural restoration from inventory loss, equipment recovery, and business interruption—supporting the multi-category claims typical of commercial and industrial insurance policies.`,
     factors: [
       `Facility square footage and ceiling height—warehouse and production spaces require proportionally more extraction and drying equipment`,
       `Inventory exposure and documentation—detailed inventory loss claims require thorough documentation and salvage assessment`,

@@ -104,7 +104,7 @@ Our storm damage restoration covers the full scope: emergency tarping, water ext
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Centreville',
-    intro: `Storm damage costs vary widely based on the type and extent of damage. Homeowner's insurance typically covers storm damage including wind, hail, and fallen trees. We provide free assessments, detailed estimates, and handle direct insurance billing.`,
+    intro: `Storm damage costs vary widely based on the type and extent of damage. Homeowner's insurance typically covers storm damage including wind, hail, and fallen trees. We provide free assessments, detailed scopes, and handle direct insurance billing.`,
     factors: [
       'Type of storm damage—roof, siding, window, or water intrusion each have different restoration scopes',
       'Number of floors affected—multi-story water migration increases restoration complexity',

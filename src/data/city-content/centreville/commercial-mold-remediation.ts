@@ -106,7 +106,7 @@ Our commercial team provides all of this—professional remediation that meets i
   },
   pricingSection: {
     headline: 'Commercial Mold Remediation Costs in Centreville',
-    intro: `Commercial mold remediation costs depend on contamination extent, HVAC involvement, and documentation requirements. Property insurance may cover remediation when mold results from a covered water damage event. We provide detailed estimates for property management and insurance.`,
+    intro: `Commercial mold remediation costs depend on contamination extent, HVAC involvement, and documentation requirements. Property insurance may cover remediation when mold results from a covered water damage event. We provide detailed scopes for property management and insurance.`,
     factors: [
       'Contamination scope—affected square footage across tenant spaces and common areas determines remediation scale',
       'HVAC involvement—system-wide contamination requiring duct cleaning and coil treatment adds significant scope',

@@ -107,7 +107,7 @@ Our healthcare restoration protocols address these community-specific challenges
   },
   pricingSection: {
     headline: `Healthcare Facility Restoration Costs in Falls Church`,
-    intro: `Healthcare facility restoration in Falls Church involves specialized protocols that affect project scope and cost. ICRA containment, HIPAA compliance measures, and medical equipment handling add complexity beyond standard commercial restoration. Older building conditions—including potential asbestos, lead paint, and plaster wall drying—may increase scope in Falls Church's historic medical buildings. We provide detailed estimates that distinguish between structural restoration and healthcare-specific compliance requirements for accurate insurance submissions.`,
+    intro: `Healthcare facility restoration in Falls Church involves specialized protocols that affect project scope and cost. ICRA containment, HIPAA compliance measures, and medical equipment handling add complexity beyond standard commercial restoration. Older building conditions—including potential asbestos, lead paint, and plaster wall drying—may increase scope in Falls Church's historic medical buildings. We provide detailed scopes that distinguish between structural restoration and healthcare-specific compliance requirements for accurate insurance submissions.`,
     factors: [
       `ICRA classification level required for affected areas and adjacent patient care zones`,
       `Building age and construction—plaster walls, multi-layered floors, and historic materials require specialized drying approaches`,

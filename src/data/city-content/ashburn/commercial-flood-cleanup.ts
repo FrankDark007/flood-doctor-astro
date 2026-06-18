@@ -106,7 +106,7 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in Ashburn',
-    intro: 'Ashburn commercial flood costs depend on the technology involvement, contamination level, and building construction era. Data center floods with IT equipment protection carry specialized costs. Development-related contamination adds remediation scope. We provide detailed estimates for commercial carriers with warranty documentation for applicable newer properties.',
+    intro: 'Ashburn commercial flood costs depend on the technology involvement, contamination level, and building construction era. Data center floods with IT equipment protection carry specialized costs. Development-related contamination adds remediation scope. We provide detailed scopes for commercial carriers with warranty documentation for applicable newer properties.',
     factors: [
       'Technology infrastructure exposure—data center and server room protection adds specialized anti-corrosion and environmental control costs',
       'Contamination source—development-sediment-contaminated storm water requires enhanced cleanup beyond standard flood extraction',

@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Fire Restoration Costs in Great Falls`,
-    intro: `Great Falls commercial fire restoration costs vary significantly based on fire severity, smoke migration extent, and property type. We provide detailed estimates coordinated with your insurance adjuster. Commercial fire policies typically include building, contents, business interruption, and extra expense coverages—our documentation ensures all applicable coverages are activated.`,
+    intro: `Great Falls commercial fire restoration costs vary significantly based on fire severity, smoke migration extent, and property type. We provide detailed scopes coordinated with your insurance adjuster. Commercial fire policies typically include building, contents, business interruption, and extra expense coverages—our documentation ensures all applicable coverages are activated.`,
     factors: [
       `Fire damage extent—structural damage requiring reconstruction versus smoke-only contamination affecting larger areas`,
       `Smoke migration scope—HVAC-distributed smoke can affect entire buildings, dramatically increasing cleaning area`,

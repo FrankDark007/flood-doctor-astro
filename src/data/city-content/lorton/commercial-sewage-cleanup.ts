@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Lorton`,
-    intro: `Lorton commercial sewage cleanup costs depend on contamination scope, affected square footage, and regulatory requirements. We provide detailed estimates before work begins and coordinate directly with commercial insurance carriers. For multi-tenant properties, we document costs by affected suite for accurate allocation.`,
+    intro: `Lorton commercial sewage cleanup costs depend on contamination scope, affected square footage, and regulatory requirements. We provide detailed scopes before work begins and coordinate directly with commercial insurance carriers. For multi-tenant properties, we document costs by affected suite for accurate allocation.`,
     factors: [
       `Square footage of contaminated area—Lorton commercial spaces range from individual retail suites to large shopping center footprints`,
       `Sewage category classification—storm-driven backups and waterfront events require full biohazard protocols`,

@@ -106,7 +106,7 @@ Every item is photographed, catalogued with condition notes, and barcoded for tr
       'Multi-unit coordination — simultaneous pack-outs from cascading water events require larger crews and sequential building access management',
       'Storage duration — climate-controlled storage during unit restoration extends with longer structural restoration timelines',
     ],
-    cta: `Call (877) 497-0007 for immediate contents assessment. We coordinate with your building management from the first call and provide detailed estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We coordinate with your building management from the first call and provide detailed scopes for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -113,7 +113,7 @@ Our trained flood cleanup crews bring the equipment and experience for Arlington
   },
   pricingSection: {
     headline: 'Flood Cleanup Costs in Arlington',
-    intro: 'Arlington flood cleanup costs depend on the affected space size, water contamination level, and extent of material removal required. Storm drain backup and exterior flooding typically classify as Category 2 or 3 (contaminated), requiring more extensive cleanup than clean water events. We provide free inspections and detailed estimates before work begins.',
+    intro: 'Arlington flood cleanup costs depend on the affected space size, water contamination level, and extent of material removal required. Storm drain backup and exterior flooding typically classify as Category 2 or 3 (contaminated), requiring more extensive cleanup than clean water events. We provide on-site assessments and detailed scopes before work begins.',
     factors: [
       'Space size and type—parking garages require different equipment and hours than basement apartments',
       'Water category—contaminated flood water requires antimicrobial treatment and extensive material removal',
@@ -121,7 +121,7 @@ Our trained flood cleanup crews bring the equipment and experience for Arlington
       'Building type—high-rise coordination adds complexity compared to single-family flood cleanup',
       'Contents affected—commercial inventory or personal property requires documentation and possible restoration',
     ],
-    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the flooding, explain contamination considerations, and provide detailed estimates for complete cleanup.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the flooding, explain contamination considerations, and provide detailed scopes for complete cleanup.`,
   },
   serviceAreaSection: {
     neighborhoods: [

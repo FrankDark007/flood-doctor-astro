@@ -108,7 +108,7 @@ Our technicians deploy hydroxyl generators that operate safely in occupied luxur
       'Contamination type — mold, smoke, sewage, and chemical odors each require specific protocols with different costs and timelines',
       'Property management coordination — building-level access and treatment scheduling may add logistical requirements',
     ],
-    cta: `Call (877) 497-0007 for professional odor assessment. We identify whether the source is within your unit or building systems, explain treatment options, and provide detailed estimates.`,
+    cta: `Call (877) 497-0007 for professional odor assessment. We identify whether the source is within your unit or building systems, explain treatment options, and provide detailed scopes.`,
   },
   serviceAreaSection: {
     neighborhoods: [

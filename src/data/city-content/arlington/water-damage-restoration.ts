@@ -114,7 +114,7 @@ Our restoration technicians understand that your Clarendon condo requires differ
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Arlington',
-    intro: 'Arlington water damage restoration costs vary based on the number of affected units, building access requirements, and damage severity. We provide free inspections and detailed estimates before any work begins. For multi-unit events, we coordinate separate estimates for each affected party while providing unified documentation for HOA involvement.',
+    intro: 'Arlington water damage restoration costs vary based on the number of affected units, building access requirements, and damage severity. We provide on-site assessments and detailed scopes before any work begins. For multi-unit events, we coordinate separate estimates for each affected party while providing unified documentation for HOA involvement.',
     factors: [
       'Number of affected units—cascading damage in high-rises often impacts multiple floors simultaneously',
       'Building access complexity—freight elevator availability, staging areas, and work-hour restrictions',
