@@ -21,7 +21,7 @@ const sanitizeCopy = (value: string) => value
   .replace(/IICRC/g, 'industry')
   .replace(/direct\s+billing/gi, 'claim documentation support')
   .replace(/all\s+major\s+carriers/gi, 'insurance adjusters')
-  .replace(/Free\s+Estimate/g, 'Request Service')
+  .replace(/Free[ \t]+Estimate/g, 'Request Service')
 
 const safeGuide = {
   ...guide,

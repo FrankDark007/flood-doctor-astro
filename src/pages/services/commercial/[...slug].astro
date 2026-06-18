@@ -13,8 +13,8 @@ import { toTelHref } from '../../../utils/phone'
 const cityPhoneHref = toTelHref(cityData.phone)
 
 const safeText = (value = '') => String(value)
-  .replace(/Free Estimate/g, 'Request Service')
-  .replace(/free estimate/g, 'service request')
+  .replace(/Free[ \t]+Estimate/g, 'Request Service')
+  .replace(/free[ \t]+estimate/g, 'service request')
   .replace(/IICRC-Certified Technicians/g, 'Trained Restoration Crews')
   .replace(/IICRC-certified technicians/g, 'restoration technicians')
   .replace(/IICRC-certified/g, 'trained')

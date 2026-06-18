@@ -9,7 +9,7 @@ export const mainNavigation = [
 export const secondaryNavigation = [
   { name: 'Blog', href: '/blog' },
   { name: 'Reviews', href: '/reviews' },
-  { name: 'Request Estimate', href: '/request' },
+  { name: 'Request Service', href: '/request' },
 ]
 
 export const footerNavigation = {
@@ -29,7 +29,7 @@ export const footerNavigation = {
     { name: 'Homeowner Guides', href: '/resources/homeowner-guides' },
     { name: 'Insurance Guide', href: '/resources/insurance-guide' },
     { name: 'Emergency Checklists', href: '/resources/emergency-checklists' },
-    { name: 'Request Estimate', href: '/request' },
+    { name: 'Request Service', href: '/request' },
   ],
 }
 
@@ -44,5 +44,5 @@ export const routeNames: Record<string, string> = {
   reviews: 'Reviews',
   blog: 'Blog',
   faq: 'FAQ',
-  request: 'Request Estimate',
+  request: 'Request Service',
 }
