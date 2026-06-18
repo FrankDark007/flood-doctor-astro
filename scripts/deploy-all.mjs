@@ -136,9 +136,9 @@ console.log()
 
 // Print custom domain instructions if first deploy
 if (succeeded > 0) {
-  console.log('📋 To add custom domains, run for each city:')
-  console.log('   npx wrangler pages project update fd-{city} --domain={city}.flood.doctor')
-  console.log('   For main site: npx wrangler pages project update fd-main --domain=flood.doctor')
+  console.log('📋 Custom domains are managed in Cloudflare Pages:')
+  console.log('   fd-main → flood.doctor')
+  console.log('   fd-{city} → {city}.flood.doctor')
   console.log()
 }
 
