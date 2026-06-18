@@ -3,19 +3,11 @@ import type { ServiceData } from './types'
 const environmentalTesting: ServiceData = {
   slug: 'environmental-testing',
   name: 'Environmental Testing',
-  tagline: 'Certified environmental testing for asbestos, lead, mold, and hazardous materials.',
+  tagline: 'Environmental testing for asbestos, lead, mold, and hazardous materials.',
   description:
-    'Before any renovation or restoration project in older buildings, environmental testing is essential. Our certified inspectors test for asbestos, lead paint, mold, radon, and other hazardous materials, providing the documentation needed for safe work practices and regulatory compliance.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1581093458791-9d42e3c2fd45?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+    'Before any renovation or restoration project in older buildings, environmental testing is essential. Our environmental inspectors test for asbestos, lead paint, mold, radon, and other hazardous materials, providing the documentation needed for safe work practices and regulatory compliance.',
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     { name: 'Asbestos Inspection', description: 'Certified inspectors identify and sample suspect asbestos-containing materials (ACM) in buildings constructed before 1980, with laboratory analysis by accredited labs.', icon: 'beaker' },
     { name: 'Lead Paint Testing', description: 'XRF analyzers and laboratory analysis identify lead-based paint in pre-1978 buildings, essential for compliance with EPA RRP Rule and HUD requirements.', icon: 'shield-check' },
@@ -31,16 +23,17 @@ const environmentalTesting: ServiceData = {
     'Our testing reports include clear identification of hazardous materials found, their location and condition, regulatory requirements for safe handling, and recommendations for abatement or management. For restoration projects, we can develop a comprehensive hazardous materials management plan that ensures all work is performed safely and in compliance with federal, state, and local regulations.',
   ],
   stats: [
-    { label: 'Environmental Assessments', value: '3,000+' },
-    { label: 'Samples Analyzed', value: '50,000+' },
-    { label: 'Certified Inspectors', value: '12' },
-    { label: 'Regulatory Compliance', value: '100%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'Before renovating our 1960s office building, Flood Doctor performed a complete environmental survey. They found asbestos in the floor tiles and pipe insulation, and lead paint in the stairwells. Their clear report allowed us to budget accurately for abatement and avoid costly regulatory violations. Essential service for any older building project.',
-    author: 'Mark Johannsen',
-    role: 'Development Manager, Heritage Properties LLC',
-    imageUrl: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Indoor Air Quality', description: 'Comprehensive air quality testing for mold, VOCs, particulates, and other airborne contaminants.' },

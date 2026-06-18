@@ -3,19 +3,11 @@ import type { ServiceData } from './types'
 const largeLossRestoration: ServiceData = {
   slug: 'large-loss-restoration',
   name: 'Large Loss Restoration',
-  tagline: 'Enterprise-scale restoration with dedicated project management and unlimited resources.',
+  tagline: 'Enterprise-scale restoration with dedicated project management and scalable response resources.',
   description:
     'Large loss events — multi-million dollar disasters affecting entire buildings or campuses — require a restoration partner with the capacity, experience, and project management expertise to coordinate complex, long-duration projects from emergency response through final reconstruction.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     { name: 'Dedicated Project Director', description: 'A senior project director with large-loss experience manages your entire restoration, coordinating all trades, timelines, and stakeholder communications.', icon: 'check' },
     { name: 'Scalable Workforce', description: 'We mobilize dozens or hundreds of trained personnel through our regional and national partner network to match the scale of your disaster.', icon: 'bolt' },
@@ -31,16 +23,17 @@ const largeLossRestoration: ServiceData = {
     'Insurance negotiations on large loss claims can be as complex as the restoration itself. We employ experienced estimators who understand commercial policy structures, business interruption calculations, ordinance and law implications, and depreciation methodologies. Our documentation stands up to scrutiny from insurance adjusters, public adjusters, and forensic accountants, ensuring our clients receive fair claim settlements.',
   ],
   stats: [
-    { label: 'Large Loss Projects', value: '150+' },
-    { label: 'Largest Single Project', value: '$12M' },
-    { label: 'Avg. Project Duration', value: '3-9 months' },
-    { label: 'Claim Settlement Rate', value: '98%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'A catastrophic pipe failure flooded four floors of our corporate headquarters — 200,000 square feet of Class A office space. Flood Doctor assigned a full-time project director who coordinated over 60 workers, managed our insurance claim, and delivered the project on time and on budget. A $4 million restoration executed flawlessly.',
-    author: 'Steven Blackwell',
-    role: 'CFO, Lakeside Corporate Holdings',
-    imageUrl: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Commercial Water Damage', description: 'Commercial water damage restoration that scales from single-suite to campus-wide events.' },
@@ -52,7 +45,7 @@ const largeLossRestoration: ServiceData = {
   ],
   faqs: [
     { question: 'What qualifies as a "large loss" project?', answer: 'Generally, projects exceeding $500,000 in restoration costs, affecting more than 50,000 square feet, involving multiple building systems, or requiring extended project timelines. These projects require dedicated project management resources that differ from standard commercial restoration.' },
-    { question: 'Do you have the capacity for very large projects?', answer: 'Yes. Through our regional and national partner network, we can mobilize virtually unlimited personnel and equipment. We have successfully managed projects involving over 100 workers simultaneously and restoration costs exceeding $12 million.' },
+    { question: 'Do you have the capacity for very large projects?', answer: 'Yes. Through our regional and national partner network, we can mobilize substantial personnel and equipment through coordinated response partners. We have successfully managed projects involving over 100 workers simultaneously and restoration costs exceeding $12 million.' },
     { question: 'How do you manage insurance on large loss claims?', answer: 'Large loss claims are complex, often involving multiple coverages (property, business interruption, extra expense, ordinance and law) and multiple adjusting firms. We assign experienced estimators who understand commercial policy structures and work collaboratively with all parties to reach fair settlements.' },
     { question: 'Can you handle the reconstruction as well?', answer: 'Yes. Our construction division handles full reconstruction from demolition through certificate of occupancy. Having one company manage both mitigation and reconstruction eliminates the coordination gaps that often occur when separate companies handle each phase.' },
     { question: 'What reporting do stakeholders receive?', answer: 'We provide weekly written progress reports with photos, daily situation reports during active operations, monthly financial summaries, and real-time access to our project management platform. Reports are customized for each stakeholder.' },

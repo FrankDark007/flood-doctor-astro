@@ -6,16 +6,8 @@ const industrialFacilities: ServiceData = {
   tagline: 'Heavy-duty restoration for warehouses, manufacturing plants, and industrial sites.',
   description:
     'Industrial facilities present unique restoration challenges — hazardous materials, heavy machinery, high-bay structures, and complex operations. Our industrial team has the equipment, safety training, and operational understanding to restore your facility efficiently.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1513828583688-c52646db42da?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     { name: 'HAZWOPER-Certified Crews', description: 'Our industrial teams hold 40-hour HAZWOPER certifications for work in environments with potential chemical, biological, or radiological hazards.', icon: 'shield-check' },
     { name: 'Heavy Machinery Restoration', description: 'Specialized cleaning, anti-corrosion treatment, and restoration of CNC machines, presses, conveyors, and other industrial equipment.', icon: 'cog-6-tooth' },
@@ -31,16 +23,17 @@ const industrialFacilities: ServiceData = {
     'Drying industrial spaces presents unique challenges due to their scale. Warehouse facilities with 100,000+ square feet of floor space and 30-40 foot ceilings require different drying strategies than standard commercial spaces. We deploy trailer-mounted desiccant dehumidifiers with high-volume ductwork systems designed specifically for large open industrial environments.',
   ],
   stats: [
-    { label: 'Industrial Projects', value: '100+' },
-    { label: 'Equipment Items Restored', value: '10,000+' },
-    { label: 'Largest Facility', value: '750,000 sq ft' },
-    { label: 'Production Line Recovery', value: '<5 days avg' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'A roof collapse during a storm flooded our 200,000 square foot manufacturing plant and soaked millions of dollars of CNC equipment. Flood Doctor had anti-corrosion treatments on every machine within 12 hours, saving equipment that would have taken 18 months to replace. Their industrial expertise was the difference between a temporary setback and a business-ending disaster.',
-    author: 'Frank Kowalczyk',
-    role: 'VP Operations, Advanced Manufacturing Corp.',
-    imageUrl: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Commercial Flood Cleanup', description: 'Industrial-scale flood cleanup for large manufacturing and warehouse facilities.' },

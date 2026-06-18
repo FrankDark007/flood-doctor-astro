@@ -5,17 +5,9 @@ const floodCleanup: ServiceData = {
   name: 'Flood Cleanup',
   tagline: 'Comprehensive flood damage cleanup to restore your home and your peace of mind.',
   description:
-    'When floodwaters invade your home, our certified team responds immediately with industrial-grade equipment to extract water, remove debris, sanitize affected areas, and restore your property to pre-loss condition.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1547683905-f686c993aae5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+    'When floodwaters invade your home, our certified team responds immediately with industrial-grade equipment to extract water, remove debris, sanitize affected areas, and restore affected areas safely and thoroughly.',
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Rapid Water Extraction',
@@ -61,18 +53,17 @@ const floodCleanup: ServiceData = {
     'We understand that a flood destroys more than property — it disrupts your entire life. That is why we handle every aspect of the cleanup process, from emergency board-up and content pack-out to final reconstruction and painting. Our team works directly with your insurance adjuster, providing the documentation and estimates needed to keep your claim moving forward.',
   ],
   stats: [
-    { label: 'Flood Jobs Completed', value: '1,800+' },
-    { label: 'Average Response Time', value: '<90 min' },
-    { label: 'Gallons Extracted Daily', value: '50,000+' },
-    { label: 'Customer Satisfaction', value: '97.5%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'After the river overflowed and flooded our entire first floor, Flood Doctor was there within an hour. They removed six inches of standing water, stripped out the damaged drywall, and had us back in our home in under three weeks. Absolutely incredible team.',
-    author: 'Marcus Rivera',
-    role: 'Homeowner in Deerfield',
-    imageUrl:
-      'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {
@@ -89,7 +80,7 @@ const floodCleanup: ServiceData = {
     },
     {
       name: 'Structural Drying',
-      description: 'Commercial-grade drying systems to restore moisture levels in walls, floors, and ceilings to pre-loss conditions.',
+      description: 'Commercial-grade drying systems to restore moisture levels in walls, floors, and ceilings to a documented dry standards.',
     },
     {
       name: 'Mold Prevention',

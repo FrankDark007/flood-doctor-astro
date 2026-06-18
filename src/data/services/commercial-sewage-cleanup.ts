@@ -6,16 +6,8 @@ const commercialSewageCleanup: ServiceData = {
   tagline: 'OSHA-compliant sewage remediation for commercial and institutional facilities.',
   description:
     'Sewage contamination in a commercial facility creates health hazards for employees and customers, regulatory exposure, and potential liability. Our commercial sewage team provides rapid, compliant remediation that protects your people and your business.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     { name: 'OSHA-Compliant Protocols', description: 'All work follows OSHA bloodborne pathogen standards and HAZWOPER requirements, with full documentation for regulatory compliance.', icon: 'shield-check' },
     { name: 'Employee Safety Coordination', description: 'We coordinate employee evacuation, restricted access zones, and re-occupancy clearance with your HR and safety teams.', icon: 'lock-closed' },
@@ -31,16 +23,17 @@ const commercialSewageCleanup: ServiceData = {
     'Before re-occupancy, we perform comprehensive clearance testing. ATP swab tests verify surface decontamination levels, air sampling confirms safe airborne pathogen levels, and all results are documented in a clearance report. This documentation protects your organization from worker compensation claims, tenant disputes, and regulatory enforcement actions.',
   ],
   stats: [
-    { label: 'Commercial Sewage Projects', value: '350+' },
-    { label: 'OSHA Compliance Rate', value: '100%' },
-    { label: 'Clearance Test Pass Rate', value: '100%' },
-    { label: 'Emergency Response', value: '<90 min' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'A main sewer line backed up into our restaurant during a Friday dinner rush. Flood Doctor had a hazmat crew there within the hour, handled the health department coordination, and had us open for business again by Tuesday. Their compliance documentation satisfied both the health inspector and our insurance company.',
-    author: 'Anthony Rossi',
-    role: 'Owner, Rossi Family Restaurant Group',
-    imageUrl: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Commercial Water Damage', description: 'Comprehensive commercial water damage restoration including sewage-related water intrusion.' },

@@ -6,16 +6,8 @@ const sewageCleanup: ServiceData = {
   tagline: 'Safe, thorough Category 3 black water cleanup that protects your family\'s health.',
   description:
     'Sewage backups introduce dangerous pathogens, bacteria, and viruses into your home. Our hazmat-trained technicians perform complete extraction, decontamination, and antimicrobial treatment following strict IICRC S500 protocols to make your property safe again.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Hazmat-Level Extraction',
@@ -61,18 +53,17 @@ const sewageCleanup: ServiceData = {
     'The final phase involves structural drying under containment, followed by clearance testing. We use ATP swab tests on surfaces and air quality sampling to scientifically verify that all biological contamination has been eliminated. Only after test results confirm the space is safe do we release the area for reconstruction and reoccupation. Complete documentation supports your insurance claim throughout the process.',
   ],
   stats: [
-    { label: 'Sewage Jobs Completed', value: '1,400+' },
-    { label: 'Clearance Test Pass Rate', value: '100%' },
-    { label: 'Emergency Response Time', value: '<60 min' },
-    { label: 'Insurance Claims Processed', value: '1,200+' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'Our main sewer line backed up into the basement during a heavy rain. The smell was unbearable and we were terrified about the health risks with young kids in the house. Flood Doctor had a hazmat crew here within the hour, completely gutted and decontaminated the basement, and the clearance tests came back perfect. Worth every penny.',
-    author: 'Angela Thornton',
-    role: 'Homeowner in Ashburn',
-    imageUrl:
-      'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {

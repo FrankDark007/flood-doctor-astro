@@ -6,16 +6,8 @@ const crawlSpaceDrying: ServiceData = {
   tagline: 'Eliminate crawl space moisture before it destroys your home from below.',
   description:
     'Excess crawl space moisture causes wood rot, mold growth, pest infestations, and poor indoor air quality throughout your home. Our crawl space services include emergency drying, vapor barrier installation, dehumidification, and full encapsulation to permanently control below-home moisture.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1607400201889-565b1ee75f8e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Standing Water Extraction',
@@ -61,18 +53,17 @@ const crawlSpaceDrying: ServiceData = {
     'The final component is environmental control. We install a commercial-grade, self-draining dehumidifier sized for your crawl space volume and set to maintain relative humidity below 55%. Existing foundation vents are sealed to prevent humid air intrusion. The result is a clean, dry, controlled environment that protects your floor system, improves indoor air quality, reduces energy costs, and prevents the conditions that attract termites, carpenter ants, and other wood-destroying pests.',
   ],
   stats: [
-    { label: 'Crawl Spaces Serviced', value: '2,200+' },
-    { label: 'Encapsulations Completed', value: '1,500+' },
-    { label: 'Avg. Humidity Reduction', value: '35-45%' },
-    { label: 'Energy Savings (avg.)', value: '15-20%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'We always had musty smells and high humidity in our first floor, plus our hardwood floors were starting to buckle. Flood Doctor crawled under the house and found standing water, mold on the joists, and a completely failed vapor barrier. After encapsulation and a dehumidifier install, the difference is night and day — no smell, floors leveled back out, and our energy bills dropped.',
-    author: 'Elaine Fitzpatrick',
-    role: 'Homeowner in Ashburn',
-    imageUrl:
-      'https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {

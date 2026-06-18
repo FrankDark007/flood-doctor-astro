@@ -6,16 +6,8 @@ const contentsCleaningPackout: ServiceData = {
   tagline: 'Professional restoration of your belongings — because some things are irreplaceable.',
   description:
     'Water, smoke, and mold damage threaten your personal belongings as much as your structure. Our contents restoration team carefully inventories, packs, transports, and restores your possessions at our climate-controlled facility using ultrasonic cleaning, ozone chambers, and freeze-drying technology.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Detailed Inventory & Documentation',
@@ -61,18 +53,17 @@ const contentsCleaningPackout: ServiceData = {
     'Throughout the process, you have access to your inventory through our online portal where you can track item status, make notes, and communicate with your restoration coordinator. When your home is ready, we deliver your restored belongings and unpack them to your specifications. Items determined to be non-restorable are documented with photos and condition reports to support replacement claims with your insurance company.',
   ],
   stats: [
-    { label: 'Items Restored Annually', value: '75,000+' },
-    { label: 'Restoration Success Rate', value: '85%' },
-    { label: 'Secure Storage Capacity', value: '12,000 sq ft' },
-    { label: 'Avg. Turnaround Time', value: '7-14 days' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'After our house fire, I thought we had lost everything. Flood Doctor packed out our entire home, and their team restored things I never imagined could be saved — including my late mother\'s photo albums and my husband\'s vinyl collection. The online tracking system kept us informed the whole time. Truly remarkable work.',
-    author: 'Sandra Ogunyemi',
-    role: 'Homeowner in Ashburn',
-    imageUrl:
-      'https://images.unsplash.com/photo-1531123897727-8f129e1688ce?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {

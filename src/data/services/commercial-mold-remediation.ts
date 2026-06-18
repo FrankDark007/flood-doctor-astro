@@ -6,16 +6,8 @@ const commercialMoldRemediation: ServiceData = {
   tagline: 'Large-scale mold remediation meeting EPA, OSHA, and industry standards.',
   description:
     'Mold in commercial buildings affects employee health, triggers regulatory requirements, and can lead to significant liability. Our commercial mold team handles large-scale remediation with minimal business disruption, full regulatory compliance, and independent verification testing.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     { name: 'Industrial Hygienist Coordination', description: 'We work with certified industrial hygienists (CIH) for assessment, protocol development, and independent post-remediation verification.', icon: 'beaker' },
     { name: 'HVAC Mold Remediation', description: 'Commercial HVAC systems spread mold throughout buildings. We remediate ductwork, air handlers, coils, and plenums to stop systemic contamination.', icon: 'cog-6-tooth' },
@@ -31,16 +23,17 @@ const commercialMoldRemediation: ServiceData = {
     'Post-remediation verification is performed by the same independent CIH who wrote the protocol. This third-party clearance testing compares post-remediation air samples to baseline samples from unaffected areas. Only after the CIH issues a clearance report do we remove containment and release the space for re-occupancy.',
   ],
   stats: [
-    { label: 'Commercial Mold Projects', value: '450+' },
-    { label: 'CIH Clearance Pass Rate', value: '99.5%' },
-    { label: 'HVAC Systems Remediated', value: '200+' },
-    { label: 'Sq Ft Remediated', value: '3M+' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'Employees started complaining about respiratory issues. The industrial hygienist found extensive mold in the HVAC plenum and behind walls on two floors. Flood Doctor remediated 40,000 square feet while keeping the other floors operational. They passed clearance testing on the first attempt.',
-    author: 'Rebecca Torres',
-    role: 'Property Manager, Tower One Office Complex',
-    imageUrl: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Indoor Air Quality', description: 'Comprehensive IAQ testing and monitoring for commercial buildings with mold concerns.' },

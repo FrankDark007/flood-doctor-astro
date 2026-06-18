@@ -6,16 +6,8 @@ const roofLeakWaterDamage: ServiceData = {
   tagline: 'Stop the leak, dry the damage, restore your home — from roofline to ceiling.',
   description:
     'Roof leaks cause hidden water damage that can go unnoticed for weeks, saturating attic insulation, rotting roof decking, staining ceilings, and promoting mold growth in wall cavities. Our team locates the leak source, performs emergency tarping, extracts water, dries affected areas, and coordinates permanent roof repairs.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1632178050091-84e5bd15724c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Leak Source Detection',
@@ -61,18 +53,17 @@ const roofLeakWaterDamage: ServiceData = {
     'The restoration is not complete until both the roof and the interior are repaired. We coordinate with licensed roofing contractors to schedule permanent repairs — replacing damaged shingles, re-flashing penetrations, sealing pipe boots, and addressing any underlying issues like poor attic ventilation that contributes to ice dam formation. On the interior, our team repairs or replaces damaged drywall, insulation, and paint to restore your home to its pre-damage condition.',
   ],
   stats: [
-    { label: 'Roof Leak Restorations', value: '2,100+' },
-    { label: 'Emergency Tarps Installed', value: '3,800+' },
-    { label: 'Hidden Damage Found Rate', value: '78%' },
-    { label: 'Insurance Claims Assisted', value: '1,900+' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'We noticed a small brown spot on our bedroom ceiling that kept growing. Flood Doctor found the leak was from failed flashing around our chimney — water had been running down the inside of the wall for weeks. They tarped the roof that day, dried out the wall cavity, replaced the damaged drywall, and coordinated the roofer for a permanent fix. One call handled everything.',
-    author: 'Brian and Catherine Nguyen',
-    role: 'Homeowners in Ashburn',
-    imageUrl:
-      'https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {

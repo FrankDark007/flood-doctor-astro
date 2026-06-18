@@ -6,16 +6,8 @@ const odorRemoval: ServiceData = {
   tagline: 'Permanent odor elimination — not masking, not covering up, truly gone.',
   description:
     'Stubborn odors from smoke, sewage, mold, pets, and decomposition resist conventional cleaning because the source molecules are embedded deep in porous materials. Our advanced deodorization systems — thermal fogging, ozone, and hydroxyl generators — neutralize odors at the molecular level for permanent results.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1558317374-067fb5f30001?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Thermal Fogging',
@@ -61,18 +53,17 @@ const odorRemoval: ServiceData = {
     'Hydroxyl generators represent the newest advancement in deodorization technology. Unlike ozone (which requires vacating the space during treatment), hydroxyl radicals are safe for occupied environments and continuously neutralize odor compounds in the air and on surfaces. We often deploy hydroxyl generators during the entire restoration process, providing ongoing deodorization while other work is being performed. Post-treatment air quality testing confirms complete odor elimination.',
   ],
   stats: [
-    { label: 'Odor Jobs Completed', value: '1,900+' },
-    { label: 'First-Treatment Success Rate', value: '94%' },
-    { label: 'Odor Types Treated', value: '20+' },
-    { label: 'Customer Satisfaction', value: '97.8%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'Our house had a terrible sewage smell that three different companies failed to fix. Flood Doctor found the source — contaminated subfloor under our laundry room from an old leak. They removed the affected material, treated everything with enzymes and ozone, and the smell was completely gone. Finally able to have guests over without embarrassment.',
-    author: 'Tomoko Nakamura',
-    role: 'Homeowner in Ashburn',
-    imageUrl:
-      'https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {
@@ -127,9 +118,9 @@ const odorRemoval: ServiceData = {
         'Treatment time depends on the odor type and severity. Mild odors may be resolved in 1-2 days. Smoke odors from fires typically require 3-5 days of treatment. Severe biological odors may need 5-7 days including source removal and multiple treatment cycles. We provide a realistic timeline after our initial assessment.',
     },
     {
-      question: 'Do you guarantee odor removal?',
+      question: 'Can all odors be removed?',
       answer:
-        'We achieve complete odor elimination in over 94% of cases on the first treatment. For particularly stubborn odors, additional treatment cycles may be needed. We continue treating until the odor is resolved and back our work with a satisfaction guarantee. If you can still smell it, we come back.',
+        'Odor removal outcomes depend on the source, affected materials, and how long contamination has been present. Some odors require multiple treatment cycles, and we explain recommended next steps after each inspection or treatment.',
     },
   ],
 }

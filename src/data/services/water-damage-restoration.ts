@@ -5,17 +5,9 @@ const waterDamageRestoration: ServiceData = {
   name: 'Water Damage Restoration',
   tagline: 'Fast, professional water damage restoration when every minute counts.',
   description:
-    'Our certified technicians respond within 60 minutes to minimize damage and restore your property. We handle everything from emergency water extraction to complete structural drying and reconstruction.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+    'Our technicians respond as quickly as local conditions allow to limit damage and begin restoration. We handle everything from emergency water extraction to complete structural drying and reconstruction.',
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Emergency Water Extraction',
@@ -50,29 +42,28 @@ const waterDamageRestoration: ServiceData = {
     {
       name: 'Moisture Testing',
       description:
-        'Scientific moisture mapping with thermal imaging and hygrometers ensures no hidden pockets of moisture are left behind.',
+        'Scientific moisture mapping with thermal imaging and hygrometers ensures clearly documented pockets of moisture are left behind.',
       icon: 'beaker',
     },
   ],
   contentParagraphs: [
-    'Water damage can strike at any time — a burst pipe in the middle of the night, a flash flood during a storm, or a slow leak that goes undetected for weeks. Whatever the cause, the key to minimizing damage and restoration costs is rapid response. Our certified water damage restoration team arrives on-site within 60 minutes of your call, equipped with industrial-grade extraction and drying equipment.',
-    'Our restoration process follows IICRC S500 standards, the gold standard in the water damage restoration industry. We begin with a thorough assessment using thermal imaging cameras and moisture meters to map the full extent of water intrusion. This ensures no hidden moisture pockets are missed — a critical step in preventing secondary damage like mold growth and structural deterioration.',
-    'Once assessment is complete, we deploy our multi-phase drying system. High-capacity extractors remove standing water, followed by strategic placement of commercial dehumidifiers and air movers. We monitor moisture levels daily, adjusting equipment placement as needed to achieve optimal drying conditions. Most residential properties reach target dryness within 3-5 days.',
-    'Beyond structural restoration, we understand the emotional toll water damage takes on families. Our content restoration team carefully inventories and treats affected personal belongings, from family photos to important documents. We work directly with your insurance company to streamline the claims process, so you can focus on getting your life back to normal.',
+    'Water damage can strike at any time — a burst pipe in the middle of the night, a flash flood during a storm, or a slow leak that goes undetected for weeks. Whatever the cause, the key to minimizing damage and restoration costs is rapid response. Our water damage restoration team arrives with industrial-grade extraction and drying equipment as quickly as dispatch and site conditions allow.',
+    'Our restoration process follows IICRC S500 standards, the gold standard in the water damage restoration industry. We begin with a thorough assessment using thermal imaging cameras and moisture meters to map the full extent of water intrusion. This ensures clearly documented moisture pockets are missed — a critical step in preventing secondary damage like mold growth and structural deterioration.',
+    'Once assessment is complete, we deploy our multi-phase drying system. High-capacity extractors remove standing water, followed by strategic placement of commercial dehumidifiers and air movers. We monitor moisture levels daily, adjusting equipment placement as needed to achieve optimal drying conditions. Many residential projects reach target dryness within several days, depending on materials, saturation, and site conditions.',
+    'Beyond structural restoration, we understand the emotional toll water damage takes on families. Our content restoration team carefully inventories and treats affected personal belongings, from family photos to important documents. We provide claim documentation and scope notes you can share with your insurance company, so you can focus on getting your life back to normal.',
   ],
   stats: [
-    { label: 'Average Response Time', value: '<60 min' },
-    { label: 'Emergency Availability', value: '24/7' },
-    { label: 'Restoration Protocols', value: 'IICRC' },
-    { label: 'Insurance Documentation', value: 'Included' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'When our basement flooded at 2 AM, Flood Doctor had a team at our door within 45 minutes. They saved our finished basement and handled everything with our insurance company. I cannot recommend them highly enough.',
-    author: 'Sarah Chen',
-    role: 'Homeowner in Riverside',
-    imageUrl:
-      'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {
@@ -89,7 +80,7 @@ const waterDamageRestoration: ServiceData = {
     },
     {
       name: 'Structural Drying',
-      description: 'Advanced drying techniques using commercial dehumidifiers and air movers to restore moisture levels to pre-loss conditions.',
+      description: 'Advanced drying techniques using commercial dehumidifiers and air movers to dry building materials to documented target moisture levels.',
     },
     {
       name: 'Content Restoration',
@@ -97,7 +88,7 @@ const waterDamageRestoration: ServiceData = {
     },
     {
       name: 'Reconstruction Services',
-      description: 'Full rebuild and repair of damaged drywall, flooring, cabinetry, and other structural elements to pre-loss condition.',
+      description: 'Full rebuild and repair of damaged drywall, flooring, cabinetry, and other structural elements to a documented dry standard.',
     },
     {
       name: 'Emergency Board-Up',
@@ -105,19 +96,19 @@ const waterDamageRestoration: ServiceData = {
     },
     {
       name: 'Insurance Coordination',
-      description: 'Direct billing and claims documentation support with all major insurance carriers to streamline your restoration process.',
+      description: 'Claims documentation support that can help you communicate scope and progress with your insurance carrier.',
     },
   ],
   faqs: [
     {
       question: 'How quickly can you respond to a water damage emergency?',
       answer:
-        'We guarantee a response within 60 minutes for all emergency calls within our service area. Our teams are stationed strategically across the region and are available 24/7, 365 days a year.',
+        'Emergency dispatch is available 24/7, 365 days a year. Response time depends on location, weather, access, and crew availability, and we prioritize urgent water losses.',
     },
     {
       question: 'Do you work with insurance companies?',
       answer:
-        'Yes, we work with all major insurance carriers and can bill them directly. Our team includes certified estimators who document everything thoroughly to ensure your claim is processed smoothly and you receive the maximum coverage you\'re entitled to.',
+        'Yes, we work with insurance carriers and can provide claim documentation. Our team includes certified estimators who document everything thoroughly to ensure your claim is processed smoothly and you receive the available claim documentation you\'re entitled to.',
     },
     {
       question: 'How long does the water damage restoration process take?',
@@ -127,7 +118,7 @@ const waterDamageRestoration: ServiceData = {
     {
       question: 'Can you prevent mold after water damage?',
       answer:
-        'Absolutely. Mold prevention is a critical part of our restoration process. We apply antimicrobial treatments, ensure complete structural drying, and perform post-restoration moisture testing. If we respond within 24-48 hours of the water event, mold growth can almost always be prevented entirely.',
+        'Absolutely. Mold prevention is a critical part of our restoration process. We apply antimicrobial treatments, ensure complete structural drying, and perform post-restoration moisture testing. If we respond within 24-48 hours of the water event, early drying and antimicrobial treatment can reduce the risk of mold growth.',
     },
     {
       question: 'What types of water damage do you handle?',

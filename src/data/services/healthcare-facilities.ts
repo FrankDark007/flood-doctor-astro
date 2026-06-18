@@ -6,16 +6,8 @@ const healthcareFacilities: ServiceData = {
   tagline: 'HIPAA-compliant restoration for hospitals, clinics, and medical offices.',
   description:
     'Healthcare facility restoration requires specialized protocols for infection control, HIPAA compliance, patient safety, and regulatory requirements. Our healthcare restoration team understands Joint Commission standards, CMS requirements, and the critical importance of maintaining operations during restoration.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     { name: 'HIPAA-Compliant Operations', description: 'All personnel are HIPAA-trained. We maintain strict protocols for handling patient records, medical equipment, and protected health information during restoration.', icon: 'lock-closed' },
     { name: 'Infection Control Barriers', description: 'ICRA (Infection Control Risk Assessment) protocols guide our containment strategies, preventing airborne pathogen spread during construction and remediation.', icon: 'shield-check' },
@@ -31,24 +23,25 @@ const healthcareFacilities: ServiceData = {
     'We understand that healthcare facilities cannot simply close during restoration. Our project plans are designed to maintain critical services by working in phases, installing containment barriers that meet ICRA standards, and scheduling disruptive work during off-peak hours. We coordinate directly with your facilities management, infection control, and clinical operations teams to minimize impact on patient care.',
   ],
   stats: [
-    { label: 'Healthcare Projects', value: '120+' },
-    { label: 'HIPAA Incidents', value: '0' },
-    { label: 'ICRA-Trained Technicians', value: '25+' },
-    { label: 'Facilities Maintained Operations', value: '95%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'A pipe burst above our outpatient surgery center on a Friday night. Flood Doctor had ICRA-trained crews there within the hour, set up proper containment, and had us back performing procedures by Monday morning. They understood our infection control requirements without us having to explain. That level of healthcare-specific expertise is invaluable.',
-    author: 'Dr. Amanda Foster',
-    role: 'Medical Director, Midwest Surgical Center',
-    imageUrl: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Commercial Water Damage', description: 'Large-scale water damage restoration adapted for healthcare facility requirements.' },
     { name: 'Indoor Air Quality', description: 'Critical air quality testing and monitoring for healthcare environments during and after restoration.' },
-    { name: 'Environmental Testing', description: 'Certified environmental testing for healthcare facilities with strict regulatory requirements.' },
+    { name: 'Environmental Testing', description: 'Environmental testing for healthcare facilities with strict regulatory requirements.' },
     { name: 'Commercial Mold Remediation', description: 'Mold remediation meeting the elevated standards required for healthcare environments.' },
     { name: 'HVAC Decontamination', description: 'HVAC system cleaning critical for maintaining healthcare facility air quality standards.' },
-    { name: 'Emergency Planning', description: 'Pre-loss emergency response planning for healthcare facilities to minimize patient impact.' },
+    { name: 'Emergency Planning', description: 'documented emergency response planning for healthcare facilities to minimize patient impact.' },
   ],
   faqs: [
     { question: 'Are your crews HIPAA trained?', answer: 'Yes. All personnel assigned to healthcare projects complete HIPAA training and sign confidentiality agreements before entering your facility. We maintain strict protocols for handling any materials that may contain protected health information.' },

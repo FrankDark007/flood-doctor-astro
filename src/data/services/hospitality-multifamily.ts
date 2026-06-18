@@ -6,16 +6,8 @@ const hospitalityMultifamily: ServiceData = {
   tagline: 'Restoration for hotels, apartments, and multi-unit residential properties.',
   description:
     'Hotels, apartment complexes, and multifamily properties face unique restoration challenges — multiple affected units, displaced residents, ongoing revenue loss, and complex liability considerations. Our hospitality team minimizes displacement and gets units back online fast.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     { name: 'Multi-Unit Coordination', description: 'Simultaneous restoration of multiple affected units with individual tracking, allowing phased re-occupancy as units are completed.', icon: 'arrow-path' },
     { name: 'Guest & Tenant Communication', description: 'Professional communication support including notification templates, status updates, and relocation coordination for displaced occupants.', icon: 'check' },
@@ -31,16 +23,17 @@ const hospitalityMultifamily: ServiceData = {
     'For apartment communities, we prioritize tenant communication and temporary housing coordination. We provide property managers with notification templates, daily status updates by unit, and estimated re-occupancy dates. When applicable, we coordinate with resident insurance policies as well as the property owner\'s policy to ensure all affected parties receive proper claim support.',
   ],
   stats: [
-    { label: 'Multi-Unit Projects', value: '200+' },
-    { label: 'Hotel Rooms Restored', value: '5,000+' },
-    { label: 'Avg. Unit Turnaround', value: '5-7 days' },
-    { label: 'Tenant Satisfaction', value: '96%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'A water heater on the 8th floor of our 200-unit luxury apartment community failed and water cascaded down through seven floors, affecting 35 units. Flood Doctor restored all units in parallel, communicated with each resident individually, and had every unit back online in 12 days. Our property management company was incredibly impressed.',
-    author: 'Diane Hartwell',
-    role: 'Regional Director, Premier Living Communities',
-    imageUrl: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Commercial Water Damage', description: 'Large-scale water damage restoration for multi-story commercial and residential properties.' },
@@ -56,7 +49,7 @@ const hospitalityMultifamily: ServiceData = {
     { question: 'Who handles tenant communication?', answer: 'We provide property managers with professional communication templates and daily unit-by-unit status updates. Our project manager is available for tenant meetings if needed. We find that transparent, proactive communication significantly reduces tenant complaints and legal disputes.' },
     { question: 'How do you handle tenant belongings?', answer: 'We offer pack-out services for tenant belongings in affected units, with detailed inventory and secure storage. For hotel rooms, we coordinate with housekeeping for guest property. All items are documented and insured during our custody.' },
     { question: 'What about temporary housing for displaced residents?', answer: 'We coordinate with property management on temporary housing arrangements. Depending on insurance coverage, costs may be covered under the property policy or individual renter policies. We document displacement dates for each unit to support insurance claims.' },
-    { question: 'How do you manage insurance with multiple policies involved?', answer: 'Multi-unit events often involve the property owner\'s policy plus individual tenant/renter policies. We work with all parties, providing documentation customized for each claim. Our estimators understand the interplay between property and tenant coverage and help coordinate to avoid gaps or duplications.' },
+    { question: 'How do you manage insurance with multiple policies involved?', answer: 'Multi-unit events often involve the property owner\'s policy plus individual tenant/renter policies. We provide documentation customized for each claim and coordinate communication among involved parties. Our estimators understand the interplay between property and tenant coverage and help coordinate to avoid gaps or duplications.' },
   ],
 }
 

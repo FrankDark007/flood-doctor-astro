@@ -6,16 +6,8 @@ const indoorAirQuality: ServiceData = {
   tagline: 'Comprehensive IAQ testing, monitoring, and remediation services.',
   description:
     'Poor indoor air quality affects health, productivity, and property value. Our IAQ services include mold spore testing, VOC analysis, particulate monitoring, and HVAC assessment to identify contamination sources and verify remediation effectiveness.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     { name: 'Mold Spore Air Sampling', description: 'Spore trap and viable air sampling quantifies airborne mold concentrations and identifies species, compared against outdoor baseline samples.', icon: 'beaker' },
     { name: 'VOC Analysis', description: 'Volatile organic compound testing identifies chemical off-gassing from building materials, furnishings, and contamination sources.', icon: 'cloud-arrow-up' },
@@ -31,16 +23,17 @@ const indoorAirQuality: ServiceData = {
     'Our IAQ reports provide clear, actionable results. We compare your test results against EPA, OSHA, and ASHRAE guidelines, explain what the numbers mean in plain language, and recommend specific steps to improve your air quality. For commercial clients, we can provide reports formatted for employee communications, regulatory compliance, and legal documentation.',
   ],
   stats: [
-    { label: 'IAQ Assessments', value: '1,500+' },
-    { label: 'Air Samples Analyzed', value: '25,000+' },
-    { label: 'HVAC Systems Assessed', value: '400+' },
-    { label: 'Contaminant Types Tested', value: '100+' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'Multiple employees were reporting headaches and respiratory issues. Flood Doctor performed comprehensive air quality testing and found elevated mold spores in the HVAC system and high VOC levels from recent renovations. They cleaned the HVAC, improved ventilation, and our air quality tests came back normal. Health complaints dropped to zero.',
-    author: 'Jennifer Liu',
-    role: 'HR Director, Pacific West Technologies',
-    imageUrl: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Mold Remediation', description: 'Professional mold removal when air testing reveals elevated fungal contamination levels.' },

@@ -6,16 +6,8 @@ const basementFlooding: ServiceData = {
   tagline: 'Expert below-grade flood cleanup and long-term prevention solutions.',
   description:
     'Basements are the most flood-prone area of any home due to their below-grade position and proximity to groundwater. Our basement flooding specialists handle emergency extraction, decontamination, structural drying, and implement prevention systems like sump pumps and waterproofing to stop it from happening again.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1621905252507-b35492cc74b4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Emergency Basement Pumping',
@@ -61,18 +53,17 @@ const basementFlooding: ServiceData = {
     'Beyond the immediate cleanup, we help homeowners address the root cause to prevent recurrence. Our waterproofing solutions include interior French drain systems that capture groundwater before it reaches your living space, primary and battery-backup sump pump installations, foundation crack injection, and exterior grading recommendations. For finished basements, we can recommend moisture-resistant materials for the rebuild that will withstand future minor moisture events.',
   ],
   stats: [
-    { label: 'Basement Floods Resolved', value: '3,500+' },
-    { label: 'Sump Pumps Installed', value: '1,200+' },
-    { label: 'Emergency Response', value: '<60 min' },
-    { label: 'Repeat Flood Rate (clients)', value: '<3%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'Our finished basement flooded for the third time in two years. Previous companies just dried it out and left. Flood Doctor dried it out AND installed a French drain system with a battery-backup sump pump. That was 18 months ago and we have had zero issues since, even during the heavy spring rains. Should have called them first.',
-    author: 'Kevin and Diane Patel',
-    role: 'Homeowners in Ashburn',
-    imageUrl:
-      'https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {

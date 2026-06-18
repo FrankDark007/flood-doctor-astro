@@ -6,16 +6,8 @@ const fireSmokeCleanup: ServiceData = {
   tagline: 'Complete fire and smoke damage restoration from emergency response to full rebuild.',
   description:
     'Fire damage extends far beyond the flames — smoke, soot, and water from firefighting efforts cause widespread secondary damage. Our fire restoration team handles emergency board-up, soot removal, smoke deodorization, structural cleaning, and complete reconstruction under one roof.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1486551937199-baf066858de7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Emergency Board-Up & Securing',
@@ -50,29 +42,28 @@ const fireSmokeCleanup: ServiceData = {
     {
       name: 'Full Reconstruction',
       description:
-        'From framing to finish work, our construction team rebuilds fire-damaged areas to pre-loss condition or better, managing the entire process.',
+        'From framing to finish work, our construction team rebuilds fire-damaged areas to a safe, repair-ready condition, managing the entire process.',
       icon: 'cog-6-tooth',
     },
   ],
   contentParagraphs: [
     'A house fire is one of the most traumatic events a family can experience. Even after the flames are extinguished, the damage continues — smoke residue corrodes metals, discolors surfaces, and embeds in every porous material it contacts. Soot particles are acidic and will permanently etch glass, tarnish chrome, and yellow plastics if not cleaned within days. Our fire damage restoration process addresses every aspect of the damage, from structural charring to microscopic smoke particles.',
-    'Smoke behaves differently depending on what burned. Protein fires (kitchen grease) leave a thin, nearly invisible residue with an intense odor. Synthetic material fires produce thick, black, smeared soot that resists standard cleaning. Wood and paper fires create dry, powdery soot. Each type requires different cleaning agents and techniques — using the wrong approach can permanently set stains into surfaces. Our IICRC-certified technicians identify the soot type and select the appropriate treatment for each material.',
+    'Smoke behaves differently depending on what burned. Protein fires (kitchen grease) leave a thin, nearly invisible residue with an intense odor. Synthetic material fires produce thick, black, smeared soot that resists standard cleaning. Wood and paper fires create dry, powdery soot. Each type requires different cleaning agents and techniques — using the wrong approach can permanently set stains into surfaces. Our trained technicians identify the soot type and select the appropriate treatment for each material.',
     'The firefighting water that saved your home creates its own set of problems. Thousands of gallons of water saturate floors, walls, and belongings, creating the same mold risk as any major water damage event. Our teams work simultaneously on smoke cleaning and water extraction, running both processes in parallel to maximize the amount of property that can be saved. Time is critical — the sooner we start, the more we can salvage.',
     'We manage the entire restoration from emergency response through final reconstruction. Our project managers serve as your single point of contact, coordinating subcontractors, ordering materials, managing timelines, and communicating with your insurance adjuster. We use Xactimate estimating software — the same platform your insurer uses — to ensure alignment on scope and pricing from day one.',
   ],
   stats: [
-    { label: 'Fire Restorations Completed', value: '900+' },
-    { label: 'Contents Items Restored', value: '150K+' },
-    { label: 'Emergency Response', value: '<90 min' },
-    { label: 'Avg. Rebuild Timeline', value: '6-10 wks' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'A kitchen fire spread to our dining room and the smoke went everywhere. Flood Doctor cleaned and deodorized every room, restored our furniture at their facility, and rebuilt the kitchen better than it was before. They dealt with our insurance company the whole time so we could focus on our family.',
-    author: 'James and Maria Delgado',
-    role: 'Homeowners in Ashburn',
-    imageUrl:
-      'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {
@@ -119,7 +110,7 @@ const fireSmokeCleanup: ServiceData = {
     {
       question: 'Does homeowner insurance cover fire damage?',
       answer:
-        'Yes, fire damage is one of the most comprehensively covered perils in standard homeowner policies. Coverage typically includes structural repairs, personal property replacement, additional living expenses while displaced, and professional cleanup. We work directly with your insurer throughout the process.',
+        'Yes, fire damage is one of the most comprehensively covered perils in standard homeowner policies. Coverage typically includes structural repairs, personal property replacement, additional living expenses while displaced, and professional cleanup. We provide documentation and communicate with your insurer as requested throughout the process.',
     },
     {
       question: 'Will the smoke smell ever go away?',

@@ -5,17 +5,9 @@ const moldRemediation: ServiceData = {
   name: 'Mold Remediation',
   tagline: 'Professional mold removal that eliminates the problem at its source.',
   description:
-    'Mold threatens both your property and your family\'s health. Our certified mold remediation team provides thorough inspection, containment, removal, and clearance testing to eliminate mold colonies and prevent recurrence — all backed by post-remediation verification.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+    'Mold threatens both your property and your family\'s health. Our mold remediation team provides thorough inspection, containment, removal, and clearance testing to eliminate mold colonies and prevent recurrence — all backed by post-remediation verification.',
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Comprehensive Mold Inspection',
@@ -61,18 +53,17 @@ const moldRemediation: ServiceData = {
     'The most critical step in mold remediation is solving the moisture problem that caused the mold in the first place. Whether it is a hidden plumbing leak, poor attic ventilation, foundation seepage, or inadequate bathroom exhaust, we identify and resolve the root cause. Without moisture source correction, mold will return regardless of how thorough the remediation was. We also recommend ongoing humidity monitoring to catch any future issues early.',
   ],
   stats: [
-    { label: 'Mold Projects Completed', value: '2,800+' },
-    { label: 'Clearance Test Pass Rate', value: '99.8%' },
-    { label: 'Species Identified', value: '50+' },
-    { label: 'Customer Satisfaction', value: '98.2%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'We had been sick for months before discovering mold behind our bathroom walls from an old leak. Flood Doctor contained the area, removed all the affected material, and fixed the plumbing issue that caused it. The air quality tests came back clean and within two weeks our whole family felt better. Life-changing service.',
-    author: 'Robert Kimura',
-    role: 'Homeowner in Ashburn',
-    imageUrl:
-      'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {

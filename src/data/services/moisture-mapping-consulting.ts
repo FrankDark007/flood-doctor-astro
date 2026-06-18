@@ -6,16 +6,8 @@ const moistureMappingConsulting: ServiceData = {
   tagline: 'Scientific moisture assessment and expert consulting for complex projects.',
   description:
     'Our moisture mapping service uses thermal imaging, calibrated meters, and psychrometric analysis to create detailed moisture profiles of your building. We provide expert consulting on drying strategies, moisture source identification, and litigation support for complex water damage claims.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1581092160562-40aa08e78837?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     { name: 'FLIR Thermal Imaging', description: 'High-resolution infrared cameras detect temperature differentials that reveal hidden moisture behind walls, under floors, and above ceilings.', icon: 'finger-print' },
     { name: 'Calibrated Moisture Meters', description: 'NIST-traceable pin-type and capacitance meters provide accurate moisture content readings for all building materials.', icon: 'beaker' },
@@ -31,16 +23,17 @@ const moistureMappingConsulting: ServiceData = {
     'Beyond data collection, we provide expert consulting on complex moisture issues. This includes determining the cause and origin of water intrusion, evaluating whether previous restoration work was adequate, assessing long-term moisture conditions in building envelopes, and providing expert witness testimony in litigation. Our consultants hold IICRC, ACAC, and thermography certifications recognized by courts and insurance carriers.',
   ],
   stats: [
-    { label: 'Moisture Assessments', value: '2,500+' },
-    { label: 'Expert Reports Prepared', value: '400+' },
-    { label: 'Court Testimonies', value: '50+' },
-    { label: 'Data Points per Project', value: '200+' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'We hired Flood Doctor to assess a water damage claim that our insurance company was disputing. Their moisture mapping revealed extensive hidden damage the adjuster had missed. Their expert report and the moisture maps were compelling enough that the insurance company approved the full claim without going to arbitration.',
-    author: 'Attorney Rachel Simmons',
-    role: 'Partner, Simmons & Associates Law Firm',
-    imageUrl: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Structural Drying', description: 'Data-driven drying operations guided by comprehensive moisture mapping and analysis.' },

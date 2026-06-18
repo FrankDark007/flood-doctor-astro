@@ -6,16 +6,8 @@ const commercialFloodCleanup: ServiceData = {
   tagline: 'Rapid commercial flood response to get your business back online fast.',
   description:
     'When floodwaters impact your commercial property, every hour of delay increases your losses. Our commercial flood team deploys industrial extraction and drying equipment at scale, prioritizing operational recovery alongside thorough restoration.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Industrial-Scale Extraction',
@@ -55,16 +47,17 @@ const commercialFloodCleanup: ServiceData = {
     'Documentation for commercial flood claims is significantly more detailed than residential claims. We provide daily progress reports, equipment inventories, moisture readings, labor logs, and photo documentation formatted for commercial insurance adjusters. Our estimators are experienced with commercial policy structures including business interruption, extra expense, and ordinance and law coverage.',
   ],
   stats: [
-    { label: 'Commercial Floods Restored', value: '400+' },
-    { label: 'Largest Project', value: '500,000 sq ft' },
-    { label: 'Avg. Time to Partial Reopening', value: '72 hrs' },
-    { label: 'Commercial Insurance Partners', value: '30+' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'A flash flood overwhelmed our loading dock and flooded 80,000 square feet of our distribution center. Flood Doctor had industrial pumps running within two hours and worked 24/7 for five days straight. We were shipping again within a week. Their project management kept us informed every step of the way.',
-    author: 'Catherine Walsh',
-    role: 'Operations VP, Regional Distribution Co.',
-    imageUrl: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Commercial Water Damage', description: 'Comprehensive commercial water damage restoration for all types of water intrusion events.' },
@@ -75,8 +68,8 @@ const commercialFloodCleanup: ServiceData = {
     { name: 'Business Interruption Claims', description: 'Expert support for documenting and processing business interruption insurance claims.' },
   ],
   faqs: [
-    { question: 'How quickly can you mobilize for a large commercial flood?', answer: 'We maintain 24/7 dispatch and can have initial crews on site within 60-90 minutes. For large-loss events requiring multiple crews, we can scale resources within 4-6 hours through our regional partner network. Pre-loss response agreements guarantee priority deployment.' },
-    { question: 'Can you handle a 100,000+ square foot facility?', answer: 'Yes. Our commercial division is equipped for large-loss projects. We maintain relationships with regional and national restoration partners and can scale to any size project. Our largest single project exceeded 500,000 square feet across multiple buildings.' },
+    { question: 'How quickly can you mobilize for a large commercial flood?', answer: 'We maintain 24/7 dispatch and can have initial crews mobilized based on location, site access, weather, and available resources. For large-loss events requiring multiple crews, we coordinate additional resources through our regional response network. Response planning agreements can help define contacts, access points, and response priorities before an event.' },
+    { question: 'Can you handle a 100,000+ square foot facility?', answer: 'Yes. Our commercial division is equipped for large-loss projects. We coordinate with regional and national restoration resources and plan staffing, equipment, and sequencing around the actual size and conditions of the project.' },
     { question: 'What about contaminated floodwater in our facility?', answer: 'We test floodwater to determine contamination levels and classify it per IICRC standards. Category 3 (contaminated) water requires additional safety protocols, PPE, and disposal procedures. For facilities with chemicals, we coordinate with hazmat teams and ensure environmental compliance.' },
     { question: 'How do you handle damaged inventory?', answer: 'We document all damaged inventory with photographs and detailed descriptions for your insurance claim. Salvageable inventory is relocated and protected. Non-salvageable inventory is documented before disposal. We coordinate with your inventory management team to maintain accurate records.' },
     { question: 'Do you handle the insurance claim?', answer: 'We provide complete documentation and work directly with your commercial insurance adjuster. Our estimators are experienced with commercial policy structures and can assist with business interruption, extra expense, and ordinance and law claims in addition to the physical damage claim.' },

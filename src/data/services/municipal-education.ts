@@ -6,16 +6,8 @@ const municipalEducation: ServiceData = {
   tagline: 'Restoration services for government buildings, schools, and public facilities.',
   description:
     'Government buildings, schools, and public facilities serve critical community functions that cannot be interrupted for long. Our municipal restoration team understands procurement requirements, public safety obligations, and the urgency of restoring essential community services.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1580582932707-520aed937b7b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     { name: 'Emergency Procurement Compliance', description: 'We understand government emergency procurement procedures and can provide documentation for emergency declarations that bypass standard bidding requirements.', icon: 'check' },
     { name: 'Student & Staff Safety', description: 'School restoration follows EPA, OSHA, and state education department guidelines for safe learning environments, including lead, asbestos, and air quality protocols.', icon: 'shield-check' },
@@ -31,16 +23,17 @@ const municipalEducation: ServiceData = {
     'Documentation for municipal projects goes beyond standard insurance claims. We provide reports suitable for city council and school board presentations, FEMA Public Assistance applications, state emergency management grant requests, and public records requirements. Our project documentation is designed to withstand public scrutiny and audit, protecting both the facility and the officials responsible for restoration decisions.',
   ],
   stats: [
-    { label: 'Municipal Projects', value: '180+' },
-    { label: 'Schools Restored', value: '75+' },
-    { label: 'FEMA Claims Documented', value: '40+' },
-    { label: 'On-Time for School Year', value: '100%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
-    quote: 'A fire in our elementary school kitchen over spring break threatened to close the school for the rest of the year. Flood Doctor worked around the clock, brought in extra crews, and had the school ready for students in 11 days. They handled the health department inspection, the asbestos testing, and presented to our school board. Outstanding partners.',
-    author: 'Superintendent Dr. Michael Rodriguez',
-    role: 'Westfield Unified School District',
-    imageUrl: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+    quote:
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     { name: 'Commercial Water Damage', description: 'Water damage restoration scaled for large public buildings and school campuses.' },

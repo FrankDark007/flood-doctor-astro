@@ -3,19 +3,11 @@ import type { ServiceData } from './types'
 const structuralDrying: ServiceData = {
   slug: 'structural-drying',
   name: 'Structural Drying',
-  tagline: 'Scientific drying systems that restore your structure to pre-loss moisture levels.',
+  tagline: 'Scientific drying systems that dry affected structural materials to documented target moisture levels.',
   description:
-    'Proper structural drying is the most critical phase of water damage restoration. Our IICRC-certified technicians deploy commercial dehumidifiers, air movers, and injection drying systems with daily psychrometric monitoring to ensure complete moisture removal from every building material.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1581092160562-40aa08e78837?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+    'Proper structural drying is the most critical phase of water damage restoration. Our trained technicians deploy commercial dehumidifiers, air movers, and injection drying systems with daily psychrometric monitoring to ensure complete moisture removal from every building material.',
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Psychrometric Monitoring',
@@ -61,18 +53,17 @@ const structuralDrying: ServiceData = {
     'Every drying project includes daily monitoring with pin-type moisture meters, non-invasive capacitance meters, and thermal imaging. We document readings at mapped grid points throughout the structure, creating a moisture profile that shows exactly how drying is progressing. This data-driven approach ensures we know when your structure has reached its dry standard — typically matching the moisture content of unaffected areas — and prevents both under-drying and unnecessary equipment rental charges.',
   ],
   stats: [
-    { label: 'Drying Projects Completed', value: '4,100+' },
-    { label: 'Equipment Units in Fleet', value: '500+' },
-    { label: 'Avg. Drying Time (Residential)', value: '3-5 days' },
-    { label: 'Walls Saved Without Demo', value: '70%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'After our water heater burst, two other companies told us all the drywall had to come out. Flood Doctor used their injection drying system and saved every wall in our living room and hallway. The moisture readings proved everything was dry. Saved us easily $8,000 in reconstruction.',
-    author: 'Priya Mehta',
-    role: 'Homeowner in Ashburn',
-    imageUrl:
-      'https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {

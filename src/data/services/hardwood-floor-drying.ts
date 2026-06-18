@@ -6,16 +6,8 @@ const hardwoodFloorDrying: ServiceData = {
   tagline: 'Save your hardwood floors — specialized drying that avoids costly replacement.',
   description:
     'Water-damaged hardwood floors can often be saved with rapid, specialized drying techniques. Our floor drying systems use vacuum mats, targeted bottom-up heat, and controlled dehumidification to extract moisture from hardwood without causing the cupping, crowning, and buckling that lead to replacement.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Floor Drying Mat Systems',
@@ -61,18 +53,17 @@ const hardwoodFloorDrying: ServiceData = {
     'Throughout the drying process, we take daily moisture readings at mapped locations across the floor. Wood moisture content must return to within 2% of the home\'s equilibrium moisture content (typically 6-9% in our region) before drying equipment is removed. Rushing this process or stopping too early leads to re-cupping or mold growth beneath the floor. When target moisture is reached, we allow an acclimation period before assessing whether sanding and refinishing are needed — many floors require only light screening and a fresh coat of finish.',
   ],
   stats: [
-    { label: 'Hardwood Floors Saved', value: '1,800+' },
-    { label: 'Salvage Success Rate', value: '82%' },
-    { label: 'Avg. Cost Savings vs. Replace', value: '$12,000+' },
-    { label: 'Avg. Drying Duration', value: '5-8 days' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'Our dishwasher leaked overnight and soaked 800 square feet of Brazilian cherry hardwood. The first company said it all had to come out — a $22,000 replacement. Flood Doctor put down their mat system, and after 6 days of drying, every board laid flat again. We just needed a light sand and recoat. They saved us a fortune.',
-    author: 'Michael Antonopoulos',
-    role: 'Homeowner in Ashburn',
-    imageUrl:
-      'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {

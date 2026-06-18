@@ -6,16 +6,8 @@ const commercialWaterDamage: ServiceData = {
   tagline: 'Large-scale water damage restoration that minimizes business downtime.',
   description:
     'Commercial water damage impacts your revenue, your employees, and your customers. Our commercial division deploys large-loss teams with industrial equipment to extract water, dry structures, and restore operations as quickly as possible.',
-  heroImageUrl:
-    'https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80',
-  logos: [
-    { name: 'IICRC', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg' },
-    { name: 'RIA', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg' },
-    { name: 'EPA Lead-Safe', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg' },
-    { name: 'BBB Accredited', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/laravel-logo-white.svg' },
-    { name: 'State Farm Partner', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg' },
-    { name: 'Allstate Preferred', src: 'https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg' },
-  ],
+  heroImageUrl: '/graphics/water-emergency-pattern.svg',
+  logos: [],
   features: [
     {
       name: 'Rapid Large-Loss Deployment',
@@ -61,18 +53,17 @@ const commercialWaterDamage: ServiceData = {
     'Our project managers coordinate directly with your facilities team, property management, and insurance carrier. We provide daily progress reports with moisture readings, equipment counts, and projected completion dates. For businesses with lease obligations, we document the timeline and scope to support any business interruption claims or tenant-landlord communications.',
   ],
   stats: [
-    { label: 'Commercial Projects', value: '600+' },
-    { label: 'Avg. Business Downtime', value: '<48 hrs' },
-    { label: 'Sq Ft Restored Annually', value: '2M+' },
-    { label: 'Commercial Clients Retained', value: '92%' },
+    { label: 'Emergency Dispatch', value: '24/7' },
+    { label: 'Documentation', value: 'Photos + readings' },
+    { label: 'Scope Review', value: 'On site' },
+    { label: 'Follow-Up', value: 'Included' },
   ],
   testimonial: {
     quote:
-      'A sprinkler head malfunctioned on a Saturday night and flooded three floors of our office building. Flood Doctor had crews on site by midnight and worked through the weekend. By Monday morning, two of the three floors were operational and the third was back online by Wednesday. They saved us hundreds of thousands in business interruption losses.',
-    author: 'Daniel Park',
-    role: 'Facilities Director, Midwest Financial Group',
-    imageUrl:
-      'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+      'The team explained the scope clearly, documented the affected areas, and kept the restoration process organized from emergency response through follow-up.',
+    author: 'Property Owner',
+    role: 'Restoration Customer',
+    imageUrl: '/graphics/flood-doctor-mark.svg',
   },
   relatedFeatures: [
     {
@@ -119,17 +110,17 @@ const commercialWaterDamage: ServiceData = {
     {
       question: 'Do you work with commercial insurance carriers?',
       answer:
-        'Yes, we work with all major commercial insurance carriers and understand the differences between commercial and residential claims. We provide Xactimate estimates, detailed documentation, and can participate in insurance adjuster meetings to support your claim.',
+        'We understand commercial claim documentation and provide estimates, photos, moisture readings, and progress notes. We can participate in adjuster meetings as requested to explain the restoration scope.',
     },
     {
       question: 'How fast can you respond to a commercial emergency?',
       answer:
-        'We maintain 24/7 commercial dispatch with crews that can mobilize within 60-90 minutes. For large-loss events, we can scale to multiple crews within hours. We also offer priority response agreements for businesses that want guaranteed response times.',
+        'We maintain 24/7 commercial dispatch and mobilize crews based on location, site access, weather, and available resources. For large-loss events, we can coordinate additional crews through our response network.',
     },
     {
       question: 'Can you help with business continuity planning?',
       answer:
-        'Yes. We offer pre-loss planning services including facility assessments, emergency response plans, and priority response agreements. Having a plan in place before an emergency reduces response time and helps maintain business operations during unexpected water damage events.',
+        'Yes. We offer documented planning services including facility assessments, emergency response plans, and priority response agreements. Having a plan in place before an emergency reduces response time and helps maintain business operations during unexpected water damage events.',
     },
   ],
 }
