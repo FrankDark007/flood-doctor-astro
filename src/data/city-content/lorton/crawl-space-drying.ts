@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Lorton Valley',
       'Lorton Station',
     ],
-    responseTime: 'Same-day crawl space inspections throughout Lorton. Emergency flooding response within 45 minutes from Laurel Hill to Mason Neck via our I-95 corridor positioned crews.',
+    responseTime: 'Same-day crawl space inspections throughout Lorton. Emergency flooding response as soon as crews are available from Laurel Hill to Mason Neck via our I-95 corridor positioned crews.',
   },
   faqs: [
     {

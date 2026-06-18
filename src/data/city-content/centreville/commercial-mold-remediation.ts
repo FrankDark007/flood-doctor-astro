@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Mold Remediation in Centreville, VA | Flood Doctor',
-    description: `Centreville commercial mold remediation. IICRC-certified for offices, retail & commercial properties. Minimal business disruption. Call (877) 497-0007.`,
+    description: `Centreville commercial mold remediation. trained for workspaces, retail & commercial properties. Minimal business disruption. Call (877) 497-0007.`,
   },
   h1: 'Commercial Mold Remediation in Centreville, Virginia',
   introSection: {
     headline: `Professional Commercial Mold Remediation for Centreville Properties`,
     paragraphs: [
-      `Mold in a Centreville commercial property creates health complaints, tenant disputes, potential liability, and regulatory concerns that demand professional remediation. When employees report musty odors in your Route 28 office suite, when tenants discover mold behind fixtures in your Fair Lakes retail space, or when a building-wide assessment reveals mold in your HVAC system, you need certified commercial remediation that meets industry standards and produces documentation that protects your interests.
+      `Mold in a Centreville commercial property creates health complaints, tenant disputes, potential liability, and regulatory concerns that demand professional remediation. When employees report musty odors in your Route 28 workspace suite, when tenants discover mold behind fixtures in your Fair Lakes retail space, or when a building-wide assessment reveals mold in your HVAC system, you need trained commercial remediation that meets industry standards and produces documentation that protects your interests.
 
-Flood Doctor provides commercial mold remediation throughout Centreville with IICRC-certified protocols designed for occupied commercial environments. We've remediated mold in office buildings along Route 28, retail spaces in the Fair Lakes area, and community facilities throughout Centreville. Our commercial approach minimizes business disruption while meeting the documentation standards that property managers, tenants, and insurance carriers require.`,
+Flood Doctor provides commercial mold remediation throughout Centreville with trained protocols designed for occupied commercial environments. Our commercial approach minimizes business disruption while meeting the documentation standards that property managers, tenants, and insurance carriers require.`,
       `Commercial mold remediation differs from residential work in scale, documentation, and stakeholder management. Commercial buildings have complex HVAC systems that spread mold spores across multiple zones. Multi-tenant properties require coordination between property management, affected tenants, and multiple insurance carriers. Employees and customers expect professional-grade air quality that meets OSHA standards. Property managers need documentation that demonstrates due diligence and protects against liability.
 
 Our commercial team provides all of this—professional remediation that meets industry standards, minimal-disruption scheduling, multi-stakeholder coordination, and comprehensive documentation. Independent air quality testing before and after remediation provides objective verification of success.`,
@@ -21,7 +21,7 @@ Our commercial team provides all of this—professional remediation that meets i
   processSteps: [
     {
       title: 'Commercial Mold Assessment',
-      description: `Our IICRC-certified inspector assesses visible mold, tests for hidden mold using moisture meters and air sampling, and evaluates the HVAC system for contamination. Assessment includes all affected tenant spaces and common areas.`,
+      description: `Our trained inspector assesses visible mold, tests for hidden mold using moisture meters and air sampling, and evaluates the HVAC system for contamination. Assessment includes all affected tenant spaces and common areas.`,
       timeframe: 'Days 1-2',
     },
     {
@@ -58,7 +58,7 @@ Our commercial team provides all of this—professional remediation that meets i
     },
     {
       title: 'Tenant Health Complaints',
-      description: `Mold-related health complaints from commercial tenants require documented response. Inadequate response can lead to lease disputes, liability claims, and regulatory involvement—especially in office environments with sensitive occupants.`,
+      description: `Mold-related health complaints from commercial tenants require documented response. Inadequate response can lead to lease disputes, liability claims, and regulatory involvement—especially in workspace environments with sensitive occupants.`,
       solution: 'Our professional assessment and remediation with independent clearance testing provides documented evidence of due diligence. This protects property managers against health-related claims.',
     },
     {
@@ -164,6 +164,6 @@ Our commercial team provides all of this—professional remediation that meets i
   ],
   finalCTA: {
     headline: 'Mold in Your Centreville Commercial Property?',
-    paragraph: `Protect your tenants, your property, and your liability position. Call (877) 497-0007 for professional commercial mold assessment and IICRC-certified remediation with independent clearance testing.`,
+    paragraph: `Protect your tenants, your property, and your liability position. Call (877) 497-0007 for professional commercial mold assessment and trained remediation with independent clearance testing.`,
   },
 }

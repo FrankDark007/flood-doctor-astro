@@ -130,7 +130,7 @@ Our project directors understand this community dimension. They communicate with
       'West Falls Church',
       'South Falls Church',
     ],
-    responseTime: 'Emergency stabilization within 60 minutes to Falls Church commercial properties. Full large loss mobilization including historic preservation assessment scales within 12-24 hours for community-scale events.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {

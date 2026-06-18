@@ -9,9 +9,9 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Restoring Centreville's Industrial and Warehouse Properties`,
     paragraphs: [
-      `Industrial facilities in the Centreville area—warehouses, distribution centers, data centers, and light manufacturing along the Route 28 and I-66 corridors—face water damage and restoration challenges that differ fundamentally from commercial office or residential work. Concrete slab flooding across warehouse-scale floor plates, fire suppression system activation over rack-stored inventory, HVAC failures in climate-controlled facilities, and roof leaks affecting stored goods all require industrial-scale response with the equipment capacity and crew size to match.
+      `Industrial facilities in the Centreville area—warehouses, distribution centers, data centers, and light manufacturing along the Route 28 and I-66 corridors—face water damage and restoration challenges that differ fundamentally from commercial workspace or residential work. Concrete slab flooding across warehouse-scale floor plates, fire suppression system activation over rack-stored inventory, HVAC failures in climate-controlled facilities, and roof leaks affecting stored goods all require industrial-scale response with the equipment capacity and crew size to match.
 
-Flood Doctor provides industrial facility restoration throughout Centreville with the commercial extraction capacity, structural drying equipment, and project management these properties require. We've managed warehouse flood events, data center water intrusion, and industrial fire losses in the Route 28 corridor.`,
+Flood Doctor provides industrial facility restoration throughout Centreville with the commercial extraction capacity, structural drying equipment, and project management these properties require. `,
       `Industrial restoration is driven by different priorities. Inventory preservation often exceeds structural damage in value. Equipment downtime has cascading supply chain impacts. Climate-controlled environments require precise environmental restoration. Large open floor plates need drying strategies different from compartmentalized commercial spaces. Safety protocols for industrial environments add additional coordination requirements.
 
 Our industrial team understands these priorities and structures the restoration accordingly—prioritizing inventory protection, minimizing operational downtime, and restoring environmental controls to specification.`,
@@ -22,7 +22,7 @@ Our industrial team understands these priorities and structures the restoration 
     {
       title: 'Industrial Emergency Response',
       description: `Call (877) 497-0007 for industrial-scale response. We dispatch equipment and crew capacity matched to industrial floor plates—multiple extraction units, commercial drying equipment, and project management for large facilities.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Facility Assessment & Prioritization',
@@ -63,7 +63,7 @@ Our industrial team understands these priorities and structures the restoration 
     },
     {
       title: 'Heavy Equipment and Machinery',
-      description: `Industrial facilities contain equipment too large to move during restoration. Water-exposed machinery may require manufacturer-certified assessment before restart, and improper drying can cause corrosion and electrical failure.`,
+      description: `Industrial facilities contain equipment too large to move during restoration. Water-exposed machinery may require manufacturer-trained assessment before restart, and improper drying can cause corrosion and electrical failure.`,
       solution: 'We work around immovable equipment, providing targeted drying and corrosion prevention. We coordinate with equipment manufacturers on assessment and clearance for restart when required.',
     },
     {
@@ -134,7 +134,7 @@ Our industrial team understands these priorities and structures the restoration 
     },
     {
       question: 'Our fire suppression system activated accidentally. How fast can you respond?',
-      answer: `Within 30 minutes. Fire suppression floods are time-critical—every minute water sits on inventory increases losses. We mobilize immediately with high-volume extraction for rapid water removal.`,
+      answer: `As soon as crews are available. Fire suppression floods are time-critical—every minute water sits on inventory increases losses. We mobilize immediately with high-volume extraction for rapid water removal.`,
     },
     {
       question: 'Can you restore our climate-controlled environment?',

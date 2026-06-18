@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Sewage Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling sewage cleanup specialists. Storm sewer backups in Sterling Park, septic failures near Potomac Falls. Biohazard-certified crews. 30-min response. Call (877) 497-0007.`,
+    description: `Sterling sewage cleanup specialists. Storm sewer backups in Sterling Park, septic failures near Potomac Falls. Biohazard-trained crews. rapid response. Call (877) 497-0007.`,
   },
   h1: `Sewage Cleanup Services in Sterling, Virginia`,
   introSection: {
-    headline: `Biohazard-Certified Sewage Cleanup for Sterling Homes`,
+    headline: `Biohazard-Trained Sewage Cleanup for Sterling Homes`,
     paragraphs: [
       `Sewage backup in a Sterling home is a health emergency that demands immediate professional response. Sterling Park and Old Sterling neighborhoods rely on aging municipal sewer connections from the 1970s-80s that back up during heavy storms when the system is overwhelmed. Properties near Sugarland Run face additional risk from high water tables that push groundwater into compromised sewer lines. Some older Sterling properties near Potomac Falls still use septic systems that fail during saturated soil conditions. Every sewage event introduces dangerous bacteria, viruses, and parasites into your living space.
 
-Flood Doctor deploys biohazard-certified crews to Sterling sewage emergencies within 30 minutes. We have cleaned up storm sewer backups in Sterling Park basements, addressed septic overflows in rural Sterling properties, and restored Cascades townhomes after shared sewer line failures. Our crews arrive with full PPE, EPA-registered antimicrobials, and the contamination protocols that protect your family from sewage-borne pathogens.`,
+Flood Doctor deploys biohazard-trained crews to Sterling sewage emergencies as soon as crews are available. Our crews arrive with full PPE, EPA-registered antimicrobials, and the contamination protocols that protect your family from sewage-borne pathogens.`,
       `Sewage cleanup in Sterling goes far beyond water extraction. Category 3 black water—the classification for all sewage events—requires removal of contaminated porous materials, antimicrobial treatment of structural surfaces, and air quality verification before the space is safe for occupancy. In Sterling Park's older homes, sewage can penetrate deeply into porous plaster, aging insulation, and deteriorated subfloor materials. In Cascades and Countryside townhomes, sewage from a shared lateral can contaminate multiple units through connected plumbing systems near the Sterling Community Center area.
 
-Our IICRC-certified technicians follow strict ANSI/IICRC S500 protocols for every Sterling sewage event. We do not cut corners on contamination—every affected material is either properly decontaminated or safely removed. Your family's health is not something we compromise on for cost savings.`,
+Our trained technicians follow strict ANSI/industry-standard S500 protocols for every Sterling sewage event. We do not cut corners on contamination—every affected material is either properly decontaminated or safely removed. Your family's health is not something we compromise on for cost savings.`,
     ],
     localContext: `Sterling's aging municipal sewer infrastructure, remaining septic systems, and townhome shared laterals create sewage backup risks across neighborhoods that demand biohazard-level response protocols.`,
   },
   processSteps: [
     {
       title: `Emergency Biohazard Response`,
-      description: `Call (877) 497-0007 immediately. Do not enter the contaminated area. Our biohazard-certified crews reach Sterling Park, Cascades, Countryside, and all Sterling neighborhoods within 30 minutes with full PPE and contamination control equipment.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 immediately. Do not enter the contaminated area. Our biohazard-trained crews reach Sterling Park, Cascades, Countryside, and all Sterling neighborhoods as soon as crews are available with full PPE and contamination control equipment.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Contamination Zone Establishment`,
@@ -74,7 +74,7 @@ Our IICRC-certified technicians follow strict ANSI/IICRC S500 protocols for ever
   ],
   pricingSection: {
     headline: `Sewage Cleanup Costs in Sterling`,
-    intro: `Sewage cleanup costs in Sterling reflect the biohazard nature of the work—specialized PPE, EPA-registered antimicrobials, contaminated material disposal, and clearance testing. These costs are typically covered by homeowners insurance under sewer backup coverage. We provide detailed estimates and handle direct billing with all carriers.`,
+    intro: `Sewage cleanup costs in Sterling reflect the biohazard nature of the work—specialized PPE, EPA-registered antimicrobials, contaminated material disposal, and clearance testing. These costs are typically covered by homeowners insurance under sewer backup coverage. We provide detailed estimates and handle carrier coordination with all carriers.`,
     factors: [
       `Contamination extent—how much of your Sterling home was affected by sewage contact`,
       `Material type and age—older porous materials in Sterling Park homes may require more extensive removal`,
@@ -82,7 +82,7 @@ Our IICRC-certified technicians follow strict ANSI/IICRC S500 protocols for ever
       `Sewage source—municipal backup, septic failure, and drain line breaks each have different cleanup scopes`,
       `Clearance testing requirements—verification that contamination has been eliminated adds testing costs`,
     ],
-    cta: `Call (877) 497-0007 for immediate sewage emergency response. Do not attempt to clean sewage yourself—the health risks are serious and our biohazard-certified crews are equipped to handle it safely.`,
+    cta: `Call (877) 497-0007 for immediate sewage emergency response. Do not attempt to clean sewage yourself—the health risks are serious and our biohazard-trained crews are equipped to handle it safely.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -102,7 +102,7 @@ Our IICRC-certified technicians follow strict ANSI/IICRC S500 protocols for ever
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute biohazard response to all Sterling neighborhoods. Sewage emergencies receive priority dispatch due to health risks. Call (877) 497-0007 immediately.`,
+    responseTime: `rapid biohazard response to all Sterling neighborhoods. Sewage emergencies receive priority dispatch due to health risks. Call (877) 497-0007 immediately.`,
   },
   faqs: [
     {
@@ -111,7 +111,7 @@ Our IICRC-certified technicians follow strict ANSI/IICRC S500 protocols for ever
     },
     {
       question: `Does homeowners insurance cover sewage cleanup?`,
-      answer: `Most policies cover sewer backup if you have that specific endorsement. We help verify your coverage and handle direct billing. Our documentation clearly identifies the sewage event and cleanup scope to support your claim.`,
+      answer: `Most policies cover sewer backup if you have that specific endorsement. We help verify your coverage and handle carrier coordination. Our documentation clearly identifies the sewage event and cleanup scope to support your claim.`,
     },
     {
       question: `Can I clean up a small sewage backup myself?`,
@@ -136,6 +136,6 @@ Our IICRC-certified technicians follow strict ANSI/IICRC S500 protocols for ever
   ],
   finalCTA: {
     headline: `Sewage Emergency in Your Sterling Home?`,
-    paragraph: `Do not enter the contaminated area. Our biohazard-certified crews are positioned along the Route 7 corridor for 30-minute response to all Sterling neighborhoods. We handle the dangerous cleanup so you do not have to.`,
+    paragraph: `Do not enter the contaminated area. Our biohazard-trained crews are positioned along the Route 7 corridor for rapid response to all Sterling neighborhoods. We handle the dangerous cleanup so you do not have to.`,
   },
 }

@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has dried Lorton homes across this full range — responding to sump pump failures in Laurel Hill basements where builder-grade drainage systems proved insufficient for the local water table, managing tidal intrusion at Mason Neck waterfront properties where storm surge pushed river water into ground-level living spaces, and addressing chronic crawlspace moisture in wooded Gunston properties where canopy shade prevented natural evaporation and created persistent conditions that led to structural concerns in floor systems above.`,
       `Structural drying science in Lorton adapts to both construction era and environmental context. Newer Laurel Hill homes feature engineered lumber, OSB subfloor, and spray foam insulation — materials that trap moisture differently than traditional framing and require specific extraction methods. Waterfront properties along the Occoquan face brackish water intrusion carrying sediment and organic matter that complicates standard freshwater drying protocols. Wooded-lot homes with crawlspace foundations need vapor barrier assessment and ventilation evaluation alongside acute moisture extraction.
 
-Our IICRC-certified technicians develop property-specific drying plans: monitoring OSB moisture content in newer construction to prevent swelling beyond recovery, managing sediment-contaminated waterfront drying with appropriate extraction and antimicrobial protocols, and deploying crawlspace-specific equipment that addresses both the immediate moisture event and the chronic conditions that contributed to it. Documentation supports builder warranty claims for newer homes, standard insurance for established properties, and flood insurance for waterfront events.`,
+Our trained technicians develop property-specific drying plans: monitoring OSB moisture content in newer construction to prevent swelling beyond recovery, managing sediment-contaminated waterfront drying with appropriate extraction and antimicrobial protocols, and deploying crawlspace-specific equipment that addresses both the immediate moisture event and the chronic conditions that contributed to it. Documentation supports builder warranty claims for newer homes, standard insurance for established properties, and flood insurance for waterfront events.`,
     ],
     localContext: `Lorton's mix of new Laurel Hill development, Occoquan waterfront properties, and established wooded-lot homes creates drying challenges spanning modern construction materials, tidal water intrusion, and chronic crawlspace moisture conditions.`,
   },
   processSteps: [
     {
       title: 'Rapid Lorton Response',
-      description: `Call (877) 497-0007 and our crews reach Laurel Hill, Mason Neck, Occoquan, South County, and Gunston within 30 minutes. Emergency extraction begins immediately — protecting engineered flooring in newer homes, managing sediment in waterfront properties, and accessing crawlspaces in wooded-lot homes.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews reach Laurel Hill, Mason Neck, Occoquan, South County, and Gunston as soon as crews are available. Emergency extraction begins immediately — protecting engineered flooring in newer homes, managing sediment in waterfront properties, and accessing crawlspaces in wooded-lot homes.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Construction-Aware Assessment',
@@ -131,7 +131,7 @@ Our IICRC-certified technicians develop property-specific drying plans: monitori
       'Pohick',
       'Halley Farm',
     ],
-    responseTime: '30-minute emergency response throughout Lorton. Our crews reach Laurel Hill, Mason Neck, Occoquan, and South County from nearby positioning along the I-95 corridor.',
+    responseTime: 'rapid emergency response throughout Lorton. Our crews reach Laurel Hill, Mason Neck, Occoquan, and South County from nearby positioning along the I-95 corridor.',
   },
   faqs: [
     {
@@ -165,6 +165,6 @@ Our IICRC-certified technicians develop property-specific drying plans: monitori
   ],
   finalCTA: {
     headline: 'Water Damage in Your Lorton Home?',
-    paragraph: 'Whether you live in a new Laurel Hill development, a Mason Neck waterfront property, or an established wooded-lot home, water damage needs immediate professional response matched to your construction type. Our Lorton team arrives within 30 minutes. Call (877) 497-0007.',
+    paragraph: 'Whether you live in a new Laurel Hill development, a Mason Neck waterfront property, or an established wooded-lot home, water damage needs immediate professional response matched to your construction type. Our Lorton team arrives as soon as crews are available. Call (877) 497-0007.',
   },
 }

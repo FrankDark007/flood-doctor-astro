@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling commercial sewage cleanup. Biohazard-certified crews for Route 7 businesses, restaurants & shopping centers. Health department compliance. Call (877) 497-0007.`,
+    description: `Sterling commercial sewage cleanup. Biohazard-trained crews for Route 7 businesses, restaurants & shopping centers. Health department compliance. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Sterling, Virginia`,
   introSection: {
-    headline: `Biohazard-Certified Commercial Sewage Response for Sterling Businesses`,
+    headline: `Biohazard-Trained Commercial Sewage Response for Sterling Businesses`,
     paragraphs: [
-      `Sewage contamination in a Sterling commercial property creates a health emergency and a business crisis simultaneously. Route 7 corridor restaurants face immediate health department closure. Retail spaces in Sterling Park shopping centers cannot allow customer entry during contamination. Professional offices near the Sterling Community Center require complete decontamination before employee reoccupation. Sterling's established commercial infrastructure—with sewer connections from the 1980s-90s—is reaching the age where line failures and backups become increasingly common.
+      `Sewage contamination in a Sterling commercial property creates a health emergency and a business crisis simultaneously. Route 7 corridor restaurants face immediate health department closure. Retail spaces in Sterling Park shopping centers cannot allow customer entry during contamination. Professional workspaces near the Sterling Community Center require thorough decontamination before employee reoccupation. Sterling's established commercial infrastructure—with sewer connections from the 1980s-90s—is reaching the age where line failures and backups become increasingly common.
 
-Flood Doctor deploys biohazard-certified commercial crews to Sterling sewage emergencies with the speed and capacity these situations demand. We have decontaminated Route 7 restaurants after sewer line backups, cleaned Sterling shopping center retail spaces following shared lateral failures, and restored professional offices after sewage intrusion through aging building connections near Claude Moore Park. Our commercial sewage response addresses both the biohazard emergency and the business closure timeline.`,
+Flood Doctor deploys biohazard-trained commercial crews to Sterling sewage emergencies with the speed and capacity these situations demand. We have decontaminated Route 7 restaurants after sewer line backups, cleaned Sterling shopping center retail spaces following shared lateral failures, and restored professional workspaces after sewage intrusion through aging building connections near Claude Moore Park. Our commercial sewage response addresses both the biohazard emergency and the business closure timeline.`,
       `Commercial sewage cleanup in Sterling requires compliance with health department regulations, OSHA worker protection standards, and environmental disposal requirements that exceed residential protocols. Food service businesses face inspection requirements before reopening. Multi-tenant buildings need contamination containment that prevents cross-contamination between tenant spaces through shared HVAC and plumbing infrastructure. Near Algonkian Regional Park and throughout the Route 7 corridor, Sterling businesses need restoration partners who understand both the biohazard science and the regulatory landscape.
 
 Our commercial crews carry full PPE, EPA-registered antimicrobials, and the documentation systems that support health department clearance, OSHA compliance, and commercial insurance claims. We work after hours and on weekends to minimize the business closure that sewage events demand.`,
@@ -21,8 +21,8 @@ Our commercial crews carry full PPE, EPA-registered antimicrobials, and the docu
   processSteps: [
     {
       title: `Emergency Commercial Biohazard Response`,
-      description: `Call (877) 497-0007 for immediate commercial sewage response. Our biohazard-certified crews reach Route 7 businesses and all Sterling commercial properties within 30 minutes. We arrive with full PPE, containment materials, and commercial-scale decontamination equipment.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate commercial sewage response. Our biohazard-trained crews reach Route 7 businesses and all Sterling commercial properties as soon as crews are available. We arrive with full PPE, containment materials, and commercial-scale decontamination equipment.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Contamination Containment & Tenant Protection`,
@@ -54,16 +54,16 @@ Our commercial crews carry full PPE, EPA-registered antimicrobials, and the docu
     {
       title: `Restaurant and Food Service Sewage Events`,
       description: `Sterling's commercial corridors include numerous restaurants where sewage contamination triggers immediate health department closure. Kitchen grease trap failures, floor drain backups, and sewer line blockages introduce contamination into food preparation and service areas.`,
-      solution: `We follow food-safe decontamination protocols specifically designed for commercial kitchen environments. Our documentation supports health department reinspection and reopening certification. We prioritize restaurant restoration to minimize the revenue-critical closure period.`,
+      solution: `We follow food-safe decontamination protocols specifically designed for commercial kitchen environments. Our documentation supports health department reinspection and reopening qualification. We prioritize restaurant restoration to minimize the revenue-critical closure period.`,
     },
     {
       title: `Multi-Tenant Building Sewage Spread`,
-      description: `Sterling strip centers and office buildings share sewer laterals and internal plumbing. A blockage or failure affects multiple tenant spaces simultaneously, creating coordinated biohazard situations across several businesses.`,
+      description: `Sterling strip centers and workspace buildings share sewer laterals and internal plumbing. A blockage or failure affects multiple tenant spaces simultaneously, creating coordinated biohazard situations across several businesses.`,
       solution: `We manage multi-tenant sewage events as coordinated projects with per-unit containment, decontamination, and documentation. Communication with property management ensures all affected spaces are addressed and building-wide infrastructure issues are identified for repair.`,
     },
     {
       title: `Commercial Equipment and Inventory Contamination`,
-      description: `Sewage contact with commercial equipment, retail inventory, and office furnishings creates contamination that may require professional decontamination or disposal. Food service equipment exposed to sewage requires thorough decontamination before reuse.`,
+      description: `Sewage contact with commercial equipment, retail inventory, and workspace furnishings creates contamination that may require professional decontamination or disposal. Food service equipment exposed to sewage requires thorough decontamination before reuse.`,
       solution: `We assess commercial contents for contamination level, decontaminate salvageable equipment with appropriate protocols, and document non-salvageable items for insurance replacement claims. Food service equipment receives food-safe antimicrobial treatment and verification.`,
     },
   ],
@@ -77,7 +77,7 @@ Our commercial crews carry full PPE, EPA-registered antimicrobials, and the docu
       `Equipment and inventory contamination—commercial contents decontamination or documentation for replacement`,
       `Clearance testing requirements—environmental verification for regulatory compliance and business reopening`,
     ],
-    cta: `Call (877) 497-0007 for immediate commercial sewage response. Do not allow employees or customers into contaminated spaces. Our biohazard-certified crews handle the cleanup safely and efficiently.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage response. Do not allow employees or customers into contaminated spaces. Our biohazard-trained crews handle the cleanup safely and efficiently.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our commercial crews carry full PPE, EPA-registered antimicrobials, and the docu
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute biohazard response to all Sterling commercial properties. Sewage emergencies receive priority dispatch. Call (877) 497-0007 immediately.`,
+    responseTime: `rapid biohazard response to all Sterling commercial properties. Sewage emergencies receive priority dispatch. Call (877) 497-0007 immediately.`,
   },
   faqs: [
     {
@@ -114,7 +114,7 @@ Our commercial crews carry full PPE, EPA-registered antimicrobials, and the docu
     },
     {
       question: `How long will my business be closed after a sewage event?`,
-      answer: `Timeline depends on contamination extent and business type. Restaurants typically close 3-5 days for decontamination and health department reinspection. Offices may reopen in 2-3 days. We provide realistic timelines and work after hours to minimize closure.`,
+      answer: `Timeline depends on contamination extent and business type. Restaurants typically close 3-5 days for decontamination and health department reinspection. Workspaces may reopen in 2-3 days. We provide realistic timelines and work after hours to minimize closure.`,
     },
     {
       question: `Is sewage cleanup dangerous for my employees?`,
@@ -130,6 +130,6 @@ Our commercial crews carry full PPE, EPA-registered antimicrobials, and the docu
   ],
   finalCTA: {
     headline: `Sewage Emergency at Your Sterling Business?`,
-    paragraph: `Do not enter contaminated spaces. Our biohazard-certified commercial crews handle sewage cleanup with the safety protocols, regulatory compliance, and business-focused urgency your Sterling property demands. Call now for 30-minute response.`,
+    paragraph: `Do not enter contaminated spaces. Our biohazard-trained commercial crews handle sewage cleanup with the safety protocols, regulatory compliance, and business-focused urgency your Sterling property demands. Call now for rapid response.`,
   },
 }

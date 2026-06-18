@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Sterling, VA | Flood Doctor`,
-    description: `Sterling commercial mold remediation. Route 7 offices, shopping centers & commercial buildings. IICRC-certified, business-focused scheduling. Call (877) 497-0007.`,
+    description: `Sterling commercial mold remediation. Route 7 workspaces, shopping centers & commercial buildings. trained, business-focused scheduling. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Sterling, Virginia`,
   introSection: {
     headline: `Professional Commercial Mold Remediation for Sterling Businesses`,
     paragraphs: [
-      `Mold in Sterling commercial properties threatens both building integrity and occupant health—creating liability exposure for property owners and business disruption for tenants. Route 7 corridor office buildings with aging HVAC systems develop mold in ductwork and air handlers. Sterling Park shopping centers with flat roofs accumulate hidden mold from chronic slow leaks. Multi-tenant commercial buildings near the Sterling Community Center face mold in shared wall cavities where condensation from temperature differentials between tenant spaces feeds fungal growth.
+      `Mold in Sterling commercial properties threatens both building integrity and occupant health—creating liability exposure for property owners and business disruption for tenants. Route 7 corridor workspace buildings with aging HVAC systems develop mold in ductwork and air handlers. Sterling Park shopping centers with flat roofs accumulate hidden mold from chronic slow leaks. Multi-tenant commercial buildings near the Sterling Community Center face mold in shared wall cavities where condensation from temperature differentials between tenant spaces feeds fungal growth.
 
-Flood Doctor's commercial mold remediation division serves Sterling business properties with IICRC S520-compliant protocols and business-focused scheduling. We have remediated mold in Route 7 professional offices where HVAC contamination affected air quality across entire suites, treated shopping center retail spaces where chronic roof leaks fed hidden mold growth, and managed multi-tenant remediation in Sterling commercial buildings where shared infrastructure spread contamination between tenant spaces near Algonkian Regional Park.`,
+Flood Doctor's commercial mold remediation division serves Sterling business properties with industry-standard S520-compliant protocols and business-focused scheduling. `,
       `Commercial mold remediation in Sterling requires balancing thorough treatment with business continuity. Tenant relocation is expensive. Business closure loses revenue. Employee concern about air quality requires clear communication and verifiable results. Our commercial approach uses negative air containment, HEPA filtration, and after-hours scheduling to remediate mold while minimizing the operational impact on Sterling businesses.
 
 We coordinate with third-party industrial hygienists for pre-remediation assessment and post-remediation clearance testing—maintaining the independence between testing and remediation that protects property owners from liability and provides employees with credible air quality verification.`,
@@ -36,7 +36,7 @@ We coordinate with third-party industrial hygienists for pre-remediation assessm
     },
     {
       title: `Commercial-Scale Remediation`,
-      description: `Contaminated materials are removed or treated according to the IICRC S520 protocol. Commercial ceiling tiles, wall systems, insulation, and HVAC components are addressed systematically. After-hours scheduling minimizes business disruption in occupied buildings.`,
+      description: `Contaminated materials are removed or treated according to the industry-standard S520 protocol. Commercial ceiling tiles, wall systems, insulation, and HVAC components are addressed systematically. After-hours scheduling minimizes business disruption in occupied buildings.`,
       timeframe: `Days 5-12`,
     },
     {
@@ -47,8 +47,8 @@ We coordinate with third-party industrial hygienists for pre-remediation assessm
   ],
   localChallenges: [
     {
-      title: `HVAC-Distributed Mold in Route 7 Office Buildings`,
-      description: `Aging commercial HVAC systems in Sterling office buildings develop mold on evaporator coils, drain pans, and inside ductwork. The HVAC system then distributes mold spores throughout the building, creating building-wide air quality problems from localized contamination sources.`,
+      title: `HVAC-Distributed Mold in Route 7 Workspace Buildings`,
+      description: `Aging commercial HVAC systems in Sterling workspace buildings develop mold on evaporator coils, drain pans, and inside ductwork. The HVAC system then distributes mold spores throughout the building, creating building-wide air quality problems from localized contamination sources.`,
       solution: `We remediate HVAC components as part of the building mold project—cleaning coils, treating drain pans, and addressing contaminated ductwork sections. This prevents the HVAC system from recontaminating remediated areas when it resumes operation.`,
     },
     {
@@ -64,7 +64,7 @@ We coordinate with third-party industrial hygienists for pre-remediation assessm
     {
       title: `Employee Health Concerns and Liability`,
       description: `Commercial mold triggers employee health complaints and potential liability for property owners who knew or should have known about the condition. Clear documentation, professional remediation, and independent verification protect property owners while addressing employee concerns.`,
-      solution: `Third-party assessment and clearance testing provide independent documentation of conditions and remediation success. Our IICRC-certified remediation creates a defensible record of professional treatment. Post-remediation air quality reports give employees documented evidence of safe conditions.`,
+      solution: `Third-party assessment and clearance testing provide independent documentation of conditions and remediation success. Our trained remediation creates a defensible record of professional treatment. Post-remediation air quality reports give employees documented evidence of safe conditions.`,
     },
   ],
   pricingSection: {
@@ -131,6 +131,6 @@ We coordinate with third-party industrial hygienists for pre-remediation assessm
   ],
   finalCTA: {
     headline: `Mold in Your Sterling Commercial Property?`,
-    paragraph: `Commercial mold affects tenant health, property value, and owner liability. Professional assessment and IICRC-certified remediation protect all parties. Contact us for coordination with independent testing and business-sensitive remediation scheduling.`,
+    paragraph: `Commercial mold affects tenant health, property value, and owner liability. Professional assessment and trained remediation protect all parties. Contact us for coordination with independent testing and business-sensitive remediation scheduling.`,
   },
 }

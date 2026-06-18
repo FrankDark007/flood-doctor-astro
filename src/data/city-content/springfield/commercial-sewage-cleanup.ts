@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Springfield, VA | Flood Doctor`,
-    description: `Springfield's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for I-95 corridor businesses, military-adjacent properties, and commercial centers. Call (877) 497-0007.`,
+    description: `Springfield's local commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for I-95 corridor businesses, military-adjacent properties, and commercial centers. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Springfield, Virginia`,
   introSection: {
     headline: `I-95 Corridor Sewage Remediation for Springfield Commercial Properties`,
     paragraphs: [
       `Sewage contamination at a Springfield commercial property disrupts the I-95 corridor businesses and military-connected community that defines this area. A main line backup at Springfield Town Center floods ground-floor retail during weekend shopping hours. A sewer lateral failure at a West Springfield strip mall sends Category 3 waste into multiple family-serving businesses. A grease trap overflow at a Franconia restaurant triggers health department closure during the busiest service period. A storm drain backup near Lake Accotink pushes contaminated water into commercial properties along the creek corridor. Springfield's commercial operators—many serving military families from Fort Belvoir—need practical, efficient sewage remediation that gets their businesses reopened without unnecessary complexity or delay. Flood Doctor provides OSHA-compliant commercial sewage cleanup calibrated for Springfield's family-focused, military-connected commercial environment.`,
-      `Springfield's commercial sewage vulnerabilities reflect the area's 1960s-80s development era and geographic position. Sewer laterals serving strip malls and commercial centers in West Springfield, Franconia, and Kingstowne have exceeded their design lifespan, with aging joints and root intrusion causing unpredictable backups. The Lake Accotink watershed creates seasonal flooding risk for commercial properties along the drainage corridor. Military-connected businesses near Fort Belvoir face unique urgency when sewage disrupts services used by military families. Springfield Town Center's modern redevelopment connects to older surrounding infrastructure, creating junction points where new and aging systems meet. Our hazmat crews have decontaminated Springfield restaurants, retail centers, medical offices, and military-adjacent commercial facilities—each with efficient, documentation-complete service.`,
+      `Springfield's commercial sewage vulnerabilities reflect the area's 1960s-80s development era and geographic position. Sewer laterals serving strip malls and commercial centers in West Springfield, Franconia, and Kingstowne have exceeded their design lifespan, with aging joints and root intrusion causing unpredictable backups. The Lake Accotink watershed creates seasonal flooding risk for commercial properties along the drainage corridor. Military-connected businesses near Fort Belvoir face unique urgency when sewage disrupts services used by military families. Springfield Town Center's modern redevelopment connects to older surrounding infrastructure, creating junction points where new and aging systems meet. Our hazmat crews have decontaminated Springfield restaurants, retail centers, medical workspaces, and military-adjacent commercial facilities—each with efficient, documentation-complete service.`,
     ],
     localContext: `Springfield's I-95 corridor position, military community connection, and 1960s-80s commercial infrastructure create sewage remediation demands that require practical efficiency, military-friendly urgency, and aging-infrastructure expertise.`,
   },
   processSteps: [
     {
       title: `Rapid I-95 Corridor Response`,
-      description: `Call (877) 497-0007 and our hazmat team deploys to your Springfield commercial property. We reach Springfield Town Center, West Springfield, Franconia, Kingstowne, and Newington commercial areas within our response guarantee via I-95/395 corridor positioning.`,
-      timeframe: `Within 60 minutes`,
+      description: `Call (877) 497-0007 and our hazmat team deploys to your Springfield commercial property. We reach Springfield Town Center, West Springfield, Franconia, Kingstowne, and Newington commercial areas within our response service commitment via I-95/395 corridor positioning.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Practical Assessment`,
-      description: `Our safety officer evaluates contamination scope and maps affected areas efficiently. For restaurants, health department coordination begins immediately. For multi-tenant strip malls, we assess shared plumbing infrastructure. For military-adjacent businesses, we note any expedited service requirements.`,
+      description: `Our safety workspacer evaluates contamination scope and maps affected areas efficiently. For restaurants, health department coordination begins immediately. For multi-tenant strip malls, we assess shared plumbing infrastructure. For military-adjacent businesses, we note any expedited service requirements.`,
       timeframe: `Hours 1-2`,
     },
     {
@@ -95,7 +95,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Springfield`,
-    intro: `Springfield commercial sewage cleanup costs depend on contamination scope, building age, and regulatory requirements. We provide straightforward estimates and handle direct billing with commercial insurance carriers. Our practical approach delivers thorough remediation without unnecessary cost.`,
+    intro: `Springfield commercial sewage cleanup costs depend on contamination scope, building age, and regulatory requirements. We provide straightforward estimates and handle carrier coordination with commercial insurance carriers. Our practical approach delivers thorough remediation without unnecessary cost.`,
     factors: [
       `Building age—1960s-80s strip malls with aging infrastructure may have more extensive contamination patterns than newer construction`,
       `Affected tenants—multi-tenant strip mall events require separate containment and documentation for each business`,
@@ -122,7 +122,7 @@ export const content: CityServiceContent = {
       `Lake Accotink Area`,
       `Van Dorn Street Corridor`,
     ],
-    responseTime: `60-minute emergency response to all Springfield commercial properties. Our hazmat crews are positioned along the I-95/395 corridor for rapid deployment to West Springfield, Franconia, Kingstowne, and all Springfield commercial areas.`,
+    responseTime: `prompt emergency response to all Springfield commercial properties. Our hazmat crews are positioned along the I-95/395 corridor for rapid deployment to West Springfield, Franconia, Kingstowne, and all Springfield commercial areas.`,
   },
   faqs: [
     {
@@ -143,7 +143,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Does commercial insurance cover sewage backup?`,
-      answer: `Most commercial policies cover sewer backup damage. We handle direct billing and provide efficient documentation—scope of work, clearance testing, waste manifests—that supports timely claim processing.`,
+      answer: `Most commercial policies cover sewer backup damage. We handle carrier coordination and provide efficient documentation—scope of work, clearance testing, waste manifests—that supports timely claim processing.`,
     },
     {
       question: `Can you work after hours to minimize business disruption?`,

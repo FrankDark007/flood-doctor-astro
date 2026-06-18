@@ -27,7 +27,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Mold and Damaged Material Removal',
-      description: `Mold-affected insulation, vapor barriers, and other damaged materials are removed following IICRC protocols. Structural elements—floor joists, subfloors, and sill plates—are treated with antimicrobials.`,
+      description: `Mold-affected insulation, vapor barriers, and other damaged materials are removed following industry-standard protocols. Structural elements—floor joists, subfloors, and sill plates—are treated with antimicrobials.`,
       timeframe: 'Days 2-3',
     },
     {
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `Same-day crawl space inspections for all Chantilly neighborhoods. Emergency crawl space flooding receives 30-minute response.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {

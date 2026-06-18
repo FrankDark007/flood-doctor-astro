@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Lorton, VA | Flood Doctor`,
-    description: `Lorton commercial sewage cleanup experts. OSHA-compliant biohazard remediation for commercial properties near Occoquan waterfront and Laurel Hill. Call (877) 497-0007.`,
+    description: `Lorton commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for commercial properties near Occoquan waterfront and Laurel Hill. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Lorton, Virginia`,
   introSection: {
     headline: `Professional Sewage Remediation for Lorton Commercial Properties`,
     paragraphs: [
       `Sewage contamination at a Lorton commercial property requires immediate professional biohazard response. Whether a sewer main has backed up into a Laurel Hill retail center, a grease trap overflow has shut down an Occoquan waterfront restaurant, or storm surge has overwhelmed sanitary systems at a South County commercial facility, the consequences are severe. Health department citations, employee exposure liability, tenant displacement, and business interruption demand a restoration partner that combines biohazard expertise with rapid deployment. Flood Doctor delivers OSHA-compliant commercial sewage remediation to Lorton businesses with the urgency and documentation that property managers and building owners require.`,
-      `Lorton commercial properties face sewage challenges driven by the area's rapid growth and waterfront proximity. New development in Laurel Hill has expanded impervious surfaces that overwhelm municipal sewer capacity during heavy rain events, causing backups into commercial spaces. Properties near the Occoquan waterfront experience tidal influences that compound sanitary sewer pressure during storms. South County and Gunston area commercial facilities contend with infrastructure that is still catching up to the pace of development. Our IICRC-certified technicians have remediated sewage contamination in Lorton shopping centers, restaurants, office buildings, and mixed-use developments—each project completed under strict OSHA bloodborne pathogen standards with full regulatory documentation.`,
+      `Lorton commercial properties face sewage challenges driven by the area's rapid growth and waterfront proximity. New development in Laurel Hill has expanded impervious surfaces that overwhelm municipal sewer capacity during heavy rain events, causing backups into commercial spaces. Properties near the Occoquan waterfront experience tidal influences that compound sanitary sewer pressure during storms. South County and Gunston area commercial facilities contend with infrastructure that is still catching up to the pace of development. Our trained technicians have remediated sewage contamination in Lorton shopping centers, restaurants, workspace buildings, and mixed-use developments—each project completed under strict OSHA bloodborne pathogen standards with full regulatory documentation.`,
     ],
     localContext: `Lorton's rapid commercial growth, Occoquan waterfront proximity, and developing infrastructure create sewage contamination risks that require experienced biohazard remediation paired with efficient project management to minimize business disruption.`,
   },
@@ -18,11 +18,11 @@ export const content: CityServiceContent = {
     {
       title: `Emergency Response and Containment`,
       description: `When you contact our Lorton commercial line at (877) 497-0007, we dispatch a hazmat-equipped crew immediately. Our teams reach Laurel Hill, Occoquan, and South County commercial properties within our rapid response window, establishing restricted access zones and containment barriers before contamination spreads to unaffected tenant spaces.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Biohazard Assessment and Safety Protocols`,
-      description: `Our safety officer evaluates contamination scope using ATP surface testing and visual assessment. We classify the sewage category, identify affected zones, and implement OSHA-compliant PPE requirements. For multi-tenant Lorton properties, we coordinate tenant notification and evacuation of affected areas while maintaining access to uncontaminated sections.`,
+      description: `Our safety workspacer evaluates contamination scope using ATP surface testing and visual assessment. We classify the sewage category, identify affected zones, and implement OSHA-compliant PPE requirements. For multi-tenant Lorton properties, we coordinate tenant notification and evacuation of affected areas while maintaining access to uncontaminated sections.`,
       timeframe: `Hours 1-2`,
     },
     {
@@ -129,12 +129,12 @@ export const content: CityServiceContent = {
       `Lorton VRE Area`,
       `Workhouse District`,
     ],
-    responseTime: `60-minute emergency response to all Lorton commercial properties. Our hazmat-equipped crews are positioned throughout southern Fairfax County for immediate dispatch to Laurel Hill, Occoquan, and all Lorton business districts.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
       question: `How quickly can you respond to a commercial sewage emergency in Lorton?`,
-      answer: `We maintain 24/7 commercial dispatch and typically reach Lorton commercial properties within 60 minutes. Our hazmat-equipped crews are pre-positioned throughout southern Fairfax County. Call (877) 497-0007 immediately—sewage contamination worsens rapidly and early response reduces both health risk and remediation cost.`,
+      answer: `We maintain 24/7 commercial dispatch and typically reach Lorton commercial properties as soon as safely possible minutes. Our hazmat-equipped crews are pre-positioned throughout southern Fairfax County. Call (877) 497-0007 immediately—sewage contamination worsens rapidly and early response reduces both health risk and remediation cost.`,
     },
     {
       question: `Do Lorton commercial properties need health department clearance after sewage cleanup?`,
@@ -146,11 +146,11 @@ export const content: CityServiceContent = {
     },
     {
       question: `What documentation do we receive after commercial sewage remediation?`,
-      answer: `You receive a comprehensive package including scope of work documentation, waste disposal manifests with chain-of-custody records, ATP clearance test results, compliance certifications, and a detailed project summary. This protects against employee liability claims, satisfies insurance requirements, and provides documentation for tenant communications.`,
+      answer: `You receive a comprehensive package including scope of work documentation, waste disposal manifests with chain-of-custody records, ATP clearance test results, compliance qualifications, and a detailed project summary. This protects against employee liability claims, satisfies insurance requirements, and provides documentation for tenant communications.`,
     },
     {
       question: `Does commercial insurance cover sewage cleanup in Lorton?`,
-      answer: `Most commercial property policies cover sewage backup damage, though coverage limits vary. We handle direct billing with all major commercial carriers and provide the detailed documentation adjusters require. For multi-tenant properties, we allocate costs by affected suite to simplify insurance processing.`,
+      answer: `Most commercial property policies cover sewage backup damage, though coverage limits vary. We handle carrier coordination with commercial carriers and provide the detailed documentation adjusters require. For multi-tenant properties, we allocate costs by affected suite to simplify insurance processing.`,
     },
     {
       question: `Are Occoquan waterfront properties at higher risk for sewage events?`,

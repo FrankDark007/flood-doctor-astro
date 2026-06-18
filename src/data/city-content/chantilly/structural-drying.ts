@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Chantilly, VA | Flood Doctor',
-    description: `Professional structural drying for Chantilly homes. IICRC-certified technicians serving South Riding, Chantilly Highlands & Westfields. Modern material specialists. Call (877) 497-0007.`,
+    description: `Professional structural drying for Chantilly homes. trained technicians serving South Riding, Chantilly Highlands & Westfields. Modern material specialists. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Chantilly, Virginia',
   introSection: {
     headline: `Precision Structural Drying for Chantilly's Modern Homes`,
     paragraphs: [
-      `Structural drying in Chantilly requires expertise in modern building materials that behave differently when saturated than the materials in older Northern Virginia homes. OSB subfloors in South Riding colonials absorb water deep into their layers. Spray foam insulation in Chantilly Highlands homes traps moisture against sheathing. Engineered hardwood in Franklin Glen townhomes delaminates if dried too aggressively or too slowly. Flood Doctor's IICRC-certified structural drying technicians understand these materials intimately—because they dry them throughout Chantilly every week.`,
+      `Structural drying in Chantilly requires expertise in modern building materials that behave differently when saturated than the materials in older Northern Virginia homes. OSB subfloors in South Riding colonials absorb water deep into their layers. Spray foam insulation in Chantilly Highlands homes traps moisture against sheathing. Engineered hardwood in Franklin Glen townhomes delaminates if dried too aggressively or too slowly. Flood Doctor's trained structural drying technicians understand these materials intimately—because they dry them throughout Chantilly every week.`,
       `Proper structural drying is the most critical phase of water damage restoration. Extract the water, and your Chantilly home looks dry within hours. But moisture hidden inside wall cavities, beneath flooring, and within insulation continues causing damage invisibly—warping framing, corroding fasteners, and creating mold colonies that threaten your family's health. Our precision drying approach uses thermal imaging, daily moisture mapping, and calibrated equipment placement to reach every moisture pocket in properties from Poplar Tree Estates to Fair Oaks and the Westfields area.`,
     ],
     localContext: `Chantilly's predominantly newer construction near the Dulles corridor uses modern materials—OSB, spray foam, engineered flooring, and composite trim—that require precision drying protocols distinct from traditional wood-frame construction.`,
@@ -37,7 +37,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Dry Standard Verification',
-      description: `Final readings confirm all structural materials have reached the IICRC S500 dry standard. For Chantilly's modern materials, this means specific moisture content thresholds for OSB, engineered wood, and composite materials—not just a generic dryness test.`,
+      description: `Final readings confirm all structural materials have reached the industry-standard S500 dry standard. For Chantilly's modern materials, this means specific moisture content thresholds for OSB, engineered wood, and composite materials—not just a generic dryness test.`,
       timeframe: 'Day 4-7',
     },
   ],
@@ -50,7 +50,7 @@ export const content: CityServiceContent = {
     {
       title: 'Spray Foam Insulation Moisture Trapping',
       description: `Closed-cell spray foam insulation in Chantilly Highlands and South Riding homes creates a vapor barrier that traps moisture between the foam and exterior sheathing. Standard drying cannot reach this trapped moisture.`,
-      solution: `We identify spray foam locations using thermal imaging and create targeted ventilation paths when necessary. For extensive trapped moisture, controlled removal of foam sections allows complete drying before replacement.`,
+      solution: `We identify spray foam locations using thermal imaging and create targeted ventilation paths when necessary. For extensive trapped moisture, controlled removal of foam sections allows documented drying before replacement.`,
     },
     {
       title: 'Large Open Floor Plan Drying Challenges',
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `Same-day structural drying deployment to all Chantilly neighborhoods. Emergency water damage calls receive 30-minute response with drying equipment onboard.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Need Professional Structural Drying in Chantilly?',
-    paragraph: `Hidden moisture causes more long-term damage than the initial water event. Our IICRC-certified technicians use precision equipment and daily monitoring to dry every structural element in your Chantilly home completely. Call (877) 497-0007 for a free moisture assessment.`,
+    paragraph: `Hidden moisture causes more long-term damage than the initial water event. Our trained technicians use precision equipment and daily monitoring to dry every structural element in your Chantilly home completely. Call (877) 497-0007 for a free moisture assessment.`,
   },
 }

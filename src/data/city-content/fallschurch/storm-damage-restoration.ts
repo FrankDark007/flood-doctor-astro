@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church storm damage restoration. 30-min response for Seven Corners, Lake Barcroft & Falls Church City. Roof leaks, tree damage & flooding. Call (877) 497-0007.',
+    description: 'Falls Church storm damage restoration. rapid response for Seven Corners, Lake Barcroft & Falls Church City. Roof leaks, tree damage & flooding. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Falls Church, Virginia',
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When storms hit Falls Church, damage follows quickly. Summer thunderstorms bring high winds that send tree limbs through roofs. Intense rainfall overwhelms aging drainage systems, flooding basements. Hail damages shingles, creating leaks that may not appear for days. Whether you're in Falls Church City, Seven Corners, Lake Barcroft, or anywhere in the area, storm damage requires immediate response to prevent water damage from compounding structural damage.
 
-Flood Doctor responds to Falls Church storm emergencies 24/7. We've tarped roofs in Pimmit Hills after wind damage allowed rain into attics. We've extracted water from Seven Corners basements when storm drains backed up. We've dried Lake Barcroft homes after sustained winds blew rain through normally weather-tight windows. Our crews are positioned throughout Falls Church for rapid response when storms strike.`,
+Flood Doctor responds to Falls Church storm emergencies 24/7. Our crews are positioned throughout Falls Church for rapid response when storms strike.`,
       `Falls Church's mature tree canopy—one of the area's most attractive features—creates significant storm vulnerability. Hundred-year-old oaks in Falls Church City can drop massive limbs during storms. Trees weakened by previous damage, disease, or age topple onto roofs, decks, and into structures. Even without direct tree strikes, falling branches damage gutters, break windows, and create entry points for water.
 
 Our storm damage response addresses the immediate emergency and prevents secondary damage. We tarp damaged roofs to stop ongoing water intrusion. We extract water that's already entered. We board broken windows and secure compromised openings. Then we begin the drying process that prevents mold and structural damage in the days following the storm.`,
     ],
-    localContext: `Falls Church's mature trees and summer storm patterns create regular storm damage events. From tree strikes to drainage flooding to roof damage, we've restored Falls Church homes after every type of storm situation.`,
+    localContext: `Falls Church's mature trees and summer storm patterns create regular storm damage events. From tree strikes to drainage flooding to roof damage, our services address common storm situations affecting Falls Church homes.`,
   },
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: 'When you call (877) 497-0007 during or after a storm, we dispatch immediately. Our crews reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills within 30 minutes—even during active storm conditions when safe to travel.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007 during or after a storm, we dispatch immediately. Our crews reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills as soon as crews are available—even during active storm conditions when safe to travel.',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Damage Assessment & Safety Check',
@@ -137,7 +137,7 @@ Our storm damage response addresses the immediate emergency and prevents seconda
       'Madison Manor',
       'Sleepy Hollow',
     ],
-    responseTime: '30-minute response to all Falls Church neighborhoods. We deploy during active storms when conditions allow safe travel.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
@@ -146,7 +146,7 @@ Our storm damage response addresses the immediate emergency and prevents seconda
     },
     {
       question: 'Will my homeowners insurance cover storm damage?',
-      answer: 'Yes. Storm damage—including wind damage, tree strikes, hail damage, and resulting water damage—is typically covered by standard homeowners policies. We document everything thoroughly and handle direct billing with most carriers.',
+      answer: 'Yes. Storm damage—including wind damage, tree strikes, hail damage, and resulting water damage—is typically covered by standard homeowners policies. We document everything thoroughly and handle carrier coordination with most carriers.',
     },
     {
       question: 'A tree fell on my house—who removes it?',
@@ -172,6 +172,6 @@ Our storm damage response addresses the immediate emergency and prevents seconda
   ],
   finalCTA: {
     headline: 'Storm Damage in Falls Church?',
-    paragraph: `Every hour of exposure worsens storm damage. Our crews are positioned throughout Falls Church for immediate 30-minute response. We'll secure your home, extract water, and begin drying—then handle your insurance claim. Call now.`,
+    paragraph: `Every hour of exposure worsens storm damage. Our crews are positioned throughout Falls Church for immediate rapid response. We'll secure your home, extract water, and begin drying—then handle your insurance claim. Call now.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Structural Drying Services in Sterling, VA | Flood Doctor`,
-    description: `Sterling structural drying specialists. IICRC-certified drying for 1970s-80s Sterling Park homes and modern Cascades construction. Scientific monitoring. Call (877) 497-0007.`,
+    description: `Sterling structural drying specialists. trained drying for 1970s-80s Sterling Park homes and modern Cascades construction. Scientific monitoring. Call (877) 497-0007.`,
   },
   h1: `Structural Drying Services in Sterling, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Structural drying in Sterling is not a one-approach job. Your 1978 Sterling Park split-level has plaster walls, dimensional lumber framing, and hardwood subfloors that absorb and release moisture at specific rates. A 1995 Cascades townhome uses drywall, engineered lumber, and OSB sheathing with completely different drying characteristics. Sugarland Run creek-adjacent homes may have chronically elevated moisture in foundation systems that complicates any drying effort. Each construction era and neighborhood context demands calibrated drying parameters—not a generic blast of fans and dehumidifiers.
 
-Flood Doctor provides IICRC S500-compliant structural drying across Sterling. We have dried flood-damaged Sterling Park basements where plaster walls required controlled drying to prevent cracking, managed townhome drying projects in Cascades where shared walls needed coordinated attention, and restored Countryside homes after supply line failures. Our scientific approach measures, calculates, and monitors—because proper drying is the difference between a restored home and a mold problem six months later.`,
+Flood Doctor provides industry-standard S500-compliant structural drying across Sterling. Our scientific approach measures, calculates, and monitors—because proper drying is the difference between a restored home and a mold problem six months later.`,
       `The science of structural drying involves psychrometric calculations that account for temperature, humidity, material moisture content, and air volume. In Sterling homes, these calculations must account for the specific materials present. Plaster-and-lath walls in Sterling Park homes hold moisture differently than drywall in Potomac Falls developments. Older fiberglass insulation in established neighborhoods absorbs water and creates a moisture reservoir that modern spray foam does not. Even the floor plan matters—Sterling Park's compartmentalized rooms require different air mover placement than open-concept Cascades living spaces.
 
 Our technicians calculate the specific evaporation rate, grain depression, and equipment needs for your Sterling home. We monitor daily, adjust equipment positioning, and document progress with readings that verify drying is proceeding on schedule. This scientific approach costs the same as guesswork—but it actually works.`,
@@ -53,13 +53,13 @@ Our technicians calculate the specific evaporation rate, grain depression, and e
     },
     {
       title: `Shared Wall Drying in Cascades Townhomes`,
-      description: `Townhome shared walls in Cascades and Countryside present drying challenges because moisture migrates through common structures. Drying one side of a shared wall while the adjacent unit remains wet creates incomplete drying and potential mold growth inside the wall cavity.`,
+      description: `Townhome shared walls in Cascades and Countryside present drying challenges because moisture migrates through common structures. Drying one side of a shared wall while the adjacent unit remains wet creates indocumented drying and potential mold growth inside the wall cavity.`,
       solution: `We coordinate with adjacent unit owners and HOA management to ensure both sides of shared walls are addressed. When access to adjacent units is limited, we use Injectidry systems and monitoring equipment to dry the shared cavity from the accessible side.`,
     },
     {
       title: `Chronic Foundation Moisture Near Sugarland Run`,
       description: `Properties near Sugarland Run creek have elevated ambient foundation moisture that complicates structural drying. Standard drying targets may not be achievable without addressing the chronic moisture source, and drying equipment may run indefinitely without reaching standard equilibrium levels.`,
-      solution: `We establish site-specific drying targets based on pre-loss moisture conditions rather than generic standards. For creek-adjacent Sterling properties, we determine the realistic dry standard for your specific foundation situation and document accordingly for insurance purposes.`,
+      solution: `We establish site-specific drying targets based on stable moisture conditions rather than generic standards. For creek-adjacent Sterling properties, we determine the realistic dry standard for your specific foundation situation and document accordingly for insurance purposes.`,
     },
     {
       title: `Multi-Level Drying in Split-Level Homes`,
@@ -148,15 +148,15 @@ Our technicians calculate the specific evaporation rate, grain depression, and e
     },
     {
       question: `Do you coordinate drying with my Cascades townhome neighbors?`,
-      answer: `Yes. Shared wall drying requires attention to both sides. We work with adjacent owners and HOA management to ensure complete drying of shared structural elements. When adjacent access is limited, we use cavity drying systems from the accessible side.`,
+      answer: `Yes. Shared wall drying requires attention to both sides. We work with adjacent owners and HOA management to ensure documented drying of shared structural elements. When adjacent access is limited, we use cavity drying systems from the accessible side.`,
     },
     {
       question: `How do I know the drying actually worked?`,
-      answer: `We provide documented final readings at every mapped monitoring point, showing that materials have reached their equilibrium moisture content. This documentation proves complete drying for both insurance purposes and your peace of mind.`,
+      answer: `We provide documented final readings at every mapped monitoring point, showing that materials have reached their equilibrium moisture content. This documentation proves documented drying for both insurance purposes and your peace of mind.`,
     },
     {
       question: `Is structural drying covered by insurance?`,
-      answer: `Yes. Structural drying is a standard component of water damage restoration covered by homeowners insurance. We handle direct billing and provide the daily documentation that supports your claim.`,
+      answer: `Yes. Structural drying is a standard component of water damage restoration covered by homeowners insurance. We handle carrier coordination and provide the daily documentation that supports your claim.`,
     },
   ],
   relatedBlogSlugs: [

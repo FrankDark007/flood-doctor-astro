@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Springfield, VA | Flood Doctor',
-    description: `Springfield's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in West Springfield, Franconia & Kingstowne. Call (877) 497-0007.`,
+    description: `Springfield's trained environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in West Springfield, Franconia & Kingstowne. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Springfield, Virginia',
   introSection: {
-    headline: `Certified Environmental Testing for Springfield Family Neighborhoods`,
+    headline: `Trained Environmental Testing for Springfield Family Neighborhoods`,
     paragraphs: [
       `Springfield\`s 1960s-1980s housing stock—split-levels in West Springfield, colonials in Rolling Valley, ramblers in Franconia, and townhomes in Kingstowne—sits squarely in the construction era when asbestos and lead-based paint were standard building materials. Split-level homes near Lake Accotink contain asbestos in basement floor tiles, pipe insulation, duct tape, and textured ceiling finishes. Colonials in West Springfield built before 1978 harbor lead paint on original trim, doors, windows, and exterior surfaces. Newington townhomes from the 1980s present shared-wall dynamics where water intrusion in one unit drives mold contamination into adjacent homes. Flood Doctor provides AIHA-accredited environmental testing—asbestos identification, lead paint analysis, mold assessment, and indoor air quality evaluation—calibrated for Springfield\`s family neighborhoods where protecting children and families from hazardous exposure during renovation projects is the primary concern.`,
-      `Our certified inspectors have sampled asbestos in original 9x9 floor tiles in West Springfield split-level basements, identified lead paint on 1970s exterior siding near Springfield Town Center, and quantified elevated mold concentrations in Franconia basements where older sewer infrastructure backups created Category 3 contamination conditions. Properties near Lake Accotink face seasonal flooding that introduces contaminated water into below-grade spaces. Military families near Fort Belvoir managing government housing water damage claims require environmental documentation meeting federal facility standards. Whether you are renovating a 1970s split-level, investigating mold after basement flooding, or conducting pre-purchase testing before buying near the Franconia-Springfield Metro, our testing produces the laboratory data that protects your family and satisfies regulatory requirements.`,
+      `Our trained inspectors have sampled asbestos in original 9x9 floor tiles in West Springfield split-level basements, identified lead paint on 1970s exterior siding near Springfield Town Center, and quantified elevated mold concentrations in Franconia basements where older sewer infrastructure backups created Category 3 contamination conditions. Properties near Lake Accotink face seasonal flooding that introduces contaminated water into below-grade spaces. Military families near Fort Belvoir managing government housing water damage claims require environmental documentation meeting federal facility standards. Whether you are renovating a 1970s split-level, investigating mold after basement flooding, or conducting pre-purchase testing before buying near the Franconia-Springfield Metro, our testing produces the laboratory data that protects your family and satisfies regulatory requirements.`,
     ],
     localContext: `Springfield\`s I-95 corridor family neighborhoods concentrate 1960s-1980s housing with legacy asbestos and lead paint, compounded by Lake Accotink flooding risk and aging infrastructure that creates recurring environmental contamination events.`,
   },
   processSteps: [
     {
       title: 'Property Assessment and Family Safety Scoping',
-      description: `Our certified inspector evaluates your Springfield home against construction date, material types, renovation scope, and family occupancy—particularly the presence of children under six, who face the highest risk from lead dust exposure. We identify suspect materials and prioritize testing based on both renovation plans and immediate family health protection.`,
+      description: `Our trained inspector evaluates your Springfield home against construction date, material types, renovation scope, and family occupancy—particularly the presence of children under six, who face the highest risk from lead dust exposure. We identify suspect materials and prioritize testing based on both renovation plans and immediate family health protection.`,
       timeframe: 'Hours 1-2',
     },
     {
@@ -69,7 +69,7 @@ export const content: CityServiceContent = {
     },
   ],
   equipmentSection: {
-    headline: 'Certified Environmental Testing Equipment for Springfield Homes',
+    headline: 'Trained Environmental Testing Equipment for Springfield Homes',
     equipment: [
       {
         name: 'Niton XL3t XRF Analyzer',
@@ -166,6 +166,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Protecting Your Springfield Family from Environmental Hazards?',
-    paragraph: `Certified environmental testing identifies asbestos, lead paint, mold, and flood contamination in Springfield\`s family homes. AIHA-accredited laboratory analysis with family-focused reporting and recommendations. Call (877) 497-0007 for a consultation.`,
+    paragraph: `Trained environmental testing identifies asbestos, lead paint, mold, and flood contamination in Springfield\`s family homes. AIHA-accredited laboratory analysis with family-focused reporting and recommendations. Call (877) 497-0007 for a consultation.`,
   },
 }

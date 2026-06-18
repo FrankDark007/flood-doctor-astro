@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Precision Structural Drying for Leesburg's Diverse Architecture`,
     paragraphs: [
       `Structural drying in Leesburg demands a nuanced approach that few restoration companies can provide. The county seat's building stock spans three centuries — from dry-laid stone foundations and lime plaster walls in the Historic District to engineered lumber and modern insulation in Village at Leesburg. Each material absorbs, holds, and releases moisture differently, requiring customized drying strategies that balance speed with material preservation.`,
-      `Flood Doctor's IICRC-certified structural drying technicians bring both the science and the local knowledge required for Leesburg properties. We use psychrometric calculations, daily moisture monitoring, and adaptive equipment placement to achieve complete drying while protecting the integrity of every building material — whether it is a 200-year-old heart pine beam near Edwards Ferry or a modern LVP floor in Lansdowne.`,
+      `Flood Doctor's trained structural drying technicians bring both the science and the local knowledge required for Leesburg properties. We use psychrometric calculations, daily moisture monitoring, and adaptive equipment placement to achieve documented drying while protecting the integrity of every building material — whether it is a 200-year-old heart pine beam near Edwards Ferry or a modern LVP floor in Lansdowne.`,
     ],
     localContext: `Leesburg's humid summers and variable winter conditions complicate structural drying, requiring precise environmental control and extended monitoring, particularly in dense historic construction that retains moisture longer than modern materials.`,
   },
@@ -106,12 +106,12 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `Same-day structural drying setup for most Leesburg properties, with emergency deployment available within 60 minutes for active water damage situations.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
       question: `How long does structural drying take in a Leesburg home?`,
-      answer: `Modern drywall construction typically dries in 3-5 days. Historic stone and plaster homes in the Leesburg Historic District may require 5-10 days for complete drying. We monitor daily and adjust equipment as needed.`,
+      answer: `Modern drywall construction typically dries in 3-5 days. Historic stone and plaster homes in the Leesburg Historic District may require 5-10 days for documented drying. We monitor daily and adjust equipment as needed.`,
     },
     {
       question: `Can you dry my historic plaster walls without removing them?`,
@@ -127,7 +127,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `What happens if structural drying is not done properly?`,
-      answer: `Incomplete drying leads to mold growth, wood rot, and structural deterioration. In Leesburg's historic homes, trapped moisture can destroy irreplaceable plaster, rot timber framing, and accelerate stone mortar degradation.`,
+      answer: `Indocumented drying leads to mold growth, wood rot, and structural deterioration. In Leesburg's historic homes, trapped moisture can destroy irreplaceable plaster, rot timber framing, and accelerate stone mortar degradation.`,
     },
     {
       question: `Do you handle structural drying for large Lansdowne estates?`,

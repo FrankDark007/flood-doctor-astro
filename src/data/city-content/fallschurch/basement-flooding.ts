@@ -3,31 +3,31 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church basement flooding experts. 30-min response for Seven Corners, Lake Barcroft & Falls Church City. Protecting finished basements. Call (877) 497-0007.',
+    description: 'Falls Church basement flooding specialists. rapid response for Seven Corners, Lake Barcroft & Falls Church City. Protecting finished basements. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Cleanup in Falls Church, Virginia',
   introSection: {
     headline: 'Expert Basement Flood Response for Falls Church Homes',
     paragraphs: [
-      `A flooded basement in Falls Church isn't just an inconvenience—it's a threat to your home's foundation, your finished living space, and everything you've stored below grade. Whether you're in a 1950s Seven Corners colonial with a rec room and home office downstairs, a Lake Barcroft waterfront property with a walkout basement, or a Falls Church City home where the basement houses your HVAC system and water heater, rapid response makes the difference between salvage and total loss.
+      `A flooded basement in Falls Church isn't just an inconvenience—it's a threat to your home's foundation, your finished living space, and everything you've stored below grade. Whether you're in a 1950s Seven Corners colonial with a rec room and home workspace downstairs, a Lake Barcroft waterfront property with a walkout basement, or a Falls Church City home where the basement houses your HVAC system and water heater, rapid response makes the difference between salvage and total loss.
 
-Flood Doctor has pumped water from Falls Church basements for nearly two decades. We know that Baileys Crossroads homes often have older sump systems that fail during summer storms. We understand that Lake Barcroft's high water table creates unique basement challenges. We've seen how Pimmit Hills basements flood when legacy drainage systems can't handle intense rainfall. This isn't theoretical knowledge—it's experience from hundreds of Falls Church basement emergencies.`,
+We know that Baileys Crossroads homes often have older sump systems that fail during summer storms. We understand that Lake Barcroft's high water table creates unique basement challenges. Pimmit Hills basements can flood when legacy drainage systems can't handle intense rainfall. `,
       `Falls Church basements face challenges that generic restoration companies don't understand. The clay soil throughout the area expands when wet, creating hydrostatic pressure against foundation walls. Older homes have foundation drainage systems that predate modern engineering—or no drainage systems at all. Lake Barcroft waterfront properties contend with water tables that rise dramatically during wet seasons. And Falls Church's summer thunderstorms can dump inches of rain in hours, overwhelming even well-maintained systems.
 
-Our IICRC-certified teams arrive prepared for Falls Church basements specifically. We bring commercial extraction equipment, industrial dehumidifiers, and the expertise to protect finished spaces—whether that's your Seven Corners game room, your Pimmit Hills home gym, or your Lake Barcroft in-law suite. Fast, thorough, and documented for your insurance claim.`,
+Our trained teams arrive prepared for Falls Church basements specifically. We bring commercial extraction equipment, industrial dehumidifiers, and the expertise to protect finished spaces—whether that's your Seven Corners game room, your Pimmit Hills home gym, or your Lake Barcroft in-law suite. Fast, thorough, and documented for your insurance claim.`,
     ],
-    localContext: `Falls Church's 1940s-1970s housing stock means many basements were finished decades ago with materials that are now vulnerable. From paneled rec rooms to carpeted family spaces, we've restored every type of Falls Church basement.`,
+    localContext: `Falls Church's 1940s-1970s housing stock means many basements were finished decades ago with materials that are now vulnerable. From paneled rec rooms to carpeted family spaces, our services address common Falls Church basement.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Dispatch',
-      description: 'When you call (877) 497-0007 about basement flooding, we dispatch immediately from our Falls Church facility. Our crews reach Seven Corners, Lake Barcroft, Falls Church City, Baileys Crossroads, and Pimmit Hills within 30 minutes—guaranteed.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007 about basement flooding, we dispatch immediately from our Falls Church facility. Our crews reach Seven Corners, Lake Barcroft, Falls Church City, Baileys Crossroads, and Pimmit Hills as soon as crews are available—documented.',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Safety Assessment & Source Control',
       description: 'Before entering standing water, we ensure electrical safety and identify the water source. In Falls Church basements, sources range from sump pump failure to foundation seepage to sewer backup. We stop ongoing water entry before extraction begins.',
-      timeframe: 'First 30 minutes on site',
+      timeframe: 'First as soon as crews are available on site',
     },
     {
       title: 'Rapid Water Extraction',
@@ -104,7 +104,7 @@ Our IICRC-certified teams arrive prepared for Falls Church basements specificall
       },
       {
         name: 'Moisture Meters & Thermal Cameras',
-        purpose: 'Verify complete drying in all materials—concrete, wood framing, drywall, insulation—before equipment removal',
+        purpose: 'Verify documented drying in all materials—concrete, wood framing, drywall, insulation—before equipment removal',
         brand: 'FLIR',
       },
     ],
@@ -112,7 +112,7 @@ Our IICRC-certified teams arrive prepared for Falls Church basements specificall
   },
   pricingSection: {
     headline: 'Basement Flooding Cleanup Costs in Falls Church',
-    intro: 'Falls Church basement flooding costs depend on water depth, basement size, and whether the space is finished. Contaminated water (sewer backup) requires additional biohazard protocols. We provide free assessments and detailed estimates before work begins. Most homeowners file insurance claims—we handle direct billing.',
+    intro: 'Falls Church basement flooding costs depend on water depth, basement size, and whether the space is finished. Contaminated water (sewer backup) requires additional biohazard protocols. We provide free assessments and detailed estimates before work begins. Most homeowners file insurance claims—we handle carrier coordination.',
     factors: [
       'Water depth and basement square footage—standing water volume determines extraction time',
       'Finished vs. unfinished—finished basements with drywall, carpet, and furniture require more extensive work',
@@ -137,12 +137,12 @@ Our IICRC-certified teams arrive prepared for Falls Church basements specificall
       'Madison Manor',
       'Sleepy Hollow',
     ],
-    responseTime: '30-minute response to all Falls Church neighborhoods. Our crews are pre-positioned for rapid basement flooding response throughout the area.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
       question: 'How quickly can you pump out my flooded basement in Falls Church?',
-      answer: 'We arrive within 30 minutes and begin extraction immediately. With truck-mounted systems removing hundreds of gallons per minute, most Falls Church basements are pumped dry within 2-4 hours. Drying takes longer—typically 4-7 days—but standing water removal happens fast.',
+      answer: 'We arrive as soon as crews are available and begin extraction immediately. With truck-mounted systems removing hundreds of gallons per minute, most Falls Church basements are pumped dry within 2-4 hours. Drying takes longer—typically 4-7 days—but standing water removal happens fast.',
     },
     {
       question: 'Should I try to remove basement water myself before you arrive?',
@@ -162,12 +162,12 @@ Our IICRC-certified teams arrive prepared for Falls Church basements specificall
     },
     {
       question: 'What about mold after basement flooding?',
-      answer: 'Mold growth begins within 24-48 hours on wet materials. Fast extraction and thorough drying prevents most mold. We monitor moisture levels throughout the drying process and verify complete drying before equipment removal. If mold is already present, we provide IICRC-certified remediation.',
+      answer: 'Mold growth begins within 24-48 hours on wet materials. Fast extraction and thorough drying prevents most mold. We monitor moisture levels throughout the drying process and verify documented drying before equipment removal. If mold is already present, we provide trained remediation.',
     },
   ],
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],
   finalCTA: {
     headline: 'Basement Flooding in Falls Church?',
-    paragraph: `Every hour of standing water means more damage. Our crews are positioned throughout Falls Church for immediate 30-minute response. Call now—we'll pump your basement, dry your home, and handle your insurance claim.`,
+    paragraph: `Every hour of standing water means more damage. Our crews are positioned throughout Falls Church for immediate rapid response. Call now—we'll pump your basement, dry your home, and handle your insurance claim.`,
   },
 }

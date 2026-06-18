@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Lorton, VA | Flood Doctor',
-    description: 'Emergency burst pipe repair & water damage restoration in Lorton. Serving Laurel Hill, Mason Neck & Occoquan. 30-min response. Call (877) 497-0007.',
+    description: 'Emergency burst pipe repair & water damage restoration in Lorton. Serving Laurel Hill, Mason Neck & Occoquan. rapid response. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Water Damage Restoration in Lorton, Virginia',
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `A burst pipe in your Lorton home doesn't announce itself politely. Water erupts from walls, ceilings, or basements—gallons per minute flooding your Laurel Hill townhome, your Mason Neck waterfront property, or your established Gunston residence. Whether it's a frozen supply line that ruptures on a January night or a corroded pipe that fails beneath your South County kitchen, burst pipes create immediate emergencies.
 
-Flood Doctor responds to burst pipe emergencies throughout Lorton within 30 minutes. We've shut off water and extracted flooding from Laurel Hill's newest construction, dried water-damaged walls in Occoquan's historic properties, and saved hardwood floors throughout South County after catastrophic pipe failures. When your neighbor's pipe bursts, they call us—because minutes matter.`,
+Flood Doctor responds to burst pipe emergencies throughout Lorton as soon as crews are available. When your neighbor's pipe bursts, they call us—because minutes matter.`,
       `Lorton's burst pipe risks reflect our housing diversity. New Laurel Hill construction features PEX and modern materials that can fail at connection points. Older Gunston and Occoquan properties often have galvanized steel or copper pipes vulnerable to corrosion and freeze damage. Mason Neck homes on wooded lots may have exposed plumbing in crawlspaces where freezing creates winter burst risks.
 
-Our IICRC-certified crews don't just extract water—we coordinate with licensed plumbers to stop the source, then restore the damage. Your Lorton home needs both emergency plumbing response and professional water damage restoration, and we handle the entire process.`,
+Our trained crews don't just extract water—we coordinate with licensed plumbers to stop the source, then restore the damage. Your Lorton home needs both emergency plumbing response and professional water damage restoration, and we handle the entire process.`,
     ],
-    localContext: `Lorton's burst pipe emergencies range from frozen pipes in Occoquan's historic homes to connection failures in Laurel Hill's new construction to corrosion issues in South County's established neighborhoods. We've handled every scenario for years.`,
+    localContext: `Lorton's burst pipe emergencies range from frozen pipes in Occoquan's historic homes to connection failures in Laurel Hill's new construction to corrosion issues in South County's established neighborhoods. `,
   },
   processSteps: [
     {
       title: 'Immediate Response & Water Shutoff',
-      description: 'When you call (877) 497-0007 about a burst pipe, our first question is: Have you shut off the water? If not, we guide you to your main shutoff while dispatching from our South Fairfax County position. We reach Laurel Hill, Mason Neck, Occoquan, and South County within 30 minutes.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007 about a burst pipe, our first question is: Have you shut off the water? If not, we guide you to your main shutoff while dispatching from our South Fairfax County position. We reach Laurel Hill, Mason Neck, Occoquan, and South County as soon as crews are available.',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Damage Assessment & Plumber Coordination',
@@ -74,7 +74,7 @@ Our IICRC-certified crews don't just extract water—we coordinate with licensed
     {
       title: 'Multi-Story Water Migration',
       description: `Burst pipes in Lorton's multi-story homes create vertical water migration—a third-floor pipe burst can damage second-floor walls, first-floor ceilings, and basement rooms as water follows gravity and structural pathways. Each level requires assessment and drying.`,
-      solution: 'We conduct comprehensive multi-level moisture surveys with thermal imaging, ensuring no hidden moisture pockets remain. Each affected level receives appropriate drying equipment and daily monitoring until verification.',
+      solution: 'We conduct comprehensive multi-level moisture surveys with thermal imaging, ensuring clear moisture pockets remain. Each affected level receives appropriate drying equipment and daily monitoring until verification.',
     },
   ],
   equipmentSection: {
@@ -106,7 +106,7 @@ Our IICRC-certified crews don't just extract water—we coordinate with licensed
       },
       {
         name: 'Moisture Meters (Pin & Pinless)',
-        purpose: 'Measure moisture in walls, floors, and ceilings to verify complete drying before reconstruction',
+        purpose: 'Measure moisture in walls, floors, and ceilings to verify documented drying before reconstruction',
       },
       {
         name: 'Hydroxyl Generators',
@@ -118,7 +118,7 @@ Our IICRC-certified crews don't just extract water—we coordinate with licensed
   },
   pricingSection: {
     headline: 'Burst Pipe Restoration Costs in Lorton',
-    intro: 'Burst pipe restoration costs vary based on water volume released, number of levels affected, and materials damaged. We provide free emergency inspections and detailed estimates. Most Lorton homeowners file insurance claims for sudden pipe bursts—and we handle direct billing with all major carriers.',
+    intro: 'Burst pipe restoration costs vary based on water volume released, number of levels affected, and materials damaged. We provide free emergency inspections and detailed estimates. Most Lorton homeowners file insurance claims for sudden pipe bursts—and we handle insurance documentation and carrier coordination.',
     factors: [
       'Water volume and release duration—pipes can release hundreds of gallons before shutoff',
       'Vertical migration extent—multi-story damage increases restoration complexity and cost',
@@ -141,7 +141,7 @@ Our IICRC-certified crews don't just extract water—we coordinate with licensed
       'South Run',
       'Silverbrook',
     ],
-    responseTime: `30-minute emergency response to all Lorton neighborhoods. When pipes burst at 3 AM or during holiday weekends, we're already positioned throughout South Fairfax County for immediate dispatch.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -150,7 +150,7 @@ Our IICRC-certified crews don't just extract water—we coordinate with licensed
     },
     {
       question: 'Can you respond to burst pipes at night or on weekends?',
-      answer: `Yes. Burst pipes don't wait for business hours, and neither do we. We provide true 24/7/365 emergency response with crews dispatched immediately—not an answering service that schedules for morning. When your pipe bursts on Christmas Eve or at 2 AM Sunday, we respond within 30 minutes.`,
+      answer: `Yes. Burst pipes don't wait for business hours, and neither do we. We provide true 24/7/365 emergency response with crews dispatched immediately—not an answering service that schedules for morning. When your pipe bursts on Christmas Eve or at 2 AM Sunday, we respond as soon as crews are available.`,
     },
     {
       question: 'How do you coordinate with plumbers for pipe repair?',
@@ -184,6 +184,6 @@ Our IICRC-certified crews don't just extract water—we coordinate with licensed
   ],
   finalCTA: {
     headline: 'Burst Pipe Emergency in Lorton?',
-    paragraph: 'Every minute a burst pipe runs means hundreds more gallons flooding your home. Shut off your main water supply and call us immediately. We respond within 30 minutes with emergency water extraction and coordinate plumber dispatch—one call handles everything.',
+    paragraph: 'Every minute a burst pipe runs means hundreds more gallons flooding your home. Shut off your main water supply and call us immediately. We respond as soon as crews are available with emergency water extraction and coordinate plumber dispatch—one call handles everything.',
   },
 }

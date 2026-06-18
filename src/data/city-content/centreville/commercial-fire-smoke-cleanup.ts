@@ -3,20 +3,20 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Fire & Smoke Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville commercial fire and smoke damage restoration. Office parks, retail & commercial properties. Board-up to rebuild. Call (877) 497-0007.`,
+    description: `Centreville commercial fire and smoke damage restoration. Workspace parks, retail & commercial properties. Board-up to rebuild. Call (877) 497-0007.`,
   },
   h1: 'Commercial Fire & Smoke Cleanup in Centreville, Virginia',
   introSection: {
     headline: `Complete Commercial Fire Restoration for Centreville Businesses`,
     paragraphs: [
-      `A fire in a Centreville commercial property creates compounding losses—structural damage, smoke contamination, water damage from suppression systems, business interruption, and tenant displacement. The restaurant fire that spreads smoke through a multi-tenant building, the electrical fire in an office suite that triggers sprinklers across the floor, the warehouse fire that destroys inventory—each scenario demands professional commercial fire restoration that addresses the full scope while working to resume business operations.
+      `A fire in a Centreville commercial property creates compounding losses—structural damage, smoke contamination, water damage from suppression systems, business interruption, and tenant displacement. The restaurant fire that spreads smoke through a multi-tenant building, the electrical fire in an workspace suite that triggers sprinklers across the floor, the warehouse fire that destroys inventory—each scenario demands professional commercial fire restoration that addresses the full scope while working to resume business operations.
 
-Flood Doctor provides commercial fire and smoke cleanup throughout Centreville with 24/7 response. We've restored fire-damaged offices along Route 28, cleaned smoke contamination in Fair Lakes retail spaces, and managed multi-tenant fire losses in Centreville commercial buildings. Our commercial team handles everything from emergency board-up through complete reconstruction.`,
+Flood Doctor provides commercial fire and smoke cleanup throughout Centreville with 24/7 response. Our commercial team handles everything from emergency board-up through complete reconstruction.`,
       `Commercial fire damage involves complexities beyond the fire itself. HVAC systems distribute smoke to every connected zone. Fire suppression water damages floors below the fire. Shared walls in multi-tenant buildings allow smoke migration. Each tenant has separate insurance, separate contents, and separate business interruption concerns. Property managers need coordinated response that addresses all of these simultaneously.
 
 Our commercial fire restoration provides project management that coordinates emergency response, insurance from multiple carriers, tenant communication, after-hours scheduling, and phased reconstruction that returns tenants to operational spaces as quickly as possible.`,
     ],
-    localContext: `Centreville's commercial corridor includes multi-tenant buildings, restaurants, and office spaces where commercial fire events create complex multi-party restoration projects requiring coordinated response.`,
+    localContext: `Centreville's commercial corridor includes multi-tenant buildings, restaurants, and workspaces where commercial fire events create complex multi-party restoration projects requiring coordinated response.`,
   },
   processSteps: [
     {
@@ -68,7 +68,7 @@ Our commercial fire restoration provides project management that coordinates eme
     },
     {
       title: 'Business Interruption Urgency',
-      description: `Every day of fire-related closure costs Centreville businesses revenue. Multiple tenants affected by a single fire event amplify the total business interruption impact and the urgency to complete restoration.`,
+      description: `Every day of fire-related closure costs Centreville businesses revenue. Multiple tenants affected by a single fire event amplify the total business interruption impact and the urgency to full recovery planning.`,
       solution: 'Phased restoration returns tenants to operational spaces individually as they are cleared—rather than holding the entire building until everything is complete. Priority scheduling focuses on revenue-critical spaces first.',
     },
   ],
@@ -103,7 +103,7 @@ Our commercial fire restoration provides project management that coordinates eme
   },
   pricingSection: {
     headline: 'Commercial Fire Restoration Costs in Centreville',
-    intro: `Commercial fire restoration costs reflect the fire severity, smoke distribution, water damage extent, and reconstruction scope. Commercial insurance covers fire losses—we coordinate with carriers for all affected parties and handle direct billing.`,
+    intro: `Commercial fire restoration costs reflect the fire severity, smoke distribution, water damage extent, and reconstruction scope. Commercial insurance covers fire losses—we coordinate with carriers for all affected parties and handle carrier coordination.`,
     factors: [
       'Fire severity and structural damage—determines demolition, structural repair, and reconstruction scope',
       'Smoke distribution—building-wide smoke contamination through HVAC adds cleaning scope for every tenant',
@@ -127,7 +127,7 @@ Our commercial fire restoration provides project management that coordinates eme
       'Centre Ridge Marketplace',
       'Compton Village Commercial',
     ],
-    responseTime: `24/7 emergency response to all Centreville commercial properties. We arrive within 30 minutes for fire board-up and begin smoke assessment immediately.`,
+    responseTime: `24/7 emergency response to all Centreville commercial properties. We arrive as soon as crews are available for fire board-up and begin smoke assessment immediately.`,
   },
   faqs: [
     {
@@ -148,7 +148,7 @@ Our commercial fire restoration provides project management that coordinates eme
     },
     {
       question: 'Do you handle the reconstruction or just the cleanup?',
-      answer: `Both. We provide complete restoration from emergency board-up through final reconstruction. One company, one project manager, one point of accountability from start to finish.`,
+      answer: `Both. We provide full recovery planning from emergency board-up through final reconstruction. One company, one project manager, one point of accountability from start to finish.`,
     },
     {
       question: 'What about tenant inventory and equipment losses?',

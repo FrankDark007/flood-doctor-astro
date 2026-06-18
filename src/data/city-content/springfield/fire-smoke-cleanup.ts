@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Springfield, VA | Flood Doctor',
-    description: 'Springfield fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
+    description: 'Springfield fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. trained. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Springfield, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Safety Assessment with Hazmat Screening',
-      description: 'Beyond structural stability, our first action in any pre-1978 Springfield home is testing for asbestos and lead paint. Popcorn ceilings, HVAC joint tape, vinyl floor tiles, and pipe insulation commonly contain asbestos. Any painted surface may carry lead coatings under decades of latex. Fire disturbance cracks, melts, and aerosolizes these materials. Test results dictate EPA compliance requirements and determine whether standard crews or certified hazmat teams handle removal. Skipping this step is a federal violation.',
+      description: 'Beyond structural stability, our first action in any pre-1978 Springfield home is testing for asbestos and lead paint. Popcorn ceilings, HVAC joint tape, vinyl floor tiles, and pipe insulation commonly contain asbestos. Any painted surface may carry lead coatings under decades of latex. Fire disturbance cracks, melts, and aerosolizes these materials. Test results dictate EPA compliance requirements and determine whether standard crews or trained hazmat teams handle removal. Skipping this step is a federal violation.',
       timeframe: 'Hours 0-6 after fire department clearance',
     },
     {
@@ -42,7 +42,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Lead-Safe and Asbestos-Aware Demolition',
-      description: `EPA RRP lead-safe practices require containment, HEPA vacuuming, and wet methods. Asbestos abatement under AHERA requires licensed contractors, air monitoring, and certified disposal. In Springfield's older stock, demolition is a regulated activity with compliance documentation, certifications, and post-abatement clearance testing. This adds time and cost but is legally mandatory.`,
+      description: `EPA RRP lead-safe practices require containment, HEPA vacuuming, and wet methods. Asbestos abatement under AHERA requires licensed contractors, air monitoring, and trained disposal. In Springfield's older stock, demolition is a regulated activity with compliance documentation, qualifications, and post-abatement clearance testing. This adds time and cost but is legally mandatory.`,
       timeframe: 'Days 3-10 depending on scope',
     },
     {

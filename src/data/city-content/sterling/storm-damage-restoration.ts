@@ -7,11 +7,11 @@ export const content: CityServiceContent = {
   },
   h1: `Storm Damage Restoration in Sterling, Virginia`,
   introSection: {
-    headline: `Storm Damage Experts for Sterling's Diverse Housing Stock`,
+    headline: `Storm Damage Specialists for Sterling's Diverse Housing Stock`,
     paragraphs: [
       `Sterling sits along the Route 7 corridor where summer thunderstorms and nor'easters deliver punishing wind, rain, and hail to homes spanning five decades of construction. A 1970s Sterling Park rancher with its original roof takes storm damage differently than a 2000s Cascades townhome with architectural shingles. Mature trees throughout Claude Moore Park and Algonkian Regional Park send branches into aging rooflines and siding across established neighborhoods, while Countryside and Potomac Falls developments face wind-driven rain intrusion through modern building envelope weaknesses.
 
-Flood Doctor has restored storm-damaged Sterling homes after every major weather event. We have tarped damaged roofs on Sterling Park split-levels, extracted wind-driven rain from Cascades townhome attics, and dried hail-damaged Lowes Island properties. Our understanding of Sterling's housing variety means we arrive prepared for whatever combination of age, construction type, and storm damage your property presents.`,
+Our understanding of Sterling's housing variety means we arrive prepared for whatever combination of age, construction type, and storm damage your property presents.`,
       `Storm damage restoration in Sterling often reveals pre-existing vulnerabilities that the storm exposed rather than created. Aging roofs on 1970s-80s Sterling Park homes may have been at the end of their service life when high winds removed shingles. Deteriorated caulking and flashing on older homes allows wind-driven rain entry that newer weather-tight construction would deflect. Meanwhile, Cascades and Countryside townhome communities face shared-roof damage where one section's failure affects multiple units.
 
 Our crews document storm damage carefully, distinguishing between storm-caused damage covered by insurance and pre-existing maintenance issues that may complicate claims. For Sterling homeowners, this honest assessment protects you from claim denials and ensures your insurance covers what it should.`,
@@ -21,8 +21,8 @@ Our crews document storm damage carefully, distinguishing between storm-caused d
   processSteps: [
     {
       title: `Emergency Storm Response`,
-      description: `Call (877) 497-0007 immediately after storm damage. We dispatch crews to Sterling Park, Cascades, Countryside, and surrounding neighborhoods within 30 minutes. During widespread storm events, we triage by severity—active water entry receives priority dispatch.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 immediately after storm damage. We dispatch crews to Sterling Park, Cascades, Countryside, and surrounding neighborhoods as soon as crews are available. During widespread storm events, we triage by severity—active water entry receives priority dispatch.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Damage Assessment & Emergency Protection`,
@@ -69,7 +69,7 @@ Our crews document storm damage carefully, distinguishing between storm-caused d
   ],
   pricingSection: {
     headline: `Storm Damage Restoration Costs in Sterling`,
-    intro: `Sterling storm damage costs depend on the type and extent of damage, your home's age and construction, and the scope of water intrusion. Most storm damage is covered by homeowners insurance, and we handle direct billing with all major carriers. Emergency protection measures—tarping, board-up—are typically covered immediately.`,
+    intro: `Sterling storm damage costs depend on the type and extent of damage, your home's age and construction, and the scope of water intrusion. Most storm damage is covered by homeowners insurance, and we handle insurance documentation and carrier coordination. Emergency protection measures—tarping, board-up—are typically covered immediately.`,
     factors: [
       `Type of storm damage—wind, hail, tree impact, and water intrusion each require different restoration approaches`,
       `Roof age and condition—older Sterling Park roofs may involve pre-existing condition considerations that affect coverage`,
@@ -77,7 +77,7 @@ Our crews document storm damage carefully, distinguishing between storm-caused d
       `Multi-unit involvement—townhome storm damage in Cascades or Countryside may require coordinated community response`,
       `Emergency protection needs—tarping and board-up costs depend on damage accessibility and extent`,
     ],
-    cta: `Call (877) 497-0007 for emergency storm response. We protect your Sterling home immediately and provide detailed estimates for complete restoration.`,
+    cta: `Call (877) 497-0007 for emergency storm response. We protect your Sterling home immediately and provide detailed estimates for full recovery planning.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our crews document storm damage carefully, distinguishing between storm-caused d
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute emergency storm response across all Sterling neighborhoods. During widespread storm events, we deploy multiple crews and triage by severity for fastest response to active water intrusion.`,
+    responseTime: `rapid emergency storm response across all Sterling neighborhoods. During widespread storm events, we deploy multiple crews and triage by severity for fastest response to active water intrusion.`,
   },
   faqs: [
     {
@@ -132,6 +132,6 @@ Our crews document storm damage carefully, distinguishing between storm-caused d
   ],
   finalCTA: {
     headline: `Storm Damage at Your Sterling Property?`,
-    paragraph: `Do not wait for the weather to clear. Our crews are positioned along the Route 7 corridor for immediate response to Sterling Park, Cascades, Countryside, and all Sterling neighborhoods. Emergency tarping and water extraction start within 30 minutes of your call.`,
+    paragraph: `Do not wait for the weather to clear. Our crews are positioned along the Route 7 corridor for immediate response to Sterling Park, Cascades, Countryside, and all Sterling neighborhoods. Emergency tarping and water extraction start as soon as crews are available after your call.`,
   },
 }

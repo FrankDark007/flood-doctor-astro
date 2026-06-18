@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Large loss events in Sterling involve damage that exceeds the scope of standard residential or commercial restoration—multi-unit townhome flooding in Cascades that affects an entire row of homes, widespread storm damage across Sterling Park that damages dozens of properties simultaneously, commercial complex fires along the Route 7 corridor that require coordinated restoration across multiple tenant spaces, or catastrophic water events in large commercial buildings near the Sterling Community Center. These events require project management capability, multi-crew coordination, and the financial capacity to manage six and seven-figure restoration projects.
 
-Flood Doctor's large loss division brings the project management structure that Sterling's complex loss events demand. We have managed multi-unit water damage events in Cascades and Countryside where shared infrastructure failures affected 8-12 townhome units simultaneously, coordinated storm damage restoration across Sterling Park neighborhoods, and directed large commercial restoration projects along the Route 7 corridor.`,
+Flood Doctor's large loss division brings the project management structure that Sterling's complex loss events demand. `,
       `Large loss coordination in Sterling involves managing relationships with multiple insurance carriers, property managers, HOA boards, and individual property owners—all while maintaining the pace of restoration that limits ongoing damage. The project manager serves as the central coordinator, keeping all parties informed, documentation organized, and crews deployed efficiently across the full project scope. For Sterling's townhome communities near Algonkian Regional Park and Claude Moore Park, HOA board engagement adds a governance layer that requires experienced navigation.
 
 Our large loss project managers bring experience with Sterling's specific property types and community structures. We understand HOA governance in Cascades and Countryside, property management dynamics in Route 7 commercial complexes, and the multi-party insurance coordination that Sterling large loss events invariably require.`,
@@ -123,7 +123,7 @@ Our large loss project managers bring experience with Sterling's specific proper
     },
     {
       question: `Do you have the capacity for Sterling large loss events?`,
-      answer: `Yes. Our large loss division scales with event size—multiple crews, dedicated project management, and equipment capacity for multi-unit and multi-building events. We maintain relationships with additional certified subcontractors for events that exceed our primary crew capacity.`,
+      answer: `Yes. Our large loss division scales with event size—multiple crews, dedicated project management, and equipment capacity for multi-unit and multi-building events. We maintain relationships with additional trained subcontractors for events that exceed our primary crew capacity.`,
     },
     {
       question: `What documentation do you provide for large loss events?`,

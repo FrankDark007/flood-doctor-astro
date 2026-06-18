@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Culmore',
       'Idylwood',
     ],
-    responseTime: 'Same-day crawl space inspections throughout Falls Church. Emergency flooding response within 30 minutes from Falls Church City to Lake Barcroft and Seven Corners.',
+    responseTime: 'Same-day crawl space inspections throughout Falls Church. Emergency flooding response as soon as crews are available from Falls Church City to Lake Barcroft and Seven Corners.',
   },
   faqs: [
     {

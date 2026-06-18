@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville commercial water damage restoration. Office parks, retail centers & HOA facilities along Route 28/I-66 corridor. 24/7 response. Call (877) 497-0007.`,
+    description: `Centreville commercial water damage restoration. Workspace parks, retail centers & HOA facilities along Route 28/I-66 corridor. 24/7 response. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Centreville, Virginia',
   introSection: {
     headline: `Minimizing Business Disruption from Water Damage in Centreville`,
     paragraphs: [
-      `Commercial water damage in Centreville means lost revenue, displaced employees, and business interruption that compounds daily. Whether your Route 28 office suite has a burst supply line, your Fair Lakes retail space is dealing with roof leak damage, or your Centreville Square property has HVAC condensate flooding, you need restoration that prioritizes getting your business operational—fast. Every day of downtime costs money.
+      `Commercial water damage in Centreville means lost revenue, displaced employees, and business interruption that compounds daily. Whether your Route 28 workspace suite has a burst supply line, your Fair Lakes retail space is dealing with roof leak damage, or your Centreville Square property has HVAC condensate flooding, you need restoration that prioritizes getting your business operational—fast. Every day of downtime costs money.
 
-Flood Doctor provides commercial water damage restoration throughout the Centreville business corridor with 24/7 emergency response. We've restored office spaces along Route 28, retail properties in the Fair Lakes area, and community facilities throughout the I-66 corridor. Our commercial teams understand that business restoration is different from residential—you need faster timelines, after-hours work schedules, and coordination with property management, tenants, and insurance.`,
-      `Commercial properties in Centreville face unique water damage challenges. Multi-tenant buildings require coordinated response across multiple lease spaces. Retail properties need customer-facing areas restored first to resume revenue. Office environments contain electronics, servers, and sensitive documents that require specialized handling. Property managers need clear communication, detailed documentation, and restoration that minimizes tenant displacement.
+Flood Doctor provides commercial water damage restoration throughout the Centreville business corridor with 24/7 emergency response. Our commercial teams understand that business restoration is different from residential—you need faster timelines, after-hours work schedules, and coordination with property management, tenants, and insurance.`,
+      `Commercial properties in Centreville face unique water damage challenges. Multi-tenant buildings require coordinated response across multiple lease spaces. Retail properties need customer-facing areas restored first to resume revenue. Workspace environments contain electronics, servers, and sensitive documents that require specialized handling. Property managers need clear communication, detailed documentation, and restoration that minimizes tenant displacement.
 
 Our commercial restoration team provides project management from first call through completion. We coordinate with property managers, communicate with affected tenants, and schedule work during off-hours when possible. Detailed documentation supports both insurance claims and tenant communication. One point of contact manages your entire restoration project.`,
     ],
-    localContext: `Centreville's commercial corridor along Route 28 and I-66 includes office parks, retail centers, and mixed-use properties that require rapid commercial restoration to minimize business interruption and revenue loss.`,
+    localContext: `Centreville's commercial corridor along Route 28 and I-66 includes workspace parks, retail centers, and mixed-use properties that require rapid commercial restoration to minimize business interruption and revenue loss.`,
   },
   processSteps: [
     {
       title: '24/7 Emergency Response',
-      description: `Call (877) 497-0007 any time—day, night, or weekend. Our commercial crew responds within 30 minutes to Centreville business locations along Route 28, Fair Lakes, and the I-66 corridor. We begin mitigation immediately to limit damage scope.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 any time—day, night, or weekend. Our commercial crew responds as soon as crews are available to Centreville business locations along Route 28, Fair Lakes, and the I-66 corridor. We begin mitigation immediately to limit damage scope.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Damage Scope & Business Impact Assessment',
@@ -58,12 +58,12 @@ Our commercial restoration team provides project management from first call thro
     },
     {
       title: 'Business Continuity Pressure',
-      description: `Centreville businesses cannot afford extended downtime. Retail locations lose daily revenue, offices displace employees, and service businesses lose clients. The pressure to resume operations is intense and immediate.`,
+      description: `Centreville businesses cannot afford extended downtime. Retail locations lose daily revenue, workspaces displace employees, and service businesses lose clients. The pressure to resume operations is intense and immediate.`,
       solution: 'We prioritize revenue-generating and client-facing spaces, offer after-hours restoration schedules, and phase work to allow partial occupancy during restoration when safe to do so.',
     },
     {
       title: 'Commercial HVAC Water Damage',
-      description: `Large commercial HVAC systems in Centreville office parks can produce significant water damage when condensate lines clog, drain pans overflow, or supply lines fail. Water from rooftop units often enters through ceiling cavities and spreads across multiple suites.`,
+      description: `Large commercial HVAC systems in Centreville workspace parks can produce significant water damage when condensate lines clog, drain pans overflow, or supply lines fail. Water from rooftop units often enters through ceiling cavities and spreads across multiple suites.`,
       solution: 'We trace HVAC water paths through commercial ceiling systems, extract water from above and below ceiling tiles, and coordinate with HVAC contractors for repair while managing the restoration.',
     },
     {
@@ -99,11 +99,11 @@ Our commercial restoration team provides project management from first call thro
         purpose: 'Dry commercial spaces at lower temperatures and handle large open floor plates efficiently',
       },
     ],
-    localNote: `Our commercial equipment fleet handles the scale of Centreville's office parks and retail centers—from single-suite incidents to multi-tenant large loss events.`,
+    localNote: `Our commercial equipment fleet handles the scale of Centreville's workspace parks and retail centers—from single-suite incidents to multi-tenant large loss events.`,
   },
   pricingSection: {
     headline: 'Commercial Water Damage Restoration Costs in Centreville',
-    intro: `Commercial restoration costs reflect the scale of damage, business interruption mitigation efforts, and reconstruction scope. We provide detailed estimates for property management and insurance, and handle direct billing with commercial carriers.`,
+    intro: `Commercial restoration costs reflect the scale of damage, business interruption mitigation efforts, and reconstruction scope. We provide detailed estimates for property management and insurance, and handle carrier coordination with commercial carriers.`,
     factors: [
       'Affected square footage—commercial floor plates and multi-suite involvement increase scope',
       'Business interruption mitigation—after-hours work and phased approaches may reduce revenue loss but add labor costs',
@@ -127,7 +127,7 @@ Our commercial restoration team provides project management from first call thro
       'Centre Ridge Marketplace',
       'Compton Village Commercial',
     ],
-    responseTime: `24/7 commercial response within 30 minutes to all Centreville business locations. We prioritize commercial calls because we understand that business interruption compounds with every hour.`,
+    responseTime: `24/7 commercial response as soon as crews are available to all Centreville business locations. We prioritize commercial calls because we understand that business interruption compounds with every hour.`,
   },
   faqs: [
     {
@@ -144,7 +144,7 @@ Our commercial restoration team provides project management from first call thro
     },
     {
       question: 'Will you work with our commercial insurance carrier?',
-      answer: `Yes. We handle direct billing with all major commercial carriers and provide the detailed documentation—scope reports, daily logs, moisture readings, and photo documentation—that commercial claims require.`,
+      answer: `Yes. We handle carrier coordination with commercial carriers and provide the detailed documentation—scope reports, daily logs, moisture readings, and photo documentation—that commercial claims require.`,
     },
     {
       question: 'Can we stay open during restoration?',

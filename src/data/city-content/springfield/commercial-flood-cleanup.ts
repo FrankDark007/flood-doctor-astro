@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Springfield, VA | Flood Doctor',
-    description: `Springfield commercial flood cleanup. I-95 corridor offices, Lake Accotink area businesses & Fort Belvoir adjacent properties. Industrial extraction. Call (877) 497-0007.`,
+    description: `Springfield commercial flood cleanup. I-95 corridor workspaces, Lake Accotink area businesses & Fort Belvoir adjacent properties. Industrial extraction. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Springfield, Virginia',
   introSection: {
     headline: `Reliable Commercial Flood Response for Springfield's Established Business Community`,
     paragraphs: [
-      `Springfield's commercial properties face flood exposure from the same forces that shaped this community—the Lake Accotink watershed that defines the area's geography, the aging storm infrastructure built decades before current development density, and the intense summer thunderstorms that overwhelm drainage systems designed for a less-developed era. When storm flooding fills the ground floor of a Franconia strip center, when Lake Accotink area commercial properties face rising water during prolonged rain events, or when a catastrophic plumbing failure floods a multi-tenant Kingstowne office building, Springfield businesses need a flood response team that combines industrial capacity with practical local knowledge.
+      `Springfield's commercial properties face flood exposure from the same forces that shaped this community—the Lake Accotink watershed that defines the area's geography, the aging storm infrastructure built decades before current development density, and the intense summer thunderstorms that overwhelm drainage systems designed for a less-developed era. When storm flooding fills the ground floor of a Franconia strip center, when Lake Accotink area commercial properties face rising water during prolonged rain events, or when a catastrophic plumbing failure floods a multi-tenant Kingstowne workspace building, Springfield businesses need a flood response team that combines industrial capacity with practical local knowledge.
 
-Flood Doctor's commercial flood division has cleaned up major flooding events throughout Springfield's commercial areas. We've extracted storm flooding from Springfield Town Center-adjacent retail, pumped out watershed-related flooding in Newington commercial properties, and restored sprinkler discharge damage in West Springfield office parks—deploying industrial extraction with the straightforward efficiency that Springfield's business community values.`,
+Flood Doctor's commercial flood division has cleaned up major flooding events throughout Springfield's commercial areas. `,
       `Commercial flood dynamics in Springfield differ from newer Northern Virginia communities. The 1960s-80s commercial buildings lack the modern drainage improvements and flood-resistant design features built into contemporary construction. Aging storm sewers in older commercial developments back up during heavy rainfall, pushing water through floor drains and foundation joints. The Lake Accotink watershed creates elevated groundwater that reduces the margin between normal conditions and flooding during wet periods. And the I-95 corridor's impervious surface area concentrates runoff toward commercial properties in low-lying areas.
 
 Our commercial flood teams deploy to Springfield with contamination assessment equipment, industrial extraction capacity, and the local knowledge to navigate I-95 corridor access logistics. We classify floodwater contamination from storm drain backup, extract water from aging building systems that complicate the cleanup, and deploy drying protocols appropriate for the period materials in Springfield's established commercial stock.`,
@@ -22,7 +22,7 @@ Our commercial flood teams deploy to Springfield with contamination assessment e
     {
       title: 'Rapid Springfield Dispatch',
       description: `Call (877) 497-0007 for immediate flood response. Our crews deploy from positions near the Franconia-Springfield Metro and Fort Belvoir corridor with industrial extraction equipment for Springfield's commercial environment.`,
-      timeframe: 'Within 60 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Watershed-Aware Contamination Assessment',
@@ -31,7 +31,7 @@ Our commercial flood teams deploy to Springfield with contamination assessment e
     },
     {
       title: 'Industrial Commercial Extraction',
-      description: 'Truck-mounted extractors remove standing floodwater from retail spaces, offices, and commercial common areas. Equipment staging navigates I-95 corridor access constraints using loading docks and rear entrances.',
+      description: 'Truck-mounted extractors remove standing floodwater from retail spaces, workspaces, and commercial common areas. Equipment staging navigates I-95 corridor access constraints using loading docks and rear entrances.',
       timeframe: 'Hours 2-8',
     },
     {
@@ -41,7 +41,7 @@ Our commercial flood teams deploy to Springfield with contamination assessment e
     },
     {
       title: 'Extended Watershed-Area Drying',
-      description: `Industrial drying accounts for Springfield's elevated water table near Lake Accotink. Additional dehumidification capacity and extended monitoring periods ensure complete drying in an area where ambient moisture conditions slow the process.`,
+      description: `Industrial drying accounts for Springfield's elevated water table near Lake Accotink. Additional dehumidification capacity and extended monitoring periods ensure documented drying in an area where ambient moisture conditions slow the process.`,
       timeframe: 'Days 2-7',
     },
     {
@@ -106,7 +106,7 @@ Our commercial flood teams deploy to Springfield with contamination assessment e
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in Springfield',
-    intro: 'Springfield commercial flood costs are influenced by contamination level, watershed-related drying extension, and the aging infrastructure that contributes to many events. We provide clear estimates and handle direct insurance billing for all major commercial carriers.',
+    intro: 'Springfield commercial flood costs are influenced by contamination level, watershed-related drying extension, and the aging infrastructure that contributes to many events. We provide clear estimates and handle direct insurance billing for commercial carriers.',
     factors: [
       'Contamination severity—storm sewer backup and watershed flooding require biohazard protocols increasing costs beyond clean-water events',
       'Watershed drying extension—Lake Accotink area properties may need 30-50% additional drying time with expanded equipment deployment',
@@ -133,7 +133,7 @@ Our commercial flood teams deploy to Springfield with contamination assessment e
       'Frontier Drive',
       'Commerce Street Area',
     ],
-    responseTime: '60-minute commercial flood response throughout Springfield. Equipment staged near the Franconia-Springfield interchange for rapid deployment to I-95 corridor commercial properties.',
+    responseTime: 'prompt commercial flood response throughout Springfield. Equipment staged near the Franconia-Springfield interchange for rapid deployment to I-95 corridor commercial properties.',
   },
   faqs: [
     {
@@ -145,7 +145,7 @@ Our commercial flood teams deploy to Springfield with contamination assessment e
       answer: 'We deploy extended-capacity drying for watershed-affected properties, accounting for the elevated water table that slows drying in the Lake Accotink area. Our assessment documents chronic watershed conditions for property owners considering waterproofing improvements.',
     },
     {
-      question: 'Can you provide faster restoration for our government contractor office?',
+      question: 'Can you provide faster restoration for our government contractor workspace?',
       answer: 'Yes. We offer accelerated scheduling with expanded crews and multi-shift operations for mission-critical facilities. Phased restoration returns your most important operational spaces first while cleanup continues in secondary areas.',
     },
     {
@@ -154,7 +154,7 @@ Our commercial flood teams deploy to Springfield with contamination assessment e
     },
     {
       question: 'Do you handle commercial flood insurance claims?',
-      answer: 'We work with all major commercial carriers and provide complete documentation—Xactimate estimates, contamination classification, moisture logs, and progress reports. We handle direct billing and support adjuster meetings.',
+      answer: 'We work with commercial carriers and provide complete documentation—Xactimate estimates, contamination classification, moisture logs, and progress reports. We handle carrier coordination and support adjuster meetings.',
     },
     {
       question: 'Can you help prevent future flooding at our Springfield commercial property?',

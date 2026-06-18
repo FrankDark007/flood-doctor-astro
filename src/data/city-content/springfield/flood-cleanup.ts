@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Springfield, VA | Flood Doctor',
-    description: 'Springfield flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
+    description: 'Springfield flood cleanup specialists. rapid emergency response for storm flooding, flash floods & water damage. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Springfield, Virginia',
   introSection: {
@@ -22,7 +22,7 @@ Moisture mapping must trace contamination through every level transition. A read
     {
       title: 'Split-Level Damage Assessment',
       description: `We determine which half-levels are affected and trace water's path from entry through every stairwell transition. Stairwell carpet, wall cavities, and landing subfloor all contacted contaminated flow. Penetrating and non-penetrating meters at each elevation reveal whether contamination migrated upward through capillary action into levels that appear dry on the surface.`,
-      timeframe: 'First 60 minutes',
+      timeframe: 'First as soon as crews are available',
     },
     {
       title: 'Level-Transition Containment',
@@ -83,7 +83,7 @@ Moisture mapping must trace contamination through every level transition. A read
   },
   pricingSection: {
     headline: 'Flood Cleanup Costs in Springfield',
-    intro: `Springfield costs reflect the multi-level complexity of split-level architecture. Where a ranch presents one treatment zone, a typical split-level presents two or three distinct zones each requiring independent extraction, containment, and drying. Stairwell replacement, sub-slab investigation, and compartmentalized equipment add scope absent in single-plane flooding. Most homeowner's policies cover storm-driven damage; we handle direct billing and provide level-by-level moisture documentation for multi-zone claim approval.`,
+    intro: `Springfield costs reflect the multi-level complexity of split-level architecture. Where a ranch presents one treatment zone, a typical split-level presents two or three distinct zones each requiring independent extraction, containment, and drying. Stairwell replacement, sub-slab investigation, and compartmentalized equipment add scope absent in single-plane flooding. Most homeowner's policies cover storm-driven damage; we handle carrier coordination and provide level-by-level moisture documentation for multi-zone claim approval.`,
     factors: [
       'Number of half-levels affected — each level transition adds a distinct treatment zone with independent equipment requirements',
       'Stairwell contamination scope — carpet removal, wall cavity treatment, and landing subfloor restoration along the flow path',
@@ -108,7 +108,7 @@ Moisture mapping must trace contamination through every level transition. A read
       'Springfield Town Center area',
       'Backlick Road corridor',
     ],
-    responseTime: '30-minute emergency response throughout Springfield. During severe weather, we pre-position crews along Backlick Road and in West Springfield. When Dominion Energy reports outages in Springfield zip codes, our dispatch activates storm protocol automatically — trucks roll before the first call comes in.',
+    responseTime: 'rapid emergency response throughout Springfield. During severe weather, we pre-position crews along Backlick Road and in West Springfield. When Dominion Energy reports outages in Springfield zip codes, our dispatch activates storm protocol automatically — trucks roll before the first call comes in.',
   },
   faqs: [
     {

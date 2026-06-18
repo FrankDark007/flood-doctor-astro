@@ -3,30 +3,30 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Springfield, VA | Flood Doctor',
-    description: `Springfield's trusted water damage restoration experts. 30-min response to West Springfield, Kingstowne & Franconia. Serving military families near Fort Belvoir. Call (877) 497-0007.`,
+    description: `Springfield's local water damage restoration specialists. rapid response to West Springfield, Kingstowne & Franconia. Serving military families near Fort Belvoir. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Springfield, Virginia',
   introSection: {
     headline: 'Protecting Springfield Homes from Water Damage',
     paragraphs: [
-      `When water infiltrates your Springfield home, fast response matters more than anything. Your West Springfield split-level's finished lower level isn't just storage—it's a family room, home office, or kids' play area. A Kingstowne townhome water event can affect shared walls and require HOA coordination. The stakes are high, and the clock is ticking.
+      `When water infiltrates your Springfield home, fast response matters more than anything. Your West Springfield split-level's finished lower level isn't just storage—it's a family room, home workspace, or kids' play area. A Kingstowne townhome water event can affect shared walls and require HOA coordination. The stakes are high, and the clock is ticking.
 
-Flood Doctor has restored water-damaged properties throughout Springfield for nearly two decades. We've extracted standing water from Franconia colonials at 3 AM, dried the basements of military families PCSing from Fort Belvoir, and restored Newington ramblers after summer storm damage. When your Rolling Valley neighbor recommends a restoration company, they mention us—because we've already served their cul-de-sac.`,
+`,
       `Springfield's water damage challenges reflect its housing diversity. The 1970s-era split-levels in West Springfield feature aging copper pipes prone to pinhole leaks. Kingstowne's newer townhomes have shared plumbing stacks where one unit's failure affects neighbors. Lower-lying areas near Lake Accotink experience higher flood risk during heavy storms. Each neighborhood presents different challenges requiring local expertise.
 
-Our IICRC Master Water Restorers understand that Springfield homeowners are often commuters, military families, or working professionals who need efficient, thorough service without unnecessary delays. We don't just pump water and leave. We understand that your Rolling Valley home's finished basement, your Franconia property's hardwood floors, and your timeline for resolving the damage all matter.`,
+Our water-damage restoration team understand that Springfield homeowners are often commuters, military families, or working professionals who need efficient, thorough service without unnecessary delays. We don't just pump water and leave. We understand that your Rolling Valley home's finished basement, your Franconia property's hardwood floors, and your timeline for resolving the damage all matter.`,
     ],
     localContext: `Springfield's housing stock—from 1970s split-levels to modern Kingstowne construction—requires restoration expertise that accounts for aging infrastructure, diverse building materials, and the time constraints of working families.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Springfield hotline at (877) 497-0007, we dispatch from our facility immediately. Our trucks are positioned to reach West Springfield, Kingstowne, Franconia, Newington, and Rolling Valley within our 30-minute guarantee—not from a distant warehouse, but from the I-95 corridor where we're already stationed.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call our Springfield hotline at (877) 497-0007, we dispatch from our facility immediately. Our trucks are positioned to reach West Springfield, Kingstowne, Franconia, Newington, and Rolling Valley within our rapid service commitment—not from a distant warehouse, but from the I-95 corridor where we're already available.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Comprehensive Damage Assessment',
-      description: `Our IICRC-certified technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Springfield's split-levels, this often reveals water migration from upper floors to lower-level living spaces that isn't visible to the eye.`,
+      description: `Our trained technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Springfield's split-levels, this often reveals water migration from upper floors to lower-level living spaces that isn't visible to the eye.`,
       timeframe: 'First hour',
     },
     {
@@ -53,7 +53,7 @@ Our IICRC Master Water Restorers understand that Springfield homeowners are ofte
   localChallenges: [
     {
       title: 'Split-Level Lower-Level Flooding',
-      description: `Springfield's many split-level homes feature below-grade living spaces vulnerable to water intrusion. When sump pumps fail or foundation seepage occurs, these finished lower levels—often family rooms or home offices—flood with minimal warning.`,
+      description: `Springfield's many split-level homes feature below-grade living spaces vulnerable to water intrusion. When sump pumps fail or foundation seepage occurs, these finished lower levels—often family rooms or home workspaces—flood with minimal warning.`,
       solution: 'We respond rapidly to protect finished lower-level spaces. After extraction, we identify the intrusion source—whether sump pump failure, foundation cracks, or drainage issues—and help you prevent recurrence.',
     },
     {
@@ -113,7 +113,7 @@ Our IICRC Master Water Restorers understand that Springfield homeowners are ofte
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Springfield',
-    intro: 'Springfield water damage restoration costs vary based on the scope of damage, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most Springfield homeowners file insurance claims—and we handle direct billing with all major carriers including USAA.',
+    intro: 'Springfield water damage restoration costs vary based on the scope of damage, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most Springfield homeowners file insurance claims—and we handle insurance documentation and carrier coordination including USAA.',
     factors: [
       'Square footage affected—finished basements and split-level lower floors often expand scope',
       'Water category—clean water from a burst pipe differs from sewage backup requiring biohazard protocols',
@@ -139,7 +139,7 @@ Our IICRC Master Water Restorers understand that Springfield homeowners are ofte
       'Backlick Road corridor',
       'Fort Belvoir adjacent',
     ],
-    responseTime: '30-minute response to all Springfield neighborhoods. Our crews are stationed throughout the I-95 corridor—from Kingstowne to Franconia—for immediate emergency dispatch.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
@@ -148,15 +148,15 @@ Our IICRC Master Water Restorers understand that Springfield homeowners are ofte
     },
     {
       question: 'Can you save my hardwood floors after water damage?',
-      answer: `Often, yes. Many Springfield homes feature hardwood that responds well to professional drying. The key is rapid response and controlled drying—slow, steady moisture removal prevents the warping and cupping that destroys flooring. We've saved hardwood floors in West Springfield, Franconia, and throughout the area.`,
+      answer: `Often, yes. Many Springfield homes feature hardwood that responds well to professional drying. The key is rapid response and controlled drying—slow, steady moisture removal prevents the warping and cupping that destroys flooring. `,
     },
     {
       question: 'What about my finished basement in a Springfield split-level?',
-      answer: `Finished lower levels in split-level homes are our specialty. These spaces—often family rooms, offices, or kids' areas—require fast extraction and thorough drying. We protect flooring, drywall, and contents while ensuring complete moisture removal to prevent mold in these below-grade spaces.`,
+      answer: `Finished lower levels in split-level homes are our specialty. These spaces—often family rooms, workspaces, or kids' areas—require fast extraction and thorough drying. We protect flooring, drywall, and contents while ensuring complete moisture removal to prevent mold in these below-grade spaces.`,
     },
     {
       question: 'Will you work directly with my insurance company?',
-      answer: 'Yes. We handle direct billing with all major carriers including USAA, Navy Federal-affiliated insurers, State Farm, Allstate, and others. Our detailed documentation—moisture readings, photos, daily logs—supports your claim. Many Springfield military families appreciate that we know the USAA claims process well.',
+      answer: 'Yes. We handle insurance documentation and carrier coordination including USAA, Navy Federal-affiliated insurers, State Farm, Allstate, and others. Our detailed documentation—moisture readings, photos, daily logs—supports your claim. Many Springfield military families appreciate that we know the USAA claims process well.',
     },
     {
       question: 'How do you prevent mold after water damage?',
@@ -164,7 +164,7 @@ Our IICRC Master Water Restorers understand that Springfield homeowners are ofte
     },
     {
       question: `What's the difference between your service and national chains?`,
-      answer: `We're locally focused on Springfield and the I-95 corridor. Our crews know the neighborhoods, understand the housing types common here, and are positioned for 30-minute response. National franchises often dispatch from distant locations and lack expertise in Springfield's specific challenges—aging 1970s construction, split-level designs, and townhome complexities.`,
+      answer: `We're locally focused on Springfield and the I-95 corridor. Our crews know the neighborhoods, understand the housing types common here, and are positioned for rapid response. National franchises often dispatch from distant locations and lack expertise in Springfield's specific challenges—aging 1970s construction, split-level designs, and townhome complexities.`,
     },
     {
       question: 'Do you handle water damage in Kingstowne townhomes with HOA requirements?',
@@ -178,6 +178,6 @@ Our IICRC Master Water Restorers understand that Springfield homeowners are ofte
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Springfield?',
-    paragraph: 'Every hour of delay means more damage to your home. Our crews are stationed throughout Springfield for immediate 30-minute response. One call handles everything—from water extraction to insurance documentation.',
+    paragraph: 'Every hour of delay means more damage to your home. Our crews are available throughout Springfield for immediate rapid response. One call handles everything—from water extraction to insurance documentation.',
   },
 }

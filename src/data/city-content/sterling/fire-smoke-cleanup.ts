@@ -11,10 +11,10 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Fire damage in a Sterling home creates a cascade of restoration challenges that extend far beyond the burn area. Smoke and soot travel through HVAC systems, penetrate wall cavities, and settle on every surface throughout the house. Firefighting water saturates structural materials, creating secondary water damage that requires its own restoration protocol. In Sterling Park's 1970s-80s homes, aging electrical systems and outdated wiring are common fire sources, and the older construction materials produce dense smoke when burned. Cascades and Countryside townhome fires present unique challenges because shared walls, attics, and HVAC systems allow smoke migration between units.
 
-Flood Doctor handles the complete scope of fire restoration in Sterling—smoke and soot cleanup, odor elimination, water damage from firefighting, and structural restoration coordination. We have restored fire-damaged Sterling Park ranchers where kitchen fires spread smoke through decades-old ductwork, cleaned Cascades townhomes affected by fires in adjacent units, and managed fire water damage in Potomac Falls homes near Algonkian Regional Park. Our dual certification in fire restoration and water damage allows us to address both simultaneously.`,
+Flood Doctor handles the full scope of fire restoration in Sterling—smoke and soot cleanup, odor elimination, water damage from firefighting, and structural restoration coordination. Our dual qualification in fire restoration and water damage allows us to address both simultaneously.`,
       `Smoke damage chemistry varies by what burned. Kitchen fires in Sterling homes produce protein-based smoke that bonds chemically to surfaces. Electrical fires from aging Sterling Park wiring create acrid synthetic smoke. Structure fires involving modern furnishings produce complex chemical residues. Each type requires different cleaning chemistry and techniques. Additionally, the water used to fight the fire creates its own damage—saturated framing, soaked insulation, and standing water that must be extracted and dried before mold takes hold.
 
-Our IICRC-certified fire restoration crews understand both the chemistry and the urgency. Smoke residue becomes permanently bonded to surfaces within days if not treated. Water damage grows mold within 48 hours. The dual timeline demands immediate action on both fronts, and our Sterling crews arrive equipped for both.`,
+Our trained fire restoration crews understand both the chemistry and the urgency. Smoke residue becomes permanently bonded to surfaces within days if not treated. Water damage grows mold within 48 hours. The dual timeline demands immediate action on both fronts, and our Sterling crews arrive equipped for both.`,
     ],
     localContext: `Sterling's mix of 1970s-80s homes with aging electrical systems and townhome communities with shared structures creates fire scenarios requiring expertise in legacy construction materials, multi-unit smoke migration, and combined fire-water damage restoration.`,
   },
@@ -59,7 +59,7 @@ Our IICRC-certified fire restoration crews understand both the chemistry and the
     {
       title: `Combined Fire and Water Damage in Older Homes`,
       description: `Firefighting water in Sterling Park's older construction creates compounded damage. Water soaks into aging plaster, saturates old fiberglass insulation, and pools on vintage hardwood floors—all while smoke residue is simultaneously bonding to every surface. The dual damage requires parallel restoration tracks.`,
-      solution: `Our dual IICRC certification in fire restoration and water damage allows us to manage both simultaneously. We extract firefighting water while beginning smoke cleanup—addressing both timelines without delay on either front.`,
+      solution: `Our dual industry-standard qualification in fire restoration and water damage allows us to manage both simultaneously. We extract firefighting water while beginning smoke cleanup—addressing both timelines without delay on either front.`,
     },
     {
       title: `Smoke Penetration in Older HVAC Systems`,
@@ -69,7 +69,7 @@ Our IICRC-certified fire restoration crews understand both the chemistry and the
   ],
   pricingSection: {
     headline: `Fire & Smoke Cleanup Costs in Sterling`,
-    intro: `Fire restoration costs in Sterling depend on the fire extent, smoke type and penetration, water damage from firefighting, and your home's construction. Insurance typically covers fire restoration comprehensively. We provide detailed estimates and handle direct billing with all carriers.`,
+    intro: `Fire restoration costs in Sterling depend on the fire extent, smoke type and penetration, water damage from firefighting, and your home's construction. Insurance typically covers fire restoration comprehensively. We provide detailed estimates and handle carrier coordination with all carriers.`,
     factors: [
       `Fire extent—contained kitchen fires differ dramatically from structural fires affecting multiple rooms`,
       `Smoke type and penetration depth—protein, synthetic, and complex smoke each require different restoration approaches`,
@@ -77,7 +77,7 @@ Our IICRC-certified fire restoration crews understand both the chemistry and the
       `Construction era—older Sterling Park materials may require more intensive cleaning and replacement`,
       `Multi-unit involvement—townhome smoke migration adds adjacent unit assessment and cleaning scope`,
     ],
-    cta: `Call (877) 497-0007 after any fire event. We assess the full scope—fire, smoke, and water damage—and provide a comprehensive estimate. Most fire restoration is fully covered by homeowners insurance.`,
+    cta: `Call (877) 497-0007 after any fire event. We assess the full scope—fire, smoke, and water damage—and provide a comprehensive estimate. Most fire restoration is often covered by homeowners insurance, depending on policy terms.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -110,7 +110,7 @@ Our IICRC-certified fire restoration crews understand both the chemistry and the
     },
     {
       question: `Will my insurance cover fire restoration?`,
-      answer: `Fire damage is comprehensively covered by standard homeowners insurance, including smoke cleanup, water damage from firefighting, and structural restoration. We handle direct billing and provide the documentation adjusters require.`,
+      answer: `Fire damage is comprehensively covered by standard homeowners insurance, including smoke cleanup, water damage from firefighting, and structural restoration. We handle carrier coordination and provide the documentation adjusters require.`,
     },
     {
       question: `Can smoke odor be completely eliminated?`,
@@ -118,7 +118,7 @@ Our IICRC-certified fire restoration crews understand both the chemistry and the
     },
     {
       question: `What about the water damage from the fire department?`,
-      answer: `We address firefighting water simultaneously with smoke cleanup. Our dual certification means one team handles both—extraction, drying, and smoke restoration in parallel. This prevents the common problem of mold developing from firefighting water while waiting for a separate water damage company.`,
+      answer: `We address firefighting water simultaneously with smoke cleanup. Our dual qualification means one team handles both—extraction, drying, and smoke restoration in parallel. This prevents the common problem of mold developing from firefighting water while waiting for a separate water damage company.`,
     },
     {
       question: `Should I try to clean soot myself before your crew arrives?`,
@@ -131,6 +131,6 @@ Our IICRC-certified fire restoration crews understand both the chemistry and the
   ],
   finalCTA: {
     headline: `Fire or Smoke Damage at Your Sterling Home?`,
-    paragraph: `Every hour after a fire, smoke residue bonds more deeply to surfaces and firefighting water creates secondary damage. Our dual-certified crews handle both simultaneously—restoring your Sterling home from fire, smoke, and water damage in one coordinated effort.`,
+    paragraph: `Every hour after a fire, smoke residue bonds more deeply to surfaces and firefighting water creates secondary damage. Our dual-trained crews handle both simultaneously—restoring your Sterling home from fire, smoke, and water damage in one coordinated effort.`,
   },
 }

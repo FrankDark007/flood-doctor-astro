@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When severe weather crosses Fairfax County, Springfield's established neighborhoods absorb the impact. The trees that shade your West Springfield split-level—many planted when these 1960s subdivisions were first developed—can drop limbs through roofs, crash into vehicles, or pull down power lines. Add wind-driven rain breaching building envelopes, hail damage to aging shingle systems, and overwhelmed storm drainage along Accotink Creek, and a single storm creates compound damage across your property that worsens with every passing hour of exposure.
 
-Flood Doctor responds to storm damage throughout Springfield within 30 minutes of safe travel conditions. Our IICRC-certified crews have tarped roofs in Franconia during active thunderstorms, extracted storm water from Kingstowne townhome basements where shared drainage systems backed up, and coordinated tree removal with full structural restoration at Rolling Valley properties. Storm damage requires rapid response to prevent secondary water damage—every hour a compromised roof or breached building envelope admits moisture, water migrates deeper into wall cavities, subfloor systems, and structural framing.`,
+Flood Doctor responds to storm damage throughout Springfield as soon as crews are available and travel conditions are safe. Our trained crews provide emergency roof protection, storm-water extraction, structural drying, and coordination for tree-impact damage across the Springfield service area. Storm damage requires rapid response to prevent secondary water damage—every hour a compromised roof or breached building envelope admits moisture, water migrates deeper into wall cavities, subfloor systems, and structural framing.`,
       `Springfield's storm damage patterns are shaped by its housing stock and watershed geography. West Springfield and Newington feature 1960s-70s split-level and colonial homes with mature trees that create debris impact risk across large lots. Kingstowne's 1990s townhomes share roofs and party walls, meaning storm damage to one unit's building envelope can drive wind-driven rain into adjacent homes through shared structural members. Springfield's characteristic split-level design places finished living space below grade—creating elevated flood risk when storms overwhelm drainage or sump pumps fail during power outages.
 
-We coordinate all aspects of storm restoration: emergency tarping, water extraction using truck-mounted systems, structural drying with commercial dehumidifiers, thermal imaging to trace hidden moisture migration through building cavities, debris removal coordination, and comprehensive insurance documentation with direct billing. One call handles everything—from the moment the storm passes until your property is fully restored.`,
+We coordinate all aspects of storm restoration: emergency tarping, water extraction using truck-mounted systems, structural drying with commercial dehumidifiers, thermal imaging to trace hidden moisture migration through building cavities, debris removal coordination, and comprehensive insurance documentation with carrier coordination. One call handles everything—from the moment the storm passes until your property is fully restored.`,
     ],
     localContext: 'Springfield sits within the Accotink Creek watershed, with Long Branch and other tributaries threading through established neighborhoods. The combination of 1960s-era mature tree plantings, split-level homes with below-grade living space, and concentrated townhome developments creates storm damage scenarios that range from isolated tree strikes to neighborhood-wide flooding—particularly when Accotink Creek rises during sustained rainfall events.',
   },
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: 'Call (877) 497-0007 as soon as safely possible after storm damage. We dispatch crews throughout Springfield when severe weather clears, reaching West Springfield, Kingstowne, Franconia, Newington, and surrounding neighborhoods within our 30-minute guarantee. During area-wide events, we prioritize by damage severity and ongoing exposure risk.',
-      timeframe: '30 minutes after safe conditions',
+      description: 'Call (877) 497-0007 as soon as safely possible after storm damage. We dispatch crews throughout Springfield when severe weather clears, reaching West Springfield, Kingstowne, Franconia, Newington, and surrounding neighborhoods within our rapid service commitment. During area-wide events, we prioritize by damage severity and ongoing exposure risk.',
+      timeframe: 'as soon as crews are available after safe conditions',
     },
     {
       title: 'Damage Assessment & Emergency Tarping',
@@ -36,7 +36,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     },
     {
       title: 'Content Protection',
-      description: 'Furniture, electronics, valuables, and personal items in affected areas are moved, covered, or relocated. In split-level homes where lower-level family rooms often contain entertainment systems and home offices, content protection is especially critical. We document all content handling for insurance purposes.',
+      description: 'Furniture, electronics, valuables, and personal items in affected areas are moved, covered, or relocated. In split-level homes where lower-level family rooms often contain entertainment systems and home workspaces, content protection is especially critical. We document all content handling for insurance purposes.',
       timeframe: 'Hours 3-6',
     },
     {
@@ -46,14 +46,14 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     },
     {
       title: 'Insurance Documentation & Restoration Coordination',
-      description: 'We photograph all damage, document restoration efforts with Xactimate estimates, and provide detailed reports for your insurance claim. We handle direct billing with all major carriers and coordinate with roofing contractors, general contractors, and other specialists needed for full restoration of your Springfield home.',
+      description: 'We photograph all damage, document restoration efforts with Xactimate estimates, and provide detailed reports for your insurance claim. We handle insurance documentation and carrier coordination and coordinate with roofing contractors, general contractors, and other specialists needed for full restoration of your Springfield home.',
       timeframe: 'Throughout project',
     },
   ],
   localChallenges: [
     {
       title: 'Split-Level Below-Grade Flooding',
-      description: `Springfield's signature split-level homes place finished living space—family rooms, home offices, bedrooms—partially or fully below grade. During heavy storms, water enters through window wells, foundation seams, and overwhelmed floor drains. When the below-grade level floods, damage affects flooring, drywall, electrical outlets, and furnishings that homeowners don't expect to be at risk because the space doesn't look like a traditional basement.`,
+      description: `Springfield's signature split-level homes place finished living space—family rooms, home workspaces, bedrooms—partially or fully below grade. During heavy storms, water enters through window wells, foundation seams, and overwhelmed floor drains. When the below-grade level floods, damage affects flooring, drywall, electrical outlets, and furnishings that homeowners don't expect to be at risk because the space doesn't look like a traditional basement.`,
       solution: 'We deploy high-volume extraction specifically configured for below-grade spaces, targeting the unique geometry of split-level lower levels. Our drying protocol accounts for the concrete-backed walls and limited ventilation typical in these spaces—conditions that trap moisture and accelerate mold growth if not addressed with commercial-grade dehumidification. We document the below-grade nature of the space for insurance, as coverage can differ from standard above-grade damage.',
     },
     {
@@ -69,7 +69,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     {
       title: 'West Springfield Mature Canopy Hazards',
       description: `West Springfield's 1960s-era neighborhoods feature trees that have grown for over 60 years—towering oaks and maples that shade entire properties. During high winds, these mature trees drop heavy limbs or topple entirely, striking roofs, crushing fences, blocking driveways, and pulling down power lines. A single large tree falling across a split-level can breach the roof, damage multiple siding sections, and block emergency vehicle access simultaneously.`,
-      solution: 'We respond to tree-strike emergencies with immediate tarping at all breach points—even before tree removal begins. Our thermal imaging traces water intrusion from every point of contact, because tree impacts create damage paths that extend well beyond the visible strike zone. We coordinate with certified arborists for safe removal while protecting the underlying structure from continued rain exposure.',
+      solution: 'We respond to tree-strike emergencies with immediate tarping at all breach points—even before tree removal begins. Our thermal imaging traces water intrusion from every point of contact, because tree impacts create damage paths that extend well beyond the visible strike zone. We coordinate with trained arborists for safe removal while protecting the underlying structure from continued rain exposure.',
     },
     {
       title: 'Power Outage Sump Pump Failures',
@@ -101,7 +101,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
       },
       {
         name: 'High-Velocity Axial Air Movers',
-        purpose: `Creates targeted airflow across wet surfaces to accelerate evaporation from floors, walls, and ceiling systems. For Springfield's multi-level storm damage, we position air movers on each affected level to create complete drying circuits—particularly important in split-levels where natural airflow between levels is limited.`,
+        purpose: `Creates targeted airflow across wet surfaces to accelerate evaporation from floors, walls, and ceiling systems. For Springfield's multi-level storm damage, we position air movers on each affected level to create documented drying circuits—particularly important in split-levels where natural airflow between levels is limited.`,
         brand: 'Dri-Eaz',
       },
       {
@@ -123,7 +123,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Springfield',
-    intro: `Storm damage costs in Springfield depend on property type, damage extent, and the specific challenges your home presents. A West Springfield split-level with a tree through the roof and lower-level flooding requires different scope than a Kingstowne townhome with wind-damaged shared siding. We provide on-site assessments during our emergency response and detailed Xactimate estimates before restoration begins. Most storm damage is covered by homeowner's insurance—we handle direct billing and comprehensive documentation to support complete claim coverage.`,
+    intro: `Storm damage costs in Springfield depend on property type, damage extent, and the specific challenges your home presents. A West Springfield split-level with a tree through the roof and lower-level flooding requires different scope than a Kingstowne townhome with wind-damaged shared siding. We provide on-site assessments during our emergency response and detailed Xactimate estimates before restoration begins. Most storm damage is covered by homeowner's insurance—we handle carrier coordination and comprehensive documentation to support complete claim coverage.`,
     factors: [
       'Damage type and extent—wind damage, hail impacts, tree strikes, or water intrusion through compromised building envelope',
       'Emergency stabilization needs—tarping scope, board-up requirements, and immediate extraction volume for below-grade flooding',
@@ -133,7 +133,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
       'Cascade damage from power outages—sump pump failure flooding, HVAC-related humidity damage, or frozen pipe bursts during winter storms',
       'Multi-point damage—storms often create several breach points requiring separate assessment and remediation across different building levels',
     ],
-    cta: `Call (877) 497-0007 for emergency storm damage response. We'll assess damage, provide emergency weatherproofing, and guide you through the insurance process with direct billing and professional documentation.`,
+    cta: `Call (877) 497-0007 for emergency storm damage response. We'll assess damage, provide emergency weatherproofing, and guide you through the insurance process with carrier coordination and professional documentation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -153,20 +153,20 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
       'Daventry',
       'Brookfield',
     ],
-    responseTime: '30-minute response as soon as conditions are safe. During severe weather events, we pre-position crews and equipment to respond immediately when storms clear. West Springfield and other mature-canopy neighborhoods receive priority response due to elevated tree-strike risk.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
       question: 'When should I call after storm damage in Springfield?',
-      answer: `Call immediately once it's safe. Even if you're not sure about damage extent, early assessment and emergency tarping prevent secondary water damage that compounds costs dramatically. We respond to Springfield calls within 30 minutes of safe travel conditions—often while rain is still falling. Delaying even a few hours while a breached roof admits water can transform a manageable tarping job into a multi-level drying project.`,
+      answer: `Call immediately once it's safe. Even if you're not sure about damage extent, early assessment and emergency tarping prevent secondary water damage that compounds costs dramatically. We respond to Springfield calls as soon as crews are available and travel conditions are safe—often while rain is still falling. Delaying even a few hours while a breached roof admits water can transform a manageable tarping job into a multi-level drying project.`,
     },
     {
       question: 'A tree fell on my Springfield home. What do I do?',
-      answer: `Evacuate if structural integrity is questionable, then call us at (877) 497-0007. We assess safety, provide emergency tarping around the tree impact, and coordinate removal with certified arborists. Don't attempt to move tree limbs yourself—shifting weight can cause additional structural collapse. We handle all resulting water damage and structural drying while tree removal is safely coordinated.`,
+      answer: `Evacuate if structural integrity is questionable, then call us at (877) 497-0007. We assess safety, provide emergency tarping around the tree impact, and coordinate removal with trained arborists. Don't attempt to move tree limbs yourself—shifting weight can cause additional structural collapse. We handle all resulting water damage and structural drying while tree removal is safely coordinated.`,
     },
     {
       question: 'Should I call my insurance company or Flood Doctor first?',
-      answer: `Call us first—we begin emergency stabilization and documentation immediately. Notify your insurance company soon after, but don't wait for their approval before emergency weatherproofing. Preventing additional damage actually protects your claim. We handle direct billing with all major carriers, provide Xactimate estimates, and support your claim with professional documentation throughout the entire process.`,
+      answer: `Call us first—we begin emergency stabilization and documentation immediately. Notify your insurance company soon after, but don't wait for their approval before emergency weatherproofing. Preventing additional damage actually protects your claim. We handle insurance documentation and carrier coordination, provide Xactimate estimates, and support your claim with professional documentation throughout the entire process.`,
     },
     {
       question: 'How do you find hidden storm damage in my walls?',
@@ -196,6 +196,6 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
   ],
   finalCTA: {
     headline: 'Storm Damage in Springfield?',
-    paragraph: `Don't wait for clear skies while water pours through storm damage into your home. Our IICRC-certified crews respond throughout Springfield as soon as conditions allow—with emergency tarping, truck-mounted extraction, thermal imaging, and industrial drying for every level of your split-level or townhome. One call handles everything.`,
+    paragraph: `Don't wait for clear skies while water pours through storm damage into your home. Our trained crews respond throughout Springfield as soon as conditions allow—with emergency tarping, truck-mounted extraction, thermal imaging, and industrial drying for every level of your split-level or townhome. One call handles everything.`,
   },
 }

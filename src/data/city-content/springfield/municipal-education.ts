@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Springfield, VA | Flood Doctor`,
-    description: `Springfield's trusted restoration for schools and public buildings. FCPS-experienced crews serving West Springfield, Kingstowne, and Fort Belvoir area facilities. Call (877) 497-0007.`,
+    description: `Springfield's local restoration for schools and public buildings. FCPS-experienced crews serving West Springfield, Kingstowne, and Fort Belvoir area facilities. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Springfield, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Springfield's public facilities serve a community built on family stability and military service. West Springfield High School, the network of elementary schools throughout Rolling Valley and Newington, and community buildings near the Franconia-Springfield Metro educate and serve thousands of families—many connected to Fort Belvoir. When water damage threatens these facilities, the impact extends across academic schedules, youth sports programs, after-school care, and community services that Springfield families depend on daily. Aging infrastructure in 1960s-80s school buildings adds complexity that newer facilities avoid.
 
-Flood Doctor has restored educational and municipal facilities throughout Fairfax County, maintaining a record of completing school restorations before academic deadlines. Our crews understand the regulatory framework governing public building restoration—EPA AHERA requirements for asbestos management in older Springfield school buildings, ADA compliance during reconstruction, and FCPS procurement procedures. We work within the public accountability framework while delivering the urgency that Springfield's family-focused community requires.`,
+Our crews understand the regulatory framework governing public building restoration—EPA AHERA requirements for asbestos management in older Springfield school buildings, ADA compliance during reconstruction, and FCPS procurement procedures. We work within the public accountability framework while delivering the urgency that Springfield's family-focused community requires.`,
       `Springfield's older school buildings present particular restoration challenges. Facilities built in the 1960s and 1970s may contain asbestos in floor tiles, pipe insulation, and ceiling materials that must be properly managed during any water damage restoration. Lead paint in pre-1978 structures requires EPA RRP compliance. These regulatory layers add complexity that general contractors overlook, creating compliance violations that expose administrators to liability.
 
 Beyond regulatory compliance, Springfield school restorations must satisfy a community that values both quality and fiscal responsibility. Military families understand disciplined budget management and expect the same from public institutions. Our documentation packages include detailed cost justifications, scope photographs, and progress reports formatted for FCPS administrative review and school board presentations. We provide transparency that Springfield's practically-minded community expects while meeting the technical standards protecting student and staff health in facilities throughout West Springfield, Franconia, and the Kingstowne area.`,
@@ -26,7 +26,7 @@ Beyond regulatory compliance, Springfield school restorations must satisfy a com
     },
     {
       title: `Hazardous Materials Assessment`,
-      description: `Before any demolition in Springfield's older schools, our certified inspectors assess for asbestos, lead paint, and other regulated materials. This pre-restoration assessment prevents regulatory violations and protects student and staff health throughout the project at West Springfield and Franconia facilities.`,
+      description: `Before any demolition in Springfield's older schools, our trained inspectors assess for asbestos, lead paint, and other regulated materials. This pre-restoration assessment prevents regulatory violations and protects student and staff health throughout the project at West Springfield and Franconia facilities.`,
       timeframe: `Hours 2-6`,
     },
     {
@@ -54,7 +54,7 @@ Beyond regulatory compliance, Springfield school restorations must satisfy a com
     {
       title: `Aging School Infrastructure with Hazardous Materials`,
       description: `Several Springfield schools date to the 1960s-1970s building era. Water damage restoration in these facilities requires asbestos and lead paint management under EPA AHERA and RRP regulations, adding complexity and cost to projects that must still meet tight academic deadlines.`,
-      solution: `Our certified hazardous materials inspectors assess regulated materials before restoration begins. When abatement is required, we coordinate with licensed contractors under full EPA compliance. All documentation is maintained in school AHERA management plans as required by federal regulation.`,
+      solution: `Our trained hazardous materials inspectors assess regulated materials before restoration begins. When abatement is required, we coordinate with licensed contractors under full EPA compliance. All documentation is maintained in school AHERA management plans as required by federal regulation.`,
     },
     {
       title: `Fort Belvoir Military Family School Dependence`,
@@ -143,7 +143,7 @@ Beyond regulatory compliance, Springfield school restorations must satisfy a com
     },
     {
       question: `How do you handle asbestos in older Springfield school buildings?`,
-      answer: `Our certified inspectors assess for asbestos-containing materials before any demolition begins. When ACMs are identified, we coordinate with licensed abatement contractors under full EPA AHERA compliance. All documentation is maintained in the school AHERA management plan as required.`,
+      answer: `Our trained inspectors assess for asbestos-containing materials before any demolition begins. When ACMs are identified, we coordinate with licensed abatement contractors under full EPA AHERA compliance. All documentation is maintained in the school AHERA management plan as required.`,
     },
     {
       question: `Do you understand FCPS procurement requirements?`,

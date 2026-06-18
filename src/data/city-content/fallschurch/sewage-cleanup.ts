@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church sewage cleanup specialists. 30-min biohazard response for Seven Corners, Lake Barcroft & Falls Church City. IICRC certified. Call (877) 497-0007.',
+    description: 'Falls Church sewage cleanup specialists. rapid biohazard response for Seven Corners, Lake Barcroft & Falls Church City. trained. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in Falls Church, Virginia',
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Sewage backup in your Falls Church home is a health emergency. Category 3 water—the most contaminated classification—contains human waste, bacteria, viruses, and parasites that pose immediate health risks to your family. Whether sewage backed up through your floor drain during a storm, your sewer line is blocked by tree roots, or your septic system failed, you need professional biohazard cleanup immediately.
 
-Flood Doctor responds to Falls Church sewage emergencies 24 hours a day. We've cleaned sewage backups in Seven Corners homes where aging clay sewer lines finally collapsed. We've addressed Baileys Crossroads basements flooded with sewage during major storms when the municipal system overwhelmed. We've handled septic failures in Lake Barcroft area properties. Our crews arrive with full biohazard equipment and training for safe, thorough cleanup.`,
+Flood Doctor responds to Falls Church sewage emergencies 24 hours a day. Our crews arrive with full biohazard equipment and training for safe, thorough cleanup.`,
       `Falls Church's aging infrastructure creates sewage backup risks throughout the area. Clay tile sewer lines installed in the 1940s-1960s crack and attract tree root intrusion. Older neighborhoods have combined stormwater/sanitary sewer systems that back up during heavy rains. Some properties, especially toward the Great Falls border, still use septic systems prone to failure.
 
-Sewage cleanup isn't a job for standard water damage restoration—it requires biohazard protocols. Our IICRC-certified crews wear full protective equipment, remove contaminated materials properly, apply EPA-registered antimicrobial treatments, and dispose of waste according to health regulations. We make your Falls Church home safe for your family again.`,
+Sewage cleanup isn't a job for standard water damage restoration—it requires biohazard protocols. Our trained crews wear full protective equipment, remove contaminated materials properly, apply EPA-registered antimicrobial treatments, and dispose of waste according to health regulations. We make your Falls Church home safe for your family again.`,
     ],
-    localContext: `Falls Church's 1940s-1960s sewer infrastructure and mature tree canopy create frequent sewage backup situations. From clay pipe failures to storm-related municipal backups, we've handled every type of sewage emergency Falls Church experiences.`,
+    localContext: `Falls Church's 1940s-1960s sewer infrastructure and mature tree canopy create frequent sewage backup situations. From clay pipe failures to storm-related municipal backups, our process is designed for common sewage emergencies Falls Church properties experience.`,
   },
   processSteps: [
     {
       title: 'Emergency Response & Safety Isolation',
       description: 'When you call (877) 497-0007 about sewage, we dispatch immediately. Our first priority on arrival is safety—isolating the affected area to prevent contamination spread and ensuring electrical safety before entering. You and your family should avoid the contaminated area.',
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Sewage Extraction',
@@ -69,7 +69,7 @@ Sewage cleanup isn't a job for standard water damage restoration—it requires b
     {
       title: 'Septic System Failure',
       description: 'Some Falls Church properties—especially older homes and those near the Great Falls border—use private septic systems. When these fail from age, lack of maintenance, or overloading, sewage can back up into the home or surface in the yard.',
-      solution: 'We handle the biohazard cleanup portion of septic failures. Septic repair or replacement requires specialized contractors—we can refer trusted septic companies serving Falls Church.',
+      solution: 'We handle the biohazard cleanup portion of septic failures. Septic repair or replacement requires specialized contractors—we can refer local septic companies serving Falls Church.',
     },
     {
       title: 'Main Drain Blockage',
@@ -134,7 +134,7 @@ Sewage cleanup isn't a job for standard water damage restoration—it requires b
       'West Falls Church',
       'Madison Manor',
     ],
-    responseTime: '30-minute emergency response for sewage cleanup throughout Falls Church. Available 24 hours a day, 7 days a week.',
+    responseTime: 'rapid emergency response for sewage cleanup throughout Falls Church. Available 24 hours a day, 7 days a week.',
   },
   faqs: [
     {
@@ -147,7 +147,7 @@ Sewage cleanup isn't a job for standard water damage restoration—it requires b
     },
     {
       question: 'Will my insurance cover sewage backup?',
-      answer: `Many homeowners policies cover sewage backup, but it's usually an optional endorsement—not automatic coverage. Check your policy for 'water backup' or 'sewer and drain' coverage. If you have it, we handle direct billing with your carrier.`,
+      answer: `Many homeowners policies cover sewage backup, but it's usually an optional endorsement—not automatic coverage. Check your policy for 'water backup' or 'sewer and drain' coverage. If you have it, we handle coordination with your carrier.`,
     },
     {
       question: 'How long until my home is safe after sewage backup?',
@@ -165,6 +165,6 @@ Sewage cleanup isn't a job for standard water damage restoration—it requires b
   relatedBlogSlugs: ['first-24-hours-after-water-damage', 'water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: 'Sewage Emergency in Falls Church?',
-    paragraph: `Sewage is a health hazard—don't delay cleanup. Our crews are positioned throughout Falls Church for immediate 30-minute response. We'll safely remove contamination, disinfect your home, and handle your insurance claim. Call now.`,
+    paragraph: `Sewage is a health hazard—don't delay cleanup. Our crews are positioned throughout Falls Church for immediate rapid response. We'll safely remove contamination, disinfect your home, and handle your insurance claim. Call now.`,
   },
 }

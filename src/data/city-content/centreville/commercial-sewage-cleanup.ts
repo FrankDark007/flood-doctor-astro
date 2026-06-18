@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Sewage Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville commercial sewage cleanup and biohazard restoration. 24/7 response for offices, retail & commercial properties. OSHA-compliant protocols. Call (877) 497-0007.`,
+    description: `Centreville commercial sewage cleanup and biohazard restoration. 24/7 response for workspaces, retail & commercial properties. OSHA-compliant protocols. Call (877) 497-0007.`,
   },
   h1: 'Commercial Sewage Cleanup in Centreville, Virginia',
   introSection: {
     headline: `OSHA-Compliant Commercial Sewage Cleanup in Centreville`,
     paragraphs: [
-      `A sewage backup in a Centreville commercial property creates an immediate health hazard that demands professional biohazard response. Employees, customers, and tenants cannot safely occupy spaces contaminated with raw sewage—and your business faces regulatory liability if cleanup does not meet OSHA and health department standards. Whether your Route 28 office building has a sewer line backup, your Fair Lakes restaurant is dealing with grease trap overflow, or your retail center has storm-related sewer backup, you need certified biohazard cleanup.
+      `A sewage backup in a Centreville commercial property creates an immediate health hazard that demands professional biohazard response. Employees, customers, and tenants cannot safely occupy spaces contaminated with raw sewage—and your business faces regulatory liability if cleanup does not meet OSHA and health department standards. Whether your Route 28 workspace building has a sewer line backup, your Fair Lakes restaurant is dealing with grease trap overflow, or your retail center has storm-related sewer backup, you need trained biohazard cleanup.
 
 Flood Doctor provides commercial sewage cleanup throughout Centreville with 24/7 response and OSHA-compliant biohazard protocols. Our crews arrive in full PPE with commercial-grade extraction, antimicrobial treatment, and sanitization equipment. We restore contaminated commercial spaces to health and safety standards while minimizing business disruption.`,
       `Commercial sewage cleanup involves regulatory requirements that residential projects do not. OSHA mandates specific bloodborne pathogen and hazardous waste handling protocols. Health departments may require notification and clearance testing before reoccupation. Food service establishments face additional health code requirements. Property managers must document compliance for liability purposes.
 
 Our commercial sewage teams are trained in OSHA compliance, health code requirements, and commercial-specific biohazard protocols. We provide the documentation that property managers, health departments, and insurance carriers require—including sanitization verification through ATP testing and air quality sampling.`,
     ],
-    localContext: `Centreville's commercial properties—offices, restaurants, retail spaces, and multi-tenant buildings—require OSHA-compliant sewage cleanup with proper documentation for regulatory compliance, tenant communication, and insurance claims.`,
+    localContext: `Centreville's commercial properties—workspaces, restaurants, retail spaces, and multi-tenant buildings—require OSHA-compliant sewage cleanup with proper documentation for regulatory compliance, tenant communication, and insurance claims.`,
   },
   processSteps: [
     {
       title: 'Emergency Commercial Response',
       description: `Call (877) 497-0007 for immediate response. We dispatch a commercial biohazard crew with full PPE, containment materials, and commercial-grade extraction equipment. Affected spaces are immediately isolated to prevent occupant exposure.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Containment & Safety Establishment',
@@ -105,7 +105,7 @@ Our commercial sewage teams are trained in OSHA compliance, health code requirem
   },
   pricingSection: {
     headline: 'Commercial Sewage Cleanup Costs in Centreville',
-    intro: `Commercial sewage cleanup costs reflect biohazard protocols, regulatory compliance, and business interruption mitigation. Commercial insurance typically covers sewage backup events. We handle direct billing and provide documentation for all parties.`,
+    intro: `Commercial sewage cleanup costs reflect biohazard protocols, regulatory compliance, and business interruption mitigation. Commercial insurance typically covers sewage backup events. We handle carrier coordination and provide documentation for all parties.`,
     factors: [
       'Affected commercial area—larger floor plates and multiple tenant spaces increase cleanup scope',
       'Contamination level—depth and spread of sewage determines material removal and treatment extent',
@@ -129,7 +129,7 @@ Our commercial sewage teams are trained in OSHA compliance, health code requirem
       'Centre Ridge Marketplace',
       'Compton Village Commercial',
     ],
-    responseTime: `24/7 emergency response within 30 minutes for commercial sewage events. Biohazard situations require immediate professional response—call (877) 497-0007 now.`,
+    responseTime: `24/7 emergency response as soon as crews are available for commercial sewage events. Biohazard situations require immediate professional response—call (877) 497-0007 now.`,
   },
   faqs: [
     {

@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Fort Hunt area',
       'Lake Accotink area',
     ],
-    responseTime: 'Same-day crawl space inspections throughout Springfield. Emergency flooding response within 40 minutes from West Springfield to Kingstowne via our I-95 corridor positioned crews.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {

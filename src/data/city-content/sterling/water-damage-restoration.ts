@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Water Damage Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling's trusted water damage restoration experts. Fast response to Sterling Park, Cascades & Countryside. Aging plumbing specialists for 1970s-80s homes. Call (877) 497-0007.`,
+    description: `Sterling's local water damage restoration specialists. Fast response to Sterling Park, Cascades & Countryside. Aging plumbing specialists for 1970s-80s homes. Call (877) 497-0007.`,
   },
   h1: `Water Damage Restoration in Sterling, Virginia`,
   introSection: {
@@ -11,10 +11,10 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When water damage strikes your Sterling home, the restoration approach depends on when your house was built. A 1970s Sterling Park rancher with original copper plumbing faces completely different challenges than a 1990s Cascades townhome with modern PEX lines. Sugarland Run properties near the creek deal with seasonal flooding that newer Countryside developments rarely experience. You need a restoration company that understands the full range of Sterling's housing stock—from aging split-levels to contemporary single-family homes along the Route 7 corridor.
 
-Flood Doctor has restored water-damaged properties across Sterling for years. We have extracted standing water from Sterling Park basements with original drain tile systems, dried flood-damaged lower levels in Cascades townhomes, and prevented mold growth in Lowes Island single-family homes after supply line failures. Our crews know your neighborhoods because we have already worked on your street.`,
+Our crews know your neighborhoods `,
       `Sterling's water damage challenges are shaped by its diverse construction eras. Homes built in the 1970s and 1980s in Sterling Park feature aging galvanized and copper plumbing that develops pinhole leaks and joint failures. Older split-level designs channel water into lower levels where original waterproofing has deteriorated. Meanwhile, 1990s-era Cascades and Countryside townhomes face different issues—shared walls that allow water migration between units and builder-grade materials reaching the end of their service life.
 
-Our IICRC Master Water Restorers understand both legacy and modern construction across Sterling. We document everything for insurance claims, coordinate with HOA management in Cascades and Countryside communities, and provide the practical, affordable restoration that Sterling homeowners expect. When your Potomac Falls property needs help, we protect your home and your budget.`,
+Our water-damage restoration team understand both legacy and modern construction across Sterling. We document everything for insurance claims, coordinate with HOA management in Cascades and Countryside communities, and provide the practical, affordable restoration that Sterling homeowners expect. When your Potomac Falls property needs help, we protect your home and your budget.`,
     ],
     localContext: `Sterling's mix of 1970s-80s established neighborhoods and 1990s-2000s planned communities creates diverse water damage scenarios requiring expertise across multiple construction eras and housing types.`,
   },
@@ -22,11 +22,11 @@ Our IICRC Master Water Restorers understand both legacy and modern construction 
     {
       title: `Emergency Response to Sterling`,
       description: `Call (877) 497-0007 and our crews dispatch immediately. We maintain positions throughout the Route 7 corridor to reach Sterling Park, Cascades, Countryside, and Potomac Falls within our rapid response window—not from a distant warehouse, but from the Sterling area where we are already working.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Construction-Era Assessment`,
-      description: `Our IICRC-certified technician assesses damage with your home's construction era in mind. A 1970s Sterling Park split-level has different moisture pathways than a Cascades townhome. Infrared cameras detect moisture behind walls, under floors, and in ceiling cavities regardless of building age.`,
+      description: `Our trained technician assesses damage with your home's construction era in mind. A 1970s Sterling Park split-level has different moisture pathways than a Cascades townhome. Infrared cameras detect moisture behind walls, under floors, and in ceiling cavities regardless of building age.`,
       timeframe: `First hour`,
     },
     {
@@ -108,7 +108,7 @@ Our IICRC Master Water Restorers understand both legacy and modern construction 
   },
   pricingSection: {
     headline: `Water Damage Restoration Costs in Sterling`,
-    intro: `Sterling water damage restoration costs vary based on your home's age, construction materials, and damage scope. We provide free inspections and detailed estimates before work begins. Most Sterling homeowners file insurance claims, and we handle direct billing with all major carriers. For older Sterling Park homes, we provide honest assessments of what needs restoration versus what needs repair.`,
+    intro: `Sterling water damage restoration costs vary based on your home's age, construction materials, and damage scope. We provide free inspections and detailed estimates before work begins. Most Sterling homeowners file insurance claims, and we handle insurance documentation and carrier coordination. For older Sterling Park homes, we provide honest assessments of what needs restoration versus what needs repair.`,
     factors: [
       `Home age and construction materials—1970s plaster and hardwood require different approaches than modern drywall and engineered flooring`,
       `Water source and category—aging plumbing failures differ from storm flooding or sewage backup`,
@@ -136,7 +136,7 @@ Our IICRC Master Water Restorers understand both legacy and modern construction 
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute response to all Sterling neighborhoods. Our crews are positioned along the Route 7 corridor for immediate dispatch to Sterling Park, Cascades, Countryside, and surrounding communities.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -157,7 +157,7 @@ Our IICRC Master Water Restorers understand both legacy and modern construction 
     },
     {
       question: `Do you work with insurance companies for Sterling water damage claims?`,
-      answer: `Yes. We handle direct billing with all major carriers and provide the detailed documentation adjusters require—moisture readings, daily logs, photo documentation, and itemized estimates. Our thorough documentation helps Sterling homeowners receive fair settlements.`,
+      answer: `Yes. We handle insurance documentation and carrier coordination and provide the detailed documentation adjusters require—moisture readings, daily logs, photo documentation, and itemized estimates. Our thorough documentation helps Sterling homeowners receive fair settlements.`,
     },
     {
       question: `How do older Sterling homes differ from newer ones for water damage restoration?`,
@@ -165,7 +165,7 @@ Our IICRC Master Water Restorers understand both legacy and modern construction 
     },
     {
       question: `What makes Flood Doctor different from national restoration chains?`,
-      answer: `We are locally rooted and Sterling-focused. Our crews know the difference between a Sterling Park split-level and a Cascades townhome. We are positioned along the Route 7 corridor for 30-minute response—not dispatching from a distant location. And we provide practical, affordable service without unnecessary upselling.`,
+      answer: `We are locally rooted and Sterling-focused. Our crews know the difference between a Sterling Park split-level and a Cascades townhome. We are positioned along the Route 7 corridor for rapid response—not dispatching from a distant location. And we provide practical, affordable service without unnecessary upselling.`,
     },
   ],
   relatedBlogSlugs: [
@@ -175,6 +175,6 @@ Our IICRC Master Water Restorers understand both legacy and modern construction 
   ],
   finalCTA: {
     headline: `Water Damage Emergency in Sterling?`,
-    paragraph: `Every hour of delay means more damage to your home. Whether you are in a 1970s Sterling Park rancher or a Cascades townhome, our crews are positioned along the Route 7 corridor for immediate 30-minute response. One call handles everything—from water extraction to insurance documentation.`,
+    paragraph: `Every hour of delay means more damage to your home. Whether you are in a 1970s Sterling Park rancher or a Cascades townhome, our crews are positioned along the Route 7 corridor for immediate rapid response. One call handles everything—from water extraction to insurance documentation.`,
   },
 }

@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Public Facility Response',
-      description: `We respond within 30 minutes to municipal and school emergencies, coordinating with facility managers, school administrators, and local emergency management. Public safety assessment takes priority.`,
-      timeframe: 'Within 30 minutes',
+      description: `We respond as soon as crews are available to municipal and school emergencies, coordinating with facility managers, school administrators, and local emergency management. Public safety assessment takes priority.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Facility-Specific Assessment',
@@ -42,7 +42,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Government Documentation',
-      description: `Complete documentation meets government procurement requirements—detailed invoicing, scope documentation, progress records, and compliance certifications. We format reports for public entity record-keeping requirements.`,
+      description: `Complete documentation meets government procurement requirements—detailed invoicing, scope documentation, progress records, and compliance qualifications. We format reports for public entity record-keeping requirements.`,
       timeframe: 'At completion',
     },
   ],
@@ -54,7 +54,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Large Facility Scale',
-      description: `Municipal buildings and schools feature large open areas—gymnasiums, cafeterias, auditoriums—that require commercial-scale equipment and techniques. These spaces have different drying characteristics than standard commercial offices.`,
+      description: `Municipal buildings and schools feature large open areas—gymnasiums, cafeterias, auditoriums—that require commercial-scale equipment and techniques. These spaces have different drying characteristics than standard commercial workspaces.`,
       solution: `We deploy equipment configured for large open volumes. High-capacity dehumidifiers and commercial air movers address the unique psychrometric challenges of gymnasium and cafeteria spaces.`,
     },
     {
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute emergency response to all Chantilly public facilities. School emergencies during the school year receive maximum priority.`,
+    responseTime: `rapid emergency response to all Chantilly public facilities. School emergencies during the school year receive maximum priority.`,
   },
   faqs: [
     {
@@ -131,6 +131,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Public Facility Emergency in Chantilly?',
-    paragraph: `Schools and public buildings serve Chantilly's community every day. Our public facility team responds within 30 minutes with the scale, compliance, and urgency your facility requires. Call (877) 497-0007 now.`,
+    paragraph: `Schools and public buildings serve Chantilly's community every day. Our public facility team responds as soon as crews are available with the scale, compliance, and urgency your facility requires. Call (877) 497-0007 now.`,
   },
 }

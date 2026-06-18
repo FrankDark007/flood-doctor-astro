@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Springfield, VA | Flood Doctor',
-    description: `Springfield's odor elimination experts. Permanent mold, sewage & smoke odor treatment for West Springfield, Franconia & Kingstowne homes. Military-friendly. Call (877) 497-0007.`,
+    description: `Springfield's odor elimination specialists. Permanent mold, sewage & smoke odor treatment for West Springfield, Franconia & Kingstowne homes. Military-friendly. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Springfield, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Springfield families deal with odor challenges rooted in the community established construction and infrastructure. The musty smell in your West Springfield split-level basement has likely been building for years — mold growing behind block foundation walls where decades of moisture seepage created ideal conditions invisible from inside. The sewer odor that surfaces in your Franconia colonial during heavy rain traces to aging municipal connections where tree root intrusion and pipe deterioration allow gases to infiltrate your home. The persistent dampness in your Rolling Valley home near Lake Accotink reflects chronic water table conditions that feed mold in foundations and crawl spaces year-round.
 
-Flood Doctor has eliminated entrenched odors from Springfield homes in every neighborhood — resolving decades-old musty conditions in West Springfield split-levels where block foundation moisture had created extensive hidden mold, removing sewage odors from Newington colonials where lateral line failures connected to overtaxed municipal infrastructure, and treating persistent dampness in Kingstowne townhomes where shared drainage systems directed water toward rather than away from foundations.`,
+Flood Doctor has eliminated entrenched odors from Springfield homes in neighborhoods across the service area — resolving decades-old musty conditions in West Springfield split-levels where block foundation moisture had created extensive hidden mold, removing sewage odors from Newington colonials where lateral line failures connected to overtaxed municipal infrastructure, and treating persistent dampness in Kingstowne townhomes where shared drainage systems directed water toward rather than away from foundations.`,
       `Professional odor elimination in Springfield addresses the specific construction characteristics that harbor persistent smells. Block foundations in 1960s split-levels absorb and retain moisture, providing a perpetual food source for mold colonies in concealed wall cavities. Older cast iron and clay tile drain lines develop the cracks and joint separations that release sewer gases. Townhome shared walls can transfer mold odors between connected properties.
 
 Our technicians deploy hydroxyl generators that safely neutralize odor molecules while your family stays home — no evacuation, safe for children and pets. Thermal fogging reaches deep into block foundations, wall cavities, and porous concrete where odor compounds embed. Ozone provides maximum destruction for severe contamination. We match the treatment to your Springfield home's construction era and the specific odor chemistry involved, ensuring permanent results rather than temporary masking.`,
@@ -125,7 +125,7 @@ Our technicians deploy hydroxyl generators that safely neutralize odor molecules
       'Ravensworth',
       'Kings Park West',
     ],
-    responseTime: '30-minute emergency response. Non-emergency assessments within 24-48 hours throughout Springfield.',
+    responseTime: 'rapid emergency response. Non-emergency assessments within 24-48 hours throughout Springfield.',
   },
   faqs: [
     {
@@ -145,8 +145,8 @@ Our technicians deploy hydroxyl generators that safely neutralize odor molecules
       answer: 'Mild odors resolve in 1-2 days. Musty basement mold odors need 3-5 days. Sewer and smoke odors require 3-5 days. Chronic conditions with extensive block foundation mold may need 5-7 days. Realistic timelines provided after assessment.',
     },
     {
-      question: 'Do you work with military housing offices?',
-      answer: 'Yes. We understand military housing requirements, inspection standards, and PCS timelines. Documentation meets military housing office specifications. We prioritize efficient scheduling for families with deployment or relocation deadlines.',
+      question: 'Do you work with military housing workspaces?',
+      answer: 'Yes. We understand military housing requirements, inspection standards, and PCS timelines. Documentation meets military housing workspace specifications. We prioritize efficient scheduling for families with deployment or relocation deadlines.',
     },
     {
       question: 'Is odor removal covered by insurance?',

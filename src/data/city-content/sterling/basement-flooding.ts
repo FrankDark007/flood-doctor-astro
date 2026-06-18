@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Basement Flooding Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling basement flooding experts. Sump pump failures, Sugarland Run creek flooding, aging waterproofing in Sterling Park. 30-min response to Cascades & Countryside. Call (877) 497-0007.`,
+    description: `Sterling basement flooding specialists. Sump pump failures, Sugarland Run creek flooding, aging waterproofing in Sterling Park. rapid response to Cascades & Countryside. Call (877) 497-0007.`,
   },
   h1: `Basement Flooding Cleanup in Sterling, Virginia`,
   introSection: {
-    headline: `Sterling's Basement Flooding Experts — From Sterling Park to Cascades`,
+    headline: `Sterling's Basement Flooding Specialists — From Sterling Park to Cascades`,
     paragraphs: [
       `Basement flooding is the single most common water damage emergency in Sterling, and the cause varies dramatically by neighborhood. Sterling Park split-levels built in the 1970s-80s have basements where original waterproofing has failed after 40-50 years, footer drains have clogged with sedite, and aging sump pumps run past their service life. Sugarland Run creek-adjacent properties flood during spring storms when creek water overwhelms even newer prevention systems. Cascades and Countryside townhomes experience lower-level flooding from shared drainage system failures and storm sewer overwhelm near the Sterling Community Center area.
 
-Flood Doctor has pumped out flooded basements across every Sterling neighborhood. We have extracted thousands of gallons from Sterling Park split-levels after spring storms, dried Cascades finished lower levels after sump pump failures, and restored Countryside basements after storm sewer backup. Our 30-minute response means less standing water, less material damage, and lower restoration costs for Sterling families.`,
-      `Sterling basements present a range of finishing levels that affect restoration complexity. Sterling Park homes often have partially finished basements with a mix of finished and utility spaces—paneling, carpet, drop ceilings over exposed utility areas. Cascades homes typically have fully finished lower levels serving as primary living space—home theaters, offices, playrooms. The more finished the basement, the more extensive the restoration when flooding occurs, and the more important rapid response becomes.
+Our rapid response means less standing water, less material damage, and lower restoration costs for Sterling families.`,
+      `Sterling basements present a range of finishing levels that affect restoration complexity. Sterling Park homes often have partially finished basements with a mix of finished and utility spaces—paneling, carpet, drop ceilings over exposed utility areas. Cascades homes typically have fully finished lower levels serving as primary living space—home theaters, workspaces, playrooms. The more finished the basement, the more extensive the restoration when flooding occurs, and the more important rapid response becomes.
 
 Our crews assess basement construction and finishing level as part of our initial response. We prioritize extraction to limit damage to finished materials, deploy drying equipment calibrated for the specific construction present, and document everything for insurance. For Sterling Park homes with recurring flooding, we recommend practical, affordable improvements that address the root cause.`,
     ],
@@ -21,8 +21,8 @@ Our crews assess basement construction and finishing level as part of our initia
   processSteps: [
     {
       title: `Emergency Basement Response`,
-      description: `Call (877) 497-0007 at the first sign of basement water. Our crews reach Sterling Park, Cascades, Countryside, and all Sterling neighborhoods within 30 minutes. Every hour of standing water means more damage to your finished basement—speed is the critical factor.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 at the first sign of basement water. Our crews reach Sterling Park, Cascades, Countryside, and all Sterling neighborhoods as soon as crews are available. Every hour of standing water means more damage to your finished basement—speed is the critical factor.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Flood Source Identification`,
@@ -63,7 +63,7 @@ Our crews assess basement construction and finishing level as part of our initia
     },
     {
       title: `Finished Basement Damage in Cascades Townhomes`,
-      description: `Cascades townhome lower levels function as primary living space—home offices, family rooms, bedrooms. Flooding destroys expensive finishes, electronics, furniture, and personal belongings. The financial impact of a flooded finished basement in Cascades is substantially higher than an unfinished utility space.`,
+      description: `Cascades townhome lower levels function as primary living space—home workspaces, family rooms, bedrooms. Flooding destroys expensive finishes, electronics, furniture, and personal belongings. The financial impact of a flooded finished basement in Cascades is substantially higher than an unfinished utility space.`,
       solution: `Rapid response limits damage to finished materials. We prioritize extraction to protect flooring, drywall, and trim. Our insurance documentation captures the full scope of finished basement damage, including built-in features and custom finishes that generic estimates miss.`,
     },
     {
@@ -99,7 +99,7 @@ Our crews assess basement construction and finishing level as part of our initia
       },
       {
         name: `Moisture Detection Equipment`,
-        purpose: `Verify complete drying of basement walls, floors, and above-ceiling cavities before restoration begins`,
+        purpose: `Verify documented drying of basement walls, floors, and above-ceiling cavities before restoration begins`,
         brand: `FLIR`,
       },
     ],
@@ -135,7 +135,7 @@ Our crews assess basement construction and finishing level as part of our initia
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute basement flooding response to all Sterling neighborhoods. Priority dispatch during storm events when multiple homes are affected. Call (877) 497-0007.`,
+    responseTime: `rapid basement flooding response to all Sterling neighborhoods. Priority dispatch during storm events when multiple homes are affected. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -174,6 +174,6 @@ Our crews assess basement construction and finishing level as part of our initia
   ],
   finalCTA: {
     headline: `Basement Flooding in Sterling?`,
-    paragraph: `Every hour of standing water causes more damage to your finished basement. Our crews are positioned along the Route 7 corridor for 30-minute response to all Sterling neighborhoods. Call now—we handle extraction, drying, and insurance so you can focus on your family.`,
+    paragraph: `Every hour of standing water causes more damage to your finished basement. Our crews are positioned along the Route 7 corridor for rapid response to all Sterling neighborhoods. Call now—we handle extraction, drying, and insurance so you can focus on your family.`,
   },
 }

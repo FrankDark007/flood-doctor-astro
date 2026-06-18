@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Lorton, VA | Flood Doctor',
-    description: 'Professional flood cleanup in Lorton. Occoquan River watershed flooding experts. Serving Mason Neck & waterfront properties. 24/7 response. Call (877) 497-0007.',
+    description: 'Professional flood cleanup in Lorton. Occoquan River watershed flooding specialists. Serving Mason Neck & waterfront properties. 24/7 response. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup & Restoration in Lorton, Virginia',
   introSection: {
     headline: `Expert Flood Response for Lorton's Waterfront Community`,
     paragraphs: [
-      `Flooding in Lorton strikes from multiple sources—the Occoquan River overflowing its banks during tropical storms, Pohick Creek surging after spring downpours, storm drainage overwhelmed throughout South County, or tidal backflow affecting Mason Neck's waterfront properties. When floodwater enters your home, you need restoration experts who understand Lorton's unique flooding risks.
+      `Flooding in Lorton strikes from multiple sources—the Occoquan River overflowing its banks during tropical storms, Pohick Creek surging after spring downpours, storm drainage overwhelmed throughout South County, or tidal backflow affecting Mason Neck's waterfront properties. When floodwater enters your home, you need restoration specialists who understand Lorton's unique flooding risks.
 
-Flood Doctor has responded to every major flood event in Lorton for nearly two decades. We've cleaned up after tropical storm remnants flooded Occoquan River properties, extracted floodwater from Laurel Hill basements when storm drains backed up, and restored Mason Neck homes after tidal surge events. When Lorton floods, we're already positioned to respond.`,
+When Lorton floods, we're already positioned to respond.`,
       `Lorton's location within the Occoquan River watershed creates flood vulnerability that extends miles from actual waterfront. Heavy rainfall in upstream areas creates downstream flooding in our community hours later. Mason Neck's proximity to the Potomac means tidal influences during storm surge. South County's rapid development sometimes strains storm drainage beyond design capacity.
 
-Our IICRC-certified flood restoration crews understand that floodwater isn't clean water—it's contaminated Category 2 or 3 water requiring specialized cleanup protocols to protect your family's health.`,
+Our trained flood restoration crews understand that floodwater isn't clean water—it's contaminated Category 2 or 3 water requiring specialized cleanup protocols to protect your family's health.`,
     ],
-    localContext: `Lorton's flood risks range from Occoquan River overflow to tidal surge on Mason Neck to storm drainage backup throughout South County and Laurel Hill. We've restored flood-damaged homes throughout our watershed community for years.`,
+    localContext: `Lorton's flood risks range from Occoquan River overflow to tidal surge on Mason Neck to storm drainage backup throughout South County and Laurel Hill. `,
   },
   processSteps: [
     {
       title: 'Emergency Flood Response',
-      description: `When flooding strikes Lorton, call (877) 497-0007 immediately. Our crews dispatch from South Fairfax County positions to reach flooded properties within 30 minutes—even during active weather events when many companies won't respond.`,
-      timeframe: 'Within 30 minutes',
+      description: `When flooding strikes Lorton, call (877) 497-0007 immediately. Our crews dispatch from South Fairfax County positions to reach flooded properties as soon as crews are available—even during active weather events when many companies won't respond.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Safety Assessment & Documentation',
@@ -74,7 +74,7 @@ Our IICRC-certified flood restoration crews understand that floodwater isn't cle
     {
       title: 'Contamination Category Assessment',
       description: 'Not all flood water is equally hazardous. River overflow differs from sewage backup. Storm runoff varies in contamination based on what it contacted. Proper restoration requires accurate contamination assessment.',
-      solution: 'Our IICRC-certified crews assess water category based on source and contact—then apply appropriate protocols. Category 2 (grey water) and Category 3 (black water) flood events require escalated sanitization procedures.',
+      solution: 'Our trained crews assess water category based on source and contact—then apply appropriate protocols. Category 2 (grey water) and Category 3 (black water) flood events require escalated sanitization procedures.',
     },
   ],
   equipmentSection: {
@@ -140,7 +140,7 @@ Our IICRC-certified flood restoration crews understand that floodwater isn't cle
       'South Run',
       'Silverbrook',
     ],
-    responseTime: 'Emergency flood response to all Lorton neighborhoods within 30 minutes. We respond during active flooding events—not after the water recedes—to begin cleanup immediately.',
+    responseTime: 'Emergency flood response to all Lorton neighborhoods as soon as crews are available. We respond during active flooding events—not after the water recedes—to begin cleanup immediately.',
   },
   faqs: [
     {
@@ -183,6 +183,6 @@ Our IICRC-certified flood restoration crews understand that floodwater isn't cle
   ],
   finalCTA: {
     headline: 'Flooding Emergency in Lorton?',
-    paragraph: `Floodwater creates immediate health hazards and worsening damage every hour. Don't attempt cleanup yourself—contaminated water requires professional protocols. We respond within 30 minutes with proper equipment and expertise to handle Lorton's flood events safely.`,
+    paragraph: `Floodwater creates immediate health hazards and worsening damage every hour. Don't attempt cleanup yourself—contaminated water requires professional protocols. We respond as soon as crews are available with proper equipment and expertise to handle Lorton's flood events safely.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Springfield, VA | Flood Doctor',
-    description: 'Springfield mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
+    description: 'Springfield mold removal specialists. trained remediation for basement mold, hidden growth & water damage mold. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in Springfield, Virginia',
   introSection: {
@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       `Springfield's mold problems are architectural in origin. The split-level homes that define West Springfield, Saratoga, and Rolling Valley were designed in the 1960s and 1970s with below-grade family rooms built directly against earth-contact concrete walls — often with nothing more than furring strips, fiberglass batts, and wood paneling between the living space and the foundation. This construction creates a permanent moisture trap: warm interior air meets the cool concrete surface, condensation forms behind the paneling where it cannot evaporate, and mold colonizes the concealed space.
 
 This isn't a construction defect — it's a design approach from before building science understood vapor dynamics in below-grade assemblies. Virtually every original split-level in Springfield with finished below-grade space has some degree of concealed moisture accumulation. The question isn't whether moisture is present behind those basement walls — it's whether conditions have progressed to active mold colonization.`,
-      `Flood Doctor has remediated hundreds of Springfield split-levels since 2007. Homeowners notice a musty odor in the lower-level family room, especially during humid summer months, or see condensation on the paneling. When we remove the paneling, we typically find mold across 60-80% of the foundation wall surface, extending up furring strips, across floor joists above, and into fiberglass insulation saturated beyond recovery.
+      `Homeowners notice a musty odor in the lower-level family room, especially during humid summer months, or see condensation on the paneling. When we remove the paneling, we typically find mold across 60-80% of the foundation wall surface, extending up furring strips, across floor joists above, and into fiberglass insulation saturated beyond recovery.
 
 Springfield's challenge extends beyond immediate contamination. These split-level designs route HVAC return air through the below-grade level, pulling spore-laden air from the contaminated family room through ductwork serving the entire house. Additionally, many split-levels have had bathroom additions or laundry relocations to the lower level over the decades, introducing plumbing through concrete slabs and foundation walls — creating water entry points the original construction never anticipated.`,
     ],
@@ -79,7 +79,7 @@ Springfield's challenge extends beyond immediate contamination. These split-leve
     {
       title: 'Pre-1980 Asbestos and Mold Co-Occurrence',
       description: 'Springfield split-levels built before 1980 frequently contain asbestos in 9x9 vinyl floor tiles, pipe insulation, HVAC duct tape, and textured ceilings. Disturbing these materials during mold demolition creates airborne fiber hazards far more dangerous than the mold itself.',
-      solution: 'We screen for asbestos before any demolition and coordinate with licensed abatement contractors. Abatement occurs first under separate containment, followed by mold remediation — satisfying both EPA asbestos regulations and IICRC mold standards.',
+      solution: 'We screen for asbestos before any demolition and coordinate with licensed abatement contractors. Abatement occurs first under separate containment, followed by mold remediation — satisfying both EPA asbestos regulations and industry-standard mold standards.',
     },
   ],
   equipmentSection: {
@@ -160,7 +160,7 @@ Springfield's challenge extends beyond immediate contamination. These split-leve
       answer: `Split-level HVAC systems pull return air from the lower level and distribute it to bedrooms. If there's mold below — even concealed behind walls — spores travel to your bedroom through supply ducts. If symptoms improve when you sleep elsewhere, lower-level mold affecting HVAC distribution is a likely cause.`,
     },
     {
-      question: 'Our sump pump failed last spring and the lower level flooded — is mold guaranteed?',
+      question: 'Our sump pump failed last spring and the lower level flooded — is mold documented?',
       answer: 'If standing water contacted the wall assembly for more than 48 hours without professional drying within 72 hours, mold growth is highly probable. Fiberglass insulation behind paneling absorbs water and never dries in a sealed assembly. An assessment with moisture readings and air sampling will determine current conditions.',
     },
     {
@@ -171,6 +171,6 @@ Springfield's challenge extends beyond immediate contamination. These split-leve
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: 'Springfield Split-Level Mold Problems? We Specialize in These Homes.',
-    paragraph: `Our IICRC-certified technicians have remediated hundreds of Springfield split-levels. We understand the construction methods, the moisture patterns, and the right way to rebuild below-grade assemblies so mold doesn't return.`,
+    paragraph: `Our trained technicians have remediated hundreds of Springfield split-levels. We understand the construction methods, the moisture patterns, and the right way to rebuild below-grade assemblies so mold doesn't return.`,
   },
 }

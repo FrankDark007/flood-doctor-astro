@@ -9,10 +9,10 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Specialized Restoration for Falls Church's Commercial and Light Industrial Properties`,
     paragraphs: [
-      `Falls Church's commercial and light industrial landscape concentrates along the Seven Corners, Baileys Crossroads, and Leesburg Pike corridors—a dense mix of commercial buildings, restaurant operations, specialty retailers, and light industrial facilities. The Eden Center houses dozens of businesses in interconnected commercial spaces. Seven Corners commercial properties range from aging strip centers to modern mixed-use buildings. Baileys Crossroads supports auto repair shops, commercial kitchens, medical offices, and specialty manufacturing operations. When water damage strikes these properties, the restoration must navigate dense commercial environments where a single building failure affects multiple businesses and diverse operations.
+      `Falls Church's commercial and light industrial landscape concentrates along the Seven Corners, Baileys Crossroads, and Leesburg Pike corridors—a dense mix of commercial buildings, restaurant operations, specialty retailers, and light industrial facilities. The Eden Center houses dozens of businesses in interconnected commercial spaces. Seven Corners commercial properties range from aging strip centers to modern mixed-use buildings. Baileys Crossroads supports auto repair shops, commercial kitchens, medical workspaces, and specialty manufacturing operations. When water damage strikes these properties, the restoration must navigate dense commercial environments where a single building failure affects multiple businesses and diverse operations.
 
-Flood Doctor provides industrial-grade restoration services throughout Falls Church, combining HAZWOPER-certified crews with the practical commercial expertise this corridor demands. Our technicians understand multi-tenant commercial building coordination, restaurant equipment restoration, and the aging infrastructure challenges of Falls Church's 1950s-1970s commercial construction. When water threatens your Falls Church commercial operation, we deliver technical capability adapted to each facility type.`,
-      `Commercial water damage in Falls Church follows the area's dense, interconnected building patterns. Eden Center's multi-tenant commercial complex channels water between businesses through shared walls and building systems. Seven Corners commercial buildings feature aging roofing and plumbing that create recurring water intrusion events. Baileys Crossroads auto repair and industrial operations house equipment and chemicals requiring specialized handling during restoration. Medical offices along Leesburg Pike maintain controlled environments and sensitive equipment that water damage can compromise.
+Flood Doctor provides industrial-grade restoration services throughout Falls Church, combining HAZWOPER-trained crews with the practical commercial expertise this corridor demands. Our technicians understand multi-tenant commercial building coordination, restaurant equipment restoration, and the aging infrastructure challenges of Falls Church's 1950s-1970s commercial construction. When water threatens your Falls Church commercial operation, we deliver technical capability adapted to each facility type.`,
+      `Commercial water damage in Falls Church follows the area's dense, interconnected building patterns. Eden Center's multi-tenant commercial complex channels water between businesses through shared walls and building systems. Seven Corners commercial buildings feature aging roofing and plumbing that create recurring water intrusion events. Baileys Crossroads auto repair and industrial operations house equipment and chemicals requiring specialized handling during restoration. Medical workspaces along Leesburg Pike maintain controlled environments and sensitive equipment that water damage can compromise.
 
 Our commercial restoration approach addresses both the physical damage and the business disruption specific to Falls Church's diverse commercial community. We prioritize revenue-critical equipment, coordinate with multiple tenants in shared buildings, and provide documentation supporting insurance claims for each affected business. Falls Church's commercial operators—from Eden Center restaurant owners to Pimmit Hills medical practitioners—need restoration partners who understand that different business types face different risks and require different approaches.`,
     ],
@@ -22,11 +22,11 @@ Our commercial restoration approach addresses both the physical damage and the b
     {
       title: `Emergency Response and Multi-Tenant Coordination`,
       description: `Call (877) 497-0007 for immediate commercial response. For multi-tenant buildings like Eden Center, we coordinate with building management for access to all affected businesses. Our crews arrive with extraction equipment and anti-corrosion treatment for immediate equipment protection.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Facility Assessment and Business-Specific Evaluation`,
-      description: `Our technicians assess damage scope with attention to each business type. Restaurant equipment requires food safety evaluation. Medical offices need sterile environment restoration. Auto repair facilities may involve hazardous material management. Each tenant receives a facility-specific assessment.`,
+      description: `Our technicians assess damage scope with attention to each business type. Restaurant equipment requires food safety evaluation. Medical workspaces need sterile environment restoration. Auto repair facilities may involve hazardous material management. Each tenant receives a facility-specific assessment.`,
       timeframe: `Hours 1-3`,
     },
     {
@@ -41,7 +41,7 @@ Our commercial restoration approach addresses both the physical damage and the b
     },
     {
       title: `Commercial-Grade Structural Drying`,
-      description: `Dehumidifiers and air movers accelerate drying while maintaining conditions appropriate for each business type—food-safe for restaurants, sterile for medical offices, and equipment-compatible for industrial operations throughout Falls Church commercial corridors.`,
+      description: `Dehumidifiers and air movers accelerate drying while maintaining conditions appropriate for each business type—food-safe for restaurants, sterile for medical workspaces, and equipment-compatible for industrial operations throughout Falls Church commercial corridors.`,
       timeframe: `Days 1-5`,
     },
     {
@@ -53,7 +53,7 @@ Our commercial restoration approach addresses both the physical damage and the b
   localChallenges: [
     {
       title: `Eden Center Multi-Tenant Complexity`,
-      description: `Eden Center houses dozens of businesses in interconnected commercial spaces. Water damage from a plumbing failure or roof leak can affect multiple restaurants, shops, and offices simultaneously. Shared walls, common plumbing risers, and building-wide HVAC systems distribute water and contamination beyond the initial failure point.`,
+      description: `Eden Center houses dozens of businesses in interconnected commercial spaces. Water damage from a plumbing failure or roof leak can affect multiple restaurants, shops, and workspaces simultaneously. Shared walls, common plumbing risers, and building-wide HVAC systems distribute water and contamination beyond the initial failure point.`,
       solution: `We assess the full building impact, not just the immediately visible damage. Individual documentation for each affected business supports separate insurance claims. We coordinate access through building management and sequence restoration to return businesses to operation individually as their spaces pass clearance.`,
     },
     {
@@ -67,9 +67,9 @@ Our commercial restoration approach addresses both the physical damage and the b
       solution: `Our technicians trace water migration through aging commercial construction, identifying hidden moisture in wall cavities and ceiling spaces that standard assessment misses. We document pre-existing infrastructure conditions separately from water damage, supporting insurance claims and helping building owners plan preventive maintenance.`,
     },
     {
-      title: `Medical and Professional Office Environment Recovery`,
-      description: `Falls Church's Leesburg Pike and Pimmit Hills corridors house medical offices, dental practices, and professional services maintaining controlled environments with sensitive equipment. Water damage compromises sterile conditions, damages medical equipment, and triggers regulatory requirements for reopening.`,
-      solution: `We restore medical and professional office environments to their pre-loss specifications, monitoring air quality and environmental conditions throughout drying. Equipment restoration follows manufacturer protocols, and documentation supports both insurance claims and regulatory clearance requirements for medical facility reopening.`,
+      title: `Medical and Professional Workspace Environment Recovery`,
+      description: `Falls Church's Leesburg Pike and Pimmit Hills corridors house medical workspaces, dental practices, and professional services maintaining controlled environments with sensitive equipment. Water damage compromises sterile conditions, damages medical equipment, and triggers regulatory requirements for reopening.`,
+      solution: `We restore medical and professional workspace environments to their stable specifications, monitoring air quality and environmental conditions throughout drying. Equipment restoration follows manufacturer protocols, and documentation supports both insurance claims and regulatory clearance requirements for medical facility reopening.`,
     },
   ],
   equipmentSection: {
@@ -82,7 +82,7 @@ Our commercial restoration approach addresses both the physical damage and the b
       },
       {
         name: `Desiccant Dehumidifiers`,
-        purpose: `Commercial moisture removal for diverse business environments—restaurants, medical offices, and retail spaces each requiring different drying conditions`,
+        purpose: `Commercial moisture removal for diverse business environments—restaurants, medical workspaces, and retail spaces each requiring different drying conditions`,
         brand: `Munters`,
       },
       {
@@ -100,12 +100,12 @@ Our commercial restoration approach addresses both the physical damage and the b
       },
       {
         name: `HEPA Filtration Units`,
-        purpose: `Particulate control for medical office restoration and food service environments requiring clean air conditions`,
+        purpose: `Particulate control for medical workspace restoration and food service environments requiring clean air conditions`,
         brand: `Phoenix`,
       },
       {
         name: `Environmental Monitoring Systems`,
-        purpose: `Temperature, humidity, and air quality tracking for medical office and food service environment restoration verification`,
+        purpose: `Temperature, humidity, and air quality tracking for medical workspace and food service environment restoration verification`,
       },
     ],
     localNote: `Our Falls Church commercial response vehicles carry equipment adapted for the corridor's diverse business types—restaurant-grade cleaning systems, medical environment restoration tools, and industrial extraction for commercial buildings.`,
@@ -114,11 +114,11 @@ Our commercial restoration approach addresses both the physical damage and the b
     headline: `Commercial and Industrial Restoration Costs in Falls Church`,
     intro: `Commercial restoration costs in Falls Church vary by business type, building age, and the number of affected tenants in multi-tenant properties. We provide individual estimates for each affected business while coordinating building-level restoration work under unified project management.`,
     factors: [
-      `Business type—restaurants, medical offices, retail, and industrial spaces each present different restoration requirements and compliance needs`,
+      `Business type—restaurants, medical workspaces, retail, and industrial spaces each present different restoration requirements and compliance needs`,
       `Multi-tenant building coordination—shared infrastructure work and individual tenant restoration require separate scoping`,
       `Equipment specifics—commercial kitchen equipment, medical instruments, and industrial machinery require different restoration approaches`,
       `Building age and condition—aging Falls Church commercial construction may present additional infrastructure challenges`,
-      `Regulatory clearance—health department inspections for restaurants and medical offices add compliance documentation requirements`,
+      `Regulatory clearance—health department inspections for restaurants and medical workspaces add compliance documentation requirements`,
     ],
     cta: `Call (877) 497-0007 for emergency commercial or industrial facility assessment. We provide tenant-specific estimates and coordinate with building management for multi-business restoration.`,
   },
@@ -138,7 +138,7 @@ Our commercial restoration approach addresses both the physical damage and the b
       `Annandale Road`,
       `West Falls Church Metro Area`,
     ],
-    responseTime: `45-minute emergency response to all Falls Church commercial and industrial facilities. Multi-tenant building response includes coordination with building management for comprehensive access.`,
+    responseTime: `prompt emergency response to all Falls Church commercial and industrial facilities. Multi-tenant building response includes coordination with building management for comprehensive access.`,
   },
   faqs: [
     {
@@ -150,8 +150,8 @@ Our commercial restoration approach addresses both the physical damage and the b
       answer: `Yes. We follow food safety protocols during restoration and coordinate with Fairfax County Health Department for reopening inspections. Kitchen equipment restoration meets health code standards, and our documentation supports each restaurant's clearance application.`,
     },
     {
-      question: `What about medical office restoration in Falls Church?`,
-      answer: `We restore medical environments to pre-loss specifications, maintaining air quality and environmental monitoring throughout. Equipment restoration follows manufacturer protocols. Documentation supports both insurance claims and regulatory clearance for medical facility reopening.`,
+      question: `What about medical workspace restoration in Falls Church?`,
+      answer: `We restore medical environments to stable specifications, maintaining air quality and environmental monitoring throughout. Equipment restoration follows manufacturer protocols. Documentation supports both insurance claims and regulatory clearance for medical facility reopening.`,
     },
     {
       question: `How do you handle aging commercial building water damage?`,
@@ -167,7 +167,7 @@ Our commercial restoration approach addresses both the physical damage and the b
     },
     {
       question: `What is your response time for Falls Church commercial emergencies?`,
-      answer: `We guarantee 45-minute response to Falls Church commercial and industrial properties. Our crews carry extraction equipment and anti-corrosion treatment materials for immediate equipment protection. Multi-tenant building response coordinates with building management for comprehensive access.`,
+      answer: `We service commitment prompt response to Falls Church commercial and industrial properties. Our crews carry extraction equipment and anti-corrosion treatment materials for immediate equipment protection. Multi-tenant building response coordinates with building management for comprehensive access.`,
     },
   ],
   relatedBlogSlugs: [
@@ -175,6 +175,6 @@ Our commercial restoration approach addresses both the physical damage and the b
   ],
   finalCTA: {
     headline: `Commercial or Industrial Emergency in Falls Church?`,
-    paragraph: `Business downtime and equipment damage compound by the hour. Our crews respond to Falls Church commercial properties within 45 minutes with extraction equipment adapted to your business type. Call (877) 497-0007 now.`,
+    paragraph: `Business downtime and equipment damage compound by the hour. Our crews respond to Falls Church commercial properties as soon as crews are available with extraction equipment adapted to your business type. Call (877) 497-0007 now.`,
   },
 }

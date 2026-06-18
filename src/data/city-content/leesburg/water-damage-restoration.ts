@@ -7,10 +7,10 @@ export const content: CityServiceContent = {
   },
   h1: `Leesburg Water Damage Restoration`,
   introSection: {
-    headline: `Trusted Water Damage Restoration for Leesburg's Historic and Modern Properties`,
+    headline: `Local Water Damage Restoration for Leesburg's Historic and Modern Properties`,
     paragraphs: [
       `As Loudoun County's historic county seat, Leesburg presents unique water damage restoration challenges that demand specialized expertise. From the 18th-century stone foundations along King Street to the modern construction in Village at Leesburg, every property requires a tailored approach. Flood Doctor combines historic preservation knowledge with cutting-edge restoration technology to protect Leesburg's diverse housing stock from water damage of all types.`,
-      `Whether you own a pre-Civil War home in the Leesburg Historic District, a luxury estate in Lansdowne, or a newer family home near Evergreen Mills, our IICRC-certified technicians respond within 60 minutes with the equipment and expertise to minimize damage and begin restoration immediately. We understand the irreplaceable nature of Leesburg's historic architecture and treat every property with the care it deserves.`,
+      `Whether you own a pre-Civil War home in the Leesburg Historic District, a luxury estate in Lansdowne, or a newer family home near Evergreen Mills, our trained technicians respond as soon as safely possible minutes with the equipment and expertise to minimize damage and begin restoration immediately. We understand the irreplaceable nature of Leesburg's historic architecture and treat every property with the care it deserves.`,
     ],
     localContext: `Leesburg's position along Goose Creek and its mix of centuries-old and newly developed properties create distinct water damage patterns that require local expertise to address effectively.`,
   },
@@ -23,7 +23,7 @@ export const content: CityServiceContent = {
     {
       title: `Damage Assessment & Documentation`,
       description: `We conduct thorough moisture mapping using infrared cameras and penetrating meters, paying special attention to Leesburg's stone foundations, plaster walls, and historic architectural features that trap hidden moisture.`,
-      timeframe: `30-60 minutes`,
+      timeframe: `as soon as crews are available`,
     },
     {
       title: `Water Extraction`,
@@ -88,7 +88,7 @@ export const content: CityServiceContent = {
       `Property age and construction type — historic plaster vs. modern drywall`,
       `Total affected square footage, including basements and crawl spaces`,
       `Need for specialized historic preservation techniques`,
-      `Insurance coverage and direct billing availability`,
+      `Insurance coverage and carrier coordination availability`,
     ],
     cta: `Call (877) 497-0007 for a free on-site assessment at your Leesburg property.`,
   },
@@ -110,12 +110,12 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `45-60 minutes to most Leesburg locations, with priority response available for historic properties and active flooding emergencies.`,
+    responseTime: `as soon as crews are available to most Leesburg locations, with priority response available for historic properties and active flooding emergencies.`,
   },
   faqs: [
     {
       question: `How quickly can you respond to water damage in Leesburg?`,
-      answer: `We typically arrive at Leesburg properties within 45-60 minutes of your call to (877) 497-0007. Our crews are familiar with every neighborhood from Lansdowne to Edwards Ferry and carry full equipment loads for immediate work.`,
+      answer: `We typically arrive at Leesburg properties after your call, subject to crew availability and site conditions to (877) 497-0007. Our crews are familiar with neighborhoods across the service area from Lansdowne to Edwards Ferry and carry full equipment loads for immediate work.`,
     },
     {
       question: `Do you have experience with historic Leesburg homes?`,
@@ -123,7 +123,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Will my insurance cover water damage restoration in Leesburg?`,
-      answer: `Most homeowner policies cover sudden and accidental water damage. We work directly with all major insurance carriers, handle documentation and claims support, and can bill your insurance company directly to minimize your out-of-pocket costs.`,
+      answer: `Most homeowner policies cover sudden and accidental water damage. We provide insurance documentation, claims support, and carrier coordination to minimize your out-of-pocket costs.`,
     },
     {
       question: `How do you handle basement flooding in Lansdowne estates?`,

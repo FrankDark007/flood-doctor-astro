@@ -10,15 +10,15 @@ export const content: CityServiceContent = {
     headline: 'Fast Roof Leak Response for Springfield Family Homes',
     paragraphs: [
       `Springfield's colonials and split-levels—built during the 1960s through 1980s—carry roofing systems that have weathered decades of Virginia storms. Many homes in West Springfield, Rolling Valley, and Cardinal Forest are on their second or third roof, and even these replacement shingles are now 15-25 years old with deteriorating flashing at every chimney, dormer, and pipe penetration. When ice dams form along the eaves of your Mantua colonial, when wind-loosened shingles on your Franconia split-level expose the underlayment to driving rain, or when aged chimney flashing on your Kingstowne townhome separates during a freeze-thaw cycle, the water that enters your roof structure begins damaging insulation, framing, and ceilings immediately.`,
-      `For military families near Fort Belvoir, roof leaks create timing pressure that civilian homeowners do not face. A roof leak discovered during PCS preparation complicates the selling process. A leak that develops in a newly purchased Springfield home demands quick resolution so the family can settle in. Flood Doctor provides the rapid, efficient roof leak response that Springfield families—military and civilian alike—need: emergency tarping to stop the water, thorough interior assessment to identify the full damage scope, and complete restoration that gets your home back to normal within the timeline your family requires near Springfield Town Center and throughout the I-95 corridor.`,
+      `For military families near Fort Belvoir, roof leaks create timing pressure that civilian homeowners do not face. A roof leak discovered during PCS preparation complicates the selling process. A leak that develops in a newly purchased Springfield home demands quick resolution so the family can settle in. Flood Doctor provides the rapid, efficient roof leak response that Springfield families—military and civilian alike—need: emergency tarping to stop the water, thorough interior assessment to identify the full damage scope, and full recovery planning that gets your home back to normal within the timeline your family requires near Springfield Town Center and throughout the I-95 corridor.`,
     ],
     localContext: `Springfield's 1960s-80s colonials and split-levels carry aging roof systems where ice dams, flashing failures, and shingle deterioration create interior damage—while military families near Fort Belvoir need rapid resolution within PCS timelines.`,
   },
   processSteps: [
     {
       title: 'I-95 Corridor Rapid Response',
-      description: `Call (877) 497-0007 and our Springfield-positioned crews respond within 30 minutes. We assess interior damage and trace the leak through the attic to the roof entry point. For split-levels, we check whether water has traveled between levels through wall and ceiling cavities.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Springfield-positioned crews respond as soon as crews are available. We assess interior damage and trace the leak through the attic to the roof entry point. For split-levels, we check whether water has traveled between levels through wall and ceiling cavities.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Emergency Tarping',
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Lake Accotink area',
       'Fort Belvoir area',
     ],
-    responseTime: '30-minute emergency response throughout Springfield. Our I-95 corridor crews handle West Springfield colonials, Franconia split-levels, and Kingstowne townhomes with equal speed and expertise.',
+    responseTime: 'rapid emergency response throughout Springfield. Our I-95 corridor crews handle West Springfield colonials, Franconia split-levels, and Kingstowne townhomes with equal speed and expertise.',
   },
   faqs: [
     {
@@ -142,7 +142,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Does USAA cover roof leak water damage?',
-      answer: 'Yes. USAA covers interior water damage from storm-related roof leaks as a standard policy feature. We work with USAA regularly, handle direct billing, and provide the documentation their adjusters require for smooth claims processing.',
+      answer: 'Yes. USAA covers interior water damage from storm-related roof leaks as a standard policy feature. We work with USAA regularly, handle carrier coordination, and provide the documentation their adjusters require for smooth claims processing.',
     },
     {
       question: 'The chimney flashing has been a problem for years—will insurance still cover it?',

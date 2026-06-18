@@ -9,16 +9,16 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Specialized Restoration for Leesburg Healthcare Properties`,
     paragraphs: [
-      `Healthcare facilities in Leesburg — from medical offices along Lansdowne Boulevard to dental practices in Village at Leesburg and outpatient clinics near Leesburg Corner Premium Outlets — require restoration services that go beyond standard commercial cleanup. Patient safety, infection control, HIPAA compliance, and regulatory requirements add layers of complexity that general restoration companies are not equipped to handle. Water damage, mold, or fire in a healthcare setting creates immediate patient risk and regulatory exposure.`,
+      `Healthcare facilities in Leesburg — from medical workspaces along Lansdowne Boulevard to dental practices in Village at Leesburg and outpatient clinics near Leesburg Corner Premium Outlets — require restoration services that go beyond standard commercial cleanup. Patient safety, infection control, HIPAA compliance, and regulatory requirements add layers of complexity that general restoration companies are not equipped to handle. Water damage, mold, or fire in a healthcare setting creates immediate patient risk and regulatory exposure.`,
       `Flood Doctor provides healthcare-specific restoration that addresses both the physical damage and the regulatory framework governing medical facilities. Our crews follow infection control risk assessment (ICRA) protocols, maintain HIPAA confidentiality for protected health information encountered during restoration, and coordinate with facility compliance teams to ensure all work meets healthcare standards.`,
     ],
-    localContext: `Leesburg's growing healthcare sector includes medical offices, dental practices, outpatient surgery centers, veterinary clinics, and specialty care facilities that all require healthcare-grade restoration protocols when damage occurs.`,
+    localContext: `Leesburg's growing healthcare sector includes medical workspaces, dental practices, outpatient surgery centers, veterinary clinics, and specialty care facilities that all require healthcare-grade restoration protocols when damage occurs.`,
   },
   processSteps: [
     {
       title: `Emergency Healthcare Response`,
       description: `Call (877) 497-0007 for immediate healthcare facility response. Our crews arrive with infection control supplies, HIPAA-compliant procedures, and equipment sanitized for healthcare environments.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Infection Control Risk Assessment`,
@@ -54,7 +54,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Medical Equipment Protection`,
-      description: `Leesburg's medical offices contain expensive diagnostic equipment, dental units, surgical instruments, and pharmacy inventory that must be protected from both the initial damage event and the restoration process itself.`,
+      description: `Leesburg's medical workspaces contain expensive diagnostic equipment, dental units, surgical instruments, and pharmacy inventory that must be protected from both the initial damage event and the restoration process itself.`,
       solution: `We coordinate with equipment manufacturers and biomedical technicians for proper protection and restoration of medical equipment. Items requiring specialized cleaning or calibration are documented and processed appropriately.`,
     },
     {
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `60 minutes or less for healthcare facility emergencies throughout Leesburg, with immediate dispatch for active water damage or contamination events.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -110,11 +110,11 @@ export const content: CityServiceContent = {
     },
     {
       question: `Can you help with medical equipment restoration?`,
-      answer: `We coordinate with equipment manufacturers and biomedical service companies for proper assessment, cleaning, and recertification of affected medical equipment. We document all equipment handling for insurance purposes.`,
+      answer: `We coordinate with equipment manufacturers and biomedical service companies for proper assessment, cleaning, and requalification of affected medical equipment. We document all equipment handling for insurance purposes.`,
     },
     {
       question: `What documentation do you provide for regulatory compliance?`,
-      answer: `We provide complete restoration documentation including scope of work, methods and products used, containment protocols, and post-restoration environmental testing results. This documentation supports accreditation and regulatory compliance.`,
+      answer: `We provide full recovery planning documentation including scope of work, methods and products used, containment protocols, and post-restoration environmental testing results. This documentation supports accreditation and regulatory compliance.`,
     },
     {
       question: `Do you handle pharmacy and medication storage areas?`,

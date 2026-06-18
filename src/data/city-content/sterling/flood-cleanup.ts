@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Flood Cleanup Services in Sterling, VA | Flood Doctor`,
-    description: `Sterling flood cleanup specialists. Sugarland Run creek flooding, storm surge cleanup in Sterling Park, Cascades & Countryside. 30-min response. Call (877) 497-0007.`,
+    description: `Sterling flood cleanup specialists. Sugarland Run creek flooding, storm surge cleanup in Sterling Park, Cascades & Countryside. rapid response. Call (877) 497-0007.`,
   },
   h1: `Flood Cleanup Services in Sterling, Virginia`,
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Sterling's geography and housing mix create flood vulnerabilities that differ by neighborhood. Sugarland Run creek rises during heavy spring rains, pushing floodwater into adjacent properties that were built before modern floodplain standards existed. Sterling Park's 1970s-era storm sewer system struggles with the volume of runoff from surrounding development. Cascades and Countryside townhome clusters experience water intrusion when shared drainage systems overflow during intense storms near Claude Moore Park and Algonkian Regional Park.
 
-Flood Doctor has cleaned up flood damage throughout Sterling's diverse neighborhoods. We have pumped standing water from Sugarland Run basements after creek overflow, extracted storm surge from Sterling Park split-levels with overwhelmed footer drains, and restored flood-damaged Cascades townhomes where shared walls complicated the cleanup. When flooding strikes Sterling, we respond within 30 minutes with the equipment and expertise your specific situation demands.`,
+Flood Doctor has cleaned up flood damage throughout Sterling's diverse neighborhoods. When flooding strikes Sterling, we respond as soon as crews are available with the equipment and expertise your specific situation demands.`,
       `Flood cleanup in Sterling requires understanding the contamination risks that come with different flood sources. Creek overflow from Sugarland Run carries sediment, bacteria, and organic debris that create Category 3 biohazard conditions. Storm sewer backups in established Sterling Park neighborhoods introduce sewage contamination. Even clean-water flooding from burst pipes in aging homes can become contaminated within 48 hours if not addressed quickly.
 
-Our IICRC-certified crews follow strict contamination protocols for every Sterling flood event. We classify the water category, deploy appropriate personal protective equipment, and apply antimicrobial treatments based on the contamination level—not a one-size-fits-all approach. For Sterling homeowners dealing with the stress of flooding, we handle the cleanup professionally while you focus on your family.`,
+Our trained crews follow strict contamination protocols for every Sterling flood event. We classify the water category, deploy appropriate personal protective equipment, and apply antimicrobial treatments based on the contamination level—not a one-size-fits-all approach. For Sterling homeowners dealing with the stress of flooding, we handle the cleanup professionally while you focus on your family.`,
     ],
     localContext: `Sterling's combination of Sugarland Run creek proximity, aging storm infrastructure in established neighborhoods, and townhome cluster density creates flood scenarios requiring both rapid response and contamination-aware cleanup protocols.`,
   },
   processSteps: [
     {
       title: `30-Minute Sterling Flood Response`,
-      description: `Call (877) 497-0007 for immediate dispatch. Our crews reach Sterling Park, Cascades, Countryside, Sugarland Run, and Potomac Falls within 30 minutes from our Route 7 corridor positions. Flood situations escalate by the hour—speed is the most important factor in limiting damage.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate dispatch. Our crews reach Sterling Park, Cascades, Countryside, Sugarland Run, and Potomac Falls as soon as crews are available from our Route 7 corridor positions. Flood situations escalate by the hour—speed is the most important factor in limiting damage.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Flood Source & Contamination Assessment`,
@@ -41,12 +41,12 @@ Our IICRC-certified crews follow strict contamination protocols for every Sterli
     },
     {
       title: `Structural Drying`,
-      description: `Industrial dehumidifiers and air movers dry the structure to IICRC standards. Older Sterling Park homes with plaster walls and hardwood subfloors require gentler drying to prevent cracking. Cascades townhomes need attention to shared wall cavities where moisture can linger and migrate.`,
+      description: `Industrial dehumidifiers and air movers dry the structure to industry-standard standards. Older Sterling Park homes with plaster walls and hardwood subfloors require gentler drying to prevent cracking. Cascades townhomes need attention to shared wall cavities where moisture can linger and migrate.`,
       timeframe: `Days 2-5`,
     },
     {
       title: `Clearance Testing & Restoration`,
-      description: `Final moisture verification ensures complete drying. We provide detailed documentation for insurance claims and a restoration plan to return your Sterling home to pre-flood condition—matching existing materials and finishes appropriate to your home's era and style.`,
+      description: `Final moisture verification ensures documented drying. We provide detailed documentation for insurance claims and a restoration plan to return your Sterling home to pre-flood condition—matching existing materials and finishes appropriate to your home's era and style.`,
       timeframe: `Days 5-7`,
     },
   ],
@@ -100,7 +100,7 @@ Our IICRC-certified crews follow strict contamination protocols for every Sterli
       },
       {
         name: `Thermal Imaging Cameras`,
-        purpose: `Detect hidden moisture behind walls and under floors to ensure complete drying after flood events`,
+        purpose: `Detect hidden moisture behind walls and under floors to ensure documented drying after flood events`,
         brand: `FLIR`,
       },
     ],
@@ -136,7 +136,7 @@ Our IICRC-certified crews follow strict contamination protocols for every Sterli
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute flood response to all Sterling neighborhoods. Priority dispatch for Sugarland Run creek-adjacent properties and multi-unit townhome flooding in Cascades and Countryside.`,
+    responseTime: `rapid flood response to all Sterling neighborhoods. Priority dispatch for Sugarland Run creek-adjacent properties and multi-unit townhome flooding in Cascades and Countryside.`,
   },
   faqs: [
     {
@@ -145,7 +145,7 @@ Our IICRC-certified crews follow strict contamination protocols for every Sterli
     },
     {
       question: `How fast should I act after my Sterling home floods?`,
-      answer: `Within hours, not days. Contaminated floodwater from creek overflow or sewer backups creates biohazard conditions that worsen rapidly. Even clean-water flooding grows mold within 24-48 hours. Call (877) 497-0007 immediately—our 30-minute response limits both damage and cost.`,
+      answer: `Within hours, not days. Contaminated floodwater from creek overflow or sewer backups creates biohazard conditions that worsen rapidly. Even clean-water flooding grows mold within 24-48 hours. Call (877) 497-0007 immediately—our rapid response limits both damage and cost.`,
     },
     {
       question: `My Sterling Park basement floods every heavy rain. Can you help permanently?`,
@@ -171,6 +171,6 @@ Our IICRC-certified crews follow strict contamination protocols for every Sterli
   ],
   finalCTA: {
     headline: `Flooding in Your Sterling Home?`,
-    paragraph: `Whether Sugarland Run creek has overflowed into your basement or storm water is backing up through your Sterling Park floor drains, our crews are ready. 30-minute response along the Route 7 corridor. Call now—every minute counts during a flood.`,
+    paragraph: `Whether Sugarland Run creek has overflowed into your basement or storm water is backing up through your Sterling Park floor drains, our crews are ready. rapid response along the Route 7 corridor. Call now—every minute counts during a flood.`,
   },
 }

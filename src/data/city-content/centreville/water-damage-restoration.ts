@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville's trusted water damage restoration experts. 30-min response to Virginia Run, Centre Ridge & Sully Station. Polybutylene pipe specialists. Call (877) 497-0007.`,
+    description: `Centreville's local water damage restoration specialists. rapid response to Virginia Run, Centre Ridge & Sully Station. Polybutylene pipe specialists. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Centreville, Virginia',
   introSection: {
@@ -11,22 +11,22 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When water damage strikes your Centreville home, you face challenges specific to this community's housing stock. Your Virginia Run colonial may have aging polybutylene plumbing ready to fail, your Centre Ridge townhome shares walls where water migrates between units, and your Little Rocky Run home sits on clay soil that overwhelms sump pumps during heavy rain. You need a restoration team that understands the 1990s-2000s construction that defines Centreville.
 
-Flood Doctor has restored water-damaged properties throughout Centreville for years. We've extracted standing water from Sully Station basements, dried the large finished lower levels of Virginia Run colonials, and stopped mold growth in Centreville Farms townhomes before it spread. When your neighbors on your street recommend a restoration company, they recommend us—because we've already been on their block.`,
+`,
       `Centreville's water damage challenges come from its construction era. Homes built in the 1990s and early 2000s often feature polybutylene or early CPVC plumbing that becomes brittle and fails without warning. Large finished basements—the hallmark of Centreville's family-oriented floor plans—mean thousands of square feet of living space at risk when water intrudes. Clay-heavy soil causes sump pump failures and foundation settling that worsens with every storm season.
 
-Our IICRC Master Water Restorers understand both the damage and the building science behind it. We document everything for insurance claims and know the difference between age-related plumbing failure and covered sudden events. When your Virginia Run or London Towne property needs restoration, we protect both your home and your claim.`,
+Our water-damage restoration team understand both the damage and the building science behind it. We document everything for insurance claims and know the difference between age-related plumbing failure and covered sudden events. When your Virginia Run or London Towne property needs restoration, we protect both your home and your claim.`,
     ],
     localContext: `Centreville's 1990s-2000s suburban communities—with their large finished basements, aging plumbing systems, and clay soil conditions along the Route 28/I-66 corridor—require restoration expertise tuned to this specific housing era and terrain.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Centreville hotline at (877) 497-0007, we dispatch immediately. Our trucks are positioned along the Route 28 and I-66 corridors to reach Virginia Run, Centre Ridge, Sully Station, and Little Rocky Run within our 30-minute guarantee—not from a distant warehouse, but from right here in the Centreville area.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call our Centreville hotline at (877) 497-0007, we dispatch immediately. Our trucks are positioned along the Route 28 and I-66 corridors to reach Virginia Run, Centre Ridge, Sully Station, and Little Rocky Run within our rapid service commitment—not from a distant warehouse, but from right here in the Centreville area.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Comprehensive Damage Assessment',
-      description: `Our IICRC-certified technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Centreville's large colonials with finished basements, water often migrates further than homeowners realize—we trace every path from origin to final resting point.`,
+      description: `Our trained technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Centreville's large colonials with finished basements, water often migrates further than homeowners realize—we trace every path from origin to final resting point.`,
       timeframe: 'First hour',
     },
     {
@@ -46,7 +46,7 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
     },
     {
       title: 'Final Verification & Restoration Planning',
-      description: `Once moisture levels return to normal, we verify using both pinless meters and thermal imaging. We then provide a comprehensive restoration plan to rebuild your finished basement, replace damaged flooring, and restore your home to pre-loss condition.`,
+      description: `Once moisture levels return to normal, we verify using both pinless meters and thermal imaging. We then provide a comprehensive restoration plan to rebuild your finished basement, replace damaged flooring, and restore your home to a stable, usable condition.`,
       timeframe: 'Day 5-7',
     },
   ],
@@ -58,7 +58,7 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
     },
     {
       title: 'Finished Basement Flooding',
-      description: `Centreville is known for large finished basements—home theaters, playrooms, home offices, and guest suites. When sump pumps fail during heavy rain or storm drains overwhelm, thousands of square feet of finished living space floods, destroying carpet, drywall, electronics, and irreplaceable personal items.`,
+      description: `Centreville is known for large finished basements—home theaters, playrooms, home workspaces, and guest suites. When sump pumps fail during heavy rain or storm drains overwhelm, thousands of square feet of finished living space floods, destroying carpet, drywall, electronics, and irreplaceable personal items.`,
       solution: 'Our truck-mounted extractors remove water quickly from even the largest basements. We deploy commercial drying equipment sized for Centreville floor plans and recommend sump pump upgrades with battery backup to prevent recurrence.',
     },
     {
@@ -118,7 +118,7 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Centreville',
-    intro: `Centreville water damage restoration costs vary based on scope, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most Centreville homeowners file insurance claims—and we handle direct billing with all major carriers.`,
+    intro: `Centreville water damage restoration costs vary based on scope, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most Centreville homeowners file insurance claims—and we handle insurance documentation and carrier coordination.`,
     factors: [
       `Square footage affected—Centreville's large finished basements significantly increase potential affected area`,
       'Water category—clean water from a burst polybutylene pipe differs from sewage backup requiring biohazard protocols',
@@ -146,7 +146,7 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `30-minute response to all Centreville neighborhoods. Our crews are positioned along the Route 28 and I-66 corridors for immediate emergency dispatch throughout the Centreville area.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -159,11 +159,11 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
     },
     {
       question: 'What about my finished basement after water damage?',
-      answer: `Centreville's large finished basements—with home theaters, offices, and playrooms—require complete restoration. We extract water, dry structural materials, and work with your insurance on reconstruction. Our equipment is sized specifically for the large below-grade spaces typical of this area.`,
+      answer: `Centreville's large finished basements—with home theaters, workspaces, and playrooms—require full recovery planning. We extract water, dry structural materials, and work with your insurance on reconstruction. Our equipment is sized specifically for the large below-grade spaces typical of this area.`,
     },
     {
       question: 'Will you work directly with my insurance company?',
-      answer: 'Yes. We handle direct billing with all major carriers and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim from start to finish.',
+      answer: 'Yes. We handle insurance documentation and carrier coordination and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim from start to finish.',
     },
     {
       question: 'My townhome shares walls with neighbors. Can water spread between units?',
@@ -175,7 +175,7 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
     },
     {
       question: `What's the difference between your service and national chains?`,
-      answer: `We're locally owned and Centreville-focused. Our crews know the neighborhoods, understand 1990s-2000s construction challenges, and are positioned for 30-minute response. National franchises often lack expertise in Centreville's specific issues—polybutylene plumbing, clay soil, and shared-wall construction.`,
+      answer: `We're locally owned and Centreville-focused. Our crews know the neighborhoods, understand 1990s-2000s construction challenges, and are positioned for rapid response. National franchises often lack expertise in Centreville's specific issues—polybutylene plumbing, clay soil, and shared-wall construction.`,
     },
     {
       question: 'Will restoration work disrupt my family?',
@@ -189,6 +189,6 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Centreville?',
-    paragraph: `Every hour of delay means more damage to your home. Our crews are positioned along the Route 28 and I-66 corridors for immediate 30-minute response. One call handles everything—from water extraction to insurance documentation. Call (877) 497-0007 now.`,
+    paragraph: `Every hour of delay means more damage to your home. Our crews are positioned along the Route 28 and I-66 corridors for immediate rapid response. One call handles everything—from water extraction to insurance documentation. Call (877) 497-0007 now.`,
   },
 }

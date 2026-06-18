@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Springfield, VA | Flood Doctor`,
-    description: `Springfield's trusted restoration experts for hotels, apartment communities, and multifamily properties. Military-friendly service near Fort Belvoir, Kingstowne, and Franconia. Call (877) 497-0007.`,
+    description: `Springfield's local restoration specialists for hotels, apartment communities, and multifamily properties. Military-friendly service near Fort Belvoir, Kingstowne, and Franconia. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Springfield, Virginia`,
   introSection: {
     headline: `Restoring Springfield's Multifamily Communities and Hospitality Properties`,
     paragraphs: [
-      `Springfield's multifamily housing stock serves a diverse population—military families stationed near Fort Belvoir, I-95 corridor commuters in Kingstowne townhome communities, and long-term residents in established Franconia apartment complexes. When water damage strikes a 1970s garden-style apartment building in West Springfield or cascades through a Kingstowne condominium, the restoration must account for aging infrastructure, displaced families with limited relocation options, and property management companies managing tight budgets. A burst pipe in one unit of a 1960s-era building can follow deteriorating plumbing through multiple apartments, creating complex multi-unit scenarios in buildings never designed for modern water volumes.
+      `Springfield's multifamily housing stock serves a diverse population—military families available near Fort Belvoir, I-95 corridor commuters in Kingstowne townhome communities, and long-term residents in established Franconia apartment complexes. When water damage strikes a 1970s garden-style apartment building in West Springfield or cascades through a Kingstowne condominium, the restoration must account for aging infrastructure, displaced families with limited relocation options, and property management companies managing tight budgets. A burst pipe in one unit of a 1960s-era building can follow deteriorating plumbing through multiple apartments, creating complex multi-unit scenarios in buildings never designed for modern water volumes.
 
-Flood Doctor has restored water-damaged multifamily properties throughout Springfield, from Franconia apartment communities to Kingstowne condominiums and I-95 corridor hotels serving Fort Belvoir military families. Our multi-unit coordination means we manage simultaneous restoration across affected units while working within the practical budgets these properties demand. We coordinate with property managers, military housing offices, and hotel operations to minimize displacement and deliver restoration that meets both safety standards and financial constraints.`,
+Our multi-unit coordination means we manage simultaneous restoration across affected units while working within the practical budgets these properties demand. We coordinate with property managers, military housing workspaces, and hotel operations to minimize displacement and deliver restoration that meets both safety standards and financial constraints.`,
       `The financial dynamics of Springfield multifamily restoration differ from luxury markets. Property managers at Rolling Valley and West Springfield apartment communities operate on margins where extended vacancy directly threatens property viability. Hotels near Springfield Town Center and the Franconia-Springfield Metro serve military families on per diem housing allowances with strict daily rate limits. Kingstowne condominium HOAs manage reserve funds that must stretch across aging infrastructure needs.
 
 Our approach balances thoroughness with practical efficiency. We deploy enough personnel to restore all affected units simultaneously rather than sequentially, compressing displacement timelines that Springfield families and property managers cannot afford to extend. Each unit receives individual moisture tracking, allowing phased re-occupancy as units meet dry standards. Property managers receive clear daily reports with cost tracking that supports budget management and insurance documentation for properties throughout Newington and the broader Springfield area.`,
@@ -22,11 +22,11 @@ Our approach balances thoroughness with practical efficiency. We deploy enough p
     {
       title: `Immediate Property Assessment and Containment`,
       description: `When you call (877) 497-0007, our multi-unit response team deploys immediately. We assess the full scope of water migration through Springfield's older building construction, identify all affected units, and install containment to prevent further spread through aging wall cavities and plumbing chases.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Resident and Guest Displacement Coordination`,
-      description: `We provide property managers with notification templates and coordinate displaced resident logistics. For military families, we understand per diem housing requirements and coordinate with Fort Belvoir housing offices. For apartment tenants, we work with management to arrange temporary accommodations within budget constraints.`,
+      description: `We provide property managers with notification templates and coordinate displaced resident logistics. For military families, we understand per diem housing requirements and coordinate with Fort Belvoir housing workspaces. For apartment tenants, we work with management to arrange temporary accommodations within budget constraints.`,
       timeframe: `Hours 1-4`,
     },
     {
@@ -59,7 +59,7 @@ Our approach balances thoroughness with practical efficiency. We deploy enough p
     {
       title: `Military Family Displacement Requirements`,
       description: `Military families near Fort Belvoir often face unique displacement challenges—service members may be deployed or on training, leaving spouses to manage relocation alone. Per diem housing allowances have daily rate caps, and military families may lack local family support networks for temporary housing assistance.`,
-      solution: `We coordinate with Fort Belvoir housing offices and understand military per diem requirements. Our accelerated restoration timelines minimize displacement duration, and we provide clear documentation supporting military housing claims. Communication is directed to designated family contacts with sensitivity to military family logistics.`,
+      solution: `We coordinate with Fort Belvoir housing workspaces and understand military per diem requirements. Our accelerated restoration timelines minimize displacement duration, and we provide clear documentation supporting military housing claims. Communication is directed to designated family contacts with sensitivity to military family logistics.`,
     },
     {
       title: `Budget-Constrained Property Management`,
@@ -115,7 +115,7 @@ Our approach balances thoroughness with practical efficiency. We deploy enough p
       `Pre-existing infrastructure conditions that affect restoration scope and timeline`,
       `Multi-policy documentation for HOA master policies and individual unit coverage`,
     ],
-    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We provide transparent estimates and coordinate with property management companies, military housing offices, and insurance carriers throughout the Springfield area.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We provide transparent estimates and coordinate with property management companies, military housing workspaces, and insurance carriers throughout the Springfield area.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -133,7 +133,7 @@ Our approach balances thoroughness with practical efficiency. We deploy enough p
       `Springfield Boulevard`,
       `Frontier Drive`,
     ],
-    responseTime: `45-minute emergency response to all Springfield hospitality and multifamily properties. Our multi-unit crews carry containment materials and extraction equipment for immediate response to cascading water events in established buildings.`,
+    responseTime: `prompt emergency response to all Springfield hospitality and multifamily properties. Our multi-unit crews carry containment materials and extraction equipment for immediate response to cascading water events in established buildings.`,
   },
   faqs: [
     {
@@ -141,8 +141,8 @@ Our approach balances thoroughness with practical efficiency. We deploy enough p
       answer: `We trace water migration through the plumbing chases, wall cavities, and floor assemblies specific to 1960s-80s construction. Our technicians understand how water travels through older buildings differently than modern construction, ensuring we identify all affected areas and prevent hidden moisture from causing mold growth.`,
     },
     {
-      question: `Do you work with military housing offices for displaced families?`,
-      answer: `Yes. We understand military per diem requirements and coordinate with Fort Belvoir housing offices. Our documentation supports military housing claims, and we direct communication to designated family contacts with sensitivity to the unique logistics military families face during displacement.`,
+      question: `Do you work with military housing workspaces for displaced families?`,
+      answer: `Yes. We understand military per diem requirements and coordinate with Fort Belvoir housing workspaces. Our documentation supports military housing claims, and we direct communication to designated family contacts with sensitivity to the unique logistics military families face during displacement.`,
     },
     {
       question: `Can you work within our property management budget?`,
@@ -158,7 +158,7 @@ Our approach balances thoroughness with practical efficiency. We deploy enough p
     },
     {
       question: `What is your response time for Springfield multifamily emergencies?`,
-      answer: `We guarantee 45-minute response to Springfield multifamily properties. Our crews carry multi-unit containment materials and begin water extraction immediately upon arrival, preventing cascade damage to additional units in older building construction.`,
+      answer: `We service commitment prompt response to Springfield multifamily properties. Our crews carry multi-unit containment materials and begin water extraction immediately upon arrival, preventing cascade damage to additional units in older building construction.`,
     },
     {
       question: `Do you restore common areas in apartment communities?`,
@@ -175,6 +175,6 @@ Our approach balances thoroughness with practical efficiency. We deploy enough p
   ],
   finalCTA: {
     headline: `Water Damage in Your Springfield Property?`,
-    paragraph: `Every hour of water exposure in older buildings increases damage scope and displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Springfield multifamily investment. Call (877) 497-0007 now.`,
+    paragraph: `Every hour of water exposure in older buildings increases damage scope and displacement costs. Our multi-unit response team arrives as soon as crews are available with the equipment and expertise to protect your Springfield multifamily investment. Call (877) 497-0007 now.`,
   },
 }

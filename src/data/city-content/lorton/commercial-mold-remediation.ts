@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Lorton, VA | Flood Doctor`,
-    description: `Lorton commercial mold remediation specialists. CIH-coordinated protocols for office buildings, shopping centers, and waterfront commercial properties near Occoquan. Call (877) 497-0007.`,
+    description: `Lorton commercial mold remediation specialists. CIH-coordinated protocols for workspace buildings, shopping centers, and waterfront commercial properties near Occoquan. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Lorton, Virginia`,
   introSection: {
     headline: `Professional Mold Remediation for Lorton Commercial Properties`,
     paragraphs: [
-      `Mold discovered in a Lorton commercial property creates immediate obligations for property managers and building owners. Tenant notification requirements, employee health concerns, and indoor air quality standards demand rapid, scientifically grounded remediation. When tenants in a Laurel Hill shopping center report musty odors or employees at a South County office building develop respiratory symptoms, the response must be swift, properly documented, and coordinated with independent industrial hygienists. Flood Doctor provides certified commercial mold remediation delivering clearance-verified results that protect both building occupants and property ownership interests across Lorton.`,
-      `Lorton commercial buildings face mold risks amplified by the area's waterfront proximity and rapid development. Properties near the Occoquan River experience elevated humidity and periodic flooding that feeds persistent mold growth. Newer construction in Laurel Hill may develop mold when builder-installed HVAC systems distribute condensation moisture through shared ductwork serving multiple tenant spaces. South County and Gunston area commercial facilities built on previously wooded lots contend with crawlspace moisture that migrates into occupied spaces above. Our teams have remediated mold contamination in Lorton shopping centers, office buildings, waterfront restaurants, and mixed-use developments—always under CIH-developed protocols with independent post-remediation verification.`,
+      `Mold discovered in a Lorton commercial property creates immediate obligations for property managers and building owners. Tenant notification requirements, employee health concerns, and indoor air quality standards demand rapid, scientifically grounded remediation. When tenants in a Laurel Hill shopping center report musty odors or employees at a South County workspace building develop respiratory symptoms, the response must be swift, properly documented, and coordinated with independent industrial hygienists. Flood Doctor provides trained commercial mold remediation delivering clearance-verified results that protect both building occupants and property ownership interests across Lorton.`,
+      `Lorton commercial buildings face mold risks amplified by the area's waterfront proximity and rapid development. Properties near the Occoquan River experience elevated humidity and periodic flooding that feeds persistent mold growth. Newer construction in Laurel Hill may develop mold when builder-installed HVAC systems distribute condensation moisture through shared ductwork serving multiple tenant spaces. South County and Gunston area commercial facilities built on previously wooded lots contend with crawlspace moisture that migrates into occupied spaces above. Our teams have remediated mold contamination in Lorton shopping centers, workspace buildings, waterfront restaurants, and mixed-use developments—always under CIH-developed protocols with independent post-remediation verification.`,
     ],
     localContext: `Lorton's growing commercial market—with its Occoquan waterfront proximity, newer construction, and developing infrastructure—requires mold remediation that addresses both the elevated moisture conditions of the area and the expectations of an expanding tenant base.`,
   },
   processSteps: [
     {
       title: `Initial Assessment and CIH Coordination`,
-      description: `We coordinate with a certified industrial hygienist to conduct air and surface sampling at your Lorton commercial property. The CIH develops a remediation protocol based on mold species, contamination extent, and building-specific factors including HVAC configuration, construction age, and proximity to the Occoquan waterfront.`,
+      description: `We coordinate with a trained industrial hygienist to conduct air and surface sampling at your Lorton commercial property. The CIH develops a remediation protocol based on mold species, contamination extent, and building-specific factors including HVAC configuration, construction age, and proximity to the Occoquan waterfront.`,
       timeframe: `Days 1-3`,
     },
     {
@@ -87,7 +87,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HEPA Vacuum Systems`,
-        purpose: `Remove settled spores from structural surfaces during remediation, meeting IICRC S520 standards for commercial mold removal`,
+        purpose: `Remove settled spores from structural surfaces during remediation, meeting industry-standard S520 standards for commercial mold removal`,
       },
       {
         name: `Moisture Mapping Instruments`,

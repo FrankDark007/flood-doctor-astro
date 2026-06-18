@@ -124,7 +124,7 @@ Our technicians deploy hydroxyl generators for safe treatment in occupied Lorton
       'Pohick',
       'Halley Farm',
     ],
-    responseTime: '30-minute emergency response throughout Lorton. Non-emergency odor assessments scheduled within 24-48 hours.',
+    responseTime: 'rapid emergency response throughout Lorton. Non-emergency odor assessments scheduled within 24-48 hours.',
   },
   faqs: [
     {

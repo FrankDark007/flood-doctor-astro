@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Lorton's commercial flood exposure combines two powerful forces—the tidal influence of the Occoquan River and Pohick Creek that drives waterfront flooding during storm surges, and the drainage challenges created by rapid development converting wooded land to impervious surface across the Laurel Hill corridor. When a nor'easter pushes tidal surge into Occoquan waterfront businesses, when a summer cloudburst overwhelms the still-maturing storm drainage serving a Laurel Hill retail center, or when Route 1 corridor flash flooding backs into ground-floor commercial tenants, the cleanup must manage brackish tidal contamination, new-development drainage deficiencies, and the industrial-commercial mix that defines Lorton's transitioning landscape.
 
-Flood Doctor's commercial flood division has responded to flooding events throughout Lorton's expanding commercial footprint. We've pumped out tidal surge from Occoquan waterfront dining establishments, extracted storm flooding from newly opened Laurel Hill retail spaces where drainage infrastructure had not yet matured, and cleaned up flash flood contamination in Route 1 corridor flex-space—delivering industrial flood response adapted for a community in rapid commercial transformation.`,
+Flood Doctor's commercial flood division has responded to flooding events throughout Lorton's expanding commercial footprint. `,
       `Commercial flood dynamics in Lorton differ from established Northern Virginia markets because the infrastructure is catching up to the development. Storm drainage systems designed for projected buildout may not yet handle the runoff from recently completed phases. Grading around new commercial pads settles during the first years, creating ponding zones that designers did not anticipate. And the Occoquan River's tidal behavior introduces a flood vector absent from inland communities—storm surge combining with upstream rainfall to push brackish water into commercial zones at elevations that seemed safe during initial site planning.
 
 Our commercial flood teams deploy to Lorton with both the industrial pumping capability these events demand and the development-specific knowledge to document drainage deficiencies, grading failures, and tidal exposure that may support warranty or liability recovery beyond standard insurance claims.`,
@@ -22,7 +22,7 @@ Our commercial flood teams deploy to Lorton with both the industrial pumping cap
     {
       title: 'Storm-Alert Commercial Dispatch',
       description: `Call (877) 497-0007 for immediate flood response. Our Lorton crews monitor tidal and storm conditions affecting the Occoquan waterfront and deploy industrial pumping to commercial properties across Laurel Hill, the Route 1 corridor, and South County business areas.`,
-      timeframe: 'Within 60 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Source and Contamination Classification',
@@ -131,7 +131,7 @@ Our commercial flood teams deploy to Lorton with both the industrial pumping cap
       'Workhouse Arts District',
       'Occoquan Bay Area',
     ],
-    responseTime: '60-minute commercial flood response to all Lorton business areas. Crews carry industrial pumping for tidal surge extraction and contamination management for brackish waterfront flooding.',
+    responseTime: 'prompt commercial flood response to all Lorton business areas. Crews carry industrial pumping for tidal surge extraction and contamination management for brackish waterfront flooding.',
   },
   faqs: [
     {

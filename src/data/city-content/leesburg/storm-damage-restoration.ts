@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: `Emergency Response & Securing`,
       description: `Call (877) 497-0007 for immediate dispatch. Our first priority is securing your Leesburg property with emergency tarping, board-up, and water mitigation to prevent further storm damage.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Storm Damage Assessment`,
@@ -50,7 +50,7 @@ export const content: CityServiceContent = {
     {
       title: `Mature Tree Damage to Properties`,
       description: `Leesburg's centuries-old tree canopy, particularly along Edwards Ferry Road, around Morven Park, and in Kincaid Forest, creates significant risk during high-wind events when large limbs or entire trees fall on structures.`,
-      solution: `We provide complete tree strike restoration — from emergency stabilization and tarping through structural repair and water damage remediation — coordinating with certified arborists for safe tree removal.`,
+      solution: `We provide complete tree strike restoration — from emergency stabilization and tarping through structural repair and water damage remediation — coordinating with trained arborists for safe tree removal.`,
     },
     {
       title: `Wind-Driven Rain in Golf Community Estates`,
@@ -71,7 +71,7 @@ export const content: CityServiceContent = {
       `Volume of water intrusion requiring extraction and drying`,
       `Need for emergency tarping and board-up services`,
       `Historic preservation requirements for older Leesburg properties`,
-      `Insurance coverage — we work with all major carriers`,
+      `Insurance coverage — we work with many carriers`,
     ],
     cta: `Call (877) 497-0007 for emergency storm response and a detailed damage assessment.`,
   },
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `45-60 minutes for emergency storm damage response throughout Leesburg, with immediate dispatch for active water intrusion and structural emergencies.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -128,6 +128,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Storm Damage in Leesburg? Act Fast`,
-    paragraph: `Storm damage worsens rapidly when rain continues to enter your home. Flood Doctor provides emergency tarping, water extraction, and full storm restoration for every type of Leesburg property. Call (877) 497-0007 for immediate 24/7 response.`,
+    paragraph: `Storm damage worsens rapidly when rain continues to enter your home. Flood Doctor provides emergency tarping, water extraction, and full storm restoration for common Leesburg property. Call (877) 497-0007 for immediate 24/7 response.`,
   },
 }

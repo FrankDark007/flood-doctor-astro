@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Crawl spaces under Sterling homes develop moisture problems that vary by construction era and neighborhood. Sterling Park homes from the 1970s-80s often have dirt-floor crawl spaces with no vapor barrier, minimal ventilation, and aging plumbing that drips into the space below. Cascades and Countryside townhomes have crawl spaces under lower-level additions where builder-grade vapor barriers have deteriorated. Properties near Sugarland Run experience elevated groundwater that pushes moisture into crawl spaces during wet seasons, saturating insulation and creating conditions for mold, wood rot, and structural decay near Claude Moore Park.
 
-Flood Doctor has dried crawl spaces throughout Sterling and addressed the underlying moisture conditions that cause recurring problems. We have installed encapsulation systems in Sterling Park homes that eliminated decades of crawl space moisture, dried flood-damaged Cascades crawl spaces after groundwater intrusion, and treated mold-contaminated crawl space framing in Countryside homes. Our approach goes beyond drying—we solve the moisture problem permanently.`,
+Flood Doctor has dried crawl spaces throughout Sterling and addressed the underlying moisture conditions that cause recurring problems. Our approach goes beyond drying—we solve the moisture problem permanently.`,
       `A wet crawl space affects your entire Sterling home. Moisture migrates upward through the floor structure, elevating indoor humidity, supporting mold growth on framing and subfloor, and creating musty odors that permeate living spaces above. In Sterling Park's older homes, decades of crawl space moisture have often caused significant wood damage to floor joists and band boards. In Cascades townhomes, crawl space moisture contributes to the condensation problems that affect shared walls and HVAC efficiency.
 
 Our crawl space solutions are calibrated to Sterling conditions—the soil moisture levels near Algonkian Regional Park, the groundwater conditions along Sugarland Run, and the ventilation challenges of different crawl space configurations. We provide practical, effective solutions that match your home's specific needs and budget.`,
@@ -31,7 +31,7 @@ Our crawl space solutions are calibrated to Sterling conditions—the soil moist
     },
     {
       title: `Structural Drying`,
-      description: `Industrial dehumidifiers and targeted air movers dry floor joists, band boards, and subfloor. We monitor moisture content in structural wood daily, targeting the IICRC standard for the wood species present in your Sterling home.`,
+      description: `Industrial dehumidifiers and targeted air movers dry floor joists, band boards, and subfloor. We monitor moisture content in structural wood daily, targeting the industry-standard standard for the wood species present in your Sterling home.`,
       timeframe: `Days 1-5`,
     },
     {

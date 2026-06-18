@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church burst pipe emergency response. 30-min arrival to Seven Corners, Lake Barcroft & Falls Church City. Older home pipe specialists. Call (877) 497-0007.',
+    description: 'Falls Church burst pipe emergency response. rapid arrival to Seven Corners, Lake Barcroft & Falls Church City. Older home pipe specialists. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Water Damage Restoration in Falls Church, Virginia',
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `A burst pipe in Falls Church can release hundreds of gallons of water per hour into your home. In the time it takes you to find the main shutoff—if you can find it in an older home's basement—water has already soaked through floors, migrated into wall cavities, and begun damaging the structure. Falls Church's 1920s-1960s housing stock presents particular risks: original galvanized pipes that have corroded for decades, copper supply lines with aging joints, and plumbing routed through unheated crawlspaces and exterior walls.
 
-Flood Doctor responds to Falls Church burst pipe emergencies within 30 minutes. We've extracted water from 1940s bungalows in Falls Church City where a supply line burst in a second-floor bathroom and flooded down to the basement. We've dried Seven Corners colonials where a frozen pipe split in an exterior wall. We've restored Lake Barcroft homes where decades-old galvanized lines finally gave way. When pipes burst in Falls Church, we're already on the way.`,
+Flood Doctor responds to Falls Church burst pipe emergencies as soon as crews are available. When pipes burst in Falls Church, we're already on the way.`,
       `Falls Church homes face burst pipe risks that newer construction doesn't share. The original plumbing in many pre-1970s homes includes galvanized steel pipes that corrode internally, narrowing over time until joints weaken and fail. Water hammer from aging valves stresses pipe connections. And winter freezing—even in Northern Virginia's relatively mild climate—threatens supply lines in unheated spaces: crawlspaces, exterior walls, and poorly insulated garages.
 
-Our IICRC-certified crews understand Falls Church's plumbing challenges. We work quickly to extract water, protect your home's historic features, and begin the drying process that prevents mold and structural damage. We also document everything for insurance—burst pipe damage is typically covered, and proper documentation ensures your claim is processed efficiently.`,
+Our trained crews understand Falls Church's plumbing challenges. We work quickly to extract water, protect your home's historic features, and begin the drying process that prevents mold and structural damage. We also document everything for insurance—burst pipe damage is typically covered, and proper documentation ensures your claim is processed efficiently.`,
     ],
     localContext: `Falls Church's aging housing stock means many homes still have original 50-80 year old plumbing. Galvanized pipes, old copper joints, and outdated shutoff valves create burst pipe risks that require specialized response.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Arrival',
-      description: 'When you call (877) 497-0007 about a burst pipe, we dispatch immediately. Our crews reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills within 30 minutes. Every minute counts when water is actively flowing.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007 about a burst pipe, we dispatch immediately. Our crews reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills as soon as crews are available. Every minute counts when water is actively flowing.',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Water Shutoff Confirmation',
@@ -105,7 +105,7 @@ Our IICRC-certified crews understand Falls Church's plumbing challenges. We work
       },
       {
         name: 'Moisture Detection Equipment',
-        purpose: 'Pinless meters and probe meters verify complete drying in all materials before equipment removal',
+        purpose: 'Pinless meters and probe meters verify documented drying in all materials before equipment removal',
       },
     ],
     localNote: `Falls Church burst pipe emergencies often involve water traveling through multiple floors and wall systems. Our crews arrive with commercial-scale equipment and thermal imaging to trace water wherever it's traveled—not just the visible flooding.`,
@@ -136,7 +136,7 @@ Our IICRC-certified crews understand Falls Church's plumbing challenges. We work
       'West Falls Church',
       'Madison Manor',
     ],
-    responseTime: '30-minute response to all Falls Church addresses. Our crews are positioned for immediate burst pipe response throughout the area.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
@@ -149,7 +149,7 @@ Our IICRC-certified crews understand Falls Church's plumbing challenges. We work
     },
     {
       question: 'Will insurance cover burst pipe damage?',
-      answer: 'Typically yes. Burst pipes are usually a covered peril under standard homeowners insurance. We document the pipe failure, the water damage extent, and our restoration process thoroughly for your claim. We also handle direct billing with most carriers.',
+      answer: 'Typically yes. Burst pipes are usually a covered peril under standard homeowners insurance. We document the pipe failure, the water damage extent, and our restoration process thoroughly for your claim. We also handle carrier coordination with most carriers.',
     },
     {
       question: 'How do you dry water inside walls after a burst pipe?',
@@ -157,7 +157,7 @@ Our IICRC-certified crews understand Falls Church's plumbing challenges. We work
     },
     {
       question: 'Should I call a plumber or restoration company first?',
-      answer: `Call us first if there's active flooding. We respond in 30 minutes to stop damage from spreading and begin extraction. A plumber repairs the pipe, but doesn't remove water or dry your home. We can help coordinate with a trusted plumber after the emergency is controlled.`,
+      answer: `Call us first if there's active flooding. We respond in as soon as crews are available to stop damage from spreading and begin extraction. A plumber repairs the pipe, but doesn't remove water or dry your home. We can help coordinate with a local plumber after the emergency is controlled.`,
     },
     {
       question: 'My pipes are old—should I replace them before they burst?',
@@ -171,6 +171,6 @@ Our IICRC-certified crews understand Falls Church's plumbing challenges. We work
   ],
   finalCTA: {
     headline: 'Burst Pipe Emergency in Falls Church?',
-    paragraph: `Shut off your water and call us immediately. Every minute of water flow means more damage. Our crews are positioned throughout Falls Church for 30-minute response. We'll extract the water, dry your home, and handle your insurance claim.`,
+    paragraph: `Shut off your water and call us immediately. Every minute of water flow means more damage. Our crews are positioned throughout Falls Church for rapid response. We'll extract the water, dry your home, and handle your insurance claim.`,
   },
 }

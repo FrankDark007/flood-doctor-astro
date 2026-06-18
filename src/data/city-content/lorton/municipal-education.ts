@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Lorton, VA | Flood Doctor`,
-    description: `Lorton's trusted restoration for schools and public buildings. Experienced crews serving Laurel Hill, South County, and Gunston area educational and community facilities. Call (877) 497-0007.`,
+    description: `Lorton's local restoration for schools and public buildings. Experienced crews serving Laurel Hill, South County, and Gunston area educational and community facilities. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Lorton, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Lorton's transformation has produced a wave of newer schools and community facilities—Laurel Hill Elementary, South County High School, and community buildings serving a rapidly growing population. The Workhouse Arts Center repurposed historic structures for cultural programming, while new recreation facilities at Laurel Hill serve families who chose the area for its combination of open space and modern amenities. When water damage threatens these facilities, the impact affects a community that is still building its identity and depends on reliable public institutions to anchor residential growth along the South County corridor.
 
-Flood Doctor has restored educational and community facilities in the Lorton area, understanding both the opportunities and challenges of newer institutional construction. Our crews manage standard regulatory compliance while also addressing issues specific to newer facilities—construction defect water intrusion, warranty-period failures, and drainage problems in recently developed sites. We work within FCPS procurement procedures and coordinate with Fairfax County Parks Authority for community facility restorations.`,
+Our crews manage standard regulatory compliance while also addressing issues specific to newer facilities—construction defect water intrusion, warranty-period failures, and drainage problems in recently developed sites. We work within FCPS procurement procedures and coordinate with Fairfax County Parks Authority for community facility restorations.`,
       `Lorton's newer school and community buildings present specific opportunities and risks. Post-2005 construction features modern materials and systems, but may experience water intrusion from grading issues on recently developed sites, construction defects in newer building envelopes, and drainage problems as landscapes mature around new facilities. The Occoquan watershed creates additional moisture challenges for facilities near waterways. Conversely, newer buildings lack the asbestos and lead paint concerns of older construction, simplifying regulatory compliance.
 
 Our documentation addresses the specific needs of Lorton's developing community. For newer facilities, we preserve evidence of potential construction defects supporting warranty claims. For community facilities like the Workhouse Arts Center, we balance historic preservation of repurposed structures with modern restoration standards. Cost justifications and progress reports are formatted for FCPS review, Fairfax County Parks Authority oversight, and community presentations that help Lorton's growing population understand how their public investments are being protected.`,

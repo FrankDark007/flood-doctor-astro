@@ -16,7 +16,7 @@ Flood Doctor provides professional contents cleaning and pack-out services throu
 
 Every item is photographed, barcoded, and inventoried before packing. This detailed documentation serves your insurance claim—providing proof of condition, restoration efforts, and replacement value for items that cannot be saved. Our contents team includes specialists trained in cleaning water-damaged, smoke-damaged, and mold-affected belongings using techniques matched to each material type.`,
     ],
-    localContext: `Centreville's large finished basements typically contain significant personal property—home offices, entertainment systems, children's play areas, and stored valuables—making contents protection and cleaning a major component of most restoration projects.`,
+    localContext: `Centreville's large finished basements typically contain significant personal property—home workspaces, entertainment systems, children's play areas, and stored valuables—making contents protection and cleaning a major component of most restoration projects.`,
   },
   processSteps: [
     {
@@ -100,7 +100,7 @@ Every item is photographed, barcoded, and inventoried before packing. This detai
   },
   pricingSection: {
     headline: 'Contents Cleaning & Pack-Out Costs in Centreville',
-    intro: `Contents cleaning and pack-out is typically covered by homeowner's insurance as part of the restoration claim. We provide detailed estimates, inventory documentation, and handle direct billing with your carrier.`,
+    intro: `Contents cleaning and pack-out is typically covered by homeowner's insurance as part of the restoration claim. We provide detailed estimates, inventory documentation, and handle coordination with your carrier.`,
     factors: [
       'Volume of contents—large Centreville basements with extensive belongings increase pack-out labor and storage needs',
       'Damage type—water, smoke, and mold each require different cleaning techniques with varying costs',
@@ -147,7 +147,7 @@ Every item is photographed, barcoded, and inventoried before packing. This detai
     },
     {
       question: 'Does insurance cover contents cleaning?',
-      answer: `Yes. Contents cleaning and pack-out are standard coverage under homeowner's insurance claims for water damage, fire, and other covered events. We provide the detailed documentation your carrier requires and handle direct billing.`,
+      answer: `Yes. Contents cleaning and pack-out are standard coverage under homeowner's insurance claims for water damage, fire, and other covered events. We provide the detailed documentation your carrier requires and handle carrier coordination.`,
     },
     {
       question: 'How long will my belongings be in storage?',

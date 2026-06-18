@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Healthcare Facility Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville healthcare facility water damage & mold restoration. HIPAA-compliant protocols for medical offices, dental practices & urgent care. Call (877) 497-0007.`,
+    description: `Centreville healthcare facility water damage & mold restoration. HIPAA-compliant protocols for medical workspaces, dental practices & urgent care. Call (877) 497-0007.`,
   },
   h1: 'Healthcare Facility Restoration in Centreville, Virginia',
   introSection: {
     headline: `Specialized Restoration for Centreville Healthcare Facilities`,
     paragraphs: [
-      `Healthcare facilities in Centreville face unique restoration challenges that general contractors cannot address. When water damage strikes your medical office along Route 28, when mold is discovered in your dental practice near Fair Lakes, or when fire affects your urgent care facility, the restoration must meet healthcare-specific standards. Patient safety, infection control, HIPAA compliance for protected health information, and regulatory requirements from licensing bodies all add layers of complexity that standard commercial restoration ignores.
+      `Healthcare facilities in Centreville face unique restoration challenges that general contractors cannot address. When water damage strikes your medical workspace along Route 28, when mold is discovered in your dental practice near Fair Lakes, or when fire affects your urgent care facility, the restoration must meet healthcare-specific standards. Patient safety, infection control, HIPAA compliance for protected health information, and regulatory requirements from licensing bodies all add layers of complexity that standard commercial restoration ignores.
 
-Flood Doctor provides healthcare facility restoration throughout Centreville with protocols developed specifically for medical environments. We understand infection control requirements, maintain HIPAA compliance when handling areas containing protected information, and work within the regulatory framework that governs healthcare facilities. Our crews are trained in healthcare-specific restoration and carry the certifications these environments require.`,
+Flood Doctor provides healthcare facility restoration throughout Centreville with protocols developed specifically for medical environments. We understand infection control requirements, maintain HIPAA compliance when handling areas containing protected information, and work within the regulatory framework that governs healthcare facilities. Our crews are trained in healthcare-specific restoration and carry the qualifications these environments require.`,
       `Healthcare restoration requires coordination beyond standard commercial work. You need to maintain patient care if possible, protect medical equipment and pharmaceuticals, secure patient records, and meet the standards required by your licensing authority. Downtime means cancelled appointments, displaced patients, and potential revenue loss that compounds daily.
 
 Our healthcare restoration team coordinates with facility administration on patient flow, schedules work to minimize operational disruption, and phases restoration to keep as much of the facility operational as safely possible. Documentation meets the standards your insurance carrier, licensing authority, and infection control protocols require.`,
     ],
-    localContext: `Centreville's healthcare corridor along Route 28 and surrounding communities includes medical offices, dental practices, urgent care facilities, and specialty clinics that require healthcare-specific restoration protocols.`,
+    localContext: `Centreville's healthcare corridor along Route 28 and surrounding communities includes medical workspaces, dental practices, urgent care facilities, and specialty clinics that require healthcare-specific restoration protocols.`,
   },
   processSteps: [
     {
       title: 'Emergency Healthcare Response',
       description: `Call (877) 497-0007 for priority healthcare response. We dispatch crews trained in healthcare facility protocols who understand infection control, HIPAA requirements, and the urgency of maintaining patient care capability.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Facility Assessment & Patient Safety',
@@ -98,7 +98,7 @@ Our healthcare restoration team coordinates with facility administration on pati
         purpose: 'Continuous monitoring ensures treatment areas maintain safe air quality during restoration',
       },
     ],
-    localNote: `Our healthcare restoration equipment meets the infection control and air quality standards required by Centreville medical facilities—from small dental offices to multi-provider medical suites.`,
+    localNote: `Our healthcare restoration equipment meets the infection control and air quality standards required by Centreville medical facilities—from small dental workspaces to multi-provider medical suites.`,
   },
   pricingSection: {
     headline: 'Healthcare Facility Restoration Costs in Centreville',
@@ -151,7 +151,7 @@ Our healthcare restoration team coordinates with facility administration on pati
     },
     {
       question: 'Do you have experience with healthcare facilities?',
-      answer: `Yes. We regularly restore medical offices, dental practices, urgent care facilities, and specialty clinics in Centreville and throughout Northern Virginia. Our crews are trained in the specific requirements of healthcare environments.`,
+      answer: `Yes. We regularly restore medical workspaces, dental practices, urgent care facilities, and specialty clinics in Centreville and throughout Northern Virginia. Our crews are trained in the specific requirements of healthcare environments.`,
     },
   ],
   relatedBlogSlugs: [

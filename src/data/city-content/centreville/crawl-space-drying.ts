@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying in Centreville, VA | Flood Doctor',
-    description: `Centreville crawl space drying and encapsulation experts. Moisture control, mold prevention & vapor barriers for Virginia Run & Centre Ridge homes. Call (877) 497-0007.`,
+    description: `Centreville crawl space drying and encapsulation specialists. Moisture control, mold prevention & vapor barriers for Virginia Run & Centre Ridge homes. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying Services in Centreville, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Crawl spaces in Centreville homes are often the forgotten source of moisture problems that affect the entire house. That musty smell on the first floor, the warping hardwood, the elevated humidity that makes summer air conditioning struggle—these often trace back to a wet crawl space. Centreville's clay soil holds water against crawl space walls and evaporates moisture through bare dirt floors, creating a constant supply of humidity that rises through the floor system into your living space.
 
-Flood Doctor provides crawl space drying, remediation, and encapsulation throughout Centreville. We've dried flooded crawl spaces in Virginia Run, remediated mold from Little Rocky Run floor joists, and installed vapor barriers in Centreville Farms homes. Whether your crawl space has standing water from a plumbing leak or chronic moisture from ground conditions, we address both the immediate problem and the long-term solution.`,
+Flood Doctor provides crawl space drying, remediation, and encapsulation throughout Centreville. Whether your crawl space has standing water from a plumbing leak or chronic moisture from ground conditions, we address both the immediate problem and the long-term solution.`,
       `Most Centreville homes built in the 1990s have vented crawl spaces—a construction practice now recognized as counterproductive in our humid climate. Summer air entering crawl space vents carries moisture that condenses on cooler surfaces, creating conditions for mold growth on floor joists, subfloor, and insulation. Add Centreville's clay soil moisture and the result is a crawl space that stays wet year-round.
 
 Our crawl space approach addresses the complete system: dry the existing moisture, remediate any mold, install a vapor barrier, seal vents, and establish controlled dehumidification. This converts a problematic vented crawl space into a dry, conditioned space that protects the structure above and improves indoor air quality throughout your home.`,

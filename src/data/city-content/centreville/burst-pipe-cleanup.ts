@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville burst pipe cleanup specialists. Polybutylene & CPVC pipe failure experts. 30-min response to Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
+    description: `Centreville burst pipe cleanup specialists. Polybutylene & CPVC pipe failure specialists. rapid response to Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Burst Pipe Cleanup Services in Centreville, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Centreville homes are entering the danger zone for catastrophic pipe failures. Built primarily in the 1990s and early 2000s, thousands of homes throughout Virginia Run, Centre Ridge, Little Rocky Run, and Sully Station contain polybutylene supply lines or early CPVC fittings that become brittle with age. When these pipes fail—and they will—the result is hundreds or thousands of gallons of water flooding your home before anyone can shut off the supply.
 
-Flood Doctor responds to burst pipe emergencies throughout Centreville within 30 minutes. We've cleaned up polybutylene failures in Virginia Run colonials, CPVC fitting blowouts in Centre Ridge townhomes, and frozen pipe bursts in Centreville Farms during winter cold snaps. Our crews know exactly how water moves through 1990s-2000s construction—where it pools, where it hides, and how to extract it completely.`,
+Flood Doctor responds to burst pipe emergencies throughout Centreville as soon as crews are available. Our crews know exactly how water moves through 1990s-2000s construction—where it pools, where it hides, and how to extract it completely.`,
       `A burst pipe in a Centreville home creates a cascading emergency. Water from an upstairs bathroom supply line floods through floor joists into the living room below, then continues to the finished basement—affecting three levels in minutes. Polybutylene failures behind walls release water into cavities where it spreads laterally for feet before any visible sign appears. By the time you see the stain on the ceiling, the damage behind the wall is extensive.
 
 Our team arrives with truck-mounted extraction, thermal imaging to map hidden water, and the experience to trace burst pipe damage through every level of your home. We document the pipe failure for your insurance claim and begin extraction while the assessment continues—because in burst pipe cleanup, every minute counts.`,
@@ -21,8 +21,8 @@ Our team arrives with truck-mounted extraction, thermal imaging to map hidden wa
   processSteps: [
     {
       title: 'Emergency Response & Water Shutoff',
-      description: `Call (877) 497-0007 and shut off your main water supply if possible. Our crew arrives within 30 minutes, confirms shutoff, and begins immediate assessment. If you cannot locate your shutoff valve, we assist upon arrival.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and shut off your main water supply if possible. Our crew arrives as soon as crews are available, confirms shutoff, and begins immediate assessment. If you cannot locate your shutoff valve, we assist upon arrival.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Pipe Failure Documentation',
@@ -41,7 +41,7 @@ Our team arrives with truck-mounted extraction, thermal imaging to map hidden wa
     },
     {
       title: 'Structural Drying',
-      description: `Industrial dehumidifiers and air movers dry all affected areas to IICRC standards. Wall cavities receive targeted drying through the Injectidry system, preserving drywall when possible and reducing restoration costs.`,
+      description: `Industrial dehumidifiers and air movers dry all affected areas to industry-standard standards. Wall cavities receive targeted drying through the Injectidry system, preserving drywall when possible and reducing restoration costs.`,
       timeframe: 'Days 1-5',
     },
     {
@@ -113,7 +113,7 @@ Our team arrives with truck-mounted extraction, thermal imaging to map hidden wa
   },
   pricingSection: {
     headline: 'Burst Pipe Cleanup Costs in Centreville',
-    intro: `Burst pipe cleanup costs depend on pipe location, water volume released, and number of levels affected. Homeowner's insurance covers sudden pipe failures—we document the burst and handle direct billing with your carrier.`,
+    intro: `Burst pipe cleanup costs depend on pipe location, water volume released, and number of levels affected. Homeowner's insurance covers sudden pipe failures—we document the burst and handle coordination with your carrier.`,
     factors: [
       'Location of the burst—upper-floor bursts cause multi-level cascading damage that increases scope',
       'Duration of water flow—pipes that burst while you were away release more water than caught-early failures',
@@ -140,7 +140,7 @@ Our team arrives with truck-mounted extraction, thermal imaging to map hidden wa
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `30-minute response to all Centreville neighborhoods for burst pipe emergencies. Shut off your water supply and call (877) 497-0007—we are on the way.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -175,6 +175,6 @@ Our team arrives with truck-mounted extraction, thermal imaging to map hidden wa
   ],
   finalCTA: {
     headline: 'Burst Pipe in Your Centreville Home?',
-    paragraph: `Shut off your water and call now. Every minute water flows, damage spreads to additional floors and rooms. Our 30-minute response team is ready with extraction equipment and the expertise to handle multi-level burst pipe damage. Call (877) 497-0007.`,
+    paragraph: `Shut off your water and call now. Every minute water flows, damage spreads to additional floors and rooms. Our rapid response team is ready with extraction equipment and the expertise to handle multi-level burst pipe damage. Call (877) 497-0007.`,
   },
 }

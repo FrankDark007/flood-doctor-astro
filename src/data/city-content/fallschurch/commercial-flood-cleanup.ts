@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Falls Church's commercial flood exposure concentrates around three intersecting factors: the aging sewer infrastructure that produces backup events in older commercial districts, the apartment-complex density at Baileys Crossroads and Seven Corners where upper-floor failures cascade into ground-floor businesses, and the Lake Barcroft waterfront environment where storm flooding compounds with elevated water tables. When a severe storm overwhelms the combined drainage serving a Falls Church City commercial block, when a building-wide plumbing failure at a Seven Corners apartment complex floods the ground-floor retail tenants, or when Lake Barcroft storm flooding reaches adjacent commercial properties, the cleanup requires both industrial capability and community-sensitive execution.
 
-Flood Doctor's commercial flood division has managed flooding events throughout Falls Church's diverse commercial landscape. We've cleaned up sewer overflow contamination in Falls Church City commercial buildings, extracted storm flooding from Eden Center-area businesses, and restored multi-unit water events at Baileys Crossroads apartment-commercial complexes—bringing contamination management and preservation sensitivity to a community that values both.`,
+Flood Doctor's commercial flood division has managed flooding events throughout Falls Church's diverse commercial landscape. `,
       `Commercial flood cleanup in Falls Church must navigate the community's strong identity and engaged business community. Falls Church City's independent governance means local permits, inspections, and coordination differ from surrounding Fairfax County jurisdictions. The historic commercial districts expect restoration that respects architectural character. The culturally diverse commercial areas at Eden Center and Seven Corners serve communities with specific business-hour patterns and cultural considerations. And the Lake Barcroft residential-commercial interface means commercial flood events near the lake affect a connected community of residents and businesses.
 
 Our commercial flood teams bring community awareness alongside industrial capability. We understand Falls Church City's independent regulatory environment, coordinate work schedules around the diverse business patterns in the Seven Corners area, and execute flood cleanup with the preservation sensitivity that the community's historic commercial character demands.`,
@@ -22,7 +22,7 @@ Our commercial flood teams bring community awareness alongside industrial capabi
     {
       title: 'Community-Responsive Dispatch',
       description: `Call (877) 497-0007 for immediate flood response. Our Falls Church crews cover every commercial district—Falls Church City, Seven Corners, Baileys Crossroads, Eden Center, and Lake Barcroft—with industrial extraction and contamination assessment capability.`,
-      timeframe: 'Within 60 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Source-Specific Contamination Classification',
@@ -54,7 +54,7 @@ Our commercial flood teams bring community awareness alongside industrial capabi
     {
       title: 'Older Sewer Lateral Collapse and Backup',
       description: `Falls Church's aging sewer laterals—some dating to the 1920s-50s—collapse or back up during heavy use or rainfall. Sewage entering commercial spaces through floor drains creates Category 3 biohazard conditions requiring the most extensive cleanup protocols.`,
-      solution: 'Full biohazard cleanup per IICRC Category 3 standards: PPE, contaminated material removal, antimicrobial treatment, and environmental clearance testing. We document the sewer lateral condition for insurance and recommend replacement for laterals likely to fail again.',
+      solution: 'Full biohazard cleanup per industry-standard Category 3 standards: PPE, contaminated material removal, antimicrobial treatment, and environmental clearance testing. We document the sewer lateral condition for insurance and recommend replacement for laterals likely to fail again.',
     },
     {
       title: 'Apartment-to-Commercial Cascade Events',
@@ -106,7 +106,7 @@ Our commercial flood teams bring community awareness alongside industrial capabi
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in Falls Church',
-    intro: 'Falls Church commercial flood costs depend on contamination level, historic preservation requirements, and waterfront proximity. Sewer backup events carry the highest cleanup costs due to biohazard protocols. We provide clear estimates and handle insurance claims for all major carriers.',
+    intro: 'Falls Church commercial flood costs depend on contamination level, historic preservation requirements, and waterfront proximity. Sewer backup events carry the highest cleanup costs due to biohazard protocols. We provide clear estimates and handle insurance claims for many carriers.',
     factors: [
       'Contamination classification—sewer backup (Category 3) requires the most extensive and costly cleanup protocols',
       'Historic material involvement—preservation-sensitive cleanup for original plaster and period materials adds specialized labor',
@@ -131,7 +131,7 @@ Our commercial flood teams bring community awareness alongside industrial capabi
       'South Falls Church',
       'Annandale Road Area',
     ],
-    responseTime: '60-minute commercial flood response to all Falls Church business areas. Crews cover Falls Church City, Seven Corners, Baileys Crossroads, and the Lake Barcroft perimeter.',
+    responseTime: 'prompt commercial flood response to all Falls Church business areas. Crews cover Falls Church City, Seven Corners, Baileys Crossroads, and the Lake Barcroft perimeter.',
   },
   faqs: [
     {

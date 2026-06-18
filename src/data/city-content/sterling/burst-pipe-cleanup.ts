@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Burst Pipe Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling burst pipe cleanup experts. Aging plumbing failures in Sterling Park, frozen pipe response for Cascades & Countryside. 30-min emergency response. Call (877) 497-0007.`,
+    description: `Sterling burst pipe cleanup specialists. Aging plumbing failures in Sterling Park, frozen pipe response for Cascades & Countryside. rapid emergency response. Call (877) 497-0007.`,
   },
   h1: `Burst Pipe Cleanup in Sterling, Virginia`,
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Burst pipes are the most common water damage emergency in Sterling, and the cause depends entirely on your neighborhood. Sterling Park homes built in the 1970s and 1980s have galvanized and copper plumbing systems that are now 40-50 years old—pinhole leaks, joint failures, and corroded supply lines create sudden flooding that can release hundreds of gallons before anyone reaches the shutoff valve. Meanwhile, Cascades and Countryside homes from the 1990s-2000s face frozen pipe risks during harsh winters when exterior wall plumbing in townhome configurations freezes and bursts.
 
-Flood Doctor responds to burst pipe emergencies throughout Sterling within 30 minutes. We have cleaned up catastrophic supply line failures in Sterling Park ranchers, extracted water from multi-level Cascades townhomes after frozen pipe bursts, and restored Lowes Island homes following washing machine hose failures. Our crews carry equipment for both the aging plumbing challenges of established Sterling neighborhoods and the winter freeze risks near Potomac Falls and along the Route 7 corridor.`,
+Flood Doctor responds to burst pipe emergencies throughout Sterling as soon as crews are available. Our crews carry equipment for both the aging plumbing challenges of established Sterling neighborhoods and the winter freeze risks near Potomac Falls and along the Route 7 corridor.`,
       `The damage from a burst pipe in a Sterling home escalates rapidly. In Sterling Park's compartmentalized 1970s floor plans, water pools in one area and causes concentrated damage to floors, walls, and substructure. In Cascades open-concept townhomes, water spreads quickly across large areas and can migrate through shared walls to neighboring units. Split-level Sterling homes present a particular challenge—water from an upper-level burst travels through every level below, damaging each floor it passes through.
 
-Our IICRC-certified technicians understand these flow patterns and trace water to every affected area. We do not just dry what is visible—we use thermal imaging to find hidden moisture behind walls and under floors where burst pipe water commonly migrates in Sterling homes of every era.`,
+Our trained technicians understand these flow patterns and trace water to every affected area. We do not just dry what is visible—we use thermal imaging to find hidden moisture behind walls and under floors where burst pipe water commonly migrates in Sterling homes of every era.`,
     ],
     localContext: `Sterling's range from 1970s-80s aging plumbing to 1990s-2000s freeze-vulnerable townhome configurations creates burst pipe scenarios requiring expertise across construction eras and plumbing system types.`,
   },
   processSteps: [
     {
       title: `Emergency Dispatch to Sterling`,
-      description: `Call (877) 497-0007 the moment a pipe bursts. Shut off the main water supply if you can locate it. Our crews are stationed along the Route 7 corridor and reach Sterling Park, Cascades, Countryside, and Potomac Falls within 30 minutes.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 the moment a pipe bursts. Shut off the main water supply if you can locate it. Our crews are available along the Route 7 corridor and reach Sterling Park, Cascades, Countryside, and Potomac Falls as soon as crews are available.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Source Control & Water Assessment`,
@@ -46,7 +46,7 @@ Our IICRC-certified technicians understand these flow patterns and trace water t
     },
     {
       title: `Verification & Plumbing Coordination`,
-      description: `Final moisture verification confirms complete drying. We coordinate with licensed plumbers for pipe repair and can recommend plumbing upgrades—particularly for Sterling Park homes where aging systems may need targeted replacement to prevent future bursts.`,
+      description: `Final moisture verification confirms documented drying. We coordinate with licensed plumbers for pipe repair and can recommend plumbing upgrades—particularly for Sterling Park homes where aging systems may need targeted replacement to prevent future bursts.`,
       timeframe: `Days 4-6`,
     },
   ],
@@ -108,7 +108,7 @@ Our IICRC-certified technicians understand these flow patterns and trace water t
   },
   pricingSection: {
     headline: `Burst Pipe Cleanup Costs in Sterling`,
-    intro: `Burst pipe cleanup costs in Sterling depend on the pipe location, water volume, and how quickly you call. Supply line failures in Sterling Park homes that run for hours before discovery cost significantly more than quickly-caught bursts. Most burst pipe damage is covered by homeowners insurance, and we handle direct billing.`,
+    intro: `Burst pipe cleanup costs in Sterling depend on the pipe location, water volume, and how quickly you call. Supply line failures in Sterling Park homes that run for hours before discovery cost significantly more than quickly-caught bursts. Most burst pipe damage is covered by homeowners insurance, and we handle carrier coordination.`,
     factors: [
       `Pipe location and type—hidden behind-wall failures cause more extensive damage than visible pipe bursts`,
       `Water volume and duration—how long the pipe ran before shutoff directly affects restoration scope`,
@@ -136,7 +136,7 @@ Our IICRC-certified technicians understand these flow patterns and trace water t
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute burst pipe emergency response to all Sterling neighborhoods. Shut off your water and call (877) 497-0007—we are already in your area.`,
+    responseTime: `rapid burst pipe emergency response to all Sterling neighborhoods. Shut off your water and call (877) 497-0007—we are already in your area.`,
   },
   faqs: [
     {
@@ -171,6 +171,6 @@ Our IICRC-certified technicians understand these flow patterns and trace water t
   ],
   finalCTA: {
     headline: `Burst Pipe in Your Sterling Home?`,
-    paragraph: `Shut off the water and call immediately. Whether it is aging plumbing in Sterling Park or a frozen pipe in your Cascades townhome, our crews reach you within 30 minutes. Every minute that water runs means more damage to your home.`,
+    paragraph: `Shut off the water and call immediately. Whether it is aging plumbing in Sterling Park or a frozen pipe in your Cascades townhome, our crews reach you as soon as crews are available. Every minute that water runs means more damage to your home.`,
   },
 }

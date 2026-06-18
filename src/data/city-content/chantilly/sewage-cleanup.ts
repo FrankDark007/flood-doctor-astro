@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's sewage cleanup and biohazard specialists. 30-min response to South Riding, Franklin Glen & Chantilly Highlands. Category 3 certified. Call (877) 497-0007.`,
+    description: `Chantilly's sewage cleanup and biohazard specialists. rapid response to South Riding, Franklin Glen & Chantilly Highlands. Category 3 trained. Call (877) 497-0007.`,
   },
   h1: 'Sewage Cleanup Services in Chantilly, Virginia',
   introSection: {
     headline: `Professional Sewage Cleanup for Chantilly's Growing Communities`,
     paragraphs: [
-      `Sewage backup in your Chantilly home is a biohazard emergency that demands immediate professional response. Whether raw sewage has flooded your South Riding basement, backed up through drains in your Franklin Glen townhome, or contaminated the crawlspace of your Chantilly Highlands colonial, the health risks are serious and the damage worsens by the hour. Flood Doctor's Category 3 certified crews respond to Chantilly sewage emergencies within 30 minutes with full biohazard containment and decontamination equipment.`,
+      `Sewage backup in your Chantilly home is a biohazard emergency that demands immediate professional response. Whether raw sewage has flooded your South Riding basement, backed up through drains in your Franklin Glen townhome, or contaminated the crawlspace of your Chantilly Highlands colonial, the health risks are serious and the damage worsens by the hour. Flood Doctor's Category 3 trained crews respond to Chantilly sewage emergencies as soon as crews are available with full biohazard containment and decontamination equipment.`,
       `Chantilly's rapid growth along the Dulles corridor has strained municipal sewer infrastructure in some areas. Older sewer lines serving Greenbriar and Brookfield neighborhoods experience backup during heavy rain events. Newer developments near Westfields Business Park and South Riding may have construction debris partially blocking lines. Properties near Ellanor C. Lawrence Park face root intrusion from mature trees. Whatever the cause, sewage in your home requires professional remediation—not DIY cleanup—to protect your family's health and satisfy insurance requirements.`,
     ],
     localContext: `Chantilly's mix of aging sewer infrastructure in established neighborhoods and newer construction with potential installation issues creates sewage backup risks across the community, particularly during heavy rain events along the Dulles corridor.`,
@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Biohazard Response',
-      description: `Call (877) 497-0007 and our Category 3 certified crew deploys immediately with full PPE and containment equipment. We establish biohazard zones and prevent sewage from spreading to unaffected areas of your Chantilly home.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Category 3 trained crew deploys immediately with full PPE and containment equipment. We establish biohazard zones and prevent sewage from spreading to unaffected areas of your Chantilly home.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Contamination Assessment',
@@ -50,7 +50,7 @@ export const content: CityServiceContent = {
     {
       title: 'Municipal Sewer Overflow During Storms',
       description: `Heavy summer storms overwhelm sewer capacity in portions of Chantilly, particularly in older neighborhoods like Greenbriar and Brookfield. Combined sewer overflows push raw sewage into basements through floor drains and toilet connections.`,
-      solution: `Emergency extraction and biohazard containment begin within 30 minutes. We document municipal system failures for potential liability claims and install backflow prevention recommendations to protect against recurrence.`,
+      solution: `Emergency extraction and biohazard containment begin as soon as crews are available. We document municipal system failures for potential liability claims and install backflow prevention recommendations to protect against recurrence.`,
     },
     {
       title: 'Construction Debris in Newer Sewer Lines',
@@ -64,7 +64,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Finished Basement Contamination',
-      description: `Most Chantilly homes feature extensively finished basements with carpeting, drywall, and built-in cabinetry. Sewage flooding these spaces requires complete removal of porous materials that cannot be decontaminated, affecting home offices, playrooms, and entertainment areas.`,
+      description: `Most Chantilly homes feature extensively finished basements with carpeting, drywall, and built-in cabinetry. Sewage flooding these spaces requires complete removal of porous materials that cannot be decontaminated, affecting home workspaces, playrooms, and entertainment areas.`,
       solution: `We remove all contaminated porous materials following EPA guidelines, treat structural elements, and provide detailed documentation for insurance-covered reconstruction of finished basement spaces.`,
     },
   ],
@@ -102,7 +102,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Sewage Cleanup Costs in Chantilly',
-    intro: `Sewage cleanup costs in Chantilly depend on contamination extent, affected materials, and property size. Most homeowners insurance covers sewage backup when you have the appropriate endorsement. We handle direct billing and provide the documentation carriers require for Category 3 water damage claims.`,
+    intro: `Sewage cleanup costs in Chantilly depend on contamination extent, affected materials, and property size. Most homeowners insurance covers sewage backup when you have the appropriate endorsement. We handle carrier coordination and provide the documentation carriers require for Category 3 water damage claims.`,
     factors: [
       `Contamination extent—volume of sewage and area affected directly determine scope`,
       `Finished materials requiring removal—Chantilly's finished basements often need extensive demolition`,
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Testing and verification—post-remediation clearance testing confirms safe reoccupation`,
       `Municipal versus private cause—sewer overflow documentation may support liability claims`,
     ],
-    cta: `Call (877) 497-0007 for emergency sewage cleanup. Biohazard situations cannot wait—our Category 3 certified crews respond within 30 minutes.`,
+    cta: `Call (877) 497-0007 for emergency sewage cleanup. Biohazard situations cannot wait—our Category 3 trained crews respond as soon as crews are available.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute emergency sewage response to all Chantilly neighborhoods. Biohazard calls receive highest dispatch priority.`,
+    responseTime: `rapid emergency sewage response to all Chantilly neighborhoods. Biohazard calls receive highest dispatch priority.`,
   },
   faqs: [
     {
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Sewage Emergency in Your Chantilly Home?',
-    paragraph: `Sewage contamination is a serious health hazard that worsens every hour. Do not attempt cleanup yourself. Our Category 3 certified biohazard crews respond to all Chantilly neighborhoods within 30 minutes. Call (877) 497-0007 now.`,
+    paragraph: `Sewage contamination is a serious health hazard that worsens every hour. Do not attempt cleanup yourself. Our Category 3 trained biohazard crews respond to all Chantilly neighborhoods as soon as crews are available. Call (877) 497-0007 now.`,
   },
 }

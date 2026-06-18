@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Restoration in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's basement flooding experts. 30-min response to South Riding, Chantilly Highlands & Franklin Glen. Sump pump failure and storm flooding specialists. Call (877) 497-0007.`,
+    description: `Chantilly's basement flooding specialists. rapid response to South Riding, Chantilly Highlands & Franklin Glen. Sump pump failure and storm flooding specialists. Call (877) 497-0007.`,
   },
   h1: 'Basement Flooding Restoration in Chantilly, Virginia',
   introSection: {
     headline: `Rescuing Chantilly's Finished Basements from Flooding`,
     paragraphs: [
-      `A flooded basement in Chantilly means far more than standing water in an unfinished utility area. Most Chantilly homes—from South Riding colonials to Chantilly Highlands split-levels to Poplar Tree Estates townhomes—feature extensively finished basements with home theaters, playrooms, offices, and guest suites. When water floods these spaces, the damage to carpet, drywall, cabinetry, electronics, and personal belongings is immediate and devastating. Flood Doctor responds within 30 minutes to begin extraction before secondary damage multiplies your losses.`,
-      `Basement flooding in Chantilly stems from multiple sources: sump pump failures during summer storms, foundation cracks from clay soil settling, drain backups during heavy rain events, and groundwater intrusion from the elevated water table near Ellanor C. Lawrence Park and the Cub Run watershed. Properties near Westfields Business Park and throughout the Dulles corridor face these challenges. Our crews have pumped out and restored basements in every Chantilly neighborhood—we know the local soil conditions, drainage patterns, and construction practices that contribute to basement flooding.`,
+      `A flooded basement in Chantilly means far more than standing water in an unfinished utility area. Most Chantilly homes—from South Riding colonials to Chantilly Highlands split-levels to Poplar Tree Estates townhomes—feature extensively finished basements with home theaters, playrooms, workspaces, and guest suites. When water floods these spaces, the damage to carpet, drywall, cabinetry, electronics, and personal belongings is immediate and devastating. Flood Doctor responds as soon as crews are available to begin extraction before secondary damage multiplies your losses.`,
+      `Basement flooding in Chantilly stems from multiple sources: sump pump failures during summer storms, foundation cracks from clay soil settling, drain backups during heavy rain events, and groundwater intrusion from the elevated water table near Ellanor C. Lawrence Park and the Cub Run watershed. Properties near Westfields Business Park and throughout the Dulles corridor face these challenges. `,
     ],
     localContext: `Chantilly's extensively finished basements represent significant homeowner investment, making rapid flood response critical. The area's clay soil, high water table near Cub Run, and newer construction sump systems create persistent flooding risks.`,
   },
   processSteps: [
     {
       title: 'Emergency Pump-Out',
-      description: `Call (877) 497-0007 and our trucks arrive within 30 minutes with submersible pumps and truck-mounted extractors. We remove standing water from Chantilly's large finished basements at thousands of gallons per hour.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our trucks arrive as soon as crews are available with submersible pumps and truck-mounted extractors. We remove standing water from Chantilly's large finished basements at thousands of gallons per hour.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Source Identification',
@@ -99,11 +99,11 @@ export const content: CityServiceContent = {
         purpose: `Treat contaminated basement surfaces when sewer backup or storm water is involved`,
       },
     ],
-    localNote: `Our basement flooding equipment is scaled for Chantilly's larger finished basements—often 1,500 to 3,000 square feet of finished living space requiring extraction and complete drying.`,
+    localNote: `Our basement flooding equipment is scaled for Chantilly's larger finished basements—often 1,500 to 3,000 square feet of finished living space requiring extraction and documented drying.`,
   },
   pricingSection: {
     headline: 'Basement Flooding Restoration Costs in Chantilly',
-    intro: `Basement flooding costs in Chantilly depend on water volume, contamination level, and the extent of finished materials affected. Insurance typically covers sudden flooding events—sump pump failure, burst pipes, and drain backup with the appropriate endorsement. We handle direct billing and provide comprehensive documentation.`,
+    intro: `Basement flooding costs in Chantilly depend on water volume, contamination level, and the extent of finished materials affected. Insurance typically covers sudden flooding events—sump pump failure, burst pipes, and drain backup with the appropriate endorsement. We handle carrier coordination and provide comprehensive documentation.`,
     factors: [
       `Water depth and basement square footage—Chantilly's large finished basements increase affected area`,
       `Contamination level—clean groundwater versus sewage backup requires different protocols`,
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       `Duration of flooding before response—faster extraction reduces secondary damage costs`,
       `Prevention measures—sump pump upgrades and waterproofing are additional investments`,
     ],
-    cta: `Call (877) 497-0007 for emergency basement flooding response. We arrive within 30 minutes and provide free damage assessments with detailed estimates.`,
+    cta: `Call (877) 497-0007 for emergency basement flooding response. We arrive as soon as crews are available and provide free damage assessments with detailed estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,12 +131,12 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute basement flooding response to all Chantilly neighborhoods. Summer storm season crews are pre-positioned for rapid deployment throughout the Dulles corridor.`,
+    responseTime: `rapid basement flooding response to all Chantilly neighborhoods. Summer storm season crews are pre-positioned for rapid deployment throughout the Dulles corridor.`,
   },
   faqs: [
     {
       question: `My Chantilly basement just flooded—what should I do first?`,
-      answer: `Do not enter standing water if there is any chance of electrical contact. Turn off the breaker for the basement circuit if you can do so safely from upstairs. Then call (877) 497-0007 for emergency extraction within 30 minutes.`,
+      answer: `Do not enter standing water if there is any chance of electrical contact. Turn off the breaker for the basement circuit if you can do so safely from upstairs. Then call (877) 497-0007 for emergency extraction as soon as crews are available.`,
     },
     {
       question: `Can my finished basement be saved after flooding?`,
@@ -148,7 +148,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Does insurance cover basement flooding from a sump pump failure?`,
-      answer: `Most policies cover sump pump failure with the appropriate endorsement—check for sewer/drain backup coverage on your policy. We provide the documentation carriers require and handle direct billing.`,
+      answer: `Most policies cover sump pump failure with the appropriate endorsement—check for sewer/drain backup coverage on your policy. We provide the documentation carriers require and handle carrier coordination.`,
     },
     {
       question: `How can I prevent my Chantilly basement from flooding again?`,
@@ -160,7 +160,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How long does basement restoration take?`,
-      answer: `Extraction takes hours; structural drying takes 3-5 days. Complete restoration including drywall, flooring, and finish work typically takes 2-4 weeks. We provide clear timelines and coordinate all trades for efficient completion.`,
+      answer: `Extraction takes hours; structural drying takes 3-5 days. Full recovery planning including drywall, flooring, and finish work typically takes 2-4 weeks. We provide clear timelines and coordinate all trades for efficient completion.`,
     },
   ],
   relatedBlogSlugs: [
@@ -170,6 +170,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Basement Flooding in Your Chantilly Home?',
-    paragraph: `Your finished basement is too valuable to lose to water damage. Our crews respond within 30 minutes with industrial extraction equipment to pump out your basement and begin professional drying. Call (877) 497-0007 now.`,
+    paragraph: `Your finished basement is too valuable to lose to water damage. Our crews respond as soon as crews are available with industrial extraction equipment to pump out your basement and begin professional drying. Call (877) 497-0007 now.`,
   },
 }

@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Sterling's multifamily housing and hospitality properties face water damage challenges that single-family restoration cannot address. Apartment complexes along the Route 7 corridor experience plumbing failures that cascade through multiple floors and units. Condominium communities in Cascades and Countryside share plumbing infrastructure where one pipe failure affects an entire building stack. Hotels and extended-stay properties near Potomac Falls and the Sterling commercial district need guest room restoration with minimal disruption to operations. Each multifamily scenario requires coordination between property managers, individual residents, and insurance carriers.
 
-Flood Doctor serves Sterling's multifamily and hospitality properties with the multi-unit coordination these situations demand. We have managed multi-floor water damage at Sterling apartment complexes, restored condominium buildings in Cascades after shared plumbing failures, and provided rapid guest room restoration for Sterling area hotels. Our project managers understand the unique dynamics of properties where one water event creates dozens of affected stakeholders near Claude Moore Park and Algonkian Regional Park.`,
+Flood Doctor serves Sterling's multifamily and hospitality properties with the multi-unit coordination these situations demand. Our project managers understand the unique dynamics of properties where one water event creates dozens of affected stakeholders near Claude Moore Park and Algonkian Regional Park.`,
       `Multifamily water damage in Sterling typically involves shared building systems—risers, laterals, fire suppression, and HVAC—that distribute water events across multiple units and floors. The damage pattern follows building infrastructure rather than property lines, creating insurance and liability questions that require clear documentation. Which unit originated the water? How far did it travel through shared systems? Which damage falls under the building policy versus individual unit policies?
 
 Our documentation answers these questions with precision—tracing water from source to every affected unit, documenting damage by unit for individual claims, and identifying building system failures for the master policy. This multi-party documentation capability is what separates multifamily restoration expertise from standard residential service.`,
@@ -22,7 +22,7 @@ Our documentation answers these questions with precision—tracing water from so
     {
       title: `Multi-Unit Emergency Response`,
       description: `Call (877) 497-0007 for immediate multifamily or hospitality response. Our crews assess the full building impact—not just the unit where water is visible. For Sterling apartment and condo buildings, we check every unit in the water path.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Building-Wide Damage Assessment`,
@@ -97,7 +97,7 @@ Our documentation answers these questions with precision—tracing water from so
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute response for Sterling multifamily and hospitality emergencies. Multi-crew deployment for large-scale building events. Call (877) 497-0007.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {

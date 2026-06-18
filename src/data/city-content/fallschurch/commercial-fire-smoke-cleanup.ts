@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted commercial fire and smoke restoration team. Emergency response for Eden Center restaurants, historic district businesses, and apartment-commercial complexes. Call (877) 497-0007.`,
+    description: `Falls Church's local commercial fire and smoke restoration team. Emergency response for Eden Center restaurants, historic district businesses, and apartment-commercial complexes. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Falls Church, Virginia`,
   introSection: {
     headline: `Diverse Building Fire Restoration Across Falls Church Commercial Properties`,
     paragraphs: [
-      `Fire damage in Falls Church's commercial landscape strikes across a uniquely diverse building stock. A kitchen fire at an Eden Center restaurant threatens the entire multi-tenant dining complex through shared HVAC and wall construction. An electrical fire at a Falls Church City historic storefront sends smoke through interconnected attic spaces to neighboring boutiques and galleries. A fire at a Seven Corners commercial center triggers sprinklers that flood multiple tenant suites while smoke enters the shared air system. A fire in a Baileys Crossroads apartment complex damages ground-floor commercial tenants through both direct smoke exposure and cascading sprinkler water. Falls Church's commercial diversity means fire restoration must adapt to each building type—restaurant complexes, historic storefronts, modern offices, and vertical apartment-commercial configurations. Flood Doctor provides integrated fire restoration across every Falls Church commercial property type.`,
-      `Smoke behavior in Falls Church's buildings follows each property's unique architecture. Eden Center's restaurant complex channels smoke through commercial kitchen exhaust interconnections and shared building systems. Falls Church City's older buildings feature interconnected wall cavities and attic spaces where smoke migrates between businesses. Seven Corners office complexes distribute smoke through shared HVAC to every connected tenant. Apartment-commercial buildings create vertical smoke pathways through plumbing chases and utility penetrations. Fire suppression water compounds damage in all building types, especially where aging construction materials absorb water unpredictably. Our multi-discipline approach addresses fire, smoke, water, and content damage simultaneously across whatever Falls Church building configuration we encounter.`,
+      `Fire damage in Falls Church's commercial landscape strikes across a uniquely diverse building stock. A kitchen fire at an Eden Center restaurant threatens the entire multi-tenant dining complex through shared HVAC and wall construction. An electrical fire at a Falls Church City historic storefront sends smoke through interconnected attic spaces to neighboring boutiques and galleries. A fire at a Seven Corners commercial center triggers sprinklers that flood multiple tenant suites while smoke enters the shared air system. A fire in a Baileys Crossroads apartment complex damages ground-floor commercial tenants through both direct smoke exposure and cascading sprinkler water. Falls Church's commercial diversity means fire restoration must adapt to each building type—restaurant complexes, historic storefronts, modern workspaces, and vertical apartment-commercial configurations. Flood Doctor provides integrated fire restoration across every Falls Church commercial property type.`,
+      `Smoke behavior in Falls Church's buildings follows each property's unique architecture. Eden Center's restaurant complex channels smoke through commercial kitchen exhaust interconnections and shared building systems. Falls Church City's older buildings feature interconnected wall cavities and attic spaces where smoke migrates between businesses. Seven Corners workspace complexes distribute smoke through shared HVAC to every connected tenant. Apartment-commercial buildings create vertical smoke pathways through plumbing chases and utility penetrations. Fire suppression water compounds damage in all building types, especially where aging construction materials absorb water unpredictably. Our multi-discipline approach addresses fire, smoke, water, and content damage simultaneously across whatever Falls Church building configuration we encounter.`,
     ],
-    localContext: `Falls Church's commercial building diversity—ethnic restaurant complexes, historic storefronts, modern offices, and apartment-commercial configurations—demands fire restoration teams that adapt approach, equipment, and coordination to each property type.`,
+    localContext: `Falls Church's commercial building diversity—ethnic restaurant complexes, historic storefronts, modern workspaces, and apartment-commercial configurations—demands fire restoration teams that adapt approach, equipment, and coordination to each property type.`,
   },
   processSteps: [
     {
@@ -22,17 +22,17 @@ export const content: CityServiceContent = {
     },
     {
       title: `Building-Specific Assessment`,
-      description: `Our project manager maps fire, smoke, and water damage with attention to property type—shared walls and exhaust systems at Eden Center, attic interconnections in historic buildings, HVAC distribution in Seven Corners offices, and vertical pathways in apartment-commercial structures. Insurance coordination begins immediately.`,
+      description: `Our project manager maps fire, smoke, and water damage with attention to property type—shared walls and exhaust systems at Eden Center, attic interconnections in historic buildings, HVAC distribution in Seven Corners workspaces, and vertical pathways in apartment-commercial structures. Insurance coordination begins immediately.`,
       timeframe: `Day 1-2`,
     },
     {
       title: `Smoke Removal and Decontamination`,
-      description: `Cleaning techniques match each building type—commercial kitchen-specific chemistry for Eden Center restaurants, gentle approaches for Falls Church City historic materials, industrial systems for Seven Corners office spaces. HVAC decontamination addresses smoke distribution through shared air systems.`,
+      description: `Cleaning techniques match each building type—commercial kitchen-specific chemistry for Eden Center restaurants, gentle approaches for Falls Church City historic materials, industrial systems for Seven Corners workspaces. HVAC decontamination addresses smoke distribution through shared air systems.`,
       timeframe: `Days 2-8`,
     },
     {
       title: `Content Restoration`,
-      description: `Restaurant equipment receives food-service-appropriate cleaning. Retail inventory is documented for insurance. Office electronics get anti-corrosion treatment. Each property type gets restoration matched to its contents.`,
+      description: `Restaurant equipment receives food-service-appropriate cleaning. Retail inventory is documented for insurance. Workspace electronics get anti-corrosion treatment. Each property type gets restoration matched to its contents.`,
       timeframe: `Days 2-10`,
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Historic building preservation—Falls Church City properties need character-appropriate restoration techniques`,
       `Vertical damage—apartment-commercial buildings add complexity from multi-story smoke and water migration`,
     ],
-    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Falls Church. Our teams adapt to every property type—Eden Center restaurants, historic storefronts, modern offices, and apartment-commercial buildings.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Falls Church. Our teams adapt to every property type—Eden Center restaurants, historic storefronts, modern workspaces, and apartment-commercial buildings.`,
   },
   serviceAreaSection: {
     neighborhoods: [

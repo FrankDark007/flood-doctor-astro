@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Lorton, VA | Flood Doctor`,
-    description: `Lorton's trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for medical offices and clinics near Laurel Hill and Occoquan. Call (877) 497-0007.`,
+    description: `Lorton's local healthcare facility restoration specialists. HIPAA-compliant water damage restoration for medical workspaces and clinics near Laurel Hill and Occoquan. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Lorton, Virginia`,
   introSection: {
     headline: `Protecting Lorton's Growing Medical Community from Water Damage`,
     paragraphs: [
-      `Lorton's expanding community has attracted a growing network of medical facilities—family practices in the Laurel Hill development, urgent care centers near the Lorton VRE Station, and specialist clinics serving the South County corridor. Many of these healthcare facilities occupy newer construction built since 2005, where construction defects in plumbing, HVAC condensate systems, and drainage grading create water damage risks unique to recently developed areas. When a drainage failure floods a Laurel Hill pediatric office or an HVAC condensate line overwhelms a Gunston-area medical suite, the stakes extend beyond property damage to patient safety, HIPAA compliance, and regulatory standing.
+      `Lorton's expanding community has attracted a growing network of medical facilities—family practices in the Laurel Hill development, urgent care centers near the Lorton VRE Station, and specialist clinics serving the South County corridor. Many of these healthcare facilities occupy newer construction built since 2005, where construction defects in plumbing, HVAC condensate systems, and drainage grading create water damage risks unique to recently developed areas. When a drainage failure floods a Laurel Hill pediatric workspace or an HVAC condensate line overwhelms a Gunston-area medical suite, the stakes extend beyond property damage to patient safety, HIPAA compliance, and regulatory standing.
 
-Flood Doctor has restored healthcare facilities throughout the Lorton corridor, safeguarding patient records, protecting diagnostic equipment, and maintaining infection control standards during every project. Our ICRA-trained technicians deploy containment barriers that meet Joint Commission standards while our HIPAA-certified project managers ensure protected health information remains secure. Lorton medical practices trust us because we understand both the newer construction vulnerabilities and the healthcare compliance framework these facilities require.`,
-      `The medical offices serving Lorton's growing population face challenges particular to this developing area. Newer construction in Laurel Hill and South County features modern building systems that nonetheless suffer from grading and drainage issues common in recently developed terrain. Medical offices near the Occoquan waterfront contend with tidal influence on groundwater levels that can push moisture through foundations during storm events. Facilities in wooded areas face crawlspace moisture intrusion that compromises indoor air quality in sensitive clinical environments.
+Our ICRA-trained technicians deploy containment barriers that meet Joint Commission standards while our HIPAA-trained project managers ensure protected health information remains secure. Lorton medical practices trust us because we understand both the newer construction vulnerabilities and the healthcare compliance framework these facilities require.`,
+      `The medical workspaces serving Lorton's growing population face challenges particular to this developing area. Newer construction in Laurel Hill and South County features modern building systems that nonetheless suffer from grading and drainage issues common in recently developed terrain. Medical workspaces near the Occoquan waterfront contend with tidal influence on groundwater levels that can push moisture through foundations during storm events. Facilities in wooded areas face crawlspace moisture intrusion that compromises indoor air quality in sensitive clinical environments.
 
 Our healthcare restoration protocols address these Lorton-specific challenges. We coordinate with medical equipment manufacturers, maintain temperature and humidity logs for pharmaceutical storage compliance, and provide documentation that satisfies CMS survey readiness requirements. When a Lorton medical practice faces water damage—whether from development drainage issues or waterfront proximity—we restore both the physical space and the regulatory compliance framework that allows continued operations.`,
     ],
@@ -22,11 +22,11 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
     {
       title: `Emergency Response and Facility Assessment`,
       description: `Call our Lorton healthcare hotline at (877) 497-0007 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager before entering any patient care area.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `ICRA Classification and Containment`,
-      description: `We conduct an Infection Control Risk Assessment with your infection control officer to classify affected areas. Containment barriers meeting the appropriate ICRA class are installed before any demolition or drying equipment is deployed, preventing airborne contamination in adjacent patient areas.`,
+      description: `We conduct an Infection Control Risk Assessment with your infection control workspacer to classify affected areas. Containment barriers meeting the appropriate ICRA class are installed before any demolition or drying equipment is deployed, preventing airborne contamination in adjacent patient areas.`,
       timeframe: `Hours 1-3`,
     },
     {
@@ -53,7 +53,7 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
   localChallenges: [
     {
       title: `New Development Drainage Failures`,
-      description: `Medical offices in Laurel Hill and South County occupy newer buildings where development grading and drainage systems have not fully settled. Storm events overwhelm drainage infrastructure, pushing surface water against foundations and into ground-floor medical suites that house patient care areas and equipment.`,
+      description: `Medical workspaces in Laurel Hill and South County occupy newer buildings where development grading and drainage systems have not fully settled. Storm events overwhelm drainage infrastructure, pushing surface water against foundations and into ground-floor medical suites that house patient care areas and equipment.`,
       solution: `We document drainage-related water intrusion with forensic precision, supporting both insurance claims and builder or developer warranty recovery when construction deficiencies contributed to the water event. Our restoration addresses the immediate damage while identifying the root drainage cause.`,
     },
     {
@@ -96,7 +96,7 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
       },
       {
         name: `Injectidry Panel Systems`,
-        purpose: `Dry wall cavities without demolition, preserving medical office finishes and reducing downtime`,
+        purpose: `Dry wall cavities without demolition, preserving medical workspace finishes and reducing downtime`,
       },
       {
         name: `Data Recovery Equipment`,
@@ -132,11 +132,11 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
       `Pohick Bay Area`,
       `Newington Connection`,
     ],
-    responseTime: `45-minute emergency response to all Lorton healthcare facilities. Our crews are positioned throughout southern Fairfax County with ICRA containment materials and healthcare-grade equipment pre-loaded for immediate medical facility deployment.`,
+    responseTime: `prompt emergency response to all Lorton healthcare facilities. Our crews are positioned throughout southern Fairfax County with ICRA containment materials and healthcare-grade equipment pre-loaded for immediate medical facility deployment.`,
   },
   faqs: [
     {
-      question: `Are your restoration crews HIPAA trained for Lorton medical offices?`,
+      question: `Are your restoration crews HIPAA trained for Lorton medical workspaces?`,
       answer: `Yes. Every technician assigned to healthcare projects completes annual HIPAA training and signs confidentiality agreements. We execute business associate agreements with each medical practice and maintain chain-of-custody documentation for any materials containing protected health information.`,
     },
     {
@@ -144,7 +144,7 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
       answer: `Yes. Many Lorton medical facilities occupy newer construction where drainage deficiencies cause water intrusion. We document the water source and damage origin with forensic precision, providing evidence that supports warranty claims against builders and developers.`,
     },
     {
-      question: `Can you restore our medical office without closing the entire practice?`,
+      question: `Can you restore our medical workspace without closing the entire practice?`,
       answer: `In most cases, yes. We design phased restoration plans that isolate affected areas with ICRA-compliant containment while allowing continued operations in unaffected treatment rooms. Many Lorton practices maintain partial operations throughout the restoration process.`,
     },
     {
@@ -157,7 +157,7 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
     },
     {
       question: `How quickly can you respond to an after-hours emergency at our Lorton clinic?`,
-      answer: `We guarantee 45-minute response to Lorton healthcare facilities 24/7. Pre-arranged facility access protocols allow us to begin securing your medical office even before staff arrives, preventing water migration into patient care areas and equipment rooms.`,
+      answer: `We service commitment prompt response to Lorton healthcare facilities 24/7. Pre-arranged facility access protocols allow us to begin securing your medical workspace even before staff arrives, preventing water migration into patient care areas and equipment rooms.`,
     },
     {
       question: `Do you handle medical facility insurance claims?`,
@@ -169,6 +169,6 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
   ],
   finalCTA: {
     headline: `Healthcare Facility Emergency in Lorton?`,
-    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Lorton medical facilities within 45 minutes with containment materials and healthcare-grade equipment. Call (877) 497-0007 now.`,
+    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-trained, ICRA-trained crews respond to Lorton medical facilities as soon as crews are available with containment materials and healthcare-grade equipment. Call (877) 497-0007 now.`,
   },
 }

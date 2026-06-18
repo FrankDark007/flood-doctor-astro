@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Falls Church Response',
-      description: `Call (877) 497-0007 and our crews respond within 30 minutes. We assess interior damage with sensitivity to the home's era—original plaster, vintage paneling, and historic details receive careful evaluation before any invasive assessment begins.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews respond as soon as crews are available. We assess interior damage with sensitivity to the home's era—original plaster, vintage paneling, and historic details receive careful evaluation before any invasive assessment begins.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Era-Appropriate Tarping',
@@ -42,7 +42,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Roof Repair Coordination',
-      description: 'We coordinate with roofing contractors appropriate for your roof type—slate specialists for historic roofs, flat-roof membrane experts for mid-century sections, and standard roofers for conventional shingle systems. Documentation supports insurance claims for all roof types.',
+      description: 'We coordinate with roofing contractors appropriate for your roof type—slate specialists for historic roofs, flat-roof membrane specialists for mid-century sections, and standard roofers for conventional shingle systems. Documentation supports insurance claims for all roof types.',
       timeframe: 'Throughout process',
     },
   ],
@@ -124,7 +124,7 @@ export const content: CityServiceContent = {
       'Culmore',
       'Idylwood',
     ],
-    responseTime: '30-minute emergency response throughout Falls Church. Our crews carry multi-era tarping and preservation drying equipment for immediate deployment from Falls Church City to Lake Barcroft.',
+    responseTime: 'rapid emergency response throughout Falls Church. Our crews carry multi-era tarping and preservation drying equipment for immediate deployment from Falls Church City to Lake Barcroft.',
   },
   faqs: [
     {

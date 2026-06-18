@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: `Rapid Mobilization`,
       description: `Call (877) 497-0007 for immediate large loss response. We deploy a project manager and advance crew within the hour, followed by full equipment and additional crews as the scope becomes clear.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Damage Assessment & Stabilization`,
@@ -37,7 +37,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Reconstruction & Project Closeout`,
-      description: `Complete reconstruction returns the property to pre-loss condition. For historic properties, this includes period-appropriate materials and preservation-compliant techniques. Final documentation and insurance settlement support complete the project.`,
+      description: `Complete reconstruction returns the property to a stable, usable condition. For historic properties, this includes period-appropriate materials and preservation-compliant techniques. Final documentation and insurance settlement support complete the project.`,
       timeframe: `Varies`,
     },
   ],
@@ -50,7 +50,7 @@ export const content: CityServiceContent = {
     {
       title: `Luxury Estate Catastrophic Damage`,
       description: `Lansdowne and River Creek estates with values exceeding $1 million feature custom finishes, imported materials, and luxury systems that require specialized restoration expertise and extended timelines for material procurement.`,
-      solution: `Our project managers coordinate with custom builders, specialty material suppliers, and luxury system installers to restore estates to their pre-loss specifications. We understand the expectations of premium property owners.`,
+      solution: `Our project managers coordinate with custom builders, specialty material suppliers, and luxury system installers to restore estates to their stable specifications. We understand the expectations of premium property owners.`,
     },
     {
       title: `Multi-Building Commercial Events`,
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `Project manager on-site within 60 minutes for large loss events. Full crew and equipment mobilization within 2-4 hours.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {

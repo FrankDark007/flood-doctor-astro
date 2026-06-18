@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Building Science-Based Moisture Analysis for Chantilly Properties`,
     paragraphs: [
       `Moisture mapping and consulting provides the scientific foundation for effective water damage restoration, building diagnostics, and moisture management in Chantilly's properties. Using infrared thermography, quantitative moisture measurement, and psychrometric analysis, our building science consultants create detailed moisture profiles that guide restoration decisions, document hidden damage for insurance claims, and identify chronic moisture sources in homes throughout South Riding, Chantilly Highlands, and the broader Dulles corridor.`,
-      `Chantilly's newer construction presents specific moisture mapping challenges. Modern building assemblies—spray foam insulation, OSB sheathing, engineered flooring over OSB subfloors—create complex moisture dynamics that require quantitative analysis rather than visual inspection. Properties near Ellanor C. Lawrence Park and the Cub Run watershed face elevated ambient moisture. Commercial buildings at Westfields Business Park and along the Dulles corridor have building envelope and HVAC interactions that require professional assessment. Our moisture consultants bring ACAC and IICRC certifications combined with deep knowledge of Chantilly's construction practices and environmental conditions to Poplar Tree Estates, Franklin Glen, Fair Oaks, and every Chantilly community.`,
+      `Chantilly's newer construction presents specific moisture mapping challenges. Modern building assemblies—spray foam insulation, OSB sheathing, engineered flooring over OSB subfloors—create complex moisture dynamics that require quantitative analysis rather than visual inspection. Properties near Ellanor C. Lawrence Park and the Cub Run watershed face elevated ambient moisture. Commercial buildings at Westfields Business Park and along the Dulles corridor have building envelope and HVAC interactions that require professional assessment. Our moisture consultants bring ACAC and industry-standard qualifications combined with deep knowledge of Chantilly's construction practices and environmental conditions to Poplar Tree Estates, Franklin Glen, Fair Oaks, and every Chantilly community.`,
     ],
     localContext: `Chantilly's modern building materials and construction methods create moisture dynamics that require quantitative analysis and building science expertise to diagnose and resolve—particularly in the area's newer homes with tight building envelopes and complex assemblies.`,
   },
@@ -161,6 +161,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Need Professional Moisture Analysis in Chantilly?',
-    paragraph: `Quantitative moisture mapping provides the scientific basis for effective restoration, informed maintenance decisions, and supported warranty claims. Our certified building science consultants serve all Chantilly properties. Call (877) 497-0007.`,
+    paragraph: `Quantitative moisture mapping provides the scientific basis for effective restoration, informed maintenance decisions, and supported warranty claims. Our trained building science consultants serve all Chantilly properties. Call (877) 497-0007.`,
   },
 }

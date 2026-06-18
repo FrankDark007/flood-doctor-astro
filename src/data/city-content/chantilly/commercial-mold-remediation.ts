@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Mold Remediation in Chantilly, VA | Flood Doctor',
-    description: `Commercial mold remediation for Chantilly businesses. IICRC S520 certified. Serving Westfields Business Park, Dulles corridor & Sully Plaza. Call (877) 497-0007.`,
+    description: `Commercial mold remediation for Chantilly businesses. industry-standard S520 trained. Serving Westfields Business Park, Dulles corridor & Sully Plaza. Call (877) 497-0007.`,
   },
   h1: 'Commercial Mold Remediation in Chantilly, Virginia',
   introSection: {
-    headline: `Certified Commercial Mold Remediation for Chantilly's Business Properties`,
+    headline: `Trained Commercial Mold Remediation for Chantilly's Business Properties`,
     paragraphs: [
-      `Mold in a Chantilly commercial property threatens employee health, regulatory compliance, tenant relationships, and business operations. Whether a hidden HVAC leak has caused mold growth in your Westfields Business Park office, chronic moisture has produced mold behind walls at your Sully Plaza retail space, or inadequate ventilation has allowed mold to colonize a Dulles corridor facility, Flood Doctor provides IICRC S520 certified commercial mold remediation that addresses the problem completely and documents the solution thoroughly.`,
-      `Commercial mold in Chantilly's Dulles corridor properties often originates from building system issues—HVAC condensation, chronic roof leaks, plumbing failures behind walls, or inadequate vapor management. These issues affect entire buildings and require remediation approaches that go beyond surface cleaning. Our commercial mold team has remediated facilities throughout Chantilly, from small professional offices near the Air and Space Museum Udvar-Hazy Center to large multi-tenant buildings in Poplar Tree Estates and South Riding commercial areas. We understand the regulatory, legal, and tenant communication requirements that commercial mold situations demand.`,
+      `Mold in a Chantilly commercial property threatens employee health, regulatory compliance, tenant relationships, and business operations. Whether a hidden HVAC leak has caused mold growth in your Westfields Business Park workspace, chronic moisture has produced mold behind walls at your Sully Plaza retail space, or inadequate ventilation has allowed mold to colonize a Dulles corridor facility, Flood Doctor provides industry-standard S520 trained commercial mold remediation that addresses the problem completely and documents the solution thoroughly.`,
+      `Commercial mold in Chantilly's Dulles corridor properties often originates from building system issues—HVAC condensation, chronic roof leaks, plumbing failures behind walls, or inadequate vapor management. These issues affect entire buildings and require remediation approaches that go beyond surface cleaning. Our commercial mold team has remediated facilities throughout Chantilly, from small professional workspaces near the Air and Space Museum Udvar-Hazy Center to large multi-tenant buildings in Poplar Tree Estates and South Riding commercial areas. We understand the regulatory, legal, and tenant communication requirements that commercial mold situations demand.`,
     ],
     localContext: `Chantilly's commercial properties along the Dulles corridor face mold risks from HVAC system condensation, building envelope failures, and chronic moisture issues that require professional remediation with thorough documentation for regulatory and legal protection.`,
   },
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Mold Removal & Material Demolition',
-      description: `Mold-affected materials—ceiling tiles, drywall, insulation, carpet—are removed within containment following IICRC S520 protocols. Structural elements are treated and preserved.`,
+      description: `Mold-affected materials—ceiling tiles, drywall, insulation, carpet—are removed within containment following industry-standard S520 protocols. Structural elements are treated and preserved.`,
       timeframe: 'Days 2-5',
     },
     {
@@ -48,7 +48,7 @@ export const content: CityServiceContent = {
   ],
   localChallenges: [
     {
-      title: 'HVAC-Related Mold in Office Buildings',
+      title: 'HVAC-Related Mold in Workspace Buildings',
       description: `Chantilly's commercial HVAC systems produce condensation that supports mold growth on coils, in drain pans, and inside ductwork. When mold colonizes the HVAC system, every room with a supply vent receives mold spores with every heating and cooling cycle.`,
       solution: `We remediate the HVAC system alongside building surfaces—cleaning coils, drain pans, and ductwork, then treating with antimicrobials. System modifications prevent recurrence of condensation-related mold.`,
     },
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Mold in Your Chantilly Commercial Property?',
-    paragraph: `Commercial mold threatens employee health, tenant relationships, and regulatory compliance. Our IICRC S520 certified team provides thorough remediation with documented clearance for Chantilly business properties. Call (877) 497-0007 for assessment.`,
+    paragraph: `Commercial mold threatens employee health, tenant relationships, and regulatory compliance. Our industry-standard S520 trained team provides thorough remediation with documented clearance for Chantilly business properties. Call (877) 497-0007 for assessment.`,
   },
 }

@@ -9,9 +9,9 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Dependable Large Loss Management for Springfield's Established Commercial Infrastructure`,
     paragraphs: [
-      `Large loss events in Springfield strike the established commercial infrastructure that has served this community for decades—a catastrophic pipe failure flooding an entire wing of a West Springfield government contractor complex, a major storm overwhelming drainage and devastating a Franconia retail center, or an aging fire suppression system malfunction cascading through a Kingstowne multi-tenant office building. These events generate restoration projects complicated by the infrastructure age that caused them, the military-community operational continuity requirements of affected tenants, and the watershed-influenced conditions that affect drying timelines near Lake Accotink.
+      `Large loss events in Springfield strike the established commercial infrastructure that has served this community for decades—a catastrophic pipe failure flooding an entire wing of a West Springfield government contractor complex, a major storm overwhelming drainage and devastating a Franconia retail center, or an aging fire suppression system malfunction cascading through a Kingstowne multi-tenant workspace building. These events generate restoration projects complicated by the infrastructure age that caused them, the military-community operational continuity requirements of affected tenants, and the watershed-influenced conditions that affect drying timelines near Lake Accotink.
 
-Flood Doctor's large loss division has managed significant restoration projects throughout Springfield's commercial landscape. Our senior project directors have coordinated multi-tenant office complex recoveries in West Springfield, managed government contractor facility restorations near Fort Belvoir, and delivered retail center recoveries along the Franconia-Springfield corridor—bringing professional project management to the aging infrastructure challenges that define Springfield's large loss environment.`,
+Flood Doctor's large loss division has managed significant restoration projects throughout Springfield's commercial landscape. Our senior project directors have coordinated multi-tenant workspace complex recoveries in West Springfield, managed government contractor facility restorations near Fort Belvoir, and delivered retail center recoveries along the Franconia-Springfield corridor—bringing professional project management to the aging infrastructure challenges that define Springfield's large loss environment.`,
       `Springfield's large loss landscape carries complexity rooted in building age. Commercial properties from the 1960s-80s may contain asbestos in ceiling tiles, floor tiles, and pipe insulation that becomes a regulatory consideration during large-scale restoration. Aging mechanical systems that caused the initial failure share infrastructure with adjacent areas at similar failure risk—raising the question of systemic replacement alongside damage restoration. And the combination of aging buildings with elevated watershed conditions near Lake Accotink creates drying challenges that extend project timelines beyond what modern-construction large loss projects require.
 
 Our project directors address these compounding factors in every Springfield large loss plan. Hazardous material assessment is routine for pre-1990 buildings. Infrastructure evaluation identifies additional failure risks alongside immediate damage. And drying calculations account for watershed conditions that affect restoration physics in this geography. The result is comprehensive project management that addresses the full scope of Springfield's commercial restoration reality.`,
@@ -130,7 +130,7 @@ Our project directors address these compounding factors in every Springfield lar
       'Old Keene Mill Area',
       'Lake Accotink Commercial Zone',
     ],
-    responseTime: 'Emergency stabilization within 60 minutes to Springfield commercial properties. Full large loss mobilization including hazardous material assessment scales within 12-24 hours.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
@@ -139,10 +139,10 @@ Our project directors address these compounding factors in every Springfield lar
     },
     {
       question: 'Does the Lake Accotink area affect restoration timelines?',
-      answer: 'Yes. Elevated water table conditions in the watershed area extend drying timelines by 30-50%. Our drying calculations account for this geography, deploying additional capacity and monitoring to ensure complete drying despite ambient moisture.',
+      answer: 'Yes. Elevated water table conditions in the watershed area extend drying timelines by 30-50%. Our drying calculations account for this geography, deploying additional capacity and monitoring to ensure documented drying despite ambient moisture.',
     },
     {
-      question: 'Can you prioritize our government contractor office for faster restoration?',
+      question: 'Can you prioritize our government contractor workspace for faster restoration?',
       answer: 'Yes. We offer priority scheduling for mission-critical tenants with expanded crews and accelerated timelines. Our documentation supports business interruption claims reflecting the contractual consequences unique to government contractor operations.',
     },
     {
@@ -163,7 +163,7 @@ Our project directors address these compounding factors in every Springfield lar
     },
     {
       question: 'Can you coordinate with environmental consultants for hazardous material testing?',
-      answer: 'Yes. We engage environmental consultants for asbestos testing, air monitoring during abatement, and clearance certification. These consultants are integrated into the project team from initial assessment.',
+      answer: 'Yes. We engage environmental consultants for asbestos testing, air monitoring during abatement, and clearance qualification. These consultants are integrated into the project team from initial assessment.',
     },
   ],
   relatedBlogSlugs: [

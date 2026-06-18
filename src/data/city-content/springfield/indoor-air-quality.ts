@@ -44,7 +44,7 @@ export const content: CityServiceContent = {
   localChallenges: [
     {
       title: 'Split-Level Lower-Level Chronic Mold Exposure',
-      description: `Springfield split-levels have lower levels at or below grade where decades of intermittent moisture—from slab seepage, foundation joint leaks, and humidity accumulation—support mold colonization behind original 1970s paneling, beneath carpet padding, and within wall cavities. Families using these spaces as recreation rooms, home offices, and playrooms face sustained exposure.`,
+      description: `Springfield split-levels have lower levels at or below grade where decades of intermittent moisture—from slab seepage, foundation joint leaks, and humidity accumulation—support mold colonization behind original 1970s paneling, beneath carpet padding, and within wall cavities. Families using these spaces as recreation rooms, home workspaces, and playrooms face sustained exposure.`,
       solution: `Air sampling in the lower level compared against upper levels and outdoor baselines quantifies the contamination severity. Species identification reveals whether mold indicates chronic dampness (Cladosporium) or water damage (Stachybotrys, Chaetomium)—a distinction that determines remediation urgency and scope.`,
     },
     {
@@ -59,8 +59,8 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Military Family Expedited Documentation Needs',
-      description: `Military families near Fort Belvoir facing PCS orders need IAQ documentation within compressed timelines. Pre-move air quality certification, post-water-damage clearance testing, and rental property IAQ verification all require rapid turnaround that standard laboratory timelines may not accommodate.`,
-      solution: `We offer expedited sampling with rush laboratory processing (24-48 hours) for military families on PCS timelines. Reports are formatted for both insurance documentation and military housing office requirements. Our team understands the urgency and schedules assessments to accommodate departure timelines.`,
+      description: `Military families near Fort Belvoir facing PCS orders need IAQ documentation within compressed timelines. Pre-move air quality qualification, post-water-damage clearance testing, and rental property IAQ verification all require rapid turnaround that standard laboratory timelines may not accommodate.`,
+      solution: `We offer expedited sampling with rush laboratory processing (24-48 hours) for military families on PCS timelines. Reports are formatted for both insurance documentation and military housing workspace requirements. Our team understands the urgency and schedules assessments to accommodate departure timelines.`,
     },
   ],
   equipmentSection: {

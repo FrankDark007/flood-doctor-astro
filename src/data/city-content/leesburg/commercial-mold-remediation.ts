@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Leesburg, VA | Flood Doctor`,
-    description: `Professional commercial mold remediation for Leesburg businesses. Historic buildings, retail centers, offices, and government facilities. Call (877) 497-0007.`,
+    description: `Professional commercial mold remediation for Leesburg businesses. Historic buildings, retail centers, workspaces, and government facilities. Call (877) 497-0007.`,
   },
   h1: `Leesburg Commercial Mold Remediation`,
   introSection: {
     headline: `Professional Mold Remediation for Leesburg Commercial Properties`,
     paragraphs: [
-      `Mold in commercial spaces creates liability exposure, employee health risks, regulatory concerns, and potential business closure. Leesburg's commercial properties — from the aging buildings along King Street and the Leesburg Historic District to the modern retail and office spaces at Village at Leesburg — are all susceptible to mold when chronic moisture problems go unaddressed. HVAC systems, hidden plumbing leaks, and poor ventilation are the most common commercial mold catalysts.`,
-      `Flood Doctor provides commercial mold remediation designed to minimize business disruption while achieving complete remediation. Our IICRC-certified crews work within containment barriers, often during off-hours, to eliminate mold contamination without shutting down your entire operation. We provide the documentation needed for landlord compliance, tenant notification, and insurance claims.`,
+      `Mold in commercial spaces creates liability exposure, employee health risks, regulatory concerns, and potential business closure. Leesburg's commercial properties — from the aging buildings along King Street and the Leesburg Historic District to the modern retail and workspaces at Village at Leesburg — are all susceptible to mold when chronic moisture problems go unaddressed. HVAC systems, hidden plumbing leaks, and poor ventilation are the most common commercial mold catalysts.`,
+      `Flood Doctor provides commercial mold remediation designed to minimize business disruption while achieving complete remediation. Our trained crews work within containment barriers, often during off-hours, to eliminate mold contamination without shutting down your entire operation. We provide the documentation needed for landlord compliance, tenant notification, and insurance claims.`,
     ],
-    localContext: `Leesburg's role as the Loudoun County seat means commercial mold can affect government offices, courthouse facilities, and public buildings in addition to private retail and office spaces.`,
+    localContext: `Leesburg's role as the Loudoun County seat means commercial mold can affect government workspaces, courthouse facilities, and public buildings in addition to private retail and workspaces.`,
   },
   processSteps: [
     {
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Mold Removal & Surface Treatment`,
-      description: `Contaminated materials are removed or treated per IICRC S520 guidelines. HVAC components are cleaned or replaced as needed. All surfaces are HEPA-vacuumed and treated with antimicrobial solutions.`,
+      description: `Contaminated materials are removed or treated per industry-standard S520 guidelines. HVAC components are cleaned or replaced as needed. All surfaces are HEPA-vacuumed and treated with antimicrobial solutions.`,
       timeframe: `2-7 days`,
     },
     {
@@ -53,8 +53,8 @@ export const content: CityServiceContent = {
       solution: `We use preservation-compatible remediation techniques for historic commercial buildings, protecting original materials while eliminating mold. Long-term solutions include improved ventilation and dehumidification that work within the constraints of historic architecture.`,
     },
     {
-      title: `HVAC-Related Mold in Office Buildings`,
-      description: `Leesburg's professional office buildings and county government facilities rely on large HVAC systems that can spread mold spores building-wide when condensation and microbial growth develop in ductwork and air handling units.`,
+      title: `HVAC-Related Mold in Workspace Buildings`,
+      description: `Leesburg's professional workspace buildings and county government facilities rely on large HVAC systems that can spread mold spores building-wide when condensation and microbial growth develop in ductwork and air handling units.`,
       solution: `We provide comprehensive HVAC mold remediation including duct cleaning, coil treatment, drip pan sanitation, and air handler decontamination. Post-remediation air quality testing verifies the HVAC system is no longer distributing contamination.`,
     },
     {
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `Same-day commercial mold assessments available throughout Leesburg. Emergency response for water-related mold risk within 60 minutes.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -119,7 +119,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How long does commercial mold remediation take?`,
-      answer: `Small, contained areas take 2-3 days. Large-scale remediation in multi-floor office buildings or historic Leesburg commercial properties may take 1-3 weeks. We provide detailed timelines in our proposal.`,
+      answer: `Small, contained areas take 2-3 days. Large-scale remediation in multi-floor workspace buildings or historic Leesburg commercial properties may take 1-3 weeks. We provide detailed timelines in our proposal.`,
     },
     {
       question: `Do you provide independent testing and clearance?`,

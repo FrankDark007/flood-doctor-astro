@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying in Centreville, VA | Flood Doctor',
-    description: `Centreville structural drying experts. IICRC-certified drying for 1990s-2000s homes in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
+    description: `Centreville structural drying specialists. trained drying for 1990s-2000s homes in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Centreville, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Structural drying is the critical step between water extraction and restoration that determines whether your Centreville home recovers fully or develops mold, warping, and rot. The 1990s-2000s construction materials in Virginia Run, Centre Ridge, Little Rocky Run, and Sully Station homes—OSB subfloors, builder-grade drywall, fiberglass insulation, and carpet padding—each absorb and release moisture differently. Drying them requires science, not guesswork.
 
-Flood Doctor provides IICRC-certified structural drying throughout Centreville using psychrometric calculations, daily moisture monitoring, and industrial equipment calibrated for each material type. We've dried multi-level Virginia Run colonials, Centre Ridge townhomes with shared-wall concerns, and Centreville Farms basements sitting on clay soil. Every project follows documented protocols that ensure complete drying and provide the verification your insurance company requires.`,
+Flood Doctor provides trained structural drying throughout Centreville using psychrometric calculations, daily moisture monitoring, and industrial equipment calibrated for each material type. Every project follows documented protocols that ensure documented drying and provide the verification your insurance company requires.`,
       `Improper drying causes more long-term damage than the original water event. Drywall that feels dry on the surface can hold moisture deep in its core. OSB subfloors that seem firm can harbor trapped moisture between layers. Wall cavities that look fine from outside can incubate mold for months. In Centreville's humid climate, residual moisture finds a way to create problems—always.
 
 Our structural drying approach eliminates this risk. We establish target moisture levels for every material, deploy equipment based on calculated drying loads, monitor progress daily with calibrated meters, and do not remove equipment until every reading meets the standard. This scientific approach protects your home and satisfies your insurance carrier's documentation requirements.`,
@@ -141,7 +141,7 @@ Our structural drying approach eliminates this risk. We establish target moistur
     },
     {
       question: 'How long does structural drying take?',
-      answer: `Typically 3-5 days for standard water damage in Centreville homes. Basements may take longer due to below-grade conditions. We monitor daily and keep equipment running until all readings meet IICRC standards—never removing equipment early based on guesswork.`,
+      answer: `Typically 3-5 days for standard water damage in Centreville homes. Basements may take longer due to below-grade conditions. We monitor daily and keep equipment running until all readings meet industry-standard standards—never removing equipment early based on guesswork.`,
     },
     {
       question: 'Will the drying equipment damage my home?',
@@ -166,6 +166,6 @@ Our structural drying approach eliminates this risk. We establish target moistur
   ],
   finalCTA: {
     headline: 'Need Structural Drying in Centreville?',
-    paragraph: `Every hour of delay before drying begins increases mold risk and restoration costs. Call (877) 497-0007 for same-day deployment of professional drying equipment and daily monitoring by IICRC-certified technicians.`,
+    paragraph: `Every hour of delay before drying begins increases mold risk and restoration costs. Call (877) 497-0007 for same-day deployment of professional drying equipment and daily monitoring by trained technicians.`,
   },
 }

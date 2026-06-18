@@ -60,7 +60,7 @@ export const content: CityServiceContent = {
     {
       title: 'Sewer Lateral Failure Biocontamination',
       description: `Aging sewer laterals beneath Falls Church homes collapse or become root-infiltrated, causing sewage backup that introduces Category 3 biological contamination into basements. Bacteria, fungi, and other pathogens absorbed into porous materials create ongoing bioaerosol sources that persist until contaminated materials are removed.`,
-      solution: `Post-backup IAQ testing includes bacterial sampling alongside fungal analysis. We assess whether affected porous materials retain biological contamination requiring removal per IICRC S500 Category 3 protocols. Documentation supports insurance claims for the expanded remediation scope that sewage contamination necessitates.`,
+      solution: `Post-backup IAQ testing includes bacterial sampling alongside fungal analysis. We assess whether affected porous materials retain biological contamination requiring removal per industry-standard S500 Category 3 protocols. Documentation supports insurance claims for the expanded remediation scope that sewage contamination necessitates.`,
     },
   ],
   equipmentSection: {
@@ -123,7 +123,7 @@ export const content: CityServiceContent = {
       'Glen Forest',
       'Greenway Downs',
     ],
-    responseTime: `Same-day IAQ assessment throughout Falls Church. Emergency multi-unit apartment response within 90 minutes. Call (877) 497-0007.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -140,7 +140,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Is sewer backup worse for air quality than clean water damage?',
-      answer: `Significantly. Sewage (Category 3) introduces bacteria, viruses, and other biological pathogens into building materials. These organisms produce bioaerosols that pose direct health risks beyond mold alone. Testing includes bacterial sampling, and IICRC standards require removal of porous materials contacted by Category 3 water.`,
+      answer: `Significantly. Sewage (Category 3) introduces bacteria, viruses, and other biological pathogens into building materials. These organisms produce bioaerosols that pose direct health risks beyond mold alone. Testing includes bacterial sampling, and industry-standard standards require removal of porous materials contacted by Category 3 water.`,
     },
     {
       question: 'How many apartment units need testing after a building water event?',

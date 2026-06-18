@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted restoration for schools and public buildings. Experienced crews serving Falls Church City schools, Seven Corners facilities, and Lake Barcroft community buildings. Call (877) 497-0007.`,
+    description: `Falls Church's local restoration for schools and public buildings. Experienced crews serving Falls Church City schools, Seven Corners facilities, and Lake Barcroft community buildings. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Falls Church, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Falls Church's educational and municipal facilities reflect the community's unique character—small, highly-rated Falls Church City schools that operate independently from Fairfax County, plus FCPS facilities serving Seven Corners, Baileys Crossroads, and Pimmit Hills neighborhoods. The Falls Church Community Center, State Theatre, and municipal buildings serve a community that values its small-city independence and historic identity. When water damage threatens these facilities, the impact resonates through a tightly-knit community where school board members live next door to parents and city council members shop at the same farmers market.
 
-Flood Doctor has restored educational and municipal facilities throughout the Falls Church area, understanding the dual regulatory environment—Falls Church City operates its own school system with different procurement and oversight structures than FCPS. Our crews manage EPA compliance, ADA requirements, and the specific procurement procedures for both jurisdictions. Older facility construction dating to the 1920s-1960s adds layers of hazardous material management that newer schools avoid, while the community's historic preservation values demand restoration sensitive to architectural character.`,
+Our crews manage EPA compliance, ADA requirements, and the specific procurement procedures for both jurisdictions. Older facility construction dating to the 1920s-1960s adds layers of hazardous material management that newer schools avoid, while the community's historic preservation values demand restoration sensitive to architectural character.`,
       `Falls Church's older school and municipal buildings present specific challenges. Facilities built before 1978 may contain asbestos and lead paint requiring EPA AHERA and RRP compliance during restoration. The community's historic public buildings feature plaster walls, original hardwood, and architectural details that preservation-minded residents expect to see maintained through any restoration process. The Lake Barcroft community maintains its own facilities with independent governance, adding another coordination layer.
 
 Falls Church residents are deeply engaged in public facility management. School board meetings draw standing-room crowds, and city council sessions address facility maintenance with detailed scrutiny. Our documentation packages address this engagement directly—cost justifications, scope photographs, and progress reports formatted for Falls Church City school board review, FCPS administrative processes, and community presentations. We provide the transparency this small-city community demands while meeting technical standards that protect students and staff in facilities throughout Falls Church City, Seven Corners, and the Baileys Crossroads corridor.`,
@@ -26,7 +26,7 @@ Falls Church residents are deeply engaged in public facility management. School 
     },
     {
       title: `Hazardous Materials and Historic Assessment`,
-      description: `Before any demolition in Falls Church's older schools and municipal buildings, our certified inspectors assess for asbestos, lead paint, and other regulated materials. For historic structures, we evaluate architectural elements requiring preservation-sensitive restoration approaches.`,
+      description: `Before any demolition in Falls Church's older schools and municipal buildings, our trained inspectors assess for asbestos, lead paint, and other regulated materials. For historic structures, we evaluate architectural elements requiring preservation-sensitive restoration approaches.`,
       timeframe: `Hours 2-6`,
     },
     {
@@ -69,7 +69,7 @@ Falls Church residents are deeply engaged in public facility management. School 
     {
       title: `Aging Infrastructure in Pre-1960s Buildings`,
       description: `Falls Church's oldest school and municipal buildings contain asbestos, lead paint, and construction materials that require careful management during restoration. These regulatory requirements add time and cost to projects in facilities already challenged by aging systems susceptible to water damage.`,
-      solution: `Our certified inspectors assess regulated materials before restoration begins. We coordinate abatement with licensed contractors under full EPA compliance. All documentation maintains school AHERA management plans and supports regulatory files for Falls Church City and Fairfax County oversight.`,
+      solution: `Our trained inspectors assess regulated materials before restoration begins. We coordinate abatement with licensed contractors under full EPA compliance. All documentation maintains school AHERA management plans and supports regulatory files for Falls Church City and Fairfax County oversight.`,
     },
   ],
   equipmentSection: {
@@ -143,7 +143,7 @@ Falls Church residents are deeply engaged in public facility management. School 
     },
     {
       question: `How do you handle asbestos in older Falls Church school buildings?`,
-      answer: `Our certified inspectors assess for asbestos-containing materials before any demolition. When ACMs are identified, we coordinate with licensed abatement contractors under full EPA AHERA compliance. Documentation is maintained in school AHERA management plans as required.`,
+      answer: `Our trained inspectors assess for asbestos-containing materials before any demolition. When ACMs are identified, we coordinate with licensed abatement contractors under full EPA AHERA compliance. Documentation is maintained in school AHERA management plans as required.`,
     },
     {
       question: `Can you preserve historic architectural details during restoration?`,

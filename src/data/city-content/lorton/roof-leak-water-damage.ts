@@ -10,15 +10,15 @@ export const content: CityServiceContent = {
     headline: 'Roof Leak Solutions for Lorton New Construction and Wooded Properties',
     paragraphs: [
       `Lorton's residential landscape presents two distinct roof leak profiles: newer construction in Laurel Hill and Crosspointe with architectural shingles that should not be failing yet but sometimes do due to installation defects, and established wooded properties near Mason Neck and Occoquan where mature tree canopy constantly challenges roof integrity with falling debris, clogged gutters, and branch impact during storms. Both scenarios require rapid professional response to prevent the interior damage that Northern Virginia weather inflicts through any roof breach near the Workhouse Arts Center corridor and throughout South County.`,
-      `The natural environment that draws homeowners to Lorton—proximity to Mason Neck State Park, wooded lots near Occoquan Bay National Wildlife Refuge, and the forested setting along the Lorton VRE Station corridor—also creates persistent roof maintenance challenges. Overhanging limbs shade roof sections, promoting moss and algae that deteriorate shingles prematurely. Autumn leaf fall fills valleys and gutters, creating water backup that forces moisture beneath shingle edges. Storm winds carry branches that puncture or displace roofing material, creating immediate entry points for rain. Flood Doctor provides the emergency tarping, thorough interior assessment, and complete restoration that Lorton homeowners need when their natural surroundings breach the roof that protects their families.`,
+      `The natural environment that draws homeowners to Lorton—proximity to Mason Neck State Park, wooded lots near Occoquan Bay National Wildlife Refuge, and the forested setting along the Lorton VRE Station corridor—also creates persistent roof maintenance challenges. Overhanging limbs shade roof sections, promoting moss and algae that deteriorate shingles prematurely. Autumn leaf fall fills valleys and gutters, creating water backup that forces moisture beneath shingle edges. Storm winds carry branches that puncture or displace roofing material, creating immediate entry points for rain. Flood Doctor provides the emergency tarping, thorough interior assessment, and full recovery planning that Lorton homeowners need when their natural surroundings breach the roof that protects their families.`,
     ],
     localContext: `Lorton's combination of new construction that sometimes exhibits installation defects and wooded properties where tree canopy constantly challenges roof integrity creates roof leak scenarios requiring both warranty awareness and environmental damage expertise.`,
   },
   processSteps: [
     {
       title: 'Rapid I-95 Corridor Response',
-      description: `Call (877) 497-0007 and our crews respond within 30 minutes. We assess the interior damage, identify the roof-level entry point, and determine whether the cause is installation defect (newer homes) or environmental damage (wooded properties)—a distinction that affects the repair and payment pathway.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews respond as soon as crews are available. We assess the interior damage, identify the roof-level entry point, and determine whether the cause is installation defect (newer homes) or environmental damage (wooded properties)—a distinction that affects the repair and payment pathway.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Emergency Tarping',
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Lorton Valley',
       'Lorton Station',
     ],
-    responseTime: '30-minute emergency response throughout Lorton. Our I-95 corridor crews reach Laurel Hill, Mason Neck, Occoquan, and South County with complete storm and defect response equipment.',
+    responseTime: 'rapid emergency response throughout Lorton. Our I-95 corridor crews reach Laurel Hill, Mason Neck, Occoquan, and South County with complete storm and defect response equipment.',
   },
   faqs: [
     {

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Mold Remediation in Sterling, VA | Flood Doctor`,
-    description: `Sterling mold remediation specialists. Hidden mold in 1970s-80s Sterling Park homes, townhome mold in Cascades & Countryside. IICRC-certified. Call (877) 497-0007.`,
+    description: `Sterling mold remediation specialists. Hidden mold in 1970s-80s Sterling Park homes, townhome mold in Cascades & Countryside. trained. Call (877) 497-0007.`,
   },
   h1: `Mold Remediation in Sterling, Virginia`,
   introSection: {
@@ -11,10 +11,10 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Mold thrives in Sterling homes because the conditions are perfect—aging plumbing leaks behind walls in Sterling Park, chronic foundation moisture near Sugarland Run creek, condensation in poorly ventilated Cascades townhome bathrooms, and seasonal humidity throughout the Route 7 corridor. By the time you see mold or smell that musty odor in your Countryside home, the colony has been growing for weeks or months in hidden spaces where moisture accumulates undetected.
 
-Flood Doctor has remediated mold in Sterling homes across every neighborhood and construction era. We have removed extensive Stachybotrys growth behind Sterling Park bathroom walls where decades-old plumbing leaked slowly, eliminated Aspergillus colonies in Cascades townhome HVAC systems, and treated chronic mold in Lowes Island basements where foundation moisture was never properly addressed. Our IICRC-certified crews follow ANSI/IICRC S520 protocols and work with third-party testing to verify complete remediation.`,
+We have removed extensive Stachybotrys growth behind Sterling Park bathroom walls where decades-old plumbing leaked slowly, eliminated Aspergillus colonies in Cascades townhome HVAC systems, and treated chronic mold in Lowes Island basements where foundation moisture was never properly addressed. Our trained crews follow ANSI/industry-standard S520 protocols and work with third-party testing to verify complete remediation.`,
       `Mold remediation in Sterling requires understanding why the mold grew—not just removing what is visible. In Sterling Park's 1970s-80s homes, the causes are typically aging plumbing, deteriorated waterproofing, and insufficient ventilation in original bathroom and kitchen designs. In Cascades and Countryside townhomes, shared walls create condensation zones, inadequate bathroom exhaust allows humidity buildup, and townhome crawl spaces develop moisture problems that affect units above. Near Algonkian Regional Park, elevated ambient humidity and mature tree canopy create conditions that favor mold growth in any home with moisture vulnerabilities.
 
-Our approach addresses both the mold and its moisture source. Removing visible mold without fixing the water problem guarantees recurrence. We identify the moisture source, remediate the mold contamination, and recommend corrections that prevent the conditions from returning.`,
+Our approach addresses both the mold and its moisture source. Removing visible mold without fixing the water problem service commitments recurrence. We identify the moisture source, remediate the mold contamination, and recommend corrections that prevent the conditions from returning.`,
     ],
     localContext: `Sterling's combination of aging plumbing in 1970s-80s homes, townhome moisture dynamics in newer communities, and creek-adjacent humidity creates persistent mold conditions that require source-focused remediation.`,
   },

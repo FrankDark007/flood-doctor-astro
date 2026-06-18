@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Chantilly, VA | Flood Doctor',
-    description: `Large loss and catastrophic damage restoration in Chantilly. Commercial buildings, multi-family properties & major residential losses. Dulles corridor experts. Call (877) 497-0007.`,
+    description: `Large loss and catastrophic damage restoration in Chantilly. Commercial buildings, multi-family properties & major residential losses. Dulles corridor specialists. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Chantilly, Virginia',
   introSection: {
     headline: `Catastrophic Damage Restoration for Chantilly's Largest Properties`,
     paragraphs: [
       `Large loss events in Chantilly—multi-floor commercial building floods at Westfields Business Park, fire damage across an entire South Riding townhome block, major storm destruction near Dulles International Airport—demand restoration capabilities that exceed standard residential or commercial services. These catastrophic events require project management expertise, multi-crew deployment, heavy equipment, and coordination with insurance carriers, property managers, and public adjusters at a scale that most restoration companies cannot provide.`,
-      `Flood Doctor brings large loss restoration capability to the Chantilly market. Our team has managed six- and seven-figure restoration projects throughout the Dulles corridor—from multi-tenant office building floods near Sully Plaza to community-wide storm damage events affecting dozens of homes in South Riding and Chantilly Highlands. We deploy the personnel, equipment, and project management systems that catastrophic events require, while maintaining the local knowledge and responsive communication that Chantilly property owners and managers expect. Near the Air and Space Museum Udvar-Hazy Center or in Franklin Glen, we scale our response to match the scope of the event.`,
+      `Flood Doctor brings large loss restoration capability to the Chantilly market. Our team has managed six- and seven-figure restoration projects throughout the Dulles corridor—from multi-tenant workspace building floods near Sully Plaza to community-wide storm damage events affecting dozens of homes in South Riding and Chantilly Highlands. We deploy the personnel, equipment, and project management systems that catastrophic events require, while maintaining the local knowledge and responsive communication that Chantilly property owners and managers expect. Near the Air and Space Museum Udvar-Hazy Center or in Franklin Glen, we scale our response to match the scope of the event.`,
     ],
     localContext: `Chantilly's mix of large commercial properties along the Dulles corridor and dense residential communities creates potential for large loss events that require restoration partners with catastrophic response capability and deep local knowledge.`,
   },
   processSteps: [
     {
       title: 'Catastrophic Event Response',
-      description: `Large loss events receive immediate senior management deployment. A project manager arrives on site within 30 minutes to assess scope and begin coordinating the multi-crew response your Chantilly property requires.`,
-      timeframe: 'Within 30 minutes',
+      description: `Large loss events receive immediate senior management deployment. A project manager arrives on site as soon as crews are available to assess scope and begin coordinating the multi-crew response your Chantilly property requires.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Scope Assessment & Resource Planning',
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Can you handle a large loss at a Westfields Business Park building?`,
-      answer: `Yes. We have managed large commercial restoration projects throughout Chantilly's business parks. Our commercial team includes experienced project managers, multi-crew deployment capability, and relationships with specialty subcontractors.`,
+      answer: `Yes. Our commercial team includes experienced project managers, multi-crew deployment capability, and relationships with specialty subcontractors.`,
     },
     {
       question: `How do you coordinate with multiple insurance carriers on a large loss?`,

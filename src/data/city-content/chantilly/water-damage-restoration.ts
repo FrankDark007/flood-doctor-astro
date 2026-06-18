@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's trusted water damage restoration experts. 30-min response to South Riding, Westfields & Chantilly Highlands. Dulles corridor commercial-residential specialists. Call (877) 497-0007.`,
+    description: `Chantilly's local water damage restoration specialists. rapid response to South Riding, Westfields & Chantilly Highlands. Dulles corridor commercial-residential specialists. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Chantilly, Virginia',
   introSection: {
     headline: `Protecting Chantilly's Dulles Corridor Homes from Water Damage`,
     paragraphs: [
-      `Water damage in Chantilly presents unique challenges shaped by the area's rapid development along the Dulles corridor. Whether you own a newer home in South Riding's planned community, a single-family residence in Chantilly Highlands, or a townhome in Franklin Glen, your property faces water damage risks tied to modern construction methods and the region's clay-heavy soil. Flood Doctor has served the Chantilly area for years, restoring water-damaged homes from Poplar Tree Estates to Westfields and every neighborhood in between. We understand how newer construction materials behave when saturated and how to document damage for both insurance claims and builder warranty disputes.`,
-      `Chantilly's housing stock—much of it built during the late 1990s through 2010s development boom near Dulles International Airport—features construction practices that create specific vulnerabilities. Builder-grade supply lines fail prematurely, HVAC systems in large floor-plan homes produce condensate issues, and rapidly graded lots in developments near Ellanor C. Lawrence Park sometimes direct stormwater toward foundations. Our IICRC Master Water Restorers know these patterns intimately. We protect your home and preserve your legal options by documenting every detail of the damage source and restoration process.`,
+      `Water damage in Chantilly presents unique challenges shaped by the area's rapid development along the Dulles corridor. Whether you own a newer home in South Riding's planned community, a single-family residence in Chantilly Highlands, or a townhome in Franklin Glen, your property faces water damage risks tied to modern construction methods and the region's clay-heavy soil. We understand how newer construction materials behave when saturated and how to document damage for both insurance claims and builder warranty disputes.`,
+      `Chantilly's housing stock—much of it built during the late 1990s through 2010s development boom near Dulles International Airport—features construction practices that create specific vulnerabilities. Builder-grade supply lines fail prematurely, HVAC systems in large floor-plan homes produce condensate issues, and rapidly graded lots in developments near Ellanor C. Lawrence Park sometimes direct stormwater toward foundations. Our water-damage restoration team know these patterns intimately. We protect your home and preserve your legal options by documenting every detail of the damage source and restoration process.`,
     ],
     localContext: `Chantilly's mix of newer planned communities like South Riding and established neighborhoods near Westfields Business Park requires restoration expertise that spans modern building practices, HOA coordination, and Dulles corridor commercial-residential dynamics.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `Call our Chantilly hotline at (877) 497-0007 and we dispatch immediately. Our trucks are positioned along the Route 50 and Route 28 corridors to reach South Riding, Chantilly Highlands, Poplar Tree Estates, and Fair Oaks within 30 minutes—not from a distant warehouse, but from the Dulles corridor where we operate daily.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call our Chantilly hotline at (877) 497-0007 and we dispatch immediately. Our trucks are positioned along the Route 50 and Route 28 corridors to reach South Riding, Chantilly Highlands, Poplar Tree Estates, and Fair Oaks as soon as crews are available—not from a distant warehouse, but from the Dulles corridor where we operate daily.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Comprehensive Damage Assessment',
-      description: `Our IICRC-certified technician maps the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Chantilly's open floor plans and large-footprint homes near Westfields, water migrates further than in older compartmentalized structures—we trace every path.`,
+      description: `Our trained technician maps the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Chantilly's open floor plans and large-footprint homes near Westfields, water migrates further than in older compartmentalized structures—we trace every path.`,
       timeframe: 'First hour',
     },
     {
@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Chantilly',
-    intro: `Chantilly water damage restoration costs depend on scope, affected materials, and property size. We provide free inspections and detailed estimates before work begins. Most Chantilly homeowners file insurance claims—we handle direct billing with all major carriers. For builder warranty situations, we prepare separate documentation.`,
+    intro: `Chantilly water damage restoration costs depend on scope, affected materials, and property size. We provide free inspections and detailed estimates before work begins. Most Chantilly homeowners file insurance claims—we handle insurance documentation and carrier coordination. For builder warranty situations, we prepare separate documentation.`,
     factors: [
       `Square footage affected—Chantilly homes often feature extensive finished basements and large floor plans that increase affected area`,
       `Water category—clean water from supply lines differs from sewage backup requiring biohazard protocols`,
@@ -132,7 +132,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute response to all Chantilly neighborhoods. Our crews are positioned along the Route 50 and Route 28 corridors—from Sully Plaza to South Riding—for immediate emergency dispatch.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -145,11 +145,11 @@ export const content: CityServiceContent = {
     },
     {
       question: `What about my finished basement after flooding?`,
-      answer: `Chantilly's finished basements with home offices, media rooms, and playrooms require complete restoration. We extract water, dry structural materials, and coordinate with your insurance on reconstruction. For newer homes, we assess whether construction defects contributed.`,
+      answer: `Chantilly's finished basements with home workspaces, media rooms, and playrooms require full recovery planning. We extract water, dry structural materials, and coordinate with your insurance on reconstruction. For newer homes, we assess whether construction defects contributed.`,
     },
     {
       question: `Do you work directly with insurance companies?`,
-      answer: `Yes. We handle direct billing with all major carriers and provide detailed documentation—moisture readings, daily logs, photo evidence—that insurance adjusters require. For warranty situations, we prepare separate builder documentation.`,
+      answer: `Yes. We handle insurance documentation and carrier coordination and provide detailed documentation—moisture readings, daily logs, photo evidence—that insurance adjusters require. For warranty situations, we prepare separate builder documentation.`,
     },
     {
       question: `How do modern building materials affect the restoration process?`,
@@ -157,7 +157,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `What sets you apart from national restoration chains?`,
-      answer: `We are locally owned and Chantilly-focused. Our crews know the neighborhoods from South Riding to Chantilly Highlands, understand newer construction challenges, and maintain 30-minute response times. National franchises dispatch from distant locations and lack expertise in Dulles corridor construction patterns.`,
+      answer: `We are locally owned and Chantilly-focused. Our crews know the neighborhoods from South Riding to Chantilly Highlands, understand newer construction challenges, and maintain rapid response times. National franchises dispatch from distant locations and lack expertise in Dulles corridor construction patterns.`,
     },
     {
       question: `Will my HOA be notified about restoration work?`,
@@ -171,6 +171,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Chantilly?',
-    paragraph: `Every hour of delay means more damage to your home. Our crews are positioned throughout the Dulles corridor for immediate 30-minute response to all Chantilly neighborhoods. One call to (877) 497-0007 handles everything—from water extraction to insurance documentation.`,
+    paragraph: `Every hour of delay means more damage to your home. Our crews are positioned throughout the Dulles corridor for immediate rapid response to all Chantilly neighborhoods. One call to (877) 497-0007 handles everything—from water extraction to insurance documentation.`,
   },
 }

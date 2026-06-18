@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Falls Church Response',
-      description: `When you call (877) 497-0007, we respond within 30 minutes. Our first assessment identifies the wood era, species, and condition—1920s heart pine requires fundamentally different handling than 1960s red oak. We measure moisture throughout the floor and evaluate the subfloor system beneath.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call (877) 497-0007, we respond as soon as crews are available. Our first assessment identifies the wood era, species, and condition—1920s heart pine requires fundamentally different handling than 1960s red oak. We measure moisture throughout the floor and evaluate the subfloor system beneath.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Gentle Extraction for Aged Wood',
@@ -127,7 +127,7 @@ export const content: CityServiceContent = {
       'Culmore',
       'Idylwood',
     ],
-    responseTime: '30-minute emergency response throughout Falls Church. Our crews reach Falls Church City, Lake Barcroft, Seven Corners, and Pimmit Hills with preservation-grade drying equipment.',
+    responseTime: 'rapid emergency response throughout Falls Church. Our crews reach Falls Church City, Lake Barcroft, Seven Corners, and Pimmit Hills with preservation-grade drying equipment.',
   },
   faqs: [
     {

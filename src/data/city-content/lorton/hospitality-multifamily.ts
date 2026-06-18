@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Lorton, VA | Flood Doctor`,
-    description: `Lorton's trusted restoration experts for apartment communities, Laurel Hill condominiums, and Occoquan waterfront hospitality properties. Call (877) 497-0007.`,
+    description: `Lorton's local restoration specialists for apartment communities, Laurel Hill condominiums, and Occoquan waterfront hospitality properties. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Lorton, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Lorton's transformation from a quiet rural area to a thriving residential community has produced a growing concentration of multifamily housing—modern condominium buildings in Laurel Hill, apartment communities along the South County corridor, and hospitality properties serving visitors to the Occoquan waterfront and Workhouse Arts Center. When water damage strikes a newer Laurel Hill condominium or cascades through a Gunston apartment building, the restoration must manage displaced residents, coordinate with property management companies, and address the specific construction characteristics of Lorton's predominantly newer building stock. New construction plumbing, while modern, can fail at connection points, and rapid development grading issues can direct stormwater toward multifamily foundations.
 
-Flood Doctor has restored water-damaged multifamily properties throughout Lorton, from Laurel Hill condominiums to Mason Neck residential communities and Occoquan waterfront hospitality properties. Our multi-unit coordination means we manage simultaneous restoration across affected units while maintaining the modern standards these newer properties demand. We coordinate with property management companies, leasing offices, and hospitality operators to minimize displacement and protect property reputation in Lorton's growing and competitive residential market.`,
+Our multi-unit coordination means we manage simultaneous restoration across affected units while maintaining the modern standards these newer properties demand. We coordinate with property management companies, leasing workspaces, and hospitality operators to minimize displacement and protect property reputation in Lorton's growing and competitive residential market.`,
       `The financial dynamics of Lorton multifamily restoration reflect a community in growth mode. Laurel Hill condominium owners are often first-time buyers building equity in a developing community. Apartment communities along Lorton Road serve commuter families relying on VRE access. Hospitality properties near Occoquan depend on weekend tourist traffic and event-driven occupancy from the Workhouse Arts Center. Each property type faces specific financial pressures when water damage forces closure or displacement.
 
 Our approach prioritizes rapid restoration that protects both property values and community relationships. We deploy enough personnel to restore affected units simultaneously, compressing displacement timelines. Each unit receives individual moisture mapping and progress tracking, allowing phased re-occupancy as units meet dry standards. Property managers receive daily reports with unit-by-unit status and clear cost tracking that supports both insurance documentation and the budget management that Lorton's developing communities require.`,
@@ -22,11 +22,11 @@ Our approach prioritizes rapid restoration that protects both property values an
     {
       title: `Immediate Property Assessment and Containment`,
       description: `When you call (877) 497-0007, our multi-unit response team deploys immediately. We assess the full scope of water migration, identify all affected units, and install containment to prevent further spread through Lorton's newer construction assemblies.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Resident and Guest Communication Protocol`,
-      description: `We provide property managers with professional notification templates and coordinate displaced occupant logistics. For Lorton apartment communities, we work with leasing offices to arrange temporary accommodations. For Occoquan hospitality properties, we coordinate with front desk teams to manage guest displacement with minimal disruption.`,
+      description: `We provide property managers with professional notification templates and coordinate displaced occupant logistics. For Lorton apartment communities, we work with leasing workspaces to arrange temporary accommodations. For Occoquan hospitality properties, we coordinate with front desk teams to manage guest displacement with minimal disruption.`,
       timeframe: `Hours 1-4`,
     },
     {
@@ -133,7 +133,7 @@ Our approach prioritizes rapid restoration that protects both property values an
       `Newington Road`,
       `Lorton Town Center`,
     ],
-    responseTime: `45-minute emergency response to all Lorton hospitality and multifamily properties. Our multi-unit crews carry containment materials and extraction equipment for immediate response to water events in modern construction.`,
+    responseTime: `prompt emergency response to all Lorton hospitality and multifamily properties. Our multi-unit crews carry containment materials and extraction equipment for immediate response to water events in modern construction.`,
   },
   faqs: [
     {
@@ -158,7 +158,7 @@ Our approach prioritizes rapid restoration that protects both property values an
     },
     {
       question: `What is your response time for Lorton multifamily emergencies?`,
-      answer: `We guarantee 45-minute response to Lorton multifamily properties. Our crews carry multi-unit containment materials and begin water extraction immediately upon arrival, preventing cascade damage to additional units.`,
+      answer: `We service commitment prompt response to Lorton multifamily properties. Our crews carry multi-unit containment materials and begin water extraction immediately upon arrival, preventing cascade damage to additional units.`,
     },
     {
       question: `Can you coordinate with our property management company?`,
@@ -175,6 +175,6 @@ Our approach prioritizes rapid restoration that protects both property values an
   ],
   finalCTA: {
     headline: `Water Damage in Your Lorton Property?`,
-    paragraph: `Every hour of water exposure increases damage scope and displacement costs in modern buildings. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Lorton multifamily investment. Call (877) 497-0007 now.`,
+    paragraph: `Every hour of water exposure increases damage scope and displacement costs in modern buildings. Our multi-unit response team arrives as soon as crews are available with the equipment and expertise to protect your Lorton multifamily investment. Call (877) 497-0007 now.`,
   },
 }

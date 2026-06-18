@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Lorton, VA | Flood Doctor',
-    description: 'Professional mold remediation in Lorton. Mason Neck crawlspace specialists. Serving waterfront & new construction. 30-min response. Call (877) 497-0007.',
+    description: 'Professional mold remediation in Lorton. Mason Neck crawlspace specialists. Serving waterfront & new construction. rapid response. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation & Removal in Lorton, Virginia',
   introSection: {
     headline: `Expert Mold Remediation for Lorton's Humid Climate`,
     paragraphs: [
-      `Mold growth in Lorton reflects our community's geography—high humidity near Mason Neck's waterfront, crawlspace moisture in wooded properties throughout Gunston, basement dampness from South County's clay soil, and new construction issues in Laurel Hill where builder-grade waterproofing fails. When mold appears in your home, you need certified remediation experts who understand Lorton's specific moisture challenges. Flood Doctor provides IICRC-certified mold remediation throughout Lorton's diverse neighborhoods. We've removed mold from Mason Neck crawlspaces with persistent humidity, remediated basement mold in South County properties after flooding, and addressed new construction mold issues in Laurel Hill homes still under warranty.`,
-      `Lorton's mold problems aren't identical to other Northern Virginia communities. Proximity to the Occoquan River and Potomac creates ambient humidity that promotes mold growth. Clay soil throughout South Fairfax County creates foundation moisture. Rapid Laurel Hill development sometimes means inadequate ventilation in attics and crawlspaces. Our IICRC-certified mold remediators don't just clean visible mold—we identify and address the moisture sources that allowed growth, preventing recurrence.`,
+      `Mold growth in Lorton reflects our community's geography—high humidity near Mason Neck's waterfront, crawlspace moisture in wooded properties throughout Gunston, basement dampness from South County's clay soil, and new construction issues in Laurel Hill where builder-grade waterproofing fails. When mold appears in your home, you need protocol-based remediation specialists who understand Lorton's specific moisture challenges. Flood Doctor provides trained mold remediation throughout Lorton's diverse neighborhoods, with methods adapted for waterfront crawlspaces, South County basement moisture, and newer Laurel Hill construction concerns.`,
+      `Lorton's mold problems aren't identical to other Northern Virginia communities. Proximity to the Occoquan River and Potomac creates ambient humidity that promotes mold growth. Clay soil throughout South Fairfax County creates foundation moisture. Rapid Laurel Hill development sometimes means inadequate ventilation in attics and crawlspaces. Our trained mold remediators don't just clean visible mold—we identify and address the moisture sources that allowed growth, preventing recurrence.`,
     ],
-    localContext: `Lorton's mold issues range from waterfront humidity on Mason Neck to new construction ventilation problems in Laurel Hill to chronic basement moisture throughout South County. We've remediated mold in every Lorton neighborhood for years.`,
+    localContext: `Lorton's mold issues range from waterfront humidity on Mason Neck to new construction ventilation problems in Laurel Hill to chronic basement moisture throughout South County. `,
   },
   processSteps: [
     {
       title: 'Mold Inspection & Testing',
-      description: 'Our IICRC-certified mold inspector assesses visible mold and uses moisture meters and thermal imaging to detect hidden growth behind walls or in crawlspaces. Air quality testing establishes baseline spore counts and identifies mold types present in your Lorton home.',
+      description: 'Our trained mold inspector assesses visible mold and uses moisture meters and thermal imaging to detect hidden growth behind walls or in crawlspaces. Air quality testing establishes baseline spore counts and identifies mold types present in your Lorton home.',
       timeframe: 'Day 1',
     },
     {
@@ -27,12 +27,12 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Mold Removal & Material Disposal',
-      description: 'We remove mold growth using IICRC protocols—HEPA vacuuming, antimicrobial treatment, and safe disposal of porous materials (drywall, insulation) that absorbed mold. All contaminated materials are bagged and disposed of properly.',
+      description: 'We remove mold growth using industry-standard protocols—HEPA vacuuming, antimicrobial treatment, and safe disposal of porous materials (drywall, insulation) that absorbed mold. All contaminated materials are bagged and disposed of properly.',
       timeframe: 'Days 2-4',
     },
     {
       title: 'Moisture Source Correction',
-      description: 'Removing mold without addressing moisture sources guarantees recurrence. We identify and document all moisture problems—inadequate crawlspace ventilation, foundation seepage, plumbing leaks, or HVAC condensation—and recommend permanent corrections.',
+      description: 'Removing mold without addressing moisture sources service commitments recurrence. We identify and document all moisture problems—inadequate crawlspace ventilation, foundation seepage, plumbing leaks, or HVAC condensation—and recommend permanent corrections.',
       timeframe: 'Days 3-5',
     },
     {
@@ -136,7 +136,7 @@ export const content: CityServiceContent = {
       'South Run',
       'Silverbrook',
     ],
-    responseTime: 'Same-day mold inspections available for all Lorton neighborhoods. Emergency mold remediation response within 30 minutes for health hazard situations.',
+    responseTime: 'Same-day mold inspections available for all Lorton neighborhoods. Emergency mold remediation response as soon as crews are available for health hazard situations.',
   },
   faqs: [
     {
@@ -175,6 +175,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: 'Mold Problem in Your Lorton Home?',
-    paragraph: `Don't ignore mold or attempt DIY removal that spreads spores throughout your home. Our IICRC-certified mold remediators provide safe, thorough remediation with verification testing. We identify and address moisture sources to prevent recurrence.`,
+    paragraph: `Don't ignore mold or attempt DIY removal that spreads spores throughout your home. Our trained mold remediators provide safe, thorough remediation with verification testing. We identify and address moisture sources to prevent recurrence.`,
   },
 }

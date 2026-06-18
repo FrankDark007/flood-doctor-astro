@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Expert Fire and Smoke Damage Restoration for Leesburg Properties`,
     paragraphs: [
       `Fire and smoke damage in Leesburg properties requires immediate professional attention to prevent permanent staining, corrosion, and odor penetration. The county seat's historic homes along Edwards Ferry Road and in the Leesburg Historic District contain irreplaceable materials — original plaster, heart pine floors, hand-carved millwork — that demand specialized smoke cleanup techniques. Even a small kitchen fire can cause extensive smoke damage throughout these older, interconnected structures.`,
-      `Flood Doctor provides comprehensive fire and smoke cleanup for all Leesburg property types. From soot removal and deodorization in historic homes near Morven Park to complete fire damage restoration in Village at Leesburg and Lansdowne, our IICRC-certified technicians combine urgency with the careful approach your property deserves.`,
+      `Flood Doctor provides comprehensive fire and smoke cleanup for all Leesburg property types. From soot removal and deodorization in historic homes near Morven Park to complete fire damage restoration in Village at Leesburg and Lansdowne, our trained technicians combine urgency with the careful approach your property deserves.`,
     ],
     localContext: `Leesburg's historic homes with original wood construction, limited fire breaks, and aging electrical systems face elevated fire risk, while smoke can penetrate deeply into porous stone, plaster, and timber.`,
   },
@@ -71,7 +71,7 @@ export const content: CityServiceContent = {
       `Smoke type and depth of penetration into materials`,
       `Property age and historic preservation requirements`,
       `Volume of contents requiring cleaning or pack-out`,
-      `Insurance coverage and direct billing availability`,
+      `Insurance coverage and carrier coordination availability`,
     ],
     cta: `Call (877) 497-0007 for emergency fire and smoke damage response.`,
   },
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `60-90 minutes for fire and smoke damage response throughout Leesburg, with immediate dispatch for active fire situations and board-up emergencies.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {

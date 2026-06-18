@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Lorton, VA | Flood Doctor',
-    description: 'Emergency storm damage restoration in Lorton. Tropical storm specialists for Occoquan watershed. Wind & water damage experts. 24/7 response. Call (877) 497-0007.',
+    description: 'Emergency storm damage restoration in Lorton. Tropical storm specialists for Occoquan watershed. Wind & water damage specialists. 24/7 response. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration & Emergency Response in Lorton, Virginia',
   introSection: {
     headline: 'Emergency Storm Damage Response Throughout Lorton',
     paragraphs: [
-      `Storm damage in Lorton arrives from multiple directions—tropical storm remnants bringing heavy rain and wind to the Occoquan River watershed, summer thunderstorms with damaging microbursts affecting South County, winter nor'easters creating ice damage throughout Laurel Hill, and severe weather that drops trees onto Mason Neck's wooded properties. When storms damage your home, you need emergency restoration experts who respond immediately regardless of weather conditions. Flood Doctor provides 24/7 storm damage response throughout Lorton. We've restored storm-damaged homes after every major weather event to hit our community—from tropical storm flooding along the Occoquan River to wind damage throughout South County to fallen trees crushing roofs in Mason Neck's wooded neighborhoods.`,
-      `Lorton's storm vulnerability reflects our geography. The Occoquan River watershed funnels heavy rainfall creating flash flooding miles from actual waterfront. Mason Neck and Gunston's mature tree canopy creates falling tree risks during high winds. South County and Laurel Hill's rapid development means newer roofs that can fail during severe weather. Our IICRC-certified storm restoration crews respond during active weather events—not after storms pass—to begin emergency mitigation immediately.`,
+      `Storm damage in Lorton arrives from multiple directions—tropical storm remnants bringing heavy rain and wind to the Occoquan River watershed, summer thunderstorms with damaging microbursts affecting South County, winter nor'easters creating ice damage throughout Laurel Hill, and severe weather that drops trees onto Mason Neck's wooded properties. When storms damage your home, you need emergency restoration specialists who respond immediately regardless of weather conditions. Flood Doctor provides 24/7 storm damage response throughout Lorton. `,
+      `Lorton's storm vulnerability reflects our geography. The Occoquan River watershed funnels heavy rainfall creating flash flooding miles from actual waterfront. Mason Neck and Gunston's mature tree canopy creates falling tree risks during high winds. South County and Laurel Hill's rapid development means newer roofs that can fail during severe weather. Our trained storm restoration crews respond during active weather events—not after storms pass—to begin emergency mitigation immediately.`,
     ],
-    localContext: `Lorton storm damage ranges from tropical storm flooding in the Occoquan watershed to wind damage throughout South County to tree impacts on Mason Neck's wooded properties. We've responded to every major storm event for years.`,
+    localContext: `Lorton storm damage ranges from tropical storm flooding in the Occoquan watershed to wind damage throughout South County to tree impacts on Mason Neck's wooded properties. Our storm response is planned around local access, tree cover, and watershed conditions.`,
   },
   processSteps: [
     {
@@ -113,7 +113,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Lorton',
-    intro: 'Storm damage costs vary dramatically based on damage extent, water intrusion, structural impacts, and restoration complexity. We provide free emergency assessments during or after storms. Most homeowners insurance covers storm damage—we work directly with carriers and handle direct billing.',
+    intro: 'Storm damage costs vary dramatically based on damage extent, water intrusion, structural impacts, and restoration complexity. We provide free emergency assessments during or after storms. Most homeowners insurance covers storm damage—we work directly with carriers and handle carrier coordination.',
     factors: [
       'Damage extent—roof damage, water intrusion, wind damage, tree impacts all affect costs',
       'Water intrusion volume—storm water through roofs can damage multiple levels',
@@ -121,7 +121,7 @@ export const content: CityServiceContent = {
       `Emergency services timing—after-hours storm response doesn't increase our rates`,
       'Insurance deductibles and coverage—we help maximize your claim value',
     ],
-    cta: 'Call (877) 497-0007 for immediate storm damage response. We respond during storms to prevent ongoing damage and coordinate your complete restoration.',
+    cta: 'Call (877) 497-0007 for immediate storm damage response. We respond during storms to prevent ongoing damage and coordinate your full recovery planning.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -136,7 +136,7 @@ export const content: CityServiceContent = {
       'South Run',
       'Silverbrook',
     ],
-    responseTime: 'Emergency storm response during and after weather events. We respond within 30 minutes when safe to do so—often during active storms for emergency mitigation.',
+    responseTime: 'Emergency storm response during and after weather events. We respond as soon as crews are available when safe to do so—often during active storms for emergency mitigation.',
   },
   faqs: [
     {
@@ -179,6 +179,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Storm Damage Emergency in Lorton?',
-    paragraph: `Don't wait for weather to clear—ongoing water intrusion worsens damage every hour. We respond during storms for emergency tarping and mitigation, then handle your complete restoration. One call manages everything from emergency response through insurance claims.`,
+    paragraph: `Don't wait for weather to clear—ongoing water intrusion worsens damage every hour. We respond during storms for emergency tarping and mitigation, then handle your full recovery planning. One call manages everything from emergency response through insurance claims.`,
   },
 }

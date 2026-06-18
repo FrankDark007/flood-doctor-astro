@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for Eden Center, historic district businesses, and apartment complexes. Call (877) 497-0007.`,
+    description: `Falls Church's local commercial sewage cleanup team. OSHA-compliant biohazard remediation for Eden Center, historic district businesses, and apartment complexes. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Falls Church, Virginia`,
   introSection: {
@@ -17,12 +17,12 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Response Across Falls Church`,
-      description: `Call (877) 497-0007 and our hazmat team deploys to your Falls Church commercial property. We reach Falls Church City, Eden Center, Seven Corners, Baileys Crossroads, and Pimmit Hills commercial areas within our response guarantee, establishing containment appropriate to each property type.`,
-      timeframe: `Within 60 minutes`,
+      description: `Call (877) 497-0007 and our hazmat team deploys to your Falls Church commercial property. We reach Falls Church City, Eden Center, Seven Corners, Baileys Crossroads, and Pimmit Hills commercial areas within our response service commitment, establishing containment appropriate to each property type.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Property-Specific Assessment`,
-      description: `Our safety officer evaluates contamination scope with attention to property type. Restaurant-heavy properties like Eden Center require immediate health department coordination. Historic Falls Church City buildings need assessment of aging lateral conditions. Apartment-commercial complexes need vertical plumbing evaluation.`,
+      description: `Our safety workspacer evaluates contamination scope with attention to property type. Restaurant-heavy properties like Eden Center require immediate health department coordination. Historic Falls Church City buildings need assessment of aging lateral conditions. Apartment-commercial complexes need vertical plumbing evaluation.`,
       timeframe: `Hours 1-2`,
     },
     {
@@ -68,7 +68,7 @@ export const content: CityServiceContent = {
     equipment: [
       {
         name: `Enclosed Vacuum Extraction`,
-        purpose: `Remove sewage from Falls Church commercial spaces—restaurants, retail, offices—without aerosolizing pathogens in dense commercial environments`,
+        purpose: `Remove sewage from Falls Church commercial spaces—restaurants, retail, workspaces—without aerosolizing pathogens in dense commercial environments`,
         brand: `Prochem`,
       },
       {
@@ -95,9 +95,9 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Falls Church`,
-    intro: `Falls Church commercial sewage cleanup costs depend on property type, contamination scope, and regulatory requirements. Restaurant-heavy properties face additional health department compliance costs. We provide clear estimates and handle direct billing with commercial insurance carriers.`,
+    intro: `Falls Church commercial sewage cleanup costs depend on property type, contamination scope, and regulatory requirements. Restaurant-heavy properties face additional health department compliance costs. We provide clear estimates and handle carrier coordination with commercial insurance carriers.`,
     factors: [
-      `Property type—restaurant kitchen decontamination differs from retail or office space remediation in complexity and compliance`,
+      `Property type—restaurant kitchen decontamination differs from retail or workspace space remediation in complexity and compliance`,
       `Multi-tenant impact—Eden Center and strip mall events affecting multiple restaurants require parallel response teams`,
       `Health department requirements—food service establishments need additional decontamination and inspection coordination`,
       `Building age—historic Falls Church City buildings may require adapted techniques for older construction materials`,
@@ -122,7 +122,7 @@ export const content: CityServiceContent = {
       `Graham Road`,
       `Haycock Road`,
     ],
-    responseTime: `60-minute emergency response to all Falls Church commercial properties. Our hazmat crews serve Falls Church City, Eden Center, Seven Corners, Baileys Crossroads, and surrounding commercial areas with pre-positioned equipment.`,
+    responseTime: `prompt emergency response to all Falls Church commercial properties. Our hazmat crews serve Falls Church City, Eden Center, Seven Corners, Baileys Crossroads, and surrounding commercial areas with pre-positioned equipment.`,
   },
   faqs: [
     {
@@ -143,7 +143,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Does commercial insurance cover sewage at Falls Church properties?`,
-      answer: `Most commercial policies include sewer backup coverage. Restaurant policies may have specific endorsements. We handle direct billing and provide comprehensive documentation for efficient claim processing.`,
+      answer: `Most commercial policies include sewer backup coverage. Restaurant policies may have specific endorsements. We handle carrier coordination and provide comprehensive documentation for efficient claim processing.`,
     },
     {
       question: `What about recurring sewage from groundwater near Lake Barcroft?`,

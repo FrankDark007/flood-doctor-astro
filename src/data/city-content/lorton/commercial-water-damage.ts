@@ -9,12 +9,12 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Growth-Ready Commercial Water Damage Response for Lorton's Expanding Business Landscape`,
     paragraphs: [
-      `Lorton's commercial environment is defined by rapid transformation—new retail and office developments in Laurel Hill replacing what was once undeveloped land, waterfront commercial operations along the Occoquan serving tourism and dining, adaptive-reuse properties near the Workhouse Arts Center, and the industrial-commercial corridor along Route 1 that anchors the area's working economy. When a fire suppression discharge floods a newly built Laurel Hill retail center, when a supply line rupture damages inventory at an Occoquan waterfront restaurant during peak season, or when an HVAC condensate overflow saturates a South County medical office, the restoration must account for the mix of brand-new construction, waterfront exposure, and evolving infrastructure that characterizes Lorton's commercial market.
+      `Lorton's commercial environment is defined by rapid transformation—new retail and workspace developments in Laurel Hill replacing what was once undeveloped land, waterfront commercial operations along the Occoquan serving tourism and dining, adaptive-reuse properties near the Workhouse Arts Center, and the industrial-commercial corridor along Route 1 that anchors the area's working economy. When a fire suppression discharge floods a newly built Laurel Hill retail center, when a supply line rupture damages inventory at an Occoquan waterfront restaurant during peak season, or when an HVAC condensate overflow saturates a South County medical workspace, the restoration must account for the mix of brand-new construction, waterfront exposure, and evolving infrastructure that characterizes Lorton's commercial market.
 
-Flood Doctor's commercial division has managed water damage across Lorton's diverse and growing commercial landscape. We've restored HVAC-related flooding in Laurel Hill professional offices, extracted supply line failures from Occoquan dining establishments, and dried fire suppression events in Gunston-area commercial buildings—bringing industrial response calibrated for a community where new development and waterfront commerce intersect.`,
+Flood Doctor's commercial division has managed water damage across Lorton's diverse and growing commercial landscape. `,
       `Water damage patterns in Lorton's commercial properties reflect the area's development trajectory. Newer Laurel Hill buildings experience the warranty-period failures common in recent construction—improperly soldered connections, settling-induced pipe stress, and HVAC systems still working through first-year calibration issues. Occoquan waterfront businesses contend with elevated humidity and tidal moisture that accelerate corrosion in plumbing and mechanical systems. Route 1 corridor properties range from modern flex-space to aging industrial buildings with decades-old plumbing. This diversity means no single restoration approach fits every Lorton commercial property.
 
-Our IICRC-certified commercial teams adapt to each property's construction era and environmental context. We document warranty-applicable failures in new Laurel Hill buildings, manage humidity-related complications at Occoquan waterfront locations, and handle the aging-infrastructure challenges present in Route 1 corridor commercial spaces—providing the technical range Lorton's transitioning market demands.`,
+Our trained commercial teams adapt to each property's construction era and environmental context. We document warranty-applicable failures in new Laurel Hill buildings, manage humidity-related complications at Occoquan waterfront locations, and handle the aging-infrastructure challenges present in Route 1 corridor commercial spaces—providing the technical range Lorton's transitioning market demands.`,
     ],
     localContext: `Lorton's mix of new Laurel Hill development, Occoquan waterfront commerce, adaptive-reuse properties, and Route 1 corridor industrial-commercial space creates water damage scenarios spanning brand-new construction defects to aging infrastructure failures—each requiring location-specific restoration expertise.`,
   },
@@ -22,7 +22,7 @@ Our IICRC-certified commercial teams adapt to each property's construction era a
     {
       title: 'Rapid Commercial Dispatch',
       description: `Call (877) 497-0007 for immediate response. Our Lorton crews reach properties from Laurel Hill retail centers to Occoquan waterfront businesses with truck-mounted extraction and commercial drying equipment ready for deployment.`,
-      timeframe: 'Within 45 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Construction-Era Assessment',
@@ -133,7 +133,7 @@ Our IICRC-certified commercial teams adapt to each property's construction era a
       'Pohick',
       'Occoquan Bay Area',
     ],
-    responseTime: '45-minute commercial response across Lorton. Crews cover Laurel Hill retail centers, Occoquan waterfront businesses, Route 1 corridor commercial properties, and South County office parks.',
+    responseTime: 'prompt commercial response across Lorton. Crews cover Laurel Hill retail centers, Occoquan waterfront businesses, Route 1 corridor commercial properties, and South County workspace parks.',
   },
   faqs: [
     {
@@ -150,7 +150,7 @@ Our IICRC-certified commercial teams adapt to each property's construction era a
     },
     {
       question: 'Do you handle fire suppression discharge in new commercial buildings?',
-      answer: 'Yes. Sprinkler discharge in new Lorton retail and office space is extracted with documentation supporting both insurance claims and potential builder warranty recovery if the discharge resulted from construction-related system failure.',
+      answer: 'Yes. Sprinkler discharge in new Lorton retail and workspace space is extracted with documentation supporting both insurance claims and potential builder warranty recovery if the discharge resulted from construction-related system failure.',
     },
     {
       question: 'Can you work around our restaurant operating hours?',
@@ -158,11 +158,11 @@ Our IICRC-certified commercial teams adapt to each property's construction era a
     },
     {
       question: 'How fast can you respond to Laurel Hill commercial properties?',
-      answer: 'Our crews reach Laurel Hill commercial spaces within 45 minutes. Truck-mounted extraction begins immediately upon arrival, and we carry the drying equipment for new-construction materials common in this development.',
+      answer: 'Our crews reach Laurel Hill commercial spaces as soon as crews are available. Truck-mounted extraction begins immediately upon arrival, and we carry the drying equipment for new-construction materials common in this development.',
     },
     {
       question: 'Do you handle insurance claims for Lorton commercial properties?',
-      answer: 'We manage insurance documentation for all Lorton commercial property types—standard commercial policies, builder warranty recovery, and restaurant-specific business interruption claims. We work with all major carriers and handle the process throughout.',
+      answer: 'We manage insurance documentation for all Lorton commercial property types—standard commercial policies, builder warranty recovery, and restaurant-specific business interruption claims. We work with many carriers and handle the process throughout.',
     },
   ],
   relatedBlogSlugs: [

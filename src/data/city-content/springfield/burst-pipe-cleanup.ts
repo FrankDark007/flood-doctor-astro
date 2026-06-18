@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Springfield, VA | Flood Doctor',
-    description: 'Springfield burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
+    description: 'Springfield burst pipe emergency response. rapid arrival for frozen pipes, supply line breaks & water main damage. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Cleanup in Springfield, Virginia',
   introSection: {
@@ -17,13 +17,13 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Split-Level Triage Across All Half-Levels',
-      description: 'Technicians fan out across all half-levels with moisture meters, checking ceilings, walls, and flooring at every level transition. Thermal imaging reveals wet insulation and saturated framing in cavities we cannot see. The upper half-level gets assessed for direct spray damage, main level for ceiling saturation and floor pooling, and the lower family room and crawlspace for cascade accumulation. Treating only visible water in a split-level guarantees hidden moisture problems in the levels above.',
-      timeframe: 'First 30 minutes on-site',
+      description: 'Technicians fan out across all half-levels with moisture meters, checking ceilings, walls, and flooring at every level transition. Thermal imaging reveals wet insulation and saturated framing in cavities we cannot see. The upper half-level gets assessed for direct spray damage, main level for ceiling saturation and floor pooling, and the lower family room and crawlspace for cascade accumulation. Treating only visible water in a split-level service commitments hidden moisture problems in the levels above.',
+      timeframe: 'Initial on-site assessment',
     },
     {
       title: 'Source Isolation with Long-Run Pressure Testing',
       description: 'Springfield split-levels route supply lines through multiple half-levels and along exterior walls with directional changes at every level transition. The failure point may be fifteen or twenty feet from where water first appeared. We pressure-test individual supply runs to pinpoint the break. In homes with original 1960s copper, the visible burst is often accompanied by secondary weak points at nearby solder joints — identifying all compromised sections prevents repeat failure.',
-      timeframe: 'Minutes 30-60',
+      timeframe: 'Stabilization phase',
     },
     {
       title: 'Level-by-Level Containment at Stairwell Transitions',
@@ -49,7 +49,7 @@ export const content: CityServiceContent = {
   localChallenges: [],
   pricingSection: {
     headline: 'Burst Pipe Restoration Costs in Springfield Split-Levels',
-    intro: 'Split-level restoration is inherently more complex because cascading damage creates two or three distinct treatment zones from a single failure. Each half-level requires independent assessment, extraction, drying, and verification. We provide free assessments and handle direct billing with all major carriers, documenting each zone separately so your claim reflects the actual multi-level scope.',
+    intro: 'Split-level restoration is inherently more complex because cascading damage creates two or three distinct treatment zones from a single failure. Each half-level requires independent assessment, extraction, drying, and verification. We provide free assessments and handle insurance documentation and carrier coordination, documenting each zone separately so your claim reflects the actual multi-level scope.',
     factors: [
       'Number of half-levels affected by the cascade — each level is an independent treatment zone with its own drying plan',
       'Crawlspace remediation requirements — drying an unheated, unventilated crawlspace demands specialized equipment and extended timelines',
@@ -72,7 +72,7 @@ export const content: CityServiceContent = {
       'Springfield Town Center area',
       'Backlick Road corridor',
     ],
-    responseTime: `30-minute emergency response to all Springfield neighborhoods. During winter freeze events and power outages, we pre-position additional crews throughout the I-95 corridor to handle the surge in simultaneous burst pipe calls that Springfield's split-level housing stock produces when temperatures swing from teens to thirties.`,
+    responseTime: `rapid emergency response to all Springfield neighborhoods. During winter freeze events and power outages, we pre-position additional crews throughout the I-95 corridor to handle the surge in simultaneous burst pipe calls that Springfield's split-level housing stock produces when temperatures swing from teens to thirties.`,
   },
   faqs: [
     {

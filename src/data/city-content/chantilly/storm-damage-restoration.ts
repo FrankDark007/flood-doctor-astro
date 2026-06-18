@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's storm damage restoration experts. Emergency response to South Riding, Chantilly Highlands & Westfields. Wind, rain & hail damage repair. Call (877) 497-0007.`,
+    description: `Chantilly's storm damage restoration specialists. Emergency response to South Riding, Chantilly Highlands & Westfields. Wind, rain & hail damage repair. Call (877) 497-0007.`,
   },
   h1: 'Storm Damage Restoration in Chantilly, Virginia',
   introSection: {
     headline: `Restoring Chantilly Homes After Severe Storm Damage`,
     paragraphs: [
-      `Severe storms along the Dulles corridor hit Chantilly with particular intensity. Summer thunderstorms drive rain through compromised roofing in South Riding, high winds damage siding on Chantilly Highlands colonials, and hail batters the newer construction in Poplar Tree Estates. When a storm damages your home, the clock starts immediately—water pouring through a damaged roof or broken window can destroy ceilings, walls, and flooring within hours. Flood Doctor provides emergency storm damage response to every Chantilly neighborhood within 30 minutes.`,
+      `Severe storms along the Dulles corridor hit Chantilly with particular intensity. Summer thunderstorms drive rain through compromised roofing in South Riding, high winds damage siding on Chantilly Highlands colonials, and hail batters the newer construction in Poplar Tree Estates. When a storm damages your home, the clock starts immediately—water pouring through a damaged roof or broken window can destroy ceilings, walls, and flooring within hours. Flood Doctor provides emergency storm damage response to every Chantilly neighborhood as soon as crews are available.`,
       `Chantilly's newer housing stock faces storm challenges that older communities do not. Vinyl siding in Franklin Glen can be torn away by straight-line winds, exposing sheathing to rain. Architectural shingles on homes near Westfields Business Park may be within their warranty period when storm damage occurs. Large trees near Ellanor C. Lawrence Park can fall on homes, creating simultaneous structural and water damage. Our restoration team addresses the complete picture—tarping and board-up to stop further water intrusion, extraction and drying of affected areas, and thorough documentation for insurance claims.`,
     ],
     localContext: `Chantilly's position in the Dulles corridor exposes it to severe summer thunderstorms, microbursts, and winter ice events that test the resilience of the area's predominantly newer construction and planned community infrastructure.`,
@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: 'Emergency Board-Up & Tarping',
       description: `When storms breach your home's envelope, we deploy immediately to cover roof damage, board broken windows, and stop further water intrusion. Chantilly's large-footprint homes can sustain massive water damage from even small openings during driving rain.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Storm Damage Assessment',
@@ -37,7 +37,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Insurance Documentation Package',
-      description: `We compile comprehensive storm damage documentation including pre-loss condition assessment, damage scope, source identification, and restoration costs. This package supports your insurance claim with the detail adjusters require.`,
+      description: `We compile comprehensive storm damage documentation including a stable, usable condition assessment, damage scope, source identification, and restoration costs. This package supports your insurance claim with the detail adjusters require.`,
       timeframe: 'Concurrent with restoration',
     },
     {
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute emergency storm response to all Chantilly neighborhoods. We pre-position additional crews when severe weather is forecast for the Dulles corridor.`,
+    responseTime: `rapid emergency storm response to all Chantilly neighborhoods. We pre-position additional crews when severe weather is forecast for the Dulles corridor.`,
   },
   faqs: [
     {
@@ -133,6 +133,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Storm Damage in Chantilly? Act Now.',
-    paragraph: `Every hour without emergency tarping and board-up allows more water into your home. Our crews are ready along the Dulles corridor with emergency materials and extraction equipment. Call (877) 497-0007 now for 30-minute response.`,
+    paragraph: `Every hour without emergency tarping and board-up allows more water into your home. Our crews are ready along the Dulles corridor with emergency materials and extraction equipment. Call (877) 497-0007 now for rapid response.`,
   },
 }

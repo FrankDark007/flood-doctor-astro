@@ -11,12 +11,12 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Fire damage devastates on multiple levels: the fire itself destroys; firefighting water saturates; smoke and soot permeate. Your Falls Church home needs restoration that addresses all three simultaneously. The 1940s bungalow in Falls Church City with plaster walls requires different treatment than the 1990s townhome near Seven Corners. The Lake Barcroft colonial with finished basement needs attention to spaces untouched by flames but saturated by firefighting efforts.
 
-Flood Doctor responds to Falls Church fire emergencies immediately after fire department clearance. We've restored fire-damaged homes throughout Falls Church City, Seven Corners, Lake Barcroft, and surrounding areas. Our fire damage restoration addresses structural damage, water damage from firefighting, and smoke/soot remediation—the complete scope of fire aftermath.`,
+Flood Doctor responds to Falls Church fire emergencies immediately after fire department clearance. Our fire damage restoration addresses structural damage, water damage from firefighting, and smoke/soot remediation—the full scope of fire aftermath.`,
       `What many homeowners don't realize is that fire damage worsens every hour after the fire is extinguished. Water from firefighting efforts continues to soak into walls, floors, and structural materials. Smoke residue becomes harder to remove as it cures on surfaces. Soot—acidic and corrosive—permanently etches metals, stains materials, and penetrates deeper into porous surfaces with each passing day.
 
 Our response begins with emergency board-up and tarping to secure your Falls Church home. Then water extraction prevents secondary water damage from firefighting efforts. Smoke and soot remediation follows, using specialized techniques for the different types of smoke residue (wet smoke, dry smoke, protein smoke) found after different fire types. This comprehensive approach restores your home completely—not just the areas where flames touched.`,
     ],
-    localContext: `Falls Church's diverse housing stock—from historic bungalows to mid-century colonials to contemporary townhomes—each requires specialized fire damage restoration approaches. We've restored fire-damaged properties throughout Falls Church for years.`,
+    localContext: `Falls Church's diverse housing stock—from historic bungalows to mid-century colonials to contemporary townhomes—each requires specialized fire damage restoration approaches. `,
   },
   processSteps: [
     {
@@ -119,7 +119,7 @@ Our response begins with emergency board-up and tarping to secure your Falls Chu
       'Content damage—restoration of furniture, electronics, and belongings adds to project',
       'Historic home materials—period details require specialized restoration techniques',
     ],
-    cta: 'Call (877) 497-0007 after fire department clearance. We provide free assessments and handle insurance claims directly—one call starts your complete restoration.',
+    cta: 'Call (877) 497-0007 after fire department clearance. We provide free assessments and handle insurance claims directly—one call starts your full recovery planning.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -156,7 +156,7 @@ Our response begins with emergency board-up and tarping to secure your Falls Chu
     },
     {
       question: `What about rooms that didn't burn but smell like smoke?`,
-      answer: 'Smoke migrates throughout structures, especially in older Falls Church homes with balloon framing or through HVAC systems. We treat all smoke-affected areas, not just fire-damaged areas. Complete restoration addresses the entire smoke migration path.',
+      answer: 'Smoke migrates throughout structures, especially in older Falls Church homes with balloon framing or through HVAC systems. We treat all smoke-affected areas, not just fire-damaged areas. Full recovery planning addresses the entire smoke migration path.',
     },
     {
       question: 'Do you handle the reconstruction after fire cleanup?',

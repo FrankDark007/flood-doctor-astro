@@ -58,7 +58,7 @@ Our project directors navigate these growth-market complexities. They coordinate
     },
     {
       title: 'Multi-Tenant Retail Center Coordination',
-      description: 'Large loss events at Laurel Hill and Lorton Town Center retail properties affect diverse tenants simultaneously—restaurants, medical offices, retail shops, and service businesses each with different restoration requirements, operating schedules, and insurance situations. Landlord-tenant responsibility boundaries may be unclear in newer developments.',
+      description: 'Large loss events at Laurel Hill and Lorton Town Center retail properties affect diverse tenants simultaneously—restaurants, medical workspaces, retail shops, and service businesses each with different restoration requirements, operating schedules, and insurance situations. Landlord-tenant responsibility boundaries may be unclear in newer developments.',
       solution: 'We establish clear communication channels with property management and individual tenants, create tenant-specific restoration scopes within the master project plan, and document damage at the individual unit level for separate insurance processing while managing the building-wide restoration as a coordinated project.',
     },
     {
@@ -111,7 +111,7 @@ Our project directors navigate these growth-market complexities. They coordinate
       'Multi-tenant scope—retail center and flex-space events affecting numerous businesses multiply project management and coordination costs',
       'Warranty recovery integration—new-construction failure documentation and builder coordination add forensic and legal support scope',
       'Tidal contamination—Occoquan waterfront events require industrial decontamination and extended environmental monitoring',
-      'Tenant diversity—restaurants, medical offices, and retail each require specialized restoration protocols within the same project',
+      'Tenant diversity—restaurants, medical workspaces, and retail each require specialized restoration protocols within the same project',
       'Growth-market support—additional business owner guidance and communication for first-time large loss events adds project management scope',
     ],
     cta: `Call (877) 497-0007 for immediate large loss response. Our project directors bring development-aware management and multi-tenant coordination expertise to Lorton's growing commercial market.`,
@@ -130,7 +130,7 @@ Our project directors navigate these growth-market complexities. They coordinate
       'Lorton VRE Station Area',
       'Workhouse Arts District',
     ],
-    responseTime: 'Emergency stabilization within 60 minutes to Lorton commercial properties. Full large loss mobilization including multi-tenant coordination and warranty documentation scales within 12-24 hours for complex events.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville storm damage restoration experts. 30-min response for wind, rain & flooding damage in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
+    description: `Centreville storm damage restoration specialists. rapid response for wind, rain & flooding damage in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Storm Damage Restoration in Centreville, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Centreville sits at the convergence of the Route 28 and I-66 corridors where severe weather moves through with intensity. Summer thunderstorms dump inches of rain in minutes, overwhelming storm drains and flooding basements across Virginia Run, Centre Ridge, and Little Rocky Run. Winter ice storms bring down tree limbs onto roofs, and wind-driven rain exploits every gap in aging 1990s-era construction. When a storm hits Centreville, the damage is often widespread and immediate.
 
-Flood Doctor provides emergency storm damage restoration throughout Centreville with 30-minute response. We've tarped storm-damaged roofs in Sully Station, extracted rainwater from Centreville Farms basements, and dried wind-driven rain intrusion in London Towne colonials. Our crews mobilize during the storm so we arrive as conditions allow—not hours or days later.`,
+Flood Doctor provides emergency storm damage restoration throughout Centreville with rapid response. Our crews mobilize during the storm so we arrive as conditions allow—not hours or days later.`,
       `Storm damage in Centreville compounds quickly. A missing shingle becomes an attic leak becomes a ceiling collapse becomes a mold problem—all within days if not addressed. The 1990s-2000s roofing materials on most Centreville homes are reaching their replacement age, making them more vulnerable to wind uplift and ice dam formation. Clay soil saturated by storms creates hydrostatic pressure that forces water through foundations.
 
 Our storm damage restoration covers the full scope: emergency tarping, water extraction, structural drying, mold prevention, and complete rebuilding. We document everything for insurance claims and coordinate with your carrier from first notice through final payment.`,
@@ -21,8 +21,8 @@ Our storm damage restoration covers the full scope: emergency tarping, water ext
   processSteps: [
     {
       title: 'Emergency Storm Response',
-      description: `Call (877) 497-0007 during or immediately after the storm. We dispatch crews to Centreville neighborhoods as conditions allow, arriving within 30 minutes to assess damage and begin emergency measures.`,
-      timeframe: 'Within 30 minutes of safe access',
+      description: `Call (877) 497-0007 during or immediately after the storm. We dispatch crews to Centreville neighborhoods as conditions allow, arriving as soon as crews are available to assess damage and begin emergency measures.`,
+      timeframe: 'When conditions allow safe access',
     },
     {
       title: 'Emergency Tarping & Boarding',
@@ -130,16 +130,16 @@ Our storm damage restoration covers the full scope: emergency tarping, water ext
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `30-minute storm response to all Centreville neighborhoods. We pre-position crews during severe weather watches for fastest possible arrival.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
       question: 'Should I call during the storm or wait until it passes?',
-      answer: `Call during the storm at (877) 497-0007. We queue emergency requests and dispatch as conditions allow. Being first in queue means faster service—demand spikes after every major storm in Centreville.`,
+      answer: `Call during the storm at (877) 497-0007. We queue emergency requests and dispatch as conditions allow. Being first in queue means faster service—demand spikes after major storm in Centreville.`,
     },
     {
       question: 'Does homeowner insurance cover storm damage?',
-      answer: `Yes, most homeowner's policies cover wind, hail, fallen tree, and lightning damage. We document the storm cause, photograph all damage, and handle direct billing with your carrier.`,
+      answer: `Yes, most homeowner's policies cover wind, hail, fallen tree, and lightning damage. We document the storm cause, photograph all damage, and handle coordination with your carrier.`,
     },
     {
       question: 'My roof is leaking but the storm is still active. What should I do?',

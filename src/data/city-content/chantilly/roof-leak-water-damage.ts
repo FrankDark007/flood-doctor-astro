@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Repair in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's roof leak water damage experts. Emergency tarping and interior restoration. Serving South Riding, Chantilly Highlands & Westfields. Call (877) 497-0007.`,
+    description: `Chantilly's roof leak water damage specialists. Emergency tarping and interior restoration. Serving South Riding, Chantilly Highlands & Westfields. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Repair in Chantilly, Virginia',
   introSection: {
@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: 'Emergency Tarping',
       description: `When a roof leak is actively admitting water, we tarp the affected area to stop further intrusion. For Chantilly homes with complex rooflines—dormers, valleys, and skylights—we identify and cover all potential entry points.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Interior Damage Assessment',
@@ -42,7 +42,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Interior Restoration',
-      description: `Once dry, we restore ceilings, walls, and insulation to pre-loss condition. We match existing finishes and textures for seamless repair that is invisible after completion.`,
+      description: `Once dry, we restore ceilings, walls, and insulation to a stable, usable condition. We match existing finishes and textures for seamless repair that is invisible after completion.`,
       timeframe: 'Days 7-14',
     },
   ],
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute emergency response for active roof leaks in all Chantilly neighborhoods. Emergency tarping stops water intrusion while permanent repairs are arranged.`,
+    responseTime: `rapid emergency response for active roof leaks in all Chantilly neighborhoods. Emergency tarping stops water intrusion while permanent repairs are arranged.`,
   },
   faqs: [
     {
@@ -133,6 +133,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Roof Leak Causing Damage in Your Chantilly Home?',
-    paragraph: `Active roof leaks cause hidden damage that multiplies by the hour. Our emergency tarping stops water intrusion and our restoration team dries and repairs water-damaged interiors. Call (877) 497-0007 for 30-minute response.`,
+    paragraph: `Active roof leaks cause hidden damage that multiplies by the hour. Our emergency tarping stops water intrusion and our restoration team dries and repairs water-damaged interiors. Call (877) 497-0007 for rapid response.`,
   },
 }

@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: `Emergency Industrial Response`,
       description: `Call (877) 497-0007 for immediate industrial facility response. Our project manager assesses the situation, coordinates with facility management, and deploys appropriate resources based on facility type and damage scope.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Facility Assessment & Safety Evaluation`,
@@ -37,7 +37,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Equipment Assessment & Restoration`,
-      description: `Production equipment, machinery, and inventory are assessed for damage. We coordinate with equipment manufacturers and specialists for cleaning, restoration, and recertification of affected assets.`,
+      description: `Production equipment, machinery, and inventory are assessed for damage. We coordinate with equipment manufacturers and specialists for cleaning, restoration, and requalification of affected assets.`,
       timeframe: `Concurrent with drying`,
     },
     {
@@ -55,7 +55,7 @@ export const content: CityServiceContent = {
     {
       title: `Equipment and Machinery Protection`,
       description: `Industrial equipment in Leesburg's manufacturing and processing facilities represents significant capital investment. Water contact can damage electrical systems, corrode moving parts, and contaminate production machinery.`,
-      solution: `Equipment protection begins immediately upon arrival. We coordinate with equipment manufacturers for proper cleaning, lubrication, and recertification protocols specific to each machine type.`,
+      solution: `Equipment protection begins immediately upon arrival. We coordinate with equipment manufacturers for proper cleaning, lubrication, and requalification protocols specific to each machine type.`,
     },
     {
       title: `Hazardous Material Considerations`,
@@ -70,7 +70,7 @@ export const content: CityServiceContent = {
   ],
   pricingSection: {
     headline: `Industrial Facility Restoration Costs in Leesburg`,
-    intro: `Industrial restoration is priced based on facility size, damage scope, equipment involvement, and production urgency. We provide detailed estimates and work with commercial and industrial insurance carriers for direct billing.`,
+    intro: `Industrial restoration is priced based on facility size, damage scope, equipment involvement, and production urgency. We provide detailed estimates and work with commercial and industrial insurance carriers for carrier coordination.`,
     factors: [
       `Facility square footage and building construction type`,
       `Volume of water and contamination category`,
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `45-60 minutes for industrial emergencies in the Leesburg area, with project manager and advance crew dispatch for large-scale events.`,
+    responseTime: `as soon as crews are available for industrial emergencies in the Leesburg area, with project manager and advance crew dispatch for large-scale events.`,
   },
   faqs: [
     {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How do you protect our production equipment?`,
-      answer: `Equipment protection is prioritized from the moment we arrive. We elevate equipment above water lines, cover sensitive components, and coordinate with manufacturers for proper drying, cleaning, and recertification.`,
+      answer: `Equipment protection is prioritized from the moment we arrive. We elevate equipment above water lines, cover sensitive components, and coordinate with manufacturers for proper drying, cleaning, and requalification.`,
     },
     {
       question: `Can we resume partial operations during restoration?`,

@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Falls Church, VA | Flood Doctor',
-    description: `Falls Church's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Falls Church City, Lake Barcroft & Seven Corners. Call (877) 497-0007.`,
+    description: `Falls Church's trained environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Falls Church City, Lake Barcroft & Seven Corners. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Falls Church, Virginia',
   introSection: {
-    headline: `Certified Environmental Testing for Falls Church Historic and Lakefront Properties`,
+    headline: `Trained Environmental Testing for Falls Church Historic and Lakefront Properties`,
     paragraphs: [
       `Falls Church\`s compact geography concentrates environmental testing challenges from multiple eras—1920s-1960s bungalows and colonials in Falls Church City with legacy asbestos and lead paint, mid-century apartment complexes near Seven Corners with aging building systems, and lakefront properties at Lake Barcroft where persistent moisture conditions drive mold colonization. Historic homes near the State Theatre and Falls Church Farmers Market contain asbestos in original pipe insulation, plaster coatings, floor tiles, and vermiculite attic insulation. Lead-based paint coats virtually every original surface in pre-1978 homes—trim, windows, doors, siding, and decorative elements that Falls Church homeowners seek to preserve during renovation. Flood Doctor provides AIHA-accredited environmental testing calibrated for Falls Church\`s diverse property types—comprehensive hazardous materials assessment for historic homes, multi-unit environmental evaluation for apartment complexes, and moisture-focused testing for Lake Barcroft waterfront properties—delivering chain-of-custody laboratory data that satisfies regulatory requirements and preservation-minded renovation planning.`,
-      `Our certified inspectors have identified friable asbestos insulation on heating pipes in Falls Church City basements, documented lead paint exceeding HUD action levels on original 1940s window assemblies in Pimmit Hills homes, and quantified elevated Aspergillus and Chaetomium concentrations in Lake Barcroft waterfront basements where seasonal water level fluctuations create cyclical moisture intrusion. Near Eden Center, apartment complexes with 1950s-1960s construction contain multiple generations of hazardous materials in common areas and individual units. Baileys Crossroads properties face urban density challenges where multi-unit water intrusion events affect multiple tenants simultaneously. Whether you are restoring a Falls Church City historic home, managing environmental compliance in an apartment complex, or investigating mold at a Lake Barcroft property, our testing provides the scientific foundation for informed decision-making.`,
+      `Our trained inspectors have identified friable asbestos insulation on heating pipes in Falls Church City basements, documented lead paint exceeding HUD action levels on original 1940s window assemblies in Pimmit Hills homes, and quantified elevated Aspergillus and Chaetomium concentrations in Lake Barcroft waterfront basements where seasonal water level fluctuations create cyclical moisture intrusion. Near Eden Center, apartment complexes with 1950s-1960s construction contain multiple generations of hazardous materials in common areas and individual units. Baileys Crossroads properties face urban density challenges where multi-unit water intrusion events affect multiple tenants simultaneously. Whether you are restoring a Falls Church City historic home, managing environmental compliance in an apartment complex, or investigating mold at a Lake Barcroft property, our testing provides the scientific foundation for informed decision-making.`,
     ],
     localContext: `Falls Church\`s small-city character concentrates historic preservation challenges, mid-century apartment density, and lakefront moisture dynamics within a tight geography—each creating distinct environmental testing requirements.`,
   },
   processSteps: [
     {
       title: 'Property Assessment and Historical Context',
-      description: `Our certified inspector evaluates your Falls Church property against construction date, building type, renovation scope, and specific concerns. For historic homes, we identify suspect materials by construction era. For apartment complexes, we coordinate with property management on scope and access. Lake Barcroft properties receive additional moisture and water table evaluation.`,
+      description: `Our trained inspector evaluates your Falls Church property against construction date, building type, renovation scope, and specific concerns. For historic homes, we identify suspect materials by construction era. For apartment complexes, we coordinate with property management on scope and access. Lake Barcroft properties receive additional moisture and water table evaluation.`,
       timeframe: 'Hours 1-2',
     },
     {
@@ -69,7 +69,7 @@ export const content: CityServiceContent = {
     },
   ],
   equipmentSection: {
-    headline: 'Certified Environmental Testing Equipment for Falls Church Properties',
+    headline: 'Trained Environmental Testing Equipment for Falls Church Properties',
     equipment: [
       {
         name: 'Niton XL3t XRF Analyzer',
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Concerns in Your Falls Church Property?',
-    paragraph: `Certified environmental testing for Falls Church\`s historic homes, lakefront properties, and apartment buildings. AIHA-accredited laboratory analysis with preservation-sensitive and compliance-ready documentation. Call (877) 497-0007 for a consultation.`,
+    paragraph: `Trained environmental testing for Falls Church\`s historic homes, lakefront properties, and apartment buildings. AIHA-accredited laboratory analysis with preservation-sensitive and compliance-ready documentation. Call (877) 497-0007 for a consultation.`,
   },
 }

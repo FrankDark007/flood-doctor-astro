@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling commercial fire and smoke restoration. Route 7 businesses, shopping centers & office parks. Minimize downtime with rapid smoke and water damage restoration. Call (877) 497-0007.`,
+    description: `Sterling commercial fire and smoke restoration. Route 7 businesses, shopping centers & workspace parks. Minimize downtime with rapid smoke and water damage restoration. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Sterling, Virginia`,
   introSection: {
     headline: `Commercial Fire Restoration for Sterling's Business Properties`,
     paragraphs: [
-      `Fire and smoke damage in a Sterling commercial property creates cascading impacts—structural damage from the fire itself, smoke contamination throughout the building's HVAC system, water damage from fire suppression, and business closure that costs revenue every day. Route 7 corridor restaurants face kitchen fire risks that affect neighboring tenant spaces in strip centers. Sterling Park shopping centers with aging electrical systems face fire hazards similar to the residential neighborhoods they serve. Office buildings near the Sterling Community Center house businesses that cannot afford extended closure while smoke and water damage are addressed.
+      `Fire and smoke damage in a Sterling commercial property creates cascading impacts—structural damage from the fire itself, smoke contamination throughout the building's HVAC system, water damage from fire suppression, and business closure that costs revenue every day. Route 7 corridor restaurants face kitchen fire risks that affect neighboring tenant spaces in strip centers. Sterling Park shopping centers with aging electrical systems face fire hazards similar to the residential neighborhoods they serve. Workspace buildings near the Sterling Community Center house businesses that cannot afford extended closure while smoke and water damage are addressed.
 
-Flood Doctor's commercial fire restoration division serves Sterling businesses with the dual expertise these situations require—fire and smoke cleanup combined with water damage restoration from fire suppression. We have restored fire-damaged Route 7 restaurants while managing smoke migration to adjacent retail tenants, cleaned smoke damage from Sterling office buildings after electrical fires, and managed water damage from sprinkler activation in commercial properties near Claude Moore Park.`,
+Flood Doctor's commercial fire restoration division serves Sterling businesses with the dual expertise these situations require—fire and smoke cleanup combined with water damage restoration from fire suppression. `,
       `Commercial fire events in Sterling's multi-tenant buildings create restoration challenges that exceed the fire unit itself. Smoke migrates through shared HVAC systems, ceiling plenums, and wall penetrations to contaminate neighboring businesses. Fire suppression water—from sprinklers, fire department hoses, or both—floods the fire unit and often the tenants below and adjacent. Every affected tenant has a separate insurance claim, individual business restoration needs, and a unique timeline for reopening.
 
 Our commercial fire project managers coordinate the full scope—managing smoke cleanup across multiple tenant spaces, extracting fire suppression water, coordinating with property managers, and maintaining per-tenant documentation for individual insurance claims. We handle the complexity so each business owner can focus on their recovery.`,
@@ -63,13 +63,13 @@ Our commercial fire project managers coordinate the full scope—managing smoke 
     },
     {
       title: `Business Interruption Timeline Pressure`,
-      description: `Every day of closure costs Sterling businesses revenue. Property managers face pressure from unaffected tenants to complete restoration quickly. Insurance business interruption coverage has limits that create financial incentives for rapid restoration.`,
+      description: `Every day of closure costs Sterling businesses revenue. Property managers face pressure from unaffected tenants to full recovery planning quickly. Insurance business interruption coverage has limits that create financial incentives for rapid restoration.`,
       solution: `We develop accelerated restoration timelines using after-hours crews and parallel work streams. Phased completion allows less-affected tenant spaces to reopen while more heavily damaged areas continue restoration. Our project management focuses on the fastest safe reopening.`,
     },
   ],
   pricingSection: {
     headline: `Commercial Fire & Smoke Cleanup Costs in Sterling`,
-    intro: `Commercial fire restoration costs in Sterling depend on fire extent, smoke migration scope, water damage from suppression, and number of affected tenant spaces. Insurance typically covers fire restoration comprehensively. We provide detailed commercial estimates and handle direct billing with commercial carriers.`,
+    intro: `Commercial fire restoration costs in Sterling depend on fire extent, smoke migration scope, water damage from suppression, and number of affected tenant spaces. Insurance typically covers fire restoration comprehensively. We provide detailed commercial estimates and handle carrier coordination with commercial carriers.`,
     factors: [
       `Fire extent and structural damage—contained fires versus those affecting building structure`,
       `Smoke migration scope—single-tenant versus multi-tenant contamination through shared systems`,
@@ -122,7 +122,7 @@ Our commercial fire project managers coordinate the full scope—managing smoke 
     },
     {
       question: `The fire sprinklers activated and flooded my business. Do you handle that too?`,
-      answer: `Yes. Our dual certification in fire and water damage restoration means one team handles both—smoke cleanup and water extraction proceeding in parallel. This prevents the common problem of mold developing from sprinkler water while waiting for a separate water damage company.`,
+      answer: `Yes. Our dual qualification in fire and water damage restoration means one team handles both—smoke cleanup and water extraction proceeding in parallel. This prevents the common problem of mold developing from sprinkler water while waiting for a separate water damage company.`,
     },
   ],
   relatedBlogSlugs: [

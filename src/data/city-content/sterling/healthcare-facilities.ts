@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling healthcare facility water damage and mold restoration. Medical offices, dental practices & urgent care along Route 7. Infection control compliance. Call (877) 497-0007.`,
+    description: `Sterling healthcare facility water damage and mold restoration. Medical workspaces, dental practices & urgent care along Route 7. Infection control compliance. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Sterling, Virginia`,
   introSection: {
     headline: `Infection Control-Compliant Restoration for Sterling Healthcare Facilities`,
     paragraphs: [
-      `Sterling's Route 7 corridor and surrounding commercial areas house medical offices, dental practices, urgent care centers, veterinary clinics, and specialty healthcare providers that serve the Cascades, Countryside, Sterling Park, and Potomac Falls communities. When water damage, mold, or fire affects a healthcare facility, the restoration must meet infection control standards that go far beyond standard commercial cleanup. Patient safety, regulatory compliance, medical record protection, and practice continuity all depend on restoration crews who understand healthcare environments.
+      `Sterling's Route 7 corridor and surrounding commercial areas house medical workspaces, dental practices, urgent care centers, veterinary clinics, and specialty healthcare providers that serve the Cascades, Countryside, Sterling Park, and Potomac Falls communities. When water damage, mold, or fire affects a healthcare facility, the restoration must meet infection control standards that go far beyond standard commercial cleanup. Patient safety, regulatory compliance, medical record protection, and practice continuity all depend on restoration crews who understand healthcare environments.
 
-Flood Doctor has restored water-damaged medical offices along the Route 7 corridor, remediated mold in Sterling dental practices, and managed fire suppression water damage in healthcare spaces near the Sterling Community Center. Our healthcare restoration protocols address both the physical damage and the regulatory requirements—OSHA bloodborne pathogen standards, HIPAA-compliant handling of exposed medical records, and infection control measures that protect both patients and staff during restoration.`,
-      `Healthcare facility restoration in Sterling requires specialized knowledge that standard commercial restoration companies often lack. Medical equipment requires protection protocols that prevent damage from restoration activities—humidity-sensitive instruments, calibrated devices, and electronic medical systems cannot tolerate the moisture and chemical exposure of standard restoration approaches. Patient care spaces require air quality standards during and after restoration that exceed commercial office requirements. And the financial impact of practice closure—canceled appointments, referral diversion, and staff costs—creates timeline pressure that demands efficient, healthcare-aware project management.
+Our healthcare restoration protocols address both the physical damage and the regulatory requirements—OSHA bloodborne pathogen standards, HIPAA-compliant handling of exposed medical records, and infection control measures that protect both patients and staff during restoration.`,
+      `Healthcare facility restoration in Sterling requires specialized knowledge that standard commercial restoration companies often lack. Medical equipment requires protection protocols that prevent damage from restoration activities—humidity-sensitive instruments, calibrated devices, and electronic medical systems cannot tolerate the moisture and chemical exposure of standard restoration approaches. Patient care spaces require air quality standards during and after restoration that exceed commercial workspace requirements. And the financial impact of practice closure—canceled appointments, referral diversion, and staff costs—creates timeline pressure that demands efficient, healthcare-aware project management.
 
 Our crews are trained in healthcare restoration protocols and understand the regulatory landscape that Sterling medical practices operate within. We coordinate with practice managers to schedule restoration around patient care whenever possible, protecting both your patients and your practice.`,
     ],
@@ -22,7 +22,7 @@ Our crews are trained in healthcare restoration protocols and understand the reg
     {
       title: `Healthcare Emergency Response`,
       description: `Call (877) 497-0007 for immediate healthcare facility response. Our crews arrive with infection control supplies, medical equipment protection materials, and HIPAA-compliant document handling protocols for Sterling medical and dental practices.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Medical Environment Assessment`,
@@ -47,9 +47,9 @@ Our crews are trained in healthcare restoration protocols and understand the reg
   ],
   localChallenges: [
     {
-      title: `Medical Office Water Damage Along Route 7`,
-      description: `Sterling medical offices in Route 7 commercial buildings face water damage from aging commercial roofing, HVAC condensate failures, and plumbing issues in buildings from the 1980s-90s. Water intrusion near examination rooms and medical equipment creates both property damage and patient safety concerns.`,
-      solution: `We prioritize protecting medical equipment and maintaining infection control during water damage restoration. Our documentation meets the standards healthcare compliance officers require, and our scheduling minimizes patient care disruption.`,
+      title: `Medical Workspace Water Damage Along Route 7`,
+      description: `Sterling medical workspaces in Route 7 commercial buildings face water damage from aging commercial roofing, HVAC condensate failures, and plumbing issues in buildings from the 1980s-90s. Water intrusion near examination rooms and medical equipment creates both property damage and patient safety concerns.`,
+      solution: `We prioritize protecting medical equipment and maintaining infection control during water damage restoration. Our documentation meets the standards healthcare compliance workspacers require, and our scheduling minimizes patient care disruption.`,
     },
     {
       title: `Dental Practice Equipment Sensitivity`,
@@ -71,7 +71,7 @@ Our crews are trained in healthcare restoration protocols and understand the reg
     headline: `Healthcare Facility Restoration Costs in Sterling`,
     intro: `Healthcare facility restoration costs reflect the specialized protocols required—infection control measures, equipment protection, HIPAA compliance, and healthcare-standard air quality verification. Commercial insurance covers these elevated requirements. We provide detailed estimates and coordinate directly with commercial carriers.`,
     factors: [
-      `Facility type—medical offices, dental practices, and urgent care each have specific protocol requirements`,
+      `Facility type—medical workspaces, dental practices, and urgent care each have specific protocol requirements`,
       `Medical equipment exposure—protection and assessment of sensitive healthcare technology`,
       `Infection control requirements—HEPA filtration, containment, and antimicrobial treatment for healthcare environments`,
       `HIPAA compliance—secure handling of exposed patient records and health information`,
@@ -97,11 +97,11 @@ Our crews are trained in healthcare restoration protocols and understand the reg
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Priority response for Sterling healthcare facilities. 30-minute emergency dispatch for active water events threatening medical equipment and patient care spaces. Call (877) 497-0007.`,
+    responseTime: `Priority response for Sterling healthcare facilities. rapid emergency dispatch for active water events threatening medical equipment and patient care spaces. Call (877) 497-0007.`,
   },
   faqs: [
     {
-      question: `Can you work around our patient schedule at our Sterling medical office?`,
+      question: `Can you work around our patient schedule at our Sterling medical workspace?`,
       answer: `Yes. We schedule restoration work during non-patient hours—evenings, weekends, and between appointment blocks. For extensive damage, we can work in zones that allow partial practice operation while restoration continues in closed areas.`,
     },
     {
@@ -130,6 +130,6 @@ Our crews are trained in healthcare restoration protocols and understand the reg
   ],
   finalCTA: {
     headline: `Water Damage at Your Sterling Healthcare Facility?`,
-    paragraph: `Your patients depend on your practice. Our healthcare-certified restoration crews protect your equipment, maintain infection control, and get your Sterling medical facility back to patient care as quickly as safety standards allow.`,
+    paragraph: `Your patients depend on your practice. Our healthcare-trained restoration crews protect your equipment, maintain infection control, and get your Sterling medical facility back to patient care as quickly as safety standards allow.`,
   },
 }

@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Lorton, VA | Flood Doctor',
-    description: `Lorton moisture mapping experts. Infrared thermography for new construction, Occoquan waterfront homes & wooded lots in Laurel Hill, Mason Neck & South County. Call (877) 497-0007.`,
+    description: `Lorton moisture mapping specialists. Infrared thermography for new construction, Occoquan waterfront homes & wooded lots in Laurel Hill, Mason Neck & South County. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Lorton, Virginia',
   introSection: {
     headline: `Scientific Moisture Assessment for Lorton New Development and Waterfront Properties`,
     paragraphs: [
       `Lorton's moisture mapping challenges reflect its dual character—newer Laurel Hill development homes where construction-era defects and grading issues create water intrusion, and Occoquan River waterfront properties where tidal influence and elevated water tables produce foundation moisture conditions unlike anything found inland. A Laurel Hill colonial with water entering through improperly flashed windows, a Mason Neck waterfront home where seasonal water table fluctuations drive moisture through the crawl space, or a Gunston property in dense tree canopy where persistent soil moisture saturates foundation walls—each requires scientific moisture diagnostics tailored to the specific environment. Flood Doctor provides FLIR infrared thermography, NIST-calibrated moisture meters, and psychrometric analysis adapted for Lorton property types.`,
-      `Our consulting team has documented builder defect moisture intrusion throughout the Laurel Hill master-planned community, mapped tidal-influenced foundation moisture at Mason Neck properties near the Occoquan Bay National Wildlife Refuge, and profiled crawl space moisture conditions in wooded South County homes where canopy cover prevents the soil drying that keeps other foundations stable. Lorton homeowners need moisture consultants who understand both new construction failure modes—flashing defects, grading errors, condensate installation shortcuts—and the environmental moisture dynamics of living near tidewater. Our IICRC-certified team produces moisture maps that support insurance claims, builder warranty investigations, and informed decisions about waterfront property moisture management.`,
+      `Our consulting team has documented builder defect moisture intrusion throughout the Laurel Hill master-planned community, mapped tidal-influenced foundation moisture at Mason Neck properties near the Occoquan Bay National Wildlife Refuge, and profiled crawl space moisture conditions in wooded South County homes where canopy cover prevents the soil drying that keeps other foundations stable. Lorton homeowners need moisture consultants who understand both new construction failure modes—flashing defects, grading errors, condensate installation shortcuts—and the environmental moisture dynamics of living near tidewater. Our trained team produces moisture maps that support insurance claims, builder warranty investigations, and informed decisions about waterfront property moisture management.`,
     ],
     localContext: `Lorton combines 2005+ master-planned community construction with Occoquan River waterfront and densely wooded lots—each environment creating distinct moisture conditions that require different assessment approaches.`,
   },
@@ -150,7 +150,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Will moisture mapping help with my insurance claim?',
-      answer: `Yes. Our calibrated moisture maps provide the quantitative documentation insurance adjusters need to process claims. Grid-referenced readings, thermal images, and professional interpretation demonstrate the scope and severity of moisture damage. Our reports meet documentation standards for all major carriers.`,
+      answer: `Yes. Our calibrated moisture maps provide the quantitative documentation insurance adjusters need to process claims. Grid-referenced readings, thermal images, and professional interpretation demonstrate the scope and severity of moisture damage. Our reports meet documentation standards for many carriers.`,
     },
   ],
   relatedBlogSlugs: [

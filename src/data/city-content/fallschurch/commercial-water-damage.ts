@@ -9,12 +9,12 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Historic-Aware Commercial Water Damage Expertise for Falls Church Businesses`,
     paragraphs: [
-      `Falls Church's commercial character spans from the independent-spirited businesses of Falls Church City to the diverse commercial corridors at Seven Corners and Baileys Crossroads, with the eclectic Eden Center adding cultural dimension to the business landscape. When water damage strikes a historic commercial building near the State Theatre, or a supply line failure floods a professional office in the Pimmit Hills business district, the restoration must respect the architectural heritage and community investment these spaces represent while meeting the practical timeline and budget requirements of local business owners.
+      `Falls Church's commercial character spans from the independent-spirited businesses of Falls Church City to the diverse commercial corridors at Seven Corners and Baileys Crossroads, with the eclectic Eden Center adding cultural dimension to the business landscape. When water damage strikes a historic commercial building near the State Theatre, or a supply line failure floods a professional workspace in the Pimmit Hills business district, the restoration must respect the architectural heritage and community investment these spaces represent while meeting the practical timeline and budget requirements of local business owners.
 
-Flood Doctor's commercial division has restored water-damaged businesses throughout Falls Church's distinctive commercial areas. We've dried flooded retail spaces in Falls Church City's walkable downtown, managed HVAC failures in Seven Corners office buildings, and restored water damage in Lake Barcroft-area professional offices—delivering restoration that matches the community's appreciation for quality and historic character.`,
+Flood Doctor's commercial division has restored water-damaged businesses throughout Falls Church's distinctive commercial areas. `,
       `Falls Church's commercial water damage challenges combine historic building considerations with the infrastructure age common throughout this established community. Many commercial structures date from the 1920s through 1960s, featuring original plumbing that has outlived its service life, historic plaster walls requiring specialized drying, and foundation systems that seep during high water table periods. The apartment complex concentration near Baileys Crossroads creates multi-unit commercial water events where building-wide plumbing failures affect ground-floor commercial tenants simultaneously. And Lake Barcroft's waterfront proximity creates moisture conditions that complicate drying for nearby commercial properties.
 
-Our IICRC-certified commercial teams bring historic building sensitivity alongside standard commercial capability. We use controlled drying protocols that protect original plaster, adjust extraction techniques for period-era flooring, and navigate the building-age considerations that define Falls Church's commercial restoration environment.`,
+Our trained commercial teams bring historic building sensitivity alongside standard commercial capability. We use controlled drying protocols that protect original plaster, adjust extraction techniques for period-era flooring, and navigate the building-age considerations that define Falls Church's commercial restoration environment.`,
     ],
     localContext: `Falls Church's blend of historic commercial buildings, apartment-complex density, and Lake Barcroft waterfront proximity creates commercial water damage scenarios requiring historic preservation sensitivity, multi-unit coordination, and moisture-aware restoration expertise.`,
   },
@@ -22,7 +22,7 @@ Our IICRC-certified commercial teams bring historic building sensitivity alongsi
     {
       title: 'Local Community Dispatch',
       description: `Call (877) 497-0007 for immediate commercial response. Our Falls Church crews serve the full community—from Falls Church City's historic center to Seven Corners, Baileys Crossroads, and the Lake Barcroft commercial area.`,
-      timeframe: 'Within 45 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Period-Sensitive Assessment',
@@ -108,7 +108,7 @@ Our IICRC-certified commercial teams bring historic building sensitivity alongsi
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Falls Church',
-    intro: 'Falls Church commercial restoration costs reflect the historic preservation expertise and extended drying requirements that many properties in this community need. We provide clear estimates that explain the value of preservation-focused restoration versus commodity replacement, and we handle insurance claims with all major commercial carriers.',
+    intro: 'Falls Church commercial restoration costs reflect the historic preservation expertise and extended drying requirements that many properties in this community need. We provide clear estimates that explain the value of preservation-focused restoration versus commodity replacement, and we handle insurance claims with commercial carriers.',
     factors: [
       'Historic material involvement—preservation protocols for original plaster, masonry, and period flooring add specialized labor costs',
       'Building infrastructure age—1920s-60s plumbing and building systems may reveal additional scope during assessment',
@@ -134,7 +134,7 @@ Our IICRC-certified commercial teams bring historic building sensitivity alongsi
       'Annandale Road Commercial Area',
       'Wilson Boulevard Corridor',
     ],
-    responseTime: '45-minute commercial response to all Falls Church business areas. Crews cover Falls Church City, Seven Corners, Baileys Crossroads, and Lake Barcroft with preservation-capable equipment.',
+    responseTime: 'prompt commercial response to all Falls Church business areas. Crews cover Falls Church City, Seven Corners, Baileys Crossroads, and Lake Barcroft with preservation-capable equipment.',
   },
   faqs: [
     {
@@ -147,11 +147,11 @@ Our IICRC-certified commercial teams bring historic building sensitivity alongsi
     },
     {
       question: 'Does Lake Barcroft proximity affect drying timelines?',
-      answer: 'Yes. Elevated ambient moisture near the lake extends drying timelines and requires additional dehumidification. We account for these conditions in our approach and monitoring schedule, ensuring complete drying in the waterfront environment.',
+      answer: 'Yes. Elevated ambient moisture near the lake extends drying timelines and requires additional dehumidification. We account for these conditions in our approach and monitoring schedule, ensuring documented drying in the waterfront environment.',
     },
     {
       question: 'Do you handle insurance for small Falls Church businesses?',
-      answer: 'Yes. Whether your business is a Falls Church City boutique or a Seven Corners professional office, we provide complete insurance documentation and direct billing. Our estimates meet the standards all major commercial carriers require.',
+      answer: 'Yes. Whether your business is a Falls Church City boutique or a Seven Corners professional workspace, we provide complete insurance documentation and carrier coordination. Our estimates meet the standards commercial carriers require.',
     },
     {
       question: 'Can you work around our Falls Church restaurant schedule?',
@@ -159,7 +159,7 @@ Our IICRC-certified commercial teams bring historic building sensitivity alongsi
     },
     {
       question: 'How do you handle older sewer lateral problems?',
-      answer: 'Sewer backup receives contamination protocols—biohazard cleanup per IICRC Category 3 standards. We document the sewer lateral condition for insurance and recommend replacement or lining for deteriorated laterals that will cause recurring problems.',
+      answer: 'Sewer backup receives contamination protocols—biohazard cleanup per industry-standard Category 3 standards. We document the sewer lateral condition for insurance and recommend replacement or lining for deteriorated laterals that will cause recurring problems.',
     },
     {
       question: 'Do you serve Eden Center and Seven Corners commercial properties?',

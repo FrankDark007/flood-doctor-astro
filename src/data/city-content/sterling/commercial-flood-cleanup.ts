@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Flood Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling commercial flood cleanup. Route 7 businesses, shopping centers & office parks. Rapid extraction, business continuity planning. 30-min response. Call (877) 497-0007.`,
+    description: `Sterling commercial flood cleanup. Route 7 businesses, shopping centers & workspace parks. Rapid extraction, business continuity planning. rapid response. Call (877) 497-0007.`,
   },
   h1: `Commercial Flood Cleanup in Sterling, Virginia`,
   introSection: {
     headline: `Rapid Commercial Flood Response for Sterling's Business Community`,
     paragraphs: [
-      `When flooding hits a Sterling business, the financial impact multiplies with every hour of closure. Route 7 corridor retail spaces, Sterling Park shopping center tenants, and professional offices throughout the area face revenue loss, inventory damage, and customer disruption that extends well beyond the physical water damage. Sterling's commercial flood risks include storm sewer overwhelm in established commercial areas, Sugarland Run creek proximity flooding for businesses near the waterway, and aging commercial plumbing failures in the 1980s-90s era buildings that line the Route 7 corridor.
+      `When flooding hits a Sterling business, the financial impact multiplies with every hour of closure. Route 7 corridor retail spaces, Sterling Park shopping center tenants, and professional workspaces throughout the area face revenue loss, inventory damage, and customer disruption that extends well beyond the physical water damage. Sterling's commercial flood risks include storm sewer overwhelm in established commercial areas, Sugarland Run creek proximity flooding for businesses near the waterway, and aging commercial plumbing failures in the 1980s-90s era buildings that line the Route 7 corridor.
 
-Flood Doctor's commercial flood response is built for speed and business continuity. We have pumped floodwater from Route 7 retail spaces during summer storm events, extracted storm sewer backup from Sterling Park shopping center businesses, and restored flood-damaged offices near the Sterling Community Center. Our 30-minute commercial response, after-hours capability, and business-focused approach minimize the closure period that costs Sterling businesses the most.`,
+Flood Doctor's commercial flood response is built for speed and business continuity. Our rapid commercial response, after-hours capability, and business-focused approach minimize the closure period that costs Sterling businesses the most.`,
       `Commercial flood cleanup in Sterling often involves contaminated water—storm sewer backup, creek overflow, and groundwater intrusion all carry biological and chemical contaminants that require elevated cleanup protocols. Multi-tenant commercial buildings face additional complexity when flooding crosses tenant boundaries through shared infrastructure. Property managers, business owners, and insurance carriers all need clear documentation showing flood source, contamination level, and per-unit damage.
 
 Our commercial crews carry both the extraction capacity for large commercial floor areas and the contamination management equipment for biohazard situations. We handle the coordination between property managers, individual tenants, and insurance carriers—letting business owners focus on their operations while we manage the restoration.`,
@@ -21,8 +21,8 @@ Our commercial crews carry both the extraction capacity for large commercial flo
   processSteps: [
     {
       title: `Priority Commercial Dispatch`,
-      description: `Call (877) 497-0007 for immediate commercial flood response. Our crews reach Route 7 corridor businesses and all Sterling commercial areas within 30 minutes with commercial-grade extraction equipment ready for deployment.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate commercial flood response. Our crews reach Route 7 corridor businesses and all Sterling commercial areas as soon as crews are available with commercial-grade extraction equipment ready for deployment.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Contamination Assessment & Safety`,
@@ -69,7 +69,7 @@ Our commercial crews carry both the extraction capacity for large commercial flo
   ],
   pricingSection: {
     headline: `Commercial Flood Cleanup Costs in Sterling`,
-    intro: `Commercial flood cleanup costs in Sterling depend on the flood source, affected area, contamination level, and business type. We provide detailed commercial estimates and work with commercial insurance carriers for direct billing. Our focus on minimizing business closure means your fastest return to revenue.`,
+    intro: `Commercial flood cleanup costs in Sterling depend on the flood source, affected area, contamination level, and business type. We provide detailed commercial estimates and work with commercial insurance carriers for carrier coordination. Our focus on minimizing business closure means your fastest return to revenue.`,
     factors: [
       `Flood volume and contamination—sewer and creek flooding require elevated protocols that increase scope`,
       `Commercial square footage—larger spaces require more equipment and labor for extraction and drying`,
@@ -97,12 +97,12 @@ Our commercial crews carry both the extraction capacity for large commercial flo
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute commercial flood response across all Sterling business areas. Priority dispatch for active flooding with business inventory at risk. Call (877) 497-0007.`,
+    responseTime: `rapid commercial flood response across all Sterling business areas. Priority dispatch for active flooding with business inventory at risk. Call (877) 497-0007.`,
   },
   faqs: [
     {
       question: `How fast can you respond to my Route 7 business flood emergency?`,
-      answer: `Within 30 minutes. Our crews are positioned along the Route 7 corridor and throughout Sterling for rapid commercial deployment. We bring commercial-grade extraction capacity ready for immediate pump-out.`,
+      answer: `As soon as crews are available. Our crews are positioned along the Route 7 corridor and throughout Sterling for rapid commercial deployment. We bring commercial-grade extraction capacity ready for immediate pump-out.`,
     },
     {
       question: `Can my Sterling business reopen while drying equipment is still running?`,
@@ -131,6 +131,6 @@ Our commercial crews carry both the extraction capacity for large commercial flo
   ],
   finalCTA: {
     headline: `Commercial Flood Emergency in Sterling?`,
-    paragraph: `Your business revenue depends on fast response. Our commercial crews reach Route 7 corridor businesses within 30 minutes with the extraction capacity and contamination management your situation demands. Call now—every hour matters.`,
+    paragraph: `Your business revenue depends on fast response. Our commercial crews reach Route 7 corridor businesses as soon as crews are available with the extraction capacity and contamination management your situation demands. Call now—every hour matters.`,
   },
 }

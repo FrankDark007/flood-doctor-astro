@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's certified mold remediation specialists. Serving South Riding, Chantilly Highlands & Franklin Glen. IICRC S520 certified. Call (877) 497-0007.`,
+    description: `Chantilly's trained mold remediation specialists. Serving South Riding, Chantilly Highlands & Franklin Glen. industry-standard S520 trained. Call (877) 497-0007.`,
   },
   h1: 'Mold Remediation Services in Chantilly, Virginia',
   introSection: {
-    headline: `Certified Mold Remediation for Chantilly's Newer Construction`,
+    headline: `Trained Mold Remediation for Chantilly's Newer Construction`,
     paragraphs: [
-      `Mold in Chantilly homes often grows hidden behind walls, beneath flooring, and inside HVAC systems long before visible signs appear. The area's newer construction—with tighter building envelopes, spray foam insulation, and energy-efficient windows—creates conditions where moisture gets trapped and mold thrives unseen. Whether your South Riding home has mold from a slow HVAC condensate leak, your Chantilly Highlands colonial has growth in wall cavities from a previous water event, or your Franklin Glen townhome has basement mold from high humidity, Flood Doctor provides IICRC S520 certified remediation.`,
+      `Mold in Chantilly homes often grows hidden behind walls, beneath flooring, and inside HVAC systems long before visible signs appear. The area's newer construction—with tighter building envelopes, spray foam insulation, and energy-efficient windows—creates conditions where moisture gets trapped and mold thrives unseen. Whether your South Riding home has mold from a slow HVAC condensate leak, your Chantilly Highlands colonial has growth in wall cavities from a previous water event, or your Franklin Glen townhome has basement mold from high humidity, Flood Doctor provides industry-standard S520 protocol-based remediation.`,
       `Chantilly's proximity to the Cub Run watershed and Ellanor C. Lawrence Park means elevated ambient moisture that contributes to mold growth in vulnerable areas. Properties near Westfields Business Park and throughout the Dulles corridor experience the same tight-construction moisture challenges. Our remediation team has removed mold from hundreds of Chantilly properties—from Poplar Tree Estates attics to Fair Oaks crawlspaces—and understands how modern building practices create and conceal mold problems.`,
     ],
     localContext: `Chantilly's newer construction with tight building envelopes, combined with the area's humid summers and proximity to natural waterways, creates persistent mold risks that require professional identification and remediation.`,
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Mold Removal & Material Demolition',
-      description: `Mold-affected materials are removed following IICRC S520 protocols. Porous materials with embedded mold growth—drywall, insulation, carpet—are removed and disposed. Structural elements are treated and preserved.`,
+      description: `Mold-affected materials are removed following industry-standard S520 protocols. Porous materials with embedded mold growth—drywall, insulation, carpet—are removed and disposed. Structural elements are treated and preserved.`,
       timeframe: 'Days 2-4',
     },
     {
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Concerned About Mold in Your Chantilly Home?',
-    paragraph: `Mold grows and spreads every day it goes untreated. Our IICRC S520 certified technicians provide thorough inspection, professional remediation, and verified clearance for Chantilly homeowners. Call (877) 497-0007 for a same-day mold inspection.`,
+    paragraph: `Mold grows and spreads every day it goes untreated. Our industry-standard S520 trained technicians provide thorough inspection, professional remediation, and verified clearance for Chantilly homeowners. Call (877) 497-0007 for a same-day mold inspection.`,
   },
 }

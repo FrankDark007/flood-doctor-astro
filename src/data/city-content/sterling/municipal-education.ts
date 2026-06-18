@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Sterling's public infrastructure—schools serving the Cascades, Countryside, Sterling Park, and Potomac Falls communities, the Sterling Community Center, recreational facilities near Claude Moore Park and Algonkian Regional Park, and government service buildings along the Route 7 corridor—serves thousands of residents daily. When water damage, mold, or fire affects these facilities, the impact extends beyond property damage to community disruption. Schools must continue educating students. Community centers serve vulnerable populations. Government buildings provide essential services. Restoration must be fast, thorough, and minimally disruptive to ongoing operations.
 
-Flood Doctor has restored water-damaged school buildings in the Sterling area, addressed mold in community recreational facilities, and managed emergency repairs at municipal buildings throughout Loudoun County. Our crews understand the unique requirements of public facility restoration—procurement processes, facility manager coordination, scheduled occupancy patterns, and the heightened indoor air quality standards that protect children and vulnerable populations.`,
+Our crews understand the unique requirements of public facility restoration—procurement processes, facility manager coordination, scheduled occupancy patterns, and the heightened indoor air quality standards that protect children and vulnerable populations.`,
       `Public facility restoration in Sterling operates within specific constraints. School restoration must happen during breaks, after hours, or with careful zone isolation to maintain student safety and educational continuity. Municipal buildings may have public records, evidence storage, or equipment that requires special handling protocols. Community centers serve populations—seniors, children—who are particularly sensitive to indoor air quality during and after restoration. These constraints require restoration planning that accounts for more than just the physical damage.
 
 Our project managers work with facility directors, school administrators, and municipal leaders to develop restoration plans that respect these operational realities. We provide the documentation that public procurement and insurance processes require, maintaining transparency throughout the project.`,
@@ -22,7 +22,7 @@ Our project managers work with facility directors, school administrators, and mu
     {
       title: `Emergency Public Facility Response`,
       description: `Call (877) 497-0007 for immediate response to Sterling schools, community centers, and government buildings. We coordinate with facility managers and understand the access, security, and safety protocols that public buildings require.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Occupancy-Sensitive Assessment`,
@@ -97,7 +97,7 @@ Our project managers work with facility directors, school administrators, and mu
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Priority emergency response for Sterling schools and public facilities. 30-minute dispatch for active water events threatening building occupancy. Call (877) 497-0007.`,
+    responseTime: `Priority emergency response for Sterling schools and public facilities. rapid dispatch for active water events threatening building occupancy. Call (877) 497-0007.`,
   },
   faqs: [
     {

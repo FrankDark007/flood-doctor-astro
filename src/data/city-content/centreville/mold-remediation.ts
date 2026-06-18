@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Centreville, VA | Flood Doctor',
-    description: `Centreville mold remediation experts. IICRC-certified removal in Virginia Run, Centre Ridge & Sully Station. Basement mold specialists. Call (877) 497-0007.`,
+    description: `Centreville mold remediation specialists. trained removal in Virginia Run, Centre Ridge & Sully Station. Basement mold specialists. Call (877) 497-0007.`,
   },
   h1: 'Mold Remediation Services in Centreville, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Mold thrives in Centreville homes. The combination of aging plumbing that leaks behind walls, large finished basements with limited ventilation, clay soil that holds moisture against foundations, and Northern Virginia's humid summers creates ideal conditions for mold growth. If you've noticed musty odors in your Virginia Run basement, seen dark spots on your Centre Ridge bathroom ceiling, or discovered mold behind furniture in your Little Rocky Run colonial, you are not alone—mold is one of the most common problems in Centreville's 1990s-2000s housing stock.
 
-Flood Doctor provides professional mold remediation throughout Centreville with IICRC-certified technicians who follow strict containment and removal protocols. We've remediated mold in Sully Station crawl spaces, Centreville Farms finished basements, and London Towne bathroom walls. Our approach goes beyond killing visible mold—we identify and eliminate the moisture source, remove all contaminated materials, and verify successful remediation through air quality testing.`,
+Flood Doctor provides professional mold remediation throughout Centreville with trained technicians who follow strict containment and removal protocols. Our approach goes beyond killing visible mold—we identify and eliminate the moisture source, remove all contaminated materials, and verify successful remediation through air quality testing.`,
       `Mold in Centreville homes is rarely a surface problem. By the time you see mold on drywall, it has typically colonized the back of the drywall, the wall cavity insulation, and sometimes the structural framing. Slow polybutylene leaks behind walls feed mold colonies for months before any visible sign appears. Inadequate bathroom ventilation in 1990s construction allows moisture to accumulate in ceiling cavities. Finished basements without proper vapor barriers trap ground moisture that feeds mold year-round.
 
 Our remediation protocols address the full scope. We contain the affected area, remove contaminated materials, treat structural elements with antimicrobials, correct the moisture source, and verify clearance through independent air quality testing. Every step is documented for your records and, if applicable, your insurance claim.`,
@@ -21,7 +21,7 @@ Our remediation protocols address the full scope. We contain the affected area, 
   processSteps: [
     {
       title: 'Mold Inspection & Assessment',
-      description: `Our IICRC-certified inspector assesses visible mold, tests for hidden mold using moisture meters and air sampling, and identifies the moisture source feeding the growth. In Centreville homes, we check behind walls for plumbing leaks, inspect basement vapor barriers, and assess ventilation systems.`,
+      description: `Our trained inspector assesses visible mold, tests for hidden mold using moisture meters and air sampling, and identifies the moisture source feeding the growth. In Centreville homes, we check behind walls for plumbing leaks, inspect basement vapor barriers, and assess ventilation systems.`,
       timeframe: 'Initial visit',
     },
     {

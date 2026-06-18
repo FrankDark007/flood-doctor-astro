@@ -3,27 +3,27 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup Services in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's emergency flood cleanup specialists. 30-min response to South Riding, Westfields & Franklin Glen. Storm and sewage flood experts. Call (877) 497-0007.`,
+    description: `Chantilly's emergency flood cleanup specialists. rapid response to South Riding, Westfields & Franklin Glen. Storm and sewage flood specialists. Call (877) 497-0007.`,
   },
   h1: 'Flood Cleanup Services in Chantilly, Virginia',
   introSection: {
     headline: `Emergency Flood Cleanup for Chantilly's Dulles Corridor Communities`,
     paragraphs: [
-      `Flooding in Chantilly strikes without warning—whether from a summer storm overwhelming drainage systems in South Riding, a burst pipe in a Chantilly Highlands colonial, or sewage backup in a Franklin Glen townhome. The Dulles corridor's mix of newer planned communities and established neighborhoods means flood damage varies dramatically by property type and construction era. Flood Doctor responds within 30 minutes to begin extraction, containment, and cleanup before secondary damage compounds your losses.`,
-      `Chantilly sits at the intersection of rapid development and natural waterways. Properties near Ellanor C. Lawrence Park and the Cub Run watershed face elevated flood risk during heavy rain events. Newer developments near Westfields Business Park were built on regraded land that sometimes channels stormwater in unexpected directions. Our crews have cleaned up floods throughout every Chantilly neighborhood—from Poplar Tree Estates basements to Fair Oaks split-levels—and understand how local terrain and construction combine to create flood vulnerabilities.`,
+      `Flooding in Chantilly strikes without warning—whether from a summer storm overwhelming drainage systems in South Riding, a burst pipe in a Chantilly Highlands colonial, or sewage backup in a Franklin Glen townhome. The Dulles corridor's mix of newer planned communities and established neighborhoods means flood damage varies dramatically by property type and construction era. Flood Doctor responds as soon as crews are available to begin extraction, containment, and cleanup before secondary damage compounds your losses.`,
+      `Chantilly sits at the intersection of rapid development and natural waterways. Properties near Ellanor C. Lawrence Park and the Cub Run watershed face elevated flood risk during heavy rain events. Newer developments near Westfields Business Park were built on regraded land that sometimes channels stormwater in unexpected directions. `,
     ],
     localContext: `Chantilly's position along the Dulles corridor, with its mix of newer planned communities and proximity to Cub Run and Bull Run floodplains, creates flood risks that demand rapid, knowledgeable response from a local team.`,
   },
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: `Call (877) 497-0007 and our nearest crew deploys immediately. We maintain trucks along Route 50 and Route 28 to reach Chantilly Highlands, South Riding, Franklin Glen, and Westfields within 30 minutes.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our nearest crew deploys immediately. We maintain trucks along Route 50 and Route 28 to reach Chantilly Highlands, South Riding, Franklin Glen, and Westfields as soon as crews are available.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Flood Assessment & Safety Check',
       description: `We assess flood source, contamination level, and structural safety. Chantilly floods range from clean supply-line breaks to Category 3 sewage backups—each requires different protocols and personal protective equipment.`,
-      timeframe: 'First 30-60 minutes',
+      timeframe: 'First as soon as crews are available',
     },
     {
       title: 'Rapid Water Extraction',
@@ -65,7 +65,7 @@ export const content: CityServiceContent = {
     {
       title: 'Multi-Level Flood Migration',
       description: `Chantilly's large homes near Westfields and Fair Oaks often span three or four levels. Water from an upper-floor flood migrates down through ceiling cavities, wall interiors, and stairwells, affecting multiple floors before reaching the basement.`,
-      solution: `Our assessment traces flood paths through every level. Infrared cameras detect hidden moisture in ceiling and wall cavities between floors, ensuring complete drying and preventing concealed mold growth.`,
+      solution: `Our assessment traces flood paths through every level. Infrared cameras detect hidden moisture in ceiling and wall cavities between floors, ensuring documented drying and preventing concealed mold growth.`,
     },
   ],
   equipmentSection: {
@@ -132,12 +132,12 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute emergency flood response to all Chantilly neighborhoods. Multiple crews available for community-wide storm events along the Dulles corridor.`,
+    responseTime: `rapid emergency flood response to all Chantilly neighborhoods. Multiple crews available for community-wide storm events along the Dulles corridor.`,
   },
   faqs: [
     {
       question: `How fast can you reach my Chantilly home during a flood?`,
-      answer: `Within 30 minutes. Our crews are positioned along Route 50 and Route 28, covering South Riding to Chantilly Highlands. Call (877) 497-0007 immediately—every minute of standing water increases damage.`,
+      answer: `As soon as crews are available. Our crews are positioned along Route 50 and Route 28, covering South Riding to Chantilly Highlands. Call (877) 497-0007 immediately—every minute of standing water increases damage.`,
     },
     {
       question: `Is flood water in my basement dangerous?`,
@@ -153,7 +153,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How long does flood cleanup take in a typical Chantilly home?`,
-      answer: `Extraction takes hours; complete drying takes 3-7 days depending on severity. Chantilly's larger homes with finished basements may take longer. We monitor daily and provide timeline updates throughout the process.`,
+      answer: `Extraction takes hours; documented drying takes 3-7 days depending on severity. Chantilly's larger homes with finished basements may take longer. We monitor daily and provide timeline updates throughout the process.`,
     },
     {
       question: `Should I try to remove flood water myself before you arrive?`,
@@ -171,6 +171,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Flood Emergency in Chantilly?',
-    paragraph: `Standing water causes exponentially more damage every hour. Our crews are ready now along the Dulles corridor with truck-mounted extractors and full flood cleanup equipment. Call (877) 497-0007 for immediate 30-minute response.`,
+    paragraph: `Standing water causes exponentially more damage every hour. Our crews are ready now along the Dulles corridor with truck-mounted extractors and full flood cleanup equipment. Call (877) 497-0007 for immediate rapid response.`,
   },
 }

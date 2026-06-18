@@ -55,7 +55,7 @@ export const content: CityServiceContent = {
     {
       title: `Subfloor Moisture in Crawl Space Homes`,
       description: `Many Leesburg homes in the Edwards Ferry and Sycolin Creek areas have hardwood over crawl space subfloors. Moisture migrating upward from the crawl space can keep floors wet from below even as surface water is extracted above.`,
-      solution: `We address both sides simultaneously — drying the floor from above with mat systems while drying the crawl space from below with dehumidification. This two-pronged approach is essential for complete drying in crawl space homes.`,
+      solution: `We address both sides simultaneously — drying the floor from above with mat systems while drying the crawl space from below with dehumidification. This two-pronged approach is essential for documented drying in crawl space homes.`,
     },
     {
       title: `Salvaging vs. Replacing Decision`,

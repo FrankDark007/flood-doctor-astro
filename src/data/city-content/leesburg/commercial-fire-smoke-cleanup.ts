@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Commercial fire and smoke damage restoration for Leesburg businesses. Historic buildings, retail centers, restaurants, offices. Call (877) 497-0007.`,
+    description: `Commercial fire and smoke damage restoration for Leesburg businesses. Historic buildings, retail centers, restaurants, workspaces. Call (877) 497-0007.`,
   },
   h1: `Leesburg Commercial Fire & Smoke Cleanup`,
   introSection: {
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `60-90 minutes for commercial fire and smoke response in Leesburg, with immediate dispatch for board-up and water mitigation emergencies.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church flood cleanup specialists. 30-min response for Seven Corners, Lake Barcroft & Falls Church City. Storm and natural flooding experts. Call (877) 497-0007.',
+    description: 'Falls Church flood cleanup specialists. rapid response for Seven Corners, Lake Barcroft & Falls Church City. Storm and natural flooding specialists. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Falls Church, Virginia',
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When floodwaters enter your Falls Church home—whether from summer storms, creek overflow, or groundwater saturation—you need cleanup that goes far beyond pumping water. Flood water carries contaminants: mud, bacteria, sewage, lawn chemicals, and debris that coat every surface it touches. Your Falls Church City bungalow, Seven Corners colonial, or Lake Barcroft waterfront home requires thorough cleaning, disinfection, and professional drying to be safe for your family again.
 
-Flood Doctor has handled flood cleanup throughout Falls Church for years. We've responded to major storm flooding in Baileys Crossroads when drainage systems overwhelmed. We've cleaned Lake Barcroft homes after lake levels rose into walkout basements. We've restored Falls Church City properties after flash flooding from sudden summer storms. This is different from burst pipe cleanup—flood water is contaminated water that requires biohazard protocols.`,
+Flood Doctor provides flood cleanup throughout Falls Church with methods adapted to Baileys Crossroads drainage issues, older basements, and storm-water contamination. This is different from burst pipe cleanup—flood water is contaminated water that requires biohazard protocols.`,
       `Falls Church faces flood risks that vary by neighborhood. Lake Barcroft waterfront properties are vulnerable to lake level fluctuations during heavy rain seasons. Low-lying areas in Baileys Crossroads and Seven Corners collect runoff when legacy storm drains can't handle intense rainfall. Even properties on higher ground can flood when groundwater saturation pushes water up through basement floors.
 
-Our IICRC-certified flood cleanup teams understand these differences. We bring commercial extraction equipment, antimicrobial treatments, and industrial drying capacity to every Falls Church flood emergency. We remove contaminated materials safely, treat affected surfaces properly, and dry your home thoroughly. We also handle flood insurance claims—documentation is critical for flood damage, and we provide what adjusters need.`,
+Our trained flood cleanup teams understand these differences. We bring commercial extraction equipment, antimicrobial treatments, and industrial drying capacity to every Falls Church flood emergency. We remove contaminated materials safely, treat affected surfaces properly, and dry your home thoroughly. We also handle flood insurance claims—documentation is critical for flood damage, and we provide what adjusters need.`,
     ],
-    localContext: `Falls Church's varied topography—from Lake Barcroft shoreline to hillside neighborhoods—creates different flood patterns throughout the area. We've cleaned flood damage from every type of flooding Falls Church experiences.`,
+    localContext: `Falls Church's varied topography—from Lake Barcroft shoreline to hillside neighborhoods—creates different flood patterns throughout the area. `,
   },
   processSteps: [
     {
       title: 'Emergency Response & Safety Assessment',
       description: 'When you call (877) 497-0007 about flooding, we dispatch immediately. On arrival, we assess safety—flood water often contains contaminants requiring protective equipment. We confirm electrical safety before entering standing water.',
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Water Removal & Debris Extraction',
@@ -46,7 +46,7 @@ Our IICRC-certified flood cleanup teams understand these differences. We bring c
     },
     {
       title: 'Verification & Restoration Planning',
-      description: 'We verify complete drying with moisture testing and provide documentation for insurance and reconstruction. Many Falls Church homeowners proceed directly to our rebuild services.',
+      description: 'We verify documented drying with moisture testing and provide documentation for insurance and reconstruction. Many Falls Church homeowners proceed directly to our rebuild services.',
       timeframe: 'Day 7+',
     },
   ],
@@ -136,12 +136,12 @@ Our IICRC-certified flood cleanup teams understand these differences. We bring c
       'Madison Manor',
       'Holmes Run',
     ],
-    responseTime: '30-minute response to all Falls Church areas. Our crews are positioned for rapid flood response throughout the region.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
       question: 'Is flood water cleanup different from regular water damage restoration?',
-      answer: `Yes, significantly. Flood water (Category 3) is contaminated with bacteria, sewage, chemicals, and debris. Porous materials like carpet and drywall can't be saved—they must be removed. All surfaces require antimicrobial treatment. We follow IICRC protocols for contaminated water that go far beyond clean water restoration.`,
+      answer: `Yes, significantly. Flood water (Category 3) is contaminated with bacteria, sewage, chemicals, and debris. Porous materials like carpet and drywall can't be saved—they must be removed. All surfaces require antimicrobial treatment. We follow industry-standard protocols for contaminated water that go far beyond clean water restoration.`,
     },
     {
       question: `Will my homeowner's insurance cover flood damage?`,
@@ -171,6 +171,6 @@ Our IICRC-certified flood cleanup teams understand these differences. We bring c
   ],
   finalCTA: {
     headline: 'Flood Emergency in Falls Church?',
-    paragraph: `Flood water is contaminated water—every hour of delay increases health risks and damage. Our crews are positioned throughout Falls Church for immediate 30-minute response. We'll extract the water, remove contaminated materials, treat surfaces properly, and dry your home completely.`,
+    paragraph: `Flood water is contaminated water—every hour of delay increases health risks and damage. Our crews are positioned throughout Falls Church for immediate rapid response. We'll extract the water, remove contaminated materials, treat surfaces properly, and dry your home completely.`,
   },
 }

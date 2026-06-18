@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Hardwood floors are one of the most valued features in Centreville homes—and one of the most vulnerable to water damage. When a polybutylene pipe bursts behind your Virginia Run kitchen wall, when your Centre Ridge dishwasher line fails, or when storm water seeps into your Little Rocky Run living room, those hardwood floors begin absorbing moisture immediately. Within hours, boards start cupping. Within days, crowning and buckling begin. Without professional intervention, replacement becomes the only option.
 
-Flood Doctor specializes in hardwood floor drying throughout Centreville using controlled techniques that save floors other companies would tear out. We've dried cupped hardwood in Sully Station kitchens, restored buckled floors in Centreville Farms foyers, and saved engineered hardwood in London Towne dining rooms. Our controlled drying approach works with the wood—not against it—to return floors to their original flat condition.`,
+Flood Doctor specializes in hardwood floor drying throughout Centreville using controlled techniques that save floors other companies would tear out. Our controlled drying approach works with the wood—not against it—to return floors to their original flat condition.`,
       `Hardwood floor drying is a science. Wood absorbs and releases moisture according to the laws of physics—too fast and it cracks, too slow and it molds. The subfloor material matters: OSB common in 1990s-2000s Centreville homes absorbs water differently than plywood. The finish type matters: sealed versus unsealed floors accept moisture at different rates. The wood species, board width, and installation method all affect the drying protocol.
 
 Our technicians calculate the specific drying parameters for your floor—target moisture content, drying rate, and equipment placement. We monitor daily with calibrated meters, adjusting conditions to achieve maximum recovery without over-drying. This precision approach saves hardwood floors that aggressive or uninformed drying would destroy.`,
@@ -129,7 +129,7 @@ Our technicians calculate the specific drying parameters for your floor—target
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `30-minute response to all Centreville neighborhoods for hardwood floor emergencies. Call (877) 497-0007 immediately—every hour matters for floor recovery.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {

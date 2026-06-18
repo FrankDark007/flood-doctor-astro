@@ -3,18 +3,18 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Springfield, VA | Flood Doctor',
-    description: `Springfield commercial water damage restoration. I-95 corridor offices, military-adjacent facilities & retail centers near Springfield Town Center & Fort Belvoir. Call (877) 497-0007.`,
+    description: `Springfield commercial water damage restoration. I-95 corridor workspaces, military-adjacent facilities & retail centers near Springfield Town Center & Fort Belvoir. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Springfield, Virginia',
   introSection: {
     headline: `Dependable Commercial Water Damage Response for Springfield's I-95 Corridor Business Community`,
     paragraphs: [
-      `Springfield's commercial landscape serves the I-95 corridor's diverse business community—office parks housing government contractors and military-adjacent operations near Fort Belvoir, retail and dining anchored by Springfield Town Center, and the professional services that support one of Northern Virginia's most established residential areas. When a burst pipe floods a Franconia government contractor office overnight, or an HVAC failure saturates the ceiling of a Kingstowne medical practice, these businesses need restoration that arrives fast, works efficiently, and understands the specific insurance and operational requirements that military-connected and government-adjacent commercial tenants face.
+      `Springfield's commercial landscape serves the I-95 corridor's diverse business community—business parks housing government contractors and military-adjacent operations near Fort Belvoir, retail and dining anchored by Springfield Town Center, and the professional services that support one of Northern Virginia's most established residential areas. When a burst pipe floods a Franconia government contractor workspace overnight, or an HVAC failure saturates the ceiling of a Kingstowne medical practice, these businesses need restoration that arrives fast, works efficiently, and understands the specific insurance and operational requirements that military-connected and government-adjacent commercial tenants face.
 
-Flood Doctor's commercial division has restored water-damaged businesses throughout Springfield's commercial areas. We've dried flooded government contractor offices in West Springfield, extracted standing water from Newington commercial properties, and restored water damage in Rolling Valley professional buildings—delivering the reliable, straightforward service that Springfield's practical business community values.`,
+Flood Doctor's commercial division has restored water-damaged businesses throughout Springfield's commercial areas. `,
       `Springfield's commercial water damage challenges reflect the area's building stock and geography. Many commercial properties date from the 1960s through 1980s, featuring aging plumbing, flat-roof construction, and mechanical systems approaching or past their service life. The Lake Accotink watershed creates elevated water table conditions that amplify basement and ground-floor flooding during storms. And the I-95/Franconia-Springfield interchange creates commercial density where traffic access challenges complicate equipment staging and crew deployment for restoration projects.
 
-Our IICRC-certified commercial teams understand Springfield's infrastructure age and geography. We trace water damage through the ceiling plenums and shared-wall assemblies common in Springfield's 1960s-80s office buildings, address the water table challenges in low-lying commercial areas near Lake Accotink, and navigate the access logistics of I-95 corridor commercial properties where equipment staging requires careful planning.`,
+Our trained commercial teams understand Springfield's infrastructure age and geography. We trace water damage through the ceiling plenums and shared-wall assemblies common in Springfield's 1960s-80s workspace buildings, address the water table challenges in low-lying commercial areas near Lake Accotink, and navigate the access logistics of I-95 corridor commercial properties where equipment staging requires careful planning.`,
     ],
     localContext: `Springfield's 1960s-80s commercial building stock, Lake Accotink watershed influence, and I-95 corridor access considerations create commercial water damage scenarios requiring infrastructure-age expertise and military-community service awareness.`,
   },
@@ -22,7 +22,7 @@ Our IICRC-certified commercial teams understand Springfield's infrastructure age
     {
       title: 'I-95 Corridor Commercial Dispatch',
       description: `Call (877) 497-0007 for immediate commercial response. Our Springfield crews are positioned near the Franconia-Springfield interchange and along the Fort Belvoir corridor for rapid deployment to commercial properties throughout the area.`,
-      timeframe: 'Within 45 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Aging Infrastructure Assessment',
@@ -46,7 +46,7 @@ Our IICRC-certified commercial teams understand Springfield's infrastructure age
     },
     {
       title: 'Practical Restoration Planning',
-      description: 'Moisture verification confirms complete drying. Restoration plans provide clear scope and budget options, helping Springfield commercial property owners make informed decisions about upgrading aging systems alongside repairing immediate damage.',
+      description: 'Moisture verification confirms documented drying. Restoration plans provide clear scope and budget options, helping Springfield commercial property owners make informed decisions about upgrading aging systems alongside repairing immediate damage.',
       timeframe: 'Days 4-6',
     },
   ],
@@ -63,7 +63,7 @@ Our IICRC-certified commercial teams understand Springfield's infrastructure age
     },
     {
       title: 'Government Contractor Facility Requirements',
-      description: `Springfield's concentration of government contractor offices near Fort Belvoir means many commercial tenants have facility security requirements, document handling protocols, and operational continuity obligations that affect restoration access and scheduling.`,
+      description: `Springfield's concentration of government contractor workspaces near Fort Belvoir means many commercial tenants have facility security requirements, document handling protocols, and operational continuity obligations that affect restoration access and scheduling.`,
       solution: 'We coordinate with facility security on access protocols and schedule work around operational requirements. Our crews maintain the professional conduct and discretion that government-adjacent commercial environments require.',
     },
     {
@@ -77,7 +77,7 @@ Our IICRC-certified commercial teams understand Springfield's infrastructure age
     equipment: [
       {
         name: 'Truck-Mounted Extraction Systems',
-        purpose: 'Industrial water removal from commercial offices, retail spaces, and government contractor facilities',
+        purpose: 'Industrial water removal from commercial workspaces, retail spaces, and government contractor facilities',
         brand: 'Prochem',
       },
       {
@@ -100,7 +100,7 @@ Our IICRC-certified commercial teams understand Springfield's infrastructure age
       },
       {
         name: 'Air Quality Management',
-        purpose: 'HEPA filtration during restoration in occupied government contractor and professional office environments',
+        purpose: 'HEPA filtration during restoration in occupied government contractor and professional workspace environments',
         brand: 'Phoenix',
       },
     ],
@@ -108,7 +108,7 @@ Our IICRC-certified commercial teams understand Springfield's infrastructure age
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Springfield',
-    intro: 'Springfield commercial restoration costs reflect the aging infrastructure that causes many water events and the additional drying requirements of the Lake Accotink watershed area. We provide clear estimates before work begins and handle insurance claims directly with all major commercial carriers.',
+    intro: 'Springfield commercial restoration costs reflect the aging infrastructure that causes many water events and the additional drying requirements of the Lake Accotink watershed area. We provide clear estimates before work begins and handle insurance claims directly with commercial carriers.',
     factors: [
       'Infrastructure age—aging plumbing and roofing in 1960s-80s buildings often reveals additional scope during restoration assessment',
       'Water table proximity—Lake Accotink watershed properties may require extended drying periods with additional equipment',
@@ -135,19 +135,19 @@ Our IICRC-certified commercial teams understand Springfield's infrastructure age
       'Commerce Street Area',
       'Lake Accotink Business Area',
     ],
-    responseTime: '45-minute commercial response to all Springfield business areas. Crews positioned near the Franconia-Springfield interchange and Fort Belvoir corridor for rapid I-95 corridor deployment.',
+    responseTime: 'prompt commercial response to all Springfield business areas. Crews positioned near the Franconia-Springfield interchange and Fort Belvoir corridor for rapid I-95 corridor deployment.',
   },
   faqs: [
     {
-      question: 'How quickly can you respond to our Springfield government contractor office?',
-      answer: 'Our commercial dispatch reaches Springfield, Franconia, and Fort Belvoir-area commercial properties within 45 minutes. We coordinate with facility security on access protocols and maintain the professional conduct government-adjacent environments require. Call (877) 497-0007.',
+      question: 'How quickly can you respond to our Springfield government contractor workspace?',
+      answer: 'Our commercial dispatch reaches Springfield, Franconia, and Fort Belvoir-area commercial properties as soon as crews are available. We coordinate with facility security on access protocols and maintain the professional conduct government-adjacent environments require. Call (877) 497-0007.',
     },
     {
       question: 'Our building is from the 1970s—does that affect restoration?',
       answer: 'Yes. Older buildings contain plaster, legacy plumbing, and materials requiring different drying approaches than modern construction. Our technicians are experienced with period materials and adjust protocols accordingly. We also identify aging infrastructure that may cause future events.',
     },
     {
-      question: 'Can you work after hours in our commercial office?',
+      question: 'Can you work after hours in our commercial workspace?',
       answer: 'Absolutely. We schedule noisy extraction work during evenings and weekends, with quiet drying equipment operating during business hours. We coordinate with your facilities manager on scheduling and access requirements.',
     },
     {

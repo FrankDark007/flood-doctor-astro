@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: `Property Management Coordination`,
       description: `Call (877) 497-0007 for immediate response. We coordinate with property management on access, tenant communication, and unit relocation before our crews begin work.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Multi-Unit Damage Assessment`,
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `45-60 minutes for multifamily and hospitality emergencies throughout Leesburg, with multi-crew deployment for events affecting multiple units.`,
+    responseTime: `as soon as crews are available for multifamily and hospitality emergencies throughout Leesburg, with multi-crew deployment for events affecting multiple units.`,
   },
   faqs: [
     {

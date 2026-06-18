@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Safe, Thorough Sewage Cleanup for Leesburg Homes and Properties`,
     paragraphs: [
       `Sewage backups and septic system failures present serious health hazards that require immediate professional intervention. Leesburg properties face unique sewage challenges — many rural-adjacent homes along Old Waterford Road and Evergreen Mills rely on private septic systems that can fail during heavy rain or from age-related deterioration. Meanwhile, older downtown properties connected to Leesburg's municipal sewer system can experience backups from aging infrastructure and root intrusion.`,
-      `Flood Doctor provides emergency sewage cleanup with full hazmat protocols for every Leesburg neighborhood, from the Edwards Ferry corridor to the Lansdowne golf community. Our IICRC-certified crews treat all sewage situations as Category 3 (black water) contamination, ensuring complete decontamination and safe restoration of your property.`,
+      `Flood Doctor provides emergency sewage cleanup with full hazmat protocols for every Leesburg neighborhood, from the Edwards Ferry corridor to the Lansdowne golf community. Our trained crews treat all sewage situations as Category 3 (black water) contamination, ensuring thorough decontamination and safe restoration of your property.`,
     ],
     localContext: `Leesburg's mix of municipal sewer connections downtown and private septic systems in rural-adjacent areas creates two distinct categories of sewage emergency, each requiring different response protocols.`,
   },
@@ -18,12 +18,12 @@ export const content: CityServiceContent = {
     {
       title: `Emergency Hazmat Response`,
       description: `Call (877) 497-0007 for immediate dispatch. Our crews arrive in full PPE with containment equipment to isolate the contaminated area and prevent cross-contamination throughout your Leesburg property.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Contamination Assessment`,
       description: `We identify the sewage source — municipal backup, septic failure, or drain line blockage — and assess the extent of contamination across all affected materials and surfaces.`,
-      timeframe: `30-60 minutes`,
+      timeframe: `as soon as crews are available`,
     },
     {
       title: `Sewage Extraction & Removal`,
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `45-60 minutes for emergency sewage cleanup throughout Leesburg. Sewage events are prioritized due to health hazards.`,
+    responseTime: `as soon as crews are available for emergency sewage cleanup throughout Leesburg. Sewage events are prioritized due to health hazards.`,
   },
   faqs: [
     {

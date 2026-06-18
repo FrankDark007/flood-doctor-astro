@@ -36,7 +36,7 @@ Our contents team works alongside structural crews, coordinating timing so belon
     },
     {
       title: `Specialized Cleaning & Restoration`,
-      description: `Off-site items receive cleaning matched to the damage type and material. Water-damaged documents are freeze-dried. Smoke-damaged fabrics receive ultrasonic cleaning. Electronics are assessed and cleaned by certified technicians. Mold-contaminated items receive antimicrobial treatment.`,
+      description: `Off-site items receive cleaning matched to the damage type and material. Water-damaged documents are freeze-dried. Smoke-damaged fabrics receive ultrasonic cleaning. Electronics are assessed and cleaned by trained technicians. Mold-contaminated items receive antimicrobial treatment.`,
       timeframe: `Days 3-14`,
     },
     {
@@ -62,8 +62,8 @@ Our contents team works alongside structural crews, coordinating timing so belon
       solution: `We stage contents efficiently using our vehicles as temporary holding while clearing rooms for structural work. For extensive damage, full pack-out to our facility provides the space needed for both thorough cleaning and structural restoration access.`,
     },
     {
-      title: `Water-Damaged Electronics and Home Office Equipment`,
-      description: `Sterling homeowners increasingly have home offices with expensive electronics—computers, monitors, printers, and networking equipment. Water damage from burst pipes or flooding can destroy electronics, but many items are salvageable with immediate proper handling.`,
+      title: `Water-Damaged Electronics and Home Workspace Equipment`,
+      description: `Sterling homeowners increasingly have home workspaces with expensive electronics—computers, monitors, printers, and networking equipment. Water damage from burst pipes or flooding can destroy electronics, but many items are salvageable with immediate proper handling.`,
       solution: `Electronics receive priority handling—we disconnect, assess, and either clean on-site or transport to specialized electronics restoration. Quick action prevents corrosion from setting in. Our documentation captures model numbers and serial numbers for insurance replacement claims when restoration is not viable.`,
     },
     {

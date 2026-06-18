@@ -3,27 +3,27 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Flood Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Emergency commercial flood cleanup for Leesburg businesses. Downtown buildings, Village at Leesburg retail, office parks. 24/7 response. Call (877) 497-0007.`,
+    description: `Emergency commercial flood cleanup for Leesburg businesses. Downtown buildings, Village at Leesburg retail, workspace parks. 24/7 response. Call (877) 497-0007.`,
   },
   h1: `Leesburg Commercial Flood Cleanup`,
   introSection: {
     headline: `Emergency Commercial Flood Response for Leesburg Businesses`,
     paragraphs: [
-      `Commercial flooding in Leesburg disrupts businesses, damages inventory, and threatens livelihoods across the county seat. Whether Goose Creek overflow threatens downtown retail, a sprinkler malfunction floods a Village at Leesburg store, or a plumbing failure hits a Lansdowne office suite, commercial flood events demand immediate high-capacity response with minimal business disruption. Flood Doctor provides the crew depth and equipment capacity to handle commercial floods of any scale.`,
-      `Our commercial flood cleanup teams understand Leesburg's business landscape — the historic downtown corridor where shared-wall buildings mean one flood can affect multiple businesses, the modern retail centers where property management coordination is essential, and the professional office parks where data protection and business continuity are paramount concerns.`,
+      `Commercial flooding in Leesburg disrupts businesses, damages inventory, and threatens livelihoods across the county seat. Whether Goose Creek overflow threatens downtown retail, a sprinkler malfunction floods a Village at Leesburg store, or a plumbing failure hits a Lansdowne workspace suite, commercial flood events demand immediate high-capacity response with minimal business disruption. Flood Doctor provides the crew depth and equipment capacity to handle commercial floods of any scale.`,
+      `Our commercial flood cleanup teams understand Leesburg's business landscape — the historic downtown corridor where shared-wall buildings mean one flood can affect multiple businesses, the modern retail centers where property management coordination is essential, and the professional workspace parks where data protection and business continuity are paramount concerns.`,
     ],
-    localContext: `Leesburg's commercial properties span historic downtown buildings, modern retail centers like Leesburg Corner Premium Outlets, county government facilities, and a growing base of professional office and medical spaces.`,
+    localContext: `Leesburg's commercial properties span historic downtown buildings, modern retail centers like Leesburg Corner Premium Outlets, county government facilities, and a growing base of professional workspace and medical spaces.`,
   },
   processSteps: [
     {
       title: `Emergency Commercial Dispatch`,
       description: `Call (877) 497-0007 for immediate response. Commercial floods receive priority dispatch with multiple crews and high-capacity equipment deployed simultaneously.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Business Impact Assessment`,
       description: `We evaluate the flood scope, identify critical business assets at risk, and develop an extraction plan that prioritizes your most time-sensitive operations and inventory.`,
-      timeframe: `30-60 minutes`,
+      timeframe: `as soon as crews are available`,
     },
     {
       title: `High-Volume Water Extraction`,
@@ -59,13 +59,13 @@ export const content: CityServiceContent = {
     },
     {
       title: `Regulatory Compliance for Food Service`,
-      description: `Leesburg's restaurants and food service businesses face strict health department requirements for reopening after flood events, including facility sanitation certification and equipment decontamination.`,
+      description: `Leesburg's restaurants and food service businesses face strict health department requirements for reopening after flood events, including facility sanitation qualification and equipment decontamination.`,
       solution: `We follow food service facility restoration protocols and provide documentation that meets Loudoun County Health Department requirements for reopening. Our sanitation procedures are designed to satisfy health inspectors.`,
     },
   ],
   pricingSection: {
     headline: `Commercial Flood Cleanup Costs in Leesburg`,
-    intro: `Commercial flood cleanup costs depend on the property size, flood volume, contamination level, and business type. We provide rapid estimates and work with commercial insurance carriers for direct billing.`,
+    intro: `Commercial flood cleanup costs depend on the property size, flood volume, contamination level, and business type. We provide rapid estimates and work with commercial insurance carriers for carrier coordination.`,
     factors: [
       `Total affected commercial square footage`,
       `Flood volume and contamination category`,
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `30-45 minutes for commercial flood emergencies in Leesburg, with priority dispatch and multiple crew deployment for large-scale events.`,
+    responseTime: `as soon as crews are available for commercial flood emergencies in Leesburg, with priority dispatch and multiple crew deployment for large-scale events.`,
   },
   faqs: [
     {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Do you handle commercial insurance claims?`,
-      answer: `Yes. We work with all commercial insurance carriers, provide comprehensive damage documentation, and offer direct billing. We also document business interruption losses and inventory damage for your claim.`,
+      answer: `Yes. We work with all commercial insurance carriers, provide comprehensive damage documentation, and offer carrier coordination. We also document business interruption losses and inventory damage for your claim.`,
     },
     {
       question: `What about a flooded restaurant or food business?`,
@@ -118,7 +118,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How quickly can our business reopen after a flood?`,
-      answer: `Minor floods may allow partial reopening within 24-48 hours. Major floods typically require 1-3 weeks for complete restoration. We accelerate every phase and can provide expedited service when business continuity is critical.`,
+      answer: `Minor floods may allow partial reopening within 24-48 hours. Major floods typically require 1-3 weeks for full recovery planning. We accelerate every phase and can provide expedited service when business continuity is critical.`,
     },
   ],
   relatedBlogSlugs: [

@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Scientific Moisture Analysis for Leesburg Properties`,
     paragraphs: [
       `Accurate moisture assessment is the foundation of every successful restoration project — and the key to preventing restoration failures that lead to mold, structural damage, and costly callbacks. Leesburg's architectural diversity, spanning from 18th-century stone construction in the Historic District to modern building assemblies in Village at Leesburg, demands moisture mapping expertise that accounts for vastly different material behaviors. A moisture reading that indicates "dry" in modern drywall would indicate dangerously elevated levels in historic plaster.`,
-      `Flood Doctor provides IICRC-certified moisture mapping and consulting services that go beyond basic meter readings. We employ infrared thermography, psychrometric analysis, and material-specific moisture protocols to create comprehensive moisture profiles of Leesburg properties. Our consulting services support restoration planning, quality verification, insurance documentation, and real estate due diligence across the county seat.`,
+      `Flood Doctor provides trained moisture mapping and consulting services that go beyond basic meter readings. We employ infrared thermography, psychrometric analysis, and material-specific moisture protocols to create comprehensive moisture profiles of Leesburg properties. Our consulting services support restoration planning, quality verification, insurance documentation, and real estate due diligence across the county seat.`,
     ],
     localContext: `Leesburg's climate — humid summers, variable winters, and seasonal water table fluctuations near Goose Creek — creates persistent moisture challenges that require scientific analysis rather than visual inspection alone.`,
   },
@@ -105,7 +105,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `Same-day moisture mapping available for most Leesburg properties. Urgent assessments for active water damage available within 60 minutes.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {

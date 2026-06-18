@@ -9,8 +9,8 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Rapid Commercial Flood Response for Chantilly's Business Community`,
     paragraphs: [
-      `When flooding strikes a Chantilly commercial property, the scale of damage and urgency far exceeds residential situations. A burst fire suppression line at Westfields Business Park can flood multiple floors of office space. Storm drainage failures near Sully Plaza can inundate ground-floor retail. Plumbing failures in Dulles corridor buildings run undetected through weekends, flooding entire suites. Flood Doctor provides commercial-scale flood cleanup with equipment, crews, and expertise matched to the demands of Chantilly's business properties.`,
-      `Chantilly's commercial concentration along the Dulles corridor—from office parks to retail centers to technology facilities near Dulles International Airport—requires a restoration partner who understands business operations. We coordinate with property managers, work around business hours when possible, protect equipment and inventory, and restore commercial spaces with an urgency that reflects the cost of every hour of downtime. Our commercial crews have cleaned up floods at facilities throughout Chantilly, from small professional offices to large multi-tenant buildings adjacent to the Air and Space Museum Udvar-Hazy Center.`,
+      `When flooding strikes a Chantilly commercial property, the scale of damage and urgency far exceeds residential situations. A burst fire suppression line at Westfields Business Park can flood multiple floors of workspace space. Storm drainage failures near Sully Plaza can inundate ground-floor retail. Plumbing failures in Dulles corridor buildings run undetected through weekends, flooding entire suites. Flood Doctor provides commercial-scale flood cleanup with equipment, crews, and expertise matched to the demands of Chantilly's business properties.`,
+      `Chantilly's commercial concentration along the Dulles corridor—from workspace parks to retail centers to technology facilities near Dulles International Airport—requires a restoration partner who understands business operations. We coordinate with property managers, work around business hours when possible, protect equipment and inventory, and restore commercial spaces with an urgency that reflects the cost of every hour of downtime. `,
     ],
     localContext: `Chantilly's Dulles corridor commercial density means flood events can affect multiple businesses simultaneously, requiring a restoration partner with multi-crew capacity and commercial property management experience.`,
   },
@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: 'Emergency Commercial Dispatch',
       description: `Call (877) 497-0007 for immediate commercial flood response. We deploy crews with commercial-scale extraction equipment, coordinating with building management for rapid access to your Chantilly property.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Flood Scope & Business Impact Assessment',
@@ -48,14 +48,14 @@ export const content: CityServiceContent = {
   ],
   localChallenges: [
     {
-      title: 'Multi-Floor Office Building Floods',
-      description: `Westfields Business Park and other Chantilly office complexes feature multi-story buildings where upper-floor floods cascade through ceiling plenums and elevator shafts to affect every floor below—multiplying the affected area and the number of displaced tenants.`,
+      title: 'Multi-Floor Workspace Building Floods',
+      description: `Westfields Business Park and other Chantilly workspace complexes feature multi-story buildings where upper-floor floods cascade through ceiling plenums and elevator shafts to affect every floor below—multiplying the affected area and the number of displaced tenants.`,
       solution: `We deploy crews to every affected floor simultaneously, prioritizing water containment on upper floors to stop cascading damage. Coordination with building management ensures access across all affected suites.`,
     },
     {
       title: 'Weekend and Holiday Flood Discovery',
       description: `Chantilly commercial properties may sit vacant over weekends and holidays. Pipe bursts, HVAC failures, and plumbing leaks that occur during these periods run for hours or days before discovery, causing extensive damage.`,
-      solution: `Our 24/7 emergency response means we arrive within 30 minutes regardless of when the flood is discovered. Early Sunday morning or late holiday—our commercial crews are available for Chantilly businesses.`,
+      solution: `Our 24/7 emergency response means we arrive as soon as crews are available regardless of when the flood is discovered. Early Sunday morning or late holiday—our commercial crews are available for Chantilly businesses.`,
     },
     {
       title: 'Retail Space Customer Impact',
@@ -98,12 +98,12 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute commercial flood response throughout Chantilly. Westfields Business Park, Sully Plaza, and Dulles corridor commercial properties receive priority routing.`,
+    responseTime: `rapid commercial flood response throughout Chantilly. Westfields Business Park, Sully Plaza, and Dulles corridor commercial properties receive priority routing.`,
   },
   faqs: [
     {
-      question: `Can you handle a flood in a large Chantilly office building?`,
-      answer: `Yes. We deploy multiple crews and commercial-scale equipment for large facility floods. We have restored multi-floor office buildings at Westfields Business Park and similar Chantilly commercial properties.`,
+      question: `Can you handle a flood in a large Chantilly workspace building?`,
+      answer: `Yes. We deploy multiple crews and commercial-scale equipment for large facility floods. `,
     },
     {
       question: `Our business needs to reopen quickly—can you accelerate the timeline?`,
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Commercial Flood Emergency in Chantilly?',
-    paragraph: `Every hour of commercial downtime costs your business money. Our commercial flood crews respond within 30 minutes to Westfields, Sully Plaza, and all Dulles corridor locations with commercial-scale equipment. Call (877) 497-0007 now.`,
+    paragraph: `Every hour of commercial downtime costs your business money. Our commercial flood crews respond as soon as crews are available to Westfields, Sully Plaza, and all Dulles corridor locations with commercial-scale equipment. Call (877) 497-0007 now.`,
   },
 }

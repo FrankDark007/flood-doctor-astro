@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Springfield, VA | Flood Doctor',
-    description: 'Springfield basement flooding experts. 30-min response for split-level lower levels, finished basements & family rooms. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
+    description: 'Springfield basement flooding specialists. rapid response for split-level lower levels, finished basements & family rooms. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in Springfield, Virginia',
   introSection: {
@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       `A West Springfield split-level owner's sump pump burns out at 3 AM during an October nor'easter. By sunrise, an inch of standing water covers 600 square feet of finished family room. But the open stairwell has already wicked moisture up the carpeted treads to the mid-level landing, saturating the hardwood one flight up. The split-level design that makes these homes livable has turned a single-level flood into a multi-story water event.
 
 This is the defining reality of basement flooding in Springfield. The split-level and raised-ranch homes built across West Springfield, Rolling Valley, Newington, and Orange Hunt in the 1960s–70s don't have isolated basements. They have interconnected levels where water travels vertically through stairwells, utility chases, and HVAC penetrations. A colonial's basement flood stays below grade. A Springfield split-level flood migrates.`,
-      `Flood Doctor has responded to hundreds of split-level flooding emergencies across Springfield over nearly two decades. We know the lowest level isn't an afterthought — it's the family room, the daily gathering space. We also know that extracting only the lowest level fails when moisture has already traveled upward through the stairwell into wall cavities between floors. Our teams arrive within 30 minutes and map the full vertical extent of water migration before placing a single piece of equipment.`,
+      `We know the lowest level isn't an afterthought — it's the family room, the daily gathering space. We also know that extracting only the lowest level fails when moisture has already traveled upward through the stairwell into wall cavities between floors. Our teams arrive as soon as crews are available and map the full vertical extent of water migration before placing a single piece of equipment.`,
     ],
     localContext: `Springfield's housing stock is dominated by split-level and raised-ranch construction from the 1960s and 1970s. These multi-level floor plans create vertical water migration paths — through open stairwells, utility penetrations, and HVAC chases — that turn a lowest-level flood into a multi-story restoration project. The homes are 50-60 years old, the infrastructure is original, and the basements are finished living spaces, not storage.`,
   },
@@ -91,12 +91,12 @@ This is the defining reality of basement flooding in Springfield. The split-leve
       'Springfield Town Center area',
       'Backlick Road corridor',
     ],
-    responseTime: '30-minute emergency response to all Springfield neighborhoods — our crews are positioned throughout the I-95 and Fairfax County Parkway corridors, carrying thermal imaging, hazmat screening kits, and stairwell extraction tools on every truck.',
+    responseTime: 'rapid emergency response to all Springfield neighborhoods — our crews are positioned throughout the I-95 and Fairfax County Parkway corridors, carrying thermal imaging, hazmat screening kits, and stairwell extraction tools on every truck.',
   },
   faqs: [
     {
       question: 'Water is on my lowest level but also wicking up the stairwell carpet — how far will it spread?',
-      answer: `In a Springfield split-level with continuous carpet, moisture wicks upward as long as there's an unbroken path of absorbent material — we've seen it reach mid-level landings and beyond. Nylon carpet with rebond padding wicks faster than olefin on felt. Assume any carpeted surface connected to the flooded level is compromised until moisture readings prove otherwise. Call (877) 497-0007 immediately — the sooner we extract water from stairwell treads, the less vertical migration occurs.`,
+      answer: `In a Springfield split-level with continuous carpet, moisture wicks upward as long as there's an unbroken path of absorbent material — it can reach mid-level landings and beyond. Nylon carpet with rebond padding wicks faster than olefin on felt. Assume any carpeted surface connected to the flooded level is compromised until moisture readings prove otherwise. Call (877) 497-0007 immediately — the sooner we extract water from stairwell treads, the less vertical migration occurs.`,
     },
     {
       question: 'My split-level has asbestos floor tiles in the basement — can you still do restoration?',
@@ -122,6 +122,6 @@ This is the defining reality of basement flooding in Springfield. The split-leve
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],
   finalCTA: {
     headline: `Split-Level Flooding in Springfield? It Won't Stay on One Level.`,
-    paragraph: `Springfield's split-level homes turn basement floods into multi-level water events. We respond in 30 minutes, map every level, screen for hazardous materials, and dry the home from top to bottom.`,
+    paragraph: `Springfield's split-level homes turn basement floods into multi-level water events. We respond in as soon as crews are available, map every level, screen for hazardous materials, and dry the home from top to bottom.`,
   },
 }

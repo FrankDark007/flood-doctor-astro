@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Falls Church, VA | Flood Doctor',
-    description: `Falls Church moisture mapping specialists. Infrared thermography for historic bungalows, Lake Barcroft waterfront homes & apartment buildings. IICRC-certified. Call (877) 497-0007.`,
+    description: `Falls Church moisture mapping specialists. Infrared thermography for historic bungalows, Lake Barcroft waterfront homes & apartment buildings. trained. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Falls Church, Virginia',
   introSection: {
     headline: `Precision Moisture Assessment for Falls Church Historic and Waterfront Properties`,
     paragraphs: [
       `Falls Church presents a concentrated mix of moisture mapping challenges—1920s-60s bungalows and colonials in Falls Church City with aging plumbing infrastructure and original foundation waterproofing, Lake Barcroft waterfront homes subject to elevated water tables and shoreline moisture dynamics, and dense apartment complexes near Seven Corners where multi-unit water events require systematic damage delineation across dozens of affected units. Flood Doctor provides FLIR infrared thermography, NIST-calibrated moisture meters, and psychrometric analysis adapted to the distinct building types and moisture environments that define this compact community.`,
-      `Our consulting team has mapped moisture patterns through 1950s plaster-and-lath construction in Pimmit Hills, documented waterfront foundation moisture in Lake Barcroft lakefront residences where wave action and seasonal water level fluctuations create persistent hydrostatic conditions, and coordinated multi-unit moisture assessments in Baileys Crossroads apartment complexes affecting 15 or more units from a single pipe failure. Falls Church properties demand moisture consultants who can transition between historic building science—interpreting moisture behavior in lime plaster over masonry—and modern multi-unit assessment protocols within the same service area. Our IICRC S500-compliant documentation serves the State Theatre-district homeowner preserving a vintage bungalow and the apartment property manager documenting a building-wide water event with equal scientific rigor.`,
+      `Our consulting team has mapped moisture patterns through 1950s plaster-and-lath construction in Pimmit Hills, documented waterfront foundation moisture in Lake Barcroft lakefront residences where wave action and seasonal water level fluctuations create persistent hydrostatic conditions, and coordinated multi-unit moisture assessments in Baileys Crossroads apartment complexes affecting 15 or more units from a single pipe failure. Falls Church properties demand moisture consultants who can transition between historic building science—interpreting moisture behavior in lime plaster over masonry—and modern multi-unit assessment protocols within the same service area. Our industry-standard S500-compliant documentation serves the State Theatre-district homeowner preserving a vintage bungalow and the apartment property manager documenting a building-wide water event with equal scientific rigor.`,
     ],
     localContext: `Falls Church concentrates historic residential construction, lakefront waterfront properties, and high-density apartment buildings within a compact geography, requiring versatile moisture assessment expertise across dramatically different building types.`,
   },
@@ -59,7 +59,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Older Sewer Lateral Collapse Contamination',
-      description: `Falls Church homes on original sewer laterals experience pipe collapse or root intrusion that causes sewage backup into basements. Category 3 contamination in porous building materials—plaster, wood, carpet—requires specific identification and documentation because IICRC standards mandate different remediation protocols for contaminated versus clean water damage.`,
+      description: `Falls Church homes on original sewer laterals experience pipe collapse or root intrusion that causes sewage backup into basements. Category 3 contamination in porous building materials—plaster, wood, carpet—requires specific identification and documentation because industry-standard standards mandate different remediation protocols for contaminated versus clean water damage.`,
       solution: `Our assessment includes water classification testing alongside moisture mapping. We document which materials contacted Category 3 water and which were affected by clean moisture migration from the same event. This classification directly determines whether materials can be decontaminated or must be removed, affecting both restoration scope and insurance coverage.`,
     },
   ],
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       'Greenway Downs',
       'Falls Hill',
     ],
-    responseTime: `Same-day moisture assessment throughout Falls Church. Emergency multi-unit response within 90 minutes for apartment building water events. Call (877) 497-0007.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -151,7 +151,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Do you provide expert reports for Falls Church property disputes?',
-      answer: `Yes. Our IICRC-certified consultants provide objective moisture documentation for property disputes including neighbor-to-neighbor damage claims, landlord-tenant disagreements, and insurance coverage disputes. Our calibrated data and professional narrative meet evidentiary standards for Virginia courts and arbitration.`,
+      answer: `Yes. Our trained consultants provide objective moisture documentation for property disputes including neighbor-to-neighbor damage claims, landlord-tenant disagreements, and insurance coverage disputes. Our calibrated data and professional narrative meet evidentiary standards for Virginia courts and arbitration.`,
     },
   ],
   relatedBlogSlugs: [

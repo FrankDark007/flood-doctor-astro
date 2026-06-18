@@ -125,7 +125,7 @@ Our technicians deploy hydroxyl generators for safe occupied-space treatment, th
       'Greenway Downs',
       'Glen Forest',
     ],
-    responseTime: '30-minute emergency response throughout Falls Church. Non-emergency assessments within 24-48 hours.',
+    responseTime: 'rapid emergency response throughout Falls Church. Non-emergency assessments within 24-48 hours.',
   },
   faqs: [
     {

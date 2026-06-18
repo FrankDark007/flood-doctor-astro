@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Springfield families fill their homes with the belongings of established community life — decades of family photographs stored in West Springfield split-level basements, military memorabilia and deployment keepsakes in Franconia colonials near Fort Belvoir, children school projects accumulating in Rolling Valley rec rooms, and the everyday essentials a household needs to function. When basement flooding from a sump pump failure, sewer backup, or foundation seepage damages these belongings, the loss disrupts everything your family relies on.
 
-Flood Doctor's contents team has restored personal property from Springfield homes across every neighborhood — freeze-drying water-saturated military records and family documents from Franconia basements, cleaning smoke-damaged kitchenware from West Springfield split-levels after cooking fires, and packing out Kingstowne townhomes while structural drying addressed shared-wall water damage. We serve military families with the straightforward efficiency they appreciate and treat every family belonging as worth saving.`,
+Flood Doctor's contents team has restored personal property from Springfield homes across neighborhoods across the service area — freeze-drying water-saturated military records and family documents from Franconia basements, cleaning smoke-damaged kitchenware from West Springfield split-levels after cooking fires, and packing out Kingstowne townhomes while structural drying addressed shared-wall water damage. We serve military families with the straightforward efficiency they appreciate and treat every family belonging as worth saving.`,
       `Our contents process moves fast because time determines what can be saved. Documents and photographs must be frozen within 48 hours. Electronics corrode hourly. Mold colonizes damp fabric within days. Our triage team stabilizes time-sensitive items immediately, then proceeds with the systematic pack-out that inventories everything in your Springfield home for insurance documentation.
 
 Every item is photographed, catalogued, and barcoded. For military families processing claims through USAA, Geico Military, or other military-affiliated carriers, our documentation format meets their specific requirements. For civilian Springfield families, we provide the standard detailed inventory that all adjusters need. You track your belongings through our online portal — knowing exactly where each item is and when it returns home.`,
@@ -21,7 +21,7 @@ Every item is photographed, catalogued, and barcoded. For military families proc
   processSteps: [
     {
       title: 'Immediate Priority Triage',
-      description: `Within 30 minutes of calling (877) 497-0007, we identify and stabilize time-sensitive items. Documents and military records are bagged for freezing. Electronics from the West Springfield rec room are secured. Family photographs from the Franconia basement storage closet receive emergency handling.`,
+      description: `After you call (877) 497-0007, we identify and stabilize time-sensitive items. Documents and military records are bagged for freezing. Electronics from the West Springfield rec room are secured. Family photographs from the Franconia basement storage closet receive emergency handling.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -123,7 +123,7 @@ Every item is photographed, catalogued, and barcoded. For military families proc
       'Ravensworth',
       'Kings Park West',
     ],
-    responseTime: '30-minute emergency response for priority item stabilization throughout Springfield. Pack-out scheduling respects military family timelines and deployment schedules.',
+    responseTime: 'rapid emergency response for priority item stabilization throughout Springfield. Pack-out scheduling respects military family timelines and deployment schedules.',
   },
   faqs: [
     {
@@ -136,11 +136,11 @@ Every item is photographed, catalogued, and barcoded. For military families proc
     },
     {
       question: 'Do you work with USAA and military insurance?',
-      answer: 'Yes. We understand USAA claims processes and military-affiliated insurance requirements. Our documentation formats meet their specifications. We handle direct billing and coordinate claims communication efficiently.',
+      answer: 'Yes. We understand USAA claims processes and military-affiliated insurance requirements. Our documentation formats meet their specifications. We handle carrier coordination and coordinate claims communication efficiently.',
     },
     {
       question: 'How fast can you get to my Springfield home?',
-      answer: 'Within 30 minutes. Our crews are positioned along the I-95 corridor near Franconia-Springfield. Time-sensitive items — documents, photos, electronics — receive immediate triage upon arrival.',
+      answer: 'As soon as crews are available. Our crews are positioned along the I-95 corridor near Franconia-Springfield. Time-sensitive items — documents, photos, electronics — receive immediate triage upon arrival.',
     },
     {
       question: 'Can I get military uniforms and work items back quickly?',
@@ -148,7 +148,7 @@ Every item is photographed, catalogued, and barcoded. For military families proc
     },
     {
       question: 'Does insurance cover contents restoration?',
-      answer: 'Yes. Contents restoration is a standard covered expense following covered loss events. Insurance prefers restoration over replacement because it costs less. We handle all documentation and direct billing.',
+      answer: 'Yes. Contents restoration is a standard covered expense following covered loss events. Insurance prefers restoration over replacement because it costs less. We handle all documentation and carrier coordination.',
     },
   ],
   relatedBlogSlugs: [
@@ -157,6 +157,6 @@ Every item is photographed, catalogued, and barcoded. For military families proc
   ],
   finalCTA: {
     headline: 'Family Belongings at Risk in Springfield?',
-    paragraph: 'Every hour of water exposure threatens documents, photographs, electronics, and irreplaceable memories. Our Springfield contents team responds within 30 minutes with military-family efficiency. Call (877) 497-0007 now.',
+    paragraph: 'Every hour of water exposure threatens documents, photographs, electronics, and irreplaceable memories. Our Springfield contents team responds as soon as crews are available with military-family efficiency. Call (877) 497-0007 now.',
   },
 }

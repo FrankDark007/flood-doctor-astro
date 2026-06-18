@@ -23,7 +23,7 @@ export const content: CityServiceContent = {
     {
       title: `Source Identification & Isolation`,
       description: `We locate the burst pipe and ensure the water supply is fully isolated. In historic Leesburg homes with complex, modified plumbing systems, this may require tracing pipes through walls and crawl spaces.`,
-      timeframe: `15-30 minutes`,
+      timeframe: `15-as soon as crews are available`,
     },
     {
       title: `Water Extraction`,
@@ -105,7 +105,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `45-60 minutes to all Leesburg neighborhoods, with emergency priority for active pipe bursts and ongoing water flow situations.`,
+    responseTime: `as soon as crews are available to all Leesburg neighborhoods, with emergency priority for active pipe bursts and ongoing water flow situations.`,
   },
   faqs: [
     {

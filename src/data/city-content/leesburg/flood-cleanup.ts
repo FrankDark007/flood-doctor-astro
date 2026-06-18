@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Rapid Flood Cleanup for Leesburg's Most Vulnerable Properties`,
     paragraphs: [
       `Leesburg's location along Goose Creek and its tributaries makes many neighborhoods susceptible to flooding during spring storms and heavy rainfall events. From the low-lying areas near Edwards Ferry to the newer developments around Sycolin Creek, flood events can overwhelm properties quickly. Flood Doctor provides emergency flood cleanup with the speed and expertise that Leesburg homeowners need to minimize damage and begin recovery immediately.`,
-      `Our IICRC-certified flood cleanup crews understand the unique challenges of Leesburg's diverse housing stock. Historic downtown properties with stone foundations require fundamentally different flood response than modern construction in Village at Leesburg or luxury estates in Lansdowne. We bring the right equipment and techniques for every property type, every time.`,
+      `Our trained flood cleanup crews understand the unique challenges of Leesburg's diverse housing stock. Historic downtown properties with stone foundations require fundamentally different flood response than modern construction in Village at Leesburg or luxury estates in Lansdowne. We bring the right equipment and techniques for every property type, every time.`,
     ],
     localContext: `Spring flooding along Goose Creek and its tributaries regularly impacts Leesburg properties, particularly those in low-lying areas near waterways and in neighborhoods with older stormwater infrastructure.`,
   },
@@ -23,7 +23,7 @@ export const content: CityServiceContent = {
     {
       title: `Flood Water Classification`,
       description: `We assess whether flooding involves clean water, gray water, or contaminated black water — critical for Leesburg properties near Goose Creek or those with well and septic systems in rural-adjacent areas.`,
-      timeframe: `15-30 minutes`,
+      timeframe: `15-as soon as crews are available`,
     },
     {
       title: `Rapid Water Extraction`,
@@ -37,7 +37,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Structural Drying`,
-      description: `Commercial dehumidifiers and air movers are positioned throughout the property. We monitor moisture levels in walls, floors, and substructures daily until all readings confirm complete drying.`,
+      description: `Commercial dehumidifiers and air movers are positioned throughout the property. We monitor moisture levels in walls, floors, and substructures daily until all readings confirm documented drying.`,
       timeframe: `3-7 days`,
     },
     {
@@ -65,7 +65,7 @@ export const content: CityServiceContent = {
     {
       title: `Septic System Flood Contamination`,
       description: `Rural-adjacent Leesburg properties relying on septic systems face Category 3 contamination when floodwaters infiltrate or overwhelm septic fields, creating hazardous conditions requiring specialized cleanup.`,
-      solution: `Our hazmat-certified crews handle sewage-contaminated flood cleanup with full PPE, antimicrobial treatment, and proper disposal protocols that meet Virginia Department of Health requirements.`,
+      solution: `Our hazmat-trained crews handle sewage-contaminated flood cleanup with full PPE, antimicrobial treatment, and proper disposal protocols that meet Virginia Department of Health requirements.`,
     },
   ],
   equipmentSection: {
@@ -111,12 +111,12 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `30-60 minutes for emergency flood response throughout Leesburg, with priority dispatch for active flooding and rising water situations.`,
+    responseTime: `as soon as crews are available for emergency flood response throughout Leesburg, with priority dispatch for active flooding and rising water situations.`,
   },
   faqs: [
     {
       question: `What should I do first when my Leesburg home floods?`,
-      answer: `Ensure safety first — turn off electricity if water is near outlets, then call (877) 497-0007 immediately. Do not walk through standing floodwater, as it may be contaminated or hide hazards. Our crews can be at your Leesburg property within 30-60 minutes.`,
+      answer: `Ensure safety first — turn off electricity if water is near outlets, then call (877) 497-0007 immediately. Do not walk through standing floodwater, as it may be contaminated or hide hazards. Our crews can be at your Leesburg property as soon as crews are available.`,
     },
     {
       question: `Is Goose Creek flooding covered by homeowner insurance?`,
@@ -136,7 +136,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `What if floodwater has mixed with my septic system?`,
-      answer: `Septic-contaminated floodwater is Category 3 (black water) and requires hazmat-level cleanup. Our certified crews handle this with full protective equipment, antimicrobial treatment, and proper waste disposal in compliance with Virginia health regulations.`,
+      answer: `Septic-contaminated floodwater is Category 3 (black water) and requires hazmat-level cleanup. Our trained crews handle this with full protective equipment, antimicrobial treatment, and proper waste disposal in compliance with Virginia health regulations.`,
     },
   ],
   relatedBlogSlugs: [

@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Springfield, VA | Flood Doctor',
-    description: 'Springfield sewage backup cleanup. Biohazard-certified crews for sewer overflow, drain backups & contaminated water. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
+    description: 'Springfield sewage backup cleanup. Biohazard-trained crews for sewer overflow, drain backups & contaminated water. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in Springfield, Virginia',
   introSection: {
     headline: 'Professional Sewage Cleanup for Springfield Properties',
     paragraphs: [
-      `At two in the morning, the ejector pump in your split-level's lower half-bathroom seizes. The float switch sticks, raw sewage fills the ejector pit until it overflows, and gravity takes over — cascading down the half-flight stairwell into the garage level, soaking carpet fibers on every step. By the time you smell the odor, contaminated water has spread across two levels. This is the signature sewage emergency in Springfield, driven by split-level architecture that turns every backup into a multi-floor disaster and Orangeburg sewer laterals installed in the 1960s that have been collapsing underground for six decades. West Springfield, Kingstowne, Franconia, Newington, Rolling Valley, Saratoga — Flood Doctor has responded across every Springfield neighborhood, and the pattern is consistent: ejector failure or lateral collapse, followed by gravity-driven contamination spread through the stairwell system.`,
+      `At two in the morning, the ejector pump in your split-level's lower half-bathroom seizes. The float switch sticks, raw sewage fills the ejector pit until it overflows, and gravity takes over — cascading down the half-flight stairwell into the garage level, soaking carpet fibers on every step. By the time you smell the odor, contaminated water has spread across two levels. This is the signature sewage emergency in Springfield, driven by split-level architecture that turns every backup into a multi-floor disaster and Orangeburg sewer laterals installed in the 1960s that have been collapsing underground for six decades. West Springfield, Kingstowne, Franconia, Newington, Rolling Valley, Saratoga — `,
       `Springfield's split-level homes create contamination dynamics flat-basement communities never experience. The half-flight stairwell funnels contaminated water downward while splash and capillary action carry it upward through carpet fibers and wall cavities toward the main living level. A single ejector pump failure can contaminate three distinct levels. Layer on the Accotink Creek watershed factor: during heavy rain, creek surcharge backpressures the sanitary sewer, pushing sewage up through floor drains in Rolling Valley, Orange Hunt, and the Lake Accotink corridor. When an Orangeburg lateral collapses — and after sixty years, they all eventually do — every flush backs into the house. Springfield faces a convergence of sewage risks no other Northern Virginia community shares.`,
     ],
     localContext: 'Split-level architecture and Orangeburg lateral infrastructure.',
@@ -18,12 +18,12 @@ export const content: CityServiceContent = {
     {
       title: 'Split-Level Triage & Multi-Floor Assessment',
       description: 'Our first action is determining which levels are contaminated — the lower half-level, stairwell transition, garage or utility level, and main living level above where sewage may have wicked through shared wall cavities. Crews staged near the Springfield Interchange leverage I-95 and I-495 access to reach any neighborhood within minutes, arriving with thermal imaging to trace contamination pathways through the stairwell system.',
-      timeframe: '30-minute response',
+      timeframe: 'rapid response',
     },
     {
       title: 'Multi-Level Containment at Stairwell Transitions',
       description: 'We install containment barriers at each stairwell transition point. HVAC returns on contaminated levels are sealed immediately to prevent aerosolized sewage distribution throughout the home. Each half-level becomes an isolated containment zone with dedicated negative air pressure.',
-      timeframe: 'First 30 minutes on-site',
+      timeframe: 'Initial on-site assessment',
     },
     {
       title: 'Ejector Pit Assessment & Root Cause Diagnosis',
@@ -109,6 +109,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['first-24-hours-after-water-damage', 'water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: 'Sewage Emergency in Springfield?',
-    paragraph: `Springfield's split-level homes turn every sewage backup into a multi-level contamination event. Ejector failures cascade through stairwells. Orangeburg laterals collapse without warning. Accotink Creek storms backpressure the entire sanitary system. Our biohazard-certified crews specialize in level-by-level containment, stairwell extraction, and sub-slab treatment protocols that Springfield's unique housing stock demands.`,
+    paragraph: `Springfield's split-level homes turn every sewage backup into a multi-level contamination event. Ejector failures cascade through stairwells. Orangeburg laterals collapse without warning. Accotink Creek storms backpressure the entire sanitary system. Our biohazard-trained crews specialize in level-by-level containment, stairwell extraction, and sub-slab treatment protocols that Springfield's unique housing stock demands.`,
   },
 }

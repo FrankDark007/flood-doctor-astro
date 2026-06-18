@@ -9,9 +9,9 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Specialized Restoration for Springfield's I-95 Corridor Industrial Properties`,
     paragraphs: [
-      `Springfield's position at the intersection of I-95, the Franconia-Springfield Parkway, and the Beltway makes it a logistics and light industrial hub for Northern Virginia. Warehouses and distribution centers along Backlick Road, government contractor facilities near Fort Belvoir, and light manufacturing operations throughout Newington and Franconia depend on rapid restoration when water damage threatens operations. A roof leak in a Kingstowne-area commercial warehouse damages palletized inventory and disrupts regional distribution schedules. A pipe burst in a Newington government contractor facility floods office and equipment areas housing sensitive materials.
+      `Springfield's position at the intersection of I-95, the Franconia-Springfield Parkway, and the Beltway makes it a logistics and light industrial hub for Northern Virginia. Warehouses and distribution centers along Backlick Road, government contractor facilities near Fort Belvoir, and light manufacturing operations throughout Newington and Franconia depend on rapid restoration when water damage threatens operations. A roof leak in a Kingstowne-area commercial warehouse damages palletized inventory and disrupts regional distribution schedules. A pipe burst in a Newington government contractor facility floods workspace and equipment areas housing sensitive materials.
 
-Flood Doctor provides industrial-grade restoration services throughout Springfield, combining HAZWOPER-certified crews with the practical efficiency this working corridor demands. Our technicians understand both the operational urgency of I-95 corridor logistics facilities and the compliance requirements of government contractor operations near Fort Belvoir. When water threatens your Springfield industrial operation, we deliver technical capability calibrated to your facility type and operational requirements.`,
+Flood Doctor provides industrial-grade restoration services throughout Springfield, combining HAZWOPER-trained crews with the practical efficiency this working corridor demands. Our technicians understand both the operational urgency of I-95 corridor logistics facilities and the compliance requirements of government contractor operations near Fort Belvoir. When water threatens your Springfield industrial operation, we deliver technical capability calibrated to your facility type and operational requirements.`,
       `Industrial water damage in Springfield follows the corridor's infrastructure patterns. Aging commercial buildings along Backlick Road and Springfield Boulevard feature older roofing, plumbing, and mechanical systems prone to failure. Government contractor facilities may house sensitive equipment requiring controlled restoration procedures. Warehouses serving the I-95 distribution network store inventory whose damage ripples through supply chains across the region.
 
 Our industrial restoration approach addresses both physical damage and operational continuity. We prioritize production-critical equipment with immediate protection, coordinate with facility management for after-hours access, and provide documentation supporting business interruption claims, government contract compliance, and supply chain delay notifications. Springfield's industrial operators need restoration that understands practical budget constraints while delivering the technical thoroughness that protects equipment and inventory throughout West Springfield, Franconia, and the Rolling Valley industrial areas.`,
@@ -22,11 +22,11 @@ Our industrial restoration approach addresses both physical damage and operation
     {
       title: `Emergency Response and Facility Coordination`,
       description: `Call (877) 497-0007 for immediate industrial response. For government contractor facilities, we coordinate with security protocols. For warehouses and distribution centers, we prioritize inventory protection. Our crews arrive with industrial extraction equipment and anti-corrosion treatment materials.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Facility Assessment and Hazard Identification`,
-      description: `Our HAZWOPER-certified technicians assess damage scope while identifying electrical hazards, hazardous materials, and equipment at risk. For Springfield's older industrial buildings, we evaluate aging infrastructure conditions that may affect restoration approach and timeline.`,
+      description: `Our HAZWOPER-trained technicians assess damage scope while identifying electrical hazards, hazardous materials, and equipment at risk. For Springfield's older industrial buildings, we evaluate aging infrastructure conditions that may affect restoration approach and timeline.`,
       timeframe: `Hours 1-3`,
     },
     {
@@ -36,7 +36,7 @@ Our industrial restoration approach addresses both physical damage and operation
     },
     {
       title: `Industrial Water Extraction`,
-      description: `Truck-mounted extraction systems remove standing water from warehouse bays, manufacturing floors, and office areas. For facilities with specialty flooring—chemical-resistant, anti-static, or sealed concrete—we use extraction methods that preserve floor system integrity.`,
+      description: `Truck-mounted extraction systems remove standing water from warehouse bays, manufacturing floors, and workspace areas. For facilities with specialty flooring—chemical-resistant, anti-static, or sealed concrete—we use extraction methods that preserve floor system integrity.`,
       timeframe: `Hours 4-12`,
     },
     {
@@ -138,12 +138,12 @@ Our industrial restoration approach addresses both physical damage and operation
       `Loisdale Road`,
       `Industrial Drive`,
     ],
-    responseTime: `45-minute emergency response to all Springfield industrial and commercial facilities. Our crews carry industrial extraction equipment and anti-corrosion treatment for immediate equipment protection upon arrival.`,
+    responseTime: `prompt emergency response to all Springfield industrial and commercial facilities. Our crews carry industrial extraction equipment and anti-corrosion treatment for immediate equipment protection upon arrival.`,
   },
   faqs: [
     {
       question: `How quickly can you respond to a Springfield warehouse emergency?`,
-      answer: `We guarantee 45-minute response to Springfield industrial and commercial facilities. Our crews arrive with truck-mounted extraction, anti-corrosion treatment, and inventory protection materials. We coordinate access with facility management during dispatch for immediate entry.`,
+      answer: `We service commitment prompt response to Springfield industrial and commercial facilities. Our crews arrive with truck-mounted extraction, anti-corrosion treatment, and inventory protection materials. We coordinate access with facility management during dispatch for immediate entry.`,
     },
     {
       question: `Can you handle government contractor facility restoration?`,
@@ -167,7 +167,7 @@ Our industrial restoration approach addresses both physical damage and operation
     },
     {
       question: `What about hazardous materials in industrial facilities?`,
-      answer: `Our HAZWOPER-certified technicians assess and manage hazardous materials encountered during restoration. We maintain proper waste characterization, manifesting, and disposal documentation for EPA and Virginia DEQ compliance, coordinating with your facility safety team for chemical storage areas.`,
+      answer: `Our HAZWOPER-trained technicians assess and manage hazardous materials encountered during restoration. We maintain proper waste characterization, manifesting, and disposal documentation for EPA and Virginia DEQ compliance, coordinating with your facility safety team for chemical storage areas.`,
     },
   ],
   relatedBlogSlugs: [
@@ -175,6 +175,6 @@ Our industrial restoration approach addresses both physical damage and operation
   ],
   finalCTA: {
     headline: `Industrial or Commercial Emergency in Springfield?`,
-    paragraph: `Equipment damage and operational downtime compound by the hour. Our HAZWOPER-certified crews respond to Springfield industrial and commercial facilities within 45 minutes with industrial extraction equipment and anti-corrosion treatment. Call (877) 497-0007 now.`,
+    paragraph: `Equipment damage and operational downtime compound by the hour. Our HAZWOPER-trained crews respond to Springfield industrial and commercial facilities as soon as crews are available with industrial extraction equipment and anti-corrosion treatment. Call (877) 497-0007 now.`,
   },
 }

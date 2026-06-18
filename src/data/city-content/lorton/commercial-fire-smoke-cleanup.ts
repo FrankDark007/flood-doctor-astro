@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Lorton, VA | Flood Doctor`,
-    description: `Lorton's trusted commercial fire and smoke restoration team. Emergency response for Laurel Hill businesses, Occoquan waterfront properties, and South County commercial facilities. Call (877) 497-0007.`,
+    description: `Lorton's local commercial fire and smoke restoration team. Emergency response for Laurel Hill businesses, Occoquan waterfront properties, and South County commercial facilities. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Lorton, Virginia`,
   introSection: {
     headline: `Fire Restoration for Lorton's Growing Commercial Community`,
     paragraphs: [
-      `Commercial fire damage in Lorton impacts a growing corridor of businesses from Occoquan waterfront restaurants to Laurel Hill retail centers and South County industrial operations. An electrical fire at a Lorton VRE station-area office complex triggers sprinklers that flood multiple suites while smoke infiltrates shared HVAC systems. A kitchen fire at an Occoquan waterfront restaurant sends smoke through historic shared-wall construction to contaminate neighboring shops. A mechanical failure at a Gunston commercial facility ignites materials that produce toxic smoke requiring HAZWOPER-certified cleanup. Each Lorton commercial fire scenario demands restoration calibrated to the specific property type—from charming waterfront buildings to modern Laurel Hill commercial construction. Flood Doctor provides integrated fire restoration spanning the full range of Lorton commercial properties.`,
+      `Commercial fire damage in Lorton impacts a growing corridor of businesses from Occoquan waterfront restaurants to Laurel Hill retail centers and South County industrial operations. An electrical fire at a Lorton VRE station-area workspace complex triggers sprinklers that flood multiple suites while smoke infiltrates shared HVAC systems. A kitchen fire at an Occoquan waterfront restaurant sends smoke through historic shared-wall construction to contaminate neighboring shops. A mechanical failure at a Gunston commercial facility ignites materials that produce toxic smoke requiring HAZWOPER-trained cleanup. Each Lorton commercial fire scenario demands restoration calibrated to the specific property type—from charming waterfront buildings to modern Laurel Hill commercial construction. Flood Doctor provides integrated fire restoration spanning the full range of Lorton commercial properties.`,
       `Smoke damage in Lorton follows the community's diverse building stock. Occoquan's historic waterfront buildings channel smoke through century-old wall cavities and timber framing that absorbs odor deeply. Laurel Hill's newer commercial construction features tighter building envelopes where smoke becomes trapped and recirculates through modern HVAC systems. South County and Mason Neck commercial properties include warehouse and light industrial spaces where fire generates heavy soot loads that require industrial cleaning approaches. Sprinkler activation compounds fire damage with water intrusion in every building type. Our multi-discipline approach deploys fire cleanup, smoke decontamination, water extraction, content restoration, and HVAC cleaning as one coordinated project—minimizing business interruption for Lorton's growing commercial community.`,
     ],
     localContext: `Lorton's commercial fire restoration needs span from Occoquan's historic waterfront businesses to Laurel Hill's modern retail and South County industrial facilities—each requiring different expertise, equipment, and restoration approaches.`,
@@ -81,7 +81,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HVAC Duct Cleaning Systems`,
-        purpose: `Decontaminate shared commercial HVAC systems in Laurel Hill and South County office and retail buildings`,
+        purpose: `Decontaminate shared commercial HVAC systems in Laurel Hill and South County workspace and retail buildings`,
       },
       {
         name: `Thermal Fog Generators`,

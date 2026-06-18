@@ -9,8 +9,8 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Restoring Chantilly Businesses After Fire and Smoke Damage`,
     paragraphs: [
-      `Commercial fire and smoke damage in Chantilly disrupts operations, threatens inventory, and jeopardizes tenant relationships across the Dulles corridor. Whether a kitchen fire has shut down your Sully Plaza restaurant, an electrical fire has damaged your Westfields Business Park office suite, or smoke from a neighboring tenant has infiltrated your Dulles corridor facility, the restoration requires commercial-scale equipment, business-aware scheduling, and documentation that supports complex commercial insurance claims.`,
-      `Smoke in Chantilly's commercial buildings travels through shared HVAC systems, ceiling plenums, and building infrastructure far beyond the fire origin. Multi-tenant buildings near Dulles International Airport and throughout the business corridor can see smoke damage in suites that share no wall with the fire. Flood Doctor's commercial fire restoration team addresses the full scope—structural soot removal, HVAC decontamination, firefighting water extraction, odor elimination, and comprehensive documentation for insurance, property management, and regulatory requirements. From properties near the Air and Space Museum Udvar-Hazy Center to offices in South Riding and Chantilly Highlands commercial areas, we restore businesses to full operation.`,
+      `Commercial fire and smoke damage in Chantilly disrupts operations, threatens inventory, and jeopardizes tenant relationships across the Dulles corridor. Whether a kitchen fire has shut down your Sully Plaza restaurant, an electrical fire has damaged your Westfields Business Park workspace suite, or smoke from a neighboring tenant has infiltrated your Dulles corridor facility, the restoration requires commercial-scale equipment, business-aware scheduling, and documentation that supports complex commercial insurance claims.`,
+      `Smoke in Chantilly's commercial buildings travels through shared HVAC systems, ceiling plenums, and building infrastructure far beyond the fire origin. Multi-tenant buildings near Dulles International Airport and throughout the business corridor can see smoke damage in suites that share no wall with the fire. Flood Doctor's commercial fire restoration team addresses the full scope—structural soot removal, HVAC decontamination, firefighting water extraction, odor elimination, and comprehensive documentation for insurance, property management, and regulatory requirements. From properties near the Air and Space Museum Udvar-Hazy Center to workspaces in South Riding and Chantilly Highlands commercial areas, we restore businesses to full operation.`,
     ],
     localContext: `Chantilly's commercial properties feature shared building systems that distribute smoke throughout multi-tenant facilities, requiring restoration that goes far beyond the fire origin and involves coordination across multiple tenants, carriers, and stakeholders.`,
   },
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       answer: `Yes. Smoke travels through shared ceiling plenums, HVAC systems, and wall penetrations in commercial buildings. Even suites separated from the fire origin can have significant smoke residue. Professional assessment identifies all affected spaces.`,
     },
     {
-      question: `How quickly can our Chantilly office reopen after a fire?`,
+      question: `How quickly can our Chantilly workspace reopen after a fire?`,
       answer: `Timeline depends on damage severity. Minor smoke damage may be restored in days. Significant fire damage typically requires 2-6 weeks. We provide phased restoration that prioritizes business-critical areas for earliest possible return.`,
     },
     {
@@ -123,7 +123,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Will our commercial insurance cover the full restoration?`,
-      answer: `Commercial fire insurance typically covers fire damage, smoke damage, water damage from suppression, and business interruption. We provide the detailed documentation commercial carriers require for full claim settlement.`,
+      answer: `Commercial fire insurance typically covers fire damage, smoke damage, water damage from suppression, and business interruption. We provide the detailed documentation commercial carriers require for claim review.`,
     },
   ],
   relatedBlogSlugs: [

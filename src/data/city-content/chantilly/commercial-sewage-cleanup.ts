@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Sewage Cleanup in Chantilly, VA | Flood Doctor',
-    description: `Commercial sewage cleanup for Chantilly businesses. Westfields Business Park, Dulles corridor & Sully Plaza. Biohazard certified, minimal downtime. Call (877) 497-0007.`,
+    description: `Commercial sewage cleanup for Chantilly businesses. Westfields Business Park, Dulles corridor & Sully Plaza. Biohazard trained, minimal downtime. Call (877) 497-0007.`,
   },
   h1: 'Commercial Sewage Cleanup in Chantilly, Virginia',
   introSection: {
     headline: `Biohazard Sewage Response for Chantilly's Commercial Properties`,
     paragraphs: [
-      `Sewage contamination in a Chantilly commercial property creates a public health emergency that demands immediate professional response. Whether a sewer main backup has flooded your Westfields Business Park office suite, a grease trap failure has contaminated your Sully Plaza restaurant, or a plumbing failure has released sewage into a Dulles corridor medical facility, the situation requires Category 3 biohazard expertise, commercial-scale equipment, and an understanding of the regulatory requirements that govern commercial sewage events.`,
-      `Chantilly's commercial density along the Dulles corridor means sewage events affect businesses that serve the public—restaurants, medical practices, retail stores, and childcare facilities near the Air and Space Museum Udvar-Hazy Center all face unique regulatory requirements during sewage cleanup. Flood Doctor's commercial biohazard team responds within 30 minutes with full containment and decontamination capability. We understand health department requirements, OSHA regulations, and the documentation standards that protect your business, your customers, and your employees in South Riding, Chantilly Highlands, and throughout the Dulles corridor.`,
+      `Sewage contamination in a Chantilly commercial property creates a public health emergency that demands immediate professional response. Whether a sewer main backup has flooded your Westfields Business Park workspace suite, a grease trap failure has contaminated your Sully Plaza restaurant, or a plumbing failure has released sewage into a Dulles corridor medical facility, the situation requires Category 3 biohazard expertise, commercial-scale equipment, and an understanding of the regulatory requirements that govern commercial sewage events.`,
+      `Chantilly's commercial density along the Dulles corridor means sewage events affect businesses that serve the public—restaurants, medical practices, retail stores, and childcare facilities near the Air and Space Museum Udvar-Hazy Center all face unique regulatory requirements during sewage cleanup. Flood Doctor's commercial biohazard team responds as soon as crews are available with full containment and decontamination capability. We understand health department requirements, OSHA regulations, and the documentation standards that protect your business, your customers, and your employees in South Riding, Chantilly Highlands, and throughout the Dulles corridor.`,
     ],
     localContext: `Chantilly's commercial concentration includes public-facing businesses—restaurants, healthcare, retail, and childcare—where sewage contamination triggers health department involvement and regulatory compliance requirements beyond standard cleanup.`,
   },
   processSteps: [
     {
       title: 'Emergency Biohazard Response',
-      description: `Call (877) 497-0007 for immediate commercial sewage response. Our Category 3 certified team arrives within 30 minutes with full PPE, containment materials, and commercial-scale biohazard equipment.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 for immediate commercial sewage response. Our Category 3 trained team arrives as soon as crews are available with full PPE, containment materials, and commercial-scale biohazard equipment.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Containment & Employee Safety',
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute emergency biohazard response to all Chantilly commercial locations. Sewage emergencies receive highest dispatch priority.`,
+    responseTime: `rapid emergency biohazard response to all Chantilly commercial locations. Sewage emergencies receive highest dispatch priority.`,
   },
   faqs: [
     {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       answer: `Yes. Food service establishments require health department clearance after sewage contamination. We provide all documentation the health department needs and coordinate timing for reinspection to minimize closure duration.`,
     },
     {
-      question: `Can employees safely return to the office after sewage cleanup?`,
+      question: `Can employees safely return to the workspace after sewage cleanup?`,
       answer: `Only after post-remediation verification testing confirms decontamination. We provide clearance documentation and can present results to employees who have safety concerns. Your employees' health is non-negotiable.`,
     },
     {
@@ -131,6 +131,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Sewage Emergency at Your Chantilly Business?',
-    paragraph: `Commercial sewage contamination is a public health emergency and a business continuity crisis. Our Category 3 certified biohazard team responds within 30 minutes to all Chantilly commercial properties. Call (877) 497-0007 now.`,
+    paragraph: `Commercial sewage contamination is a public health emergency and a business continuity crisis. Our Category 3 trained biohazard team responds as soon as crews are available to all Chantilly commercial properties. Call (877) 497-0007 now.`,
   },
 }

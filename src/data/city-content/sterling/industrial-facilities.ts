@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Sterling's industrial and warehouse properties along the Route 7 corridor and in established commercial-industrial zones house distribution operations, light manufacturing, storage facilities, and logistics centers that serve the greater Loudoun County economy. When water damage strikes a Sterling warehouse after roof failure, flooding hits an industrial building near Sugarland Run, or a fire sprinkler activation soaks inventory in a distribution center, the scale of damage and the operational impact require industrial-grade restoration capability—not residential techniques applied to large spaces.
 
-Flood Doctor's industrial division serves Sterling's warehouse and light industrial properties with the equipment capacity and project management that large-footprint restoration demands. We have extracted floodwater from Route 7 corridor warehouses after storm events, dried industrial buildings following fire suppression activation, and managed large-scale water damage at Sterling distribution facilities near Claude Moore Park. Our industrial equipment and crew capacity match the scale of Sterling's commercial-industrial properties.`,
+Flood Doctor's industrial division serves Sterling's warehouse and light industrial properties with the equipment capacity and project management that large-footprint restoration demands. Our industrial equipment and crew capacity match the scale of Sterling's commercial-industrial properties.`,
       `Industrial facility restoration in Sterling involves considerations that standard commercial restoration does not address. Warehouse concrete floors hold moisture that affects stored inventory. Industrial rack systems and shelving must be protected or relocated during restoration. Loading dock operations may need to continue during restoration for business continuity. Equipment mounted on concrete floors requires protection from moisture-sensitive restoration activities. And the sheer square footage of industrial spaces requires extraction and drying equipment capacity that residential-grade systems cannot provide.
 
 Our industrial project managers develop restoration plans that account for Sterling's industrial property operations—coordinating with warehouse managers, protecting inventory and equipment, maintaining dock access when possible, and deploying industrial-scale equipment across large floor areas efficiently near the Sterling Community Center and Algonkian Regional Park industrial zones.`,
@@ -21,8 +21,8 @@ Our industrial project managers develop restoration plans that account for Sterl
   processSteps: [
     {
       title: `Industrial Emergency Response`,
-      description: `Call (877) 497-0007 for immediate industrial facility response. Our crews deploy with industrial-scale extraction equipment and the capacity to address large floor areas. We reach Sterling industrial properties within 30 minutes.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate industrial facility response. Our crews deploy with industrial-scale extraction equipment and the capacity to address large floor areas. We reach Sterling industrial properties as soon as crews are available.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Operations Impact Assessment`,
@@ -49,7 +49,7 @@ Our industrial project managers develop restoration plans that account for Sterl
     {
       title: `Large-Footprint Warehouse Water Damage`,
       description: `Sterling warehouses and distribution centers encompass tens of thousands of square feet. Water damage across these large areas—from roof leaks, fire suppression, or flooding—requires extraction and drying capacity far beyond standard commercial restoration.`,
-      solution: `We deploy multiple truck-mounted extraction units and industrial drying equipment sized for warehouse floor areas. Our capacity allows full-floor treatment rather than section-by-section approaches that extend downtime and risk incomplete drying.`,
+      solution: `We deploy multiple truck-mounted extraction units and industrial drying equipment sized for warehouse floor areas. Our capacity allows full-floor treatment rather than section-by-section approaches that extend downtime and risk indocumented drying.`,
     },
     {
       title: `Fire Suppression System Activation`,
@@ -97,7 +97,7 @@ Our industrial project managers develop restoration plans that account for Sterl
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute industrial emergency response throughout Sterling. Multi-truck deployment for large-scale industrial events. Call (877) 497-0007.`,
+    responseTime: `rapid industrial emergency response throughout Sterling. Multi-truck deployment for large-scale industrial events. Call (877) 497-0007.`,
   },
   faqs: [
     {

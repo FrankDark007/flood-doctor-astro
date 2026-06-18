@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Restoration That Protects Revenue and Residents in Chantilly`,
     paragraphs: [
       `Hospitality and multi-family properties in Chantilly face unique restoration challenges driven by the need to maintain occupancy, protect revenue, and satisfy residents or guests during damage events. Hotels near Dulles International Airport lose revenue with every room out of service. Apartment communities in South Riding and Chantilly Highlands face resident displacement and lease obligations. Condominium associations in Poplar Tree Estates and Franklin Glen must coordinate across multiple owners and insurance carriers. Flood Doctor provides restoration services tailored to these specific operational realities.`,
-      `Chantilly's hospitality sector—hotels and extended-stay properties serving Dulles airport travelers and business visitors to Westfields Business Park—requires restoration partners who understand room revenue optimization. Multi-family communities throughout the Dulles corridor need teams that handle resident communication, unit-by-unit damage assessment, and coordination with multiple insurance carriers. Our hospitality and multi-family teams have restored properties from Sully Plaza area hotels to large apartment communities near the Air and Space Museum Udvar-Hazy Center and Fair Oaks.`,
+      `Chantilly's hospitality sector—hotels and extended-stay properties serving Dulles airport travelers and business visitors to Westfields Business Park—requires restoration partners who understand room revenue optimization. Multi-family communities throughout the Dulles corridor need teams that handle resident communication, unit-by-unit damage assessment, and coordination with multiple insurance carriers. `,
     ],
     localContext: `Chantilly's proximity to Dulles International Airport drives hospitality demand, while the area's planned community developments create large multi-family properties—both requiring restoration approaches that prioritize continued operations and occupant satisfaction.`,
   },
@@ -37,7 +37,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Common Area Restoration',
-      description: `Lobbies, hallways, fitness centers, and amenity spaces are restored to pre-loss condition. Guest-facing and resident-facing areas receive priority treatment to maintain property reputation.`,
+      description: `Lobbies, hallways, fitness centers, and amenity spaces are restored to a stable, usable condition. Guest-facing and resident-facing areas receive priority treatment to maintain property reputation.`,
       timeframe: 'Concurrent with unit work',
     },
     {
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute emergency response to all Chantilly hospitality and multi-family properties. Hotels near Dulles airport and large apartment communities receive multi-crew deployment.`,
+    responseTime: `rapid emergency response to all Chantilly hospitality and multi-family properties. Hotels near Dulles airport and large apartment communities receive multi-crew deployment.`,
   },
   faqs: [
     {
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Hospitality or Multi-Family Emergency in Chantilly?',
-    paragraph: `Occupancy loss costs money every day. Our hospitality and multi-family team responds within 30 minutes with the equipment and expertise to minimize displacement and maximize operational continuity. Call (877) 497-0007 now.`,
+    paragraph: `Occupancy loss costs money every day. Our hospitality and multi-family team responds as soon as crews are available with the equipment and expertise to minimize displacement and maximize operational continuity. Call (877) 497-0007 now.`,
   },
 }

@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Centreville's 1990s-2000s roofing systems are reaching their expected lifespan, and roof leak water damage is becoming increasingly common throughout the community. Aging shingles in Virginia Run lose granules and lift in wind. Flashing around dormers and chimneys in Centre Ridge colonials deteriorates and separates. Ice dams form along eaves in Little Rocky Run during freeze-thaw cycles. Each of these failures allows water into your attic, down through ceiling cavities, and into the living spaces below.
 
-Flood Doctor responds to roof leak water damage throughout Centreville with emergency tarping, water extraction, and structural drying. We've dried attic spaces and repaired water-damaged ceilings in Sully Station, extracted rainwater from Centreville Farms living rooms, and prevented mold growth from slow roof leaks in London Towne colonials. We address both the water damage and coordinate the roof repair to stop the source.`,
+Flood Doctor responds to roof leak water damage throughout Centreville with emergency tarping, water extraction, and structural drying. We address both the water damage and coordinate the roof repair to stop the source.`,
       `Roof leak water damage is deceptive. Water entering through the roof does not fall straight down—it follows rafters, sheathing, and framing laterally before dripping through a ceiling, often feet or yards from the actual leak point. In Centreville's multi-story colonials, roof water can travel through attic spaces, down wall cavities, and across intermediate floor systems before appearing as a stain on a first-floor ceiling. The visible damage is just the tip of the iceberg.
 
 Our approach traces the water from the visible damage back to the roof entry point using thermal imaging and moisture mapping. We dry every affected area along the water path—not just where you see the stain. And we document the roof failure for your insurance claim, distinguishing between storm damage (covered) and wear-and-tear (maintenance).`,
@@ -21,8 +21,8 @@ Our approach traces the water from the visible damage back to the roof entry poi
   processSteps: [
     {
       title: 'Emergency Response & Tarping',
-      description: `Call (877) 497-0007 and we respond within 30 minutes. If the roof is actively leaking, we deploy emergency tarps to stop water entry. We contain interior water to prevent further spread while setting up extraction equipment.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and we respond as soon as crews are available. If the roof is actively leaking, we deploy emergency tarps to stop water entry. We contain interior water to prevent further spread while setting up extraction equipment.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Leak Path Tracing',
@@ -103,7 +103,7 @@ Our approach traces the water from the visible damage back to the roof entry poi
   },
   pricingSection: {
     headline: 'Roof Leak Water Damage Costs in Centreville',
-    intro: `Roof leak water damage costs depend on the leak duration, affected area, and whether storm damage triggered the failure. Storm-caused roof leaks are covered by homeowner's insurance—we document the cause and handle direct billing.`,
+    intro: `Roof leak water damage costs depend on the leak duration, affected area, and whether storm damage triggered the failure. Storm-caused roof leaks are covered by homeowner's insurance—we document the cause and handle carrier coordination.`,
     factors: [
       'Leak duration—chronic slow leaks affect more area and may include mold, while sudden storm leaks are typically more contained',
       'Number of levels affected—multi-story Centreville colonials may have damage from attic through first floor',
@@ -129,7 +129,7 @@ Our approach traces the water from the visible damage back to the roof entry poi
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `30-minute response to all Centreville neighborhoods for roof leak emergencies. Active leaks during rain require immediate tarping—call (877) 497-0007 now.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {

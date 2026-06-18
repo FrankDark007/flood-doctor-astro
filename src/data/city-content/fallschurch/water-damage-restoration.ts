@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Falls Church, VA | Flood Doctor',
-    description: `Falls Church's trusted water damage restoration experts. 30-min response to Falls Church City, Seven Corners & Lake Barcroft. Protecting historic homes. Call (877) 497-0007.`,
+    description: `Falls Church's local water damage restoration specialists. rapid response to Falls Church City, Seven Corners & Lake Barcroft. Protecting historic homes. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Falls Church, Virginia',
   introSection: {
@@ -11,22 +11,22 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When water infiltrates your Falls Church home, you're not dealing with a cookie-cutter restoration job. Your 1940s Cape Cod near Falls Church City isn't the same as a modern townhome near Eden Center—and your restoration company needs to understand the difference. The original hardwood floors in your Seven Corners colonial, the plaster walls in your pre-war bungalow, and the finished basement in your Lake Barcroft waterfront home all require specialized care.
 
-Flood Doctor has restored water-damaged properties throughout Falls Church for nearly two decades. We've extracted standing water from historic homes in Falls Church City, dried the finished basements of Seven Corners families, and prevented mold growth in waterfront properties around Lake Barcroft. When your Pimmit Hills neighbor recommends a restoration company, they mention us—because we've already served their neighborhood.`,
+`,
       `Falls Church's water damage challenges reflect its unique character. The aging infrastructure in older neighborhoods—galvanized pipes, original clay tile drains, and vintage sump systems—creates vulnerabilities that newer communities don't face. The high water table near Lake Barcroft affects basements differently than the clay soil issues common in Baileys Crossroads. The legacy storm drainage systems in established neighborhoods can overwhelm during summer thunderstorms.
 
-Our IICRC Master Water Restorers don't just pump water and leave. We understand that your Falls Church City bungalow requires gentle drying to protect original plaster, that your Seven Corners colonial's hardwood needs controlled humidity to prevent warping, and that your Pimmit Hills split-level's finished basement demands thorough treatment to prevent mold in hidden spaces.`,
+Our water-damage restoration team don't just pump water and leave. We understand that your Falls Church City bungalow requires gentle drying to protect original plaster, that your Seven Corners colonial's hardwood needs controlled humidity to prevent warping, and that your Pimmit Hills split-level's finished basement demands thorough treatment to prevent mold in hidden spaces.`,
     ],
-    localContext: `Falls Church's diverse housing stock—from 1920s craftsman bungalows to 1960s colonials to Lake Barcroft waterfront homes—requires restoration expertise most companies simply don't have. We've protected irreplaceable features in historic homes throughout Falls Church City, Seven Corners, and Lake Barcroft for years.`,
+    localContext: `Falls Church's diverse housing stock—from 1920s craftsman bungalows to 1960s colonials to Lake Barcroft waterfront homes—requires restoration expertise most companies simply don't have. `,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: 'When you call our Falls Church hotline at (877) 497-0007, we dispatch from our local facility immediately. Our trucks are positioned to reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills within our 30-minute guarantee—not from a distant warehouse, but from right here in the Falls Church area.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call our Falls Church hotline at (877) 497-0007, we dispatch from our local facility immediately. Our trucks are positioned to reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills within our rapid service commitment—not from a distant warehouse, but from right here in the Falls Church area.',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Comprehensive Damage Assessment',
-      description: `Our IICRC-certified technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Falls Church's older homes, this often reveals water paths that aren't visible—from a bathroom leak traveling down through balloon framing to your first-floor ceiling or basement.`,
+      description: `Our trained technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Falls Church's older homes, this often reveals water paths that aren't visible—from a bathroom leak traveling down through balloon framing to your first-floor ceiling or basement.`,
       timeframe: 'First hour',
     },
     {
@@ -113,7 +113,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Falls Church',
-    intro: `Falls Church water damage restoration costs vary based on the scope of damage, affected materials, and your home's construction type. We provide free inspections and detailed estimates before any work begins. Most Falls Church homeowners file insurance claims—and we handle direct billing with all major carriers.`,
+    intro: `Falls Church water damage restoration costs vary based on the scope of damage, affected materials, and your home's construction type. We provide free inspections and detailed estimates before any work begins. Most Falls Church homeowners file insurance claims—and we handle insurance documentation and carrier coordination.`,
     factors: [
       'Square footage affected—basements, multiple floors, and connected spaces all impact scope',
       'Water category—clean water from burst pipes differs from sewage backup requiring biohazard protocols',
@@ -140,7 +140,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
       'Glen Forest',
       'Holmes Run',
     ],
-    responseTime: '30-minute response to all Falls Church neighborhoods. Our crews are stationed throughout the Falls Church area—from Broad Street to Wilson Boulevard—for immediate emergency dispatch.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
@@ -149,7 +149,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       question: 'Can you save my original hardwood floors after water damage?',
-      answer: `Often, yes. Falls Church's older homes frequently feature high-quality hardwood that responds well to professional drying. The key is rapid response and controlled drying—slow, steady moisture removal prevents the warping and cupping that destroys irreplaceable flooring. We've saved original hardwood from the 1920s through the 1960s throughout Falls Church City and Seven Corners.`,
+      answer: `Often, yes. Falls Church's older homes frequently feature high-quality hardwood that responds well to professional drying. The key is rapid response and controlled drying—slow, steady moisture removal prevents the warping and cupping that destroys irreplaceable flooring. `,
     },
     {
       question: 'Will drying damage my plaster walls?',
@@ -157,7 +157,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       question: 'Will you work directly with my insurance company?',
-      answer: 'Yes. We handle direct billing with all major carriers and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim. Many Falls Church homeowners find that professional documentation actually improves their claim outcomes.',
+      answer: 'Yes. We handle insurance documentation and carrier coordination and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim. Many Falls Church homeowners find that professional documentation actually improves their claim outcomes.',
     },
     {
       question: 'How do you prevent mold after water damage?',
@@ -165,7 +165,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       question: `What's the difference between your service and national chains?`,
-      answer: `We're locally owned and Falls Church-focused. Our crews know the neighborhoods, understand historic home construction, and are positioned for 30-minute response. National franchises often dispatch from distant locations and lack expertise in Falls Church's specific challenges—aging infrastructure, historic materials, and diverse housing stock.`,
+      answer: `We're locally owned and Falls Church-focused. Our crews know the neighborhoods, understand historic home construction, and are positioned for rapid response. National franchises often dispatch from distant locations and lack expertise in Falls Church's specific challenges—aging infrastructure, historic materials, and diverse housing stock.`,
     },
     {
       question: 'Do you service Lake Barcroft waterfront properties?',
@@ -179,6 +179,6 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Falls Church?',
-    paragraph: 'Every hour of delay means more damage to your home. Our crews are stationed throughout Falls Church for immediate 30-minute response. One call handles everything—from water extraction to insurance documentation.',
+    paragraph: 'Every hour of delay means more damage to your home. Our crews are available throughout Falls Church for immediate rapid response. One call handles everything—from water extraction to insurance documentation.',
   },
 }

@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Comprehensive Roof Leak Water Damage Restoration for Leesburg`,
     paragraphs: [
       `Roof leaks in Leesburg homes range from dramatic storm damage events to slow, insidious seepage that causes hidden destruction over weeks or months. The county seat's diverse roofing — original slate on historic homes in the Leesburg Historic District, aging asphalt shingles on mid-century construction near Sycolin Creek, and modern architectural shingles on Village at Leesburg homes — each fails differently and causes distinct water damage patterns that require specialized restoration approaches.`,
-      `Flood Doctor addresses both the immediate water damage and the underlying vulnerability that allowed the leak to occur. Our crews provide emergency tarping within an hour, followed by thorough water extraction, structural drying, and complete restoration. From Edwards Ferry estates to Lansdowne luxury homes, we protect Leesburg's roofing investments and the interiors they shelter.`,
+      `Flood Doctor addresses both the immediate water damage and the underlying vulnerability that allowed the leak to occur. Our crews provide emergency tarping within an hour, followed by thorough water extraction, structural drying, and full recovery planning. From Edwards Ferry estates to Lansdowne luxury homes, we protect Leesburg's roofing investments and the interiors they shelter.`,
     ],
     localContext: `Leesburg's exposure to Blue Ridge weather systems, including heavy rain, wind, ice, and occasional hail, creates persistent roof stress that eventually leads to failure, particularly in aging roofing systems on historic properties.`,
   },
@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: `Emergency Tarping & Water Control`,
       description: `Call (877) 497-0007 for immediate response. Our crews deploy emergency tarps to stop active water intrusion through damaged roofs while beginning interior water mitigation.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Leak Source Identification`,
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `45-60 minutes for emergency roof leak response throughout Leesburg, with tarping crews available for immediate deployment.`,
+    responseTime: `as soon as crews are available for emergency roof leak response throughout Leesburg, with tarping crews available for immediate deployment.`,
   },
   faqs: [
     {

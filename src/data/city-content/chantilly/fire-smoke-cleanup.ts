@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire & Smoke Cleanup in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's fire and smoke damage cleanup experts. Serving South Riding, Chantilly Highlands & Franklin Glen. Soot removal and odor elimination. Call (877) 497-0007.`,
+    description: `Chantilly's fire and smoke damage cleanup specialists. Serving South Riding, Chantilly Highlands & Franklin Glen. Soot removal and odor elimination. Call (877) 497-0007.`,
   },
   h1: 'Fire & Smoke Cleanup Services in Chantilly, Virginia',
   introSection: {
@@ -147,7 +147,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Does insurance cover fire and smoke cleanup?`,
-      answer: `Yes. Fire damage is typically covered under standard homeowners policies, including smoke damage, water damage from firefighting, and temporary housing if needed. We handle direct billing and provide detailed documentation.`,
+      answer: `Yes. Fire damage is typically covered under standard homeowners policies, including smoke damage, water damage from firefighting, and temporary housing if needed. We handle carrier coordination and provide detailed documentation.`,
     },
     {
       question: `What about the water damage from firefighters?`,

@@ -9,10 +9,10 @@ export const content: CityServiceContent = {
   introSection: {
     headline: 'Complete Fire Damage Restoration Throughout Lorton',
     paragraphs: [
-      `Fire damage in your Lorton home creates immediate devastation—flames destroy furnishings and structures, smoke permeates everything it contacts, and firefighting water floods your property. Even small kitchen fires create extensive smoke damage throughout your home. When fire strikes your Laurel Hill, Mason Neck, Occoquan, or South County property, you need restoration experts who handle fire, smoke, and water damage simultaneously. Flood Doctor provides 24/7 fire damage restoration throughout Lorton. We've restored fire-damaged homes after kitchen fires, electrical fires, fireplace incidents, and structural fires—handling the complete recovery from emergency board-up through final reconstruction.`,
-      'Fire restoration requires expertise beyond water damage—we address fire-weakened structures, remove smoke odors embedded in materials, clean soot from surfaces throughout your home, and dry firefighting water before mold develops. Our IICRC-certified fire restoration crews coordinate with fire investigators, insurance adjusters, and reconstruction contractors to manage your complete recovery.',
+      `Fire damage in your Lorton home creates immediate devastation—flames destroy furnishings and structures, smoke permeates everything it contacts, and firefighting water floods your property. Even small kitchen fires create extensive smoke damage throughout your home. When fire strikes your Laurel Hill, Mason Neck, Occoquan, or South County property, you need restoration specialists who handle fire, smoke, and water damage simultaneously. Flood Doctor provides 24/7 fire damage restoration throughout Lorton. `,
+      'Fire restoration requires expertise beyond water damage—we address fire-weakened structures, remove smoke odors embedded in materials, clean soot from surfaces throughout your home, and dry firefighting water before mold develops. Our trained fire restoration crews coordinate with fire investigators, insurance adjusters, and reconstruction contractors to manage your complete recovery.',
     ],
-    localContext: `Lorton fire damage restoration spans diverse scenarios—from kitchen fires in Laurel Hill townhomes to fireplace incidents in Mason Neck homes to electrical fires in older Gunston properties. We've restored fire-damaged homes throughout Lorton for years.`,
+    localContext: `Lorton fire damage restoration spans diverse scenarios—from kitchen fires in Laurel Hill townhomes to fireplace incidents in Mason Neck homes to electrical fires in older Gunston properties. `,
   },
   processSteps: [
     {
@@ -113,7 +113,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Fire Damage Restoration Costs in Lorton',
-    intro: 'Fire restoration costs vary dramatically based on fire extent, smoke migration, water damage, and reconstruction needs. We provide free assessments and work directly with fire insurance claims. Most fire damage is fully covered by homeowners insurance.',
+    intro: 'Fire restoration costs vary dramatically based on fire extent, smoke migration, water damage, and reconstruction needs. We provide free assessments and work directly with fire insurance claims. Most fire damage is often covered by homeowners insurance, depending on policy terms.',
     factors: [
       'Fire damage extent—localized fires differ from structural fires requiring extensive reconstruction',
       'Smoke migration—open floor plans allow smoke to spread throughout entire homes',
@@ -149,11 +149,11 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Will my insurance cover fire damage restoration?',
-      answer: 'Fire damage is typically fully covered by homeowners insurance including fire damage, smoke damage, firefighting water damage, temporary living expenses, and content restoration. We work directly with insurance adjusters and handle claim documentation.',
+      answer: 'Fire damage is typically often covered by homeowners insurance, depending on policy terms including fire damage, smoke damage, firefighting water damage, temporary living expenses, and content restoration. We work directly with insurance adjusters and handle claim documentation.',
     },
     {
       question: 'How long does fire restoration take?',
-      answer: 'Small fires (kitchen, single room) take 2-4 weeks for complete restoration. Larger fires requiring extensive reconstruction take 2-6 months depending on damage extent. We provide realistic timelines after assessment and can prioritize areas for faster partial occupancy.',
+      answer: 'Small fires (kitchen, single room) take 2-4 weeks for full recovery planning. Larger fires requiring extensive reconstruction take 2-6 months depending on damage extent. We provide realistic timelines after assessment and can prioritize areas for faster partial occupancy.',
     },
     {
       question: 'Can you remove smoke odors completely?',

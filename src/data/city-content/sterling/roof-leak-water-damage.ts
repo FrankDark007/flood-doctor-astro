@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Roof leaks in Sterling homes create water damage that extends far beyond the visible ceiling stain. Water enters through compromised roofing, travels along rafters and sheathing, saturates insulation, and damages ceilings, walls, and sometimes floors before anyone notices. Sterling Park homes with 40-50 year old roofing systems are particularly vulnerable—deteriorated flashing around chimneys, aging vent boots, and worn shingle fields create multiple water entry points. Cascades and Countryside townhome shared rooflines mean one section's failure can direct water into multiple units through connected attic spaces near Claude Moore Park.
 
-Flood Doctor restores roof leak water damage throughout Sterling while coordinating the emergency protection that stops ongoing water entry. We have tarped damaged Sterling Park roofs during active storms, dried water-saturated attics and ceilings in Cascades townhomes, and restored interior damage from chronic roof leaks in Lowes Island homes. Our approach addresses both the water damage inside and the emergency protection outside, working in parallel for fastest recovery.`,
+Flood Doctor restores roof leak water damage throughout Sterling while coordinating the emergency protection that stops ongoing water entry. Our approach addresses both the water damage inside and the emergency protection outside, working in parallel for fastest recovery.`,
       `Roof leak water damage is often more extensive than it appears. The visible ceiling stain is just the lowest point of water accumulation—above it, insulation is saturated, sheathing may be damaged, and water has traveled along structural members to affect areas far from the visible drip. In Sterling Park homes with original roof penetrations—chimneys, plumbing vents, exhaust fans—multiple leak points may be active simultaneously. Along the Route 7 corridor and near Algonkian Regional Park, wind-driven rain can force water through roofing that keeps out vertical rainfall.
 
 Our assessment traces water from the entry point through its full path to identify all affected materials. Thermal imaging reveals moisture in ceiling and wall cavities that are not visible from below. This thorough approach ensures we dry everything the water touched, not just what shows on the surface.`,
@@ -69,7 +69,7 @@ Our assessment traces water from the entry point through its full path to identi
   ],
   pricingSection: {
     headline: `Roof Leak Water Damage Costs in Sterling`,
-    intro: `Roof leak water damage costs in Sterling depend on the leak duration, affected area, and extent of hidden damage. Chronic leaks that have been active for months involve mold remediation and structural repair that significantly exceed the cost of a recent, quickly-discovered leak. Insurance covers sudden roof leak damage, and we handle direct billing.`,
+    intro: `Roof leak water damage costs in Sterling depend on the leak duration, affected area, and extent of hidden damage. Chronic leaks that have been active for months involve mold remediation and structural repair that significantly exceed the cost of a recent, quickly-discovered leak. Insurance covers sudden roof leak damage, and we handle carrier coordination.`,
     factors: [
       `Leak duration—chronic leaks cost more than recent events due to mold and wood damage accumulation`,
       `Affected area—water pathway tracing often reveals damage far beyond the visible ceiling stain`,

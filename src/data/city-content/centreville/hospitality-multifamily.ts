@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Hospitality and multifamily properties in Centreville face restoration challenges that single-family and standard commercial projects do not. When a pipe bursts in a third-floor apartment and floods units below, when storm damage affects an entire apartment building, or when a hotel experiences water damage during peak occupancy, you need restoration that understands multi-unit coordination, tenant displacement management, and the revenue implications of every lost room-night or vacant unit.
 
-Flood Doctor provides hospitality and multifamily restoration throughout Centreville with experience managing the complexity these properties demand. We've restored apartment communities along Route 28, managed multi-unit water damage in Centreville condominium buildings, and coordinated hotel restoration during ongoing operations. Our team understands that occupied units mean occupied lives—and every restoration decision affects real people.`,
+Flood Doctor provides hospitality and multifamily restoration throughout Centreville with experience managing the complexity these properties demand. Our team understands that occupied units mean occupied lives—and every restoration decision affects real people.`,
       `Multifamily restoration is fundamentally a coordination challenge. A single water event can affect five, ten, or twenty units with interconnected plumbing, shared walls, and common HVAC systems. Each unit has its own occupant, its own belongings, and potentially its own insurance coverage. Property managers must balance restoration speed against cost, tenant communication, and regulatory compliance. Hotels must maintain room inventory and guest satisfaction.
 
 Our multifamily team provides the project management layer that makes complex multi-unit restoration manageable. One project manager coordinates all affected units, communicates with all tenants, manages insurance for the property and individual units, and phases restoration to minimize displacement and maximize operational capacity.`,
@@ -22,7 +22,7 @@ Our multifamily team provides the project management layer that makes complex mu
     {
       title: 'Emergency Multi-Unit Response',
       description: `Call (877) 497-0007 for immediate response. We dispatch crews sized for multi-unit events and begin mitigation in the most severely affected units first while assessing the full scope across all potentially affected units.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Full-Building Assessment',

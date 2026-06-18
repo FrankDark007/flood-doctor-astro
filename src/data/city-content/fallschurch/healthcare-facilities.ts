@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for medical offices and clinics near Lake Barcroft and Seven Corners. Call (877) 497-0007.`,
+    description: `Falls Church's local healthcare facility restoration specialists. HIPAA-compliant water damage restoration for medical workspaces and clinics near Lake Barcroft and Seven Corners. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Falls Church, Virginia`,
   introSection: {
     headline: `Protecting Falls Church's Medical Facilities from Water Damage`,
     paragraphs: [
-      `Falls Church supports a thriving medical community—from family practices in the historic Falls Church City center to specialist clinics near Seven Corners and multi-provider offices along Broad Street. Many of these healthcare facilities occupy buildings dating from the 1920s through the 1960s, where aging plumbing systems, original cast iron drains, and decades-old copper supply lines create persistent water damage risks. When a corroded pipe fails above a Baileys Crossroads dental practice or a 1950s-era sewer lateral collapses beneath a Pimmit Hills medical office, the consequences extend beyond property damage to patient safety, HIPAA compliance, and regulatory standing.
+      `Falls Church supports a thriving medical community—from family practices in the historic Falls Church City center to specialist clinics near Seven Corners and multi-provider workspaces along Broad Street. Many of these healthcare facilities occupy buildings dating from the 1920s through the 1960s, where aging plumbing systems, original cast iron drains, and decades-old copper supply lines create persistent water damage risks. When a corroded pipe fails above a Baileys Crossroads dental practice or a 1950s-era sewer lateral collapses beneath a Pimmit Hills medical workspace, the consequences extend beyond property damage to patient safety, HIPAA compliance, and regulatory standing.
 
-Flood Doctor has restored healthcare facilities throughout Falls Church, safeguarding patient records, protecting sensitive diagnostic equipment, and maintaining infection control standards during every project. Our ICRA-trained technicians deploy containment barriers that meet Joint Commission standards while our HIPAA-certified project managers ensure protected health information remains secure throughout the restoration process. Falls Church medical practices trust us because we understand both the historic building challenges and the healthcare compliance framework these facilities require.`,
-      `The medical offices serving Falls Church occupy some of the area's oldest commercial structures. Historic buildings in Falls Church City feature plaster walls, original hardwood subflooring, and multi-layered construction that traps moisture and complicates drying. Apartment complex ground-floor medical offices near Seven Corners face water intrusion from upper-floor residential units—a challenge unique to Falls Church's mixed-use density. Lake Barcroft-area practices contend with elevated humidity and waterfront proximity that accelerates mold growth after any water event.
+Our ICRA-trained technicians deploy containment barriers that meet Joint Commission standards while our HIPAA-trained project managers ensure protected health information remains secure throughout the restoration process. Falls Church medical practices trust us because we understand both the historic building challenges and the healthcare compliance framework these facilities require.`,
+      `The medical workspaces serving Falls Church occupy some of the area's oldest commercial structures. Historic buildings in Falls Church City feature plaster walls, original hardwood subflooring, and multi-layered construction that traps moisture and complicates drying. Apartment complex ground-floor medical workspaces near Seven Corners face water intrusion from upper-floor residential units—a challenge unique to Falls Church's mixed-use density. Lake Barcroft-area practices contend with elevated humidity and waterfront proximity that accelerates mold growth after any water event.
 
 Our healthcare restoration protocols address these community-specific challenges. We coordinate with medical equipment manufacturers, maintain temperature and humidity logs for pharmaceutical storage compliance, and provide documentation that satisfies CMS survey readiness requirements. When a Falls Church medical practice faces water damage in an older building, we restore both the physical space and the regulatory compliance framework that allows continued operations.`,
     ],
@@ -22,11 +22,11 @@ Our healthcare restoration protocols address these community-specific challenges
     {
       title: `Emergency Response and Facility Assessment`,
       description: `Call our Falls Church healthcare hotline at (877) 497-0007 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager before entering any patient care area.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `ICRA Classification and Containment`,
-      description: `We conduct an Infection Control Risk Assessment with your infection control officer to classify affected areas. For older Falls Church medical buildings, we also assess for asbestos in floor tiles, pipe insulation, and ceiling materials before disturbing any building components.`,
+      description: `We conduct an Infection Control Risk Assessment with your infection control workspacer to classify affected areas. For older Falls Church medical buildings, we also assess for asbestos in floor tiles, pipe insulation, and ceiling materials before disturbing any building components.`,
       timeframe: `Hours 1-3`,
     },
     {
@@ -53,7 +53,7 @@ Our healthcare restoration protocols address these community-specific challenges
   localChallenges: [
     {
       title: `Historic Building Plumbing Failures`,
-      description: `Falls Church City medical offices occupy buildings where 1920s-1960s plumbing systems are reaching end of life. Cast iron drain lines corrode internally, and galvanized supply lines restrict flow before failing catastrophically—flooding patient care areas without warning.`,
+      description: `Falls Church City medical workspaces occupy buildings where 1920s-1960s plumbing systems are reaching end of life. Cast iron drain lines corrode internally, and galvanized supply lines restrict flow before failing catastrophically—flooding patient care areas without warning.`,
       solution: `Our crews respond with Category 3 contamination protocols when sewer-related failures occur. We document the aging infrastructure as the damage source, supporting insurance claims that cover the full scope of contamination cleanup in historic Falls Church medical buildings.`,
     },
     {
@@ -96,7 +96,7 @@ Our healthcare restoration protocols address these community-specific challenges
       },
       {
         name: `Injectidry Panel Systems`,
-        purpose: `Dry wall cavities without demolition—especially valuable for preserving plaster walls in historic Falls Church medical offices`,
+        purpose: `Dry wall cavities without demolition—especially valuable for preserving plaster walls in historic Falls Church medical workspaces`,
       },
       {
         name: `Data Recovery Equipment`,
@@ -132,11 +132,11 @@ Our healthcare restoration protocols address these community-specific challenges
       `Leesburg Pike Corridor`,
       `Columbia Pike`,
     ],
-    responseTime: `45-minute emergency response to all Falls Church healthcare facilities. Our crews are positioned with ICRA containment materials, enhanced dehumidification equipment, and healthcare-grade supplies for immediate medical facility deployment.`,
+    responseTime: `prompt emergency response to all Falls Church healthcare facilities. Our crews are positioned with ICRA containment materials, enhanced dehumidification equipment, and healthcare-grade supplies for immediate medical facility deployment.`,
   },
   faqs: [
     {
-      question: `Are your restoration crews HIPAA trained for Falls Church medical offices?`,
+      question: `Are your restoration crews HIPAA trained for Falls Church medical workspaces?`,
       answer: `Yes. Every technician assigned to healthcare projects completes annual HIPAA training and signs confidentiality agreements. We execute business associate agreements with each medical practice and maintain chain-of-custody documentation for any materials containing protected health information.`,
     },
     {
@@ -144,7 +144,7 @@ Our healthcare restoration protocols address these community-specific challenges
       answer: `We assess for asbestos, lead paint, and other regulated materials before any demolition in pre-1980s buildings. Plaster walls receive specialized drying protocols that prevent crumbling while achieving target moisture levels. Our experience with Falls Church's historic building stock ensures proper techniques for these structures.`,
     },
     {
-      question: `Can you restore our medical office without closing the entire practice?`,
+      question: `Can you restore our medical workspace without closing the entire practice?`,
       answer: `In most cases, yes. We design phased restoration plans that isolate affected areas with ICRA-compliant containment while allowing continued operations in unaffected treatment rooms. Many Falls Church practices maintain partial operations throughout the restoration process.`,
     },
     {
@@ -157,7 +157,7 @@ Our healthcare restoration protocols address these community-specific challenges
     },
     {
       question: `How quickly can you respond to an after-hours emergency at our Falls Church clinic?`,
-      answer: `We guarantee 45-minute response to Falls Church healthcare facilities 24/7. Pre-arranged facility access protocols allow us to begin securing your medical office even before staff arrives, preventing water migration into patient care areas and equipment rooms.`,
+      answer: `We service commitment prompt response to Falls Church healthcare facilities 24/7. Pre-arranged facility access protocols allow us to begin securing your medical workspace even before staff arrives, preventing water migration into patient care areas and equipment rooms.`,
     },
     {
       question: `Do you handle medical facility insurance claims?`,
@@ -169,6 +169,6 @@ Our healthcare restoration protocols address these community-specific challenges
   ],
   finalCTA: {
     headline: `Healthcare Facility Emergency in Falls Church?`,
-    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Falls Church medical facilities within 45 minutes with containment materials and healthcare-grade equipment. Call (877) 497-0007 now.`,
+    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-trained, ICRA-trained crews respond to Falls Church medical facilities as soon as crews are available with containment materials and healthcare-grade equipment. Call (877) 497-0007 now.`,
   },
 }

@@ -14,7 +14,7 @@ export const content: CityServiceContent = {
 Flood Doctor has saved hardwood floors throughout Sterling using specialized drying techniques that go beyond standard water extraction. We have reversed cupping in Sterling Park vintage oak floors, dried water-damaged engineered hardwood in Cascades townhomes, and prevented buckling in Potomac Falls homes after dishwasher floods. Our floor-specific drying approach saves Sterling homeowners thousands compared to replacement costs.`,
       `Water damage to hardwood flooring progresses through predictable stages—initial surface wetting, moisture absorption causing cupping, prolonged saturation causing buckling, and eventual delamination or permanent warping. At each stage, the restoration approach differs and the salvage probability changes. Sterling Park's solid hardwood floors are more forgiving than engineered products—they can tolerate controlled drying from significant moisture content. Cascades and Countryside engineered floors have a narrower recovery window because the veneer layer delaminates when moisture reaches the adhesive layer.
 
-Our IICRC-certified technicians assess the moisture content, identify the flooring type, determine the stage of water damage, and deploy the appropriate drying system. Near Claude Moore Park and throughout Sterling, we have demonstrated that floors that other companies recommend replacing can often be saved—and saved properly, maintaining both appearance and structural integrity.`,
+Our trained technicians assess the moisture content, identify the flooring type, determine the stage of water damage, and deploy the appropriate drying system. Near Claude Moore Park and throughout Sterling, we have demonstrated that floors that other companies recommend replacing can often be saved—and saved properly, maintaining both appearance and structural integrity.`,
     ],
     localContext: `Sterling's mix of 1970s-era solid hardwood in established neighborhoods and modern engineered flooring in newer developments requires drying expertise across flooring types and construction eras.`,
   },
@@ -64,7 +64,7 @@ Our IICRC-certified technicians assess the moisture content, identify the floori
     {
       title: `Subfloor Moisture Beneath Hardwood`,
       description: `Water that reaches the subfloor beneath hardwood creates ongoing moisture drive that continues damaging the flooring from below even after the surface appears dry. In Sterling Park homes with plywood subfloors over crawl spaces, this moisture reservoir can be substantial.`,
-      solution: `Our floor drying systems address both the hardwood surface and the subfloor beneath simultaneously. Moisture meters measure both layers to verify complete drying. We coordinate with crawl space drying when subfloor moisture originates from below-floor water intrusion.`,
+      solution: `Our floor drying systems address both the hardwood surface and the subfloor beneath simultaneously. Moisture meters measure both layers to verify documented drying. We coordinate with crawl space drying when subfloor moisture originates from below-floor water intrusion.`,
     },
     {
       title: `Multi-Room Water Spread in Open Floor Plans`,
@@ -74,7 +74,7 @@ Our IICRC-certified technicians assess the moisture content, identify the floori
   ],
   pricingSection: {
     headline: `Hardwood Floor Drying Costs in Sterling`,
-    intro: `Hardwood floor drying costs in Sterling are a fraction of replacement costs—saving your floors with professional drying typically costs 60-80% less than tear-out and new installation. Insurance covers floor drying as part of water damage restoration, and we handle direct billing.`,
+    intro: `Hardwood floor drying costs in Sterling are a fraction of replacement costs—saving your floors with professional drying typically costs 60-80% less than tear-out and new installation. Insurance covers floor drying as part of water damage restoration, and we handle carrier coordination.`,
     factors: [
       `Floor area affected—larger areas require more equipment and monitoring time`,
       `Flooring type—solid hardwood, engineered, and luxury plank each require different approaches and timelines`,

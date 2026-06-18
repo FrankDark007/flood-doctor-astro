@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville commercial flood cleanup. 24/7 emergency response for offices, retail & commercial properties along Route 28/I-66. Call (877) 497-0007.`,
+    description: `Centreville commercial flood cleanup. 24/7 emergency response for workspaces, retail & commercial properties along Route 28/I-66. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Centreville, Virginia',
   introSection: {
     headline: `Emergency Commercial Flood Response for Centreville Businesses`,
     paragraphs: [
-      `When floodwater enters your Centreville commercial property, the clock starts on business interruption costs that grow every hour. A flooded Route 28 office suite displaces employees and halts productivity. A flooded retail space in Fair Lakes closes doors to customers. A flooded warehouse or storage facility damages inventory. Commercial flooding demands a response calibrated for scale, speed, and business continuity.
+      `When floodwater enters your Centreville commercial property, the clock starts on business interruption costs that grow every hour. A flooded Route 28 workspace suite displaces employees and halts productivity. A flooded retail space in Fair Lakes closes doors to customers. A flooded warehouse or storage facility damages inventory. Commercial flooding demands a response calibrated for scale, speed, and business continuity.
 
 Flood Doctor provides emergency commercial flood cleanup throughout Centreville with 24/7 response. We deploy commercial-scale extraction equipment, manage multi-suite flooding events, and coordinate the restoration process with property managers, tenants, and insurance carriers simultaneously. Our goal is the same as yours—get your business back to operational as fast as possible.`,
       `Commercial flooding in Centreville often originates from infrastructure failures—fire suppression system malfunctions, broken water mains, HVAC failures, and storm drain backup during heavy rain. These events release large water volumes across commercial floor plates, affecting multiple tenants and common areas. The response must match the scale: commercial extraction equipment, crews large enough to manage thousands of square feet, and project management that coordinates all stakeholders.
 
 Our commercial flood cleanup teams are structured for large-scale response. We bring multiple extraction units, enough drying equipment for commercial spaces, and the coordination experience to manage complex multi-party projects. Documentation starts immediately—supporting insurance claims, property management reporting, and tenant communication from day one.`,
     ],
-    localContext: `Centreville's commercial corridor along Route 28 and I-66 includes office parks, retail centers, and mixed-use properties where commercial flooding requires large-scale extraction and coordinated multi-tenant response.`,
+    localContext: `Centreville's commercial corridor along Route 28 and I-66 includes workspace parks, retail centers, and mixed-use properties where commercial flooding requires large-scale extraction and coordinated multi-tenant response.`,
   },
   processSteps: [
     {
       title: 'Emergency Commercial Dispatch',
-      description: `Call (877) 497-0007 for immediate commercial flood response. We dispatch multiple trucks and crews sized for commercial floor plates—arriving within 30 minutes to begin extraction and damage containment.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 for immediate commercial flood response. We dispatch multiple trucks and crews sized for commercial floor plates—arriving as soon as crews are available to begin extraction and damage containment.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Flood Source Control',
@@ -68,7 +68,7 @@ Our commercial flood cleanup teams are structured for large-scale response. We b
     },
     {
       title: 'Inventory and Equipment Loss',
-      description: `Commercial flooding can destroy retail inventory, office equipment, archived documents, and specialized machinery. The financial loss from contents often exceeds the structural damage.`,
+      description: `Commercial flooding can destroy retail inventory, workspace equipment, archived documents, and specialized machinery. The financial loss from contents often exceeds the structural damage.`,
       solution: 'We prioritize salvageable high-value items during extraction, provide detailed inventory documentation for insurance, and coordinate contents cleaning or replacement as part of the overall restoration.',
     },
   ],
@@ -126,12 +126,12 @@ Our commercial flood cleanup teams are structured for large-scale response. We b
       'Centre Ridge Marketplace',
       'Compton Village Commercial',
     ],
-    responseTime: `24/7 emergency response within 30 minutes to all Centreville commercial locations. Multi-truck response for large commercial flooding events.`,
+    responseTime: `24/7 emergency response as soon as crews are available to all Centreville commercial locations. Multi-truck response for large commercial flooding events.`,
   },
   faqs: [
     {
       question: 'How quickly can you respond to a commercial flood emergency?',
-      answer: `Within 30 minutes, 24/7. For large-scale events, we dispatch multiple trucks and crews simultaneously. Call (877) 497-0007—we mobilize before the call ends.`,
+      answer: `As soon as crews are available, 24/7. For large-scale events, we dispatch multiple trucks and crews simultaneously. Call (877) 497-0007—we mobilize before the call ends.`,
     },
     {
       question: 'Our fire suppression system discharged accidentally. Can you help?',
@@ -147,7 +147,7 @@ Our commercial flood cleanup teams are structured for large-scale response. We b
     },
     {
       question: 'Do you handle the insurance claim?',
-      answer: `We handle direct billing with commercial insurance carriers and provide comprehensive documentation—scope reports, moisture readings, daily logs, and photographs—that commercial claims require. We coordinate with adjusters throughout the project.`,
+      answer: `We handle carrier coordination with commercial insurance carriers and provide comprehensive documentation—scope reports, moisture readings, daily logs, and photographs—that commercial claims require. We coordinate with adjusters throughout the project.`,
     },
     {
       question: 'What about our inventory and equipment?',

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Falls Church, VA | Flood Doctor',
-    description: `Falls Church structural drying for historic bungalows, Lake Barcroft homes & apartments. 30-min response to Falls Church City, Seven Corners & Pimmit Hills. Call (877) 497-0007.`,
+    description: `Falls Church structural drying for historic bungalows, Lake Barcroft homes & apartments. rapid response to Falls Church City, Seven Corners & Pimmit Hills. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Falls Church, Virginia',
   introSection: {
@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has protected Falls Church properties across this full spectrum — drying original plaster in Falls Church City bungalows without cracking, managing Lake Barcroft waterfront foundation moisture where hydrostatic pressure drives water through basement walls during every rain event, and coordinating multi-unit drying in Pimmit Hills apartment buildings where a single pipe burst affected six units across three floors. We serve this community with the local business partnership mindset that Falls Church values.`,
       `The structural drying science adapts to each Falls Church property based on its materials and moisture conditions. A 1940s Falls Church City colonial with original lath-and-plaster walls, hardwood floors over diagonal subfloor, and a stone foundation requires slow, controlled drying that respects vintage materials. A Lake Barcroft lakefront home faces chronic hydrostatic moisture that complicates acute flood response. An apartment complex at Baileys Crossroads with concrete construction and multiple affected units needs urban-scale coordination with compact equipment.
 
-Our IICRC-certified technicians develop property-specific drying plans: desiccant dehumidifiers for historic plaster and concrete, LGR units for modern materials, injection drying systems that preserve original wall surfaces, and daily psychrometric monitoring that ensures every material type reaches its appropriate dry standard. Documentation serves both insurance claims and the preservation awareness that Falls Church City homeowners bring to their properties.`,
+Our trained technicians develop property-specific drying plans: desiccant dehumidifiers for historic plaster and concrete, LGR units for modern materials, injection drying systems that preserve original wall surfaces, and daily psychrometric monitoring that ensures every material type reaches its appropriate dry standard. Documentation serves both insurance claims and the preservation awareness that Falls Church City homeowners bring to their properties.`,
     ],
     localContext: `Falls Church's blend of historic charm, Lake Barcroft waterfront, and apartment density creates a community where structural drying must span pre-war plaster to modern concrete — all within a compact geography where local expertise matters.`,
   },
   processSteps: [
     {
       title: 'Fast Local Response',
-      description: `Call (877) 497-0007 and our crews arrive within 30 minutes. We reach Falls Church City, Seven Corners, Baileys Crossroads, Lake Barcroft, and Pimmit Hills from nearby staging — responding as a community partner familiar with every neighborhood.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews arrive as soon as crews are available. We reach Falls Church City, Seven Corners, Baileys Crossroads, Lake Barcroft, and Pimmit Hills from nearby staging — responding as a community partner familiar with neighborhoods across the service area.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Property-Specific Assessment',
@@ -74,7 +74,7 @@ Our IICRC-certified technicians develop property-specific drying plans: desiccan
     {
       title: 'Older Sewer Lateral Collapses',
       description: 'Falls Church aging sewer lateral lines — the connections from homes to the municipal system — collapse or fail from root intrusion, ground movement, and material deterioration. Resulting sewage contamination requires hazardous protocols alongside structural drying.',
-      solution: 'IICRC Category 3 protocols for contaminated water: removal of affected porous materials, antimicrobial treatment, and drying with air scrubbing. Documentation identifies the lateral failure cause. Plumbing assessment and repair recommendations address the root infrastructure issue.',
+      solution: 'industry-standard Category 3 protocols for contaminated water: removal of affected porous materials, antimicrobial treatment, and drying with air scrubbing. Documentation identifies the lateral failure cause. Plumbing assessment and repair recommendations address the root infrastructure issue.',
     },
   ],
   equipmentSection: {
@@ -138,7 +138,7 @@ Our IICRC-certified technicians develop property-specific drying plans: desiccan
       'James Lee',
       'Glen Forest',
     ],
-    responseTime: '30-minute response to all Falls Church neighborhoods. Our crews serve the community with the familiarity and partnership that small-city character deserves.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
@@ -163,7 +163,7 @@ Our IICRC-certified technicians develop property-specific drying plans: desiccan
     },
     {
       question: 'Does insurance cover structural drying?',
-      answer: 'Most policies cover water damage restoration. Sewer backup coverage requires a specific rider. We document everything and handle direct billing with all major carriers.',
+      answer: 'Most policies cover water damage restoration. Sewer backup coverage requires a specific rider. We document everything and handle insurance documentation and carrier coordination.',
     },
   ],
   relatedBlogSlugs: [
@@ -172,6 +172,6 @@ Our IICRC-certified technicians develop property-specific drying plans: desiccan
   ],
   finalCTA: {
     headline: 'Water Damage in Your Falls Church Home?',
-    paragraph: 'Whether your property is a historic Falls Church City bungalow, a Lake Barcroft lakefront home, or a Seven Corners apartment, water damage demands immediate professional response. Our crews arrive within 30 minutes with the right equipment for your property type. Call (877) 497-0007.',
+    paragraph: 'Whether your property is a historic Falls Church City bungalow, a Lake Barcroft lakefront home, or a Seven Corners apartment, water damage demands immediate professional response. Our crews arrive as soon as crews are available with the right equipment for your property type. Call (877) 497-0007.',
   },
 }

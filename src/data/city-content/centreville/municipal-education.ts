@@ -22,7 +22,7 @@ Our public facility team coordinates with administration, facility management, a
     {
       title: 'Emergency Facility Response',
       description: `Call (877) 497-0007 for priority response to municipal and education facilities. We dispatch immediately and coordinate with facility management on access, safety requirements, and operational priorities.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Safety & Compliance Assessment',
@@ -82,7 +82,7 @@ Our public facility team coordinates with administration, facility management, a
       },
       {
         name: 'Low-Profile Drying Equipment',
-        purpose: 'Compact dehumidifiers and air movers that fit in classrooms and offices without creating hazards',
+        purpose: 'Compact dehumidifiers and air movers that fit in classrooms and workspaces without creating hazards',
       },
       {
         name: 'Commercial Extraction Systems',
@@ -126,7 +126,7 @@ Our public facility team coordinates with administration, facility management, a
       'Centreville Library Area',
       'Cub Run RECenter Area',
     ],
-    responseTime: `Priority response for public facilities throughout Centreville. Emergency events receive immediate dispatch. Call (877) 497-0007 for expedited service.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {

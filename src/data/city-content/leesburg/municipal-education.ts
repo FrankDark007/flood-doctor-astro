@@ -9,16 +9,16 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Restoration Services for Leesburg's Public Buildings and Schools`,
     paragraphs: [
-      `As the Loudoun County seat, Leesburg houses critical government offices, courthouses, public safety facilities, and administrative buildings alongside numerous schools and educational institutions. Water damage, mold, or fire in these facilities disrupts public services, displaces students, and can compromise sensitive records and equipment. Municipal and education restoration requires specialized protocols that address public safety, regulatory compliance, and the urgency of restoring services that communities depend on.`,
+      `As the Loudoun County seat, Leesburg houses critical government workspaces, courthouses, public safety facilities, and administrative buildings alongside numerous schools and educational institutions. Water damage, mold, or fire in these facilities disrupts public services, displaces students, and can compromise sensitive records and equipment. Municipal and education restoration requires specialized protocols that address public safety, regulatory compliance, and the urgency of restoring services that communities depend on.`,
       `Flood Doctor provides restoration services specifically designed for government and education facilities in Leesburg. We understand the procurement processes, safety requirements, and operational constraints of public facilities. Our crews work around school schedules, government operating hours, and public access requirements to deliver thorough restoration with minimal disruption to the services Leesburg residents rely on.`,
     ],
-    localContext: `Leesburg's role as the Loudoun County seat concentrates government facilities in the downtown area, including historic buildings near the Leesburg Historic District that house county offices and court operations alongside Morven Park's public programs.`,
+    localContext: `Leesburg's role as the Loudoun County seat concentrates government facilities in the downtown area, including historic buildings near the Leesburg Historic District that house county workspaces and court operations alongside Morven Park's public programs.`,
   },
   processSteps: [
     {
       title: `Emergency Response & Facility Coordination`,
       description: `Call (877) 497-0007 for immediate response. We coordinate with facility managers, school administrators, or government operations teams to assess the situation and establish access and safety protocols.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Public Safety Assessment`,
@@ -44,7 +44,7 @@ export const content: CityServiceContent = {
   localChallenges: [
     {
       title: `Historic Government Building Restoration`,
-      description: `Leesburg's county government offices occupy historic buildings in and near the downtown district. These structures feature original materials requiring preservation-compatible restoration that meets both historic standards and modern building codes.`,
+      description: `Leesburg's county government workspaces occupy historic buildings in and near the downtown district. These structures feature original materials requiring preservation-compatible restoration that meets both historic standards and modern building codes.`,
       solution: `We apply the same historic preservation expertise used in residential restoration to government buildings, protecting original architecture while meeting ADA, fire code, and other modern requirements for public buildings.`,
     },
     {
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `60 minutes or less for municipal and education emergencies throughout Leesburg, with priority dispatch for active water damage and safety concerns.`,
+    responseTime: `as soon as crews are available or less for municipal and education emergencies throughout Leesburg, with priority dispatch for active water damage and safety concerns.`,
   },
   faqs: [
     {

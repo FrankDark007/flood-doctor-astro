@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted commercial mold remediation specialists. CIH-coordinated protocols for historic district businesses, Eden Center, and apartment-commercial complexes. Call (877) 497-0007.`,
+    description: `Falls Church's local commercial mold remediation specialists. CIH-coordinated protocols for historic district businesses, Eden Center, and apartment-commercial complexes. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Falls Church, Virginia`,
   introSection: {
     headline: `Versatile Mold Remediation for Falls Church's Diverse Commercial Properties`,
     paragraphs: [
-      `Mold in a Falls Church commercial property takes different forms depending on the building type—each requiring adapted expertise. A historic Falls Church City storefront develops mold behind original plaster from a 1950s plumbing leak that seeped for years undetected. An Eden Center restaurant discovers growth in the walk-in cooler area where condensation meets aging insulation. A Seven Corners office complex traces employee respiratory complaints to mold colonizing the shared HVAC system above ceiling tiles. A Baileys Crossroads apartment complex's ground-floor commercial tenant finds mold spreading from a residential unit above through the shared plumbing chase. Falls Church's commercial diversity demands mold remediation that adapts methods, equipment, and communication to each property configuration. Flood Doctor provides CIH-coordinated remediation across Falls Church's full spectrum of commercial building types.`,
+      `Mold in a Falls Church commercial property takes different forms depending on the building type—each requiring adapted expertise. A historic Falls Church City storefront develops mold behind original plaster from a 1950s plumbing leak that seeped for years undetected. An Eden Center restaurant discovers growth in the walk-in cooler area where condensation meets aging insulation. A Seven Corners workspace complex traces employee respiratory complaints to mold colonizing the shared HVAC system above ceiling tiles. A Baileys Crossroads apartment complex's ground-floor commercial tenant finds mold spreading from a residential unit above through the shared plumbing chase. Falls Church's commercial diversity demands mold remediation that adapts methods, equipment, and communication to each property configuration. Flood Doctor provides CIH-coordinated remediation across Falls Church's full spectrum of commercial building types.`,
       `Falls Church's commercial mold conditions reflect the area's varied building history. Historic Falls Church City buildings from the early-to-mid 20th century feature original plumbing, minimal insulation, and building envelopes that allow chronic moisture intrusion. 1960s-70s commercial construction at Seven Corners and Baileys Crossroads has aging flat roofs, original HVAC, and foundation moisture issues driving hidden mold growth. Lake Barcroft adjacent properties experience elevated humidity from lakefront proximity. Apartment-commercial mixed buildings create vertical moisture pathways where residential water damage feeds mold growth in commercial spaces below. Our teams remediate mold across this building diversity—from century-old Falls Church City shops to dense apartment-retail complexes—under CIH protocols with independent verification.`,
     ],
     localContext: `Falls Church's commercial building diversity—historic storefronts, 1960s-70s strip malls, restaurant complexes, and apartment-retail configurations—creates varied mold challenges requiring adaptable remediation expertise.`,
@@ -17,12 +17,12 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `CIH Assessment Adapted to Building Type`,
-      description: `We coordinate a certified industrial hygienist to assess your Falls Church commercial property. Assessment methods adapt to building type—evaluating original materials in historic buildings, aging HVAC in 1960s-70s construction, vertical moisture pathways in apartment-commercial complexes, and restaurant-specific condensation issues.`,
+      description: `We coordinate a trained industrial hygienist to assess your Falls Church commercial property. Assessment methods adapt to building type—evaluating original materials in historic buildings, aging HVAC in 1960s-70s construction, vertical moisture pathways in apartment-commercial complexes, and restaurant-specific condensation issues.`,
       timeframe: `Days 1-3`,
     },
     {
       title: `Property-Appropriate Containment`,
-      description: `Our crews build containment suited to your building—shared-wall barriers for Falls Church City storefronts, multi-suite isolation for Seven Corners offices, and floor-ceiling containment in apartment-commercial buildings. Negative air and HEPA filtration protect all occupied adjacent spaces.`,
+      description: `Our crews build containment suited to your building—shared-wall barriers for Falls Church City storefronts, multi-suite isolation for Seven Corners workspaces, and floor-ceiling containment in apartment-commercial buildings. Negative air and HEPA filtration protect all occupied adjacent spaces.`,
       timeframe: `Day 3-4`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `Negative Air Machines`,
-        purpose: `Maintain containment in shared-wall storefronts, multi-suite offices, and apartment-commercial configurations`,
+        purpose: `Maintain containment in shared-wall storefronts, multi-suite workspaces, and apartment-commercial configurations`,
       },
       {
         name: `Moisture Mapping Systems`,
@@ -91,7 +91,7 @@ export const content: CityServiceContent = {
         brand: `FLIR`,
       },
     ],
-    localNote: `Our Falls Church equipment fleet adapts to the area's commercial diversity—preservation tools for historic storefronts, standard commercial systems for office complexes, and multi-level capability for apartment-commercial configurations.`,
+    localNote: `Our Falls Church equipment fleet adapts to the area's commercial diversity—preservation tools for historic storefronts, standard commercial systems for workspace complexes, and multi-level capability for apartment-commercial configurations.`,
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Falls Church`,
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
       `CIH services—assessment, protocol development, and independent clearance verification`,
       `Humidity management—Lake Barcroft area properties may need supplemental dehumidification systems`,
     ],
-    cta: `Call (877) 497-0007 for a confidential commercial mold assessment at your Falls Church property. We adapt CIH protocols for your specific building type—whether historic storefront, restaurant, office, or apartment-commercial configuration.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment at your Falls Church property. We adapt CIH protocols for your specific building type—whether historic storefront, restaurant, workspace, or apartment-commercial configuration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -154,6 +154,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold in Your Falls Church Commercial Property?`,
-    paragraph: `Whether mold threatens a historic Falls Church City storefront, an Eden Center restaurant, or a Seven Corners office suite, our CIH-coordinated teams deliver building-appropriate remediation with independent verification. Call (877) 497-0007 for a confidential assessment.`,
+    paragraph: `Whether mold threatens a historic Falls Church City storefront, an Eden Center restaurant, or a Seven Corners workspace suite, our CIH-coordinated teams deliver building-appropriate remediation with independent verification. Call (877) 497-0007 for a confidential assessment.`,
   },
 }

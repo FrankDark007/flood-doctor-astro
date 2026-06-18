@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Cleanup in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's burst pipe cleanup experts. 30-min response to South Riding, Chantilly Highlands & Franklin Glen. Frozen and failed pipe specialists. Call (877) 497-0007.`,
+    description: `Chantilly's burst pipe cleanup specialists. rapid response to South Riding, Chantilly Highlands & Franklin Glen. Frozen and failed pipe specialists. Call (877) 497-0007.`,
   },
   h1: 'Burst Pipe Cleanup in Chantilly, Virginia',
   introSection: {
     headline: `Fast Burst Pipe Response for Chantilly's Newer Homes`,
     paragraphs: [
       `Burst pipes in Chantilly homes cause rapid, widespread damage—especially in the area's larger floor plans and open layouts. A single burst supply line in a South Riding colonial can release hundreds of gallons before anyone notices, flooding multiple levels through open stairwells and ceiling cavities. Builder-grade supply lines and fittings common in Chantilly Highlands, Poplar Tree Estates, and Franklin Glen fail prematurely, and winter pipe bursts along the Dulles corridor create emergencies that demand immediate professional response.`,
-      `Flood Doctor responds to burst pipe emergencies throughout Chantilly within 30 minutes. Our crews know that Chantilly's newer construction—with OSB subfloors, spray foam insulation, and engineered flooring—requires specific extraction and drying protocols that differ from older Northern Virginia homes. We also understand the warranty implications. If a builder-installed pipe or fitting caused your burst, our documentation supports warranty claims in addition to insurance filings. From Westfields-area homes to Fair Oaks properties near Sully Plaza, we have restored burst pipe damage in every Chantilly neighborhood.`,
+      `Flood Doctor responds to burst pipe emergencies throughout Chantilly as soon as crews are available. Our crews know that Chantilly's newer construction—with OSB subfloors, spray foam insulation, and engineered flooring—requires specific extraction and drying protocols that differ from older Northern Virginia homes. We also understand the warranty implications. If a builder-installed pipe or fitting caused your burst, our documentation supports warranty claims in addition to insurance filings. From Westfields-area homes to Fair Oaks properties near Sully Plaza, our documentation and drying approach are adapted to Chantilly-area construction patterns.`,
     ],
     localContext: `Chantilly's predominantly newer housing stock features builder-grade plumbing components that fail earlier than quality materials, combined with large floor plans that allow burst pipe water to spread rapidly across multiple levels.`,
   },
   processSteps: [
     {
       title: 'Emergency Response & Water Shutoff',
-      description: `Call (877) 497-0007 and we arrive within 30 minutes. We locate and shut off the water source if you have not already, stopping flow immediately. For Chantilly homes with multiple shutoff valves across large floor plans, we know where to look.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and we arrive as soon as crews are available. We locate and shut off the water source if you have not already, stopping flow immediately. For Chantilly homes with multiple shutoff valves across large floor plans, we know where to look.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Damage Scope Assessment',
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Burst Pipe Cleanup Costs in Chantilly',
-    intro: `Burst pipe cleanup costs in Chantilly depend on pipe location, water volume released, and the number of affected areas. Homeowners insurance typically covers burst pipe damage—we handle direct billing and documentation. Builder warranty claims for defective installation may offset additional costs.`,
+    intro: `Burst pipe cleanup costs in Chantilly depend on pipe location, water volume released, and the number of affected areas. Homeowners insurance typically covers burst pipe damage—we handle carrier coordination and documentation. Builder warranty claims for defective installation may offset additional costs.`,
     factors: [
       `Volume of water released—duration of flow before shutoff directly affects damage scope`,
       `Number of affected levels—multi-floor water migration in Chantilly's larger homes increases complexity`,
@@ -131,12 +131,12 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute burst pipe response to all Chantilly neighborhoods. Our crews maintain positions along the Route 50 and Route 28 corridors for rapid deployment.`,
+    responseTime: `rapid burst pipe response to all Chantilly neighborhoods. Our crews maintain positions along the Route 50 and Route 28 corridors for rapid deployment.`,
   },
   faqs: [
     {
       question: `A pipe burst in my Chantilly home—what should I do first?`,
-      answer: `Shut off the main water supply immediately. If you cannot find the shutoff, call (877) 497-0007 and we will locate it upon arrival within 30 minutes. Move valuables away from standing water but do not enter areas with potential electrical hazards.`,
+      answer: `Shut off the main water supply immediately. If you cannot find the shutoff, call (877) 497-0007 and we will locate it upon arrival as soon as crews are available. Move valuables away from standing water but do not enter areas with potential electrical hazards.`,
     },
     {
       question: `Will insurance cover burst pipe damage in my South Riding home?`,
@@ -156,7 +156,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How long does burst pipe cleanup take?`,
-      answer: `Extraction takes hours, and complete drying typically requires 3-5 days for a single level. Multi-level damage in Chantilly's larger homes may extend the timeline. We monitor daily and adjust equipment to optimize drying speed.`,
+      answer: `Extraction takes hours, and documented drying typically requires 3-5 days for a single level. Multi-level damage in Chantilly's larger homes may extend the timeline. We monitor daily and adjust equipment to optimize drying speed.`,
     },
   ],
   relatedBlogSlugs: [
@@ -166,6 +166,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Burst Pipe Emergency in Chantilly?',
-    paragraph: `Every minute of flowing water increases damage exponentially. Shut off your water supply and call (877) 497-0007 immediately. Our crews reach all Chantilly neighborhoods within 30 minutes with full extraction and drying equipment.`,
+    paragraph: `Every minute of flowing water increases damage exponentially. Shut off your water supply and call (877) 497-0007 immediately. Our crews reach all Chantilly neighborhoods as soon as crews are available with full extraction and drying equipment.`,
   },
 }

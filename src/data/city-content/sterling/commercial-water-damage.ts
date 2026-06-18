@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Water Damage Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling commercial water damage restoration. Route 7 corridor businesses, shopping centers & office parks. Rapid response to minimize downtime. Call (877) 497-0007.`,
+    description: `Sterling commercial water damage restoration. Route 7 corridor businesses, shopping centers & workspace parks. Rapid response to minimize downtime. Call (877) 497-0007.`,
   },
   h1: `Commercial Water Damage Restoration in Sterling, Virginia`,
   introSection: {
     headline: `Route 7 Corridor Commercial Water Damage Expertise`,
     paragraphs: [
-      `Sterling's commercial landscape stretches along the Route 7 corridor—strip shopping centers, professional office parks, restaurants, medical offices, and retail spaces that serve one of Loudoun County's most established communities. When water damage strikes a Route 7 retail space, a Sterling Park shopping center restaurant, or a professional office near the Sterling Community Center, every hour of closure costs revenue. Commercial water damage in Sterling's older commercial stock—much of it built in the 1980s-90s alongside the residential neighborhoods—presents different challenges than newer construction, with aging roofing, deteriorated plumbing, and commercial-grade HVAC systems that develop condensate problems.
+      `Sterling's commercial landscape stretches along the Route 7 corridor—strip shopping centers, professional workspace parks, restaurants, medical workspaces, and retail spaces that serve one of Loudoun County's most established communities. When water damage strikes a Route 7 retail space, a Sterling Park shopping center restaurant, or a professional workspace near the Sterling Community Center, every hour of closure costs revenue. Commercial water damage in Sterling's older commercial stock—much of it built in the 1980s-90s alongside the residential neighborhoods—presents different challenges than newer construction, with aging roofing, deteriorated plumbing, and commercial-grade HVAC systems that develop condensate problems.
 
-Flood Doctor's commercial division serves Sterling businesses with the same community-rooted approach we bring to residential work. We have restored water-damaged retail spaces in Sterling Park shopping centers, dried professional offices after roof leaks along the Route 7 corridor, and extracted flood water from restaurant kitchens near Potomac Falls. Our commercial crews work around your schedule—nights, weekends, and holidays—because your business cannot wait for Monday morning.`,
+Flood Doctor's commercial division serves Sterling businesses with the same community-rooted approach we bring to residential work. Our commercial crews work around your schedule—nights, weekends, and holidays—because your business cannot wait for Monday morning.`,
       `Sterling commercial water damage often involves shared commercial spaces—multi-tenant strip centers where one business's water event affects neighboring tenants through shared walls, ceilings, and plumbing infrastructure. A burst pipe in one unit can flood several adjacent businesses through connected ceiling plenums and common walls. Roof leaks in aging commercial buildings may affect multiple tenants across a large footprint. These multi-tenant situations require coordinated response, clear documentation of source and damage by unit, and communication with property managers overseeing the affected commercial property.
 
 Our commercial project managers handle the coordination that Sterling multi-tenant situations demand—communicating with property managers, documenting damage by tenant space, and managing restoration that accounts for each business's unique schedule, inventory, and equipment protection needs.`,
     ],
-    localContext: `Sterling's Route 7 corridor commercial stock—predominantly 1980s-2000s strip centers, office parks, and mixed-use spaces—creates water damage scenarios involving aging commercial systems, multi-tenant coordination, and business continuity pressure.`,
+    localContext: `Sterling's Route 7 corridor commercial stock—predominantly 1980s-2000s strip centers, workspace parks, and mixed-use spaces—creates water damage scenarios involving aging commercial systems, multi-tenant coordination, and business continuity pressure.`,
   },
   processSteps: [
     {
       title: `Commercial Emergency Response`,
-      description: `Call (877) 497-0007 for immediate commercial dispatch. Our crews reach Route 7 corridor businesses, Sterling shopping centers, and commercial properties throughout Sterling within 30 minutes. We bring commercial-grade extraction and protection equipment.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate commercial dispatch. Our crews reach Route 7 corridor businesses, Sterling shopping centers, and commercial properties throughout Sterling as soon as crews are available. We bring commercial-grade extraction and protection equipment.`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Multi-Tenant Impact Assessment`,
@@ -59,11 +59,11 @@ Our commercial project managers handle the coordination that Sterling multi-tena
     {
       title: `Restaurant and Food Service Water Damage`,
       description: `Sterling's commercial corridors include numerous restaurants and food service businesses. Water damage in food preparation areas triggers health department requirements for cleanup verification before reopening. Inventory loss and equipment damage compound the revenue impact of closure.`,
-      solution: `We follow food service industry cleanup protocols that satisfy health department requirements. Our documentation supports health inspection re-certification. We prioritize food service restoration to minimize the business closure period that directly impacts revenue.`,
+      solution: `We follow food service industry cleanup protocols that satisfy health department requirements. Our documentation supports health inspection re-qualification. We prioritize food service restoration to minimize the business closure period that directly impacts revenue.`,
     },
     {
       title: `Commercial HVAC Condensate Failures`,
-      description: `Large commercial HVAC systems in Sterling office buildings and retail spaces produce significant condensate that, when drainage fails, causes widespread ceiling and wall damage. Commercial condensate volumes far exceed residential amounts, and the damage can affect large areas before detection.`,
+      description: `Large commercial HVAC systems in Sterling workspace buildings and retail spaces produce significant condensate that, when drainage fails, causes widespread ceiling and wall damage. Commercial condensate volumes far exceed residential amounts, and the damage can affect large areas before detection.`,
       solution: `We trace HVAC condensate damage to its source, extract affected areas, and dry commercial ceiling and wall assemblies. Our documentation identifies the HVAC maintenance deficiency for insurance and property management records.`,
     },
   ],
@@ -73,7 +73,7 @@ Our commercial project managers handle the coordination that Sterling multi-tena
     factors: [
       `Commercial square footage affected—larger floor areas require more extraction and drying equipment`,
       `Multi-tenant coordination—shared building events add assessment and documentation complexity`,
-      `Business type—restaurants, medical offices, and retail each have industry-specific requirements`,
+      `Business type—restaurants, medical workspaces, and retail each have industry-specific requirements`,
       `Schedule requirements—after-hours work to minimize business disruption`,
       `Inventory and equipment protection—commercial contents management and documentation`,
     ],
@@ -97,7 +97,7 @@ Our commercial project managers handle the coordination that Sterling multi-tena
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute commercial response to all Sterling business areas. Route 7 corridor, Sterling Park shopping centers, and commercial properties throughout the area. Call (877) 497-0007.`,
+    responseTime: `rapid commercial response to all Sterling business areas. Route 7 corridor, Sterling Park shopping centers, and commercial properties throughout the area. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -131,6 +131,6 @@ Our commercial project managers handle the coordination that Sterling multi-tena
   ],
   finalCTA: {
     headline: `Water Damage at Your Sterling Business?`,
-    paragraph: `Every hour of closure costs revenue. Our commercial crews serve Route 7 corridor businesses with 30-minute response, after-hours scheduling, and the documentation your commercial insurance requires. Call now to minimize downtime.`,
+    paragraph: `Every hour of closure costs revenue. Our commercial crews serve Route 7 corridor businesses with rapid response, after-hours scheduling, and the documentation your commercial insurance requires. Call now to minimize downtime.`,
   },
 }

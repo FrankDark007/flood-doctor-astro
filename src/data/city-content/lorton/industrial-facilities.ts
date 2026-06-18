@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Lorton's growth has extended beyond residential development into a diversifying commercial and light industrial corridor. South County warehousing operations along Richmond Highway, Occoquan waterfront commercial businesses, and Gunston area light manufacturing facilities support the community's expanding economic base. When water damage strikes a distribution warehouse near the Lorton VRE station or floods a commercial kitchen on the Occoquan waterfront, the restoration must address both the physical damage and the operational disruption facing businesses in a community still building its commercial infrastructure.
 
-Flood Doctor provides industrial-grade restoration services throughout Lorton, combining HAZWOPER-certified crews with the practical commercial expertise this growing corridor demands. Our technicians understand the mix of newer commercial construction in Laurel Hill, waterfront challenges near Occoquan, and the diverse facility types along Richmond Highway. When water threatens your Lorton commercial or industrial operation, we deliver technical capability calibrated to your specific facility and operational requirements.`,
+Flood Doctor provides industrial-grade restoration services throughout Lorton, combining HAZWOPER-trained crews with the practical commercial expertise this growing corridor demands. Our technicians understand the mix of newer commercial construction in Laurel Hill, waterfront challenges near Occoquan, and the diverse facility types along Richmond Highway. When water threatens your Lorton commercial or industrial operation, we deliver technical capability calibrated to your specific facility and operational requirements.`,
       `Industrial water damage in Lorton follows the corridor's development patterns. Newer commercial buildings in the Laurel Hill area may experience construction defect water intrusion—improper waterproofing, drainage grading issues, and roof membrane failures in buildings less than 15 years old. Occoquan waterfront properties face tidal and stormwater flooding risks from the river, with historic commercial buildings absorbing water through foundation walls and floor slabs. South County warehousing and light manufacturing along Richmond Highway store inventory and operate equipment where water damage creates immediate supply chain and operational disruption.
 
 Our industrial restoration approach addresses both the diverse building stock and the financial pressures facing Lorton's growing commercial community. We prioritize operational equipment with immediate anti-corrosion treatment, coordinate with building management for multi-tenant properties, and provide documentation supporting insurance claims, construction defect warranty recovery, and business interruption coverage. Lorton's commercial operators need restoration partners who understand that growing businesses face different financial pressures than established operations.`,
@@ -22,7 +22,7 @@ Our industrial restoration approach addresses both the diverse building stock an
     {
       title: `Emergency Response and Facility Coordination`,
       description: `Call (877) 497-0007 for immediate industrial response. For waterfront Occoquan businesses, we assess flood risk and deploy appropriate containment. For warehouses and commercial facilities, we prioritize inventory and equipment protection upon arrival.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Facility Assessment and Source Evaluation`,
@@ -138,7 +138,7 @@ Our industrial restoration approach addresses both the diverse building stock an
       `Newington Road`,
       `Lorton Station Boulevard`,
     ],
-    responseTime: `45-minute emergency response to all Lorton industrial and commercial facilities. Occoquan waterfront response includes flood-specific containment and contaminated water management equipment.`,
+    responseTime: `prompt emergency response to all Lorton industrial and commercial facilities. Occoquan waterfront response includes flood-specific containment and contaminated water management equipment.`,
   },
   faqs: [
     {
@@ -167,7 +167,7 @@ Our industrial restoration approach addresses both the diverse building stock an
     },
     {
       question: `What is your response time for Lorton industrial emergencies?`,
-      answer: `We guarantee 45-minute response to Lorton commercial and industrial facilities. Our crews carry extraction equipment, anti-corrosion treatment, and flood-specific containment materials for immediate facility protection upon arrival.`,
+      answer: `We service commitment prompt response to Lorton commercial and industrial facilities. Our crews carry extraction equipment, anti-corrosion treatment, and flood-specific containment materials for immediate facility protection upon arrival.`,
     },
   ],
   relatedBlogSlugs: [
@@ -175,6 +175,6 @@ Our industrial restoration approach addresses both the diverse building stock an
   ],
   finalCTA: {
     headline: `Commercial or Industrial Emergency in Lorton?`,
-    paragraph: `Equipment damage and business interruption compound by the hour. Our crews respond to Lorton commercial and industrial facilities within 45 minutes with industrial extraction equipment and the practical expertise your growing business needs. Call (877) 497-0007 now.`,
+    paragraph: `Equipment damage and business interruption compound by the hour. Our crews respond to Lorton commercial and industrial facilities as soon as crews are available with industrial extraction equipment and the practical expertise your growing business needs. Call (877) 497-0007 now.`,
   },
 }

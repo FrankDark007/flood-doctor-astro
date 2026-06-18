@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Saving Chantilly's Hardwood Floors After Water Damage`,
     paragraphs: [
       `Hardwood floors are one of the most valuable features in Chantilly homes—and one of the most vulnerable to water damage. The engineered hardwood prevalent in South Riding, Chantilly Highlands, and Franklin Glen homes responds differently to water than traditional solid hardwood, requiring specialized drying techniques that prevent delamination while removing trapped moisture. A burst supply line, appliance leak, or basement moisture migration can damage thousands of dollars in flooring within hours if not addressed with the right equipment and expertise.`,
-      `Flood Doctor specializes in saving hardwood floors throughout the Dulles corridor. Our technicians have dried and restored engineered hardwood in Poplar Tree Estates, solid hardwood in Fair Oaks properties, and luxury vinyl plank in Westfields-area homes. We use floor-specific drying mats that apply controlled vacuum and heat to extract moisture through the flooring without the cupping, crowning, and delamination that result from improper drying. Near Sully Plaza and Ellanor C. Lawrence Park, where crawl space moisture can damage flooring from below, we address both the surface and subsurface moisture sources.`,
+      `Flood Doctor specializes in saving hardwood floors throughout the Dulles corridor. We use floor-specific drying mats that apply controlled vacuum and heat to extract moisture through the flooring without the cupping, crowning, and delamination that result from improper drying. Near Sully Plaza and Ellanor C. Lawrence Park, where crawl space moisture can damage flooring from below, we address both the surface and subsurface moisture sources.`,
     ],
     localContext: `Chantilly's predominantly newer construction features engineered hardwood flooring that requires different drying protocols than solid hardwood—making specialized knowledge critical to saving floors after water damage in the area's homes.`,
   },
@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: 'Emergency Moisture Assessment',
       description: `We assess flooring type, moisture levels, and damage extent using pinless meters that read moisture without puncturing your floors. In Chantilly's open floor plans, water often migrates far beyond the visible wet area.`,
-      timeframe: 'Within 30 minutes of arrival',
+      timeframe: 'Initial assessment',
     },
     {
       title: 'Surface Water Extraction',
@@ -42,7 +42,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Final Assessment & Refinishing Evaluation',
-      description: `Once moisture levels normalize, we assess whether floors need refinishing, board replacement, or are restored to pre-loss condition. Most floors dried promptly require minimal additional work.`,
+      description: `Once moisture levels normalize, we assess whether floors need refinishing, board replacement, or are restored to a stable, usable condition. Most floors dried promptly require minimal additional work.`,
       timeframe: 'Day 7-10',
     },
   ],
@@ -55,7 +55,7 @@ export const content: CityServiceContent = {
     {
       title: 'OSB Subfloor Saturation Below Hardwood',
       description: `Oriented strand board subfloors in Chantilly's newer construction absorb water through their bonded layers. Even after the hardwood above reads dry, the OSB underneath may retain moisture that causes swelling, mold growth, and eventual floor failure.`,
-      solution: `We monitor both hardwood and subfloor moisture content simultaneously. Bottom-up drying systems target the subfloor while top-down mats address the hardwood, ensuring complete drying of the entire floor assembly.`,
+      solution: `We monitor both hardwood and subfloor moisture content simultaneously. Bottom-up drying systems target the subfloor while top-down mats address the hardwood, ensuring documented drying of the entire floor assembly.`,
     },
     {
       title: 'Crawl Space Moisture Affecting Floors Above',
@@ -127,7 +127,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute response for hardwood floor water emergencies. Every hour of delay reduces the likelihood of saving your floors—call immediately when water contacts hardwood.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
@@ -140,7 +140,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How long does hardwood floor drying take?`,
-      answer: `Typically 5-10 days for complete drying including the subfloor. Engineered hardwood over OSB subfloors in Chantilly's newer homes may take longer due to the subfloor's moisture retention. We monitor daily and adjust as needed.`,
+      answer: `Typically 5-10 days for documented drying including the subfloor. Engineered hardwood over OSB subfloors in Chantilly's newer homes may take longer due to the subfloor's moisture retention. We monitor daily and adjust as needed.`,
     },
     {
       question: `Should I pull up my hardwood floors to dry them?`,
@@ -161,6 +161,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water on Your Chantilly Hardwood Floors?',
-    paragraph: `Every hour of water contact reduces the chance of saving your floors. Our specialized floor drying mats can restore what household methods cannot. Call (877) 497-0007 now for 30-minute response—your floors depend on speed.`,
+    paragraph: `Every hour of water contact reduces the chance of saving your floors. Our specialized floor drying mats can restore what household methods cannot. Call (877) 497-0007 now for rapid response—your floors depend on speed.`,
   },
 }

@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Scientific Indoor Air Quality Assessment for Chantilly Properties`,
     paragraphs: [
       `Indoor air quality in Chantilly's newer homes and commercial properties is shaped by building design decisions that prioritize energy efficiency over natural ventilation. Tight building envelopes in South Riding and Chantilly Highlands trap airborne contaminants—mold spores, volatile organic compounds from new construction materials, particulates from HVAC systems, and biological allergens—inside your living and working spaces. When residents experience unexplained allergies, respiratory issues, or persistent odors, professional indoor air quality testing identifies the specific contaminants and their sources.`,
-      `Flood Doctor provides comprehensive IAQ testing and improvement services for Chantilly properties throughout the Dulles corridor. Our environmental scientists use calibrated sampling equipment and accredited laboratory analysis to identify and quantify airborne contaminants. From Poplar Tree Estates homes with musty odors to Westfields Business Park offices with employee health complaints to Franklin Glen townhomes near Ellanor C. Lawrence Park with elevated humidity, we diagnose IAQ problems with scientific precision and implement effective solutions. Fair Oaks residences and commercial facilities near Sully Plaza benefit from our combined restoration and IAQ expertise.`,
+      `Flood Doctor provides comprehensive IAQ testing and improvement services for Chantilly properties throughout the Dulles corridor. Our environmental scientists use calibrated sampling equipment and accredited laboratory analysis to identify and quantify airborne contaminants. From Poplar Tree Estates homes with musty odors to Westfields Business Park workspaces with employee health complaints to Franklin Glen townhomes near Ellanor C. Lawrence Park with elevated humidity, we diagnose IAQ problems with scientific precision and implement effective solutions. Fair Oaks residences and commercial facilities near Sully Plaza benefit from our combined restoration and IAQ expertise.`,
     ],
     localContext: `Chantilly's energy-efficient newer construction with tight building envelopes and centralized HVAC systems creates indoor environments where air quality requires active management—particularly when moisture intrusion, mold growth, or off-gassing from new materials introduces contaminants.`,
   },
@@ -152,8 +152,8 @@ export const content: CityServiceContent = {
       answer: `We collect air samples using calibrated pumps and spore trap cassettes at multiple locations, including outdoor baseline samples. An AIHA-accredited laboratory identifies mold species and quantifies spore concentrations, which we compare to published health standards.`,
     },
     {
-      question: `Can you test indoor air quality in our Chantilly office?`,
-      answer: `Yes. We provide commercial IAQ testing for offices at Westfields Business Park, retail spaces, and all Dulles corridor business properties. Commercial testing addresses employee health complaints, regulatory compliance, and building performance.`,
+      question: `Can you test indoor air quality in our Chantilly workspace?`,
+      answer: `Yes. We provide commercial IAQ testing for workspaces at Westfields Business Park, retail spaces, and all Dulles corridor business properties. Commercial testing addresses employee health complaints, regulatory compliance, and building performance.`,
     },
     {
       question: `What is an acceptable mold spore count?`,

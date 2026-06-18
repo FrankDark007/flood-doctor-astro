@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's commercial water damage experts. Serving Westfields Business Park, Dulles corridor offices & data centers. Minimal downtime restoration. Call (877) 497-0007.`,
+    description: `Chantilly's commercial water damage specialists. Serving Westfields Business Park, Dulles corridor workspaces & data centers. Minimal downtime restoration. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Chantilly, Virginia',
   introSection: {
     headline: `Minimizing Business Disruption from Water Damage Along the Dulles Corridor`,
     paragraphs: [
-      `Commercial water damage in Chantilly threatens more than property—it threatens your revenue, your data, and your business relationships. Whether a burst pipe has flooded your Westfields Business Park office, a roof leak has compromised your Sully Plaza retail space, or a sprinkler activation has soaked a Dulles corridor data center, every hour of downtime costs money. Flood Doctor provides commercial water damage restoration designed for business continuity, with 30-minute response and crews experienced in the specific needs of Chantilly's commercial properties.`,
-      `The Dulles corridor's commercial landscape—from office parks near Dulles International Airport to retail centers near the Air and Space Museum Udvar-Hazy Center to the growing data center cluster—demands restoration partners who understand commercial operations. We work around your business hours, protect your equipment and inventory, coordinate with your property management, and restore your space with minimal disruption. Our commercial teams have restored water damage in office buildings, restaurants, medical practices, and technology facilities throughout Chantilly.`,
+      `Commercial water damage in Chantilly threatens more than property—it threatens your revenue, your data, and your business relationships. Whether a burst pipe has flooded your Westfields Business Park workspace, a roof leak has compromised your Sully Plaza retail space, or a sprinkler activation has soaked a Dulles corridor data center, every hour of downtime costs money. Flood Doctor provides commercial water damage restoration designed for business continuity, with rapid response and crews experienced in the specific needs of Chantilly's commercial properties.`,
+      `The Dulles corridor's commercial landscape—from workspace parks near Dulles International Airport to retail centers near the Air and Space Museum Udvar-Hazy Center to the growing data center cluster—demands restoration partners who understand commercial operations. We work around your business hours, protect your equipment and inventory, coordinate with your property management, and restore your space with minimal disruption. Our commercial services are designed for workspace buildings, restaurants, medical practices, and technology facilities throughout the Chantilly service area.`,
     ],
-    localContext: `Chantilly's Dulles corridor hosts a concentration of commercial properties—from Westfields Business Park offices to data centers to Sully Plaza retail—requiring restoration services that prioritize business continuity and operational awareness.`,
+    localContext: `Chantilly's Dulles corridor hosts a concentration of commercial properties—from Westfields Business Park workspaces to data centers to Sully Plaza retail—requiring restoration services that prioritize business continuity and operational awareness.`,
   },
   processSteps: [
     {
       title: 'Rapid Commercial Response',
       description: `Call (877) 497-0007 and our commercial team deploys immediately with equipment scaled for business properties. We coordinate with your property manager, building engineer, and security to gain access and begin work quickly.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Business Impact Assessment',
@@ -54,7 +54,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Multi-Tenant Building Coordination',
-      description: `Westfields Business Park and other Chantilly office complexes house multiple tenants. Water damage from one suite can affect neighbors through shared ceiling plenums, common walls, and building systems.`,
+      description: `Westfields Business Park and other Chantilly workspace complexes house multiple tenants. Water damage from one suite can affect neighbors through shared ceiling plenums, common walls, and building systems.`,
       solution: `We coordinate with property management to assess all affected tenants, manage access across suites, and document damage boundaries for accurate insurance allocation among multiple parties.`,
     },
     {
@@ -98,11 +98,11 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute commercial response to all Chantilly business locations. Westfields Business Park, Sully Plaza, and Dulles corridor properties receive priority routing from our nearest commercial crew.`,
+    responseTime: `rapid commercial response to all Chantilly business locations. Westfields Business Park, Sully Plaza, and Dulles corridor properties receive priority routing from our nearest commercial crew.`,
   },
   faqs: [
     {
-      question: `Can you restore our Chantilly office without shutting down operations?`,
+      question: `Can you restore our Chantilly workspace without shutting down operations?`,
       answer: `In many cases, yes. We contain damage zones, perform heavy work after hours, and coordinate with your operations team to maintain business continuity. The goal is always minimal disruption while achieving thorough restoration.`,
     },
     {
@@ -118,7 +118,7 @@ export const content: CityServiceContent = {
       answer: `Sprinkler activation floods are common in commercial properties. We extract water rapidly, protect unaffected areas, and coordinate with the fire marshal and sprinkler contractor for system reset. We document the activation cause for insurance.`,
     },
     {
-      question: `How quickly can our Westfields office be operational after water damage?`,
+      question: `How quickly can our Westfields workspace be operational after water damage?`,
       answer: `Timeline depends on damage severity, but we prioritize operational restoration. Many Chantilly commercial properties are partially operational within 24-48 hours and fully restored within 1-2 weeks. We provide daily timeline updates.`,
     },
     {
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Commercial Water Damage in Chantilly?',
-    paragraph: `Business downtime costs money every hour. Our commercial restoration team responds within 30 minutes to Westfields, Sully Plaza, and all Dulles corridor locations with equipment scaled for commercial properties. Call (877) 497-0007 now.`,
+    paragraph: `Business downtime costs money every hour. Our commercial restoration team responds as soon as crews are available to Westfields, Sully Plaza, and all Dulles corridor locations with equipment scaled for commercial properties. Call (877) 497-0007 now.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Lorton, VA | Flood Doctor',
-    description: 'Emergency basement flooding repair in Lorton. Serving Laurel Hill, Gunston & South County. Crawlspace specialists. 30-min response. Call (877) 497-0007.',
+    description: 'Emergency basement flooding repair in Lorton. Serving Laurel Hill, Gunston & South County. Crawlspace specialists. rapid response. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in Lorton, Virginia',
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Basement flooding in Lorton strikes at the worst times—during spring storms when the Occoquan River watershed reaches capacity, during summer thunderstorms that overwhelm drainage systems in Laurel Hill's newer developments, or on winter nights when frozen pipes burst in unheated South County basements. When water fills your finished basement, every minute counts.
 
-Flood Doctor has rescued Lorton basements for nearly two decades. We've pumped out flooded finished basements in Laurel Hill townhomes, dried water-damaged crawlspaces throughout Mason Neck's wooded properties, and saved home theaters and guest bedrooms in Gunston's established neighborhoods. When your neighbor needs basement flood help, they call us—because we understand Lorton's unique flooding risks.`,
+Flood Doctor has rescued Lorton basements for nearly two decades. When your neighbor needs basement flood help, they call us—because we understand Lorton's unique flooding risks.`,
       `Lorton basement flooding differs from typical Northern Virginia patterns. The Occoquan River watershed creates flood risk during heavy rain that affects properties miles from actual waterfront. South County's clay-heavy soil prevents proper drainage and creates hydrostatic pressure against foundations during wet seasons. Laurel Hill's rapid development sometimes means inadequate grading where builders rushed construction. Mason Neck's high water tables near the Potomac create persistent moisture even without visible flooding.
 
-Our IICRC Master Water Restorers don't just pump basements dry. We understand that your Laurel Hill finished basement represents significant investment, that your Gunston property's foundation needs careful assessment after flooding, and that your Occoquan home's historic construction requires gentle restoration approaches that protect original materials.`,
+Our water-damage restoration team don't just pump basements dry. We understand that your Laurel Hill finished basement represents significant investment, that your Gunston property's foundation needs careful assessment after flooding, and that your Occoquan home's historic construction requires gentle restoration approaches that protect original materials.`,
     ],
-    localContext: `Lorton's basement flooding challenges range from new construction drainage failures in Laurel Hill to tidal influences on Mason Neck crawlspaces to clay soil foundation seepage throughout South County. We've addressed every basement flood scenario in our community for years.`,
+    localContext: `Lorton's basement flooding challenges range from new construction drainage failures in Laurel Hill to tidal influences on Mason Neck crawlspaces to clay soil foundation seepage throughout South County. `,
   },
   processSteps: [
     {
       title: 'Emergency Response Within 30 Minutes',
-      description: 'When water fills your Lorton basement, call (877) 497-0007 immediately. Our crews dispatch from South Fairfax County staging areas positioned to reach Laurel Hill, Mason Neck, Occoquan, and South County within 30 minutes—day or night, weekends and holidays included.',
-      timeframe: 'Within 30 minutes',
+      description: 'When water fills your Lorton basement, call (877) 497-0007 immediately. Our crews dispatch from South Fairfax County staging areas positioned to reach Laurel Hill, Mason Neck, Occoquan, and South County as soon as crews are available—day or night, weekends and holidays included.',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Safety Assessment & Power Management',
@@ -36,7 +36,7 @@ Our IICRC Master Water Restorers don't just pump basements dry. We understand th
     },
     {
       title: 'Content Removal & Protection',
-      description: 'We move savable contents to dry areas and identify items requiring specialized restoration—electronics, furniture, documents. For Laurel Hill homeowners with finished basements containing home offices or recreation spaces, content protection minimizes your total loss.',
+      description: 'We move savable contents to dry areas and identify items requiring specialized restoration—electronics, furniture, documents. For Laurel Hill homeowners with finished basements containing home workspaces or recreation spaces, content protection minimizes your total loss.',
       timeframe: 'Hours 2-6',
     },
     {
@@ -101,7 +101,7 @@ Our IICRC Master Water Restorers don't just pump basements dry. We understand th
       },
       {
         name: 'Moisture Detection Meters',
-        purpose: 'Measure moisture content in concrete, drywall, and wood to verify complete drying before reconstruction',
+        purpose: 'Measure moisture content in concrete, drywall, and wood to verify documented drying before reconstruction',
       },
       {
         name: 'Negative Air Machines',
@@ -116,12 +116,12 @@ Our IICRC Master Water Restorers don't just pump basements dry. We understand th
   },
   pricingSection: {
     headline: 'Basement Flooding Repair Costs in Lorton',
-    intro: 'Basement flood repair costs in Lorton vary significantly based on water volume, contamination category, square footage, and finish level. We provide free emergency inspections and detailed estimates. Most homeowners file insurance claims—and we handle direct billing to streamline the process.',
+    intro: 'Basement flood repair costs in Lorton vary significantly based on water volume, contamination category, square footage, and finish level. We provide free emergency inspections and detailed estimates. Most homeowners file insurance claims—and we handle carrier coordination to streamline the process.',
     factors: [
       'Basement size and configuration—finished basements cost more to restore than unfinished storage areas',
       'Water contamination category—clean groundwater differs from sewer backup requiring biohazard protocols',
       'Duration before response—calling within the first hour dramatically reduces damage and costs',
-      'Contents affected—home theaters, home offices, and living spaces increase restoration complexity',
+      'Contents affected—home theaters, home workspaces, and living spaces increase restoration complexity',
       'Foundation condition—identifying entry points may reveal needed waterproofing beyond immediate flood cleanup',
     ],
     cta: `Call (877) 497-0007 for immediate basement flood response and a free damage assessment. We'll provide a detailed estimate and explain your insurance coverage options specific to Lorton basement flooding.`,
@@ -139,7 +139,7 @@ Our IICRC Master Water Restorers don't just pump basements dry. We understand th
       'Silverbrook',
       'South Run',
     ],
-    responseTime: '30-minute emergency response to all Lorton neighborhoods. Our basement flood crews are stationed throughout South Fairfax County for immediate dispatch when your basement floods—24/7/365.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
@@ -164,7 +164,7 @@ Our IICRC Master Water Restorers don't just pump basements dry. We understand th
     },
     {
       question: 'How long does basement flood drying take in Lorton?',
-      answer: `Typical basement flood drying takes 3-7 days depending on water volume, affected materials, and ambient humidity. Lorton's humid climate—especially near waterfront areas—can extend drying times. We monitor daily with meters and thermal imaging and don't remove equipment until moisture levels verify complete drying.`,
+      answer: `Typical basement flood drying takes 3-7 days depending on water volume, affected materials, and ambient humidity. Lorton's humid climate—especially near waterfront areas—can extend drying times. We monitor daily with meters and thermal imaging and don't remove equipment until moisture levels verify documented drying.`,
     },
     {
       question: 'What about crawlspace flooding under my Mason Neck home?',
@@ -172,12 +172,12 @@ Our IICRC Master Water Restorers don't just pump basements dry. We understand th
     },
     {
       question: 'Do you handle sewer backup in Lorton basements?',
-      answer: `Yes. Sewer backup (Category 3 black water) requires specialized biohazard cleanup protocols. We're certified for all contamination categories and use EPA-registered antimicrobials, safe disposal practices, and proper protective equipment. Many Lorton properties—especially older Gunston and Occoquan homes—experience sewer backup during heavy storms.`,
+      answer: `Yes. Sewer backup (Category 3 black water) requires specialized biohazard cleanup protocols. We're trained for all contamination categories and use EPA-registered antimicrobials, safe disposal practices, and proper protective equipment. Many Lorton properties—especially older Gunston and Occoquan homes—experience sewer backup during heavy storms.`,
     },
   ],
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],
   finalCTA: {
     headline: 'Basement Flooding Emergency in Lorton?',
-    paragraph: `Don't wait—basement flooding damage worsens every hour. Our crews are stationed throughout South Fairfax County for 30-minute response to Lorton basement emergencies. One call gets immediate help and handles your insurance claim.`,
+    paragraph: `Don't wait—basement flooding damage worsens every hour. Our crews are available throughout South Fairfax County for rapid response to Lorton basement emergencies. One call gets immediate help and handles your insurance claim.`,
   },
 }

@@ -27,7 +27,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Chain-of-Custody Laboratory Analysis`,
-      description: `Samples are submitted to AIHA-accredited or NVLAP-certified laboratories under documented chain-of-custody. Analysis methods are selected based on regulatory requirements and the specific hazard being evaluated.`,
+      description: `Samples are submitted to AIHA-accredited or NVLAP-trained laboratories under documented chain-of-custody. Analysis methods are selected based on regulatory requirements and the specific hazard being evaluated.`,
       timeframe: `3-7 business days`,
     },
     {
@@ -45,7 +45,7 @@ export const content: CityServiceContent = {
     {
       title: `Lead Paint in Historic Properties`,
       description: `Homes built before 1978 in the Leesburg Historic District, Edwards Ferry, and surrounding areas likely contain lead-based paint. Renovation and restoration work can create hazardous lead dust if not properly managed.`,
-      solution: `EPA-certified lead paint testing identifies the presence and condition of lead-based paint on specific surfaces. Results inform renovation protocols, determine whether RRP Rule compliance is required, and support disclosure requirements for real estate transactions.`,
+      solution: `EPA-trained lead paint testing identifies the presence and condition of lead-based paint on specific surfaces. Results inform renovation protocols, determine whether RRP Rule compliance is required, and support disclosure requirements for real estate transactions.`,
     },
     {
       title: `Asbestos in Pre-1980 Construction`,
@@ -134,7 +134,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `What accreditations do your testing laboratories hold?`,
-      answer: `We use AIHA-accredited and NVLAP-certified laboratories for all environmental analysis. These accreditations ensure analytical quality, regulatory acceptance, and defensibility of results.`,
+      answer: `We use AIHA-accredited and NVLAP-trained laboratories for all environmental analysis. These accreditations ensure analytical quality, regulatory acceptance, and defensibility of results.`,
     },
   ],
   relatedBlogSlugs: [

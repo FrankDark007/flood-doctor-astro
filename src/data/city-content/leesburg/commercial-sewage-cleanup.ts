@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Emergency commercial sewage cleanup for Leesburg businesses. Downtown buildings, restaurants, retail centers, and government offices. Call (877) 497-0007.`,
+    description: `Emergency commercial sewage cleanup for Leesburg businesses. Downtown buildings, restaurants, retail centers, and government workspaces. Call (877) 497-0007.`,
   },
   h1: `Leesburg Commercial Sewage Cleanup`,
   introSection: {
     headline: `Immediate Commercial Sewage Response for Leesburg Businesses`,
     paragraphs: [
-      `Sewage events in commercial properties create immediate health hazards, regulatory violations, and business shutdowns that demand professional hazmat response within hours. Leesburg's downtown commercial district, with its aging municipal sewer connections and shared plumbing in historic buildings, is particularly vulnerable. But sewage backups also affect modern commercial spaces at Village at Leesburg, Leesburg Corner Premium Outlets, and professional offices throughout the area.`,
-      `Flood Doctor provides emergency commercial sewage cleanup with full OSHA-compliant hazmat protocols. Our crews understand the urgency — a sewage event at a Leesburg restaurant means a health department closure, a backup in a medical office means patient safety risks, and contamination in a retail space means immediate liability concerns. We respond accordingly, with speed and thoroughness that gets your business back to operation safely.`,
+      `Sewage events in commercial properties create immediate health hazards, regulatory violations, and business shutdowns that demand professional hazmat response within hours. Leesburg's downtown commercial district, with its aging municipal sewer connections and shared plumbing in historic buildings, is particularly vulnerable. But sewage backups also affect modern commercial spaces at Village at Leesburg, Leesburg Corner Premium Outlets, and professional workspaces throughout the area.`,
+      `Flood Doctor provides emergency commercial sewage cleanup with full OSHA-compliant hazmat protocols. Our crews understand the urgency — a sewage event at a Leesburg restaurant means a health department closure, a backup in a medical workspace means patient safety risks, and contamination in a retail space means immediate liability concerns. We respond accordingly, with speed and thoroughness that gets your business back to operation safely.`,
     ],
     localContext: `Leesburg's mix of aging downtown sewer infrastructure and modern commercial development creates diverse sewage risk profiles, from root-infiltrated century-old sewer lines to overtaxed newer systems during rapid commercial growth.`,
   },
@@ -18,12 +18,12 @@ export const content: CityServiceContent = {
     {
       title: `Emergency Hazmat Dispatch`,
       description: `Call (877) 497-0007 for immediate commercial sewage response. Crews arrive in full PPE with containment materials, extraction equipment, and decontamination supplies ready for deployment.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Containment & Hazard Isolation`,
       description: `The contaminated area is isolated with containment barriers to prevent cross-contamination to clean areas of the business. Negative air pressure prevents airborne pathogen migration.`,
-      timeframe: `30-60 minutes`,
+      timeframe: `as soon as crews are available`,
     },
     {
       title: `Sewage Extraction & Material Removal`,
@@ -49,12 +49,12 @@ export const content: CityServiceContent = {
     },
     {
       title: `Restaurant and Food Service Contamination`,
-      description: `Sewage events in Leesburg's downtown restaurants and food service establishments trigger immediate health department closure and require certified decontamination before reopening is permitted.`,
+      description: `Sewage events in Leesburg's downtown restaurants and food service establishments trigger immediate health department closure and require trained decontamination before reopening is permitted.`,
       solution: `Our commercial sewage protocols meet or exceed Loudoun County Health Department requirements. We provide all documentation needed for reopening inspection and can expedite the process to minimize business closure time.`,
     },
     {
-      title: `Medical and Professional Office Contamination`,
-      description: `Sewage contamination in medical offices, dental practices, and professional suites in Leesburg creates patient safety concerns and potential OSHA violations that require documented hazmat cleanup.`,
+      title: `Medical and Professional Workspace Contamination`,
+      description: `Sewage contamination in medical workspaces, dental practices, and professional suites in Leesburg creates patient safety concerns and potential OSHA violations that require documented hazmat cleanup.`,
       solution: `We provide OSHA-compliant sewage cleanup with full documentation suitable for regulatory requirements. Medical facilities receive additional attention to infection control protocols and equipment decontamination.`,
     },
     {
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `30-45 minutes for commercial sewage emergencies in Leesburg, with priority dispatch for food service, medical, and public-facing businesses.`,
+    responseTime: `as soon as crews are available for commercial sewage emergencies in Leesburg, with priority dispatch for food service, medical, and public-facing businesses.`,
   },
   faqs: [
     {

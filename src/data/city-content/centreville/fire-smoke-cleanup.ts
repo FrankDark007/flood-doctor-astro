@@ -11,10 +11,10 @@ export const content: CityServiceContent = {
     paragraphs: [
       `After a fire in your Centreville home, the visible damage is just the beginning. Smoke and soot penetrate every surface, seep into HVAC ductwork, and embed in soft furnishings throughout the house—even rooms the fire never touched. Your Virginia Run colonial, your Centre Ridge townhome, or your Little Rocky Run family home needs more than basic cleaning. It needs professional fire and smoke restoration that addresses soot chemistry, smoke odor pathways, and secondary water damage from firefighting efforts.
 
-Flood Doctor provides complete fire and smoke cleanup throughout Centreville. We've restored smoke-damaged homes in Sully Station, cleaned soot from Centreville Farms finishes, and eliminated fire odors from London Towne properties. Our IICRC-certified technicians understand smoke behavior in 1990s-2000s construction—how it travels through open floor plans, infiltrates HVAC systems, and embeds in the materials used in this era of homes.`,
+Flood Doctor provides complete fire and smoke cleanup throughout Centreville. Our trained technicians understand smoke behavior in 1990s-2000s construction—how it travels through open floor plans, infiltrates HVAC systems, and embeds in the materials used in this era of homes.`,
       `Fire damage restoration involves three simultaneous challenges: structural smoke and soot damage, water damage from firefighting, and the pervasive odor that clings to every surface. In Centreville's larger homes with open floor plans and connected HVAC systems, smoke can contaminate the entire house from a kitchen fire that lasted minutes. Water from fire hoses saturates structure and finishes, creating secondary damage that requires professional drying to prevent mold.
 
-Our restoration approach addresses all three challenges in parallel. We extract firefighting water, clean soot from salvageable surfaces and contents, treat smoke odor at the molecular level, and coordinate the full restoration from demolition through rebuild. One company, one point of contact, complete restoration.`,
+Our restoration approach addresses all three challenges in parallel. We extract firefighting water, clean soot from salvageable surfaces and contents, treat smoke odor at the molecular level, and coordinate the full restoration from demolition through rebuild. One company, one point of contact, full recovery planning.`,
     ],
     localContext: `Centreville's 1990s-2000s homes with open floor plans, central HVAC systems, and large square footage allow smoke to spread rapidly throughout the entire structure—making professional smoke cleanup essential even for small fire events.`,
   },
@@ -102,7 +102,7 @@ Our restoration approach addresses all three challenges in parallel. We extract 
   },
   pricingSection: {
     headline: 'Fire & Smoke Cleanup Costs in Centreville',
-    intro: `Fire and smoke restoration costs depend on fire severity, smoke distribution, and reconstruction scope. Homeowner's insurance covers fire damage—we coordinate with your carrier from first notice through final payment and handle direct billing.`,
+    intro: `Fire and smoke restoration costs depend on fire severity, smoke distribution, and reconstruction scope. Homeowner's insurance covers fire damage—we coordinate with your carrier from first notice through final payment and handle carrier coordination.`,
     factors: [
       'Fire severity—extent of structural damage determines demolition and reconstruction scope',
       'Smoke distribution—open floor plans and HVAC spread increase the affected area beyond the fire itself',
@@ -128,7 +128,7 @@ Our restoration approach addresses all three challenges in parallel. We extract 
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `Emergency response within 30 minutes to all Centreville neighborhoods for fire board-up and smoke damage assessment.`,
+    responseTime: `Emergency response as soon as crews are available to all Centreville neighborhoods for fire board-up and smoke damage assessment.`,
   },
   faqs: [
     {

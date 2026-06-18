@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Healthcare Facility Restoration in Chantilly, VA | Flood Doctor',
-    description: `Healthcare facility water damage and mold restoration in Chantilly. HIPAA-compliant, infection control protocols. Serving Dulles corridor medical offices. Call (877) 497-0007.`,
+    description: `Healthcare facility water damage and mold restoration in Chantilly. HIPAA-compliant, infection control protocols. Serving Dulles corridor medical workspaces. Call (877) 497-0007.`,
   },
   h1: 'Healthcare Facility Restoration in Chantilly, Virginia',
   introSection: {
     headline: `Specialized Restoration for Chantilly's Healthcare Facilities`,
     paragraphs: [
-      `Healthcare facility restoration in Chantilly demands expertise that goes far beyond standard commercial restoration. Medical offices near Westfields Business Park, urgent care centers along Route 50, dental practices at Sully Plaza, and specialty clinics throughout the Dulles corridor all face unique challenges when water, fire, or mold threaten their operations. Patient safety, HIPAA compliance, infection control protocols, and regulatory requirements add layers of complexity that require restoration teams trained specifically in healthcare environments.`,
-      `Flood Doctor provides healthcare-specialized restoration for medical facilities throughout Chantilly and the Dulles corridor. Our teams understand that medical equipment costs hundreds of thousands of dollars, that patient records require HIPAA-compliant handling, that infection control must be maintained throughout restoration, and that patient scheduling pressures demand rapid facility return. From South Riding medical plazas to Chantilly Highlands dental offices to specialty practices near the Air and Space Museum Udvar-Hazy Center area, we restore healthcare spaces with the protocols these environments demand.`,
+      `Healthcare facility restoration in Chantilly demands expertise that goes far beyond standard commercial restoration. Medical workspaces near Westfields Business Park, urgent care centers along Route 50, dental practices at Sully Plaza, and specialty clinics throughout the Dulles corridor all face unique challenges when water, fire, or mold threaten their operations. Patient safety, HIPAA compliance, infection control protocols, and regulatory requirements add layers of complexity that require restoration teams trained specifically in healthcare environments.`,
+      `Flood Doctor provides healthcare-specialized restoration for medical facilities throughout Chantilly and the Dulles corridor. Our teams understand that medical equipment costs hundreds of thousands of dollars, that patient records require HIPAA-compliant handling, that infection control must be maintained throughout restoration, and that patient scheduling pressures demand rapid facility return. From South Riding medical plazas to Chantilly Highlands dental workspaces to specialty practices near the Air and Space Museum Udvar-Hazy Center area, we restore healthcare spaces with the protocols these environments demand.`,
     ],
-    localContext: `Chantilly's Dulles corridor hosts a significant concentration of healthcare facilities—medical offices, dental practices, urgent care, and specialty clinics—that require restoration partners who understand healthcare regulatory requirements and patient safety protocols.`,
+    localContext: `Chantilly's Dulles corridor hosts a significant concentration of healthcare facilities—medical workspaces, dental practices, urgent care, and specialty clinics—that require restoration partners who understand healthcare regulatory requirements and patient safety protocols.`,
   },
   processSteps: [
     {
@@ -98,11 +98,11 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `Priority response for healthcare facility emergencies throughout Chantilly. Medical facility water damage and contamination events receive immediate dispatch.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
-      question: `Can you maintain infection control during restoration of our Chantilly medical office?`,
+      question: `Can you maintain infection control during restoration of our Chantilly medical workspace?`,
       answer: `Yes. We use healthcare-grade containment with negative air pressure and HEPA filtration. Our protocols maintain infection control standards throughout restoration, preventing contamination of clinical spaces.`,
     },
     {
@@ -119,11 +119,11 @@ export const content: CityServiceContent = {
     },
     {
       question: `Do you understand healthcare regulatory requirements?`,
-      answer: `Yes. Our healthcare restoration team is trained in facility standards for medical offices, dental practices, and specialty clinics. We provide documentation that supports regulatory compliance during and after restoration.`,
+      answer: `Yes. Our healthcare restoration team is trained in facility standards for medical workspaces, dental practices, and specialty clinics. We provide documentation that supports regulatory compliance during and after restoration.`,
     },
     {
-      question: `How quickly can our medical office reopen after water damage?`,
-      answer: `Timeline depends on damage scope, but we prioritize medical facilities for accelerated restoration. Many Chantilly medical offices return to partial operations within days and full operations within 1-2 weeks.`,
+      question: `How quickly can our medical workspace reopen after water damage?`,
+      answer: `Timeline depends on damage scope, but we prioritize medical facilities for accelerated restoration. Many Chantilly medical workspaces return to partial operations within days and full operations within 1-2 weeks.`,
     },
   ],
   relatedBlogSlugs: [

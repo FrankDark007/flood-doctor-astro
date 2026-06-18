@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Expert Mold Remediation for Leesburg's Historic and Modern Properties`,
     paragraphs: [
       `Mold thrives in Leesburg's humid summers and readily colonizes the diverse building materials found across the county seat. Historic homes in the Edwards Ferry area and the Leesburg Historic District, with their stone foundations, plaster walls, and limited ventilation, are particularly susceptible. But even modern construction in Village at Leesburg and Lansdowne can develop mold when moisture intrusion goes undetected behind finished walls and in basement spaces.`,
-      `Flood Doctor provides comprehensive mold remediation that goes beyond surface cleaning. Our IICRC-certified technicians identify the moisture source driving mold growth, contain and remove the contamination, and restore affected materials — all while protecting Leesburg's irreplaceable historic architecture from unnecessary demolition.`,
+      `Flood Doctor provides comprehensive mold remediation that goes beyond surface cleaning. Our trained technicians identify the moisture source driving mold growth, contain and remove the contamination, and restore affected materials — all while protecting Leesburg's irreplaceable historic architecture from unnecessary demolition.`,
     ],
     localContext: `Leesburg's combination of humid Piedmont climate, aging historic construction, and rapidly developed modern neighborhoods creates ideal conditions for mold growth in properties of every age and type.`,
   },
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `Same-day mold inspections available for Leesburg properties. Emergency response within 60 minutes for active water damage with mold risk.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {

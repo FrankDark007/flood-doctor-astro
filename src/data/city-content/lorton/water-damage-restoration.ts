@@ -3,30 +3,30 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Lorton, VA | Flood Doctor',
-    description: `Lorton's trusted water damage restoration experts. 30-min response to Laurel Hill, Mason Neck & Occoquan. Waterfront property specialists. Call (877) 497-0007.`,
+    description: `Lorton's local water damage restoration specialists. rapid response to Laurel Hill, Mason Neck & Occoquan. Waterfront property specialists. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Lorton, Virginia',
   introSection: {
     headline: `Protecting Lorton's Waterfront and Growing Community`,
     paragraphs: [
-      `When water invades your Lorton home, you need restoration experts who understand our unique community. Whether you're in a new construction townhome in Laurel Hill, a waterfront property along the Occoquan River, or an established single-family home in Gunston, water damage requires immediate professional response.
+      `When water invades your Lorton home, you need restoration specialists who understand our unique community. Whether you're in a new construction townhome in Laurel Hill, a waterfront property along the Occoquan River, or an established single-family home in Gunston, water damage requires immediate professional response.
 
-Flood Doctor has served Lorton's growing community for nearly two decades. We've extracted standing water from Laurel Hill's newest developments, dried crawlspaces in Mason Neck's wooded properties, and protected historic homes throughout Occoquan. When your South County neighbor recommends a water restoration company, they mention us—because we've already served their street.`,
+`,
       `Lorton's water damage challenges reflect our geographic diversity. The Occoquan River watershed creates higher flood risk during spring storms and tropical weather systems. Mason Neck's waterfront properties deal with tidal influences and high water tables that generic restoration companies don't understand. Laurel Hill's rapid development created drainage infrastructure that can be overwhelmed during exceptional rainfall events.
 
-Our IICRC-certified technicians don't just extract water and leave. We understand that your new Laurel Hill townhome's modern building systems require different approaches than Occoquan's historic properties, that Mason Neck's crawlspace foundations need specialized moisture control, and that South County's clay soil creates unique foundation water intrusion patterns.`,
+Our trained technicians don't just extract water and leave. We understand that your new Laurel Hill townhome's modern building systems require different approaches than Occoquan's historic properties, that Mason Neck's crawlspace foundations need specialized moisture control, and that South County's clay soil creates unique foundation water intrusion patterns.`,
     ],
-    localContext: `Lorton spans new construction developments, established neighborhoods, and waterfront properties—each requiring specialized restoration expertise. We've protected investments throughout Laurel Hill, Mason Neck, Occoquan, South County, and Gunston for years.`,
+    localContext: `Lorton spans new construction developments, established neighborhoods, and waterfront properties—each requiring specialized restoration expertise. `,
   },
   processSteps: [
     {
       title: 'Rapid 30-Minute Emergency Response',
-      description: 'When you call our Lorton hotline at (877) 497-0007, we dispatch from our South Fairfax County staging area immediately. Our trucks are positioned to reach Laurel Hill, Mason Neck, Occoquan, and South County within our 30-minute guarantee—strategically stationed near Lorton Station and along the Route 1 corridor, not at a distant warehouse.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call our Lorton hotline at (877) 497-0007, we dispatch from our South Fairfax County staging area immediately. Our trucks are positioned to reach Laurel Hill, Mason Neck, Occoquan, and South County within our rapid service commitment—strategically available near Lorton Station and along the Route 1 corridor, not at a distant warehouse.',
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Complete Water Damage Assessment',
-      description: `Our IICRC-certified lead technician assesses the full scope using thermal imaging cameras that detect hidden moisture behind walls, under flooring, and in ceiling cavities. In Lorton homes, this often reveals water migration from inadequate drainage around Laurel Hill properties or tidal seepage in Mason Neck crawlspaces that isn't immediately visible.`,
+      description: `Our trained lead technician assesses the full scope using thermal imaging cameras that detect hidden moisture behind walls, under flooring, and in ceiling cavities. In Lorton homes, this often reveals water migration from inadequate drainage around Laurel Hill properties or tidal seepage in Mason Neck crawlspaces that isn't immediately visible.`,
       timeframe: 'First hour',
     },
     {
@@ -74,7 +74,7 @@ Our IICRC-certified technicians don't just extract water and leave. We understan
     {
       title: 'Septic System Overflow',
       description: 'Many older Lorton properties—particularly in Gunston and near Occoquan—operate on private septic systems rather than public sewer. When heavy rain saturates drain fields, these systems can back up into homes, creating Category 3 (black water) contamination requiring specialized cleanup protocols.',
-      solution: `We're certified for all water categories including Category 3 biohazard cleanup. Our antimicrobial treatments and safe disposal protocols protect your family from sewage-related health risks while coordinating with septic specialists for system repairs.`,
+      solution: `We're trained for all water categories including Category 3 biohazard cleanup. Our antimicrobial treatments and safe disposal protocols protect your family from sewage-related health risks while coordinating with septic specialists for system repairs.`,
     },
   ],
   equipmentSection: {
@@ -101,7 +101,7 @@ Our IICRC-certified technicians don't just extract water and leave. We understan
       },
       {
         name: 'Moisture Meters (Pinless & Probe)',
-        purpose: 'Measure moisture content in wood, drywall, and subflooring to verify complete drying and prevent mold growth',
+        purpose: 'Measure moisture content in wood, drywall, and subflooring to verify documented drying and prevent mold growth',
       },
       {
         name: 'Negative Air Machines',
@@ -117,7 +117,7 @@ Our IICRC-certified technicians don't just extract water and leave. We understan
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Lorton',
-    intro: 'Lorton water damage restoration costs vary based on damage extent, water category, affected square footage, and property type. We provide free inspections and detailed written estimates before work begins. Most Lorton homeowners file insurance claims—and we handle direct billing with all major carriers.',
+    intro: 'Lorton water damage restoration costs vary based on damage extent, water category, affected square footage, and property type. We provide free inspections and detailed written estimates before work begins. Most Lorton homeowners file insurance claims—and we handle insurance documentation and carrier coordination.',
     factors: [
       'Square footage affected—larger homes and multi-level water migration increase costs',
       'Water category—clean water from burst pipes costs less to remediate than septic backup (Category 3)',
@@ -140,7 +140,7 @@ Our IICRC-certified technicians don't just extract water and leave. We understan
       'South Run',
       'Silverbrook',
     ],
-    responseTime: '30-minute response to all Lorton neighborhoods. Our crews are strategically positioned near Lorton Station and along the Route 1/Lorton Road corridor for immediate emergency dispatch throughout South Fairfax County.',
+    responseTime: 'Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.',
   },
   faqs: [
     {
@@ -153,15 +153,15 @@ Our IICRC-certified technicians don't just extract water and leave. We understan
     },
     {
       question: 'What about water damage in new Laurel Hill homes?',
-      answer: `Absolutely. We've restored hundreds of newer Lorton properties and understand the specific challenges: inadequate grading, builder-grade waterproofing failures, and drainage infrastructure that wasn't designed for exceptional rainfall. For homes potentially under builder warranty, our detailed documentation supports claims against developers.`,
+      answer: `Absolutely. For homes potentially under builder warranty, our detailed documentation supports claims against developers.`,
     },
     {
       question: 'Will you work directly with my insurance company?',
-      answer: 'Yes. We handle direct billing with all major carriers and provide comprehensive documentation—photos, moisture readings, daily monitoring logs, and detailed estimates—that insurance adjusters require. Our professional reports often improve claim outcomes for Lorton homeowners.',
+      answer: 'Yes. We handle insurance documentation and carrier coordination and provide comprehensive documentation—photos, moisture readings, daily monitoring logs, and detailed estimates—that insurance adjusters require. Our professional reports often improve claim outcomes for Lorton homeowners.',
     },
     {
       question: 'How do you prevent mold after water damage?',
-      answer: 'Thorough drying within 24-48 hours prevents mold growth. We use industrial dehumidifiers and air movers to reduce moisture to safe levels (verified with both meters and thermal imaging), then monitor daily until complete drying is confirmed. Rushing the process or incomplete drying invites mold problems weeks or months later.',
+      answer: 'Thorough drying within 24-48 hours prevents mold growth. We use industrial dehumidifiers and air movers to reduce moisture to safe levels (verified with both meters and thermal imaging), then monitor daily until documented drying is confirmed. Rushing the process or indocumented drying invites mold problems weeks or months later.',
     },
     {
       question: 'Can you dry crawlspaces under Mason Neck homes?',
@@ -169,11 +169,11 @@ Our IICRC-certified technicians don't just extract water and leave. We understan
     },
     {
       question: 'What if my septic system backed up into my home?',
-      answer: `Septic backup is a Category 3 (black water) emergency requiring specialized cleanup protocols. We're certified for biohazard cleanup, including antimicrobial treatment, safe disposal, and odor elimination. Many older Gunston and Occoquan properties use septic—we coordinate with local septic specialists during restoration.`,
+      answer: `Septic backup is a Category 3 (black water) emergency requiring specialized cleanup protocols. We're trained for biohazard cleanup, including antimicrobial treatment, safe disposal, and odor elimination. Many older Gunston and Occoquan properties use septic—we coordinate with local septic specialists during restoration.`,
     },
     {
       question: `Do you serve Occoquan's historic downtown properties?`,
-      answer: `Definitely. Historic Occoquan properties require specialized care—we've restored homes dating to the 1700s-1800s with original wood flooring, plaster walls, and stone foundations. We use gentle drying methods that protect historic materials while thoroughly removing moisture to prevent rot and structural damage.`,
+      answer: `Historic Occoquan properties can require specialized care for original wood flooring, plaster walls, and stone foundations. We use gentle drying methods intended to protect historic materials while thoroughly removing moisture to reduce rot and structural damage risk.`,
     },
   ],
   relatedBlogSlugs: [
@@ -183,6 +183,6 @@ Our IICRC-certified technicians don't just extract water and leave. We understan
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Lorton?',
-    paragraph: 'Every hour of delay means more damage, higher costs, and increased mold risk. Our crews are stationed throughout South Fairfax County for immediate 30-minute response to all Lorton neighborhoods. One call handles everything—from water extraction to insurance documentation.',
+    paragraph: 'Every hour of delay means more damage, higher costs, and increased mold risk. Our crews are available throughout South Fairfax County for immediate rapid response to all Lorton neighborhoods. One call handles everything—from water extraction to insurance documentation.',
   },
 }

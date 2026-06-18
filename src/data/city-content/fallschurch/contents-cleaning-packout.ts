@@ -21,7 +21,7 @@ Every item we handle is inventoried with photographs, condition notes, and barco
   processSteps: [
     {
       title: 'Emergency Triage',
-      description: `Within 30 minutes of calling (877) 497-0007, we stabilize time-sensitive items. Documents from your Falls Church City study are bagged for freezing. Electronics from the Lake Barcroft family room are disconnected. Antiques and artwork receive immediate assessment.`,
+      description: `After you call (877) 497-0007, we stabilize time-sensitive items. Documents from your Falls Church City study are bagged for freezing. Electronics from the Lake Barcroft family room are disconnected. Antiques and artwork receive immediate assessment.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -123,7 +123,7 @@ Every item we handle is inventoried with photographs, condition notes, and barco
       'Greenway Downs',
       'Glen Forest',
     ],
-    responseTime: '30-minute emergency response throughout Falls Church for priority item stabilization. Pack-out scheduling adapts to property type and building access requirements.',
+    responseTime: 'rapid emergency response throughout Falls Church for priority item stabilization. Pack-out scheduling adapts to property type and building access requirements.',
   },
   faqs: [
     {
@@ -144,7 +144,7 @@ Every item we handle is inventoried with photographs, condition notes, and barco
     },
     {
       question: 'Does renter insurance cover contents restoration?',
-      answer: 'Yes. Renter insurance (HO-4) covers personal property restoration following covered events. We format documentation for renter policy requirements and handle direct billing with your carrier.',
+      answer: 'Yes. Renter insurance (HO-4) covers personal property restoration following covered events. We format documentation for renter policy requirements and handle coordination with your carrier.',
     },
     {
       question: 'How long does restoration take?',
@@ -157,6 +157,6 @@ Every item we handle is inventoried with photographs, condition notes, and barco
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Falls Church Home?',
-    paragraph: 'Whether you live in a historic bungalow, lakefront property, or apartment, your belongings deserve professional restoration that saves what matters most. Our Falls Church team responds within 30 minutes. Call (877) 497-0007.',
+    paragraph: 'Whether you live in a historic bungalow, lakefront property, or apartment, your belongings deserve professional restoration that saves what matters most. Our Falls Church team responds as soon as crews are available. Call (877) 497-0007.',
   },
 }

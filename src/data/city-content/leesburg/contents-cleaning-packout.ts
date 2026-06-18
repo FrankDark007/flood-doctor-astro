@@ -37,7 +37,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Return & Placement`,
-      description: `Cleaned items are returned to your Leesburg home and placed according to your instructions. We provide a complete inventory report documenting pre-loss condition, damage, treatment, and post-restoration condition.`,
+      description: `Cleaned items are returned to your Leesburg home and placed according to your instructions. We provide a complete inventory report documenting a stable, usable condition, damage, treatment, and post-restoration condition.`,
       timeframe: `Scheduled with homeowner`,
     },
   ],

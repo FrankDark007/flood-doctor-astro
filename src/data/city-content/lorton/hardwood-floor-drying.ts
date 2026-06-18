@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Lorton Response',
-      description: `Call (877) 497-0007 and our I-95 corridor crews reach your Lorton home within 30 minutes. Assessment includes hardwood species identification, moisture mapping across the affected area, and evaluation of environmental moisture sources—particularly important for homes near the Occoquan or in wooded Mason Neck settings.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our I-95 corridor crews reach your Lorton home as soon as crews are available. Assessment includes hardwood species identification, moisture mapping across the affected area, and evaluation of environmental moisture sources—particularly important for homes near the Occoquan or in wooded Mason Neck settings.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Source-Aware Extraction',
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Lorton Valley',
       'Lorton Station',
     ],
-    responseTime: '30-minute emergency response throughout Lorton. Our I-95 corridor crews reach Laurel Hill, Mason Neck, Occoquan, and South County with complete hardwood drying and environmental assessment equipment.',
+    responseTime: 'rapid emergency response throughout Lorton. Our I-95 corridor crews reach Laurel Hill, Mason Neck, Occoquan, and South County with complete hardwood drying and environmental assessment equipment.',
   },
   faqs: [
     {

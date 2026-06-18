@@ -23,7 +23,7 @@ export const content: CityServiceContent = {
     {
       title: `Environmental Conditions Survey`,
       description: `Temperature, humidity, air exchange rate, and HVAC operation are documented throughout the property. These environmental factors directly influence contaminant levels and behavior.`,
-      timeframe: `30-60 minutes`,
+      timeframe: `as soon as crews are available`,
     },
     {
       title: `Air Sampling`,
@@ -60,7 +60,7 @@ export const content: CityServiceContent = {
     {
       title: `Well Water and Radon Interaction`,
       description: `Rural-adjacent Leesburg properties using well water may experience radon off-gassing from water supply and soil gas intrusion, particularly in homes along Evergreen Mills Road and Old Waterford Road.`,
-      solution: `We can incorporate radon screening into comprehensive IAQ assessments for properties with known risk factors. Elevated radon findings are referred to certified radon mitigation specialists.`,
+      solution: `We can incorporate radon screening into comprehensive IAQ assessments for properties with known risk factors. Elevated radon findings are referred to trained radon mitigation specialists.`,
     },
   ],
   equipmentSection: {

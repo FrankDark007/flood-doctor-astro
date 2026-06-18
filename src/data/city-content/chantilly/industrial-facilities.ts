@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Industrial Response',
-      description: `Call (877) 497-0007 for immediate industrial facility response. Our team coordinates with your facility engineers, safety officers, and operations managers to assess and begin mitigation while respecting industrial safety protocols.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 for immediate industrial facility response. Our team coordinates with your facility engineers, safety workspacers, and operations managers to assess and begin mitigation while respecting industrial safety protocols.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Critical Systems Assessment',
@@ -65,7 +65,7 @@ export const content: CityServiceContent = {
     {
       title: 'Environmental and Safety Compliance',
       description: `Industrial facilities face OSHA, EPA, and industry-specific regulatory requirements during restoration. Hazardous materials, confined spaces, and industrial safety protocols must be maintained throughout the restoration process.`,
-      solution: `Our industrial crews are trained in industrial safety protocols. We coordinate with your safety officers to maintain compliance throughout restoration and provide documentation for regulatory reporting requirements.`,
+      solution: `Our industrial crews are trained in industrial safety protocols. We coordinate with your safety workspacers to maintain compliance throughout restoration and provide documentation for regulatory reporting requirements.`,
     },
   ],
   pricingSection: {
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
       'Rocky Run',
       'Centrewood',
     ],
-    responseTime: `30-minute emergency response to all Chantilly industrial facilities. Data center and critical infrastructure emergencies receive immediate multi-crew deployment.`,
+    responseTime: `rapid emergency response to all Chantilly industrial facilities. Data center and critical infrastructure emergencies receive immediate multi-crew deployment.`,
   },
   faqs: [
     {
@@ -131,6 +131,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Industrial Facility Emergency in Chantilly?',
-    paragraph: `Industrial downtime costs compound by the hour. Our industrial restoration team responds within 30 minutes to Dulles corridor facilities with the equipment, crews, and operational understanding your facility demands. Call (877) 497-0007 now.`,
+    paragraph: `Industrial downtime costs compound by the hour. Our industrial restoration team responds as soon as crews are available to Dulles corridor facilities with the equipment, crews, and operational understanding your facility demands. Call (877) 497-0007 now.`,
   },
 }

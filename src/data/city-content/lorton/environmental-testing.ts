@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Lorton, VA | Flood Doctor',
-    description: `Lorton's certified environmental testing for mold, VOC, indoor air quality & hazardous materials. AIHA-accredited lab analysis for homes in Laurel Hill, Mason Neck & Occoquan. Call (877) 497-0007.`,
+    description: `Lorton's trained environmental testing for mold, VOC, indoor air quality & hazardous materials. AIHA-accredited lab analysis for homes in Laurel Hill, Mason Neck & Occoquan. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Lorton, Virginia',
   introSection: {
-    headline: `Certified Environmental Testing for Lorton Waterfront and New Development Properties`,
+    headline: `Trained Environmental Testing for Lorton Waterfront and New Development Properties`,
     paragraphs: [
       `Lorton\`s environmental testing profile spans two distinct property types—newer construction in Laurel Hill and South County developments built after 2005, and waterfront properties near Occoquan and Mason Neck where tidal influence, wooded lots, and proximity to Occoquan Bay create persistent moisture conditions. Laurel Hill homes share the new construction environmental challenges found in Ashburn—VOC off-gassing from engineered materials, construction defect water intrusion, and sealed-environment mold growth—while Occoquan-area properties face additional exposure to tidal flooding contamination, elevated water tables, and crawlspace moisture in densely wooded settings. Flood Doctor provides AIHA-accredited environmental testing addressing Lorton\`s full property spectrum—new construction VOC and mold assessment, waterfront contamination evaluation, crawlspace environmental testing, and construction defect documentation—with chain-of-custody laboratory protocols supporting both health investigation and builder warranty claims.`,
-      `Our certified inspectors have documented mold contamination in Laurel Hill homes where window flashing failures allowed water intrusion within three years of construction, quantified elevated VOC concentrations from engineered flooring in Gunston homes, and identified mold colonization on crawlspace structural framing in Mason Neck properties where wooded lots and proximity to Mason Neck State Park maintain persistently elevated humidity. Near the Workhouse Arts Center and Lorton VRE Station, older commercial structures undergoing renovation or adaptive reuse contain legacy asbestos and lead paint requiring regulatory-compliant identification. Whether you are investigating air quality in a new Laurel Hill home, assessing mold at an Occoquan waterfront property, or planning renovation of an older Lorton commercial building, our testing delivers the definitive laboratory data that transforms environmental uncertainty into documented, actionable findings.`,
+      `Our trained inspectors have documented mold contamination in Laurel Hill homes where window flashing failures allowed water intrusion within three years of construction, quantified elevated VOC concentrations from engineered flooring in Gunston homes, and identified mold colonization on crawlspace structural framing in Mason Neck properties where wooded lots and proximity to Mason Neck State Park maintain persistently elevated humidity. Near the Workhouse Arts Center and Lorton VRE Station, older commercial structures undergoing renovation or adaptive reuse contain legacy asbestos and lead paint requiring regulatory-compliant identification. Whether you are investigating air quality in a new Laurel Hill home, assessing mold at an Occoquan waterfront property, or planning renovation of an older Lorton commercial building, our testing delivers the definitive laboratory data that transforms environmental uncertainty into documented, actionable findings.`,
     ],
     localContext: `Lorton\`s blend of post-2005 residential development and Occoquan-area waterfront properties creates environmental testing needs ranging from new construction VOC and mold assessment to tidal-zone contamination evaluation and wooded-lot crawlspace investigation.`,
   },
   processSteps: [
     {
       title: 'Property and Environmental Context Assessment',
-      description: `Our certified inspector evaluates your Lorton property against construction date, proximity to waterways, lot conditions, and specific concerns. Laurel Hill new construction receives VOC and construction defect evaluation scoping. Occoquan-area and Mason Neck properties receive additional moisture, water table, and flooding history assessment.`,
+      description: `Our trained inspector evaluates your Lorton property against construction date, proximity to waterways, lot conditions, and specific concerns. Laurel Hill new construction receives VOC and construction defect evaluation scoping. Occoquan-area and Mason Neck properties receive additional moisture, water table, and flooding history assessment.`,
       timeframe: 'Hours 1-2',
     },
     {
@@ -69,7 +69,7 @@ export const content: CityServiceContent = {
     },
   ],
   equipmentSection: {
-    headline: 'Certified Environmental Testing Equipment for Lorton Properties',
+    headline: 'Trained Environmental Testing Equipment for Lorton Properties',
     equipment: [
       {
         name: 'Zefon Bio-Pump Plus Air Sampler',
@@ -166,6 +166,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Questions About Your Lorton Property?',
-    paragraph: `Certified environmental testing for Lorton\`s new construction, waterfront, and wooded-lot properties. AIHA-accredited laboratory analysis with chain-of-custody documentation for health investigation and warranty claims. Call (877) 497-0007 for a consultation.`,
+    paragraph: `Trained environmental testing for Lorton\`s new construction, waterfront, and wooded-lot properties. AIHA-accredited laboratory analysis with chain-of-custody documentation for health investigation and warranty claims. Call (877) 497-0007 for a consultation.`,
   },
 }

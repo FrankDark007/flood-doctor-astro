@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: `Emergency Pumping`,
       description: `Call (877) 497-0007 for immediate response. Submersible pumps begin removing standing water from your Leesburg basement within minutes of arrival, even during ongoing rain events.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Water Source Identification`,
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `45-60 minutes for basement flooding emergencies throughout Leesburg, with priority dispatch for active flooding and rising water.`,
+    responseTime: `as soon as crews are available for basement flooding emergencies throughout Leesburg, with priority dispatch for active flooding and rising water.`,
   },
   faqs: [
     {
@@ -145,6 +145,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Basement Flooding in Leesburg? Act Now`,
-    paragraph: `Every hour of standing water increases damage to your basement, foundation, and belongings. Flood Doctor provides rapid extraction, expert drying, and complete restoration for every Leesburg basement type. Call (877) 497-0007 for immediate 24/7 response.`,
+    paragraph: `Every hour of standing water increases damage to your basement, foundation, and belongings. Flood Doctor provides rapid extraction, expert drying, and full recovery planning for every Leesburg basement type. Call (877) 497-0007 for immediate 24/7 response.`,
   },
 }

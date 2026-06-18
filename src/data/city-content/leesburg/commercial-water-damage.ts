@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Water Damage Restoration in Leesburg, VA | Flood Doctor`,
-    description: `Commercial water damage restoration for Leesburg businesses. Downtown retail, Village at Leesburg shops, county offices, and Lansdowne commercial. Call (877) 497-0007.`,
+    description: `Commercial water damage restoration for Leesburg businesses. Downtown retail, Village at Leesburg shops, county workspaces, and Lansdowne commercial. Call (877) 497-0007.`,
   },
   h1: `Leesburg Commercial Water Damage Restoration`,
   introSection: {
     headline: `Rapid Commercial Water Damage Response for Leesburg Businesses`,
     paragraphs: [
       `Water damage at your Leesburg business means lost revenue, disrupted operations, and potential liability with every hour of downtime. From the historic commercial buildings along King Street and Market Street to the modern retail spaces at Village at Leesburg and Leesburg Corner Premium Outlets, commercial properties face water damage from plumbing failures, roof leaks, HVAC malfunctions, and storm events that demand immediate professional response.`,
-      `Flood Doctor understands the urgency of commercial water damage and the unique needs of Leesburg's business community. We provide 24/7 emergency response with the equipment capacity and crew depth to handle any commercial property — from a small downtown office to a large retail space — while working around your business schedule to minimize operational disruption.`,
+      `Flood Doctor understands the urgency of commercial water damage and the unique needs of Leesburg's business community. We provide 24/7 emergency response with the equipment capacity and crew depth to handle any commercial property — from a small downtown workspace to a large retail space — while working around your business schedule to minimize operational disruption.`,
     ],
-    localContext: `Leesburg's commercial landscape includes historic downtown buildings with unique restoration needs, modern retail centers, county government offices, and professional office parks that each require tailored water damage approaches.`,
+    localContext: `Leesburg's commercial landscape includes historic downtown buildings with unique restoration needs, modern retail centers, county government workspaces, and professional workspace parks that each require tailored water damage approaches.`,
   },
   processSteps: [
     {
       title: `Emergency Commercial Response`,
       description: `Call (877) 497-0007 for immediate dispatch. Our commercial crews arrive with full equipment loads and begin water mitigation while coordinating with your management team on access and business continuity priorities.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `As soon as crews are available`,
     },
     {
       title: `Commercial Damage Assessment`,
@@ -27,7 +27,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Large-Scale Water Extraction`,
-      description: `Commercial-grade extraction systems remove water from office spaces, retail floors, storage areas, and mechanical rooms. We protect inventory, equipment, and fixtures throughout the process.`,
+      description: `Commercial-grade extraction systems remove water from workspaces, retail floors, storage areas, and mechanical rooms. We protect inventory, equipment, and fixtures throughout the process.`,
       timeframe: `2-8 hours`,
     },
     {
@@ -53,8 +53,8 @@ export const content: CityServiceContent = {
       solution: `We work with property management to minimize disruption, using containment barriers and after-hours scheduling to allow neighboring businesses to operate. Detailed documentation supports business interruption insurance claims.`,
     },
     {
-      title: `County Government and Office Properties`,
-      description: `Leesburg serves as the Loudoun County seat, and government offices and professional buildings contain sensitive documents, electronics, and data systems that require specialized protection during water damage events.`,
+      title: `County Government and Workspace Properties`,
+      description: `Leesburg serves as the Loudoun County seat, and government workspaces and professional buildings contain sensitive documents, electronics, and data systems that require specialized protection during water damage events.`,
       solution: `Our crews prioritize protection of records, data systems, and electronic equipment. We provide secure document drying and recovery services and coordinate with IT departments to protect and restore critical technology infrastructure.`,
     },
     {
@@ -93,7 +93,7 @@ export const content: CityServiceContent = {
       `Belmont Ridge`,
       `Old Waterford Road`,
     ],
-    responseTime: `30-60 minutes for commercial emergencies throughout Leesburg, with 24/7 availability and after-hours response capability.`,
+    responseTime: `as soon as crews are available for commercial emergencies throughout Leesburg, with 24/7 availability and after-hours response capability.`,
   },
   faqs: [
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Can you restore a water-damaged historic commercial building in downtown Leesburg?`,
-      answer: `Absolutely. Our crews have extensive experience with historic commercial restoration, using preservation-compatible techniques that protect original architectural features while restoring full business functionality.`,
+      answer: `Absolutely. `,
     },
     {
       question: `How do you protect our inventory and equipment during restoration?`,

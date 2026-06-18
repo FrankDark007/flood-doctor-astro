@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville basement flooding experts. Sump pump failure, clay soil flooding & finished basement restoration in Virginia Run & Centre Ridge. Call (877) 497-0007.`,
+    description: `Centreville basement flooding specialists. Sump pump failure, clay soil flooding & finished basement restoration in Virginia Run & Centre Ridge. Call (877) 497-0007.`,
   },
   h1: 'Basement Flooding Cleanup in Centreville, Virginia',
   introSection: {
     headline: `Saving Centreville's Finished Basements from Flood Damage`,
     paragraphs: [
-      `Centreville is basement country. Nearly every home in Virginia Run, Centre Ridge, Little Rocky Run, and Sully Station features a large finished basement—home theaters, playrooms, guest suites, and home offices that represent tens of thousands of dollars in finished living space. When that basement floods, the damage is devastating and personal. Water destroys carpet, drywall, electronics, furniture, and irreplaceable family items.
+      `Centreville is basement country. Nearly every home in Virginia Run, Centre Ridge, Little Rocky Run, and Sully Station features a large finished basement—home theaters, playrooms, guest suites, and home workspaces that represent tens of thousands of dollars in finished living space. When that basement floods, the damage is devastating and personal. Water destroys carpet, drywall, electronics, furniture, and irreplaceable family items.
 
-Flood Doctor specializes in basement flooding cleanup throughout Centreville. We've pumped out Virginia Run basements after sump pump failures, extracted storm water from Centreville Farms lower levels, and restored flood-damaged finished basements in London Towne and Singleton Grove. Our truck-mounted extractors and industrial drying equipment are sized for the large below-grade spaces that define Centreville homes.`,
+Flood Doctor specializes in basement flooding cleanup throughout Centreville. Our truck-mounted extractors and industrial drying equipment are sized for the large below-grade spaces that define Centreville homes.`,
       `Basement flooding in Centreville has predictable causes. Dense clay soil holds water against foundations and creates hydrostatic pressure that overwhelms builder-installed sump pumps. Aging polybutylene and CPVC plumbing in basement utility rooms fail without warning. Storm drains back up during heavy rain, pushing water through basement floor drains. These are not rare events—they happen every storm season in this community.
 
-Understanding the cause determines the cleanup approach. Clean water from a burst pipe requires different protocols than contaminated storm drain backup. Our IICRC-certified teams classify the water, follow appropriate cleanup standards, and document everything for your insurance claim. We also address the cause to prevent the next flood.`,
+Understanding the cause determines the cleanup approach. Clean water from a burst pipe requires different protocols than contaminated storm drain backup. Our trained teams classify the water, follow appropriate cleanup standards, and document everything for your insurance claim. We also address the cause to prevent the next flood.`,
     ],
     localContext: `Centreville's signature large finished basements—built on clay soil with builder-grade sump systems and aging plumbing—face flooding risks that increase with every passing year. Professional cleanup protects both your investment and your family's health.`,
   },
   processSteps: [
     {
       title: 'Emergency Response',
-      description: `Call (877) 497-0007 and we arrive within 30 minutes with truck-mounted extraction equipment. If your basement is still taking on water, we identify and address the source while extraction begins simultaneously.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and we arrive as soon as crews are available with truck-mounted extraction equipment. If your basement is still taking on water, we identify and address the source while extraction begins simultaneously.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Water Classification',
@@ -41,7 +41,7 @@ Understanding the cause determines the cleanup approach. Clean water from a burs
     },
     {
       title: 'Structural Drying',
-      description: `Industrial dehumidifiers and air movers dry concrete, framing, subfloor, and remaining materials to IICRC standards. We monitor daily, adjusting equipment to ensure complete drying—especially critical in below-grade spaces with limited natural ventilation.`,
+      description: `Industrial dehumidifiers and air movers dry concrete, framing, subfloor, and remaining materials to industry-standard standards. We monitor daily, adjusting equipment to ensure documented drying—especially critical in below-grade spaces with limited natural ventilation.`,
       timeframe: 'Days 2-5',
     },
     {
@@ -108,7 +108,7 @@ Understanding the cause determines the cleanup approach. Clean water from a burs
   },
   pricingSection: {
     headline: 'Basement Flooding Cleanup Costs in Centreville',
-    intro: `Basement flooding costs depend on water volume, contamination level, and the extent of finished space affected. Most causes—sump pump failure, burst pipes, appliance failures—are covered by homeowner's insurance. We handle direct billing and documentation.`,
+    intro: `Basement flooding costs depend on water volume, contamination level, and the extent of finished space affected. Most causes—sump pump failure, burst pipes, appliance failures—are covered by homeowner's insurance. We handle carrier coordination and documentation.`,
     factors: [
       `Basement size—Centreville's large finished basements increase extraction time and drying equipment needs`,
       'Water classification—contaminated water from sewer or storm drain backup requires biohazard protocols',
@@ -135,12 +135,12 @@ Understanding the cause determines the cleanup approach. Clean water from a burs
       'Country Club Manor',
       'Clifton Town Center',
     ],
-    responseTime: `30-minute response to all Centreville neighborhoods for basement flooding. Our crews are positioned along Route 28 and I-66 for rapid dispatch.`,
+    responseTime: `Emergency requests are prioritized 24/7 with dispatch based on crew availability, weather, access, and job conditions.`,
   },
   faqs: [
     {
       question: 'My sump pump failed and the basement is flooding. What do I do?',
-      answer: `Call (877) 497-0007 immediately. If safe, turn off electricity to the basement at the breaker panel. Do not wade into standing water if electrical outlets are submerged. We arrive within 30 minutes with extraction equipment.`,
+      answer: `Call (877) 497-0007 immediately. If safe, turn off electricity to the basement at the breaker panel. Do not wade into standing water if electrical outlets are submerged. We arrive as soon as crews are available with extraction equipment.`,
     },
     {
       question: 'Can my finished basement be saved after flooding?',
@@ -174,6 +174,6 @@ Understanding the cause determines the cleanup approach. Clean water from a burs
   ],
   finalCTA: {
     headline: 'Basement Flooding in Centreville?',
-    paragraph: `Your finished basement represents a major investment in your home. Every minute water sits, more damage accumulates. Call (877) 497-0007 now—we arrive in 30 minutes with the extraction capacity to handle even the largest Centreville basements.`,
+    paragraph: `Your finished basement represents a major investment in your home. Every minute water sits, more damage accumulates. Call (877) 497-0007 now—we arrive in as soon as crews are available with the extraction capacity to handle even the largest Centreville basements.`,
   },
 }

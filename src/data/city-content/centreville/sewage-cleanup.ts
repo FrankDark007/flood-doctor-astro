@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville sewage cleanup and biohazard restoration. 30-min response for sewer backups in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
+    description: `Centreville sewage cleanup and biohazard restoration. rapid response for sewer backups in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Sewage Cleanup Services in Centreville, Virginia',
   introSection: {
     headline: `Professional Sewage Cleanup for Centreville Homes and Families`,
     paragraphs: [
-      `A sewage backup in your Centreville home is more than water damage—it is a health emergency. Raw sewage contains bacteria, viruses, parasites, and chemical contaminants that pose immediate danger to your family. When sewer lines back up into your Virginia Run basement, your Centre Ridge townhome bathroom, or your Little Rocky Run lower level, you need certified biohazard cleanup—not just water extraction.
+      `A sewage backup in your Centreville home is more than water damage—it is a health emergency. Raw sewage contains bacteria, viruses, parasites, and chemical contaminants that pose immediate danger to your family. When sewer lines back up into your Virginia Run basement, your Centre Ridge townhome bathroom, or your Little Rocky Run lower level, you need trained biohazard cleanup—not just water extraction.
 
-Flood Doctor provides emergency sewage cleanup throughout Centreville with 30-minute response. Our crews arrive with full PPE, EPA-registered antimicrobials, and the training to handle Category 3 (black water) contamination safely. We've cleaned up sewer backups in Sully Station, Centreville Farms, and London Towne—restoring homes to safe, habitable condition.`,
-      `Sewage backups in Centreville happen for specific reasons. Aging clay sewer laterals from the 1990s develop cracks that allow root intrusion, gradually restricting flow until a backup occurs. Heavy storms overwhelm the municipal system, forcing sewage back through floor drains. Combined sewer and storm connections in some older sections of the area create backup risks during every major rain event.
+Flood Doctor provides emergency sewage cleanup throughout Centreville with rapid response. Our crews arrive with full PPE, EPA-registered antimicrobials, and the training to handle Category 3 (black water) contamination safely. `,
+      `Sewage backups in Centreville happen for specific reasons. Aging clay sewer laterals from the 1990s develop cracks that allow root intrusion, gradually restricting flow until a backup occurs. Heavy storms overwhelm the municipal system, forcing sewage back through floor drains. Combined sewer and storm connections in some older sections of the area create backup risks during major rain event.
 
 Our sewage cleanup goes far beyond extraction. We remove all contaminated porous materials, apply hospital-grade antimicrobials to every affected surface, and verify sanitization through ATP testing. Your family does not re-enter the space until it meets health and safety standards. We handle insurance documentation for the entire process.`,
     ],
@@ -21,8 +21,8 @@ Our sewage cleanup goes far beyond extraction. We remove all contaminated porous
   processSteps: [
     {
       title: 'Emergency Biohazard Response',
-      description: `Call (877) 497-0007 and keep your family and pets away from the affected area. Our crew arrives within 30 minutes with full PPE, containment materials, and biohazard cleanup equipment. Safety is the first priority.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and keep your family and pets away from the affected area. Our crew arrives as soon as crews are available with full PPE, containment materials, and biohazard cleanup equipment. Safety is the first priority.`,
+      timeframe: 'As soon as crews are available',
     },
     {
       title: 'Containment & Safety Setup',
@@ -111,7 +111,7 @@ Our sewage cleanup goes far beyond extraction. We remove all contaminated porous
   },
   pricingSection: {
     headline: 'Sewage Cleanup Costs in Centreville',
-    intro: `Sewage cleanup costs reflect the biohazard nature of the work—specialized equipment, antimicrobial treatment, and safety testing add to the scope. Homeowner's insurance covers sewer backup damage when you have sewer/drain backup endorsement. We verify your coverage and handle direct billing.`,
+    intro: `Sewage cleanup costs reflect the biohazard nature of the work—specialized equipment, antimicrobial treatment, and safety testing add to the scope. Homeowner's insurance covers sewer backup damage when you have sewer/drain backup endorsement. We verify your coverage and handle carrier coordination.`,
     factors: [
       'Square footage of contaminated area—larger finished basements increase the scope of biohazard cleanup',
       'Depth of sewage—deeper backup means more contaminated materials requiring removal',
@@ -137,7 +137,7 @@ Our sewage cleanup goes far beyond extraction. We remove all contaminated porous
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `30-minute biohazard response to all Centreville neighborhoods. Sewage cleanup is time-sensitive—call (877) 497-0007 immediately.`,
+    responseTime: `rapid biohazard response to all Centreville neighborhoods. Sewage cleanup is time-sensitive—call (877) 497-0007 immediately.`,
   },
   faqs: [
     {
@@ -150,7 +150,7 @@ Our sewage cleanup goes far beyond extraction. We remove all contaminated porous
     },
     {
       question: 'Does insurance cover sewer backup?',
-      answer: `If your policy includes sewer/drain backup endorsement—which we recommend for every Centreville homeowner—yes. We verify your coverage, document everything, and handle direct billing. If you lack this endorsement, add it before the next storm season.`,
+      answer: `If your policy includes sewer/drain backup endorsement—which we recommend for every Centreville homeowner—yes. We verify your coverage, document everything, and handle carrier coordination. If you lack this endorsement, add it before the next storm season.`,
     },
     {
       question: 'Will my basement need to be completely gutted?',
@@ -171,6 +171,6 @@ Our sewage cleanup goes far beyond extraction. We remove all contaminated porous
   ],
   finalCTA: {
     headline: 'Sewage Emergency in Your Centreville Home?',
-    paragraph: `Do not attempt to clean sewage yourself. Keep your family away from contaminated areas and call (877) 497-0007 now. Our biohazard-certified crews arrive within 30 minutes with full safety equipment and decontamination protocols.`,
+    paragraph: `Do not attempt to clean sewage yourself. Keep your family away from contaminated areas and call (877) 497-0007 now. Our biohazard-trained crews arrive as soon as crews are available with full safety equipment and decontamination protocols.`,
   },
 }

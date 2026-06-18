@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Springfield, VA | Flood Doctor`,
-    description: `Springfield's trusted commercial fire and smoke restoration team. Emergency response for I-95 corridor businesses, strip malls, and military-adjacent commercial properties. Call (877) 497-0007.`,
+    description: `Springfield's local commercial fire and smoke restoration team. Emergency response for I-95 corridor businesses, strip malls, and military-adjacent commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Springfield, Virginia`,
   introSection: {
     headline: `Efficient Fire Restoration for Springfield's I-95 Corridor Commercial Properties`,
     paragraphs: [
-      `Commercial fire damage in Springfield hits the family-serving businesses that military families and I-95 corridor commuters depend on daily. A kitchen fire at a West Springfield restaurant closes a neighborhood staple while smoke migrates through shared HVAC to adjacent retail tenants. An electrical fire at a Franconia strip mall triggers sprinklers that flood multiple family-owned businesses. A fire at Springfield Town Center affects modern retail on the ground floor while smoke enters the ventilation system serving upper-floor offices. Springfield commercial fire events demand restoration that moves with practical efficiency—every day of closure costs revenue and community trust in a market where local businesses compete on reliability. Flood Doctor provides integrated fire restoration that prioritizes getting Springfield businesses operational as quickly as thorough work allows.`,
+      `Commercial fire damage in Springfield hits the family-serving businesses that military families and I-95 corridor commuters depend on daily. A kitchen fire at a West Springfield restaurant closes a neighborhood staple while smoke migrates through shared HVAC to adjacent retail tenants. An electrical fire at a Franconia strip mall triggers sprinklers that flood multiple family-owned businesses. A fire at Springfield Town Center affects modern retail on the ground floor while smoke enters the ventilation system serving upper-floor workspaces. Springfield commercial fire events demand restoration that moves with practical efficiency—every day of closure costs revenue and community trust in a market where local businesses compete on reliability. Flood Doctor provides integrated fire restoration that prioritizes getting Springfield businesses operational as quickly as thorough work allows.`,
       `Smoke damage in Springfield commercial buildings follows the area's building patterns. 1960s-80s strip malls in West Springfield and Rolling Valley share wall cavities and rooftop HVAC units that spread smoke from one tenant to every connected space. The wood framing common in Springfield's development-era commercial construction absorbs smoke deeply, requiring aggressive deodorization. Springfield Town Center's modern section distributes smoke through centralized air handling. Fire suppression water from sprinkler activation cascades through aging ceiling assemblies and utility penetrations, compounding damage across adjacent tenants. Our multi-discipline teams address fire, smoke, water, and content damage simultaneously—the practical approach that Springfield's value-conscious commercial operators need.`,
     ],
     localContext: `Springfield's I-95 corridor commercial environment—spanning 1960s-80s strip malls and modern retail—requires fire restoration delivering practical efficiency and thorough results for family-serving, military-connected businesses.`,
@@ -64,7 +64,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Springfield Town Center Multi-Level Impact`,
-      description: `Fire events at the modernized Springfield Town Center can affect ground-floor retail and upper-floor office space through interconnected HVAC and building systems, creating restoration complexity in the area's largest commercial destination.`,
+      description: `Fire events at the modernized Springfield Town Center can affect ground-floor retail and upper-floor workspace space through interconnected HVAC and building systems, creating restoration complexity in the area's largest commercial destination.`,
       solution: `We deploy multi-level teams for Town Center events, decontaminating HVAC systems and cleaning spaces progressively to enable phased tenant re-occupancy. Modern building sections receive restoration approaches matching their construction type.`,
     },
   ],

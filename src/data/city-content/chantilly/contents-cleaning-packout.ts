@@ -9,10 +9,10 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Protecting Your Belongings During Chantilly Home Restoration`,
     paragraphs: [
-      `When water, fire, or mold damages your Chantilly home, your personal belongings need protection too. From the family heirlooms in your South Riding colonial to the home office equipment in your Chantilly Highlands study to the children's rooms in your Franklin Glen townhome, Flood Doctor provides professional contents cleaning and pack-out services that save what can be saved and document what cannot for insurance replacement.`,
+      `When water, fire, or mold damages your Chantilly home, your personal belongings need protection too. From the family heirlooms in your South Riding colonial to the home workspace equipment in your Chantilly Highlands study to the children's rooms in your Franklin Glen townhome, Flood Doctor provides professional contents cleaning and pack-out services that save what can be saved and document what cannot for insurance replacement.`,
       `Contents pack-out involves carefully inventorying, packing, and transporting your belongings to our climate-controlled facility for professional cleaning and restoration while structural work proceeds in your home. For Chantilly homeowners near Westfields Business Park and the Dulles corridor, this means your restoration proceeds faster without working around furniture and belongings, while your items receive specialized treatment—ultrasonic cleaning for electronics, ozone treatment for soft goods, and dry cleaning for textiles—at our facility near Sully Plaza.`,
     ],
-    localContext: `Chantilly's newer homes contain modern furnishings, electronics, and materials that require specialized restoration techniques after water, fire, or mold events—particularly the home office equipment common in Dulles corridor residences.`,
+    localContext: `Chantilly's newer homes contain modern furnishings, electronics, and materials that require specialized restoration techniques after water, fire, or mold events—particularly the home workspace equipment common in Dulles corridor residences.`,
   },
   processSteps: [
     {
@@ -22,7 +22,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Detailed Inventory & Documentation',
-      description: `Every item is photographed, described, and cataloged with condition notes. This inventory supports your insurance claim—listing both items we restore and items requiring replacement with pre-loss valuations.`,
+      description: `Every item is photographed, described, and cataloged with condition notes. This inventory supports your insurance claim—listing both items we restore and items requiring replacement with stable valuations.`,
       timeframe: 'Days 1-2',
     },
     {
@@ -48,7 +48,7 @@ export const content: CityServiceContent = {
   ],
   localChallenges: [
     {
-      title: 'Home Office Electronics',
+      title: 'Home Workspace Electronics',
       description: `Chantilly's Dulles corridor location means many residents work from home with expensive electronics—computers, monitors, networking equipment, and printers. Water and smoke damage these items quickly, and improper handling causes further damage.`,
       solution: `We provide specialized electronics handling and restoration. Items are photographed, carefully packed, and restored using ultrasonic cleaning when salvageable. Non-restorable electronics are documented at replacement value for insurance claims.`,
     },
@@ -103,19 +103,19 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `Why should I have my belongings professionally packed out during restoration?`,
-      answer: `Pack-out protects your belongings from further damage during structural restoration, allows workers full access to accelerate the project, and provides professional cleaning that restores items to pre-loss condition. Insurance typically covers the service.`,
+      answer: `Pack-out protects your belongings from further damage during structural restoration, allows workers full access to accelerate the project, and provides professional cleaning that restores items to a stable, usable condition. Insurance typically covers the service.`,
     },
     {
       question: `How do you track my belongings during pack-out?`,
       answer: `Every item is photographed, described, and assigned a tracking number. Our inventory management system maintains chain of custody from your Chantilly home through cleaning and back. You receive a complete inventory report.`,
     },
     {
-      question: `Can you restore water-damaged electronics from my home office?`,
+      question: `Can you restore water-damaged electronics from my home workspace?`,
       answer: `Many electronics can be restored with rapid response. We use ultrasonic cleaning to remove mineral deposits and contaminants. Items are tested before return. Non-restorable electronics are documented at replacement value for your insurance claim.`,
     },
     {
       question: `What happens to items that cannot be restored?`,
-      answer: `Non-restorable items are photographed, documented with pre-loss condition and replacement value, and listed on your insurance claim inventory. We provide detailed documentation that supports fair replacement settlements.`,
+      answer: `Non-restorable items are photographed, documented with a stable, usable condition and replacement value, and listed on your insurance claim inventory. We provide detailed documentation that supports fair replacement settlements.`,
     },
     {
       question: `How long will you store my belongings?`,
@@ -123,7 +123,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Does insurance cover contents cleaning and pack-out?`,
-      answer: `Yes, contents restoration is typically covered as part of your property damage claim. Professional restoration costs less than replacement, so carriers generally support pack-out services. We handle direct billing with your insurance company.`,
+      answer: `Yes, contents restoration is typically covered as part of your property damage claim. Professional restoration costs less than replacement, so carriers generally support pack-out services. We handle carrier coordination with your insurance company.`,
     },
   ],
   relatedBlogSlugs: [
