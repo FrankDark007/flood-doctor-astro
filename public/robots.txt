@@ -1,6 +1,9 @@
 # Flood Doctor — Water Damage Restoration
 # https://flood.doctor
 
+# Content usage signal (content-signal.org) — marketing brand wants max AI surface
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
 User-agent: *
 Allow: /
 

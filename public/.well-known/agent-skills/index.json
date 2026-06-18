@@ -1,0 +1,32 @@
+{
+  "$schema": "https://agentskills.org/schemas/v0.2.0/index.json",
+  "version": "0.2.0",
+  "name": "Flood Doctor",
+  "description": "Discovery index for what an AI agent can do on a Flood Doctor city site. Flood Doctor is a Northern Virginia water-damage restoration company serving 17 cities with 24/7 emergency service. URLs are relative so they resolve to the city subdomain currently being viewed.",
+  "skills": [
+    {
+      "name": "request-service",
+      "type": "navigation",
+      "description": "Start a water-damage restoration service request for this city. Use for emergency water extraction, flood/sewage cleanup, structural drying, mold remediation, or fire/smoke damage. Submitting reaches the Flood Doctor dispatch team.",
+      "url": "/request/"
+    },
+    {
+      "name": "browse-services",
+      "type": "navigation",
+      "description": "Browse the full catalog of residential and commercial restoration services available in this service area, including water damage restoration, flood cleanup, structural drying, mold remediation, sewage cleanup, and fire/smoke restoration.",
+      "url": "/services/"
+    },
+    {
+      "name": "find-service-area",
+      "type": "navigation",
+      "description": "Find the Flood Doctor service area page for another Northern Virginia city. Each city has a dedicated subdomain (e.g. fairfax.flood.doctor, ashburn.flood.doctor) with localized service information.",
+      "url": "https://flood.doctor/"
+    },
+    {
+      "name": "contact",
+      "type": "navigation",
+      "description": "Contact Flood Doctor for questions about restoration services, scheduling, or insurance billing.",
+      "url": "/contact/"
+    }
+  ]
+}

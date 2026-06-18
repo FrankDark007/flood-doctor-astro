@@ -1,0 +1,56 @@
+# Flood Doctor
+
+> Flood Doctor is a Northern Virginia water-damage restoration company providing 24/7 emergency water extraction, structural drying, flood and sewage cleanup, mold remediation, and fire/smoke restoration for residential and commercial properties. IICRC-certified technicians serve 17 cities across Fairfax, Arlington, Loudoun, and Prince William counties. Direct insurance billing supported.
+
+> This site serves city-specific landing pages on subdomains (e.g. ashburn.flood.doctor). Each city subdomain offers the same services, localized to its service area. Links below are relative so they resolve to the city you are currently viewing.
+
+## Services
+
+- [All Services](/services/): Full residential and commercial restoration service catalog
+- [Residential Services](/services/residential/): Home water damage, drying, cleanup, and specialty services
+- [Commercial Services](/services/commercial/): Restoration for businesses, healthcare, hospitality, and multifamily
+
+## Service Areas
+
+Flood Doctor serves 17 Northern Virginia cities, each with a dedicated subdomain:
+
+- [Alexandria](https://alexandria.flood.doctor/)
+- [Arlington](https://arlington.flood.doctor/)
+- [Ashburn](https://ashburn.flood.doctor/)
+- [Centreville](https://centreville.flood.doctor/)
+- [Chantilly](https://chantilly.flood.doctor/)
+- [Fairfax](https://fairfax.flood.doctor/)
+- [Falls Church](https://fallschurch.flood.doctor/)
+- [Great Falls](https://greatfalls.flood.doctor/)
+- [Herndon](https://herndon.flood.doctor/)
+- [Leesburg](https://leesburg.flood.doctor/)
+- [Lorton](https://lorton.flood.doctor/)
+- [McLean](https://mclean.flood.doctor/)
+- [Reston](https://reston.flood.doctor/)
+- [Springfield](https://springfield.flood.doctor/)
+- [Sterling](https://sterling.flood.doctor/)
+- [Tysons](https://tysons.flood.doctor/)
+- [Vienna](https://vienna.flood.doctor/)
+
+## Cost & Insurance Guides
+
+- [Water Damage Restoration Cost in Northern Virginia](/blog/water-damage-restoration-cost-northern-virginia/): Local pricing breakdown
+- [Does Homeowners Insurance Cover Water Damage in Virginia](/blog/does-homeowners-insurance-cover-water-damage-virginia/): Coverage explained
+- [How to Get Insurance to Pay for Water Damage Restoration](/blog/get-insurance-to-pay-water-damage-restoration/): Claim strategy
+- [Water Damage Insurance Claim Guide](/blog/water-damage-insurance-claim-guide/): Filing and documenting a claim
+- [Sewage Backup Cleanup Cost in NoVA](/blog/sewage-backup-cleanup-cost-nova/): What sewage cleanup costs
+- [Insurance Guide](/resources/insurance-guide/): Homeowner insurance resource hub
+
+## Contact
+
+- [Request Service](/request/): Start an emergency or scheduled service request
+- [Contact](/contact/): Reach the Flood Doctor team
+- [About](/about/): Company background and certifications
+- [Reviews](/reviews/): Customer reviews and ratings
+
+## Optional
+
+- [Resources Hub](/resources/): Homeowner guides, checklists, and insurance resources
+- [Emergency Checklists](/resources/emergency-checklists/): What to do in the first hours of water damage
+- [FAQ](/faq/): Frequently asked questions
+- [Blog](/blog/): Water damage, mold, and insurance articles
