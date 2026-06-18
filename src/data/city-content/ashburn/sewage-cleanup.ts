@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Ashburn, VA | Flood Doctor',
-    description: 'Emergency sewage cleanup in Ashburn. New construction defects, HOA sewer main backups, rapid response. 24/7 service to Broadlands, Brambleton, One Loudoun. Call (703) 656-0109.',
+    description: 'Emergency sewage cleanup in Ashburn. New construction defects, HOA sewer main backups, rapid response. 24/7 service to Broadlands, Brambleton, One Loudoun. Call (877) 497-0007.',
   },
   h1: 'Emergency Sewage Cleanup in Ashburn, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians treat every call as both a contamination emergen
   processSteps: [
     {
       title: 'Route 28 Corridor Rapid Deployment',
-      description: 'Our biohazard crews stage along the Route 28 corridor bisecting Ashburn from Broadlands to Stone Ridge, delivering sub-30-minute arrival to any neighborhood. When you call (703) 656-0109, dispatch routes the nearest crew carrying full Category 3 equipment: PPE, truck-mounted extraction, antimicrobial agents, and forensic documentation tools.',
+      description: 'Our biohazard crews stage along the Route 28 corridor bisecting Ashburn from Broadlands to Stone Ridge, delivering sub-30-minute arrival to any neighborhood. When you call (877) 497-0007, dispatch routes the nearest crew carrying full Category 3 equipment: PPE, truck-mounted extraction, antimicrobial agents, and forensic documentation tools.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -126,7 +126,7 @@ Our IICRC-certified technicians treat every call as both a contamination emergen
       'Loudoun County permit requirements — lateral replacement triggered by documented slope deficiency requires county permits and inspections',
       'Multi-unit coordination — townhome backups affecting multiple homes require parallel crew deployment and individualized documentation',
     ],
-    cta: 'Call (703) 656-0109 immediately for sewage backup. Free inspection, detailed estimates, and documentation support for insurance claims, builder warranty cases, and HOA liability recovery. Every hour of delay increases contamination spread and restoration cost.',
+    cta: 'Call (877) 497-0007 immediately for sewage backup. Free inspection, detailed estimates, and documentation support for insurance claims, builder warranty cases, and HOA liability recovery. Every hour of delay increases contamination spread and restoration cost.',
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Healthcare Facility Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville healthcare facility water damage & mold restoration. HIPAA-compliant protocols for medical offices, dental practices & urgent care. Call (703) 285-1103.`,
+    description: `Centreville healthcare facility water damage & mold restoration. HIPAA-compliant protocols for medical offices, dental practices & urgent care. Call (877) 497-0007.`,
   },
   h1: 'Healthcare Facility Restoration in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our healthcare restoration team coordinates with facility administration on pati
   processSteps: [
     {
       title: 'Emergency Healthcare Response',
-      description: `Call (703) 285-1103 for priority healthcare response. We dispatch crews trained in healthcare facility protocols who understand infection control, HIPAA requirements, and the urgency of maintaining patient care capability.`,
+      description: `Call (877) 497-0007 for priority healthcare response. We dispatch crews trained in healthcare facility protocols who understand infection control, HIPAA requirements, and the urgency of maintaining patient care capability.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -109,7 +109,7 @@ Our healthcare restoration team coordinates with facility administration on pati
       'Infection control protocols—healthcare-grade containment and sanitization add specialized scope',
       'Equipment protection and restoration—medical equipment assessment and handling require specialized expertise',
     ],
-    cta: `Call (703) 285-1103 for healthcare facility restoration that understands your regulatory, safety, and patient care requirements.`,
+    cta: `Call (877) 497-0007 for healthcare facility restoration that understands your regulatory, safety, and patient care requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,7 +126,7 @@ Our healthcare restoration team coordinates with facility administration on pati
       'Centreville Square',
       'Compton Village',
     ],
-    responseTime: `Priority response for healthcare facilities throughout Centreville. Call (703) 285-1103 for expedited dispatch—we understand that patient care cannot wait.`,
+    responseTime: `Priority response for healthcare facilities throughout Centreville. Call (877) 497-0007 for expedited dispatch—we understand that patient care cannot wait.`,
   },
   faqs: [
     {
@@ -159,6 +159,6 @@ Our healthcare restoration team coordinates with facility administration on pati
   ],
   finalCTA: {
     headline: 'Healthcare Facility Damage in Centreville?',
-    paragraph: `Your patients need you operational. Call (703) 285-1103 for healthcare-specific restoration that maintains infection control standards, protects your equipment, and keeps your practice seeing patients throughout the process.`,
+    paragraph: `Your patients need you operational. Call (877) 497-0007 for healthcare-specific restoration that maintains infection control standards, protects your equipment, and keeps your practice seeing patients throughout the process.`,
   },
 }

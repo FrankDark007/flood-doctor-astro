@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Herndon, VA | Flood Doctor',
-    description: `Herndon large loss restoration for data center facilities, technology campuses & multi-building commercial properties. Project management with IT expertise. Call (703) 285-1106.`,
+    description: `Herndon large loss restoration for data center facilities, technology campuses & multi-building commercial properties. Project management with IT expertise. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Herndon, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors bring both commercial construction management and technolo
   processSteps: [
     {
       title: 'Emergency Stabilization with IT Protection',
-      description: `Call (703) 285-1106 to activate large loss response. Our stabilization team simultaneously secures the building, begins water extraction, and deploys IT protection measures—anti-corrosion treatments, environmental controls, and equipment isolation—within the critical response window.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team simultaneously secures the building, begins water extraction, and deploys IT protection measures—anti-corrosion treatments, environmental controls, and equipment isolation—within the critical response window.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -114,7 +114,7 @@ Our project directors bring both commercial construction management and technolo
       'Environmental maintenance—technology spaces requiring controlled conditions throughout restoration carry ongoing monitoring costs',
       'Dual-track coordination—integrated building-IT project management adds complexity and project director bandwidth requirements',
     ],
-    cta: `Call (703) 285-1106 for immediate large loss response. Our project director brings both construction management and technology facility expertise for the integrated approach Herndon's commercial market demands.`,
+    cta: `Call (877) 497-0007 for immediate large loss response. Our project director brings both construction management and technology facility expertise for the integrated approach Herndon's commercial market demands.`,
   },
   serviceAreaSection: {
     neighborhoods: [

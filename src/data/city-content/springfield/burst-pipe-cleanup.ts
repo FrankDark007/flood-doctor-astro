@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Springfield, VA | Flood Doctor',
-    description: 'Springfield burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. West Springfield, Kingstowne, Franconia. Call (703) 656-0110.',
+    description: 'Springfield burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Cleanup in Springfield, Virginia',
   introSection: {
@@ -57,7 +57,7 @@ export const content: CityServiceContent = {
       'Scope of 1960s plumbing replacement — a single joint failure often reveals neighboring joints are compromised, expanding the plumbing repair',
       'Stairwell finish restoration — carpet, drywall, trim, and railings along stairwells are almost always damaged in cascade events',
     ],
-    cta: 'Call (703) 656-0110 the moment you discover a burst pipe. In a split-level, every minute of water flow means another level being reached by the cascade.',
+    cta: 'Call (877) 497-0007 the moment you discover a burst pipe. In a split-level, every minute of water flow means another level being reached by the cascade.',
   },
   serviceAreaSection: {
     neighborhoods: [

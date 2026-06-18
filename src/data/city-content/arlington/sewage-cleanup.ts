@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Arlington, VA | Flood Doctor',
-    description: 'Arlington sewage cleanup experts. Multi-unit backup response, drain stack failures, HOA coordination. Biohazard certified. Call (703) 656-0102 for immediate response.',
+    description: 'Arlington sewage cleanup experts. Multi-unit backup response, drain stack failures, HOA coordination. Biohazard certified. Call (877) 497-0007 for immediate response.',
   },
   h1: 'Sewage Cleanup in Arlington, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified biohazard cleanup crews understand that sewage emergencies i
   processSteps: [
     {
       title: 'Immediate Emergency Response',
-      description: 'When you call our Arlington hotline at (703) 656-0102 for a sewage emergency, we dispatch immediately with biohazard equipment and personal protective gear. For multi-unit high-rise backups, we send multiple crews to address all affected floors simultaneously.',
+      description: 'When you call our Arlington hotline at (877) 497-0007 for a sewage emergency, we dispatch immediately with biohazard equipment and personal protective gear. For multi-unit high-rise backups, we send multiple crews to address all affected floors simultaneously.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -120,7 +120,7 @@ Our IICRC-certified biohazard cleanup crews understand that sewage emergencies i
       'Material removal scope—more contaminated drywall, flooring, and contents mean higher disposal costs',
       'Verification requirements—some HOAs and insurance carriers require independent clearance testing',
     ],
-    cta: `Call (703) 656-0102 for immediate sewage emergency response. We'll assess the scope, coordinate with building management, and provide detailed estimates for complete biohazard cleanup.`,
+    cta: `Call (877) 497-0007 for immediate sewage emergency response. We'll assess the scope, coordinate with building management, and provide detailed estimates for complete biohazard cleanup.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,7 +145,7 @@ Our IICRC-certified biohazard cleanup crews understand that sewage emergencies i
   faqs: [
     {
       question: 'Is sewage backup dangerous to my health?',
-      answer: `Yes. Sewage contains bacteria, viruses, and parasites that can cause serious illness. Don't enter contaminated areas without proper protection, don't try to clean up yourself, and keep children and pets away. Call us at (703) 656-0102 immediately—professional biohazard cleanup protects your health.`,
+      answer: `Yes. Sewage contains bacteria, viruses, and parasites that can cause serious illness. Don't enter contaminated areas without proper protection, don't try to clean up yourself, and keep children and pets away. Call us at (877) 497-0007 immediately—professional biohazard cleanup protects your health.`,
     },
     {
       question: 'Why did sewage back up into my Arlington condo?',

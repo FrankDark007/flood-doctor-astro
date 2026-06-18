@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying in Centreville, VA | Flood Doctor',
-    description: `Centreville structural drying experts. IICRC-certified drying for 1990s-2000s homes in Virginia Run, Centre Ridge & Sully Station. Call (703) 285-1103.`,
+    description: `Centreville structural drying experts. IICRC-certified drying for 1990s-2000s homes in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Centreville, Virginia',
   introSection: {
@@ -113,7 +113,7 @@ Our structural drying approach eliminates this risk. We establish target moistur
       'Number of levels affected—multi-story drying requires separate equipment on each floor',
       'Below-grade considerations—basements require additional dehumidification to overcome ground moisture',
     ],
-    cta: `Call (703) 285-1103 for professional structural drying. We provide free assessments and handle insurance billing for all drying services.`,
+    cta: `Call (877) 497-0007 for professional structural drying. We provide free assessments and handle insurance billing for all drying services.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our structural drying approach eliminates this risk. We establish target moistur
   ],
   finalCTA: {
     headline: 'Need Structural Drying in Centreville?',
-    paragraph: `Every hour of delay before drying begins increases mold risk and restoration costs. Call (703) 285-1103 for same-day deployment of professional drying equipment and daily monitoring by IICRC-certified technicians.`,
+    paragraph: `Every hour of delay before drying begins increases mold risk and restoration costs. Call (877) 497-0007 for same-day deployment of professional drying equipment and daily monitoring by IICRC-certified technicians.`,
   },
 }

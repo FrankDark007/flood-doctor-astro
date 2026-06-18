@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Arlington, VA | Flood Doctor',
-    description: `Arlington's odor elimination experts for condos, rowhouses & high-rises. Smoke, mold & sewage odor treatment with HOA compliance. Call (703) 285-1102.`,
+    description: `Arlington's odor elimination experts for condos, rowhouses & high-rises. Smoke, mold & sewage odor treatment with HOA compliance. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Arlington, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians use moisture meters, borescopes, and thermal imaging to trace ev
   processSteps: [
     {
       title: 'Source Investigation & Building Assessment',
-      description: `When you call (703) 285-1102, we schedule an assessment that examines both your unit and the building systems connected to it. Using borescopes, moisture meters, and UV inspection, we trace the odor to its origin — whether inside your Clarendon rowhouse walls, within shared ductwork in your Rosslyn condo, or beneath flooring in your Shirlington apartment.`,
+      description: `When you call (877) 497-0007, we schedule an assessment that examines both your unit and the building systems connected to it. Using borescopes, moisture meters, and UV inspection, we trace the odor to its origin — whether inside your Clarendon rowhouse walls, within shared ductwork in your Rosslyn condo, or beneath flooring in your Shirlington apartment.`,
       timeframe: 'Initial visit',
     },
     {
@@ -113,7 +113,7 @@ Our technicians use moisture meters, borescopes, and thermal imaging to trace ev
       'Building system involvement — shared HVAC ductwork or party wall contamination extends treatment scope beyond a single unit',
       'Material contamination depth — deeply embedded odors in porous materials require more intensive treatment cycles',
     ],
-    cta: `Call (703) 285-1102 for a professional odor assessment. We identify the source, explain treatment options specific to your Arlington property type, and provide a detailed estimate.`,
+    cta: `Call (877) 497-0007 for a professional odor assessment. We identify the source, explain treatment options specific to your Arlington property type, and provide a detailed estimate.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ Our technicians use moisture meters, borescopes, and thermal imaging to trace ev
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Arlington Home?',
-    paragraph: 'Odors in urban properties spread through shared walls, ductwork, and plumbing systems — growing worse until the source is professionally addressed. Our Arlington deodorization team eliminates odors at the molecular level with building-appropriate technology. Call (703) 285-1102 for expert assessment.',
+    paragraph: 'Odors in urban properties spread through shared walls, ductwork, and plumbing systems — growing worse until the source is professionally addressed. Our Arlington deodorization team eliminates odors at the molecular level with building-appropriate technology. Call (877) 497-0007 for expert assessment.',
   },
 }

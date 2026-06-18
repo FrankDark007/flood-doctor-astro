@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's certified mold remediation specialists. Serving South Riding, Chantilly Highlands & Franklin Glen. IICRC S520 certified. Call (703) 285-1104.`,
+    description: `Chantilly's certified mold remediation specialists. Serving South Riding, Chantilly Highlands & Franklin Glen. IICRC S520 certified. Call (877) 497-0007.`,
   },
   h1: 'Mold Remediation Services in Chantilly, Virginia',
   introSection: {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Materials requiring removal—drywall, insulation, and carpet with embedded mold must be replaced`,
       `Post-remediation testing—independent clearance verification confirms successful remediation`,
     ],
-    cta: `Call (703) 285-1104 for a professional mold inspection. We provide honest assessments and clear pricing before any work begins.`,
+    cta: `Call (877) 497-0007 for a professional mold inspection. We provide honest assessments and clear pricing before any work begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Concerned About Mold in Your Chantilly Home?',
-    paragraph: `Mold grows and spreads every day it goes untreated. Our IICRC S520 certified technicians provide thorough inspection, professional remediation, and verified clearance for Chantilly homeowners. Call (703) 285-1104 for a same-day mold inspection.`,
+    paragraph: `Mold grows and spreads every day it goes untreated. Our IICRC S520 certified technicians provide thorough inspection, professional remediation, and verified clearance for Chantilly homeowners. Call (877) 497-0007 for a same-day mold inspection.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Fire & Smoke Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Professional fire and smoke damage cleanup for Leesburg properties. Historic home restoration specialists. Soot removal, odor elimination. Call (703) 285-1107.`,
+    description: `Professional fire and smoke damage cleanup for Leesburg properties. Historic home restoration specialists. Soot removal, odor elimination. Call (877) 497-0007.`,
   },
   h1: `Leesburg Fire & Smoke Cleanup`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Assessment & Board-Up`,
-      description: `Call (703) 285-1107 for immediate response. We secure fire-damaged openings, assess structural safety, and evaluate the full extent of smoke and soot damage throughout your Leesburg property.`,
+      description: `Call (877) 497-0007 for immediate response. We secure fire-damaged openings, assess structural safety, and evaluate the full extent of smoke and soot damage throughout your Leesburg property.`,
       timeframe: `Within 2 hours`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Volume of contents requiring cleaning or pack-out`,
       `Insurance coverage and direct billing availability`,
     ],
-    cta: `Call (703) 285-1107 for emergency fire and smoke damage response.`,
+    cta: `Call (877) 497-0007 for emergency fire and smoke damage response.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -118,7 +118,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How quickly should I start smoke cleanup after a fire?`,
-      answer: `Immediately. Smoke residue becomes increasingly difficult to clean within 24-48 hours as acids in the soot etch into surfaces and odor compounds penetrate deeper into porous materials. Call (703) 285-1107 as soon as the fire department clears the scene.`,
+      answer: `Immediately. Smoke residue becomes increasingly difficult to clean within 24-48 hours as acids in the soot etch into surfaces and odor compounds penetrate deeper into porous materials. Call (877) 497-0007 as soon as the fire department clears the scene.`,
     },
   ],
   relatedBlogSlugs: [
@@ -127,6 +127,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Fire or Smoke Damage in Leesburg? Call Now`,
-    paragraph: `Every hour of delay allows smoke residue to cause deeper damage to your Leesburg property. From historic homes in the downtown district to modern estates in Lansdowne, Flood Doctor provides the expert fire and smoke cleanup your property needs. Call (703) 285-1107 for immediate response.`,
+    paragraph: `Every hour of delay allows smoke residue to cause deeper damage to your Leesburg property. From historic homes in the downtown district to modern estates in Lansdowne, Flood Doctor provides the expert fire and smoke cleanup your property needs. Call (877) 497-0007 for immediate response.`,
   },
 }

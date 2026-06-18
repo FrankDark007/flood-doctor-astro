@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Arlington, VA | Flood Doctor',
-    description: `Arlington's structural drying experts for condos, rowhouses & high-rises. HOA coordination included. 30-min response to Rosslyn, Clarendon & Ballston. Call (703) 285-1102.`,
+    description: `Arlington's structural drying experts for condos, rowhouses & high-rises. HOA coordination included. 30-min response to Rosslyn, Clarendon & Ballston. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Arlington, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians calculate grain depression, specific humidity, a
   processSteps: [
     {
       title: 'Rapid Urban Emergency Response',
-      description: `Call (703) 285-1102 and our Arlington-positioned crews respond within 30 minutes. We navigate building access protocols, elevator availability, and parking restrictions in Rosslyn, Ballston, Crystal City, and Pentagon City to reach your unit fast — because in multi-story buildings, every minute of delay means water migrating to additional floors.`,
+      description: `Call (877) 497-0007 and our Arlington-positioned crews respond within 30 minutes. We navigate building access protocols, elevator availability, and parking restrictions in Rosslyn, Ballston, Crystal City, and Pentagon City to reach your unit fast — because in multi-story buildings, every minute of delay means water migrating to additional floors.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -125,7 +125,7 @@ Our IICRC-certified technicians calculate grain depression, specific humidity, a
       'Access complexity — equipment logistics in high-rise buildings may involve elevator scheduling and loading dock coordination',
       'HOA requirements — documentation and communication requirements vary by building and may add project management scope',
     ],
-    cta: `Call (703) 285-1102 for immediate assessment. We provide unit-specific estimates and coordinate with your building management, HOA, and insurance carrier simultaneously.`,
+    cta: `Call (877) 497-0007 for immediate assessment. We provide unit-specific estimates and coordinate with your building management, HOA, and insurance carrier simultaneously.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -186,6 +186,6 @@ Our IICRC-certified technicians calculate grain depression, specific humidity, a
   ],
   finalCTA: {
     headline: 'Water Damage in Your Arlington Property?',
-    paragraph: 'In multi-unit buildings, every minute of delay means water migrating to additional floors and units. Our Arlington-based crews respond within 30 minutes with urban-optimized equipment and the HOA coordination expertise your building requires. Call (703) 285-1102 now.',
+    paragraph: 'In multi-unit buildings, every minute of delay means water migrating to additional floors and units. Our Arlington-based crews respond within 30 minutes with urban-optimized equipment and the HOA coordination expertise your building requires. Call (877) 497-0007 now.',
   },
 }

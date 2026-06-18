@@ -22,7 +22,7 @@ export const guideArticles: Record<string, GuideArticle> = {
         <li><strong>Ensure personal safety</strong> — Do not enter standing water if there's any chance of electrical contact. If water is near outlets, appliances, or your breaker panel, stay out until power is confirmed off.</li>
         <li><strong>Turn off electricity</strong> — If you can safely reach your breaker panel without walking through water, shut off power to affected areas. If in doubt, call your utility company.</li>
         <li><strong>Stop the water source</strong> — For pipe bursts, locate and turn your main water shut-off valve (typically near the water meter or where the main line enters your home). For appliance failures, shut off the specific supply line.</li>
-        <li><strong>Call for professional help</strong> — Contact Flood Doctor at <strong>(703) 285-1100</strong> immediately. Our 24/7 emergency team deploys within 60 minutes.</li>
+        <li><strong>Call for professional help</strong> — Contact Flood Doctor at <strong>(877) 497-0007</strong> immediately. Our 24/7 emergency team deploys within 60 minutes.</li>
       </ol>
 
       <h3>While Waiting for Help (First 30 Minutes)</h3>
@@ -64,10 +64,10 @@ export const guideArticles: Record<string, GuideArticle> = {
       </ol>
 
       <h3>Emergency Contacts</h3>
-      <p><strong>Flood Doctor 24/7 Emergency Line:</strong> (703) 285-1100</p>
+      <p><strong>Flood Doctor 24/7 Emergency Line:</strong> (877) 497-0007</p>
       <p><strong>Loudoun County Emergency:</strong> 911</p>
       <p><strong>Dominion Energy (power outage):</strong> 1-866-366-4357</p>
-      <p><strong>Loudoun Water (water main):</strong> (571) 291-7880</p>
+      <p><strong>Water utility emergency:</strong> Contact your local water provider or county emergency line.</p>
     `,
   },
   prevention: {
@@ -146,7 +146,7 @@ export const guideArticles: Record<string, GuideArticle> = {
         <li>Water stains on ceilings or walls (even if currently dry)</li>
         <li>Sump pump running more frequently than usual</li>
       </ul>
-      <p>Flood Doctor offers free home water damage risk assessments. Call <strong>(703) 285-1100</strong> to schedule yours.</p>
+      <p>Flood Doctor offers free home water damage risk assessments. Call <strong>(877) 497-0007</strong> to schedule yours.</p>
     `,
   },
   'insurance-claims': {
@@ -249,7 +249,7 @@ export const guideArticles: Record<string, GuideArticle> = {
         <li>Assistance with the claims process and adjuster coordination</li>
         <li>Xactimate estimates (the same software insurance companies use)</li>
       </ul>
-      <p>Call <strong>(703) 285-1100</strong> or <a href="/request">request a free estimate</a> to get started.</p>
+      <p>Call <strong>(877) 497-0007</strong> or <a href="/request">request a free estimate</a> to get started.</p>
     `,
   },
 }

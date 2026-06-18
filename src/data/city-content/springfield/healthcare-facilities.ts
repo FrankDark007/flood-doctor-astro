@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Springfield, VA | Flood Doctor`,
-    description: `Springfield's trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for medical offices and military health clinics near Fort Belvoir. Call (703) 285-1110.`,
+    description: `Springfield's trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for medical offices and military health clinics near Fort Belvoir. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Springfield, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our healthcare restoration protocols address these aging-infrastructure challeng
   processSteps: [
     {
       title: `Emergency Response and Facility Assessment`,
-      description: `Call our Springfield healthcare hotline at (703) 285-1110 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager before entering any patient care area.`,
+      description: `Call our Springfield healthcare hotline at (877) 497-0007 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager before entering any patient care area.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our healthcare restoration protocols address these aging-infrastructure challeng
       `Hazardous material management in pre-1980s buildings—asbestos and lead paint assessment adds regulatory compliance costs`,
       `Regulatory documentation needs for Joint Commission, CMS, TRICARE, and state health department compliance`,
     ],
-    cta: `Call (703) 285-1110 for an emergency healthcare facility assessment. We provide HIPAA-compliant estimates and coordinate directly with medical facility insurance carriers throughout Springfield.`,
+    cta: `Call (877) 497-0007 for an emergency healthcare facility assessment. We provide HIPAA-compliant estimates and coordinate directly with medical facility insurance carriers throughout Springfield.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -169,6 +169,6 @@ Our healthcare restoration protocols address these aging-infrastructure challeng
   ],
   finalCTA: {
     headline: `Healthcare Facility Emergency in Springfield?`,
-    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Springfield medical facilities within 45 minutes with containment materials and healthcare-grade equipment. Call (703) 285-1110 now.`,
+    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Springfield medical facilities within 45 minutes with containment materials and healthcare-grade equipment. Call (877) 497-0007 now.`,
   },
 }

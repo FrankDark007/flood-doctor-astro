@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Centreville, VA | Flood Doctor',
-    description: `Centreville hardwood floor drying specialists. Save water-damaged hardwood in Virginia Run, Centre Ridge & Sully Station homes. Call (703) 285-1103.`,
+    description: `Centreville hardwood floor drying specialists. Save water-damaged hardwood in Virginia Run, Centre Ridge & Sully Station homes. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying in Centreville, Virginia',
   introSection: {
@@ -110,7 +110,7 @@ Our technicians calculate the specific drying parameters for your floor—target
       'Subfloor condition—swollen OSB subfloor may require additional drying or selective replacement',
       'Response time—floors treated within 24 hours have the highest save rate and lowest overall costs',
     ],
-    cta: `Call (703) 285-1103 immediately if water has reached your hardwood floors. The sooner drying begins, the higher the probability of saving your floors without replacement.`,
+    cta: `Call (877) 497-0007 immediately if water has reached your hardwood floors. The sooner drying begins, the higher the probability of saving your floors without replacement.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ Our technicians calculate the specific drying parameters for your floor—target
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `30-minute response to all Centreville neighborhoods for hardwood floor emergencies. Call (703) 285-1103 immediately—every hour matters for floor recovery.`,
+    responseTime: `30-minute response to all Centreville neighborhoods for hardwood floor emergencies. Call (877) 497-0007 immediately—every hour matters for floor recovery.`,
   },
   faqs: [
     {
@@ -163,6 +163,6 @@ Our technicians calculate the specific drying parameters for your floor—target
   ],
   finalCTA: {
     headline: 'Water on Your Centreville Hardwood Floors?',
-    paragraph: `Every hour counts. The difference between saving and replacing your hardwood floors is measured in hours, not days. Call (703) 285-1103 now for immediate response with specialty floor drying equipment.`,
+    paragraph: `Every hour counts. The difference between saving and replacing your hardwood floors is measured in hours, not days. Call (877) 497-0007 now for immediate response with specialty floor drying equipment.`,
   },
 }

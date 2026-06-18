@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's industrial and data center facility restoration specialists. OSHA-compliant water damage restoration for data centers, warehouses, and commercial properties. Call (703) 285-1100.`,
+    description: `Ashburn's industrial and data center facility restoration specialists. OSHA-compliant water damage restoration for data centers, warehouses, and commercial properties. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Ashburn, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our industrial restoration approach addresses both physical damage and operation
   processSteps: [
     {
       title: `Emergency Response and Facility Coordination`,
-      description: `Call (703) 285-1100 for immediate industrial response. For data center and controlled-access facilities, we coordinate with your engineering and security teams before entry. Our crews arrive with industrial extraction equipment and anti-corrosion treatment materials for immediate equipment protection.`,
+      description: `Call (877) 497-0007 for immediate industrial response. For data center and controlled-access facilities, we coordinate with your engineering and security teams before entry. Our crews arrive with industrial extraction equipment and anti-corrosion treatment materials for immediate equipment protection.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -120,7 +120,7 @@ Our industrial restoration approach addresses both physical damage and operation
       `Business interruption urgency—SLA-driven data center operations require maximum restoration speed`,
       `Construction defect documentation—newer Ashburn facilities may require assessment supporting warranty claims`,
     ],
-    cta: `Call (703) 285-1100 for emergency data center or industrial facility assessment. We provide detailed estimates supporting commercial insurance, equipment policies, and SLA compliance documentation.`,
+    cta: `Call (877) 497-0007 for emergency data center or industrial facility assessment. We provide detailed estimates supporting commercial insurance, equipment policies, and SLA compliance documentation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ Our industrial restoration approach addresses both physical damage and operation
   ],
   finalCTA: {
     headline: `Data Center or Industrial Emergency in Ashburn?`,
-    paragraph: `Equipment damage and operational downtime compound by the minute. Our HAZWOPER-certified crews respond to Ashburn data center and industrial facilities within 45 minutes with industrial extraction equipment and anti-corrosion treatment. Call (703) 285-1100 now.`,
+    paragraph: `Equipment damage and operational downtime compound by the minute. Our HAZWOPER-certified crews respond to Ashburn data center and industrial facilities within 45 minutes with industrial extraction equipment and anti-corrosion treatment. Call (877) 497-0007 now.`,
   },
 }

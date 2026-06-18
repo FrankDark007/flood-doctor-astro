@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Ashburn, VA | Flood Doctor',
-    description: `Ashburn's odor elimination experts. Mold, HVAC & construction odor treatment for Broadlands, Brambleton & One Loudoun homes. New construction specialists. Call (703) 285-1100.`,
+    description: `Ashburn's odor elimination experts. Mold, HVAC & construction odor treatment for Broadlands, Brambleton & One Loudoun homes. New construction specialists. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Ashburn, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians deploy hydroxyl generators that neutralize airborne odor molecul
   processSteps: [
     {
       title: 'New Construction-Aware Assessment',
-      description: `Call (703) 285-1100 and we evaluate your Ashburn home with expertise in newer construction odor patterns. We inspect HVAC systems for condensate issues, probe wall cavities for hidden mold, and test air quality for VOCs — finding sources specific to Broadlands, Brambleton, One Loudoun, and surrounding community homes.`,
+      description: `Call (877) 497-0007 and we evaluate your Ashburn home with expertise in newer construction odor patterns. We inspect HVAC systems for condensate issues, probe wall cavities for hidden mold, and test air quality for VOCs — finding sources specific to Broadlands, Brambleton, One Loudoun, and surrounding community homes.`,
       timeframe: 'Initial visit',
     },
     {
@@ -113,7 +113,7 @@ Our technicians deploy hydroxyl generators that neutralize airborne odor molecul
       'Home size and HVAC complexity — Ashburn open floor plans and multi-zone HVAC require comprehensive whole-home treatment',
       'Sealed envelope treatment — tight building envelopes may require enhanced ventilation and longer treatment durations for VOC clearance',
     ],
-    cta: `Call (703) 285-1100 for a new construction-aware odor assessment. We identify sources specific to Ashburn homes and provide estimates supporting both insurance and warranty claims.`,
+    cta: `Call (877) 497-0007 for a new construction-aware odor assessment. We identify sources specific to Ashburn homes and provide estimates supporting both insurance and warranty claims.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ Our technicians deploy hydroxyl generators that neutralize airborne odor molecul
   ],
   finalCTA: {
     headline: 'Odors in Your Ashburn Home?',
-    paragraph: 'Newer construction produces odor challenges that older homes never face. HVAC defects create hidden mold. Sealed envelopes trap chemicals. Our Ashburn deodorization team understands modern building science and eliminates odors permanently. Call (703) 285-1100 for expert assessment.',
+    paragraph: 'Newer construction produces odor challenges that older homes never face. HVAC defects create hidden mold. Sealed envelopes trap chemicals. Our Ashburn deodorization team understands modern building science and eliminates odors permanently. Call (877) 497-0007 for expert assessment.',
   },
 }

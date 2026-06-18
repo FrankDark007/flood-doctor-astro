@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for data centers, retail centers, and new construction commercial properties. Call (703) 285-1100.`,
+    description: `Ashburn's trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for data centers, retail centers, and new construction commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Ashburn, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Response Across Ashburn`,
-      description: `Call (703) 285-1100 and our hazmat crew deploys to your Ashburn commercial property. We reach One Loudoun, Broadlands, Brambleton, Lansdowne, and Ashburn Farm commercial areas within our response guarantee, establishing containment while coordinating with property management and HOA contacts as needed.`,
+      description: `Call (877) 497-0007 and our hazmat crew deploys to your Ashburn commercial property. We reach One Loudoun, Broadlands, Brambleton, Lansdowne, and Ashburn Farm commercial areas within our response guarantee, establishing containment while coordinating with property management and HOA contacts as needed.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `HOA compliance—community governance requirements may affect scheduling and exterior restoration standards`,
       `Health department requirements—food service establishments need additional decontamination and inspection coordination`,
     ],
-    cta: `Call (703) 285-1100 for immediate commercial sewage emergency response in Ashburn. Our hazmat crews serve One Loudoun, Broadlands, Brambleton, Lansdowne, and the entire Ashburn corridor.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Ashburn. Our hazmat crews serve One Loudoun, Broadlands, Brambleton, Lansdowne, and the entire Ashburn corridor.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Ashburn?`,
-    paragraph: `From One Loudoun retail to Broadlands office parks, our OSHA-compliant hazmat crews provide rapid remediation with new construction defect awareness. Call (703) 285-1100 for immediate containment, decontamination, and documentation that protects your property and your warranty rights.`,
+    paragraph: `From One Loudoun retail to Broadlands office parks, our OSHA-compliant hazmat crews provide rapid remediation with new construction defect awareness. Call (877) 497-0007 for immediate containment, decontamination, and documentation that protects your property and your warranty rights.`,
   },
 }

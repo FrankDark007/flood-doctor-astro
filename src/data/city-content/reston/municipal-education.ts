@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Reston, VA | Flood Doctor`,
-    description: `Reston's trusted restoration for FCPS schools, community centers, and public facilities. Experienced with Reston Association and FCPS requirements. Call (703) 285-1109.`,
+    description: `Reston's trusted restoration for FCPS schools, community centers, and public facilities. Experienced with Reston Association and FCPS requirements. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Reston, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our teams factor these environmental conditions into every public facility resto
   processSteps: [
     {
       title: `Emergency Public Facility Response`,
-      description: `Call (703) 285-1109 for immediate school or community facility response. We coordinate with FCPS facilities management for schools or Reston Community Center management for civic facilities, activating emergency procurement procedures appropriate for each organization.`,
+      description: `Call (877) 497-0007 for immediate school or community facility response. We coordinate with FCPS facilities management for schools or Reston Community Center management for civic facilities, activating emergency procurement procedures appropriate for each organization.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our teams factor these environmental conditions into every public facility resto
       `Academic and event scheduling—compressed timelines requiring additional crews and extended hours`,
       `Community documentation for FCPS, Reston Association, and resident communication standards`,
     ],
-    cta: `Call (703) 285-1109 for emergency school or community facility assessment. We account for Reston's unique environmental conditions in every estimate and restoration plan.`,
+    cta: `Call (877) 497-0007 for emergency school or community facility assessment. We account for Reston's unique environmental conditions in every estimate and restoration plan.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our teams factor these environmental conditions into every public facility resto
   ],
   finalCTA: {
     headline: `Reston School or Community Facility Emergency?`,
-    paragraph: `Students and community members need safe, operational facilities. Our crews respond within 45 minutes with the enhanced environmental equipment Reston's nature-integrated buildings require. Call (703) 285-1109 immediately.`,
+    paragraph: `Students and community members need safe, operational facilities. Our crews respond within 45 minutes with the enhanced environmental equipment Reston's nature-integrated buildings require. Call (877) 497-0007 immediately.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Springfield, VA | Flood Doctor`,
-    description: `Springfield's industrial and commercial facility restoration specialists. OSHA-compliant water damage restoration for I-95 corridor warehouses and light industrial properties. Call (703) 285-1110.`,
+    description: `Springfield's industrial and commercial facility restoration specialists. OSHA-compliant water damage restoration for I-95 corridor warehouses and light industrial properties. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Springfield, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our industrial restoration approach addresses both physical damage and operation
   processSteps: [
     {
       title: `Emergency Response and Facility Coordination`,
-      description: `Call (703) 285-1110 for immediate industrial response. For government contractor facilities, we coordinate with security protocols. For warehouses and distribution centers, we prioritize inventory protection. Our crews arrive with industrial extraction equipment and anti-corrosion treatment materials.`,
+      description: `Call (877) 497-0007 for immediate industrial response. For government contractor facilities, we coordinate with security protocols. For warehouses and distribution centers, we prioritize inventory protection. Our crews arrive with industrial extraction equipment and anti-corrosion treatment materials.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -120,7 +120,7 @@ Our industrial restoration approach addresses both physical damage and operation
       `Inventory damage scope—warehouse contents require rapid triage and detailed documentation for insurance claims`,
       `Business interruption urgency—supply chain obligations and government contract compliance drive restoration timeline requirements`,
     ],
-    cta: `Call (703) 285-1110 for emergency industrial or commercial facility assessment. We provide detailed estimates supporting commercial insurance, government contractor claims, and business interruption documentation.`,
+    cta: `Call (877) 497-0007 for emergency industrial or commercial facility assessment. We provide detailed estimates supporting commercial insurance, government contractor claims, and business interruption documentation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ Our industrial restoration approach addresses both physical damage and operation
   ],
   finalCTA: {
     headline: `Industrial or Commercial Emergency in Springfield?`,
-    paragraph: `Equipment damage and operational downtime compound by the hour. Our HAZWOPER-certified crews respond to Springfield industrial and commercial facilities within 45 minutes with industrial extraction equipment and anti-corrosion treatment. Call (703) 285-1110 now.`,
+    paragraph: `Equipment damage and operational downtime compound by the hour. Our HAZWOPER-certified crews respond to Springfield industrial and commercial facilities within 45 minutes with industrial extraction equipment and anti-corrosion treatment. Call (877) 497-0007 now.`,
   },
 }

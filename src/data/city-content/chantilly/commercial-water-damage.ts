@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's commercial water damage experts. Serving Westfields Business Park, Dulles corridor offices & data centers. Minimal downtime restoration. Call (703) 285-1104.`,
+    description: `Chantilly's commercial water damage experts. Serving Westfields Business Park, Dulles corridor offices & data centers. Minimal downtime restoration. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Chantilly, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Commercial Response',
-      description: `Call (703) 285-1104 and our commercial team deploys immediately with equipment scaled for business properties. We coordinate with your property manager, building engineer, and security to gain access and begin work quickly.`,
+      description: `Call (877) 497-0007 and our commercial team deploys immediately with equipment scaled for business properties. We coordinate with your property manager, building engineer, and security to gain access and begin work quickly.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Building system involvement—HVAC, fire suppression, and plumbing system damage increases complexity`,
       `Multi-tenant coordination—shared building systems and common areas require additional management`,
     ],
-    cta: `Call (703) 285-1104 for immediate commercial water damage response. We understand that business downtime costs money—our commercial team is equipped to minimize your interruption.`,
+    cta: `Call (877) 497-0007 for immediate commercial water damage response. We understand that business downtime costs money—our commercial team is equipped to minimize your interruption.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Commercial Water Damage in Chantilly?',
-    paragraph: `Business downtime costs money every hour. Our commercial restoration team responds within 30 minutes to Westfields, Sully Plaza, and all Dulles corridor locations with equipment scaled for commercial properties. Call (703) 285-1104 now.`,
+    paragraph: `Business downtime costs money every hour. Our commercial restoration team responds within 30 minutes to Westfields, Sully Plaza, and all Dulles corridor locations with equipment scaled for commercial properties. Call (877) 497-0007 now.`,
   },
 }

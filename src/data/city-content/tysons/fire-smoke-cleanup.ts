@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Tysons, VA | Flood Doctor',
-    description: 'Tysons fire damage restoration for commercial buildings & high-rises. 24/7 response for fire suppression water damage, smoke remediation & multi-unit coordination. Call (703) 656-0106.',
+    description: 'Tysons fire damage restoration for commercial buildings & high-rises. 24/7 response for fire suppression water damage, smoke remediation & multi-unit coordination. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Tysons, Virginia',
   introSection: {
@@ -140,7 +140,7 @@ Our IICRC-certified technicians are trained in fire, smoke, and water damage res
       'Building system involvement—HVAC cleaning, electrical assessment, and system restoration add complexity',
       'Business interruption urgency—commercial tenants may require expedited restoration affecting scheduling and costs',
     ],
-    cta: 'Call (703) 656-0106 for immediate assessment after fire department clearance. We coordinate with property management, document for all affected parties, and begin restoration immediately.',
+    cta: 'Call (877) 497-0007 for immediate assessment after fire department clearance. We coordinate with property management, document for all affected parties, and begin restoration immediately.',
   },
   serviceAreaSection: {
     neighborhoods: [

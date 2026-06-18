@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Reston, VA | Flood Doctor',
-    description: `Reston commercial flood cleanup for Town Center offices, lakeside commercial properties & neighborhood business centers. Industrial response. Call (703) 285-1109.`,
+    description: `Reston commercial flood cleanup for Town Center offices, lakeside commercial properties & neighborhood business centers. Industrial response. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Reston, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams understand Reston's specific hydrological profile. We
   processSteps: [
     {
       title: 'Reston-Wide Flood Dispatch',
-      description: `Call (703) 285-1109 for immediate commercial flood response. Our crews are positioned throughout Reston for rapid deployment—whether the flooding is in a Town Center tower, a lakeside commercial property, or a neighborhood business center.`,
+      description: `Call (877) 497-0007 for immediate commercial flood response. Our crews are positioned throughout Reston for rapid deployment—whether the flooding is in a Town Center tower, a lakeside commercial property, or a neighborhood business center.`,
       timeframe: 'Within 60 minutes',
     },
     {
@@ -114,7 +114,7 @@ Our commercial flood teams understand Reston's specific hydrological profile. We
       'Reston Association compliance—community standard requirements may affect scheduling and method costs',
       'Business interruption exposure—seasonal timing and tenant type affect the financial urgency driving restoration timeline requirements',
     ],
-    cta: `Call (703) 285-1109 for emergency commercial flood response. Our Reston team deploys with the contamination management and extraction capacity your specific flood scenario requires.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. Our Reston team deploys with the contamination management and extraction capacity your specific flood scenario requires.`,
   },
   serviceAreaSection: {
     neighborhoods: [

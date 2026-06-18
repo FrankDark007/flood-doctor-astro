@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in McLean, VA | Flood Doctor',
-    description: 'McLean basement flooding experts. 30-min response for finished basements, wine cellars & home theaters. Langley, Chesterbrook, The Reserve. Call (703) 656-0101.',
+    description: 'McLean basement flooding experts. 30-min response for finished basements, wine cellars & home theaters. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in McLean, Virginia',
   introSection: {
@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       `A Langley estate owner returns from ten days abroad to find a voicemail from the alarm monitoring company. The sump pump battery backup triggered three days ago. By the time they walk through the door, 2,500 square feet of below-grade living space sits under four inches of groundwater. The walk-out basement's perimeter French drain — installed when the home was built in 1978 — finally surrendered to forty-seven years of iron ochre accumulation and root infiltration from the mature oaks along Dead Run. The wine cellar's 600-bottle collection has been sitting at 68°F instead of 55°F since the dedicated cooling unit shorted. The home theater's subwoofer and center channel are submerged. The guest suite's hand-scraped walnut floors have already begun to cup.
 
 This is not a wet carpet problem. At $200 or more per square foot in finish value, the contents and buildout of a McLean estate basement routinely exceed $300,000. The wine collection alone may represent six figures. The acoustic treatments in the theater room took months to calibrate. The built-in library shelving was milled from a single walnut log to match the study above. Every hour of standing water erodes value that cannot be recovered through standard replacement.`,
-      'Flood Doctor serves McLean because this market demands a restoration approach that most companies cannot deliver. A finished estate basement is not an unfinished utility space with a few inches of water on a concrete slab. It contains temperature-sensitive collections, irreplaceable custom millwork, integrated audiovisual systems, and secondary living quarters — all built to a standard that requires equally precise restoration. We carry desiccant dehumidification units for temperature-critical zones. We deploy Injectidry systems to save millwork without demolition. We understand that the homeowner who built a $120,000 wine cellar is not looking for the same crew that pumps out a flooded townhouse in Tysons. Call (703) 656-0101 when the water appears. What happens in the first two hours determines whether your basement is restored or rebuilt.',
+      'Flood Doctor serves McLean because this market demands a restoration approach that most companies cannot deliver. A finished estate basement is not an unfinished utility space with a few inches of water on a concrete slab. It contains temperature-sensitive collections, irreplaceable custom millwork, integrated audiovisual systems, and secondary living quarters — all built to a standard that requires equally precise restoration. We carry desiccant dehumidification units for temperature-critical zones. We deploy Injectidry systems to save millwork without demolition. We understand that the homeowner who built a $120,000 wine cellar is not looking for the same crew that pumps out a flooded townhouse in Tysons. Call (877) 497-0007 when the water appears. What happens in the first two hours determines whether your basement is restored or rebuilt.',
     ],
     localContext: 'McLean basements function as extensions of the primary living space — wine storage, home theaters, custom libraries, guest suites. Finish values of $150–$250 per square foot are standard. Restoration must match the precision of the original buildout or the space loses both function and resale value.',
   },
@@ -75,7 +75,7 @@ This is not a wet carpet problem. At $200 or more per square foot in finish valu
       'Contents involvement — wine collection handling, electronics protection, art relocation, and furniture staging increase labor requirements',
       'Duration of standing water — extraction within the first 6 hours versus discovery after 72 hours dramatically changes the scope from drying to demolition and rebuild',
     ],
-    cta: 'Call (703) 656-0101 for immediate dispatch. On-site assessment is free. We scope the work in person, explain what each line item covers, and coordinate directly with your insurance carrier or provide private-pay documentation as needed.',
+    cta: 'Call (877) 497-0007 for immediate dispatch. On-site assessment is free. We scope the work in person, explain what each line item covers, and coordinate directly with your insurance carrier or provide private-pay documentation as needed.',
   },
   serviceAreaSection: {
     neighborhoods: [

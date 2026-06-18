@@ -266,7 +266,7 @@ export const blogPosts: BlogPost[] = [
       <ul>
         <li>Know your home's elevation relative to nearby waterways</li>
         <li>Install a sump pump with battery backup</li>
-        <li>Keep Flood Doctor's 24/7 emergency number saved: (703) 285-1100</li>
+        <li>Keep Flood Doctor's 24/7 emergency number saved: (877) 497-0007</li>
         <li>Store important documents above ground level</li>
         <li>Have an emergency water shut-off plan</li>
       </ul>

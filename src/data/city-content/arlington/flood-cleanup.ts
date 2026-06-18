@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Arlington, VA | Flood Doctor',
-    description: 'Arlington flood cleanup specialists. Rapid response to Four Mile Run flooding, underground parking emergencies & storm damage. HOA coordination. Call (703) 656-0102.',
+    description: 'Arlington flood cleanup specialists. Rapid response to Four Mile Run flooding, underground parking emergencies & storm damage. HOA coordination. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Arlington, Virginia',
   introSection: {
@@ -121,7 +121,7 @@ Our IICRC-certified flood cleanup crews bring the equipment and expertise for Ar
       'Building type—high-rise coordination adds complexity compared to single-family flood cleanup',
       'Contents affected—commercial inventory or personal property requires documentation and possible restoration',
     ],
-    cta: `Call (703) 656-0102 for a free, no-obligation inspection. We'll assess the flooding, explain contamination considerations, and provide detailed estimates for complete cleanup.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the flooding, explain contamination considerations, and provide detailed estimates for complete cleanup.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -158,7 +158,7 @@ Our IICRC-certified flood cleanup crews bring the equipment and expertise for Ar
     },
     {
       question: 'My basement apartment flooded—is it safe to enter?',
-      answer: `Not until we assess electrical hazards and water contamination. Storm flooding often energizes outlets and appliances while introducing bacteria from storm drains. Call us at (703) 656-0102 before entering. We'll verify safety, begin extraction, and work to make the space habitable again as quickly as possible.`,
+      answer: `Not until we assess electrical hazards and water contamination. Storm flooding often energizes outlets and appliances while introducing bacteria from storm drains. Call us at (877) 497-0007 before entering. We'll verify safety, begin extraction, and work to make the space habitable again as quickly as possible.`,
     },
     {
       question: `Does homeowner's insurance cover flood damage?`,

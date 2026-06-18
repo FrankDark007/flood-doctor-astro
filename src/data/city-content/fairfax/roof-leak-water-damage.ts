@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Fairfax, VA | Flood Doctor',
-    description: `Fairfax roof leak water damage specialists. Serving Burke, Kings Park & Mantua. Colonial and split-level ice dam expertise. Emergency tarping & ceiling repair. Call (703) 285-1105.`,
+    description: `Fairfax roof leak water damage specialists. Serving Burke, Kings Park & Mantua. Colonial and split-level ice dam expertise. Emergency tarping & ceiling repair. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Fairfax, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Fairfax Response',
-      description: `Call (703) 285-1105 and we respond within 30 minutes. We assess the ceiling damage from inside, then inspect the attic to trace the leak path from the visible stain back to the actual roof entry point—which is often 10-15 feet away in a different area entirely.`,
+      description: `Call (877) 497-0007 and we respond within 30 minutes. We assess the ceiling damage from inside, then inspect the attic to trace the leak path from the visible stain back to the actual roof entry point—which is often 10-15 feet away in a different area entirely.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       'Mold treatment needs if extended dampness allowed growth before discovery',
       'Ceiling and wall restoration extent—single room versus multi-room damage paths',
     ],
-    cta: `Call (703) 285-1105 at the first sign of a ceiling stain or drip. In Fairfax homes, the difference between a minor repair and a major restoration is often just a few weeks of delay.`,
+    cta: `Call (877) 497-0007 at the first sign of a ceiling stain or drip. In Fairfax homes, the difference between a minor repair and a major restoration is often just a few weeks of delay.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Fairfax Ceiling Stain? Do Not Wait—Call Now.',
-    paragraph: `That small stain represents hidden damage that grows every day. Call (703) 285-1105 for immediate assessment, emergency tarping, and interior restoration that stops the damage before it doubles in scope.`,
+    paragraph: `That small stain represents hidden damage that grows every day. Call (877) 497-0007 for immediate assessment, emergency tarping, and interior restoration that stops the damage before it doubles in scope.`,
   },
 }

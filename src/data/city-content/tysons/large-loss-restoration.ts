@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Tysons, VA | Flood Doctor',
-    description: `Tysons large loss restoration for Class A office towers, mixed-use developments & commercial campuses. Multi-million dollar project management. Call (703) 285-1100.`,
+    description: `Tysons large loss restoration for Class A office towers, mixed-use developments & commercial campuses. Multi-million dollar project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Tysons, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors bring commercial construction management credentials to ev
   processSteps: [
     {
       title: 'Emergency Stabilization & System Protection',
-      description: `Call (703) 285-1100 to activate large loss response. Our stabilization team isolates building system failures, begins emergency extraction, protects critical IT infrastructure, and establishes environmental controls while the full project team mobilizes for a Tysons-scale engagement.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team isolates building system failures, begins emergency extraction, protects critical IT infrastructure, and establishes environmental controls while the full project team mobilizes for a Tysons-scale engagement.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -115,7 +115,7 @@ Our project directors bring commercial construction management credentials to ev
       'Forensic documentation needs—construction defect potential or litigation support adds documentation scope and evidence preservation costs',
       'Timeline acceleration—reducing business interruption for high-value tenant populations justifies multi-shift operations and expanded crews',
     ],
-    cta: `Call (703) 285-1100 for immediate large loss response. Our senior project director will assess building-wide scope and deliver a preliminary enterprise project plan within 72 hours of stabilization.`,
+    cta: `Call (877) 497-0007 for immediate large loss response. Our senior project director will assess building-wide scope and deliver a preliminary enterprise project plan within 72 hours of stabilization.`,
   },
   serviceAreaSection: {
     neighborhoods: [

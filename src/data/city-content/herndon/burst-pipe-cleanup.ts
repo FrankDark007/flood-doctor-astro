@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Herndon, VA | Flood Doctor',
-    description: 'Herndon burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. Fox Mill, Downtown, Worldgate. Call (703) 656-0108.',
+    description: 'Herndon burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Cleanup in Herndon, Virginia',
   introSection: {
@@ -19,7 +19,7 @@ Herndon's townhome-dense neighborhoods — Worldgate, Franklin Farm, Herndon Sta
   processSteps: [
     {
       title: 'Multi-Unit Triage Dispatch',
-      description: `When a townhome resident calls (703) 656-0108, dispatch probes for multi-unit involvement — which walls are wet, whether water appears on shared walls, whether neighbors have been contacted. Our crew arrives with thermal imaging and scans both sides of every party wall before demolition begins, determining whether we're dealing with a single-unit event or shared-wall failure affecting multiple properties.`,
+      description: `When a townhome resident calls (877) 497-0007, dispatch probes for multi-unit involvement — which walls are wet, whether water appears on shared walls, whether neighbors have been contacted. Our crew arrives with thermal imaging and scans both sides of every party wall before demolition begins, determining whether we're dealing with a single-unit event or shared-wall failure affecting multiple properties.`,
       timeframe: 'Within 30 minutes of call',
     },
     {
@@ -59,7 +59,7 @@ Herndon's townhome-dense neighborhoods — Worldgate, Franklin Farm, Herndon Sta
       'Coordinated crew deployment — multi-unit events require parallel teams with independent equipment sets',
       'Water category escalation — clean water standing 24-48 hours degrades to Category 2, requiring enhanced extraction and antimicrobial treatment',
     ],
-    cta: `Call (703) 656-0108 for immediate burst pipe response. We dispatch multi-unit-capable crews throughout Herndon's townhome communities.`,
+    cta: `Call (877) 497-0007 for immediate burst pipe response. We dispatch multi-unit-capable crews throughout Herndon's townhome communities.`,
   },
   serviceAreaSection: {
     neighborhoods: [

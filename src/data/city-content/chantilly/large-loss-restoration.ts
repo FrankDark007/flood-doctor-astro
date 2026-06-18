@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Chantilly, VA | Flood Doctor',
-    description: `Large loss and catastrophic damage restoration in Chantilly. Commercial buildings, multi-family properties & major residential losses. Dulles corridor experts. Call (703) 285-1104.`,
+    description: `Large loss and catastrophic damage restoration in Chantilly. Commercial buildings, multi-family properties & major residential losses. Dulles corridor experts. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Chantilly, Virginia',
   introSection: {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Multi-party coordination—multiple tenants, carriers, and stakeholders increase management requirements`,
       `Specialty subcontractor needs—structural, electrical, mechanical, and specialty trade coordination`,
     ],
-    cta: `Call (703) 285-1104 for large loss restoration. Our senior management team responds immediately with the resources catastrophic events require.`,
+    cta: `Call (877) 497-0007 for large loss restoration. Our senior management team responds immediately with the resources catastrophic events require.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Catastrophic Damage in Chantilly?',
-    paragraph: `Large loss events demand immediate senior-level response with the resources to match the scope. Our team deploys project managers, multiple crews, and commercial-scale equipment to Chantilly properties within hours. Call (703) 285-1104 now.`,
+    paragraph: `Large loss events demand immediate senior-level response with the resources to match the scope. Our team deploys project managers, multiple crews, and commercial-scale equipment to Chantilly properties within hours. Call (877) 497-0007 now.`,
   },
 }

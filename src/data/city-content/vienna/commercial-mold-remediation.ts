@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Vienna, VA | Flood Doctor`,
-    description: `Vienna's trusted commercial mold remediation specialists. CIH-coordinated protocols for Church Street businesses, Oakton offices, and Dunn Loring commercial properties. Call (703) 285-1112.`,
+    description: `Vienna's trusted commercial mold remediation specialists. CIH-coordinated protocols for Church Street businesses, Oakton offices, and Dunn Loring commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Vienna, Virginia`,
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `HVAC system involvement—ductwork contamination adds specialized cleaning to the remediation scope`,
       `Moisture source correction—resolving the underlying water problem is essential to prevent costly recurrence`,
     ],
-    cta: `Call (703) 285-1112 for a confidential commercial mold assessment at your Vienna property. We coordinate CIH engagement and provide honest estimates tailored to your building type and situation.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment at your Vienna property. We coordinate CIH engagement and provide honest estimates tailored to your building type and situation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold in Your Vienna Commercial Property?`,
-    paragraph: `Mold damages both building materials and business reputation. Our CIH-coordinated remediation delivers independently verified results with the quality craftsmanship that Vienna's commercial community expects. Call (703) 285-1112 for a confidential assessment.`,
+    paragraph: `Mold damages both building materials and business reputation. Our CIH-coordinated remediation delivers independently verified results with the quality craftsmanship that Vienna's commercial community expects. Call (877) 497-0007 for a confidential assessment.`,
   },
 }

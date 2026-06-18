@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling municipal and education facility restoration. Schools, community centers & government buildings. Emergency response with minimal disruption. Call (703) 285-1111.`,
+    description: `Sterling municipal and education facility restoration. Schools, community centers & government buildings. Emergency response with minimal disruption. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our project managers work with facility directors, school administrators, and mu
   processSteps: [
     {
       title: `Emergency Public Facility Response`,
-      description: `Call (703) 285-1111 for immediate response to Sterling schools, community centers, and government buildings. We coordinate with facility managers and understand the access, security, and safety protocols that public buildings require.`,
+      description: `Call (877) 497-0007 for immediate response to Sterling schools, community centers, and government buildings. We coordinate with facility managers and understand the access, security, and safety protocols that public buildings require.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -77,7 +77,7 @@ Our project managers work with facility directors, school administrators, and mu
       `Air quality monitoring—enhanced testing for educational and vulnerable population environments`,
       `Documentation depth—public procurement and facility management documentation requirements`,
     ],
-    cta: `Call (703) 285-1111 for public facility emergency response. We understand the unique requirements of Sterling's schools and municipal buildings and provide restoration that protects both the facility and its occupants.`,
+    cta: `Call (877) 497-0007 for public facility emergency response. We understand the unique requirements of Sterling's schools and municipal buildings and provide restoration that protects both the facility and its occupants.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our project managers work with facility directors, school administrators, and mu
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Priority emergency response for Sterling schools and public facilities. 30-minute dispatch for active water events threatening building occupancy. Call (703) 285-1111.`,
+    responseTime: `Priority emergency response for Sterling schools and public facilities. 30-minute dispatch for active water events threatening building occupancy. Call (877) 497-0007.`,
   },
   faqs: [
     {

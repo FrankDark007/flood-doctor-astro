@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Indoor Air Quality Testing in Lorton, VA | Flood Doctor`,
-    description: `Lorton indoor air quality testing for homes and commercial spaces. Mold sampling, HVAC assessment & VOC analysis in Laurel Hill, Occoquan & Mason Neck. Call (703) 285-1100.`,
+    description: `Lorton indoor air quality testing for homes and commercial spaces. Mold sampling, HVAC assessment & VOC analysis in Laurel Hill, Occoquan & Mason Neck. Call (877) 497-0007.`,
   },
   h1: `Indoor Air Quality Testing in Lorton, Virginia`,
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Crawlspace assessment—Mason Neck and Occoquan area properties may require crawlspace evaluation adding to testing scope`,
       `Post-remediation clearance sampling and verification requirements`,
     ],
-    cta: `Call (703) 285-1100 for a consultation. We recommend the testing scope that answers your specific air quality questions and provide upfront pricing.`,
+    cta: `Call (877) 497-0007 for a consultation. We recommend the testing scope that answers your specific air quality questions and provide upfront pricing.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -124,7 +124,7 @@ export const content: CityServiceContent = {
       `Workhouse Arts Center Area`,
       `Occoquan Bay`,
     ],
-    responseTime: `Same-day IAQ assessment throughout Lorton. Emergency sampling within 2 hours for visible mold or acute contamination events. Call (703) 285-1100.`,
+    responseTime: `Same-day IAQ assessment throughout Lorton. Emergency sampling within 2 hours for visible mold or acute contamination events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -158,6 +158,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Air Quality Questions in Your Lorton Property?`,
-    paragraph: `Whether new construction off-gassing or waterfront moisture contamination, our AIHA-accredited IAQ testing provides definitive answers about indoor air contaminants. Call (703) 285-1100 for a professional assessment.`,
+    paragraph: `Whether new construction off-gassing or waterfront moisture contamination, our AIHA-accredited IAQ testing provides definitive answers about indoor air contaminants. Call (877) 497-0007 for a professional assessment.`,
   },
 }

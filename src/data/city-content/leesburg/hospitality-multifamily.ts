@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Leesburg, VA | Flood Doctor`,
-    description: `Water damage and restoration for Leesburg hotels, apartments, and multifamily properties. Minimize tenant disruption and revenue loss. Call (703) 285-1107.`,
+    description: `Water damage and restoration for Leesburg hotels, apartments, and multifamily properties. Minimize tenant disruption and revenue loss. Call (877) 497-0007.`,
   },
   h1: `Leesburg Hospitality & Multifamily Restoration`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Property Management Coordination`,
-      description: `Call (703) 285-1107 for immediate response. We coordinate with property management on access, tenant communication, and unit relocation before our crews begin work.`,
+      description: `Call (877) 497-0007 for immediate response. We coordinate with property management on access, tenant communication, and unit relocation before our crews begin work.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Property type — apartment, hotel, or mixed-use`,
       `Insurance structure — master policy, individual renter policies, or combination`,
     ],
-    cta: `Call (703) 285-1107 for immediate multifamily or hospitality restoration response.`,
+    cta: `Call (877) 497-0007 for immediate multifamily or hospitality restoration response.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -127,6 +127,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Multi-Unit Water Damage in Leesburg? Call Flood Doctor`,
-    paragraph: `Multi-unit restoration requires crew depth, coordination expertise, and multi-party communication that general contractors cannot provide. Flood Doctor is the Leesburg partner property managers trust for hospitality and multifamily restoration. Call (703) 285-1107.`,
+    paragraph: `Multi-unit restoration requires crew depth, coordination expertise, and multi-party communication that general contractors cannot provide. Flood Doctor is the Leesburg partner property managers trust for hospitality and multifamily restoration. Call (877) 497-0007.`,
   },
 }

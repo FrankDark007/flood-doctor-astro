@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Reston, VA | Flood Doctor',
-    description: 'Reston basement flooding specialists. Lake-adjacent property expertise, groundwater intrusion solutions, wooded lot moisture control. 24/7 emergency response. (703) 656-0107',
+    description: 'Reston basement flooding specialists. Lake-adjacent property expertise, groundwater intrusion solutions, wooded lot moisture control. 24/7 emergency response. (877) 497-0007',
   },
   h1: 'Basement Flooding Restoration in Reston, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Basement flooding in Reston follows predictable patterns tied directly to the community's planned design. Homes backing to Lake Anne, South Lakes, and Lake Newport face seasonal groundwater rises that push water through foundation walls and floor slabs—not from surface drainage problems, but from hydrostatic pressure created by the rising water table. Properties in Hunters Woods and North Point with wooded lots experience different basement moisture issues: soil saturated from heavy tree cover stays wet longer, creating persistent seepage that townhomes on cleared lots never face.
 
-Flood Doctor has restored flooded basements throughout Reston's neighborhoods since 2005. We've extracted thousands of gallons from South Lakes finished basements during spring floods, dried Lake Anne properties affected by seasonal water table fluctuations, and addressed wooded lot moisture intrusion in Hunters Woods clusters. When your North Point neighbor's sump pump fails during a weekend storm, they call us—because we understand the specific flooding patterns affecting each Reston neighborhood.`,
+Flood Doctor has restored flooded basements throughout Reston's neighborhoods for years. We've extracted thousands of gallons from South Lakes finished basements during spring floods, dried Lake Anne properties affected by seasonal water table fluctuations, and addressed wooded lot moisture intrusion in Hunters Woods clusters. When your North Point neighbor's sump pump fails during a weekend storm, they call us—because we understand the specific flooding patterns affecting each Reston neighborhood.`,
       `Reston's diverse basement types require different restoration approaches. The finished lower levels in South Lakes single-family homes—complete with rec rooms, guest bedrooms, and full bathrooms—demand careful material protection during drying. Garden-style condo clusters in Hunters Woods have below-grade storage areas shared between units, requiring coordination with your HOA. The high-rise buildings near Reston Town Center feature underground parking and mechanical rooms where flooding affects entire building systems, not just individual units.
 
 Our IICRC-certified crews don't just pump water and leave. We identify why your basement flooded—failed sump pump, overwhelmed perimeter drainage, groundwater intrusion, or surface water infiltration—then address both the immediate damage and prevent recurrence. Your Lake Anne village townhome requires different expertise than a South Lakes detached home on a wooded lot, and we deliver both with equal proficiency.`,
@@ -21,7 +21,7 @@ Our IICRC-certified crews don't just pump water and leave. We identify why your 
   processSteps: [
     {
       title: 'Emergency Response to Flooded Basements',
-      description: 'When you discover basement flooding and call (703) 656-0107, our crews dispatch immediately. We reach South Lakes, Hunters Woods, and Lake Anne properties within 45 minutes with truck-mounted extraction equipment sized for complete basement flooding—not just residential shop-vacs that take hours to remove standing water.',
+      description: 'When you discover basement flooding and call (877) 497-0007, our crews dispatch immediately. We reach South Lakes, Hunters Woods, and Lake Anne properties within 45 minutes with truck-mounted extraction equipment sized for complete basement flooding—not just residential shop-vacs that take hours to remove standing water.',
       timeframe: 'Within 45 minutes',
     },
     {
@@ -125,7 +125,7 @@ Our IICRC-certified crews don't just pump water and leave. We identify why your 
       'Flooding source—groundwater intrusion may need permanent waterproofing beyond emergency restoration',
       'Cluster coordination—multi-unit flooding requiring HOA coordination adds complexity and documentation',
     ],
-    cta: `Call (703) 656-0107 for a free basement flooding assessment. We'll evaluate water source, measure affected areas, and provide detailed cost estimates for insurance claims and permanent solutions.`,
+    cta: `Call (877) 497-0007 for a free basement flooding assessment. We'll evaluate water source, measure affected areas, and provide detailed cost estimates for insurance claims and permanent solutions.`,
   },
   serviceAreaSection: {
     neighborhoods: [

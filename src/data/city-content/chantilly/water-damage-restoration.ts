@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's trusted water damage restoration experts. 30-min response to South Riding, Westfields & Chantilly Highlands. Dulles corridor commercial-residential specialists. Call (703) 285-1104.`,
+    description: `Chantilly's trusted water damage restoration experts. 30-min response to South Riding, Westfields & Chantilly Highlands. Dulles corridor commercial-residential specialists. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Chantilly, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `Call our Chantilly hotline at (703) 285-1104 and we dispatch immediately. Our trucks are positioned along the Route 50 and Route 28 corridors to reach South Riding, Chantilly Highlands, Poplar Tree Estates, and Fair Oaks within 30 minutes—not from a distant warehouse, but from the Dulles corridor where we operate daily.`,
+      description: `Call our Chantilly hotline at (877) 497-0007 and we dispatch immediately. Our trucks are positioned along the Route 50 and Route 28 corridors to reach South Riding, Chantilly Highlands, Poplar Tree Estates, and Fair Oaks within 30 minutes—not from a distant warehouse, but from the Dulles corridor where we operate daily.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       `Documentation needs—warranty claim situations require additional investigation and photography`,
       `Response time—faster calls mean less damage spread and lower total restoration costs`,
     ],
-    cta: `Call (703) 285-1104 for a free, no-obligation inspection. We assess the damage, provide a detailed estimate, and explain your insurance coverage and warranty options.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We assess the damage, provide a detailed estimate, and explain your insurance coverage and warranty options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -137,7 +137,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `How quickly should I call after discovering water damage in my Chantilly home?`,
-      answer: `Immediately. Water damage worsens exponentially—mold begins growing within 24-48 hours, and water migrates through modern open floor plans faster than older homes. Call (703) 285-1104 the moment you discover water.`,
+      answer: `Immediately. Water damage worsens exponentially—mold begins growing within 24-48 hours, and water migrates through modern open floor plans faster than older homes. Call (877) 497-0007 the moment you discover water.`,
     },
     {
       question: `Can you help with builder warranty water damage claims in South Riding?`,
@@ -171,6 +171,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Chantilly?',
-    paragraph: `Every hour of delay means more damage to your home. Our crews are positioned throughout the Dulles corridor for immediate 30-minute response to all Chantilly neighborhoods. One call to (703) 285-1104 handles everything—from water extraction to insurance documentation.`,
+    paragraph: `Every hour of delay means more damage to your home. Our crews are positioned throughout the Dulles corridor for immediate 30-minute response to all Chantilly neighborhoods. One call to (877) 497-0007 handles everything—from water extraction to insurance documentation.`,
   },
 }

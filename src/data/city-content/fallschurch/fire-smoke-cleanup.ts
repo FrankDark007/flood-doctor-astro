@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church fire damage restoration. Board-up, water extraction, smoke cleanup for Seven Corners, Lake Barcroft & Falls Church City. Call (703) 656-0111.',
+    description: 'Falls Church fire damage restoration. Board-up, water extraction, smoke cleanup for Seven Corners, Lake Barcroft & Falls Church City. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Falls Church, Virginia',
   introSection: {
@@ -16,7 +16,7 @@ Flood Doctor responds to Falls Church fire emergencies immediately after fire de
 
 Our response begins with emergency board-up and tarping to secure your Falls Church home. Then water extraction prevents secondary water damage from firefighting efforts. Smoke and soot remediation follows, using specialized techniques for the different types of smoke residue (wet smoke, dry smoke, protein smoke) found after different fire types. This comprehensive approach restores your home completely—not just the areas where flames touched.`,
     ],
-    localContext: `Falls Church's diverse housing stock—from historic bungalows to mid-century colonials to contemporary townhomes—each requires specialized fire damage restoration approaches. We've restored fire-damaged properties throughout Falls Church since 2005.`,
+    localContext: `Falls Church's diverse housing stock—from historic bungalows to mid-century colonials to contemporary townhomes—each requires specialized fire damage restoration approaches. We've restored fire-damaged properties throughout Falls Church for years.`,
   },
   processSteps: [
     {
@@ -119,7 +119,7 @@ Our response begins with emergency board-up and tarping to secure your Falls Chu
       'Content damage—restoration of furniture, electronics, and belongings adds to project',
       'Historic home materials—period details require specialized restoration techniques',
     ],
-    cta: 'Call (703) 656-0111 after fire department clearance. We provide free assessments and handle insurance claims directly—one call starts your complete restoration.',
+    cta: 'Call (877) 497-0007 after fire department clearance. We provide free assessments and handle insurance claims directly—one call starts your complete restoration.',
   },
   serviceAreaSection: {
     neighborhoods: [

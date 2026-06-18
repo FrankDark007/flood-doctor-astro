@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Reston, VA | Flood Doctor',
-    description: `Reston's trusted water damage restoration experts. 30-min response to Lake Anne, South Lakes & Reston Town Center. HOA coordination included. Call (703) 656-0107.`,
+    description: `Reston's trusted water damage restoration experts. 30-min response to Lake Anne, South Lakes & Reston Town Center. HOA coordination included. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Reston, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC Master Water Restorers know that your Hunters Woods cluster requires d
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Reston hotline at (703) 656-0107, we dispatch immediately. Our trucks are positioned to reach Lake Anne, Hunters Woods, South Lakes, and North Point within our 30-minute guarantee—not from a distant warehouse, but from the Reston corridor where we're already stationed.`,
+      description: `When you call our Reston hotline at (877) 497-0007, we dispatch immediately. Our trucks are positioned to reach Lake Anne, Hunters Woods, South Lakes, and North Point within our 30-minute guarantee—not from a distant warehouse, but from the Reston corridor where we're already stationed.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC Master Water Restorers know that your Hunters Woods cluster requires d
       'HOA requirements—some associations require additional documentation or approved contractors',
       'Duration before response—faster calls mean less damage spread and lower restoration costs',
     ],
-    cta: `Call (703) 656-0107 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,7 +145,7 @@ Our IICRC Master Water Restorers know that your Hunters Woods cluster requires d
   faqs: [
     {
       question: 'How quickly should I call after discovering water damage in my Reston home?',
-      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating into wall cavities, under floors, and through party walls in townhomes. In Reston's diverse housing, a few hours of delay can mean thousands of additional dollars in damage. Call (703) 656-0107 the moment you discover water.`,
+      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating into wall cavities, under floors, and through party walls in townhomes. In Reston's diverse housing, a few hours of delay can mean thousands of additional dollars in damage. Call (877) 497-0007 the moment you discover water.`,
     },
     {
       question: 'Can you save my hardwood floors after water damage?',

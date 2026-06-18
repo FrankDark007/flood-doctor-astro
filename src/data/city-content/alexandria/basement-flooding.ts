@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Alexandria's proximity to the Potomac River creates unique basement flooding challenges unfamiliar to most Northern Virginia communities. Seasonal groundwater fluctuations, combined sewer backups during heavy rainfall, and aging foundation waterproofing in historic buildings demand specialized flooding response and permanent prevention solutions. Our certified teams understand the hydrogeology of Alexandria's waterfront neighborhoods and engineer drainage systems that keep basements dry year-round, even during spring high-water events.`,
     ],
-    localContext: 'Basement flooding right now? Call (703) 656-0103 for emergency extraction within 60 minutes to Old Town, Belle Haven, Del Ray, and all Alexandria neighborhoods.',
+    localContext: 'Basement flooding right now? Call (877) 497-0007 for emergency extraction within 60 minutes to Old Town, Belle Haven, Del Ray, and all Alexandria neighborhoods.',
   },
   processSteps: [
     {
@@ -87,7 +87,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How quickly can you respond to basement flooding in Belle Haven?',
-      answer: 'Our emergency teams reach Belle Haven within 45-60 minutes, arriving with truck-mounted extraction equipment and submersible pumps. We begin water removal immediately, extracting hundreds of gallons within the first hour to prevent structural damage and mold growth. Weekend and holiday responses receive identical priority to weekday emergencies. Call (703) 656-0103 the moment you discover flooding—rapid response makes the critical difference in restoration outcomes.',
+      answer: 'Our emergency teams reach Belle Haven within 45-60 minutes, arriving with truck-mounted extraction equipment and submersible pumps. We begin water removal immediately, extracting hundreds of gallons within the first hour to prevent structural damage and mold growth. Weekend and holiday responses receive identical priority to weekday emergencies. Call (877) 497-0007 the moment you discover flooding—rapid response makes the critical difference in restoration outcomes.',
     },
     {
       question: 'Does homeowners insurance cover basement flooding?',

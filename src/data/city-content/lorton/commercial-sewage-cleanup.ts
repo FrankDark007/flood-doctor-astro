@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Lorton, VA | Flood Doctor`,
-    description: `Lorton commercial sewage cleanup experts. OSHA-compliant biohazard remediation for commercial properties near Occoquan waterfront and Laurel Hill. Call (703) 285-1100.`,
+    description: `Lorton commercial sewage cleanup experts. OSHA-compliant biohazard remediation for commercial properties near Occoquan waterfront and Laurel Hill. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Lorton, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Response and Containment`,
-      description: `When you contact our Lorton commercial line at (703) 285-1100, we dispatch a hazmat-equipped crew immediately. Our teams reach Laurel Hill, Occoquan, and South County commercial properties within our rapid response window, establishing restricted access zones and containment barriers before contamination spreads to unaffected tenant spaces.`,
+      description: `When you contact our Lorton commercial line at (877) 497-0007, we dispatch a hazmat-equipped crew immediately. Our teams reach Laurel Hill, Occoquan, and South County commercial properties within our rapid response window, establishing restricted access zones and containment barriers before contamination spreads to unaffected tenant spaces.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       `HVAC decontamination scope—contamination that reaches building mechanical systems increases remediation complexity`,
       `Business interruption timeline—expedited service reduces revenue loss but requires additional crew deployment`,
     ],
-    cta: `Call (703) 285-1100 for immediate commercial sewage emergency response. We provide free on-site assessment, detailed scope documentation, and coordinate directly with your insurance carrier and property management team.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response. We provide free on-site assessment, detailed scope documentation, and coordinate directly with your insurance carrier and property management team.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -134,7 +134,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `How quickly can you respond to a commercial sewage emergency in Lorton?`,
-      answer: `We maintain 24/7 commercial dispatch and typically reach Lorton commercial properties within 60 minutes. Our hazmat-equipped crews are pre-positioned throughout southern Fairfax County. Call (703) 285-1100 immediately—sewage contamination worsens rapidly and early response reduces both health risk and remediation cost.`,
+      answer: `We maintain 24/7 commercial dispatch and typically reach Lorton commercial properties within 60 minutes. Our hazmat-equipped crews are pre-positioned throughout southern Fairfax County. Call (877) 497-0007 immediately—sewage contamination worsens rapidly and early response reduces both health risk and remediation cost.`,
     },
     {
       question: `Do Lorton commercial properties need health department clearance after sewage cleanup?`,
@@ -168,6 +168,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Lorton?`,
-    paragraph: `Sewage contamination threatens employee health, regulatory compliance, and business continuity. Our OSHA-compliant hazmat crews are standing by for immediate dispatch to any Lorton commercial property. One call to (703) 285-1100 activates biohazard containment, professional remediation, and complete compliance documentation.`,
+    paragraph: `Sewage contamination threatens employee health, regulatory compliance, and business continuity. Our OSHA-compliant hazmat crews are standing by for immediate dispatch to any Lorton commercial property. One call to (877) 497-0007 activates biohazard containment, professional remediation, and complete compliance documentation.`,
   },
 }

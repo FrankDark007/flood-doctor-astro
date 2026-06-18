@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Fire & Smoke Cleanup in Chantilly, VA | Flood Doctor',
-    description: `Commercial fire and smoke damage restoration for Chantilly businesses. Westfields Business Park, Dulles corridor & Sully Plaza. Rapid business recovery. Call (703) 285-1104.`,
+    description: `Commercial fire and smoke damage restoration for Chantilly businesses. Westfields Business Park, Dulles corridor & Sully Plaza. Rapid business recovery. Call (877) 497-0007.`,
   },
   h1: 'Commercial Fire & Smoke Cleanup in Chantilly, Virginia',
   introSection: {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Water damage from suppression—firefighting water creates dual restoration requirements`,
       `Business interruption timeline—accelerated restoration reduces revenue loss`,
     ],
-    cta: `Call (703) 285-1104 for commercial fire and smoke damage assessment. We provide free evaluations and work directly with your commercial insurance carrier.`,
+    cta: `Call (877) 497-0007 for commercial fire and smoke damage assessment. We provide free evaluations and work directly with your commercial insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,6 +131,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Fire or Smoke Damage at Your Chantilly Business?',
-    paragraph: `Commercial fire damage demands rapid, professional response to minimize business disruption. Our commercial team restores Chantilly business properties with the urgency and documentation your situation requires. Call (703) 285-1104 now.`,
+    paragraph: `Commercial fire damage demands rapid, professional response to minimize business disruption. Our commercial team restores Chantilly business properties with the urgency and documentation your situation requires. Call (877) 497-0007 now.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Ashburn, VA | Flood Doctor',
-    description: `Ashburn commercial water damage restoration. Data centers, new construction office parks & mixed-use developments near One Loudoun, Brambleton & Broadlands. Call (703) 285-1100.`,
+    description: `Ashburn commercial water damage restoration. Data centers, new construction office parks & mixed-use developments near One Loudoun, Brambleton & Broadlands. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Ashburn, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams understand Ashburn's modern building stock 
   processSteps: [
     {
       title: 'Ashburn Commercial Dispatch',
-      description: `Call (703) 285-1100 for immediate commercial response. Our Ashburn crews carry equipment for both modern construction commercial spaces and data center environments, reaching One Loudoun, Broadlands, and Loudoun County Parkway businesses within our rapid response window.`,
+      description: `Call (877) 497-0007 for immediate commercial response. Our Ashburn crews carry equipment for both modern construction commercial spaces and data center environments, reaching One Loudoun, Broadlands, and Loudoun County Parkway businesses within our rapid response window.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -116,7 +116,7 @@ Our IICRC-certified commercial teams understand Ashburn's modern building stock 
       'HOA compliance—community association requirements may affect scheduling, methods, and exterior restoration specifications',
       'Building age and system condition—newer construction may have installation defects while aging systems in early-2000s buildings reach failure points',
     ],
-    cta: `Call (703) 285-1100 for immediate commercial assessment. Our Ashburn team understands modern construction and will evaluate both standard damage scope and warranty recovery potential for your property.`,
+    cta: `Call (877) 497-0007 for immediate commercial assessment. Our Ashburn team understands modern construction and will evaluate both standard damage scope and warranty recovery potential for your property.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -144,7 +144,7 @@ Our IICRC-certified commercial teams understand Ashburn's modern building stock 
     },
     {
       question: 'Do you handle data center water emergencies in Ashburn?',
-      answer: 'Yes. We deploy anti-corrosion treatments and environmental controls for IT infrastructure within our first response window. Our crews understand data facility environments and carry the specialized equipment this market requires. Call (703) 285-1100 immediately for IT emergencies.',
+      answer: 'Yes. We deploy anti-corrosion treatments and environmental controls for IT infrastructure within our first response window. Our crews understand data facility environments and carry the specialized equipment this market requires. Call (877) 497-0007 immediately for IT emergencies.',
     },
     {
       question: 'How do modern building materials affect the restoration process?',

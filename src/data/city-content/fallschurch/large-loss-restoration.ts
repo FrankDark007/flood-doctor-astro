@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Falls Church, VA | Flood Doctor',
-    description: `Falls Church large loss restoration for apartment-commercial complexes, historic buildings & multi-property events. Community-aware project management. Call (703) 285-1100.`,
+    description: `Falls Church large loss restoration for apartment-commercial complexes, historic buildings & multi-property events. Community-aware project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Falls Church, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors understand this community dimension. They communicate with
   processSteps: [
     {
       title: 'Emergency Stabilization',
-      description: `Call (703) 285-1100 to activate large loss response. Our stabilization team secures affected properties—whether a Falls Church City historic building, a Baileys Crossroads apartment-commercial complex, or Lake Barcroft-area businesses—while the project director mobilizes full resources.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team secures affected properties—whether a Falls Church City historic building, a Baileys Crossroads apartment-commercial complex, or Lake Barcroft-area businesses—while the project director mobilizes full resources.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -114,7 +114,7 @@ Our project directors understand this community dimension. They communicate with
       'Residential-commercial coordination—apartment-complex events spanning both use types add cross-carrier insurance management',
       'Independent City compliance—Falls Church City jurisdiction adds permitting and inspection coordination specific to this community',
     ],
-    cta: `Call (703) 285-1100 for immediate large loss consultation. Our project director brings community awareness alongside enterprise project management for Falls Church's unique commercial environment.`,
+    cta: `Call (877) 497-0007 for immediate large loss consultation. Our project director brings community awareness alongside enterprise project management for Falls Church's unique commercial environment.`,
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville's trusted water damage restoration experts. 30-min response to Virginia Run, Centre Ridge & Sully Station. Polybutylene pipe specialists. Call (703) 285-1103.`,
+    description: `Centreville's trusted water damage restoration experts. 30-min response to Virginia Run, Centre Ridge & Sully Station. Polybutylene pipe specialists. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Centreville hotline at (703) 285-1103, we dispatch immediately. Our trucks are positioned along the Route 28 and I-66 corridors to reach Virginia Run, Centre Ridge, Sully Station, and Little Rocky Run within our 30-minute guarantee—not from a distant warehouse, but from right here in the Centreville area.`,
+      description: `When you call our Centreville hotline at (877) 497-0007, we dispatch immediately. Our trucks are positioned along the Route 28 and I-66 corridors to reach Virginia Run, Centre Ridge, Sully Station, and Little Rocky Run within our 30-minute guarantee—not from a distant warehouse, but from right here in the Centreville area.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -126,7 +126,7 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
       'Duration before response—faster calls mean less water migration and lower total restoration costs',
       'Number of units affected—townhome shared-wall incidents may involve multiple insurance claims',
     ],
-    cta: `Call (703) 285-1103 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -151,7 +151,7 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
   faqs: [
     {
       question: 'How quickly should I call after discovering water damage in my Centreville home?',
-      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating through your home's structure every minute. Call (703) 285-1103 the moment you discover water.`,
+      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating through your home's structure every minute. Call (877) 497-0007 the moment you discover water.`,
     },
     {
       question: 'My home has polybutylene plumbing. Should I be worried?',
@@ -189,6 +189,6 @@ Our IICRC Master Water Restorers understand both the damage and the building sci
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Centreville?',
-    paragraph: `Every hour of delay means more damage to your home. Our crews are positioned along the Route 28 and I-66 corridors for immediate 30-minute response. One call handles everything—from water extraction to insurance documentation. Call (703) 285-1103 now.`,
+    paragraph: `Every hour of delay means more damage to your home. Our crews are positioned along the Route 28 and I-66 corridors for immediate 30-minute response. One call handles everything—from water extraction to insurance documentation. Call (877) 497-0007 now.`,
   },
 }

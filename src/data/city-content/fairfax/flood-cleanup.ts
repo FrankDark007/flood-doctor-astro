@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Fairfax, VA | Flood Doctor',
-    description: 'Fairfax flood cleanup specialists. 30-min storm response to Burke, Burke Centre, Kings Park & Mantua. Summer thunderstorm flooding, flash floods. Call (703) 656-0104.',
+    description: 'Fairfax flood cleanup specialists. 30-min storm response to Burke, Burke Centre, Kings Park & Mantua. Summer thunderstorm flooding, flash floods. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup & Restoration in Fairfax, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified crews are trained in flood-specific cleanup. We don't just e
   processSteps: [
     {
       title: 'Storm-Ready Dispatch',
-      description: `During severe weather events, we pre-position crews throughout Fairfax. When you call (703) 656-0104 about flooding, we're often already nearby. Our 30-minute response continues even during active storms—we've driven through flooded intersections to reach homes that need help.`,
+      description: `During severe weather events, we pre-position crews throughout Fairfax. When you call (877) 497-0007 about flooding, we're often already nearby. Our 30-minute response continues even during active storms—we've driven through flooded intersections to reach homes that need help.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -120,7 +120,7 @@ Our IICRC-certified crews are trained in flood-specific cleanup. We don't just e
       'Debris volume—heavy silting and flood debris add cleanup time and disposal costs',
       'Access conditions—flooding that blocks equipment access or requires pumping from distance adds complexity',
     ],
-    cta: 'Call (703) 656-0104 for immediate flood cleanup response. We provide detailed estimates for insurance purposes and handle claims documentation.',
+    cta: 'Call (877) 497-0007 for immediate flood cleanup response. We provide detailed estimates for insurance purposes and handle claims documentation.',
   },
   serviceAreaSection: {
     neighborhoods: [

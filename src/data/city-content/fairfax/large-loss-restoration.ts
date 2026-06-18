@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Fairfax, VA | Flood Doctor',
-    description: `Fairfax large loss restoration for office complexes, institutional buildings & multi-tenant commercial properties. Dedicated project management. Call (703) 285-1105.`,
+    description: `Fairfax large loss restoration for office complexes, institutional buildings & multi-tenant commercial properties. Dedicated project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Fairfax, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors assess these systemic issues during initial damage evaluat
   processSteps: [
     {
       title: 'Emergency Stabilization',
-      description: `Call (703) 285-1105 to activate large loss response. Our stabilization team stops ongoing damage, begins emergency extraction, and secures the property while our project director mobilizes the full resources needed for Fairfax's commercial building environment.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team stops ongoing damage, begins emergency extraction, and secures the property while our project director mobilizes the full resources needed for Fairfax's commercial building environment.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -114,7 +114,7 @@ Our project directors assess these systemic issues during initial damage evaluat
       'Infrastructure replacement scope—addressing aging systems that caused the event alongside restoring the damage may add upfront cost but prevents recurrence',
       'Phased reopening requirements—accelerated schedules for community-critical businesses carry expanded crew costs',
     ],
-    cta: `Call (703) 285-1105 for immediate large loss consultation. Our project director will assess scope including infrastructure condition and hazardous material considerations, providing a comprehensive plan within 48 hours.`,
+    cta: `Call (877) 497-0007 for immediate large loss consultation. Our project director will assess scope including infrastructure condition and hazardous material considerations, providing a comprehensive plan within 48 hours.`,
   },
   serviceAreaSection: {
     neighborhoods: [

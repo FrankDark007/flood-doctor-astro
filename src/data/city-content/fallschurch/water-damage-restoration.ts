@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Falls Church, VA | Flood Doctor',
-    description: `Falls Church's trusted water damage restoration experts. 30-min response to Falls Church City, Seven Corners & Lake Barcroft. Protecting historic homes. Call (703) 656-0111.`,
+    description: `Falls Church's trusted water damage restoration experts. 30-min response to Falls Church City, Seven Corners & Lake Barcroft. Protecting historic homes. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Falls Church, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor has restored water-damaged properties throughout Falls Church for n
 
 Our IICRC Master Water Restorers don't just pump water and leave. We understand that your Falls Church City bungalow requires gentle drying to protect original plaster, that your Seven Corners colonial's hardwood needs controlled humidity to prevent warping, and that your Pimmit Hills split-level's finished basement demands thorough treatment to prevent mold in hidden spaces.`,
     ],
-    localContext: `Falls Church's diverse housing stock—from 1920s craftsman bungalows to 1960s colonials to Lake Barcroft waterfront homes—requires restoration expertise most companies simply don't have. We've protected irreplaceable features in historic homes throughout Falls Church City, Seven Corners, and Lake Barcroft since 2005.`,
+    localContext: `Falls Church's diverse housing stock—from 1920s craftsman bungalows to 1960s colonials to Lake Barcroft waterfront homes—requires restoration expertise most companies simply don't have. We've protected irreplaceable features in historic homes throughout Falls Church City, Seven Corners, and Lake Barcroft for years.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: 'When you call our Falls Church hotline at (703) 656-0111, we dispatch from our local facility immediately. Our trucks are positioned to reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills within our 30-minute guarantee—not from a distant warehouse, but from right here in the Falls Church area.',
+      description: 'When you call our Falls Church hotline at (877) 497-0007, we dispatch from our local facility immediately. Our trucks are positioned to reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills within our 30-minute guarantee—not from a distant warehouse, but from right here in the Falls Church area.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
       'Age and condition—older plumbing, original materials, and vintage construction affect restoration complexity',
       'Duration before response—faster calls mean less damage spread and lower restoration costs',
     ],
-    cta: `Call (703) 656-0111 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,7 +145,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   faqs: [
     {
       question: 'How quickly should I call after discovering water damage in my Falls Church home?',
-      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating into wall cavities, under floors, and through framing. In Falls Church's older homes with balloon framing, a few hours of delay can mean water spreading to entirely different floors. Call (703) 656-0111 the moment you discover water.`,
+      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating into wall cavities, under floors, and through framing. In Falls Church's older homes with balloon framing, a few hours of delay can mean water spreading to entirely different floors. Call (877) 497-0007 the moment you discover water.`,
     },
     {
       question: 'Can you save my original hardwood floors after water damage?',

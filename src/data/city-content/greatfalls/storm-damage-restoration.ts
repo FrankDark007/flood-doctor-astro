@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls storm damage restoration. 24/7 response for wind, hail, fallen trees & roof damage. Protecting estates & equestrian properties. Call (703) 656-0112.',
+    description: 'Great Falls storm damage restoration. 24/7 response for wind, hail, fallen trees & roof damage. Protecting estates & equestrian properties. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified crews understand that storm restoration in Great Falls means
   processSteps: [
     {
       title: 'Immediate Emergency Dispatch',
-      description: 'When you call (703) 656-0112 during or after a storm, we dispatch immediately. Our crews reach Great Falls properties within 30 minutes. During widespread storm events, we prioritize based on damage severity and ongoing exposure risk.',
+      description: 'When you call (877) 497-0007 during or after a storm, we dispatch immediately. Our crews reach Great Falls properties within 30 minutes. During widespread storm events, we prioritize based on damage severity and ongoing exposure risk.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -133,7 +133,7 @@ Our IICRC-certified crews understand that storm restoration in Great Falls means
       'Duration of structural drying required after water intrusion, factoring in estate scale and material types',
       'Emergency board-up and securing requirements for broken windows and structural openings',
     ],
-    cta: 'Call (703) 656-0112 during or immediately after a storm. We respond within 30 minutes with tarping, extraction, and asset protection. Free assessment and insurance coordination for all Great Falls storm damage.',
+    cta: 'Call (877) 497-0007 during or immediately after a storm. We respond within 30 minutes with tarping, extraction, and asset protection. Free assessment and insurance coordination for all Great Falls storm damage.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,7 +157,7 @@ Our IICRC-certified crews understand that storm restoration in Great Falls means
   faqs: [
     {
       question: 'How quickly can you respond after a storm in Great Falls?',
-      answer: 'We guarantee 30-minute response under normal conditions. During widespread storm events affecting multiple properties, we prioritize by damage severity and ongoing exposure risk. Call (703) 656-0112 immediately—even during the storm if safe—to get on our response list.',
+      answer: 'We guarantee 30-minute response under normal conditions. During widespread storm events affecting multiple properties, we prioritize by damage severity and ongoing exposure risk. Call (877) 497-0007 immediately—even during the storm if safe—to get on our response list.',
     },
     {
       question: 'Can you handle storm damage to my barn as well as my house?',
@@ -165,7 +165,7 @@ Our IICRC-certified crews understand that storm restoration in Great Falls means
     },
     {
       question: 'A tree fell on my roof—what should I do first?',
-      answer: `If anyone is injured, call 911. If safe, move valuable items away from the damage area and call us at (703) 656-0112. Don't attempt to remove the tree yourself—improper removal can cause further structural damage. We'll coordinate safe tree removal while protecting your property.`,
+      answer: `If anyone is injured, call 911. If safe, move valuable items away from the damage area and call us at (877) 497-0007. Don't attempt to remove the tree yourself—improper removal can cause further structural damage. We'll coordinate safe tree removal while protecting your property.`,
     },
     {
       question: 'My power is out after the storm—can you still work?',

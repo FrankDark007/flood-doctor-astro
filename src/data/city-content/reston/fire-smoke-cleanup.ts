@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Reston, VA | Flood Doctor',
-    description: 'Reston fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. Lake Anne, South Lakes, Reston Town Center. Call (703) 656-0107.',
+    description: 'Reston fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. Lake Anne, South Lakes, Reston Town Center. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Reston, Virginia',
   introSection: {
@@ -68,7 +68,7 @@ We respond within hours of fire department clearance, beginning the restoration 
       'Reconstruction scope—demolition and rebuild requirements',
     ],
     insuranceNote: `Fire damage is covered by homeowner's insurance. We document thoroughly, work with adjusters, and support your claim from emergency response through final restoration.`,
-    cta: `Call (703) 656-0107 for emergency fire damage response. We'll assess damage, provide emergency services, and guide you through the restoration and insurance process.`,
+    cta: `Call (877) 497-0007 for emergency fire damage response. We'll assess damage, provide emergency services, and guide you through the restoration and insurance process.`,
   },
   serviceAreaSection: {
     neighborhoods: [

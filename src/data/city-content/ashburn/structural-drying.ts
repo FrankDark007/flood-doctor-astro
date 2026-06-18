@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Ashburn, VA | Flood Doctor',
-    description: `Ashburn's structural drying experts. New construction & builder warranty specialists. 30-min response to Broadlands, Brambleton & One Loudoun. Call (703) 285-1100.`,
+    description: `Ashburn's structural drying experts. New construction & builder warranty specialists. 30-min response to Broadlands, Brambleton & One Loudoun. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Ashburn, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians calculate psychrometric drying conditions for ev
   processSteps: [
     {
       title: '30-Minute Ashburn Response',
-      description: `Call (703) 285-1100 and our Loudoun County-positioned crews arrive within 30 minutes. We reach Broadlands, Brambleton, One Loudoun, Ashburn Farm, Lansdowne, and Belmont Country Club from staging along the Ashburn corridor — already in your community, not driving from a distant warehouse.`,
+      description: `Call (877) 497-0007 and our Loudoun County-positioned crews arrive within 30 minutes. We reach Broadlands, Brambleton, One Loudoun, Ashburn Farm, Lansdowne, and Belmont Country Club from staging along the Ashburn corridor — already in your community, not driving from a distant warehouse.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -120,7 +120,7 @@ Our IICRC-certified technicians calculate psychrometric drying conditions for ev
       'Water source documentation — potential warranty situations require additional investigation and evidence gathering',
       'HOA coordination — community-related drainage issues may involve additional documentation and compliance requirements',
     ],
-    cta: `Call (703) 285-1100 for a free inspection. We assess the damage, document the cause, and provide detailed estimates that support both your insurance claim and warranty options.`,
+    cta: `Call (877) 497-0007 for a free inspection. We assess the damage, document the cause, and provide detailed estimates that support both your insurance claim and warranty options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,7 +160,7 @@ Our IICRC-certified technicians calculate psychrometric drying conditions for ev
     },
     {
       question: 'What should I do first when I discover water damage?',
-      answer: 'Call (703) 285-1100 immediately. If safe, turn off the water source. Do not enter standing water near electrical outlets. Photograph the damage with your phone. The most important action is calling for professional response quickly — every hour of delay means more damage to modern materials.',
+      answer: 'Call (877) 497-0007 immediately. If safe, turn off the water source. Do not enter standing water near electrical outlets. Photograph the damage with your phone. The most important action is calling for professional response quickly — every hour of delay means more damage to modern materials.',
     },
     {
       question: 'Does insurance cover drying after a sump pump failure?',
@@ -173,6 +173,6 @@ Our IICRC-certified technicians calculate psychrometric drying conditions for ev
   ],
   finalCTA: {
     headline: 'Water Damage in Your Ashburn Home?',
-    paragraph: 'Modern building materials require immediate professional response — OSB subfloors swell permanently, spray foam traps hidden moisture, and open floor plans allow rapid spread. Our Ashburn crews arrive within 30 minutes with the expertise your newer home demands. Call (703) 285-1100 now.',
+    paragraph: 'Modern building materials require immediate professional response — OSB subfloors swell permanently, spray foam traps hidden moisture, and open floor plans allow rapid spread. Our Ashburn crews arrive within 30 minutes with the expertise your newer home demands. Call (877) 497-0007 now.',
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Tysons, VA | Flood Doctor`,
-    description: `Tysons' trusted commercial mold remediation team. CIH-coordinated protocols for Class A offices, mixed-use towers, and commercial buildings near Tysons Corner Center and Capital One HQ. Call (703) 285-1100.`,
+    description: `Tysons' trusted commercial mold remediation team. CIH-coordinated protocols for Class A offices, mixed-use towers, and commercial buildings near Tysons Corner Center and Capital One HQ. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Tysons, Virginia`,
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Construction defect documentation—warranty claim support requires additional investigation during remediation`,
       `Occupancy mix—mixed-use buildings require segmented documentation and coordination across tenant types`,
     ],
-    cta: `Call (703) 285-1100 for a confidential commercial mold assessment at your Tysons property. We provide institutional-quality assessment, CIH coordination, and remediation scaled for Class A towers and mixed-use developments.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment at your Tysons property. We provide institutional-quality assessment, CIH coordination, and remediation scaled for Class A towers and mixed-use developments.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -156,6 +156,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold Contamination in Your Tysons Commercial Property?`,
-    paragraph: `Mold in Tysons' institutional-grade buildings demands remediation at matching scale and documentation standards. Our CIH-coordinated teams handle multi-floor, building-wide contamination with clearance verification that satisfies both regulatory requirements and Class A tenant expectations. Call (703) 285-1100.`,
+    paragraph: `Mold in Tysons' institutional-grade buildings demands remediation at matching scale and documentation standards. Our CIH-coordinated teams handle multi-floor, building-wide contamination with clearance verification that satisfies both regulatory requirements and Class A tenant expectations. Call (877) 497-0007.`,
   },
 }

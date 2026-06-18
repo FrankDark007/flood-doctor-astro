@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in McLean, VA | Flood Doctor',
-    description: `McLean commercial flood cleanup specialists. Industrial-scale response for corporate offices, medical facilities & retail along Georgetown Pike. Call (703) 285-1108.`,
+    description: `McLean commercial flood cleanup specialists. Industrial-scale response for corporate offices, medical facilities & retail along Georgetown Pike. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in McLean, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
   processSteps: [
     {
       title: 'Emergency Commercial Mobilization',
-      description: `Call (703) 285-1108 for immediate commercial flood response. Our dispatch deploys industrial crews from positions throughout the McLean corridor, reaching Langley, The Reserve, and Balls Hill commercial areas with truck-mounted extractors and containment equipment within our guaranteed window.`,
+      description: `Call (877) 497-0007 for immediate commercial flood response. Our dispatch deploys industrial crews from positions throughout the McLean corridor, reaching Langley, The Reserve, and Balls Hill commercial areas with truck-mounted extractors and containment equipment within our guaranteed window.`,
       timeframe: 'Within 60 minutes',
     },
     {
@@ -125,7 +125,7 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
       'Building system damage—HVAC, electrical, and elevator infrastructure repairs add to total restoration scope',
       'Tenant displacement costs—multi-tenant buildings may require temporary relocation coordination and documentation',
     ],
-    cta: `Call (703) 285-1108 for emergency commercial flood response. Our project manager will assess the scope, coordinate with your building management team, and deliver a detailed estimate for your insurance carrier.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. Our project manager will assess the scope, coordinate with your building management team, and deliver a detailed estimate for your insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -148,7 +148,7 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
   faqs: [
     {
       question: 'How fast can you respond to a commercial flood in McLean?',
-      answer: 'Our commercial dispatch operates 24/7 with industrial equipment staged throughout the McLean area. Initial response reaches Georgetown Pike and Langley corridor commercial properties within 60 minutes. For catastrophic events, we scale to multiple crews within 4-6 hours. Call (703) 285-1108 immediately.',
+      answer: 'Our commercial dispatch operates 24/7 with industrial equipment staged throughout the McLean area. Initial response reaches Georgetown Pike and Langley corridor commercial properties within 60 minutes. For catastrophic events, we scale to multiple crews within 4-6 hours. Call (877) 497-0007 immediately.',
     },
     {
       question: 'Can you pump out our flooded underground parking garage?',

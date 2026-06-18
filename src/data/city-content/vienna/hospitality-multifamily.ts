@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Vienna, VA | Flood Doctor`,
-    description: `Vienna's expert restoration for condominiums, townhomes, and hospitality properties. Serving Vienna Town, Oakton, and Dunn Loring communities. Call (703) 285-1112.`,
+    description: `Vienna's expert restoration for condominiums, townhomes, and hospitality properties. Serving Vienna Town, Oakton, and Dunn Loring communities. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Vienna, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Vienna team adapts to these variations while maintaining the community-orien
   processSteps: [
     {
       title: `Community-Aware Emergency Response`,
-      description: `Call (703) 285-1112 for immediate multi-unit deployment. Our Vienna crews assess beyond the initial report—checking adjacent townhome units, condominium neighbors above and below, and building systems that may have distributed water to areas not yet showing visible damage.`,
+      description: `Call (877) 497-0007 for immediate multi-unit deployment. Our Vienna crews assess beyond the initial report—checking adjacent townhome units, condominium neighbors above and below, and building systems that may have distributed water to areas not yet showing visible damage.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Vienna team adapts to these variations while maintaining the community-orien
       `Hospitality property revenue loss considerations and guest displacement coordination`,
       `Multi-policy documentation for individual unit owners, HOA master coverage, and tenant or guest insurance`,
     ],
-    cta: `Call (703) 285-1112 for immediate multi-unit assessment. We coordinate with Vienna HOA boards, property managers, and individual homeowners for comprehensive community restoration.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We coordinate with Vienna HOA boards, property managers, and individual homeowners for comprehensive community restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -167,6 +167,6 @@ Our Vienna team adapts to these variations while maintaining the community-orien
   ],
   finalCTA: {
     headline: `Multi-Unit Water Damage in Vienna?`,
-    paragraph: `Shared walls and shared systems mean water damage spreads rapidly between Vienna townhome and condominium units. Our multi-unit team responds within 30 minutes with preservation equipment and the community coordination expertise your property needs. Call (703) 285-1112 now.`,
+    paragraph: `Shared walls and shared systems mean water damage spreads rapidly between Vienna townhome and condominium units. Our multi-unit team responds within 30 minutes with preservation equipment and the community coordination expertise your property needs. Call (877) 497-0007 now.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Tysons, VA | Save Your Floors | Flood Doctor',
-    description: `Tysons hardwood floor drying for condos, townhomes & residences. Serving Tysons Corner, The Boro & Scotts Run. High-rise and modern building expertise. Call (703) 285-1100.`,
+    description: `Tysons hardwood floor drying for condos, townhomes & residences. Serving Tysons Corner, The Boro & Scotts Run. High-rise and modern building expertise. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Tysons, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Coordinated Building Response',
-      description: `When you call (703) 285-1100, we coordinate with your building management for access—freight elevator scheduling for Tysons high-rises, security protocols for gated communities in Scotts Run, and parking logistics for The Boro. Equipment arrives ready for immediate deployment within 30 minutes.`,
+      description: `When you call (877) 497-0007, we coordinate with your building management for access—freight elevator scheduling for Tysons high-rises, security protocols for gated communities in Scotts Run, and parking logistics for The Boro. Equipment arrives ready for immediate deployment within 30 minutes.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'HVAC or building system documentation for warranty or management claims',
       'Square footage affected and number of rooms in the moisture migration path',
     ],
-    cta: `Call (703) 285-1100 when water contacts your Tysons hardwood. We coordinate with building management for access and deploy drying systems designed for modern residential construction.`,
+    cta: `Call (877) 497-0007 when water contacts your Tysons hardwood. We coordinate with building management for access and deploy drying systems designed for modern residential construction.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Tysons Hardwood Emergency? Modern Solutions, Fast Response.',
-    paragraph: `Your premium Tysons hardwood deserves drying expertise that understands modern buildings, engineered flooring, and concrete subfloors. Call (703) 285-1100 for immediate response with building-coordinated access.`,
+    paragraph: `Your premium Tysons hardwood deserves drying expertise that understands modern buildings, engineered flooring, and concrete subfloors. Call (877) 497-0007 for immediate response with building-coordinated access.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Arlington, VA | Flood Doctor',
-    description: `Arlington's commercial water damage experts. High-rise office buildings, government contractor spaces & co-working facilities near Rosslyn, Ballston & Crystal City. Call (703) 285-1102.`,
+    description: `Arlington's commercial water damage experts. High-rise office buildings, government contractor spaces & co-working facilities near Rosslyn, Ballston & Crystal City. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Arlington, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams bring the vertical expertise Arlington dema
   processSteps: [
     {
       title: 'Urban Commercial Dispatch',
-      description: `Call (703) 285-1102 for immediate commercial response. Our Arlington commercial crews are positioned along the Rosslyn-Ballston corridor and Crystal City, equipped with elevator-compatible extraction equipment for rapid deployment into high-rise commercial properties.`,
+      description: `Call (877) 497-0007 for immediate commercial response. Our Arlington commercial crews are positioned along the Rosslyn-Ballston corridor and Crystal City, equipped with elevator-compatible extraction equipment for rapid deployment into high-rise commercial properties.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC-certified commercial teams bring the vertical expertise Arlington dema
       'Tenant count and coordination—each affected tenant requires individual scope documentation and insurance claim management',
       'Building system involvement—HVAC, electrical, and elevator infrastructure damage adds specialized repair scope beyond surface restoration',
     ],
-    cta: `Call (703) 285-1102 for immediate commercial assessment. Our Arlington project manager will evaluate multi-floor impact, coordinate with building management, and deliver a detailed scope within 24 hours.`,
+    cta: `Call (877) 497-0007 for immediate commercial assessment. Our Arlington project manager will evaluate multi-floor impact, coordinate with building management, and deliver a detailed scope within 24 hours.`,
   },
   serviceAreaSection: {
     neighborhoods: [

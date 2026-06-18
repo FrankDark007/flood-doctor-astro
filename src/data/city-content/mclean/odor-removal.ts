@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in McLean, VA | Flood Doctor',
-    description: `McLean's trusted odor elimination specialists. Discreet treatment for smoke, mold & sewage odors in luxury homes. Safe for families, pets & collections. Call (703) 285-1108.`,
+    description: `McLean's trusted odor elimination specialists. Discreet treatment for smoke, mold & sewage odors in luxury homes. Safe for families, pets & collections. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in McLean, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians deploy hydroxyl generators that safely neutralize airborne odor 
   processSteps: [
     {
       title: 'Confidential Assessment & Source Identification',
-      description: `When you call (703) 285-1108, we schedule a discreet evaluation at your Langley, The Reserve, or Balls Hill property. Using moisture meters, borescopes, and UV inspection, we trace the odor to its precise origin — whether that is hidden mold behind custom cabinetry, contaminated subfloor, or a failing sewer lateral beneath your estate.`,
+      description: `When you call (877) 497-0007, we schedule a discreet evaluation at your Langley, The Reserve, or Balls Hill property. Using moisture meters, borescopes, and UV inspection, we trace the odor to its precise origin — whether that is hidden mold behind custom cabinetry, contaminated subfloor, or a failing sewer lateral beneath your estate.`,
       timeframe: 'Initial visit',
     },
     {
@@ -114,7 +114,7 @@ Our technicians deploy hydroxyl generators that safely neutralize airborne odor 
       'Severity and duration — older, deeply embedded odors require more treatment cycles than recent contamination',
       'Specialty space involvement — wine cellars, home theaters, and climate-controlled rooms require tailored treatment approaches',
     ],
-    cta: `Call (703) 285-1108 for a confidential odor assessment. We identify the source, explain treatment options, and provide a detailed estimate before any work begins.`,
+    cta: `Call (877) 497-0007 for a confidential odor assessment. We identify the source, explain treatment options, and provide a detailed estimate before any work begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ Our technicians deploy hydroxyl generators that safely neutralize airborne odor 
   ],
   finalCTA: {
     headline: 'Persistent Odors Affecting Your McLean Home?',
-    paragraph: 'Odors that resist consumer products require professional molecular-level treatment. Our deodorization specialists eliminate smoke, mold, sewage, and biological odors permanently from McLean estate properties — with the discretion and material expertise your home demands. Call (703) 285-1108 for a confidential assessment.',
+    paragraph: 'Odors that resist consumer products require professional molecular-level treatment. Our deodorization specialists eliminate smoke, mold, sewage, and biological odors permanently from McLean estate properties — with the discretion and material expertise your home demands. Call (877) 497-0007 for a confidential assessment.',
   },
 }

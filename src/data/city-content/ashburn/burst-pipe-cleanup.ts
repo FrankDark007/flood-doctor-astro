@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Ashburn, VA | Flood Doctor',
-    description: 'Ashburn burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water damage. Broadlands, Brambleton, One Loudoun. Call (703) 656-0109.',
+    description: 'Ashburn burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water damage. Broadlands, Brambleton, One Loudoun. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Cleanup in Ashburn, Virginia',
   introSection: {
@@ -58,7 +58,7 @@ export const content: CityServiceContent = {
       'Smart home system reconfiguration — resetting shutoff valves, recalibrating flow baselines, verifying automation triggers post-restoration',
       'Builder-grade component upgrades — replacing failed components with commercial-grade alternatives during restoration',
     ],
-    cta: `Call (703) 656-0109 for immediate response. If a builder defect caused your burst pipe, our documentation can shift restoration costs to the builder's warranty.`,
+    cta: `Call (877) 497-0007 for immediate response. If a builder defect caused your burst pipe, our documentation can shift restoration costs to the builder's warranty.`,
   },
   serviceAreaSection: {
     neighborhoods: [

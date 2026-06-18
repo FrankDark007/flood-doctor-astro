@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Vienna, VA | Flood Doctor',
-    description: `Vienna commercial flood cleanup for boutique offices, retail spaces & restaurants along Church Street, Oakton & Maple Avenue. 24/7 industrial response. Call (703) 285-1112.`,
+    description: `Vienna commercial flood cleanup for boutique offices, retail spaces & restaurants along Church Street, Oakton & Maple Avenue. 24/7 industrial response. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Vienna, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
   processSteps: [
     {
       title: 'Community-Quick Response',
-      description: `Call (703) 285-1112 for immediate flood dispatch. Our Vienna crews deploy from positions near Church Street, Oakton, and the Vienna Metro area with industrial extraction equipment for rapid commercial response.`,
+      description: `Call (877) 497-0007 for immediate flood dispatch. Our Vienna crews deploy from positions near Church Street, Oakton, and the Vienna Metro area with industrial extraction equipment for rapid commercial response.`,
       timeframe: 'Within 60 minutes',
     },
     {
@@ -114,7 +114,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
       'Multi-business coordination—shared-wall events affecting multiple Church Street businesses require individual documentation for each',
       'Seasonal business impact—accelerated restoration during peak seasons prevents revenue losses that exceed restoration premium costs',
     ],
-    cta: `Call (703) 285-1112 for emergency commercial flood response. We'll arrive quickly, assess honestly, and provide a clear plan for getting your Vienna business back to normal.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. We'll arrive quickly, assess honestly, and provide a clear plan for getting your Vienna business back to normal.`,
   },
   serviceAreaSection: {
     neighborhoods: [

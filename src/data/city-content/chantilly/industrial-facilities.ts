@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Industrial Facility Restoration in Chantilly, VA | Flood Doctor',
-    description: `Industrial facility water damage and restoration in Chantilly. Data centers, warehouses & manufacturing. Dulles corridor specialists. Call (703) 285-1104.`,
+    description: `Industrial facility water damage and restoration in Chantilly. Data centers, warehouses & manufacturing. Dulles corridor specialists. Call (877) 497-0007.`,
   },
   h1: 'Industrial Facility Restoration in Chantilly, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Industrial Response',
-      description: `Call (703) 285-1104 for immediate industrial facility response. Our team coordinates with your facility engineers, safety officers, and operations managers to assess and begin mitigation while respecting industrial safety protocols.`,
+      description: `Call (877) 497-0007 for immediate industrial facility response. Our team coordinates with your facility engineers, safety officers, and operations managers to assess and begin mitigation while respecting industrial safety protocols.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Production downtime—accelerated restoration to minimize business interruption costs`,
       `Environmental compliance—hazardous material handling and regulatory documentation`,
     ],
-    cta: `Call (703) 285-1104 for industrial facility restoration. We respond with the capacity and expertise your operation demands.`,
+    cta: `Call (877) 497-0007 for industrial facility restoration. We respond with the capacity and expertise your operation demands.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,6 +131,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Industrial Facility Emergency in Chantilly?',
-    paragraph: `Industrial downtime costs compound by the hour. Our industrial restoration team responds within 30 minutes to Dulles corridor facilities with the equipment, crews, and operational understanding your facility demands. Call (703) 285-1104 now.`,
+    paragraph: `Industrial downtime costs compound by the hour. Our industrial restoration team responds within 30 minutes to Dulles corridor facilities with the equipment, crews, and operational understanding your facility demands. Call (877) 497-0007 now.`,
   },
 }

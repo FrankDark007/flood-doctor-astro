@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Centreville, VA | Flood Doctor',
-    description: `Centreville moisture mapping and consulting. Thermal imaging, moisture diagnostics & building science for Virginia Run, Centre Ridge & Sully Station. Call (703) 285-1103.`,
+    description: `Centreville moisture mapping and consulting. Thermal imaging, moisture diagnostics & building science for Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Centreville, Virginia',
   introSection: {
@@ -110,7 +110,7 @@ Our consulting services support homeowners investigating moisture problems, prop
       'Property size—larger properties and multi-level homes require more survey time',
       'Follow-up monitoring—periodic re-assessment to verify remediation effectiveness adds ongoing value',
     ],
-    cta: `Call (703) 285-1103 for professional moisture diagnostics. We identify what you cannot see—hidden moisture that causes the damage you can.`,
+    cta: `Call (877) 497-0007 for professional moisture diagnostics. We identify what you cannot see—hidden moisture that causes the damage you can.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -163,6 +163,6 @@ Our consulting services support homeowners investigating moisture problems, prop
   ],
   finalCTA: {
     headline: 'Suspect Hidden Moisture in Your Centreville Property?',
-    paragraph: `Hidden moisture causes the damage you discover months too late. Call (703) 285-1103 for professional moisture mapping that finds what you cannot see—and guides the solution that prevents future damage.`,
+    paragraph: `Hidden moisture causes the damage you discover months too late. Call (877) 497-0007 for professional moisture mapping that finds what you cannot see—and guides the solution that prevents future damage.`,
   },
 }

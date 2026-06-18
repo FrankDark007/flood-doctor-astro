@@ -6,7 +6,7 @@ const fallschurch: CityData = {
   state: 'Virginia',
   stateAbbr: 'VA',
   fullName: 'Falls Church, Virginia',
-  phone: '(703) 285-1100',
+  phone: '(877) 497-0007',
   address: '200 Little Falls St, Falls Church, VA 22046',
   zipCode: '22046',
   serviceArea: [
@@ -17,7 +17,7 @@ const fallschurch: CityData = {
   coordinates: { lat: 38.8829, lng: -77.1711 },
   meta: {
     title: 'Flood Doctor Falls Church | 24/7 Water Damage Restoration',
-    description: '24/7 emergency water damage restoration in Falls Church, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (703) 285-1100.',
+    description: '24/7 emergency water damage restoration in Falls Church, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (877) 497-0007.',
   },
 }
 

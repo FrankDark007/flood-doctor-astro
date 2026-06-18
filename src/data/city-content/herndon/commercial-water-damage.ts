@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Herndon, VA | Flood Doctor',
-    description: `Herndon commercial water damage restoration. Data center corridor expertise, downtown offices & Worldgate commercial properties. Rapid response. Call (703) 285-1106.`,
+    description: `Herndon commercial water damage restoration. Data center corridor expertise, downtown offices & Worldgate commercial properties. Rapid response. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Herndon, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams bring the technical spectrum Herndon requir
   processSteps: [
     {
       title: 'Mission-Critical Commercial Dispatch',
-      description: `Call (703) 285-1106 for immediate response. Our Herndon crews carry both IT protection equipment for data center corridor emergencies and standard commercial restoration capability for Downtown Herndon and Worldgate area businesses.`,
+      description: `Call (877) 497-0007 for immediate response. Our Herndon crews carry both IT protection equipment for data center corridor emergencies and standard commercial restoration capability for Downtown Herndon and Worldgate area businesses.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -115,7 +115,7 @@ Our IICRC-certified commercial teams bring the technical spectrum Herndon requir
       'Turnaround urgency—vacant commercial spaces and data center environments may justify accelerated schedules at premium rates',
       'Building infrastructure condition—aging Downtown Herndon systems may reveal additional scope during restoration assessment',
     ],
-    cta: `Call (703) 285-1106 for immediate commercial assessment. Whether your emergency involves server room water exposure or downtown office flooding, our Herndon team deploys with the right capability for your situation.`,
+    cta: `Call (877) 497-0007 for immediate commercial assessment. Whether your emergency involves server room water exposure or downtown office flooding, our Herndon team deploys with the right capability for your situation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -138,7 +138,7 @@ Our IICRC-certified commercial teams bring the technical spectrum Herndon requir
   faqs: [
     {
       question: 'How quickly can you respond to water near our server room or data center?',
-      answer: 'We maintain priority response capability for IT infrastructure emergencies. Crews deploy within 30 minutes to Herndon data center corridor properties with anti-corrosion treatments and environmental control equipment. Call (703) 285-1106 immediately—minutes matter for electronics.',
+      answer: 'We maintain priority response capability for IT infrastructure emergencies. Crews deploy within 30 minutes to Herndon data center corridor properties with anti-corrosion treatments and environmental control equipment. Call (877) 497-0007 immediately—minutes matter for electronics.',
     },
     {
       question: 'What about standard office water damage in Downtown Herndon?',

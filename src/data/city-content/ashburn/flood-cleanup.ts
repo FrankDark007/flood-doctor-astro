@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Ashburn, VA | Flood Doctor',
-    description: 'Ashburn flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. Broadlands, Brambleton, Lansdowne. Call (703) 656-0109.',
+    description: 'Ashburn flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. Broadlands, Brambleton, Lansdowne. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Ashburn, Virginia',
   introSection: {
@@ -89,7 +89,7 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
       'Builder defect documentation — professional assessment letters and photographic evidence supporting warranty recovery',
       'Smart home reconfiguration — HVAC updates, flood sensor installation, and humidity monitoring integration',
     ],
-    cta: 'Call (703) 656-0109 for emergency response and sealed-envelope assessment. We evaluate your specific construction type, identify moisture trapped in concealed assemblies, and provide detailed estimates reflecting actual scope.',
+    cta: 'Call (877) 497-0007 for emergency response and sealed-envelope assessment. We evaluate your specific construction type, identify moisture trapped in concealed assemblies, and provide detailed estimates reflecting actual scope.',
   },
   serviceAreaSection: {
     neighborhoods: [

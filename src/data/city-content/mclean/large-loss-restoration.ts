@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in McLean, VA | Flood Doctor',
-    description: `McLean's large loss restoration specialists. Multi-million dollar project management for corporate campuses, medical complexes & premium commercial properties. Call (703) 285-1108.`,
+    description: `McLean's large loss restoration specialists. Multi-million dollar project management for corporate campuses, medical complexes & premium commercial properties. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in McLean, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our large loss project directors bring construction management credentials along
   processSteps: [
     {
       title: 'Emergency Stabilization',
-      description: `Call (703) 285-1108 for immediate large loss response. Our stabilization team deploys to stop ongoing damage—emergency water extraction, temporary power, building securing, and environmental controls—while our senior project director mobilizes the full-scale resources your McLean property requires.`,
+      description: `Call (877) 497-0007 for immediate large loss response. Our stabilization team deploys to stop ongoing damage—emergency water extraction, temporary power, building securing, and environmental controls—while our senior project director mobilizes the full-scale resources your McLean property requires.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -119,7 +119,7 @@ Our large loss project directors bring construction management credentials along
       'Business interruption timeline—the cost of lost revenue often exceeds physical restoration costs, creating urgency for accelerated schedules',
       'Regulatory compliance requirements—medical facilities, government spaces, and data-sensitive environments add compliance documentation scope',
     ],
-    cta: `Call (703) 285-1108 for immediate large loss consultation. Our senior project director will assess the scope and provide a preliminary project plan within 48 hours of initial stabilization.`,
+    cta: `Call (877) 497-0007 for immediate large loss consultation. Our senior project director will assess the scope and provide a preliminary project plan within 48 hours of initial stabilization.`,
   },
   serviceAreaSection: {
     neighborhoods: [

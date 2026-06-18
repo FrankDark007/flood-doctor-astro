@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Tysons, VA | Flood Doctor`,
-    description: `Tysons' expert restoration for luxury high-rise apartments, hotels, and mixed-use residential. Multi-unit specialists at The Boro, Tysons Corner, and Scotts Run. Call (703) 285-1100.`,
+    description: `Tysons' expert restoration for luxury high-rise apartments, hotels, and mixed-use residential. Multi-unit specialists at The Boro, Tysons Corner, and Scotts Run. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Tysons, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Tysons approach addresses these financial realities. Revenue-generating hote
   processSteps: [
     {
       title: `High-Rise Emergency Mobilization`,
-      description: `Call (703) 285-1100 for immediate multi-unit deployment. We coordinate with building management for freight elevator reservation and security access during transit. Equipment staging begins on arrival at your Tysons property.`,
+      description: `Call (877) 497-0007 for immediate multi-unit deployment. We coordinate with building management for freight elevator reservation and security access during transit. Equipment staging begins on arrival at your Tysons property.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -119,7 +119,7 @@ Our Tysons approach addresses these financial realities. Revenue-generating hote
       `Hotel brand compliance—corporate standard materials and finish specifications affect restoration scope and cost`,
       `Builder warranty involvement—construction defect documentation adds investigation scope for newer Tysons buildings`,
     ],
-    cta: `Call (703) 285-1100 for immediate high-rise assessment. Our multi-unit specialists coordinate with Tysons building management for rapid deployment to residential towers and hotels.`,
+    cta: `Call (877) 497-0007 for immediate high-rise assessment. Our multi-unit specialists coordinate with Tysons building management for rapid deployment to residential towers and hotels.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -171,6 +171,6 @@ Our Tysons approach addresses these financial realities. Revenue-generating hote
   ],
   finalCTA: {
     headline: `High-Rise Emergency in Tysons?`,
-    paragraph: `Cascade damage in vertical buildings worsens every hour. Our multi-floor response team reaches any Tysons property within 30 minutes with the equipment and coordination capability your building demands. Call (703) 285-1100 immediately.`,
+    paragraph: `Cascade damage in vertical buildings worsens every hour. Our multi-floor response team reaches any Tysons property within 30 minutes with the equipment and coordination capability your building demands. Call (877) 497-0007 immediately.`,
   },
 }

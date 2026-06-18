@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Vienna, VA | Flood Doctor',
-    description: 'Professional flood cleanup services in Vienna, VA. IICRC-certified technicians respond within 45 minutes. We handle Difficult Run Creek overflow, storm surge, and basement flooding in Vienna homes. Call (703) 656-0105.',
+    description: 'Professional flood cleanup services in Vienna, VA. IICRC-certified technicians respond within 45 minutes. We handle Difficult Run Creek overflow, storm surge, and basement flooding in Vienna homes. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup in Vienna, Virginia',
   introSection: {
@@ -143,7 +143,7 @@ export const content: CityServiceContent = {
       'Emergency timing including after-hours, weekend, and holiday response when immediate action is necessary',
       'Accessibility of affected areas including crawl spaces, wall cavities, and confined basement sections',
     ],
-    cta: 'Call (703) 656-0105 for a free on-site flood cleanup estimate. We will assess your Vienna property, explain exactly what needs to happen, and provide a written quote before any work begins.',
+    cta: 'Call (877) 497-0007 for a free on-site flood cleanup estimate. We will assess your Vienna property, explain exactly what needs to happen, and provide a written quote before any work begins.',
   },
   serviceAreaSection: {
     neighborhoods: [

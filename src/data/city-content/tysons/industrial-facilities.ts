@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Tysons, VA | Flood Doctor`,
-    description: `Tysons' commercial and industrial restoration specialists. Serving corporate offices, data centers, and commercial operations near Capital One HQ and Tysons Corner. Call (703) 285-1100.`,
+    description: `Tysons' commercial and industrial restoration specialists. Serving corporate offices, data centers, and commercial operations near Capital One HQ and Tysons Corner. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Tysons, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Tysons commercial team understands these modern-building vulnerabilities. We
   processSteps: [
     {
       title: `Corporate Facility Emergency Response`,
-      description: `Call (703) 285-1100 for immediate commercial deployment. We coordinate with building management and corporate facilities teams during transit, arriving with anti-corrosion treatment materials and computing equipment protection systems within 30 minutes.`,
+      description: `Call (877) 497-0007 for immediate commercial deployment. We coordinate with building management and corporate facilities teams during transit, arriving with anti-corrosion treatment materials and computing equipment protection systems within 30 minutes.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -114,7 +114,7 @@ Our Tysons commercial team understands these modern-building vulnerabilities. We
       `Construction warranty recovery—potential builder defect claims in newer buildings may offset restoration costs`,
       `Multi-tenant coordination—shared building system repairs and cost allocation between ownership and tenants`,
     ],
-    cta: `Call (703) 285-1100 for emergency corporate or commercial facility assessment. We deploy to Tysons office towers within 30 minutes with data center recovery and industrial extraction capability.`,
+    cta: `Call (877) 497-0007 for emergency corporate or commercial facility assessment. We deploy to Tysons office towers within 30 minutes with data center recovery and industrial extraction capability.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ Our Tysons commercial team understands these modern-building vulnerabilities. We
   ],
   finalCTA: {
     headline: `Corporate Facility Emergency in Tysons?`,
-    paragraph: `Server rooms, computing equipment, and corporate operations face permanent damage with every passing hour. Our data center recovery and commercial restoration teams reach any Tysons facility within 30 minutes. Call (703) 285-1100 immediately.`,
+    paragraph: `Server rooms, computing equipment, and corporate operations face permanent damage with every passing hour. Our data center recovery and commercial restoration teams reach any Tysons facility within 30 minutes. Call (877) 497-0007 immediately.`,
   },
 }

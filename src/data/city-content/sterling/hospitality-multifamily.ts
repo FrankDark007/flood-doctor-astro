@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling hospitality and multifamily water damage restoration. Apartment complexes, hotels & condominiums near Route 7. Multi-unit coordination. Call (703) 285-1111.`,
+    description: `Sterling hospitality and multifamily water damage restoration. Apartment complexes, hotels & condominiums near Route 7. Multi-unit coordination. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our documentation answers these questions with precision—tracing water from so
   processSteps: [
     {
       title: `Multi-Unit Emergency Response`,
-      description: `Call (703) 285-1111 for immediate multifamily or hospitality response. Our crews assess the full building impact—not just the unit where water is visible. For Sterling apartment and condo buildings, we check every unit in the water path.`,
+      description: `Call (877) 497-0007 for immediate multifamily or hospitality response. Our crews assess the full building impact—not just the unit where water is visible. For Sterling apartment and condo buildings, we check every unit in the water path.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -77,7 +77,7 @@ Our documentation answers these questions with precision—tracing water from so
       `Resident displacement—units with displaced residents receive priority for faster return`,
       `Property type—apartments, condos, and hotels each have different finish standards and documentation needs`,
     ],
-    cta: `Call (703) 285-1111 for multifamily or hospitality emergency response. We bring the multi-unit coordination that Sterling property managers and HOA boards need for efficient, well-documented restoration.`,
+    cta: `Call (877) 497-0007 for multifamily or hospitality emergency response. We bring the multi-unit coordination that Sterling property managers and HOA boards need for efficient, well-documented restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,12 +97,12 @@ Our documentation answers these questions with precision—tracing water from so
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute response for Sterling multifamily and hospitality emergencies. Multi-crew deployment for large-scale building events. Call (703) 285-1111.`,
+    responseTime: `30-minute response for Sterling multifamily and hospitality emergencies. Multi-crew deployment for large-scale building events. Call (877) 497-0007.`,
   },
   faqs: [
     {
       question: `A pipe burst in the unit above mine and water is coming through my ceiling. What do I do?`,
-      answer: `Move belongings away from the affected area and call (703) 285-1111 immediately. Also notify your property manager. We assess both units—the source and yours—and document the damage for appropriate insurance claim routing.`,
+      answer: `Move belongings away from the affected area and call (877) 497-0007 immediately. Also notify your property manager. We assess both units—the source and yours—and document the damage for appropriate insurance claim routing.`,
     },
     {
       question: `How do you coordinate with our Sterling property management company?`,

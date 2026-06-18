@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Fairfax, VA | Flood Doctor',
-    description: 'Fairfax sewage cleanup specialists. 30-min response for sewer backups, toilet overflows & septic failures. Burke, Burke Centre, Kings Park, Mantua. Call (703) 656-0104.',
+    description: 'Fairfax sewage cleanup specialists. 30-min response for sewer backups, toilet overflows & septic failures. Burke, Burke Centre, Kings Park, Mantua. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup & Backup Remediation in Fairfax, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified crews are trained specifically in Category 3 biohazard remed
   processSteps: [
     {
       title: 'Emergency Biohazard Response',
-      description: 'When you call (703) 656-0104 about sewage, we treat it as a biohazard emergency. Our crews dispatch immediately with full protective equipment, antimicrobial supplies, and specialized extraction tools. We reach Burke, Kings Park, Mantua, and all Fairfax areas within 30 minutes.',
+      description: 'When you call (877) 497-0007 about sewage, we treat it as a biohazard emergency. Our crews dispatch immediately with full protective equipment, antimicrobial supplies, and specialized extraction tools. We reach Burke, Kings Park, Mantua, and all Fairfax areas within 30 minutes.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -118,7 +118,7 @@ Our IICRC-certified crews are trained specifically in Category 3 biohazard remed
       'Insurance coverage—sewer backup endorsement provides better coverage',
       'Plumbing repairs—line clearing or replacement is separate from cleanup costs',
     ],
-    cta: `Call (703) 656-0104 immediately if you're experiencing a sewage backup. We provide detailed estimates for insurance purposes and can explain your coverage options.`,
+    cta: `Call (877) 497-0007 immediately if you're experiencing a sewage backup. We provide detailed estimates for insurance purposes and can explain your coverage options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -143,7 +143,7 @@ Our IICRC-certified crews are trained specifically in Category 3 biohazard remed
   faqs: [
     {
       question: 'Sewage is backing up into my basement—what should I do?',
-      answer: `Leave the area immediately—sewage contains dangerous pathogens. Keep family members and pets away from contaminated areas. Don't try to clean it yourself. Turn off HVAC to prevent spreading airborne contaminants. Call (703) 656-0104 immediately. We'll dispatch a biohazard crew within 30 minutes.`,
+      answer: `Leave the area immediately—sewage contains dangerous pathogens. Keep family members and pets away from contaminated areas. Don't try to clean it yourself. Turn off HVAC to prevent spreading airborne contaminants. Call (877) 497-0007 immediately. We'll dispatch a biohazard crew within 30 minutes.`,
     },
     {
       question: 'Is sewage really that dangerous?',

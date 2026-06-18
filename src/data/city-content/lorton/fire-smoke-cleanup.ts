@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Lorton, VA | Flood Doctor',
-    description: '24/7 fire damage restoration in Lorton. Smoke, soot & water damage specialists. Serving all Lorton neighborhoods. Emergency response. Call (703) 656-0113.',
+    description: '24/7 fire damage restoration in Lorton. Smoke, soot & water damage specialists. Serving all Lorton neighborhoods. Emergency response. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration & Smoke Cleanup in Lorton, Virginia',
   introSection: {
@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       `Fire damage in your Lorton home creates immediate devastation—flames destroy furnishings and structures, smoke permeates everything it contacts, and firefighting water floods your property. Even small kitchen fires create extensive smoke damage throughout your home. When fire strikes your Laurel Hill, Mason Neck, Occoquan, or South County property, you need restoration experts who handle fire, smoke, and water damage simultaneously. Flood Doctor provides 24/7 fire damage restoration throughout Lorton. We've restored fire-damaged homes after kitchen fires, electrical fires, fireplace incidents, and structural fires—handling the complete recovery from emergency board-up through final reconstruction.`,
       'Fire restoration requires expertise beyond water damage—we address fire-weakened structures, remove smoke odors embedded in materials, clean soot from surfaces throughout your home, and dry firefighting water before mold develops. Our IICRC-certified fire restoration crews coordinate with fire investigators, insurance adjusters, and reconstruction contractors to manage your complete recovery.',
     ],
-    localContext: `Lorton fire damage restoration spans diverse scenarios—from kitchen fires in Laurel Hill townhomes to fireplace incidents in Mason Neck homes to electrical fires in older Gunston properties. We've restored fire-damaged homes throughout Lorton since 2005.`,
+    localContext: `Lorton fire damage restoration spans diverse scenarios—from kitchen fires in Laurel Hill townhomes to fireplace incidents in Mason Neck homes to electrical fires in older Gunston properties. We've restored fire-damaged homes throughout Lorton for years.`,
   },
   processSteps: [
     {
@@ -121,7 +121,7 @@ export const content: CityServiceContent = {
       'Content restoration—smoke-damaged furnishings and belongings require specialized cleaning',
       'Reconstruction scope—some fires require complete rebuilding rather than restoration',
     ],
-    cta: 'Call (703) 656-0113 for immediate fire damage response. We coordinate with your insurance company and handle everything from emergency board-up through final restoration.',
+    cta: 'Call (877) 497-0007 for immediate fire damage response. We coordinate with your insurance company and handle everything from emergency board-up through final restoration.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -141,7 +141,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: 'What should I do immediately after a fire in my Lorton home?',
-      answer: `First, ensure the fire marshal has cleared the property for entry and utilities are safe. Don't attempt cleanup yourself—fire residue can be toxic. Call us immediately at (703) 656-0113 for emergency board-up and restoration. Contact your insurance company to report the fire and tell them we'll be providing the restoration estimate.`,
+      answer: `First, ensure the fire marshal has cleared the property for entry and utilities are safe. Don't attempt cleanup yourself—fire residue can be toxic. Call us immediately at (877) 497-0007 for emergency board-up and restoration. Contact your insurance company to report the fire and tell them we'll be providing the restoration estimate.`,
     },
     {
       question: `Can smoke damage affect rooms that didn't burn?`,

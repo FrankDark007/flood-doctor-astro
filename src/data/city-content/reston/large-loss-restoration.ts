@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Reston, VA | Flood Doctor',
-    description: `Reston large loss restoration for Town Center towers, multi-building commercial complexes & community commercial centers. Dedicated project management. Call (703) 285-1109.`,
+    description: `Reston large loss restoration for Town Center towers, multi-building commercial complexes & community commercial centers. Dedicated project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Reston, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors factor these community dimensions into every Reston large 
   processSteps: [
     {
       title: 'Emergency Stabilization',
-      description: `Call (703) 285-1109 to activate large loss response. Our stabilization team secures the property, begins emergency extraction, and coordinates with building management while the full project team mobilizes—whether the event is in a Town Center tower or a neighborhood commercial center.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team secures the property, begins emergency extraction, and coordinates with building management while the full project team mobilizes—whether the event is in a Town Center tower or a neighborhood commercial center.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -114,7 +114,7 @@ Our project directors factor these community dimensions into every Reston large 
       'Community space priority—accelerating restoration of community-serving commercial spaces may carry expanded crew costs',
       'Environmental practices—responsible waste management and treatment products may carry modest premiums over commodity approaches',
     ],
-    cta: `Call (703) 285-1109 for immediate large loss consultation. Our project director will assess community-wide impact and deliver a comprehensive plan within 48 hours of stabilization.`,
+    cta: `Call (877) 497-0007 for immediate large loss consultation. Our project director will assess community-wide impact and deliver a comprehensive plan within 48 hours of stabilization.`,
   },
   serviceAreaSection: {
     neighborhoods: [

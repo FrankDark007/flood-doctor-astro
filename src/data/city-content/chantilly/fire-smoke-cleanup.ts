@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire & Smoke Cleanup in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's fire and smoke damage cleanup experts. Serving South Riding, Chantilly Highlands & Franklin Glen. Soot removal and odor elimination. Call (703) 285-1104.`,
+    description: `Chantilly's fire and smoke damage cleanup experts. Serving South Riding, Chantilly Highlands & Franklin Glen. Soot removal and odor elimination. Call (877) 497-0007.`,
   },
   h1: 'Fire & Smoke Cleanup Services in Chantilly, Virginia',
   introSection: {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Water damage from firefighting—dual restoration increases scope`,
       `HVAC system contamination—larger Chantilly homes have more extensive ductwork to clean`,
     ],
-    cta: `Call (703) 285-1104 for fire and smoke damage assessment. We provide free inspections and coordinate directly with your insurance carrier throughout the restoration process.`,
+    cta: `Call (877) 497-0007 for fire and smoke damage assessment. We provide free inspections and coordinate directly with your insurance carrier throughout the restoration process.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Fire or Smoke Damage in Your Chantilly Home?',
-    paragraph: `Smoke residue causes permanent damage to surfaces within days. Our fire and smoke restoration team responds to all Chantilly neighborhoods with specialized cleaning equipment and techniques. Call (703) 285-1104 for immediate assessment.`,
+    paragraph: `Smoke residue causes permanent damage to surfaces within days. Our fire and smoke restoration team responds to all Chantilly neighborhoods with specialized cleaning equipment and techniques. Call (877) 497-0007 for immediate assessment.`,
   },
 }

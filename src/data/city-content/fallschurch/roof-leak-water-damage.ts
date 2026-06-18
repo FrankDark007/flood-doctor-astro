@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Falls Church, VA | Flood Doctor',
-    description: `Falls Church roof leak water damage with historic expertise. Serving Falls Church City, Lake Barcroft & Seven Corners. 1920s-60s roof systems. Emergency tarping. Call (703) 285-1100.`,
+    description: `Falls Church roof leak water damage with historic expertise. Serving Falls Church City, Lake Barcroft & Seven Corners. 1920s-60s roof systems. Emergency tarping. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Falls Church, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Falls Church Response',
-      description: `Call (703) 285-1100 and our crews respond within 30 minutes. We assess interior damage with sensitivity to the home's era—original plaster, vintage paneling, and historic details receive careful evaluation before any invasive assessment begins.`,
+      description: `Call (877) 497-0007 and our crews respond within 30 minutes. We assess interior damage with sensitivity to the home's era—original plaster, vintage paneling, and historic details receive careful evaluation before any invasive assessment begins.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Multi-unit coordination for apartment complex situations',
       'Leak duration before professional detection',
     ],
-    cta: `Call (703) 285-1100 at the first sign of a leak. In Falls Church historic homes, the irreplaceable interiors beneath your roof are worth protecting with immediate professional response.`,
+    cta: `Call (877) 497-0007 at the first sign of a leak. In Falls Church historic homes, the irreplaceable interiors beneath your roof are worth protecting with immediate professional response.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,6 +159,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Falls Church Roof Leak? Protect Your Historic Interiors.',
-    paragraph: `The character-defining finishes beneath your roof deserve preservation-grade protection. Call (703) 285-1100 for immediate response that saves the irreplaceable elements of your Falls Church home.`,
+    paragraph: `The character-defining finishes beneath your roof deserve preservation-grade protection. Call (877) 497-0007 for immediate response that saves the irreplaceable elements of your Falls Church home.`,
   },
 }

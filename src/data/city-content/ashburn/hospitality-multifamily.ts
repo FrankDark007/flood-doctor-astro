@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's trusted restoration experts for hotels, apartment communities, and multifamily properties. HOA-experienced crews serving Broadlands, Brambleton, and One Loudoun. Call (703) 285-1100.`,
+    description: `Ashburn's trusted restoration experts for hotels, apartment communities, and multifamily properties. HOA-experienced crews serving Broadlands, Brambleton, and One Loudoun. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Ashburn, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our approach prioritizes revenue recovery and resident satisfaction simultaneous
   processSteps: [
     {
       title: `Immediate Property Assessment and Containment`,
-      description: `When you call (703) 285-1100, our multi-unit response team deploys immediately. We assess the full vertical and horizontal scope of water migration, identify all affected units, and install containment to prevent further spread through Ashburn multifamily properties.`,
+      description: `When you call (877) 497-0007, our multi-unit response team deploys immediately. We assess the full vertical and horizontal scope of water migration, identify all affected units, and install containment to prevent further spread through Ashburn multifamily properties.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -120,7 +120,7 @@ Our approach prioritizes revenue recovery and resident satisfaction simultaneous
       `Building access coordination and scheduling limitations in occupied properties`,
       `Multi-policy documentation for HOA master policies and individual unit owner coverage`,
     ],
-    cta: `Call (703) 285-1100 for immediate multi-unit assessment. We coordinate with property management companies, HOA boards, and insurance carriers to streamline the restoration process for Ashburn multifamily properties.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We coordinate with property management companies, HOA boards, and insurance carriers to streamline the restoration process for Ashburn multifamily properties.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -180,6 +180,6 @@ Our approach prioritizes revenue recovery and resident satisfaction simultaneous
   ],
   finalCTA: {
     headline: `Water Damage in Your Ashburn Property?`,
-    paragraph: `Every hour of water exposure threatens modern finishes and increases displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Ashburn hospitality or multifamily investment. Call (703) 285-1100 now.`,
+    paragraph: `Every hour of water exposure threatens modern finishes and increases displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Ashburn hospitality or multifamily investment. Call (877) 497-0007 now.`,
   },
 }

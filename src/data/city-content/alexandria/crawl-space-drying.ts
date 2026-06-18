@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Alexandria, VA | Flood Doctor',
-    description: `Alexandria's crawl space specialists with historic preservation expertise. Serving Old Town, Del Ray & Belle Haven. BAR-compliant restoration. Call (703) 285-1101.`,
+    description: `Alexandria's crawl space specialists with historic preservation expertise. Serving Old Town, Del Ray & Belle Haven. BAR-compliant restoration. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Alexandria, Virginia',
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       'Historic district compliance requirements affecting exterior modifications',
       'Structural wood treatment or replacement needed for moisture-damaged members',
     ],
-    cta: `Call (703) 285-1101 for a free crawl space inspection. We'll assess your Alexandria property with the historic sensitivity and technical expertise it deserves.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We'll assess your Alexandria property with the historic sensitivity and technical expertise it deserves.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -168,6 +168,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Protect Your Alexandria Home from Crawl Space Moisture',
-    paragraph: `From Old Town stone foundations to Del Ray bungalows, Alexandria's historic homes deserve crawl space protection that respects their character while providing modern moisture control. Call (703) 285-1101 for a free inspection.`,
+    paragraph: `From Old Town stone foundations to Del Ray bungalows, Alexandria's historic homes deserve crawl space protection that respects their character while providing modern moisture control. Call (877) 497-0007 for a free inspection.`,
   },
 }

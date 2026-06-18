@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Ashburn, VA | Flood Doctor',
-    description: `Ashburn's contents restoration specialists. Professional pack-out & cleaning for Broadlands, Brambleton & One Loudoun homes. Builder warranty documentation. Call (703) 285-1100.`,
+    description: `Ashburn's contents restoration specialists. Professional pack-out & cleaning for Broadlands, Brambleton & One Loudoun homes. Builder warranty documentation. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Ashburn, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every item is photographed, catalogued, and barcoded for tracking. For Ashburn h
   processSteps: [
     {
       title: 'Priority Item Stabilization',
-      description: `Within 30 minutes of calling (703) 285-1100, our team arrives to triage time-sensitive items. Documents and photos from your Broadlands basement are bagged for freezing. Electronics from the Brambleton rec room are disconnected for corrosion prevention. Children sentimental items receive immediate attention.`,
+      description: `Within 30 minutes of calling (877) 497-0007, our team arrives to triage time-sensitive items. Documents and photos from your Broadlands basement are bagged for freezing. Electronics from the Brambleton rec room are disconnected for corrosion prevention. Children sentimental items receive immediate attention.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -106,7 +106,7 @@ Every item is photographed, catalogued, and barcoded for tracking. For Ashburn h
       'Treatment types — freeze-drying, ultrasonic cleaning, electronics restoration, and textile treatment each have different costs',
       'Storage duration — climate-controlled storage extends with longer structural restoration timelines',
     ],
-    cta: `Call (703) 285-1100 for immediate contents assessment. We stabilize priority items within hours, guide first-time claim filers through the process, and provide detailed estimates.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We stabilize priority items within hours, guide first-time claim filers through the process, and provide detailed estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -158,6 +158,6 @@ Every item is photographed, catalogued, and barcoded for tracking. For Ashburn h
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Ashburn Home?',
-    paragraph: 'Every hour of water exposure damages the electronics, documents, and personal items your family depends on. Our Ashburn contents team responds within 30 minutes to stabilize priority items and guides you through the insurance process. Call (703) 285-1100 now.',
+    paragraph: 'Every hour of water exposure damages the electronics, documents, and personal items your family depends on. Our Ashburn contents team responds within 30 minutes to stabilize priority items and guides you through the insurance process. Call (877) 497-0007 now.',
   },
 }

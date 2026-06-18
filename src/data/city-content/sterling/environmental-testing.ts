@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Environmental Testing in Sterling, VA | Flood Doctor`,
-    description: `Sterling environmental testing services. Mold, asbestos, lead & air quality testing for Sterling Park, Cascades & Countryside properties. AIHA-accredited lab analysis. Call (703) 285-1111.`,
+    description: `Sterling environmental testing services. Mold, asbestos, lead & air quality testing for Sterling Park, Cascades & Countryside properties. AIHA-accredited lab analysis. Call (877) 497-0007.`,
   },
   h1: `Environmental Testing Services in Sterling, Virginia`,
   introSection: {
@@ -77,7 +77,7 @@ Our environmental testing coordinates the right tests, the right laboratories, a
       `Report requirements—standard results versus detailed professional interpretation for legal or transaction purposes`,
       `Urgency—rush laboratory processing is available for time-sensitive situations at additional cost`,
     ],
-    cta: `Call (703) 285-1111 for an environmental testing consultation. We assess your Sterling property and recommend the specific tests your situation requires—nothing more, nothing less.`,
+    cta: `Call (877) 497-0007 for an environmental testing consultation. We assess your Sterling property and recommend the specific tests your situation requires—nothing more, nothing less.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our environmental testing coordinates the right tests, the right laboratories, a
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Environmental testing scheduling within 24-48 hours throughout Sterling. Emergency post-flood environmental assessment available same-day. Call (703) 285-1111.`,
+    responseTime: `Environmental testing scheduling within 24-48 hours throughout Sterling. Emergency post-flood environmental assessment available same-day. Call (877) 497-0007.`,
   },
   faqs: [
     {

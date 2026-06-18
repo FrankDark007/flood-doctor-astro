@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in McLean, VA | Flood Doctor',
-    description: `McLean's premier commercial water damage specialists. Rapid response to corporate campuses, professional offices & executive suites along Georgetown Pike. Call (703) 285-1108.`,
+    description: `McLean's premier commercial water damage specialists. Rapid response to corporate campuses, professional offices & executive suites along Georgetown Pike. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in McLean, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams carry the credentials and equipment to hand
   processSteps: [
     {
       title: 'Priority Commercial Dispatch',
-      description: `Contact our McLean commercial hotline at (703) 285-1108 for immediate large-loss deployment. Our commercial crews are positioned throughout the Georgetown Pike corridor and can reach Langley, Chesterbrook, and Salona Village business districts within our guaranteed response window.`,
+      description: `Contact our McLean commercial hotline at (877) 497-0007 for immediate large-loss deployment. Our commercial crews are positioned throughout the Georgetown Pike corridor and can reach Langley, Chesterbrook, and Salona Village business districts within our guaranteed response window.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -117,7 +117,7 @@ Our IICRC-certified commercial teams carry the credentials and equipment to hand
       'Business interruption duration—faster restoration reduces the total cost when factoring lost revenue and tenant displacement',
       'IT infrastructure exposure—server room and equipment protection may require specialized anti-corrosion treatments',
     ],
-    cta: `Call (703) 285-1108 for immediate commercial assessment. We'll evaluate the damage scope, coordinate with your property management team, and provide a detailed estimate within 24 hours of initial response.`,
+    cta: `Call (877) 497-0007 for immediate commercial assessment. We'll evaluate the damage scope, coordinate with your property management team, and provide a detailed estimate within 24 hours of initial response.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -140,7 +140,7 @@ Our IICRC-certified commercial teams carry the credentials and equipment to hand
   faqs: [
     {
       question: 'How quickly can you respond to a commercial water emergency in McLean?',
-      answer: 'Our commercial dispatch operates 24/7 with crews positioned in the McLean area. Initial response reaches Georgetown Pike corridor and Langley-area commercial properties within 45 minutes. For large-loss events requiring multiple crews, we scale resources within 4-6 hours. Call (703) 285-1108 immediately.',
+      answer: 'Our commercial dispatch operates 24/7 with crews positioned in the McLean area. Initial response reaches Georgetown Pike corridor and Langley-area commercial properties within 45 minutes. For large-loss events requiring multiple crews, we scale resources within 4-6 hours. Call (877) 497-0007 immediately.',
     },
     {
       question: 'Can you work after business hours to avoid disrupting our McLean office operations?',

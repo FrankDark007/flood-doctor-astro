@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Contents Cleaning & Pack-Out in Leesburg, VA | Flood Doctor`,
-    description: `Professional contents cleaning and pack-out services for Leesburg homes. Antique restoration, document recovery, and heirloom preservation. Call (703) 285-1107.`,
+    description: `Professional contents cleaning and pack-out services for Leesburg homes. Antique restoration, document recovery, and heirloom preservation. Call (877) 497-0007.`,
   },
   h1: `Leesburg Contents Cleaning & Pack-Out`,
   introSection: {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Need for off-site processing at climate-controlled facility`,
       `Insurance coverage for contents cleaning and restoration`,
     ],
-    cta: `Call (703) 285-1107 for a contents assessment at your Leesburg property.`,
+    cta: `Call (877) 497-0007 for a contents assessment at your Leesburg property.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `What items can be saved after water damage?`,
-      answer: `Most hard goods, many soft goods, documents, photographs, and electronics can be professionally restored. The key is speed — call (703) 285-1107 immediately so we can begin triage before deterioration becomes irreversible.`,
+      answer: `Most hard goods, many soft goods, documents, photographs, and electronics can be professionally restored. The key is speed — call (877) 497-0007 immediately so we can begin triage before deterioration becomes irreversible.`,
     },
     {
       question: `How do you handle antiques from historic Leesburg homes?`,
@@ -127,6 +127,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Protect Your Leesburg Home's Treasured Belongings`,
-    paragraph: `Your possessions deserve expert care during any restoration event. Flood Doctor provides meticulous contents cleaning and pack-out services that preserve what matters most to Leesburg families. Call (703) 285-1107 for immediate assessment.`,
+    paragraph: `Your possessions deserve expert care during any restoration event. Flood Doctor provides meticulous contents cleaning and pack-out services that preserve what matters most to Leesburg families. Call (877) 497-0007 for immediate assessment.`,
   },
 }

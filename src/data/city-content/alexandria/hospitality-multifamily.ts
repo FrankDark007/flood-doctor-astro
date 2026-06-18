@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's expert restoration for hotels, apartments, and condominiums. Historic property specialists in Old Town, Del Ray, and Carlyle. Call (703) 285-1101.`,
+    description: `Alexandria's expert restoration for hotels, apartments, and condominiums. Historic property specialists in Old Town, Del Ray, and Carlyle. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Alexandria, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our restoration approach prioritizes revenue recovery for hospitality properties
   processSteps: [
     {
       title: `Emergency Multi-Unit Deployment`,
-      description: `Call (703) 285-1101 for immediate multi-unit response. Our Alexandria teams assess the full scope—vertical water migration in apartment towers, horizontal spread in garden-style communities, and building system involvement that could affect common areas and unrelated units.`,
+      description: `Call (877) 497-0007 for immediate multi-unit response. Our Alexandria teams assess the full scope—vertical water migration in apartment towers, horizontal spread in garden-style communities, and building system involvement that could affect common areas and unrelated units.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -124,7 +124,7 @@ Our restoration approach prioritizes revenue recovery for hospitality properties
       `Revenue loss urgency for hospitality properties and displacement costs for residential communities`,
       `Multi-policy documentation requirements for building, unit, tenant, and hospitality-specific insurance claims`,
     ],
-    cta: `Call (703) 285-1101 for immediate multi-unit assessment. We coordinate with property managers, HOA boards, and hotel management for comprehensive Alexandria property restoration.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We coordinate with property managers, HOA boards, and hotel management for comprehensive Alexandria property restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -181,6 +181,6 @@ Our restoration approach prioritizes revenue recovery for hospitality properties
   ],
   finalCTA: {
     headline: `Hotel or Apartment Emergency in Alexandria?`,
-    paragraph: `Every hour of displacement costs your property revenue and tenant confidence. Our multi-unit crews reach any Alexandria hospitality or multifamily property within 30 minutes with biohazard equipment and multi-unit deployment capability. Call (703) 285-1101 now.`,
+    paragraph: `Every hour of displacement costs your property revenue and tenant confidence. Our multi-unit crews reach any Alexandria hospitality or multifamily property within 30 minutes with biohazard equipment and multi-unit deployment capability. Call (877) 497-0007 now.`,
   },
 }

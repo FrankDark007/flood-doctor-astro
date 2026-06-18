@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted restoration experts for apartment complexes, historic multifamily properties, and Lake Barcroft communities. Call (703) 285-1100.`,
+    description: `Falls Church's trusted restoration experts for apartment complexes, historic multifamily properties, and Lake Barcroft communities. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Falls Church, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our approach adapts to each property's specific financial context. For budget-co
   processSteps: [
     {
       title: `Immediate Property Assessment and Containment`,
-      description: `When you call (703) 285-1100, our multi-unit response team deploys immediately. We assess the full scope of water migration through Falls Church's varied building construction, identify all affected units, and install containment to prevent further spread through aging wall cavities and plumbing chases.`,
+      description: `When you call (877) 497-0007, our multi-unit response team deploys immediately. We assess the full scope of water migration through Falls Church's varied building construction, identify all affected units, and install containment to prevent further spread through aging wall cavities and plumbing chases.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -120,7 +120,7 @@ Our approach adapts to each property's specific financial context. For budget-co
       `Resident displacement costs and temporary housing coordination for diverse tenant populations`,
       `Multi-policy documentation for condominium master policies and individual unit coverage`,
     ],
-    cta: `Call (703) 285-1100 for immediate multi-unit assessment. We coordinate with property management companies, condominium associations, and insurance carriers to streamline restoration for Falls Church multifamily properties.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We coordinate with property management companies, condominium associations, and insurance carriers to streamline restoration for Falls Church multifamily properties.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -180,6 +180,6 @@ Our approach adapts to each property's specific financial context. For budget-co
   ],
   finalCTA: {
     headline: `Water Damage in Your Falls Church Property?`,
-    paragraph: `Every hour of water exposure in older buildings increases damage scope and displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Falls Church multifamily investment. Call (703) 285-1100 now.`,
+    paragraph: `Every hour of water exposure in older buildings increases damage scope and displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Falls Church multifamily investment. Call (877) 497-0007 now.`,
   },
 }

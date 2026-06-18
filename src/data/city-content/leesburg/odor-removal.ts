@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Odor Removal Services in Leesburg, VA | Flood Doctor`,
-    description: `Professional odor removal for Leesburg homes. Musty basement, smoke, sewage, and mold odor elimination for historic and modern properties. Call (703) 285-1107.`,
+    description: `Professional odor removal for Leesburg homes. Musty basement, smoke, sewage, and mold odor elimination for historic and modern properties. Call (877) 497-0007.`,
   },
   h1: `Leesburg Odor Removal Services`,
   introSection: {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Property age and material porosity considerations`,
       `Need for ongoing moisture or humidity management`,
     ],
-    cta: `Call (703) 285-1107 for a professional odor assessment at your Leesburg property.`,
+    cta: `Call (877) 497-0007 for a professional odor assessment at your Leesburg property.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -127,6 +127,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Persistent Odor in Your Leesburg Home?`,
-    paragraph: `Stop masking the problem and eliminate it. Flood Doctor identifies the source, treats the contamination, and neutralizes odors permanently in Leesburg properties of every type. Call (703) 285-1107 for a professional assessment.`,
+    paragraph: `Stop masking the problem and eliminate it. Flood Doctor identifies the source, treats the contamination, and neutralizes odors permanently in Leesburg properties of every type. Call (877) 497-0007 for a professional assessment.`,
   },
 }

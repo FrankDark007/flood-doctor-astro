@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Alexandria's historic architecture demands specialized water damage restoration that respects the past while protecting your future. From 18th-century townhouses in Old Town to modern developments in Carlyle, our certified technicians understand the unique challenges of restoring buildings with original plaster walls, historic brick foundations, and irreplaceable architectural details. We work directly with the Board of Architectural Review (BAR) to ensure all restoration meets preservation standards while preventing costly secondary damage.`,
     ],
-    localContext: 'Our emergency teams arrive within 60 minutes to Old Town, Del Ray, Rosemont, and all Alexandria neighborhoods—call (703) 656-0103 now for immediate response.',
+    localContext: 'Our emergency teams arrive within 60 minutes to Old Town, Del Ray, Rosemont, and all Alexandria neighborhoods—call (877) 497-0007 now for immediate response.',
   },
   processSteps: [
     {
@@ -95,7 +95,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'What should I do immediately after discovering water damage?',
-      answer: `Shut off the water source if safe to do so, move valuable items to dry areas, and call (703) 656-0103 immediately for emergency response. Don't delay—water damage escalates rapidly, with mold growth beginning within 24-48 hours. Take photos documenting damage extent for insurance claims. Avoid entering flooded basements with electrical equipment still energized. Our emergency teams guide you through safe initial actions while dispatching crews to your Alexandria property.`,
+      answer: `Shut off the water source if safe to do so, move valuable items to dry areas, and call (877) 497-0007 immediately for emergency response. Don't delay—water damage escalates rapidly, with mold growth beginning within 24-48 hours. Take photos documenting damage extent for insurance claims. Avoid entering flooded basements with electrical equipment still energized. Our emergency teams guide you through safe initial actions while dispatching crews to your Alexandria property.`,
     },
     {
       question: 'Does insurance cover water damage restoration for historic homes?',

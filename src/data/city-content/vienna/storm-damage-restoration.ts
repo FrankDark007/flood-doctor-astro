@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Vienna, VA | Flood Doctor',
-    description: 'Vienna storm damage restoration. 24/7 response for wind damage, fallen trees, roof leaks & flooding. Oakton, Wolf Trap & Vienna Town. Call (703) 656-0105.',
+    description: 'Vienna storm damage restoration. 24/7 response for wind damage, fallen trees, roof leaks & flooding. Oakton, Wolf Trap & Vienna Town. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Vienna, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our storm response approach prioritizes stopping additional damage before beginn
   processSteps: [
     {
       title: 'Immediate Emergency Response',
-      description: 'When you call (703) 656-0105 during a storm event, we dispatch immediately. During area-wide events, we deploy multiple crews and prioritize by damage severity. For Vienna homeowners with active water intrusion, we aim for response within 30-60 minutes even during major storms.',
+      description: 'When you call (877) 497-0007 during a storm event, we dispatch immediately. During area-wide events, we deploy multiple crews and prioritize by damage severity. For Vienna homeowners with active water intrusion, we aim for response within 30-60 minutes even during major storms.',
       timeframe: 'Within 30-60 minutes',
     },
     {
@@ -120,7 +120,7 @@ Our storm response approach prioritizes stopping additional damage before beginn
       'Structural involvement—damage affecting framing, roof structure, or load-bearing elements increases scope',
       'Contractor coordination—complex restorations requiring multiple specialty contractors add management needs',
     ],
-    cta: `Call (703) 656-0105 immediately for storm damage. We'll stabilize your property, assess damage, and work with your insurance on coverage for all storm-related restoration.`,
+    cta: `Call (877) 497-0007 immediately for storm damage. We'll stabilize your property, assess damage, and work with your insurance on coverage for all storm-related restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,7 +145,7 @@ Our storm response approach prioritizes stopping additional damage before beginn
   faqs: [
     {
       question: 'How quickly can you respond during a storm?',
-      answer: 'We dispatch immediately when you call (703) 656-0105—even during ongoing storms. Response time depends on storm severity and area-wide damage extent. For active water intrusion, we aim for 30-60 minute response even during major events. We prioritize by damage severity to reach the most urgent situations first.',
+      answer: 'We dispatch immediately when you call (877) 497-0007—even during ongoing storms. Response time depends on storm severity and area-wide damage extent. For active water intrusion, we aim for 30-60 minute response even during major events. We prioritize by damage severity to reach the most urgent situations first.',
     },
     {
       question: `Can you work while it's still raining?`,

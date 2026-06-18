@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Basement Flooding Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling basement flooding experts. Sump pump failures, Sugarland Run creek flooding, aging waterproofing in Sterling Park. 30-min response to Cascades & Countryside. Call (703) 285-1111.`,
+    description: `Sterling basement flooding experts. Sump pump failures, Sugarland Run creek flooding, aging waterproofing in Sterling Park. 30-min response to Cascades & Countryside. Call (877) 497-0007.`,
   },
   h1: `Basement Flooding Cleanup in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our crews assess basement construction and finishing level as part of our initia
   processSteps: [
     {
       title: `Emergency Basement Response`,
-      description: `Call (703) 285-1111 at the first sign of basement water. Our crews reach Sterling Park, Cascades, Countryside, and all Sterling neighborhoods within 30 minutes. Every hour of standing water means more damage to your finished basement—speed is the critical factor.`,
+      description: `Call (877) 497-0007 at the first sign of basement water. Our crews reach Sterling Park, Cascades, Countryside, and all Sterling neighborhoods within 30 minutes. Every hour of standing water means more damage to your finished basement—speed is the critical factor.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our crews assess basement construction and finishing level as part of our initia
       `Foundation condition—older Sterling Park foundations may require more extensive drying and repair`,
       `Prevention improvements—sump pump upgrades, backflow valves, and drainage improvements add upfront cost but prevent future events`,
     ],
-    cta: `Call (703) 285-1111 for immediate basement flooding response. Every hour of standing water increases damage and cost. We provide free assessments and handle insurance billing directly.`,
+    cta: `Call (877) 497-0007 for immediate basement flooding response. Every hour of standing water increases damage and cost. We provide free assessments and handle insurance billing directly.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -135,7 +135,7 @@ Our crews assess basement construction and finishing level as part of our initia
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute basement flooding response to all Sterling neighborhoods. Priority dispatch during storm events when multiple homes are affected. Call (703) 285-1111.`,
+    responseTime: `30-minute basement flooding response to all Sterling neighborhoods. Priority dispatch during storm events when multiple homes are affected. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -152,7 +152,7 @@ Our crews assess basement construction and finishing level as part of our initia
     },
     {
       question: `Should I try to pump out basement water myself?`,
-      answer: `Avoid entering standing water, especially if it could be contaminated from sewer backup or creek flooding. Do not use household equipment in standing water—electrocution risk is serious. Turn off basement electricity at the breaker panel from upstairs and call (703) 285-1111.`,
+      answer: `Avoid entering standing water, especially if it could be contaminated from sewer backup or creek flooding. Do not use household equipment in standing water—electrocution risk is serious. Turn off basement electricity at the breaker panel from upstairs and call (877) 497-0007.`,
     },
     {
       question: `Can my finished basement materials be saved after flooding?`,

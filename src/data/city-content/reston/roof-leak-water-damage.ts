@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Reston, VA | Flood Doctor',
-    description: `Reston roof leak water damage specialists. Serving South Lakes, Lake Anne & Hunters Woods. Townhome cluster & garden condo expertise. RA compliant. Call (703) 285-1109.`,
+    description: `Reston roof leak water damage specialists. Serving South Lakes, Lake Anne & Hunters Woods. Townhome cluster & garden condo expertise. RA compliant. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Reston, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Community-Coordinated Response',
-      description: `Call (703) 285-1109 and our crews respond within 30 minutes. For townhome clusters and garden condos, we begin HOA and management coordination simultaneously with dispatch. For single-family homes near South Lakes or Lake Fairfax Park, direct response begins immediately.`,
+      description: `Call (877) 497-0007 and our crews respond within 30 minutes. For townhome clusters and garden condos, we begin HOA and management coordination simultaneously with dispatch. For single-family homes near South Lakes or Lake Fairfax Park, direct response begins immediately.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Multi-unit involvement when shared roofs affect adjacent owners',
       'Mature tree damage repair and prevention recommendations',
     ],
-    cta: `Call (703) 285-1109 at the first sign of a roof leak. Whether your Reston townhome, condo, or single-family home is affected, we handle the technical restoration and community coordination simultaneously.`,
+    cta: `Call (877) 497-0007 at the first sign of a roof leak. Whether your Reston townhome, condo, or single-family home is affected, we handle the technical restoration and community coordination simultaneously.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Reston Roof Leak? We Handle the Restoration and the Coordination.',
-    paragraph: `Community living means community coordination. Call (703) 285-1109 for roof leak response that addresses your interior damage while navigating HOA, association, and RA requirements on your behalf.`,
+    paragraph: `Community living means community coordination. Call (877) 497-0007 for roof leak response that addresses your interior damage while navigating HOA, association, and RA requirements on your behalf.`,
   },
 }

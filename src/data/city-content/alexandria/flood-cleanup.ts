@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Alexandria's location along the Potomac River and Hunting Creek creates flooding scenarios ranging from riverine inundation to flash flooding from overwhelmed stormwater systems. Historic Old Town properties with original plaster walls and irreplaceable architectural details require flood cleanup approaches that respect preservation standards while achieving thorough decontamination and structural drying. Our certified restoration teams combine emergency response speed with the patience and expertise needed to restore flood-damaged properties properly, from 18th-century townhouses to modern Carlyle condominiums.`,
     ],
-    localContext: 'Flood damage requires immediate professional response—call (703) 656-0103 now for emergency cleanup anywhere in Alexandria, available 24/7/365.',
+    localContext: 'Flood damage requires immediate professional response—call (877) 497-0007 now for emergency cleanup anywhere in Alexandria, available 24/7/365.',
   },
   processSteps: [
     {
@@ -83,7 +83,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How quickly can you respond to flood damage in Old Town?',
-      answer: 'Our emergency teams reach Old Town addresses within 45-60 minutes, arriving with truck-mounted extraction equipment and Category 3 water removal supplies. We begin water extraction immediately, working in personal protective equipment to safely remove contaminated floodwater. Weekend and holiday flood events receive identical rapid response priority. Call (703) 656-0103 the moment flooding occurs—immediate response minimizes damage to irreplaceable historic materials.',
+      answer: 'Our emergency teams reach Old Town addresses within 45-60 minutes, arriving with truck-mounted extraction equipment and Category 3 water removal supplies. We begin water extraction immediately, working in personal protective equipment to safely remove contaminated floodwater. Weekend and holiday flood events receive identical rapid response priority. Call (877) 497-0007 the moment flooding occurs—immediate response minimizes damage to irreplaceable historic materials.',
     },
     {
       question: 'Can original plaster walls be saved after flooding?',
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'What should I do immediately after flooding?',
-      answer: `Ensure personal safety first—don't enter flooded basements with electrical equipment still energized. Document damage with photos and video for insurance claims. Contact your flood insurance company to report the loss. Call (703) 656-0103 immediately for emergency extraction—rapid response prevents secondary damage and mold growth. Don't attempt major cleanup before professional assessment, as improper techniques can worsen contamination or destroy documentation needed for insurance claims.`,
+      answer: `Ensure personal safety first—don't enter flooded basements with electrical equipment still energized. Document damage with photos and video for insurance claims. Contact your flood insurance company to report the loss. Call (877) 497-0007 immediately for emergency extraction—rapid response prevents secondary damage and mold growth. Don't attempt major cleanup before professional assessment, as improper techniques can worsen contamination or destroy documentation needed for insurance claims.`,
     },
     {
       question: 'Can you help with NFIP flood insurance claims?',

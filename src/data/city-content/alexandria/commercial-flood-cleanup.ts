@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Alexandria, VA | Flood Doctor',
-    description: `Alexandria commercial flood cleanup. Historic district flooding, Potomac waterfront protection & sewer overflow response for Old Town, Carlyle & Potomac Yard businesses. Call (703) 285-1101.`,
+    description: `Alexandria commercial flood cleanup. Historic district flooding, Potomac waterfront protection & sewer overflow response for Old Town, Carlyle & Potomac Yard businesses. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Alexandria, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams deploy with contamination assessment equipment alongs
   processSteps: [
     {
       title: 'Emergency Flood Dispatch',
-      description: `Call (703) 285-1101 for immediate commercial flood response. Our Alexandria crews deploy with industrial pumping equipment and contamination assessment capability, reaching Old Town, Del Ray, and Carlyle commercial districts within our guaranteed response window.`,
+      description: `Call (877) 497-0007 for immediate commercial flood response. Our Alexandria crews deploy with industrial pumping equipment and contamination assessment capability, reaching Old Town, Del Ray, and Carlyle commercial districts within our guaranteed response window.`,
       timeframe: 'Within 60 minutes',
     },
     {
@@ -118,7 +118,7 @@ Our commercial flood teams deploy with contamination assessment equipment alongs
       'Building age and infrastructure condition—older commercial structures may reveal pre-existing conditions exacerbated by flooding',
       'Environmental clearance requirements—post-flood testing and certification adds scope but is essential for safe commercial reoccupancy',
     ],
-    cta: `Call (703) 285-1101 for emergency commercial flood response. Our Alexandria team deploys with contamination assessment capability and historic preservation expertise for immediate evaluation and action.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. Our Alexandria team deploys with contamination assessment capability and historic preservation expertise for immediate evaluation and action.`,
   },
   serviceAreaSection: {
     neighborhoods: [

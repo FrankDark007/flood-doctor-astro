@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Vienna, VA | Flood Doctor',
-    description: `Vienna's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Vienna Town, Oakton & Wolftrap. Call (703) 285-1112.`,
+    description: `Vienna's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Vienna Town, Oakton & Wolftrap. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Vienna, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Pre-purchase comprehensive assessment covering all environmental hazard categories',
       'Rush laboratory processing for projects with active contractor schedules',
     ],
-    cta: `Call (703) 285-1112 for a consultation. We design testing protocols matched to your Vienna property\`s specific construction era and environmental concerns.`,
+    cta: `Call (877) 497-0007 for a consultation. We design testing protocols matched to your Vienna property\`s specific construction era and environmental concerns.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Hunter Mill',
       'Cedar Park',
     ],
-    responseTime: `Same-day environmental testing deployment to all Vienna and Oakton neighborhoods. Expedited laboratory processing available for renovation and real estate timelines. Call (703) 285-1112.`,
+    responseTime: `Same-day environmental testing deployment to all Vienna and Oakton neighborhoods. Expedited laboratory processing available for renovation and real estate timelines. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Questions About Your Vienna Property?',
-    paragraph: `Certified environmental testing provides definitive answers—whether investigating legacy materials in an established home or air quality in new construction. AIHA-accredited laboratory analysis with actionable recommendations. Call (703) 285-1112 for a consultation.`,
+    paragraph: `Certified environmental testing provides definitive answers—whether investigating legacy materials in an established home or air quality in new construction. AIHA-accredited laboratory analysis with actionable recommendations. Call (877) 497-0007 for a consultation.`,
   },
 }

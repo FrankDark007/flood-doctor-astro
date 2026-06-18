@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church burst pipe emergency response. 30-min arrival to Seven Corners, Lake Barcroft & Falls Church City. Older home pipe specialists. Call (703) 656-0111.',
+    description: 'Falls Church burst pipe emergency response. 30-min arrival to Seven Corners, Lake Barcroft & Falls Church City. Older home pipe specialists. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Water Damage Restoration in Falls Church, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified crews understand Falls Church's plumbing challenges. We work
   processSteps: [
     {
       title: '30-Minute Emergency Arrival',
-      description: 'When you call (703) 656-0111 about a burst pipe, we dispatch immediately. Our crews reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills within 30 minutes. Every minute counts when water is actively flowing.',
+      description: 'When you call (877) 497-0007 about a burst pipe, we dispatch immediately. Our crews reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills within 30 minutes. Every minute counts when water is actively flowing.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -120,7 +120,7 @@ Our IICRC-certified crews understand Falls Church's plumbing challenges. We work
       'Original materials—plaster walls and hardwood floors in older Falls Church homes need specialized treatment',
       'Wall cavity involvement—water in wall spaces requires cavity drying equipment',
     ],
-    cta: 'Call (703) 656-0111 immediately for burst pipe emergencies. Fast response is the single biggest factor in reducing restoration costs.',
+    cta: 'Call (877) 497-0007 immediately for burst pipe emergencies. Fast response is the single biggest factor in reducing restoration costs.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -141,7 +141,7 @@ Our IICRC-certified crews understand Falls Church's plumbing challenges. We work
   faqs: [
     {
       question: 'I found a burst pipe—what should I do first?',
-      answer: `Shut off the main water supply immediately. In older Falls Church homes, the shutoff is typically in the basement near where the water line enters. If you can't find it, call us anyway—we'll locate and close it when we arrive. Then call (703) 656-0111 for emergency response.`,
+      answer: `Shut off the main water supply immediately. In older Falls Church homes, the shutoff is typically in the basement near where the water line enters. If you can't find it, call us anyway—we'll locate and close it when we arrive. Then call (877) 497-0007 for emergency response.`,
     },
     {
       question: 'How long can a burst pipe run before causing serious damage?',

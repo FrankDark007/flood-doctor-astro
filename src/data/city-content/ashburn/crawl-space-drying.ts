@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Ashburn, VA | Flood Doctor',
-    description: `Ashburn crawl space experts. Serving Broadlands, Brambleton & One Loudoun. New construction & builder warranty specialists. HOA compliant. Call (703) 285-1100.`,
+    description: `Ashburn crawl space experts. Serving Broadlands, Brambleton & One Loudoun. New construction & builder warranty specialists. HOA compliant. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Ashburn, Virginia',
   introSection: {
@@ -116,7 +116,7 @@ export const content: CityServiceContent = {
       'Community-specific requirements for HOA notification and compliance',
       'Warranty claim documentation scope based on construction age and identified defects',
     ],
-    cta: `Call (703) 285-1100 for a free crawl space inspection. We'll show you where your builder's installation falls short and provide a detailed upgrade proposal.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We'll show you where your builder's installation falls short and provide a detailed upgrade proposal.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -173,6 +173,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Upgrade Your Ashburn Crawl Space Beyond Builder Grade',
-    paragraph: `Your builder met minimum code. We exceed it. Call (703) 285-1100 for a free inspection that shows you exactly where your crawl space needs professional-grade protection—and whether warranty coverage applies.`,
+    paragraph: `Your builder met minimum code. We exceed it. Call (877) 497-0007 for a free inspection that shows you exactly where your crawl space needs professional-grade protection—and whether warranty coverage applies.`,
   },
 }

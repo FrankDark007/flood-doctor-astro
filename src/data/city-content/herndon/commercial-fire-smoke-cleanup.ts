@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Herndon, VA | Flood Doctor`,
-    description: `Herndon's trusted commercial fire and smoke restoration team. Emergency response for data center corridor facilities, downtown businesses, and Worldgate commercial properties. Call (703) 285-1106.`,
+    description: `Herndon's trusted commercial fire and smoke restoration team. Emergency response for data center corridor facilities, downtown businesses, and Worldgate commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Herndon, Virginia`,
   introSection: {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Water damage from sprinkler activation—secondary water damage adds scope to fire restoration projects`,
       `Operational continuity urgency—technology facilities and revenue-critical businesses benefit from expedited restoration`,
     ],
-    cta: `Call (703) 285-1106 for immediate commercial fire emergency response in Herndon. Our teams adapt from downtown community business restoration to Dulles corridor technology facility recovery.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Herndon. Our teams adapt from downtown community business restoration to Dulles corridor technology facility recovery.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Herndon?`,
-    paragraph: `From downtown shops to Dulles corridor technology facilities, our integrated fire restoration teams deploy equipment and expertise matched to your facility type. Call (703) 285-1106 for immediate emergency response and facility-appropriate restoration.`,
+    paragraph: `From downtown shops to Dulles corridor technology facilities, our integrated fire restoration teams deploy equipment and expertise matched to your facility type. Call (877) 497-0007 for immediate emergency response and facility-appropriate restoration.`,
   },
 }

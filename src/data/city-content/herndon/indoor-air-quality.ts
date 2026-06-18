@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Herndon, VA | Flood Doctor',
-    description: `Herndon indoor air quality testing for homes and commercial spaces. Mold sampling, HVAC assessment & VOC analysis in Fox Mill, Franklin Farm & Downtown Herndon. Call (703) 285-1106.`,
+    description: `Herndon indoor air quality testing for homes and commercial spaces. Mold sampling, HVAC assessment & VOC analysis in Fox Mill, Franklin Farm & Downtown Herndon. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Herndon, Virginia',
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Commercial regulatory documentation including OSHA compliance and ASHRAE verification',
       'Post-remediation clearance sampling and verification requirements',
     ],
-    cta: `Call (703) 285-1106 for a consultation. We recommend the testing scope that answers your specific air quality questions and provide upfront pricing.`,
+    cta: `Call (877) 497-0007 for a consultation. We recommend the testing scope that answers your specific air quality questions and provide upfront pricing.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -124,7 +124,7 @@ export const content: CityServiceContent = {
       'Reflection Lake',
       'Van Metre Crossing',
     ],
-    responseTime: `Same-day IAQ assessment throughout Herndon. Emergency sampling within 2 hours for visible mold or acute contamination events. Call (703) 285-1106.`,
+    responseTime: `Same-day IAQ assessment throughout Herndon. Emergency sampling within 2 hours for visible mold or acute contamination events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -158,6 +158,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Air Quality Questions in Your Herndon Property?',
-    paragraph: `Residential or commercial, our AIHA-accredited IAQ testing provides definitive answers about indoor air contaminants. Call (703) 285-1106 for a professional assessment.`,
+    paragraph: `Residential or commercial, our AIHA-accredited IAQ testing provides definitive answers about indoor air contaminants. Call (877) 497-0007 for a professional assessment.`,
   },
 }

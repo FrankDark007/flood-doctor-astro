@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Tysons, VA | Flood Doctor',
-    description: `Tysons crawl space drying for residential and mixed-use properties. Serving Tysons Corner, The Boro & Scotts Run. Modern building expertise. Call (703) 285-1100.`,
+    description: `Tysons crawl space drying for residential and mixed-use properties. Serving Tysons Corner, The Boro & Scotts Run. Modern building expertise. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Tysons, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'HVAC system integration and condensate management needs',
       'Documentation scope for warranty claims or property management records',
     ],
-    cta: `Call (703) 285-1100 for a free crawl space inspection. Whether you own a home in Scotts Run or manage a townhome community near The Boro, we deliver solutions matched to Tysons' unique conditions.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. Whether you own a home in Scotts Run or manage a townhome community near The Boro, we deliver solutions matched to Tysons' unique conditions.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Crawl Space Moisture Issues at Your Tysons Property?',
-    paragraph: `Development has changed the drainage landscape around Tysons residential properties. Call (703) 285-1100 for a free crawl space assessment that addresses today's conditions—not yesterday's assumptions about stormwater flow.`,
+    paragraph: `Development has changed the drainage landscape around Tysons residential properties. Call (877) 497-0007 for a free crawl space assessment that addresses today's conditions—not yesterday's assumptions about stormwater flow.`,
   },
 }

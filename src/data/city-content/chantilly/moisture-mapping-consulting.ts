@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Chantilly, VA | Flood Doctor',
-    description: `Professional moisture mapping and consulting for Chantilly properties. Infrared thermography, psychrometric analysis & building science expertise. Call (703) 285-1104.`,
+    description: `Professional moisture mapping and consulting for Chantilly properties. Infrared thermography, psychrometric analysis & building science expertise. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Chantilly, Virginia',
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `Report requirements—insurance documentation, warranty claim support, or building diagnostics`,
       `Follow-up monitoring—ongoing moisture tracking for chronic issues or drying verification`,
     ],
-    cta: `Call (703) 285-1104 for professional moisture mapping. Our building science consultants provide the quantitative analysis your property requires.`,
+    cta: `Call (877) 497-0007 for professional moisture mapping. Our building science consultants provide the quantitative analysis your property requires.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -161,6 +161,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Need Professional Moisture Analysis in Chantilly?',
-    paragraph: `Quantitative moisture mapping provides the scientific basis for effective restoration, informed maintenance decisions, and supported warranty claims. Our certified building science consultants serve all Chantilly properties. Call (703) 285-1104.`,
+    paragraph: `Quantitative moisture mapping provides the scientific basis for effective restoration, informed maintenance decisions, and supported warranty claims. Our certified building science consultants serve all Chantilly properties. Call (877) 497-0007.`,
   },
 }

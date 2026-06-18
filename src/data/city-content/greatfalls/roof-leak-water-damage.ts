@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Great Falls, VA | Flood Doctor',
-    description: `Great Falls estate roof leak specialists. Serving Great Falls Village, Forestville & Seneca Estates. Slate, copper & complex roof expertise. Art protection. Call (703) 285-1100.`,
+    description: `Great Falls estate roof leak specialists. Serving Great Falls Village, Forestville & Seneca Estates. Slate, copper & complex roof expertise. Art protection. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Great Falls, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Discreet Estate Emergency Response',
-      description: `Call (703) 285-1100 and our crews respond within 45 minutes, arriving in unmarked vehicles. Our first action is protecting interior contents and finishes beneath the leak—covering furnishings, art, and electronics while assessing the water entry path from roof through attic to the living space.`,
+      description: `Call (877) 497-0007 and our crews respond within 45 minutes, arriving in unmarked vehicles. Our first action is protecting interior contents and finishes beneath the leak—covering furnishings, art, and electronics while assessing the water entry path from roof through attic to the living space.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       'Estate-scale attic assessment across multiple roof sections and wing connections',
       'Specialist coordination for decorative finish restoration beyond standard drywall and paint',
     ],
-    cta: `Call (703) 285-1100 the moment you suspect a roof leak in your Great Falls estate. The value beneath your roof demands immediate professional response—every hour of delay increases the risk to irreplaceable interiors.`,
+    cta: `Call (877) 497-0007 the moment you suspect a roof leak in your Great Falls estate. The value beneath your roof demands immediate professional response—every hour of delay increases the risk to irreplaceable interiors.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Great Falls Estate Roof Leak? Protect What Matters Most.',
-    paragraph: `Your estate roof protects investments measured in millions. When it leaks, immediate response protects the custom finishes, collections, and living spaces beneath. Call (703) 285-1100 for discreet, estate-scale intervention.`,
+    paragraph: `Your estate roof protects investments measured in millions. When it leaks, immediate response protects the custom finishes, collections, and living spaces beneath. Call (877) 497-0007 for discreet, estate-scale intervention.`,
   },
 }

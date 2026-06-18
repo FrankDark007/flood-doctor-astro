@@ -6,7 +6,7 @@ const lorton: CityData = {
   state: 'Virginia',
   stateAbbr: 'VA',
   fullName: 'Lorton, Virginia',
-  phone: '(703) 285-1100',
+  phone: '(877) 497-0007',
   address: '9000 Lorton Station Blvd, Lorton, VA 22079',
   zipCode: '22079',
   serviceArea: [
@@ -17,7 +17,7 @@ const lorton: CityData = {
   coordinates: { lat: 38.7043, lng: -77.2275 },
   meta: {
     title: 'Flood Doctor Lorton | 24/7 Water Damage Restoration',
-    description: '24/7 emergency water damage restoration in Lorton, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (703) 285-1100.',
+    description: '24/7 emergency water damage restoration in Lorton, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (877) 497-0007.',
   },
 }
 

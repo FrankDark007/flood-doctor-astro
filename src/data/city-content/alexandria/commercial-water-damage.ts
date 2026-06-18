@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Alexandria, VA | Flood Doctor',
-    description: `Alexandria commercial water damage restoration. Historic district expertise, waterfront property protection & regulatory compliance near Old Town, Del Ray & Carlyle. Call (703) 285-1101.`,
+    description: `Alexandria commercial water damage restoration. Historic district expertise, waterfront property protection & regulatory compliance near Old Town, Del Ray & Carlyle. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Alexandria, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams carry specialized knowledge of historic bui
   processSteps: [
     {
       title: 'Priority Commercial Response',
-      description: `Call (703) 285-1101 for immediate commercial dispatch. Our Alexandria crews are positioned throughout the King Street corridor, Carlyle district, and Potomac Yard area with equipment suited for both historic structures and modern commercial buildings.`,
+      description: `Call (877) 497-0007 for immediate commercial dispatch. Our Alexandria crews are positioned throughout the King Street corridor, Carlyle district, and Potomac Yard area with equipment suited for both historic structures and modern commercial buildings.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC-certified commercial teams carry specialized knowledge of historic bui
       'Waterfront proximity—properties near the Potomac may face recurring hydrostatic issues requiring root-cause remediation beyond immediate restoration',
       `Tenant displacement duration—business interruption in Alexandria's competitive commercial market creates urgency for accelerated timelines`,
     ],
-    cta: `Call (703) 285-1101 for immediate commercial assessment. Our Alexandria project manager understands historic preservation requirements and will deliver a detailed scope that addresses both restoration needs and regulatory compliance.`,
+    cta: `Call (877) 497-0007 for immediate commercial assessment. Our Alexandria project manager understands historic preservation requirements and will deliver a detailed scope that addresses both restoration needs and regulatory compliance.`,
   },
   serviceAreaSection: {
     neighborhoods: [

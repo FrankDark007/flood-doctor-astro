@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Vienna, VA | Flood Doctor',
-    description: `Vienna large loss restoration for multi-tenant commercial buildings, professional complexes & community retail centers. Dedicated project management. Call (703) 285-1112.`,
+    description: `Vienna large loss restoration for multi-tenant commercial buildings, professional complexes & community retail centers. Dedicated project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Vienna, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors understand that Vienna large loss projects are community e
   processSteps: [
     {
       title: 'Emergency Stabilization',
-      description: `Call (703) 285-1112 to activate large loss response. Our stabilization team secures the affected area, begins controlled extraction, and assesses quality finishes for preservation priority while the full project team mobilizes for Vienna's commercial environment.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team secures the affected area, begins controlled extraction, and assesses quality finishes for preservation priority while the full project team mobilizes for Vienna's commercial environment.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -114,7 +114,7 @@ Our project directors understand that Vienna large loss projects are community e
       'Community impact management—noise containment, construction traffic management, and neighbor communication add project management scope',
       `Connected building complexity—shared-wall commercial buildings in Vienna's districts require coordinated restoration across property boundaries`,
     ],
-    cta: `Call (703) 285-1112 for immediate large loss consultation. Our project director will assess community-wide impact and deliver a quality-focused restoration plan within 48 hours of stabilization.`,
+    cta: `Call (877) 497-0007 for immediate large loss consultation. Our project director will assess community-wide impact and deliver a quality-focused restoration plan within 48 hours of stabilization.`,
   },
   serviceAreaSection: {
     neighborhoods: [

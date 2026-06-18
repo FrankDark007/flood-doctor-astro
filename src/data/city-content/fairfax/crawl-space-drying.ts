@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Fairfax, VA | Flood Doctor',
-    description: `Fairfax crawl space drying and encapsulation specialists. Serving Burke, Kings Park & Mantua. 1970s-90s home expertise. Sump pump solutions. Call (703) 285-1105.`,
+    description: `Fairfax crawl space drying and encapsulation specialists. Serving Burke, Kings Park & Mantua. 1970s-90s home expertise. Sump pump solutions. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Fairfax, Virginia',
   introSection: {
@@ -118,7 +118,7 @@ export const content: CityServiceContent = {
       'Drainage system needs for properties near Burke Lake, Accotink Creek, or flood-prone areas',
       'Accessibility challenges affecting labor time in low-clearance or limited-access sections',
     ],
-    cta: `Call (703) 285-1105 for a free crawl space inspection. We'll show you exactly what is happening beneath your Fairfax home and provide a clear, detailed proposal for complete protection.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We'll show you exactly what is happening beneath your Fairfax home and provide a clear, detailed proposal for complete protection.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Stop Crawl Space Moisture from Damaging Your Fairfax Home',
-    paragraph: `Your family deserves clean air and a dry, protected home. Call (703) 285-1105 for a free crawl space inspection—we'll show you the problem and the solution, with no pressure and no obligation.`,
+    paragraph: `Your family deserves clean air and a dry, protected home. Call (877) 497-0007 for a free crawl space inspection—we'll show you the problem and the solution, with no pressure and no obligation.`,
   },
 }

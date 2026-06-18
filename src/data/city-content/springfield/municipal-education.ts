@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Springfield, VA | Flood Doctor`,
-    description: `Springfield's trusted restoration for schools and public buildings. FCPS-experienced crews serving West Springfield, Kingstowne, and Fort Belvoir area facilities. Call (703) 285-1110.`,
+    description: `Springfield's trusted restoration for schools and public buildings. FCPS-experienced crews serving West Springfield, Kingstowne, and Fort Belvoir area facilities. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Springfield, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Beyond regulatory compliance, Springfield school restorations must satisfy a com
   processSteps: [
     {
       title: `Emergency Notification and Facility Securing`,
-      description: `Call (703) 285-1110 to activate our municipal response protocol. We coordinate with FCPS facilities management and Springfield community facility directors to secure the affected building, notify administrators, and establish a restoration timeline protecting academic or program schedules.`,
+      description: `Call (877) 497-0007 to activate our municipal response protocol. We coordinate with FCPS facilities management and Springfield community facility directors to secure the affected building, notify administrators, and establish a restoration timeline protecting academic or program schedules.`,
       timeframe: `Within 1 hour`,
     },
     {
@@ -116,7 +116,7 @@ Beyond regulatory compliance, Springfield school restorations must satisfy a com
       `ADA compliance requirements triggered by restoration scope in public buildings`,
       `Documentation and reporting for FCPS administration, school boards, and community accountability`,
     ],
-    cta: `Call (703) 285-1110 for emergency school or municipal facility assessment. We provide procurement-compliant estimates and coordinate with FCPS facilities management for streamlined approval.`,
+    cta: `Call (877) 497-0007 for emergency school or municipal facility assessment. We provide procurement-compliant estimates and coordinate with FCPS facilities management for streamlined approval.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -171,6 +171,6 @@ Beyond regulatory compliance, Springfield school restorations must satisfy a com
   ],
   finalCTA: {
     headline: `School or Public Facility Emergency in Springfield?`,
-    paragraph: `Student safety and community services depend on rapid restoration. Our crews respond to Springfield schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the regulatory expertise these facilities require. Call (703) 285-1110 immediately.`,
+    paragraph: `Student safety and community services depend on rapid restoration. Our crews respond to Springfield schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the regulatory expertise these facilities require. Call (877) 497-0007 immediately.`,
   },
 }

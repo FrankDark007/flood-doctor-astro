@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Arlington, VA | Flood Doctor',
-    description: `Arlington's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for condos, rowhouses & multi-unit buildings in Rosslyn, Clarendon & Crystal City. Call (703) 285-1102.`,
+    description: `Arlington's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for condos, rowhouses & multi-unit buildings in Rosslyn, Clarendon & Crystal City. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Arlington, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Commercial regulatory compliance documentation including OSHA and EPA NESHAP requirements',
       'Rush laboratory processing for time-sensitive renovation or real estate transaction schedules',
     ],
-    cta: `Call (703) 285-1102 for a consultation. We design testing protocols matched to your Arlington property type and project requirements.`,
+    cta: `Call (877) 497-0007 for a consultation. We design testing protocols matched to your Arlington property type and project requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Westover',
       'Donaldson Run',
     ],
-    responseTime: `Same-day environmental testing deployment to all Arlington neighborhoods. Expedited laboratory processing available for urgent renovation and real estate timelines. Call (703) 285-1102.`,
+    responseTime: `Same-day environmental testing deployment to all Arlington neighborhoods. Expedited laboratory processing available for urgent renovation and real estate timelines. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -168,6 +168,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Concerns in Your Arlington Property?',
-    paragraph: `Certified environmental testing provides the laboratory data and regulatory documentation required for safe renovation, health investigation, or real estate due diligence. AIHA-accredited analysis with chain-of-custody protocols. Call (703) 285-1102 for a consultation.`,
+    paragraph: `Certified environmental testing provides the laboratory data and regulatory documentation required for safe renovation, health investigation, or real estate due diligence. AIHA-accredited analysis with chain-of-custody protocols. Call (877) 497-0007 for a consultation.`,
   },
 }

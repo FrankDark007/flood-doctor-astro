@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Ashburn, VA | Flood Doctor',
-    description: `Ashburn commercial flood cleanup. Data centers, new construction offices & HOA commercial developments near Broadlands, One Loudoun & Brambleton. Call (703) 285-1100.`,
+    description: `Ashburn commercial flood cleanup. Data centers, new construction offices & HOA commercial developments near Broadlands, One Loudoun & Brambleton. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Ashburn, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
   processSteps: [
     {
       title: 'Rapid Ashburn Flood Dispatch',
-      description: `Call (703) 285-1100 for immediate commercial flood response. Our crews deploy from positions throughout the Loudoun County Parkway and Broadlands corridors, reaching Ashburn commercial properties with industrial extraction and IT protection equipment within our guaranteed window.`,
+      description: `Call (877) 497-0007 for immediate commercial flood response. Our crews deploy from positions throughout the Loudoun County Parkway and Broadlands corridors, reaching Ashburn commercial properties with industrial extraction and IT protection equipment within our guaranteed window.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -114,7 +114,7 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
       'HOA commercial requirements—community association standards may affect scheduling and exterior restoration methods',
       'Drainage infrastructure documentation—identifying development-related drainage failures supports property owner pursuit of improvements',
     ],
-    cta: `Call (703) 285-1100 for emergency commercial flood response. Our Ashburn team deploys with the data center protection and new-construction expertise this market demands.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. Our Ashburn team deploys with the data center protection and new-construction expertise this market demands.`,
   },
   serviceAreaSection: {
     neighborhoods: [

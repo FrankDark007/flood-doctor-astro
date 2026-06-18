@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Springfield, VA | Flood Doctor`,
-    description: `Springfield's trusted commercial mold remediation team. CIH-coordinated protocols for I-95 corridor offices, strip malls, and military-adjacent commercial facilities. Call (703) 285-1110.`,
+    description: `Springfield's trusted commercial mold remediation team. CIH-coordinated protocols for I-95 corridor offices, strip malls, and military-adjacent commercial facilities. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Springfield, Virginia`,
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `Moisture source correction—roof replacement, plumbing repair, or dehumidification installation to prevent recurrence`,
       `CIH services—assessment, protocol development, and independent clearance testing`,
     ],
-    cta: `Call (703) 285-1110 for a confidential commercial mold assessment at your Springfield property. We coordinate CIH engagement and provide practical remediation plans that address both the mold and the moisture driving it.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment at your Springfield property. We coordinate CIH engagement and provide practical remediation plans that address both the mold and the moisture driving it.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold in Your Springfield Commercial Property?`,
-    paragraph: `Mold threatens tenant health, customer confidence, and business operations. Our CIH-coordinated teams deliver practical, thoroughly verified remediation for Springfield's family-serving commercial community. Call (703) 285-1110 for a confidential assessment.`,
+    paragraph: `Mold threatens tenant health, customer confidence, and business operations. Our CIH-coordinated teams deliver practical, thoroughly verified remediation for Springfield's family-serving commercial community. Call (877) 497-0007 for a confidential assessment.`,
   },
 }

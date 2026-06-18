@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Large Loss Restoration in Leesburg, VA | Flood Doctor`,
-    description: `Large loss and catastrophic damage restoration for Leesburg properties. Historic estates, commercial buildings, and multi-unit facilities. Call (703) 285-1107.`,
+    description: `Large loss and catastrophic damage restoration for Leesburg properties. Historic estates, commercial buildings, and multi-unit facilities. Call (877) 497-0007.`,
   },
   h1: `Leesburg Large Loss Restoration`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Rapid Mobilization`,
-      description: `Call (703) 285-1107 for immediate large loss response. We deploy a project manager and advance crew within the hour, followed by full equipment and additional crews as the scope becomes clear.`,
+      description: `Call (877) 497-0007 for immediate large loss response. We deploy a project manager and advance crew within the hour, followed by full equipment and additional crews as the scope becomes clear.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Project timeline and phasing requirements`,
       `Insurance structure — carrier coordination and claim complexity`,
     ],
-    cta: `Call (703) 285-1107 for immediate large loss response and project management.`,
+    cta: `Call (877) 497-0007 for immediate large loss response and project management.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -127,6 +127,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Catastrophic Damage in Leesburg? We Have the Capacity`,
-    paragraph: `Large losses demand large-scale response. Flood Doctor provides the crews, equipment, project management, and expertise to restore Leesburg's most complex and valuable properties. Call (703) 285-1107 for immediate mobilization.`,
+    paragraph: `Large losses demand large-scale response. Flood Doctor provides the crews, equipment, project management, and expertise to restore Leesburg's most complex and valuable properties. Call (877) 497-0007 for immediate mobilization.`,
   },
 }

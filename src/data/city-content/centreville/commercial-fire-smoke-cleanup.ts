@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Fire & Smoke Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville commercial fire and smoke damage restoration. Office parks, retail & commercial properties. Board-up to rebuild. Call (703) 285-1103.`,
+    description: `Centreville commercial fire and smoke damage restoration. Office parks, retail & commercial properties. Board-up to rebuild. Call (877) 497-0007.`,
   },
   h1: 'Commercial Fire & Smoke Cleanup in Centreville, Virginia',
   introSection: {
@@ -110,7 +110,7 @@ Our commercial fire restoration provides project management that coordinates eme
       'Water damage from suppression—sprinkler activation creates secondary damage that compounds restoration',
       'Number of affected tenants—multi-tenant coordination, documentation, and phased reconstruction add complexity',
     ],
-    cta: `Call (703) 285-1103 for immediate commercial fire response. We handle everything from board-up through rebuild, managing insurance and tenants throughout.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire response. We handle everything from board-up through rebuild, managing insurance and tenants throughout.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ Our commercial fire restoration provides project management that coordinates eme
   ],
   finalCTA: {
     headline: 'Commercial Fire in Centreville?',
-    paragraph: `Your tenants and your revenue cannot wait. Call (703) 285-1103 now for 24/7 commercial fire response—board-up, smoke cleanup, water extraction, and complete reconstruction under one project manager.`,
+    paragraph: `Your tenants and your revenue cannot wait. Call (877) 497-0007 now for 24/7 commercial fire response—board-up, smoke cleanup, water extraction, and complete reconstruction under one project manager.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Falls Church, VA | Flood Doctor',
-    description: `Falls Church commercial flood cleanup. Historic district flooding, apartment complex events & Lake Barcroft waterfront businesses. Industrial response. Call (703) 285-1100.`,
+    description: `Falls Church commercial flood cleanup. Historic district flooding, apartment complex events & Lake Barcroft waterfront businesses. Industrial response. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Falls Church, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams bring community awareness alongside industrial capabi
   processSteps: [
     {
       title: 'Community-Responsive Dispatch',
-      description: `Call (703) 285-1100 for immediate flood response. Our Falls Church crews cover every commercial district—Falls Church City, Seven Corners, Baileys Crossroads, Eden Center, and Lake Barcroft—with industrial extraction and contamination assessment capability.`,
+      description: `Call (877) 497-0007 for immediate flood response. Our Falls Church crews cover every commercial district—Falls Church City, Seven Corners, Baileys Crossroads, Eden Center, and Lake Barcroft—with industrial extraction and contamination assessment capability.`,
       timeframe: 'Within 60 minutes',
     },
     {
@@ -114,7 +114,7 @@ Our commercial flood teams bring community awareness alongside industrial capabi
       'Multi-unit coordination—apartment-to-commercial events require documentation supporting cross-building insurance claims',
       'Falls Church City jurisdiction—independent regulatory requirements may add permit and inspection coordination scope',
     ],
-    cta: `Call (703) 285-1100 for emergency commercial flood response. We'll classify the contamination, protect historic elements, and provide a clear estimate for your insurance carrier.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. We'll classify the contamination, protect historic elements, and provide a clear estimate for your insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Arlington, VA | Flood Doctor',
-    description: `Arlington's contents restoration experts for condos, rowhouses & apartments. Professional pack-out, cleaning & storage with HOA coordination. Call (703) 285-1102.`,
+    description: `Arlington's contents restoration experts for condos, rowhouses & apartments. Professional pack-out, cleaning & storage with HOA coordination. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Arlington, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every item our team touches is photographed, catalogued with condition notes, an
   processSteps: [
     {
       title: 'Emergency Triage & Priority Stabilization',
-      description: `Within 30 minutes of your call to (703) 285-1102, our team arrives to identify items needing immediate attention. Water-damaged documents are bagged for freezing. Electronics are disconnected and prepared for corrosion prevention. Photographs are carefully separated before bonding occurs. Priority items are stabilized while the full pack-out is planned.`,
+      description: `Within 30 minutes of your call to (877) 497-0007, our team arrives to identify items needing immediate attention. Water-damaged documents are bagged for freezing. Electronics are disconnected and prepared for corrosion prevention. Photographs are carefully separated before bonding occurs. Priority items are stabilized while the full pack-out is planned.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -111,7 +111,7 @@ Every item our team touches is photographed, catalogued with condition notes, an
       'Specialty items requiring expert treatment — electronics, documents, artwork, and antiques each need specific protocols',
       'Storage duration — longer structural restoration timelines extend climate-controlled storage periods',
     ],
-    cta: `Call (703) 285-1102 for immediate contents assessment. We triage priority items within hours, coordinate with your building, and provide detailed estimates for insurance filing.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We triage priority items within hours, coordinate with your building, and provide detailed estimates for insurance filing.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -172,6 +172,6 @@ Every item our team touches is photographed, catalogued with condition notes, an
   ],
   finalCTA: {
     headline: 'Water-Damaged Belongings in Your Arlington Home?',
-    paragraph: 'Every hour of exposure worsens damage to your personal property. Documents bond, electronics corrode, and mold begins growing on organic materials. Our Arlington contents team responds within 30 minutes to stabilize priority items and begins professional pack-out with full building coordination. Call (703) 285-1102 now.',
+    paragraph: 'Every hour of exposure worsens damage to your personal property. Documents bond, electronics corrode, and mold begins growing on organic materials. Our Arlington contents team responds within 30 minutes to stabilize priority items and begins professional pack-out with full building coordination. Call (877) 497-0007 now.',
   },
 }

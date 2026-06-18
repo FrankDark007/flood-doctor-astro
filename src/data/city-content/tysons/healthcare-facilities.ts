@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Tysons, VA | Flood Doctor`,
-    description: `Tysons' HIPAA-compliant healthcare restoration experts. Serving medical offices in Tysons Corner Center, The Boro, and Scotts Run areas. Call (703) 285-1100.`,
+    description: `Tysons' HIPAA-compliant healthcare restoration experts. Serving medical offices in Tysons Corner Center, The Boro, and Scotts Run areas. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Tysons, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Tysons healthcare team addresses these modern-building challenges alongside 
   processSteps: [
     {
       title: `High-Rise Medical Facility Response`,
-      description: `Call (703) 285-1100 for immediate healthcare deployment. Our Tysons crews coordinate with commercial building management for freight elevator access and security clearance during transit, arriving with ICRA containment materials sized for modern medical office floor plans.`,
+      description: `Call (877) 497-0007 for immediate healthcare deployment. Our Tysons crews coordinate with commercial building management for freight elevator access and security clearance during transit, arriving with ICRA containment materials sized for modern medical office floor plans.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Tysons healthcare team addresses these modern-building challenges alongside 
       `Commercial building logistics—freight elevator scheduling, security coordination, and building management compliance`,
       `Multi-tenant healthcare coordination—separate HIPAA and ICRA compliance for each affected medical practice`,
     ],
-    cta: `Call (703) 285-1100 for emergency healthcare facility assessment. We navigate Tysons commercial building protocols for rapid medical practice restoration.`,
+    cta: `Call (877) 497-0007 for emergency healthcare facility assessment. We navigate Tysons commercial building protocols for rapid medical practice restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our Tysons healthcare team addresses these modern-building challenges alongside 
   ],
   finalCTA: {
     headline: `Healthcare Emergency in Tysons?`,
-    paragraph: `Modern high-rise medical facilities need restoration teams that understand both healthcare compliance and commercial building systems. Our HIPAA-certified crews reach any Tysons medical office within 30 minutes. Call (703) 285-1100 now.`,
+    paragraph: `Modern high-rise medical facilities need restoration teams that understand both healthcare compliance and commercial building systems. Our HIPAA-certified crews reach any Tysons medical office within 30 minutes. Call (877) 497-0007 now.`,
   },
 }

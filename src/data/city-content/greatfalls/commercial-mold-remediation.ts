@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Great Falls, VA | Flood Doctor`,
-    description: `Great Falls commercial mold remediation specialists. CIH-coordinated protocols for estate offices, equestrian facilities, and premium commercial properties near Georgetown Pike. Call (703) 285-1100.`,
+    description: `Great Falls commercial mold remediation specialists. CIH-coordinated protocols for estate offices, equestrian facilities, and premium commercial properties near Georgetown Pike. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Great Falls, Virginia`,
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       `Facility type—equestrian properties and mixed-use buildings require adapted protocols with additional considerations`,
       `Property access—large-lot Great Falls properties may require extended equipment staging and logistics coordination`,
     ],
-    cta: `Call (703) 285-1100 for a confidential commercial mold assessment. We coordinate CIH engagement, provide detailed remediation estimates, and work with your insurance carrier to maximize coverage for mold events linked to water damage.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment. We coordinate CIH engagement, provide detailed remediation estimates, and work with your insurance carrier to maximize coverage for mold events linked to water damage.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,6 +159,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold Contamination in Your Great Falls Commercial Property?`,
-    paragraph: `Mold threatens occupant health, regulatory compliance, and property value. Our CIH-coordinated remediation teams deliver clearance-verified results that protect your Great Falls commercial investment. Call (703) 285-1100 for a confidential assessment and detailed remediation plan.`,
+    paragraph: `Mold threatens occupant health, regulatory compliance, and property value. Our CIH-coordinated remediation teams deliver clearance-verified results that protect your Great Falls commercial investment. Call (877) 497-0007 for a confidential assessment and detailed remediation plan.`,
   },
 }

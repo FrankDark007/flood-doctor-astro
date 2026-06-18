@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's industrial and commercial restoration experts. Serving warehouses, production facilities, and commercial operations in Eisenhower Valley and Van Dorn. Call (703) 285-1101.`,
+    description: `Alexandria's industrial and commercial restoration experts. Serving warehouses, production facilities, and commercial operations in Eisenhower Valley and Van Dorn. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Alexandria, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ These geographic realities demand proactive emergency planning and reactive capa
   processSteps: [
     {
       title: `Industrial Emergency Mobilization`,
-      description: `Call (703) 285-1101 for immediate commercial or industrial facility response. Our Alexandria teams deploy with truck-mounted extraction, anti-corrosion treatment supplies, and the heavy equipment needed for warehouse and production facility scale restoration.`,
+      description: `Call (877) 497-0007 for immediate commercial or industrial facility response. Our Alexandria teams deploy with truck-mounted extraction, anti-corrosion treatment supplies, and the heavy equipment needed for warehouse and production facility scale restoration.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -119,7 +119,7 @@ These geographic realities demand proactive emergency planning and reactive capa
       `Contamination level—floodwater contamination in food production facilities requires FDA-compliant decontamination protocols`,
       `Business interruption urgency—expedited restoration for operations facing contractual deadlines and supply chain obligations`,
     ],
-    cta: `Call (703) 285-1101 for emergency industrial or commercial facility assessment. We deploy heavy equipment to Alexandria warehouse and production facilities within 30 minutes.`,
+    cta: `Call (877) 497-0007 for emergency industrial or commercial facility assessment. We deploy heavy equipment to Alexandria warehouse and production facilities within 30 minutes.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -170,6 +170,6 @@ These geographic realities demand proactive emergency planning and reactive capa
   ],
   finalCTA: {
     headline: `Industrial or Commercial Emergency in Alexandria?`,
-    paragraph: `Inventory damage and production downtime compound by the hour. Our industrial crews deploy to Alexandria commercial facilities within 30 minutes with truck-mounted extraction, anti-corrosion treatment, and the heavy equipment your operation demands. Call (703) 285-1101 now.`,
+    paragraph: `Inventory damage and production downtime compound by the hour. Our industrial crews deploy to Alexandria commercial facilities within 30 minutes with truck-mounted extraction, anti-corrosion treatment, and the heavy equipment your operation demands. Call (877) 497-0007 now.`,
   },
 }

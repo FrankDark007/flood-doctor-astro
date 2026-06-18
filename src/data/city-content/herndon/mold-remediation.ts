@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Herndon, VA | Flood Doctor',
-    description: 'Herndon mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Fox Mill, Downtown, Worldgate. Call (703) 656-0108.',
+    description: 'Herndon mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in Herndon, Virginia',
   introSection: {
@@ -119,7 +119,7 @@ What makes Herndon remediation particularly challenging is the townhome coordina
       'Ventilation upgrades — bathroom fan replacement and HVAC condensation corrections when these systems contributed to the problem',
     ],
     insuranceNote: `For townhome mold from a neighbor's plumbing failure, your HO-6 policy may cover your unit while the neighbor's covers the source repair. We coordinate multi-policy documentation, providing each insurer with cause-and-origin reports. HOA master policies may also apply depending on where moisture originated in shared assemblies.`,
-    cta: `Call (703) 656-0108 for a Herndon mold assessment. We'll identify whether your property type has specific risk factors and provide a scope-appropriate estimate.`,
+    cta: `Call (877) 497-0007 for a Herndon mold assessment. We'll identify whether your property type has specific risk factors and provide a scope-appropriate estimate.`,
   },
   serviceAreaSection: {
     neighborhoods: [

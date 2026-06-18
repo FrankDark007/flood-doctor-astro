@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville commercial water damage restoration. Office parks, retail centers & HOA facilities along Route 28/I-66 corridor. 24/7 response. Call (703) 285-1103.`,
+    description: `Centreville commercial water damage restoration. Office parks, retail centers & HOA facilities along Route 28/I-66 corridor. 24/7 response. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial restoration team provides project management from first call thro
   processSteps: [
     {
       title: '24/7 Emergency Response',
-      description: `Call (703) 285-1103 any time—day, night, or weekend. Our commercial crew responds within 30 minutes to Centreville business locations along Route 28, Fair Lakes, and the I-66 corridor. We begin mitigation immediately to limit damage scope.`,
+      description: `Call (877) 497-0007 any time—day, night, or weekend. Our commercial crew responds within 30 minutes to Centreville business locations along Route 28, Fair Lakes, and the I-66 corridor. We begin mitigation immediately to limit damage scope.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -110,7 +110,7 @@ Our commercial restoration team provides project management from first call thro
       'Specialty areas—server rooms, medical suites, and food service areas require specialized protocols',
       'Multi-tenant coordination—separate documentation and scheduling for each affected tenant adds project management',
     ],
-    cta: `Call (703) 285-1103 for immediate commercial water damage response. We minimize your downtime and handle all insurance coordination.`,
+    cta: `Call (877) 497-0007 for immediate commercial water damage response. We minimize your downtime and handle all insurance coordination.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -161,6 +161,6 @@ Our commercial restoration team provides project management from first call thro
   ],
   finalCTA: {
     headline: 'Commercial Water Damage in Centreville?',
-    paragraph: `Every hour of business interruption costs money. Call (703) 285-1103 now for 24/7 commercial response. We minimize downtime, protect your assets, and handle every detail of the restoration and insurance process.`,
+    paragraph: `Every hour of business interruption costs money. Call (877) 497-0007 now for 24/7 commercial response. We minimize downtime, protect your assets, and handle every detail of the restoration and insurance process.`,
   },
 }

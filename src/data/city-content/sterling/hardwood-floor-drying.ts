@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hardwood Floor Drying in Sterling, VA | Flood Doctor`,
-    description: `Sterling hardwood floor drying specialists. Save water-damaged hardwood in Sterling Park, Cascades & Countryside homes. Prevent cupping and buckling. Call (703) 285-1111.`,
+    description: `Sterling hardwood floor drying specialists. Save water-damaged hardwood in Sterling Park, Cascades & Countryside homes. Prevent cupping and buckling. Call (877) 497-0007.`,
   },
   h1: `Hardwood Floor Drying in Sterling, Virginia`,
   introSection: {
@@ -82,7 +82,7 @@ Our IICRC-certified technicians assess the moisture content, identify the floori
       `Subfloor involvement—water that has reached the subfloor adds drying complexity`,
       `Refinishing needs—some floors require sanding and refinishing after drying to restore appearance`,
     ],
-    cta: `Call (703) 285-1111 within hours of discovering water on your hardwood floors. The faster we respond, the more likely your floors can be saved. Free assessment and insurance billing.`,
+    cta: `Call (877) 497-0007 within hours of discovering water on your hardwood floors. The faster we respond, the more likely your floors can be saved. Free assessment and insurance billing.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -102,12 +102,12 @@ Our IICRC-certified technicians assess the moisture content, identify the floori
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Emergency hardwood floor drying response within 2 hours throughout Sterling. For active water on floors, call immediately—every hour reduces salvage probability. Call (703) 285-1111.`,
+    responseTime: `Emergency hardwood floor drying response within 2 hours throughout Sterling. For active water on floors, call immediately—every hour reduces salvage probability. Call (877) 497-0007.`,
   },
   faqs: [
     {
       question: `Can my water-damaged hardwood floors really be saved?`,
-      answer: `In most cases, yes—if we respond quickly. Solid hardwood floors in Sterling Park homes are especially salvageable. Engineered floors have a shorter window but can often be saved with immediate response. Call (703) 285-1111 within hours of discovering water for the best outcome.`,
+      answer: `In most cases, yes—if we respond quickly. Solid hardwood floors in Sterling Park homes are especially salvageable. Engineered floors have a shorter window but can often be saved with immediate response. Call (877) 497-0007 within hours of discovering water for the best outcome.`,
     },
     {
       question: `My hardwood floors are cupping after water damage. Is that permanent?`,

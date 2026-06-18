@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Ashburn, VA | Flood Doctor',
-    description: `Ashburn's certified environmental testing for mold, VOC off-gassing, indoor air quality & hazardous materials. AIHA-accredited lab analysis for homes in Broadlands, Brambleton & One Loudoun. Call (703) 285-1100.`,
+    description: `Ashburn's certified environmental testing for mold, VOC off-gassing, indoor air quality & hazardous materials. AIHA-accredited lab analysis for homes in Broadlands, Brambleton & One Loudoun. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Ashburn, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'HVAC system evaluation including coil, drain pan, and ductwork sampling',
       'Warranty claim documentation requiring enhanced chain-of-custody and evidence protocols',
     ],
-    cta: `Call (703) 285-1100 for a consultation. We design testing protocols that address your Ashburn home\`s specific environmental concerns and builder warranty documentation needs.`,
+    cta: `Call (877) 497-0007 for a consultation. We design testing protocols that address your Ashburn home\`s specific environmental concerns and builder warranty documentation needs.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Stone Ridge',
       'Farmwell Hunt',
     ],
-    responseTime: `Same-day environmental testing deployment to all Ashburn communities. Expedited laboratory processing available for builder warranty claim timelines. Call (703) 285-1100.`,
+    responseTime: `Same-day environmental testing deployment to all Ashburn communities. Expedited laboratory processing available for builder warranty claim timelines. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Concerns in Your Ashburn Home?',
-    paragraph: `New construction environmental testing identifies hidden mold, quantifies VOC exposure, and documents construction defects with AIHA-accredited laboratory analysis. Chain-of-custody protocols support warranty claims and health investigation. Call (703) 285-1100 for a consultation.`,
+    paragraph: `New construction environmental testing identifies hidden mold, quantifies VOC exposure, and documents construction defects with AIHA-accredited laboratory analysis. Chain-of-custody protocols support warranty claims and health investigation. Call (877) 497-0007 for a consultation.`,
   },
 }

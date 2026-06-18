@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Herndon, VA | Flood Doctor`,
-    description: `Herndon's trusted restoration for schools, the Herndon Community Center, and public facilities. FCPS and Town of Herndon experienced. Call (703) 285-1106.`,
+    description: `Herndon's trusted restoration for schools, the Herndon Community Center, and public facilities. FCPS and Town of Herndon experienced. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Herndon, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our teams address these infrastructure realities with practical restoration and 
   processSteps: [
     {
       title: `Emergency Facility Response`,
-      description: `Call (703) 285-1106 for immediate school or municipal facility deployment. We coordinate with FCPS facilities management for schools or Town of Herndon public works for community buildings, activating appropriate emergency procurement procedures.`,
+      description: `Call (877) 497-0007 for immediate school or municipal facility deployment. We coordinate with FCPS facilities management for schools or Town of Herndon public works for community buildings, activating appropriate emergency procurement procedures.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -116,7 +116,7 @@ Our teams address these infrastructure realities with practical restoration and 
       `Academic and programming schedules—compressed timelines require additional crew deployment`,
       `Jurisdictional requirements—FCPS and Town of Herndon have distinct procurement and documentation standards`,
     ],
-    cta: `Call (703) 285-1106 for emergency school or community facility assessment. Practical restoration with prevention planning for Herndon public facilities.`,
+    cta: `Call (877) 497-0007 for emergency school or community facility assessment. Practical restoration with prevention planning for Herndon public facilities.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our teams address these infrastructure realities with practical restoration and 
   ],
   finalCTA: {
     headline: `Herndon School or Community Facility Emergency?`,
-    paragraph: `Students and community members depend on these facilities daily. Our crews respond within 45 minutes with practical restoration capability and the infrastructure assessment that prevents future emergencies. Call (703) 285-1106 immediately.`,
+    paragraph: `Students and community members depend on these facilities daily. Our crews respond within 45 minutes with practical restoration capability and the infrastructure assessment that prevents future emergencies. Call (877) 497-0007 immediately.`,
   },
 }

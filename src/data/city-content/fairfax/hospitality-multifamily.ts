@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's trusted restoration for apartments, condominiums, and hospitality properties. Multi-unit experts serving Burke Centre, Kings Park, and Fairfax City. Call (703) 285-1105.`,
+    description: `Fairfax's trusted restoration for apartments, condominiums, and hospitality properties. Multi-unit experts serving Burke Centre, Kings Park, and Fairfax City. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Fairfax, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our teams understand the specific failure modes of Fairfax-era multifamily const
   processSteps: [
     {
       title: `Multi-Unit Emergency Dispatch`,
-      description: `Call (703) 285-1105 for immediate multifamily response. We assess the scope beyond the initial unit—checking adjacent townhomes, units above and below in condominiums, and common areas that may have received water migration through shared walls and systems.`,
+      description: `Call (877) 497-0007 for immediate multifamily response. We assess the scope beyond the initial unit—checking adjacent townhomes, units above and below in condominiums, and common areas that may have received water migration through shared walls and systems.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our teams understand the specific failure modes of Fairfax-era multifamily const
       `Tenant displacement duration and temporary housing costs for rental properties`,
       `Multi-party insurance coordination for individual unit policies, HOA master coverage, and landlord or tenant claims`,
     ],
-    cta: `Call (703) 285-1105 for immediate multi-unit assessment. We coordinate with Fairfax HOA boards, property managers, and individual homeowners for streamlined restoration across all affected units.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We coordinate with Fairfax HOA boards, property managers, and individual homeowners for streamlined restoration across all affected units.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -168,6 +168,6 @@ Our teams understand the specific failure modes of Fairfax-era multifamily const
   ],
   finalCTA: {
     headline: `Multi-Unit Water Damage in Fairfax?`,
-    paragraph: `Shared walls mean shared damage—every hour allows water to spread to additional units. Our multi-unit response team arrives within 30 minutes with the equipment and HOA coordination expertise Fairfax townhome and condo communities need. Call (703) 285-1105 now.`,
+    paragraph: `Shared walls mean shared damage—every hour allows water to spread to additional units. Our multi-unit response team arrives within 30 minutes with the equipment and HOA coordination expertise Fairfax townhome and condo communities need. Call (877) 497-0007 now.`,
   },
 }

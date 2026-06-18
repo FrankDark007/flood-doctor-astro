@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying in Centreville, VA | Flood Doctor',
-    description: `Centreville crawl space drying and encapsulation experts. Moisture control, mold prevention & vapor barriers for Virginia Run & Centre Ridge homes. Call (703) 285-1103.`,
+    description: `Centreville crawl space drying and encapsulation experts. Moisture control, mold prevention & vapor barriers for Virginia Run & Centre Ridge homes. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying Services in Centreville, Virginia',
   introSection: {
@@ -114,7 +114,7 @@ Our crawl space approach addresses the complete system: dry the existing moistur
       'Current condition—standing water, saturated insulation, and structural damage affect the starting scope',
       'Encapsulation level—basic vapor barriers versus full encapsulation with dehumidification and monitoring',
     ],
-    cta: `Call (703) 285-1103 for a crawl space inspection. We assess conditions, explain your options, and provide a detailed proposal for both immediate drying and long-term moisture control.`,
+    cta: `Call (877) 497-0007 for a crawl space inspection. We assess conditions, explain your options, and provide a detailed proposal for both immediate drying and long-term moisture control.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -133,7 +133,7 @@ Our crawl space approach addresses the complete system: dry the existing moistur
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `Same-day crawl space inspections for all Centreville neighborhoods. For crawl space flooding emergencies, call (703) 285-1103 for priority response.`,
+    responseTime: `Same-day crawl space inspections for all Centreville neighborhoods. For crawl space flooding emergencies, call (877) 497-0007 for priority response.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ Our crawl space approach addresses the complete system: dry the existing moistur
   ],
   finalCTA: {
     headline: 'Crawl Space Problems in Your Centreville Home?',
-    paragraph: `Moisture in your crawl space affects your entire home—air quality, structural integrity, and energy efficiency. Call (703) 285-1103 for a professional inspection and a clear plan to resolve the problem permanently.`,
+    paragraph: `Moisture in your crawl space affects your entire home—air quality, structural integrity, and energy efficiency. Call (877) 497-0007 for a professional inspection and a clear plan to resolve the problem permanently.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Springfield, VA | Flood Doctor`,
-    description: `Springfield's trusted commercial fire and smoke restoration team. Emergency response for I-95 corridor businesses, strip malls, and military-adjacent commercial properties. Call (703) 285-1110.`,
+    description: `Springfield's trusted commercial fire and smoke restoration team. Emergency response for I-95 corridor businesses, strip malls, and military-adjacent commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Springfield, Virginia`,
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Sprinkler water damage—secondary water damage adds extraction and drying scope to fire restoration`,
       `Service urgency—military-community and essential businesses benefit from expedited restoration`,
     ],
-    cta: `Call (703) 285-1110 for immediate commercial fire emergency response in Springfield. Our teams deploy along the I-95 corridor for rapid response to West Springfield, Franconia, Kingstowne, and Springfield Town Center.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Springfield. Our teams deploy along the I-95 corridor for rapid response to West Springfield, Franconia, Kingstowne, and Springfield Town Center.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -155,6 +155,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Springfield?`,
-    paragraph: `Every day your Springfield business stays closed costs revenue and community trust. Our integrated fire restoration teams deliver practical efficiency—getting your most critical spaces operational first. Call (703) 285-1110 for immediate response.`,
+    paragraph: `Every day your Springfield business stays closed costs revenue and community trust. Our integrated fire restoration teams deliver practical efficiency—getting your most critical spaces operational first. Call (877) 497-0007 for immediate response.`,
   },
 }

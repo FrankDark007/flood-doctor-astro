@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Leesburg, VA | Flood Doctor`,
-    description: `Specialized water damage and mold restoration for Leesburg healthcare facilities. HIPAA-compliant, infection control protocols. Call (703) 285-1107.`,
+    description: `Specialized water damage and mold restoration for Leesburg healthcare facilities. HIPAA-compliant, infection control protocols. Call (877) 497-0007.`,
   },
   h1: `Leesburg Healthcare Facility Restoration`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Healthcare Response`,
-      description: `Call (703) 285-1107 for immediate healthcare facility response. Our crews arrive with infection control supplies, HIPAA-compliant procedures, and equipment sanitized for healthcare environments.`,
+      description: `Call (877) 497-0007 for immediate healthcare facility response. Our crews arrive with infection control supplies, HIPAA-compliant procedures, and equipment sanitized for healthcare environments.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Medical equipment protection and restoration`,
       `Regulatory documentation and clearance testing requirements`,
     ],
-    cta: `Call (703) 285-1107 for healthcare facility restoration consultation.`,
+    cta: `Call (877) 497-0007 for healthcare facility restoration consultation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,6 +126,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Healthcare Facility Damage in Leesburg? Call Specialists`,
-    paragraph: `Healthcare restoration requires expertise that general contractors cannot provide. Flood Doctor delivers ICRA-compliant, HIPAA-aware restoration for Leesburg healthcare facilities of every type. Call (703) 285-1107 for immediate response.`,
+    paragraph: `Healthcare restoration requires expertise that general contractors cannot provide. Flood Doctor delivers ICRA-compliant, HIPAA-aware restoration for Leesburg healthcare facilities of every type. Call (877) 497-0007 for immediate response.`,
   },
 }

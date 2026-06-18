@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church flood cleanup specialists. 30-min response for Seven Corners, Lake Barcroft & Falls Church City. Storm and natural flooding experts. Call (703) 656-0111.',
+    description: 'Falls Church flood cleanup specialists. 30-min response for Seven Corners, Lake Barcroft & Falls Church City. Storm and natural flooding experts. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Falls Church, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When floodwaters enter your Falls Church home—whether from summer storms, creek overflow, or groundwater saturation—you need cleanup that goes far beyond pumping water. Flood water carries contaminants: mud, bacteria, sewage, lawn chemicals, and debris that coat every surface it touches. Your Falls Church City bungalow, Seven Corners colonial, or Lake Barcroft waterfront home requires thorough cleaning, disinfection, and professional drying to be safe for your family again.
 
-Flood Doctor has handled flood cleanup throughout Falls Church since 2005. We've responded to major storm flooding in Baileys Crossroads when drainage systems overwhelmed. We've cleaned Lake Barcroft homes after lake levels rose into walkout basements. We've restored Falls Church City properties after flash flooding from sudden summer storms. This is different from burst pipe cleanup—flood water is contaminated water that requires biohazard protocols.`,
+Flood Doctor has handled flood cleanup throughout Falls Church for years. We've responded to major storm flooding in Baileys Crossroads when drainage systems overwhelmed. We've cleaned Lake Barcroft homes after lake levels rose into walkout basements. We've restored Falls Church City properties after flash flooding from sudden summer storms. This is different from burst pipe cleanup—flood water is contaminated water that requires biohazard protocols.`,
       `Falls Church faces flood risks that vary by neighborhood. Lake Barcroft waterfront properties are vulnerable to lake level fluctuations during heavy rain seasons. Low-lying areas in Baileys Crossroads and Seven Corners collect runoff when legacy storm drains can't handle intense rainfall. Even properties on higher ground can flood when groundwater saturation pushes water up through basement floors.
 
 Our IICRC-certified flood cleanup teams understand these differences. We bring commercial extraction equipment, antimicrobial treatments, and industrial drying capacity to every Falls Church flood emergency. We remove contaminated materials safely, treat affected surfaces properly, and dry your home thoroughly. We also handle flood insurance claims—documentation is critical for flood damage, and we provide what adjusters need.`,
@@ -21,7 +21,7 @@ Our IICRC-certified flood cleanup teams understand these differences. We bring c
   processSteps: [
     {
       title: 'Emergency Response & Safety Assessment',
-      description: 'When you call (703) 656-0111 about flooding, we dispatch immediately. On arrival, we assess safety—flood water often contains contaminants requiring protective equipment. We confirm electrical safety before entering standing water.',
+      description: 'When you call (877) 497-0007 about flooding, we dispatch immediately. On arrival, we assess safety—flood water often contains contaminants requiring protective equipment. We confirm electrical safety before entering standing water.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -119,7 +119,7 @@ Our IICRC-certified flood cleanup teams understand these differences. We bring c
       `Flood insurance status—separate flood policies typically cover natural flooding; homeowners policies often don't`,
       'Delay before cleanup—contamination worsens significantly if flood water remains more than 24-48 hours',
     ],
-    cta: 'Call (703) 656-0111 for immediate flood response. We provide free assessments and help you understand your insurance coverage options.',
+    cta: 'Call (877) 497-0007 for immediate flood response. We provide free assessments and help you understand your insurance coverage options.',
   },
   serviceAreaSection: {
     neighborhoods: [

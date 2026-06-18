@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Arlington, VA | Flood Doctor',
-    description: `Arlington commercial flood cleanup for high-rise offices, government buildings & mixed-use properties. 24/7 response to Rosslyn, Ballston & Crystal City. Call (703) 285-1102.`,
+    description: `Arlington commercial flood cleanup for high-rise offices, government buildings & mixed-use properties. 24/7 response to Rosslyn, Ballston & Crystal City. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Arlington, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams approach Arlington with equipment and strategies desi
   processSteps: [
     {
       title: 'Urban Emergency Mobilization',
-      description: `Call (703) 285-1102 for commercial flood dispatch. Our Arlington crews maintain staging positions along the Rosslyn-Ballston and Crystal City corridors with industrial extraction equipment pre-loaded for immediate high-rise deployment.`,
+      description: `Call (877) 497-0007 for commercial flood dispatch. Our Arlington crews maintain staging positions along the Rosslyn-Ballston and Crystal City corridors with industrial extraction equipment pre-loaded for immediate high-rise deployment.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -116,7 +116,7 @@ Our commercial flood teams approach Arlington with equipment and strategies desi
       'Tenant density and coordination—more affected tenants increases project management and documentation requirements',
       'Building access constraints—freight elevator scheduling, security requirements, and after-hours work affect crew efficiency and timeline',
     ],
-    cta: `Call (703) 285-1102 for emergency commercial flood response. Our Arlington project manager will assess building-wide impact, coordinate with your engineering team, and begin extraction while developing the full project scope.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. Our Arlington project manager will assess building-wide impact, coordinate with your engineering team, and begin extraction while developing the full project scope.`,
   },
   serviceAreaSection: {
     neighborhoods: [

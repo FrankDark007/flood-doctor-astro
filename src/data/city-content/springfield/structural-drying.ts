@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Springfield, VA | Flood Doctor',
-    description: `Springfield's structural drying experts. Fast response to West Springfield, Franconia & Kingstowne. Split-level & colonial specialists. Military family friendly. Call (703) 285-1110.`,
+    description: `Springfield's structural drying experts. Fast response to West Springfield, Franconia & Kingstowne. Split-level & colonial specialists. Military family friendly. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Springfield, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians assess material types before deploying equipment
   processSteps: [
     {
       title: 'Rapid Springfield Response',
-      description: `Call (703) 285-1110 and our crews arrive within 30 minutes. We reach West Springfield, Franconia, Kingstowne, Newington, and Rolling Valley from staging along the Springfield corridor — positioned near the Franconia-Springfield Metro for rapid deployment throughout the community.`,
+      description: `Call (877) 497-0007 and our crews arrive within 30 minutes. We reach West Springfield, Franconia, Kingstowne, Newington, and Rolling Valley from staging along the Springfield corridor — positioned near the Franconia-Springfield Metro for rapid deployment throughout the community.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC-certified technicians assess material types before deploying equipment
       'Split-level complexity — interconnected floor levels require multi-zone drying with cavity injection systems',
       'Water table conditions — Lake Accotink area properties may require extended drying with desiccant equipment for persistent hydrostatic moisture',
     ],
-    cta: `Call (703) 285-1110 for a free inspection. We assess your Springfield home, explain the drying plan, and provide straightforward estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for a free inspection. We assess your Springfield home, explain the drying plan, and provide straightforward estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -144,7 +144,7 @@ Our IICRC-certified technicians assess material types before deploying equipment
   faqs: [
     {
       question: 'How quickly can you respond to a flooded Springfield basement?',
-      answer: 'Within 30 minutes. We are positioned along the Springfield corridor for rapid response to West Springfield, Franconia, Kingstowne, and surrounding neighborhoods. Every minute of delay means more damage — call (703) 285-1110 immediately.',
+      answer: 'Within 30 minutes. We are positioned along the Springfield corridor for rapid response to West Springfield, Franconia, Kingstowne, and surrounding neighborhoods. Every minute of delay means more damage — call (877) 497-0007 immediately.',
     },
     {
       question: 'Can you dry a split-level without tearing out walls?',
@@ -173,6 +173,6 @@ Our IICRC-certified technicians assess material types before deploying equipment
   ],
   finalCTA: {
     headline: 'Water Damage in Your Springfield Home?',
-    paragraph: 'Springfield families deserve fast, thorough restoration that respects your schedule and budget. Our crews arrive within 30 minutes with equipment matched to your home construction era. Call (703) 285-1110 — one call handles everything from extraction to insurance.',
+    paragraph: 'Springfield families deserve fast, thorough restoration that respects your schedule and budget. Our crews arrive within 30 minutes with equipment matched to your home construction era. Call (877) 497-0007 — one call handles everything from extraction to insurance.',
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Tysons, VA | Flood Doctor',
-    description: `Tysons commercial flood cleanup. High-rise office towers, underground parking & mixed-use developments near Tysons Corner Center, Capital One HQ & The Boro. Call (703) 285-1100.`,
+    description: `Tysons commercial flood cleanup. High-rise office towers, underground parking & mixed-use developments near Tysons Corner Center, Capital One HQ & The Boro. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Tysons, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams deploy with the equipment and expertise calibrated fo
   processSteps: [
     {
       title: 'Rapid Urban Core Deployment',
-      description: `Call (703) 285-1100 for immediate flood response. Our Tysons crews maintain staging positions throughout the urban core with industrial extraction and high-rise deployment equipment for immediate mobilization to any Tysons commercial property.`,
+      description: `Call (877) 497-0007 for immediate flood response. Our Tysons crews maintain staging positions throughout the urban core with industrial extraction and high-rise deployment equipment for immediate mobilization to any Tysons commercial property.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -115,7 +115,7 @@ Our commercial flood teams deploy with the equipment and expertise calibrated fo
       'Building system complexity—modern mechanical system damage requires specialized assessment and repair beyond surface restoration',
       'Business interruption scale—aggregate revenue loss across dozens of tenants creates financial justification for accelerated restoration timelines',
     ],
-    cta: `Call (703) 285-1100 for immediate commercial flood response. Our Tysons team deploys with the urban-scale equipment and building system expertise this market demands.`,
+    cta: `Call (877) 497-0007 for immediate commercial flood response. Our Tysons team deploys with the urban-scale equipment and building system expertise this market demands.`,
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Alexandria, VA | Flood Doctor',
-    description: `Alexandria's contents restoration experts. Historic document recovery, antique furniture restoration & professional pack-out for Old Town, Del Ray & Belle Haven. Call (703) 285-1101.`,
+    description: `Alexandria's contents restoration experts. Historic document recovery, antique furniture restoration & professional pack-out for Old Town, Del Ray & Belle Haven. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Alexandria, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every item we handle is photographed, catalogued with condition notes, and assig
   processSteps: [
     {
       title: 'Emergency Triage for Time-Sensitive Items',
-      description: `Within 30 minutes of your call to (703) 285-1101, our team arrives to identify items requiring immediate stabilization. Water-soaked documents and photographs from your Old Town study are bagged for emergency freezing. Antique furniture is assessed for salvageability. Electronics are disconnected and documented for rapid corrosion treatment.`,
+      description: `Within 30 minutes of your call to (877) 497-0007, our team arrives to identify items requiring immediate stabilization. Water-soaked documents and photographs from your Old Town study are bagged for emergency freezing. Antique furniture is assessed for salvageability. Electronics are disconnected and documented for rapid corrosion treatment.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -111,7 +111,7 @@ Every item we handle is photographed, catalogued with condition notes, and assig
       'Specialty items — antiques, historical documents, rare books, and collections require individualized treatment plans',
       'Storage duration — longer structural restoration timelines extend climate-controlled storage requirements',
     ],
-    cta: `Call (703) 285-1101 for immediate contents assessment. We prioritize time-sensitive items within hours and provide detailed restoration estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We prioritize time-sensitive items within hours and provide detailed restoration estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -171,6 +171,6 @@ Every item we handle is photographed, catalogued with condition notes, and assig
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Alexandria Home?',
-    paragraph: 'Every hour of delay threatens documents, photographs, electronics, and antiques that may be irreplaceable. Our Alexandria contents team responds within 30 minutes to stabilize time-sensitive items and begins professional restoration that saves what matters most. Call (703) 285-1101 now.',
+    paragraph: 'Every hour of delay threatens documents, photographs, electronics, and antiques that may be irreplaceable. Our Alexandria contents team responds within 30 minutes to stabilize time-sensitive items and begins professional restoration that saves what matters most. Call (877) 497-0007 now.',
   },
 }

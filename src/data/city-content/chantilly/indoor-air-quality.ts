@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Chantilly, VA | Flood Doctor',
-    description: `Professional indoor air quality testing and improvement for Chantilly homes and businesses. Mold, VOC & particulate analysis. Dulles corridor specialists. Call (703) 285-1104.`,
+    description: `Professional indoor air quality testing and improvement for Chantilly homes and businesses. Mold, VOC & particulate analysis. Dulles corridor specialists. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Chantilly, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       `Report requirements—standard results versus expert witness-quality documentation`,
       `Follow-up testing—post-remediation verification adds additional sampling rounds`,
     ],
-    cta: `Call (703) 285-1104 for professional indoor air quality testing. Our environmental scientists provide the answers you need about your indoor environment.`,
+    cta: `Call (877) 497-0007 for professional indoor air quality testing. Our environmental scientists provide the answers you need about your indoor environment.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Concerned About Air Quality in Your Chantilly Property?',
-    paragraph: `Scientific IAQ testing replaces guesswork with quantitative answers. Our environmental scientists test, analyze, and recommend solutions for residential and commercial properties throughout Chantilly. Call (703) 285-1104 to schedule testing.`,
+    paragraph: `Scientific IAQ testing replaces guesswork with quantitative answers. Our environmental scientists test, analyze, and recommend solutions for residential and commercial properties throughout Chantilly. Call (877) 497-0007 to schedule testing.`,
   },
 }

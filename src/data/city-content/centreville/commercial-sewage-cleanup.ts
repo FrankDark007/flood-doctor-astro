@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Sewage Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville commercial sewage cleanup and biohazard restoration. 24/7 response for offices, retail & commercial properties. OSHA-compliant protocols. Call (703) 285-1103.`,
+    description: `Centreville commercial sewage cleanup and biohazard restoration. 24/7 response for offices, retail & commercial properties. OSHA-compliant protocols. Call (877) 497-0007.`,
   },
   h1: 'Commercial Sewage Cleanup in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial sewage teams are trained in OSHA compliance, health code requirem
   processSteps: [
     {
       title: 'Emergency Commercial Response',
-      description: `Call (703) 285-1103 for immediate response. We dispatch a commercial biohazard crew with full PPE, containment materials, and commercial-grade extraction equipment. Affected spaces are immediately isolated to prevent occupant exposure.`,
+      description: `Call (877) 497-0007 for immediate response. We dispatch a commercial biohazard crew with full PPE, containment materials, and commercial-grade extraction equipment. Affected spaces are immediately isolated to prevent occupant exposure.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -112,7 +112,7 @@ Our commercial sewage teams are trained in OSHA compliance, health code requirem
       'Regulatory requirements—food service and healthcare facilities may require additional compliance documentation',
       'Verification testing—ATP testing and air quality sampling provide documented proof of decontamination',
     ],
-    cta: `Call (703) 285-1103 for immediate commercial sewage response. We provide OSHA-compliant cleanup with the documentation your property requires.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage response. We provide OSHA-compliant cleanup with the documentation your property requires.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ Our commercial sewage teams are trained in OSHA compliance, health code requirem
       'Centre Ridge Marketplace',
       'Compton Village Commercial',
     ],
-    responseTime: `24/7 emergency response within 30 minutes for commercial sewage events. Biohazard situations require immediate professional response—call (703) 285-1103 now.`,
+    responseTime: `24/7 emergency response within 30 minutes for commercial sewage events. Biohazard situations require immediate professional response—call (877) 497-0007 now.`,
   },
   faqs: [
     {
@@ -162,6 +162,6 @@ Our commercial sewage teams are trained in OSHA compliance, health code requirem
   ],
   finalCTA: {
     headline: 'Commercial Sewage Emergency in Centreville?',
-    paragraph: `Protect your employees, customers, and business. Call (703) 285-1103 now for OSHA-compliant commercial sewage cleanup with full documentation for insurance and regulatory compliance.`,
+    paragraph: `Protect your employees, customers, and business. Call (877) 497-0007 now for OSHA-compliant commercial sewage cleanup with full documentation for insurance and regulatory compliance.`,
   },
 }

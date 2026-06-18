@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Reston, VA | Flood Doctor`,
-    description: `Reston's trusted commercial fire and smoke restoration team. Emergency response for Town Center offices, Lake Anne businesses, and South Lakes commercial properties. Call (703) 285-1109.`,
+    description: `Reston's trusted commercial fire and smoke restoration team. Emergency response for Town Center offices, Lake Anne businesses, and South Lakes commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Reston, Virginia`,
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       `Content restoration—tenant equipment, inventory, and furnishings require individual handling and valuation`,
       `Community compliance—Reston Association requirements may affect exterior restoration standards and scheduling`,
     ],
-    cta: `Call (703) 285-1109 for immediate commercial fire emergency response in Reston. Our teams reach Town Center, Lake Anne, South Lakes, and all Reston commercial areas with equipment adapted for the community's diverse building types.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Reston. Our teams reach Town Center, Lake Anne, South Lakes, and all Reston commercial areas with equipment adapted for the community's diverse building types.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -161,6 +161,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Reston?`,
-    paragraph: `From Town Center towers to Lake Anne plaza shops, our integrated fire restoration teams deliver emergency response adapted to Reston's diverse commercial community. Call (703) 285-1109 for immediate stabilization and a restoration plan built around your property type.`,
+    paragraph: `From Town Center towers to Lake Anne plaza shops, our integrated fire restoration teams deliver emergency response adapted to Reston's diverse commercial community. Call (877) 497-0007 for immediate stabilization and a restoration plan built around your property type.`,
   },
 }

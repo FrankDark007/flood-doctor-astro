@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's sewage cleanup and biohazard specialists. 30-min response to South Riding, Franklin Glen & Chantilly Highlands. Category 3 certified. Call (703) 285-1104.`,
+    description: `Chantilly's sewage cleanup and biohazard specialists. 30-min response to South Riding, Franklin Glen & Chantilly Highlands. Category 3 certified. Call (877) 497-0007.`,
   },
   h1: 'Sewage Cleanup Services in Chantilly, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Biohazard Response',
-      description: `Call (703) 285-1104 and our Category 3 certified crew deploys immediately with full PPE and containment equipment. We establish biohazard zones and prevent sewage from spreading to unaffected areas of your Chantilly home.`,
+      description: `Call (877) 497-0007 and our Category 3 certified crew deploys immediately with full PPE and containment equipment. We establish biohazard zones and prevent sewage from spreading to unaffected areas of your Chantilly home.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Testing and verification—post-remediation clearance testing confirms safe reoccupation`,
       `Municipal versus private cause—sewer overflow documentation may support liability claims`,
     ],
-    cta: `Call (703) 285-1104 for emergency sewage cleanup. Biohazard situations cannot wait—our Category 3 certified crews respond within 30 minutes.`,
+    cta: `Call (877) 497-0007 for emergency sewage cleanup. Biohazard situations cannot wait—our Category 3 certified crews respond within 30 minutes.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -135,7 +135,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `Is sewage backup in my Chantilly home dangerous?`,
-      answer: `Yes. Raw sewage contains bacteria, viruses, parasites, and other pathogens that cause serious illness. Do not attempt cleanup yourself. Keep family and pets away from affected areas and call (703) 285-1104 for professional biohazard response.`,
+      answer: `Yes. Raw sewage contains bacteria, viruses, parasites, and other pathogens that cause serious illness. Do not attempt cleanup yourself. Keep family and pets away from affected areas and call (877) 497-0007 for professional biohazard response.`,
     },
     {
       question: `Does homeowners insurance cover sewage backup?`,
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Sewage Emergency in Your Chantilly Home?',
-    paragraph: `Sewage contamination is a serious health hazard that worsens every hour. Do not attempt cleanup yourself. Our Category 3 certified biohazard crews respond to all Chantilly neighborhoods within 30 minutes. Call (703) 285-1104 now.`,
+    paragraph: `Sewage contamination is a serious health hazard that worsens every hour. Do not attempt cleanup yourself. Our Category 3 certified biohazard crews respond to all Chantilly neighborhoods within 30 minutes. Call (877) 497-0007 now.`,
   },
 }

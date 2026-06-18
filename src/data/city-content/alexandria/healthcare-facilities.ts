@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's HIPAA-compliant healthcare restoration specialists. Protecting medical facilities in Old Town, Del Ray, and Carlyle from water damage. Call (703) 285-1101.`,
+    description: `Alexandria's HIPAA-compliant healthcare restoration specialists. Protecting medical facilities in Old Town, Del Ray, and Carlyle from water damage. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Alexandria, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ These location-specific risks demand a restoration partner with deep Alexandria 
   processSteps: [
     {
       title: `Rapid Medical Facility Response`,
-      description: `Call (703) 285-1101 for immediate healthcare facility deployment. Our Alexandria crews arrive with ICRA containment materials and HEPA filtration, coordinating with your facility manager to establish access protocols and identify the highest-priority clinical areas for protection.`,
+      description: `Call (877) 497-0007 for immediate healthcare facility deployment. Our Alexandria crews arrive with ICRA containment materials and HEPA filtration, coordinating with your facility manager to establish access protocols and identify the highest-priority clinical areas for protection.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ These location-specific risks demand a restoration partner with deep Alexandria 
       `ICRA containment complexity and infection control measures for adjacent patient care areas`,
       `Regulatory documentation for Joint Commission compliance, HIPAA incident reporting, and historic preservation records`,
     ],
-    cta: `Call (703) 285-1101 for emergency healthcare facility assessment. We provide estimates addressing both medical compliance and Alexandria's historic preservation requirements.`,
+    cta: `Call (877) 497-0007 for emergency healthcare facility assessment. We provide estimates addressing both medical compliance and Alexandria's historic preservation requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ These location-specific risks demand a restoration partner with deep Alexandria 
   ],
   finalCTA: {
     headline: `Healthcare Facility Emergency in Alexandria?`,
-    paragraph: `Combined sewer risks and historic building complexity demand specialized healthcare restoration. Our HIPAA-compliant, ICRA-trained crews reach any Alexandria medical facility within 30 minutes with biohazard and preservation equipment. Call (703) 285-1101 now.`,
+    paragraph: `Combined sewer risks and historic building complexity demand specialized healthcare restoration. Our HIPAA-compliant, ICRA-trained crews reach any Alexandria medical facility within 30 minutes with biohazard and preservation equipment. Call (877) 497-0007 now.`,
   },
 }

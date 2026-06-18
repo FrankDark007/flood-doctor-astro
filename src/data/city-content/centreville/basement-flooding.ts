@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville basement flooding experts. Sump pump failure, clay soil flooding & finished basement restoration in Virginia Run & Centre Ridge. Call (703) 285-1103.`,
+    description: `Centreville basement flooding experts. Sump pump failure, clay soil flooding & finished basement restoration in Virginia Run & Centre Ridge. Call (877) 497-0007.`,
   },
   h1: 'Basement Flooding Cleanup in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Understanding the cause determines the cleanup approach. Clean water from a burs
   processSteps: [
     {
       title: 'Emergency Response',
-      description: `Call (703) 285-1103 and we arrive within 30 minutes with truck-mounted extraction equipment. If your basement is still taking on water, we identify and address the source while extraction begins simultaneously.`,
+      description: `Call (877) 497-0007 and we arrive within 30 minutes with truck-mounted extraction equipment. If your basement is still taking on water, we identify and address the source while extraction begins simultaneously.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -115,7 +115,7 @@ Understanding the cause determines the cleanup approach. Clean water from a burs
       'Finished materials affected—carpet, pad, drywall, and built-ins may need removal and replacement',
       'Contents damage—electronics, furniture, and personal items require inventory and separate restoration or replacement',
     ],
-    cta: `Call (703) 285-1103 for immediate basement flood response. We extract water, protect your home, and handle insurance—all in one call.`,
+    cta: `Call (877) 497-0007 for immediate basement flood response. We extract water, protect your home, and handle insurance—all in one call.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -140,7 +140,7 @@ Understanding the cause determines the cleanup approach. Clean water from a burs
   faqs: [
     {
       question: 'My sump pump failed and the basement is flooding. What do I do?',
-      answer: `Call (703) 285-1103 immediately. If safe, turn off electricity to the basement at the breaker panel. Do not wade into standing water if electrical outlets are submerged. We arrive within 30 minutes with extraction equipment.`,
+      answer: `Call (877) 497-0007 immediately. If safe, turn off electricity to the basement at the breaker panel. Do not wade into standing water if electrical outlets are submerged. We arrive within 30 minutes with extraction equipment.`,
     },
     {
       question: 'Can my finished basement be saved after flooding?',
@@ -174,6 +174,6 @@ Understanding the cause determines the cleanup approach. Clean water from a burs
   ],
   finalCTA: {
     headline: 'Basement Flooding in Centreville?',
-    paragraph: `Your finished basement represents a major investment in your home. Every minute water sits, more damage accumulates. Call (703) 285-1103 now—we arrive in 30 minutes with the extraction capacity to handle even the largest Centreville basements.`,
+    paragraph: `Your finished basement represents a major investment in your home. Every minute water sits, more damage accumulates. Call (877) 497-0007 now—we arrive in 30 minutes with the extraction capacity to handle even the largest Centreville basements.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Tysons, VA | Flood Doctor',
-    description: `Tysons' certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for commercial buildings & high-rise condos near Tysons Corner Center & The Boro. Call (703) 285-1100.`,
+    description: `Tysons' certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for commercial buildings & high-rise condos near Tysons Corner Center & The Boro. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Tysons, Virginia',
   introSection: {
@@ -113,7 +113,7 @@ export const content: CityServiceContent = {
       'HVAC system complexity and the number of air handling systems requiring evaluation',
       'Rush processing for tenant improvement projects with active construction schedules',
     ],
-    cta: `Call (703) 285-1100 for a consultation. We provide commercial-grade environmental testing scaled to your Tysons property and regulatory requirements.`,
+    cta: `Call (877) 497-0007 for a consultation. We provide commercial-grade environmental testing scaled to your Tysons property and regulatory requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Spring Hill',
       'Jones Branch',
     ],
-    responseTime: `Same-day environmental testing deployment to all Tysons properties. Expedited laboratory processing available for commercial construction schedules. Call (703) 285-1100.`,
+    responseTime: `Same-day environmental testing deployment to all Tysons properties. Expedited laboratory processing available for commercial construction schedules. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Testing for Your Tysons Property?',
-    paragraph: `Commercial-grade environmental assessment with AIHA-accredited laboratory analysis and full regulatory compliance documentation. From tenant improvements to pre-demolition surveys to high-rise condo evaluations. Call (703) 285-1100 for a consultation.`,
+    paragraph: `Commercial-grade environmental assessment with AIHA-accredited laboratory analysis and full regulatory compliance documentation. From tenant improvements to pre-demolition surveys to high-rise condo evaluations. Call (877) 497-0007 for a consultation.`,
   },
 }

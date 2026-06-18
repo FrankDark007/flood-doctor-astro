@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Tysons, VA | Flood Doctor`,
-    description: `Tysons' trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for Class A offices, mixed-use towers, and commercial properties near Tysons Corner Center and The Boro. Call (703) 285-1100.`,
+    description: `Tysons' trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for Class A offices, mixed-use towers, and commercial properties near Tysons Corner Center and The Boro. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Tysons, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `High-Rise Emergency Deployment`,
-      description: `Call (703) 285-1100 and our commercial hazmat crew deploys to your Tysons property. We coordinate with building management on loading dock access, freight elevator priority, and security protocols. Equipment staging begins while our safety officer assesses contamination scope across affected floors and parking levels.`,
+      description: `Call (877) 497-0007 and our commercial hazmat crew deploys to your Tysons property. We coordinate with building management on loading dock access, freight elevator priority, and security protocols. Equipment staging begins while our safety officer assesses contamination scope across affected floors and parking levels.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Construction defect documentation—warranty claim support requires additional investigation and photography during remediation`,
       `Building system contamination—elevator pits, mechanical rooms, and HVAC involvement increase project scope`,
     ],
-    cta: `Call (703) 285-1100 for immediate commercial sewage emergency response at your Tysons property. Our industrial hazmat crews are equipped for Class A office towers, mixed-use developments, and underground parking structures.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response at your Tysons property. Our industrial hazmat crews are equipped for Class A office towers, mixed-use developments, and underground parking structures.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -156,6 +156,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Tysons?`,
-    paragraph: `Sewage contamination in Tysons' high-value commercial properties demands industrial-scale response with institutional-grade documentation. Our hazmat crews are engineered for Class A towers, mixed-use developments, and underground parking structures. Call (703) 285-1100 for immediate deployment.`,
+    paragraph: `Sewage contamination in Tysons' high-value commercial properties demands industrial-scale response with institutional-grade documentation. Our hazmat crews are engineered for Class A towers, mixed-use developments, and underground parking structures. Call (877) 497-0007 for immediate deployment.`,
   },
 }

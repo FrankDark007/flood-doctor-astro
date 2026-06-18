@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Centreville, VA | Flood Doctor',
-    description: `Centreville environmental testing services. Mold, asbestos, lead paint & air quality testing for homes and commercial properties. Call (703) 285-1103.`,
+    description: `Centreville environmental testing services. Mold, asbestos, lead paint & air quality testing for homes and commercial properties. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing Services in Centreville, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ Our environmental testing protocols follow EPA guidelines, OSHA standards, and i
       'Laboratory analysis—different analytical methods have different costs and turnaround times',
       'Report requirements—standard reports versus detailed reports for legal, regulatory, or real estate purposes',
     ],
-    cta: `Call (703) 285-1103 for an environmental testing consultation. We recommend the right testing scope for your specific needs and budget.`,
+    cta: `Call (877) 497-0007 for an environmental testing consultation. We recommend the right testing scope for your specific needs and budget.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -169,6 +169,6 @@ Our environmental testing protocols follow EPA guidelines, OSHA standards, and i
   ],
   finalCTA: {
     headline: 'Need Environmental Testing in Centreville?',
-    paragraph: `Professional environmental testing provides the answers you need—for health concerns, renovation planning, real estate transactions, or regulatory compliance. Call (703) 285-1103 for objective, laboratory-verified results.`,
+    paragraph: `Professional environmental testing provides the answers you need—for health concerns, renovation planning, real estate transactions, or regulatory compliance. Call (877) 497-0007 for objective, laboratory-verified results.`,
   },
 }

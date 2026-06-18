@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Indoor Air Quality Testing in Sterling, VA | Flood Doctor`,
-    description: `Sterling indoor air quality testing and remediation. Mold spore analysis, VOC testing for Sterling Park, Cascades & Countryside homes. Scientific assessment. Call (703) 285-1111.`,
+    description: `Sterling indoor air quality testing and remediation. Mold spore analysis, VOC testing for Sterling Park, Cascades & Countryside homes. Scientific assessment. Call (877) 497-0007.`,
   },
   h1: `Indoor Air Quality Testing & Remediation in Sterling, Virginia`,
   introSection: {
@@ -77,7 +77,7 @@ Our IICRC-certified assessors develop sampling strategies specific to your Sterl
       `Report format—standard results summary versus detailed professional interpretation with recommendations`,
       `Follow-up testing—post-remediation clearance sampling to verify corrective action effectiveness`,
     ],
-    cta: `Call (703) 285-1111 for an air quality consultation. We design testing scope matched to your specific concern—no unnecessary samples, no missing data, just the information needed to make informed decisions about your Sterling home.`,
+    cta: `Call (877) 497-0007 for an air quality consultation. We design testing scope matched to your specific concern—no unnecessary samples, no missing data, just the information needed to make informed decisions about your Sterling home.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our IICRC-certified assessors develop sampling strategies specific to your Sterl
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Air quality assessment scheduling within 24-48 hours throughout Sterling. Emergency assessment for acute contamination events available same-day. Call (703) 285-1111.`,
+    responseTime: `Air quality assessment scheduling within 24-48 hours throughout Sterling. Emergency assessment for acute contamination events available same-day. Call (877) 497-0007.`,
   },
   faqs: [
     {

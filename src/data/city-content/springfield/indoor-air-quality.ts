@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Springfield, VA | Flood Doctor',
-    description: `Springfield indoor air quality testing. Mold spore sampling for split-levels, colonials & military housing near Fort Belvoir. AIHA-accredited analysis. Call (703) 285-1110.`,
+    description: `Springfield indoor air quality testing. Mold spore sampling for split-levels, colonials & military housing near Fort Belvoir. AIHA-accredited analysis. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Springfield, Virginia',
   introSection: {
@@ -105,7 +105,7 @@ export const content: CityServiceContent = {
       'Expedited laboratory processing for military family PCS timeline requirements',
       'Post-remediation clearance verification sampling',
     ],
-    cta: `Call (703) 285-1110 for a consultation. We recommend testing scope appropriate to your concerns and provide clear pricing before starting.`,
+    cta: `Call (877) 497-0007 for a consultation. We recommend testing scope appropriate to your concerns and provide clear pricing before starting.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -123,7 +123,7 @@ export const content: CityServiceContent = {
       'Cardinal Forest',
       'Ravensworth',
     ],
-    responseTime: `Same-day IAQ assessment throughout Springfield. Expedited service available for military families on PCS timelines. Emergency sampling within 2 hours. Call (703) 285-1110.`,
+    responseTime: `Same-day IAQ assessment throughout Springfield. Expedited service available for military families on PCS timelines. Emergency sampling within 2 hours. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Breathing Concerns in Your Springfield Home?',
-    paragraph: `Laboratory-grade IAQ testing identifies exactly what contaminants are in your air. Protect your family with scientific answers and targeted remediation guidance. Call (703) 285-1110 for a professional assessment.`,
+    paragraph: `Laboratory-grade IAQ testing identifies exactly what contaminants are in your air. Protect your family with scientific answers and targeted remediation guidance. Call (877) 497-0007 for a professional assessment.`,
   },
 }

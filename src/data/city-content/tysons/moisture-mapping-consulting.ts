@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Tysons, VA | Flood Doctor',
-    description: `Tysons moisture mapping for commercial and residential properties. Infrared thermography for high-rises, office buildings & mixed-use at The Boro and Tysons Corner. Call (703) 285-1100.`,
+    description: `Tysons moisture mapping for commercial and residential properties. Infrared thermography for high-rises, office buildings & mixed-use at The Boro and Tysons Corner. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Tysons, Virginia',
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       'Access coordination with building management including after-hours or phased assessment scheduling',
       'Litigation support requirements including chain-of-custody documentation and expert witness availability',
     ],
-    cta: `Call (703) 285-1100 for a commercial consultation. We coordinate with your property management team to develop an assessment scope and proposal appropriate to your building.`,
+    cta: `Call (877) 497-0007 for a commercial consultation. We coordinate with your property management team to develop an assessment scope and proposal appropriate to your building.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       'Westpark',
       'International Drive Corridor',
     ],
-    responseTime: `Same-day commercial moisture assessment in Tysons. Emergency response for active water intrusion in occupied buildings within 90 minutes. Call (703) 285-1100.`,
+    responseTime: `Same-day commercial moisture assessment in Tysons. Emergency response for active water intrusion in occupied buildings within 90 minutes. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Assessment for Your Tysons Property?',
-    paragraph: `From residential towers to commercial office buildings, our scientific moisture mapping provides the data property managers and building owners need. Call (703) 285-1100 for a professional consultation.`,
+    paragraph: `From residential towers to commercial office buildings, our scientific moisture mapping provides the data property managers and building owners need. Call (877) 497-0007 for a professional consultation.`,
   },
 }

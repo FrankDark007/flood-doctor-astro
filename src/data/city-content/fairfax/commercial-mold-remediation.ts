@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's trusted commercial mold remediation team. CIH-coordinated protocols for offices, strip malls, and medical facilities near Burke, GMU, and Fairfax Corner. Call (703) 285-1105.`,
+    description: `Fairfax's trusted commercial mold remediation team. CIH-coordinated protocols for offices, strip malls, and medical facilities near Burke, GMU, and Fairfax Corner. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Fairfax, Virginia`,
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `HVAC system involvement—shared rooftop unit contamination requires specialized ductwork cleaning`,
       `Moisture source correction—resolving roof leaks, plumbing failures, or slab moisture issues to prevent recurrence`,
     ],
-    cta: `Call (703) 285-1105 for a confidential commercial mold assessment at your Fairfax property. We coordinate CIH engagement, provide straightforward estimates, and help establish insurance coverage for mold linked to water damage events.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment at your Fairfax property. We coordinate CIH engagement, provide straightforward estimates, and help establish insurance coverage for mold linked to water damage events.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -158,6 +158,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold in Your Fairfax Commercial Property?`,
-    paragraph: `Mold threatens tenant health, customer confidence, and property value. Our CIH-coordinated teams deliver thorough remediation with independent clearance verification that Fairfax property managers and business owners can trust. Call (703) 285-1105 for a confidential assessment.`,
+    paragraph: `Mold threatens tenant health, customer confidence, and property value. Our CIH-coordinated teams deliver thorough remediation with independent clearance verification that Fairfax property managers and business owners can trust. Call (877) 497-0007 for a confidential assessment.`,
   },
 }

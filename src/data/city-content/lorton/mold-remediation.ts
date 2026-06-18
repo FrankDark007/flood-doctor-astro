@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Lorton, VA | Flood Doctor',
-    description: 'Professional mold remediation in Lorton. Mason Neck crawlspace specialists. Serving waterfront & new construction. 30-min response. Call (703) 656-0113.',
+    description: 'Professional mold remediation in Lorton. Mason Neck crawlspace specialists. Serving waterfront & new construction. 30-min response. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation & Removal in Lorton, Virginia',
   introSection: {
@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       `Mold growth in Lorton reflects our community's geography—high humidity near Mason Neck's waterfront, crawlspace moisture in wooded properties throughout Gunston, basement dampness from South County's clay soil, and new construction issues in Laurel Hill where builder-grade waterproofing fails. When mold appears in your home, you need certified remediation experts who understand Lorton's specific moisture challenges. Flood Doctor provides IICRC-certified mold remediation throughout Lorton's diverse neighborhoods. We've removed mold from Mason Neck crawlspaces with persistent humidity, remediated basement mold in South County properties after flooding, and addressed new construction mold issues in Laurel Hill homes still under warranty.`,
       `Lorton's mold problems aren't identical to other Northern Virginia communities. Proximity to the Occoquan River and Potomac creates ambient humidity that promotes mold growth. Clay soil throughout South Fairfax County creates foundation moisture. Rapid Laurel Hill development sometimes means inadequate ventilation in attics and crawlspaces. Our IICRC-certified mold remediators don't just clean visible mold—we identify and address the moisture sources that allowed growth, preventing recurrence.`,
     ],
-    localContext: `Lorton's mold issues range from waterfront humidity on Mason Neck to new construction ventilation problems in Laurel Hill to chronic basement moisture throughout South County. We've remediated mold in every Lorton neighborhood since 2005.`,
+    localContext: `Lorton's mold issues range from waterfront humidity on Mason Neck to new construction ventilation problems in Laurel Hill to chronic basement moisture throughout South County. We've remediated mold in every Lorton neighborhood for years.`,
   },
   processSteps: [
     {
@@ -121,7 +121,7 @@ export const content: CityServiceContent = {
       'Moisture source complexity—simple leaks differ from foundation seepage requiring waterproofing',
       'Air quality testing—verification testing adds cost but ensures safe remediation completion',
     ],
-    cta: `Call (703) 656-0113 for a free mold inspection and detailed estimate. We'll assess your Lorton property, identify moisture sources, and explain remediation requirements and insurance coverage.`,
+    cta: `Call (877) 497-0007 for a free mold inspection and detailed estimate. We'll assess your Lorton property, identify moisture sources, and explain remediation requirements and insurance coverage.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -141,7 +141,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: 'How do I know if I have mold in my Lorton home?',
-      answer: `Common signs include visible growth (black, green, or white patches), musty odors, recent water damage or flooding, chronic humidity, or allergy symptoms that improve away from home. If you suspect mold, call (703) 656-0113 for a professional inspection—we'll identify mold presence, types, and extent.`,
+      answer: `Common signs include visible growth (black, green, or white patches), musty odors, recent water damage or flooding, chronic humidity, or allergy symptoms that improve away from home. If you suspect mold, call (877) 497-0007 for a professional inspection—we'll identify mold presence, types, and extent.`,
     },
     {
       question: `Is mold dangerous to my family's health?`,

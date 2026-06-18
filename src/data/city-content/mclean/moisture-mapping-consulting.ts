@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in McLean, VA | Flood Doctor',
-    description: `McLean's premier moisture mapping and consulting service. Infrared thermography and psychrometric analysis for estate homes in Langley, Chesterbrook & The Reserve. Call (703) 285-1108.`,
+    description: `McLean's premier moisture mapping and consulting service. Infrared thermography and psychrometric analysis for estate homes in Langley, Chesterbrook & The Reserve. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in McLean, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Documentation requirements for insurance claims, warranty disputes, or litigation support',
       'Ongoing monitoring frequency and duration during active drying operations',
     ],
-    cta: `Call (703) 285-1108 for a confidential consultation. We provide detailed assessment proposals tailored to your property and situation.`,
+    cta: `Call (877) 497-0007 for a confidential consultation. We provide detailed assessment proposals tailored to your property and situation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'McLean Gardens',
       'Chain Bridge Forest',
     ],
-    responseTime: `Same-day moisture assessment deployment to all McLean neighborhoods. Emergency thermal imaging available within 2 hours for active water intrusion events. Call (703) 285-1108.`,
+    responseTime: `Same-day moisture assessment deployment to all McLean neighborhoods. Emergency thermal imaging available within 2 hours for active water intrusion events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -169,6 +169,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Need Moisture Diagnostics for Your McLean Property?',
-    paragraph: `Accurate moisture mapping protects your estate investment. Our IICRC-certified consultants deploy scientific instrumentation calibrated for high-value residential properties. Call (703) 285-1108 for a confidential assessment consultation.`,
+    paragraph: `Accurate moisture mapping protects your estate investment. Our IICRC-certified consultants deploy scientific instrumentation calibrated for high-value residential properties. Call (877) 497-0007 for a confidential assessment consultation.`,
   },
 }

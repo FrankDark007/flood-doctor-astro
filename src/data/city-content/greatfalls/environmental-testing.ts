@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Great Falls, VA | Flood Doctor',
-    description: `Great Falls' certified environmental testing for asbestos, lead, mold, well water & hazardous materials. AIHA-accredited lab analysis for estates in Great Falls Village, Forestville & Seneca Estates. Call (703) 285-1100.`,
+    description: `Great Falls' certified environmental testing for asbestos, lead, mold, well water & hazardous materials. AIHA-accredited lab analysis for estates in Great Falls Village, Forestville & Seneca Estates. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Great Falls, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Equestrian facility air quality and structural contamination assessment',
       'Estate-scale mold assessment spanning multiple HVAC zones and building types',
     ],
-    cta: `Call (703) 285-1100 for a confidential consultation. We design comprehensive testing protocols scaled to your Great Falls estate and specific environmental concerns.`,
+    cta: `Call (877) 497-0007 for a confidential consultation. We design comprehensive testing protocols scaled to your Great Falls estate and specific environmental concerns.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Utterback Store',
       'Peacock Station',
     ],
-    responseTime: `Same-day environmental testing deployment to all Great Falls properties. Multi-day scheduling available for comprehensive estate assessments. Call (703) 285-1100.`,
+    responseTime: `Same-day environmental testing deployment to all Great Falls properties. Multi-day scheduling available for comprehensive estate assessments. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Comprehensive Environmental Assessment for Your Great Falls Estate?',
-    paragraph: `Estate-scale environmental testing covering hazardous materials, well water quality, specialty room air quality, and equestrian facility assessment. AIHA-accredited laboratory analysis with confidential reporting. Call (703) 285-1100 for a consultation.`,
+    paragraph: `Estate-scale environmental testing covering hazardous materials, well water quality, specialty room air quality, and equestrian facility assessment. AIHA-accredited laboratory analysis with confidential reporting. Call (877) 497-0007 for a consultation.`,
   },
 }

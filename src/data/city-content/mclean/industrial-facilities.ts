@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in McLean, VA | Flood Doctor`,
-    description: `McLean's industrial and commercial facility restoration specialists. OSHA-compliant water damage restoration for warehouses and light industrial properties. Call (703) 285-1108.`,
+    description: `McLean's industrial and commercial facility restoration specialists. OSHA-compliant water damage restoration for warehouses and light industrial properties. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in McLean, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our industrial restoration approach addresses both the physical damage and the o
   processSteps: [
     {
       title: `Emergency Response and Security Coordination`,
-      description: `Call (703) 285-1108 for immediate industrial response. For controlled-access facilities near Langley, we coordinate with your security team before entry. Our crews arrive with industrial extraction equipment and anti-corrosion treatment materials to protect high-value equipment from the moment we gain access.`,
+      description: `Call (877) 497-0007 for immediate industrial response. For controlled-access facilities near Langley, we coordinate with your security team before entry. Our crews arrive with industrial extraction equipment and anti-corrosion treatment materials to protect high-value equipment from the moment we gain access.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -120,7 +120,7 @@ Our industrial restoration approach addresses both the physical damage and the o
       `Environmental compliance—hazardous material management, waste disposal, and regulatory reporting add project scope`,
       `Business interruption urgency—expedited timelines for production-critical operations require additional crew deployment`,
     ],
-    cta: `Call (703) 285-1108 for emergency commercial or industrial facility assessment. We provide detailed estimates supporting both commercial insurance and government contract documentation requirements.`,
+    cta: `Call (877) 497-0007 for emergency commercial or industrial facility assessment. We provide detailed estimates supporting both commercial insurance and government contract documentation requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ Our industrial restoration approach addresses both the physical damage and the o
   ],
   finalCTA: {
     headline: `Industrial or Commercial Emergency in McLean?`,
-    paragraph: `Production downtime and equipment damage compound by the hour. Our HAZWOPER-certified, security-cleared crews respond to McLean commercial and industrial facilities within 45 minutes with industrial extraction equipment and anti-corrosion treatment. Call (703) 285-1108 now.`,
+    paragraph: `Production downtime and equipment damage compound by the hour. Our HAZWOPER-certified, security-cleared crews respond to McLean commercial and industrial facilities within 45 minutes with industrial extraction equipment and anti-corrosion treatment. Call (877) 497-0007 now.`,
   },
 }

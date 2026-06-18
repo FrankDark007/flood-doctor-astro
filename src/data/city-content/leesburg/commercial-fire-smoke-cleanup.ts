@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Commercial fire and smoke damage restoration for Leesburg businesses. Historic buildings, retail centers, restaurants, offices. Call (703) 285-1107.`,
+    description: `Commercial fire and smoke damage restoration for Leesburg businesses. Historic buildings, retail centers, restaurants, offices. Call (877) 497-0007.`,
   },
   h1: `Leesburg Commercial Fire & Smoke Cleanup`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Securing & Assessment`,
-      description: `Call (703) 285-1107 for immediate response. We board up fire-damaged openings, extract fire suppression water, and conduct a comprehensive damage assessment to develop the restoration strategy.`,
+      description: `Call (877) 497-0007 for immediate response. We board up fire-damaged openings, extract fire suppression water, and conduct a comprehensive damage assessment to develop the restoration strategy.`,
       timeframe: `Within 2 hours`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Inventory and equipment damage and restoration needs`,
       `Business type and regulatory requirements for reopening`,
     ],
-    cta: `Call (703) 285-1107 for emergency commercial fire and smoke response.`,
+    cta: `Call (877) 497-0007 for emergency commercial fire and smoke response.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,6 +126,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Commercial Fire Damage in Leesburg? Call Flood Doctor`,
-    paragraph: `Every day your Leesburg business is closed costs revenue and risks losing customers. Flood Doctor provides the rapid, comprehensive commercial fire and smoke restoration that gets you back in business. Call (703) 285-1107 for immediate response.`,
+    paragraph: `Every day your Leesburg business is closed costs revenue and risks losing customers. Flood Doctor provides the rapid, comprehensive commercial fire and smoke restoration that gets you back in business. Call (877) 497-0007 for immediate response.`,
   },
 }

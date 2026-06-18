@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Lorton, VA | Flood Doctor`,
-    description: `Lorton's trusted commercial fire and smoke restoration team. Emergency response for Laurel Hill businesses, Occoquan waterfront properties, and South County commercial facilities. Call (703) 285-1100.`,
+    description: `Lorton's trusted commercial fire and smoke restoration team. Emergency response for Laurel Hill businesses, Occoquan waterfront properties, and South County commercial facilities. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Lorton, Virginia`,
   introSection: {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Water damage from sprinkler activation—secondary water damage adds scope to fire restoration projects`,
       `Business interruption urgency—newer Lorton businesses may require expedited restoration to survive extended closures`,
     ],
-    cta: `Call (703) 285-1100 for immediate commercial fire emergency response in Lorton. Our teams adapt from Occoquan waterfront restoration to Laurel Hill commercial recovery and South County industrial cleanup.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Lorton. Our teams adapt from Occoquan waterfront restoration to Laurel Hill commercial recovery and South County industrial cleanup.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,6 +159,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Lorton?`,
-    paragraph: `From Occoquan waterfront shops to Laurel Hill retail centers, our integrated fire restoration teams deploy equipment and expertise matched to your facility type. Call (703) 285-1100 for immediate emergency response and facility-appropriate restoration.`,
+    paragraph: `From Occoquan waterfront shops to Laurel Hill retail centers, our integrated fire restoration teams deploy equipment and expertise matched to your facility type. Call (877) 497-0007 for immediate emergency response and facility-appropriate restoration.`,
   },
 }

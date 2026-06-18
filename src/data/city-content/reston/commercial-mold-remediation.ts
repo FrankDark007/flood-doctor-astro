@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Reston, VA | Flood Doctor`,
-    description: `Reston's trusted commercial mold remediation team. CIH-coordinated protocols for Town Center offices, Lake Anne businesses, and South Lakes commercial properties. Call (703) 285-1109.`,
+    description: `Reston's trusted commercial mold remediation team. CIH-coordinated protocols for Town Center offices, Lake Anne businesses, and South Lakes commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Reston, Virginia`,
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `Humidity management—lake-adjacent and wooded properties may need supplemental dehumidification systems`,
       `Community compliance—Reston Association guidelines may affect scheduling and methods`,
     ],
-    cta: `Call (703) 285-1109 for a confidential commercial mold assessment at your Reston property. We coordinate CIH engagement and provide remediation plans tailored to your building type and community requirements.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment at your Reston property. We coordinate CIH engagement and provide remediation plans tailored to your building type and community requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold in Your Reston Commercial Property?`,
-    paragraph: `From Town Center's modern offices to Lake Anne's founding-era commercial spaces, our CIH-coordinated teams deliver clearance-verified mold remediation with Reston community awareness. Call (703) 285-1109 for a confidential assessment.`,
+    paragraph: `From Town Center's modern offices to Lake Anne's founding-era commercial spaces, our CIH-coordinated teams deliver clearance-verified mold remediation with Reston community awareness. Call (877) 497-0007 for a confidential assessment.`,
   },
 }

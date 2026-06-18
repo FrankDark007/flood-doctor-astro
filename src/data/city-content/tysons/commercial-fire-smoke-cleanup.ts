@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Tysons, VA | Flood Doctor`,
-    description: `Tysons' trusted commercial fire and smoke restoration specialists. Emergency response for Class A towers, mixed-use developments, and retail centers near Tysons Corner Center and The Boro. Call (703) 285-1100.`,
+    description: `Tysons' trusted commercial fire and smoke restoration specialists. Emergency response for Class A towers, mixed-use developments, and retail centers near Tysons Corner Center and The Boro. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Tysons, Virginia`,
   introSection: {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Content and equipment restoration—thousands of workstations, server rooms, and tenant improvements require individual attention`,
       `Insurance claim complexity—large-loss documentation, forensic accounting support, and multi-party claim coordination`,
     ],
-    cta: `Call (703) 285-1100 for immediate commercial fire emergency response at your Tysons property. Our enterprise-scale restoration teams are equipped for Class A towers, mixed-use developments, and large-loss commercial events.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response at your Tysons property. Our enterprise-scale restoration teams are equipped for Class A towers, mixed-use developments, and large-loss commercial events.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Tysons?`,
-    paragraph: `Enterprise-scale fire events demand enterprise-scale restoration. Our multi-discipline teams handle building-wide HVAC decontamination, multi-floor smoke removal, and Class A reconstruction under unified project management. Call (703) 285-1100 for immediate deployment.`,
+    paragraph: `Enterprise-scale fire events demand enterprise-scale restoration. Our multi-discipline teams handle building-wide HVAC decontamination, multi-floor smoke removal, and Class A reconstruction under unified project management. Call (877) 497-0007 for immediate deployment.`,
   },
 }

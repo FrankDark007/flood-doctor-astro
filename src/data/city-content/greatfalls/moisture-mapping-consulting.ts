@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Great Falls, VA | Flood Doctor',
-    description: `Great Falls moisture mapping for ultra-luxury estates. Infrared thermography for wine cellars, equestrian facilities & custom homes in Forestville, Seneca Estates & Riverbend. Call (703) 285-1100.`,
+    description: `Great Falls moisture mapping for ultra-luxury estates. Infrared thermography for wine cellars, equestrian facilities & custom homes in Forestville, Seneca Estates & Riverbend. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Great Falls, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Multi-day foundation monitoring for Potomac-adjacent properties with hydrostatic conditions',
       'Documentation scope for high-value insurance claims or litigation support',
     ],
-    cta: `Call (703) 285-1100 for a confidential consultation. We provide estate-appropriate proposals with the discretion Great Falls property owners expect.`,
+    cta: `Call (877) 497-0007 for a confidential consultation. We provide estate-appropriate proposals with the discretion Great Falls property owners expect.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Leigh Mill',
       'Peacock Station',
     ],
-    responseTime: `Same-day estate moisture assessment throughout Great Falls. Emergency deployment within 2 hours for active water intrusion in occupied estates. Call (703) 285-1100.`,
+    responseTime: `Same-day estate moisture assessment throughout Great Falls. Emergency deployment within 2 hours for active water intrusion in occupied estates. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Assessment for Your Great Falls Estate?',
-    paragraph: `Your estate deserves moisture diagnostics calibrated for its complexity and value. Our IICRC-certified consultants provide scientific assessment with the discretion and expertise Great Falls properties demand. Call (703) 285-1100 for a confidential consultation.`,
+    paragraph: `Your estate deserves moisture diagnostics calibrated for its complexity and value. Our IICRC-certified consultants provide scientific assessment with the discretion and expertise Great Falls properties demand. Call (877) 497-0007 for a confidential consultation.`,
   },
 }

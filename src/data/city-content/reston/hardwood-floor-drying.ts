@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Reston, VA | Save Your Floors | Flood Doctor',
-    description: `Reston hardwood floor drying specialists. Saving floors in South Lakes, Lake Anne & Hunters Woods. Townhome and single-family expertise. RA compliant. Call (703) 285-1109.`,
+    description: `Reston hardwood floor drying specialists. Saving floors in South Lakes, Lake Anne & Hunters Woods. Townhome and single-family expertise. RA compliant. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Reston, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Community-Coordinated Response',
-      description: `When you call (703) 285-1109, we dispatch to your Reston home within 30 minutes. For townhome clusters and garden condos, we coordinate with adjacent owners and HOAs for access as needed. Our assessment identifies both the hardwood condition and whether the water source involves shared building elements.`,
+      description: `When you call (877) 497-0007, we dispatch to your Reston home within 30 minutes. For townhome clusters and garden condos, we coordinate with adjacent owners and HOAs for access as needed. Our assessment identifies both the hardwood condition and whether the water source involves shared building elements.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Below-floor moisture conditions from lake proximity or crawl space humidity',
       'Multi-unit coordination requirements affecting access scheduling and treatment logistics',
     ],
-    cta: `Call (703) 285-1109 the moment water reaches your Reston hardwood. Whether your townhome cluster or lakeside single-family is affected, we deploy fast with community-appropriate equipment and coordination.`,
+    cta: `Call (877) 497-0007 the moment water reaches your Reston hardwood. Whether your townhome cluster or lakeside single-family is affected, we deploy fast with community-appropriate equipment and coordination.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Reston Hardwood Floor Water Damage? Call Immediately.',
-    paragraph: `Townhome cluster or lakeside single-family, your Reston hardwood deserves specialized drying—not demolition. Call (703) 285-1109 for immediate response with community-appropriate equipment and coordination.`,
+    paragraph: `Townhome cluster or lakeside single-family, your Reston hardwood deserves specialized drying—not demolition. Call (877) 497-0007 for immediate response with community-appropriate equipment and coordination.`,
   },
 }

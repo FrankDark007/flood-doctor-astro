@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Falls Church, VA | Flood Doctor',
-    description: `Falls Church odor elimination for historic homes, Lake Barcroft properties & apartments. Permanent mold, sewage & smoke treatment. Call (703) 285-1100.`,
+    description: `Falls Church odor elimination for historic homes, Lake Barcroft properties & apartments. Permanent mold, sewage & smoke treatment. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Falls Church, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians deploy hydroxyl generators for safe occupied-space treatment, th
   processSteps: [
     {
       title: 'Property-Type Assessment',
-      description: `Call (703) 285-1100 and we evaluate your Falls Church property. Historic homes near the Farmers Market receive plaster-compatible investigation. Lake Barcroft properties get water table-aware assessment. Apartments receive building-system evaluation tracing shared HVAC and plumbing connections.`,
+      description: `Call (877) 497-0007 and we evaluate your Falls Church property. Historic homes near the Farmers Market receive plaster-compatible investigation. Lake Barcroft properties get water table-aware assessment. Apartments receive building-system evaluation tracing shared HVAC and plumbing connections.`,
       timeframe: 'Initial visit',
     },
     {
@@ -108,7 +108,7 @@ Our technicians deploy hydroxyl generators for safe occupied-space treatment, th
       'Building system involvement — apartment HVAC and plumbing system treatment extends scope beyond individual unit boundaries',
       'Material sensitivity — historic plaster and vintage finishes require compatible agents and preservation-aware methods',
     ],
-    cta: `Call (703) 285-1100 for a property-appropriate odor assessment. We match our approach to your Falls Church home type and provide clear estimates.`,
+    cta: `Call (877) 497-0007 for a property-appropriate odor assessment. We match our approach to your Falls Church home type and provide clear estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,6 +159,6 @@ Our technicians deploy hydroxyl generators for safe occupied-space treatment, th
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Falls Church Property?',
-    paragraph: 'From historic bungalow musty basements to Lake Barcroft waterfront dampness to apartment building shared-system contamination, our Falls Church team eliminates odors permanently with property-appropriate expertise. Call (703) 285-1100.',
+    paragraph: 'From historic bungalow musty basements to Lake Barcroft waterfront dampness to apartment building shared-system contamination, our Falls Church team eliminates odors permanently with property-appropriate expertise. Call (877) 497-0007.',
   },
 }

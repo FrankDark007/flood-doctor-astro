@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Reston, VA | Flood Doctor',
-    description: `Reston's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in South Lakes, Lake Anne, Hunters Woods & North Point. Call (703) 285-1109.`,
+    description: `Reston's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in South Lakes, Lake Anne, Hunters Woods & North Point. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Reston, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Crawlspace environmental assessment for wooded-lot properties',
       'Reston Association and HOA compliance documentation requirements',
     ],
-    cta: `Call (703) 285-1109 for a consultation. We design testing protocols matched to your Reston property type and community compliance requirements.`,
+    cta: `Call (877) 497-0007 for a consultation. We design testing protocols matched to your Reston property type and community compliance requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Fox Mill',
       'Cameron Glen',
     ],
-    responseTime: `Same-day environmental testing deployment to all Reston neighborhoods and cluster communities. Expedited laboratory processing available for renovation and real estate timelines. Call (703) 285-1109.`,
+    responseTime: `Same-day environmental testing deployment to all Reston neighborhoods and cluster communities. Expedited laboratory processing available for renovation and real estate timelines. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Concerns in Your Reston Property?',
-    paragraph: `Certified environmental testing for Reston\`s diverse housing—townhomes, garden condos, single-family homes, and lake-area properties. AIHA-accredited laboratory analysis with community-compliant documentation. Call (703) 285-1109 for a consultation.`,
+    paragraph: `Certified environmental testing for Reston\`s diverse housing—townhomes, garden condos, single-family homes, and lake-area properties. AIHA-accredited laboratory analysis with community-compliant documentation. Call (877) 497-0007 for a consultation.`,
   },
 }

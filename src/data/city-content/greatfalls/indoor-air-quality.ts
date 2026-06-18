@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Great Falls, VA | Flood Doctor',
-    description: `Great Falls indoor air quality testing for ultra-luxury estates. Mold sampling, VOC analysis & collection-environment assessment in Forestville, Seneca Estates & Riverbend. Call (703) 285-1100.`,
+    description: `Great Falls indoor air quality testing for ultra-luxury estates. Mold sampling, VOC analysis & collection-environment assessment in Forestville, Seneca Estates & Riverbend. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Great Falls, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Multi-structure assessment spanning main residence and auxiliary buildings',
       'Report detail level for high-value insurance claims and potential litigation',
     ],
-    cta: `Call (703) 285-1100 for a confidential consultation. We design assessment protocols appropriate to your estate and provide detailed proposals with the discretion you expect.`,
+    cta: `Call (877) 497-0007 for a confidential consultation. We design assessment protocols appropriate to your estate and provide detailed proposals with the discretion you expect.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'River Creek',
       'Leigh Mill',
     ],
-    responseTime: `Same-day estate IAQ assessment throughout Great Falls. Emergency deployment within 2 hours for suspected toxic contamination. Call (703) 285-1100.`,
+    responseTime: `Same-day estate IAQ assessment throughout Great Falls. Emergency deployment within 2 hours for suspected toxic contamination. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -163,6 +163,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Air Quality Assessment for Your Great Falls Estate?',
-    paragraph: `Your estate deserves IAQ testing calibrated for its complexity—multi-zone analysis, collection environment evaluation, and premium material sensitivity. Call (703) 285-1100 for a confidential consultation.`,
+    paragraph: `Your estate deserves IAQ testing calibrated for its complexity—multi-zone analysis, collection environment evaluation, and premium material sensitivity. Call (877) 497-0007 for a confidential consultation.`,
   },
 }

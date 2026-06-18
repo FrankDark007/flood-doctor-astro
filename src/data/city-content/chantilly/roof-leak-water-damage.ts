@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Repair in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's roof leak water damage experts. Emergency tarping and interior restoration. Serving South Riding, Chantilly Highlands & Westfields. Call (703) 285-1104.`,
+    description: `Chantilly's roof leak water damage experts. Emergency tarping and interior restoration. Serving South Riding, Chantilly Highlands & Westfields. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Repair in Chantilly, Virginia',
   introSection: {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Ceiling and wall restoration—matching existing textures and finishes in Chantilly's newer homes`,
       `Roof repair scope—storm damage versus installation defects affect claim coverage`,
     ],
-    cta: `Call (703) 285-1104 for emergency roof leak response. We stop active leaks with emergency tarping and begin interior restoration immediately.`,
+    cta: `Call (877) 497-0007 for emergency roof leak response. We stop active leaks with emergency tarping and begin interior restoration immediately.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `I have a ceiling stain but no active drip—should I still call?`,
-      answer: `Yes. Ceiling stains indicate water has already penetrated structural elements and insulation. The leak source may still be admitting water that you cannot see. Call (703) 285-1104 for an inspection—hidden moisture causes mold and structural damage even without visible dripping.`,
+      answer: `Yes. Ceiling stains indicate water has already penetrated structural elements and insulation. The leak source may still be admitting water that you cannot see. Call (877) 497-0007 for an inspection—hidden moisture causes mold and structural damage even without visible dripping.`,
     },
     {
       question: `Will my insurance cover roof leak interior damage?`,
@@ -133,6 +133,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Roof Leak Causing Damage in Your Chantilly Home?',
-    paragraph: `Active roof leaks cause hidden damage that multiplies by the hour. Our emergency tarping stops water intrusion and our restoration team dries and repairs water-damaged interiors. Call (703) 285-1104 for 30-minute response.`,
+    paragraph: `Active roof leaks cause hidden damage that multiplies by the hour. Our emergency tarping stops water intrusion and our restoration team dries and repairs water-damaged interiors. Call (877) 497-0007 for 30-minute response.`,
   },
 }

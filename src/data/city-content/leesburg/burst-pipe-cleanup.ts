@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Burst Pipe Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Emergency burst pipe cleanup for Leesburg homes. Specialists in historic plumbing, Lansdowne estates, and winter pipe freeze damage. Call (703) 285-1107.`,
+    description: `Emergency burst pipe cleanup for Leesburg homes. Specialists in historic plumbing, Lansdowne estates, and winter pipe freeze damage. Call (877) 497-0007.`,
   },
   h1: `Leesburg Burst Pipe Cleanup`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Call & Water Shutoff Guidance`,
-      description: `Call (703) 285-1107 immediately. Our dispatchers guide you through shutting off your water supply while crews are en route to your Leesburg property.`,
+      description: `Call (877) 497-0007 immediately. Our dispatchers guide you through shutting off your water supply while crews are en route to your Leesburg property.`,
       timeframe: `Immediate`,
     },
     {
@@ -85,7 +85,7 @@ export const content: CityServiceContent = {
       `Need for content moving, cleaning, or disposal`,
       `Insurance deductible and coverage terms`,
     ],
-    cta: `Call (703) 285-1107 for immediate burst pipe cleanup and a free assessment.`,
+    cta: `Call (877) 497-0007 for immediate burst pipe cleanup and a free assessment.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `What should I do immediately when a pipe bursts in my Leesburg home?`,
-      answer: `Shut off your main water supply immediately — it's usually near the front of the house or in the basement. Then call (703) 285-1107 for emergency response. Move valuables away from standing water if safe to do so.`,
+      answer: `Shut off your main water supply immediately — it's usually near the front of the house or in the basement. Then call (877) 497-0007 for emergency response. Move valuables away from standing water if safe to do so.`,
     },
     {
       question: `How do you handle burst pipes in historic Leesburg homes?`,
@@ -140,6 +140,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Burst Pipe in Leesburg? Every Minute Counts`,
-    paragraph: `A burst pipe can release hundreds of gallons per hour into your home. Whether you are in the Leesburg Historic District or Village at Leesburg, Flood Doctor provides the rapid response and expert cleanup your property needs. Call (703) 285-1107 now.`,
+    paragraph: `A burst pipe can release hundreds of gallons per hour into your home. Whether you are in the Leesburg Historic District or Village at Leesburg, Flood Doctor provides the rapid response and expert cleanup your property needs. Call (877) 497-0007 now.`,
   },
 }

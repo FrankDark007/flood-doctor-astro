@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville large loss restoration for commercial properties, HOA communities & multi-unit buildings. Project management & insurance coordination. Call (703) 285-1103.`,
+    description: `Centreville large loss restoration for commercial properties, HOA communities & multi-unit buildings. Project management & insurance coordination. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration Services in Centreville, Virginia',
   introSection: {
@@ -108,7 +108,7 @@ Our large loss team provides a dedicated project manager as single point of cont
       'Project duration—large losses may span weeks or months of active restoration work',
       'Displacement costs—temporary housing and personal property management for displaced occupants add to the overall project',
     ],
-    cta: `Call (703) 285-1103 for large loss response. We bring the project management, equipment capacity, and multi-party coordination that complex restoration events demand.`,
+    cta: `Call (877) 497-0007 for large loss response. We bring the project management, equipment capacity, and multi-party coordination that complex restoration events demand.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,6 +159,6 @@ Our large loss team provides a dedicated project manager as single point of cont
   ],
   finalCTA: {
     headline: 'Large Loss Event in Centreville?',
-    paragraph: `Complex events require coordinated response. Call (703) 285-1103 for dedicated project management, scaled equipment capacity, and the multi-party coordination that large loss restoration demands.`,
+    paragraph: `Complex events require coordinated response. Call (877) 497-0007 for dedicated project management, scaled equipment capacity, and the multi-party coordination that large loss restoration demands.`,
   },
 }

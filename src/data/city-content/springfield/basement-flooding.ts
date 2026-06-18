@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Springfield, VA | Flood Doctor',
-    description: 'Springfield basement flooding experts. 30-min response for split-level lower levels, finished basements & family rooms. West Springfield, Kingstowne, Franconia. Call (703) 656-0110.',
+    description: 'Springfield basement flooding experts. 30-min response for split-level lower levels, finished basements & family rooms. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in Springfield, Virginia',
   introSection: {
@@ -75,7 +75,7 @@ This is the defining reality of basement flooding in Springfield. The split-leve
       'Foundation condition — active intrusion through deteriorated concrete may require concurrent waterproofing repairs',
       'Finished space complexity — a furnished family room with built-ins and wall-to-wall carpet involves more labor and reconstruction than unfinished space',
     ],
-    cta: `Call (703) 656-0110 for a free on-site assessment. We'll map the full vertical extent of water migration, identify the water category, screen for hazardous materials, and give you an itemized scope before any work begins.`,
+    cta: `Call (877) 497-0007 for a free on-site assessment. We'll map the full vertical extent of water migration, identify the water category, screen for hazardous materials, and give you an itemized scope before any work begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -96,7 +96,7 @@ This is the defining reality of basement flooding in Springfield. The split-leve
   faqs: [
     {
       question: 'Water is on my lowest level but also wicking up the stairwell carpet — how far will it spread?',
-      answer: `In a Springfield split-level with continuous carpet, moisture wicks upward as long as there's an unbroken path of absorbent material — we've seen it reach mid-level landings and beyond. Nylon carpet with rebond padding wicks faster than olefin on felt. Assume any carpeted surface connected to the flooded level is compromised until moisture readings prove otherwise. Call (703) 656-0110 immediately — the sooner we extract water from stairwell treads, the less vertical migration occurs.`,
+      answer: `In a Springfield split-level with continuous carpet, moisture wicks upward as long as there's an unbroken path of absorbent material — we've seen it reach mid-level landings and beyond. Nylon carpet with rebond padding wicks faster than olefin on felt. Assume any carpeted surface connected to the flooded level is compromised until moisture readings prove otherwise. Call (877) 497-0007 immediately — the sooner we extract water from stairwell treads, the less vertical migration occurs.`,
     },
     {
       question: 'My split-level has asbestos floor tiles in the basement — can you still do restoration?',
@@ -108,7 +108,7 @@ This is the defining reality of basement flooding in Springfield. The split-leve
     },
     {
       question: `We're military and PCSing in 6 weeks — can restoration be completed in time?`,
-      answer: 'We handle this regularly with Fort Belvoir families. Standard timelines are 4–7 days for drying plus 1–3 weeks for reconstruction. A six-week window is workable for most events. We work backward from your departure date, coordinate directly with your insurance carrier, and can run extraction and reconstruction crews simultaneously on different levels if needed. Call (703) 656-0110 and tell us your PCS date.',
+      answer: 'We handle this regularly with Fort Belvoir families. Standard timelines are 4–7 days for drying plus 1–3 weeks for reconstruction. A six-week window is workable for most events. We work backward from your departure date, coordinate directly with your insurance carrier, and can run extraction and reconstruction crews simultaneously on different levels if needed. Call (877) 497-0007 and tell us your PCS date.',
     },
     {
       question: 'My home has a partial crawlspace under one section — does that need attention too?',

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Arlington, VA | Flood Doctor`,
-    description: `Arlington's expert restoration for high-rise apartments, hotels, and condominiums. Multi-unit specialists in Rosslyn, Crystal City, and Ballston. Call (703) 285-1102.`,
+    description: `Arlington's expert restoration for high-rise apartments, hotels, and condominiums. Multi-unit specialists in Rosslyn, Crystal City, and Ballston. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Arlington, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our high-rise restoration protocols address the three-dimensional nature of thes
   processSteps: [
     {
       title: `High-Rise Emergency Mobilization`,
-      description: `Call (703) 285-1102 to deploy our multi-unit response team. We coordinate with building management for freight elevator access and security clearance while en route, ensuring equipment staging begins immediately upon arrival at your Arlington property.`,
+      description: `Call (877) 497-0007 to deploy our multi-unit response team. We coordinate with building management for freight elevator access and security clearance while en route, ensuring equipment staging begins immediately upon arrival at your Arlington property.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -124,7 +124,7 @@ Our high-rise restoration protocols address the three-dimensional nature of thes
       `Common area and amenity restoration scope affecting overall building operations`,
       `Multi-policy documentation requirements for building master policies, individual unit coverage, and tenant insurance`,
     ],
-    cta: `Call (703) 285-1102 for immediate multi-unit assessment. Our high-rise specialists coordinate with property management and building systems teams for comprehensive Arlington property restoration.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. Our high-rise specialists coordinate with property management and building systems teams for comprehensive Arlington property restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -177,6 +177,6 @@ Our high-rise restoration protocols address the three-dimensional nature of thes
   ],
   finalCTA: {
     headline: `Multi-Unit Water Emergency in Arlington?`,
-    paragraph: `Cascading water damage in high-rise buildings worsens every hour. Our multi-unit response team reaches any Arlington property within 30 minutes with the equipment and expertise to stop vertical migration and begin simultaneous restoration across all affected units. Call (703) 285-1102 immediately.`,
+    paragraph: `Cascading water damage in high-rise buildings worsens every hour. Our multi-unit response team reaches any Arlington property within 30 minutes with the equipment and expertise to stop vertical migration and begin simultaneous restoration across all affected units. Call (877) 497-0007 immediately.`,
   },
 }

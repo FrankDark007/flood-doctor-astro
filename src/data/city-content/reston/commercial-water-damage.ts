@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Reston, VA | Flood Doctor',
-    description: `Reston commercial water damage restoration. Office towers, Town Center properties & planned community commercial spaces. HOA-experienced crews. Call (703) 285-1109.`,
+    description: `Reston commercial water damage restoration. Office towers, Town Center properties & planned community commercial spaces. HOA-experienced crews. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Reston, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams bring the technical range to handle all of 
   processSteps: [
     {
       title: 'Rapid Reston Dispatch',
-      description: `Call (703) 285-1109 for immediate commercial response. Our Reston crews are positioned near Town Center, the Dulles Toll Road corridor, and South Lakes for rapid deployment to commercial properties throughout the community.`,
+      description: `Call (877) 497-0007 for immediate commercial response. Our Reston crews are positioned near Town Center, the Dulles Toll Road corridor, and South Lakes for rapid deployment to commercial properties throughout the community.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -116,7 +116,7 @@ Our IICRC-certified commercial teams bring the technical range to handle all of 
       'Reston Association requirements—compliance with community standards may affect scheduling, methods, and exterior restoration specifications',
       'Tenant count and coordination—multi-tenant buildings require individual scope documentation and insurance claim management for each affected business',
     ],
-    cta: `Call (703) 285-1109 for a free commercial assessment. Our Reston project manager will evaluate your specific property type and deliver a detailed scope for your insurance carrier.`,
+    cta: `Call (877) 497-0007 for a free commercial assessment. Our Reston project manager will evaluate your specific property type and deliver a detailed scope for your insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [

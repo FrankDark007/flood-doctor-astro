@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in McLean, VA | Flood Doctor',
-    description: `McLean roof leak water damage specialists. Protecting estate homes in Langley, Chesterbrook & The Reserve. Emergency tarping, attic drying & ceiling restoration. Call (703) 285-1108.`,
+    description: `McLean roof leak water damage specialists. Protecting estate homes in Langley, Chesterbrook & The Reserve. Emergency tarping, attic drying & ceiling restoration. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in McLean, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Estate Response',
-      description: `Call (703) 285-1108 and we respond to your McLean estate within 30 minutes. Our first priority is stopping active water intrusion with emergency tarping while assessing the interior damage path from attic to living space. For estates in Langley and along Georgetown Pike, we coordinate arrival through gated access.`,
+      description: `Call (877) 497-0007 and we respond to your McLean estate within 30 minutes. Our first priority is stopping active water intrusion with emergency tarping while assessing the interior damage path from attic to living space. For estates in Langley and along Georgetown Pike, we coordinate arrival through gated access.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       'Duration of the leak before detection—longer leaks create more extensive hidden damage',
       'Content protection and collection stabilization needs',
     ],
-    cta: `Call (703) 285-1108 at the first sign of a roof leak in your McLean estate. Early response protects the high-value interiors beneath your roof while limiting the scope—and cost—of restoration.`,
+    cta: `Call (877) 497-0007 at the first sign of a roof leak in your McLean estate. Early response protects the high-value interiors beneath your roof while limiting the scope—and cost—of restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Roof Leak in Your McLean Estate? Stop the Damage Now.',
-    paragraph: `Every hour of delay means more hidden damage to the finishes, collections, and structures beneath your roof. Call (703) 285-1108 for immediate tarping and comprehensive interior protection.`,
+    paragraph: `Every hour of delay means more hidden damage to the finishes, collections, and structures beneath your roof. Call (877) 497-0007 for immediate tarping and comprehensive interior protection.`,
   },
 }

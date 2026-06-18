@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for Old Town restaurants, Carlyle offices, and historic commercial districts. Call (703) 285-1101.`,
+    description: `Alexandria's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for Old Town restaurants, Carlyle offices, and historic commercial districts. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Alexandria, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Dispatch to Alexandria Commercial Districts`,
-      description: `Call (703) 285-1101 and our hazmat crew deploys to your Alexandria commercial property immediately. We navigate Old Town parking constraints, Carlyle loading dock access, and Del Ray street-level challenges while establishing containment barriers to prevent contamination spread to adjacent tenant spaces or public areas.`,
+      description: `Call (877) 497-0007 and our hazmat crew deploys to your Alexandria commercial property immediately. We navigate Old Town parking constraints, Carlyle loading dock access, and Del Ray street-level challenges while establishing containment barriers to prevent contamination spread to adjacent tenant spaces or public areas.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `Historic preservation requirements—BAR-district properties may require specialized material treatment and documentation`,
       `Business interruption urgency—tourism-dependent and high-revenue Alexandria businesses may require expedited service`,
     ],
-    cta: `Call (703) 285-1101 for immediate commercial sewage emergency response in Alexandria. We respond to Old Town, Carlyle, Del Ray, and all Alexandria commercial districts with hazmat-equipped crews prepared for both historic and modern building remediation.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Alexandria. We respond to Old Town, Carlyle, Del Ray, and all Alexandria commercial districts with hazmat-equipped crews prepared for both historic and modern building remediation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Alexandria?`,
-    paragraph: `Whether a combined sewer overflow has flooded your Old Town restaurant or a lateral failure has contaminated your Carlyle office space, our OSHA-compliant hazmat crews are ready for immediate deployment. Call (703) 285-1101 for biohazard containment, professional remediation, and complete compliance documentation.`,
+    paragraph: `Whether a combined sewer overflow has flooded your Old Town restaurant or a lateral failure has contaminated your Carlyle office space, our OSHA-compliant hazmat crews are ready for immediate deployment. Call (877) 497-0007 for biohazard containment, professional remediation, and complete compliance documentation.`,
   },
 }

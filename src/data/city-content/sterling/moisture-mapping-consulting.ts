@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Moisture Mapping & Consulting in Sterling, VA | Flood Doctor`,
-    description: `Sterling moisture mapping specialists. Infrared thermography for 1970s-80s Sterling Park homes and newer Cascades construction. Insurance and legal documentation. Call (703) 285-1111.`,
+    description: `Sterling moisture mapping specialists. Infrared thermography for 1970s-80s Sterling Park homes and newer Cascades construction. Insurance and legal documentation. Call (877) 497-0007.`,
   },
   h1: `Moisture Mapping & Consulting in Sterling, Virginia`,
   introSection: {
@@ -111,7 +111,7 @@ Our IICRC S500/S520-compliant documentation has supported insurance claims, HOA 
       `Shared wall assessment—townhome investigations requiring directional moisture analysis`,
       `Report format—standard insurance documentation versus expert witness-quality reporting`,
     ],
-    cta: `Call (703) 285-1111 for a moisture assessment consultation. We explain the scope needed for your specific Sterling situation—whether insurance claim, HOA dispute, or baseline documentation.`,
+    cta: `Call (877) 497-0007 for a moisture assessment consultation. We explain the scope needed for your specific Sterling situation—whether insurance claim, HOA dispute, or baseline documentation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,7 +131,7 @@ Our IICRC S500/S520-compliant documentation has supported insurance claims, HOA 
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Same-day moisture assessment throughout Sterling. Emergency thermal imaging within 2 hours for active water intrusion events. Call (703) 285-1111.`,
+    responseTime: `Same-day moisture assessment throughout Sterling. Emergency thermal imaging within 2 hours for active water intrusion events. Call (877) 497-0007.`,
   },
   faqs: [
     {

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Chantilly, VA | Flood Doctor',
-    description: `Professional contents cleaning and pack-out for Chantilly homes. Water, fire & mold damage restoration of belongings. Serving South Riding & Chantilly Highlands. Call (703) 285-1104.`,
+    description: `Professional contents cleaning and pack-out for Chantilly homes. Water, fire & mold damage restoration of belongings. Serving South Riding & Chantilly Highlands. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out in Chantilly, Virginia',
   introSection: {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Storage duration—longer structural restoration timelines increase climate-controlled storage costs`,
       `Specialty items—antiques, artwork, and high-value items may require specialized restoration`,
     ],
-    cta: `Call (703) 285-1104 to discuss contents protection during your restoration. We provide detailed inventories and work directly with insurance to cover restoration costs.`,
+    cta: `Call (877) 497-0007 to discuss contents protection during your restoration. We provide detailed inventories and work directly with insurance to cover restoration costs.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Need Contents Protection During Restoration?',
-    paragraph: `Your belongings deserve professional care during your Chantilly home restoration. Our contents team inventories, packs, cleans, and returns your items with full documentation. Call (703) 285-1104 to protect your possessions.`,
+    paragraph: `Your belongings deserve professional care during your Chantilly home restoration. Our contents team inventories, packs, cleans, and returns your items with full documentation. Call (877) 497-0007 to protect your possessions.`,
   },
 }

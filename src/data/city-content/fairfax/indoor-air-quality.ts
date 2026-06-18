@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Fairfax, VA | Flood Doctor',
-    description: `Fairfax indoor air quality testing. Mold spore sampling, HVAC contamination assessment & post-remediation clearance for homes in Burke, Kings Park & Mantua. Call (703) 285-1105.`,
+    description: `Fairfax indoor air quality testing. Mold spore sampling, HVAC contamination assessment & post-remediation clearance for homes in Burke, Kings Park & Mantua. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Fairfax, Virginia',
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Laboratory analysis types—standard mold identification versus expanded panels including bacteria or VOC speciation',
       'Post-remediation clearance testing verifying successful mold removal before reconstruction',
     ],
-    cta: `Call (703) 285-1105 for a consultation. We explain your testing options, provide clear pricing, and help you choose the assessment scope that answers your air quality questions.`,
+    cta: `Call (877) 497-0007 for a consultation. We explain your testing options, provide clear pricing, and help you choose the assessment scope that answers your air quality questions.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Fair Oaks',
       'Robinson Secondary Area',
     ],
-    responseTime: `Same-day IAQ assessment throughout Fairfax. Emergency sampling available within 2 hours for visible mold or acute health symptom situations. Call (703) 285-1105.`,
+    responseTime: `Same-day IAQ assessment throughout Fairfax. Emergency sampling available within 2 hours for visible mold or acute health symptom situations. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -159,6 +159,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Concerned About Air Quality in Your Fairfax Home?',
-    paragraph: `Your family deserves clear answers about what they breathe. Our AIHA-accredited laboratory analysis identifies specific contaminants and provides actionable remediation guidance. Call (703) 285-1105 for a professional IAQ assessment.`,
+    paragraph: `Your family deserves clear answers about what they breathe. Our AIHA-accredited laboratory analysis identifies specific contaminants and provides actionable remediation guidance. Call (877) 497-0007 for a professional IAQ assessment.`,
   },
 }

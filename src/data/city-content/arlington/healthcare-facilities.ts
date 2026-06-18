@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Arlington, VA | Flood Doctor`,
-    description: `Arlington's HIPAA-compliant healthcare restoration experts. Serving hospitals, urgent care centers, and medical offices in Ballston, Clarendon, and Crystal City. Call (703) 285-1102.`,
+    description: `Arlington's HIPAA-compliant healthcare restoration experts. Serving hospitals, urgent care centers, and medical offices in Ballston, Clarendon, and Crystal City. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Arlington, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
   processSteps: [
     {
       title: `Urban Emergency Dispatch`,
-      description: `Call (703) 285-1102 for immediate healthcare facility response. Our Arlington crews navigate urban traffic patterns and building access protocols to reach facilities in Rosslyn, Ballston, Clarendon, and Crystal City with ICRA containment materials and HEPA filtration pre-loaded.`,
+      description: `Call (877) 497-0007 for immediate healthcare facility response. Our Arlington crews navigate urban traffic patterns and building access protocols to reach facilities in Rosslyn, Ballston, Clarendon, and Crystal City with ICRA containment materials and HEPA filtration pre-loaded.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
       `Building access logistics—freight elevator scheduling, loading dock coordination, and after-hours work requirements`,
       `Multi-party insurance coordination for building owner, medical tenant, and affected adjacent tenant claims`,
     ],
-    cta: `Call (703) 285-1102 for emergency healthcare facility assessment in Arlington. We navigate multi-tenant building logistics and coordinate with all parties to streamline restoration.`,
+    cta: `Call (877) 497-0007 for emergency healthcare facility assessment in Arlington. We navigate multi-tenant building logistics and coordinate with all parties to streamline restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
   ],
   finalCTA: {
     headline: `Healthcare Emergency in Arlington?`,
-    paragraph: `Urban medical facilities need restoration teams that understand multi-tenant buildings, tight access, and healthcare compliance. Our HIPAA-certified crews reach any Arlington healthcare facility within 30 minutes with compact, high-efficiency equipment. Call (703) 285-1102 now.`,
+    paragraph: `Urban medical facilities need restoration teams that understand multi-tenant buildings, tight access, and healthcare compliance. Our HIPAA-certified crews reach any Arlington healthcare facility within 30 minutes with compact, high-efficiency equipment. Call (877) 497-0007 now.`,
   },
 }

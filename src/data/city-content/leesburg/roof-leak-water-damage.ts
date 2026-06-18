@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Roof Leak Water Damage Repair in Leesburg, VA | Flood Doctor`,
-    description: `Expert roof leak water damage restoration for Leesburg homes. Historic slate roof specialists, storm damage, and attic water intrusion. Call (703) 285-1107.`,
+    description: `Expert roof leak water damage restoration for Leesburg homes. Historic slate roof specialists, storm damage, and attic water intrusion. Call (877) 497-0007.`,
   },
   h1: `Leesburg Roof Leak Water Damage Repair`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Tarping & Water Control`,
-      description: `Call (703) 285-1107 for immediate response. Our crews deploy emergency tarps to stop active water intrusion through damaged roofs while beginning interior water mitigation.`,
+      description: `Call (877) 497-0007 for immediate response. Our crews deploy emergency tarps to stop active water intrusion through damaged roofs while beginning interior water mitigation.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Attic insulation damage and replacement needs`,
       `Insurance coverage and deductible structure`,
     ],
-    cta: `Call (703) 285-1107 for emergency roof leak response and water damage assessment.`,
+    cta: `Call (877) 497-0007 for emergency roof leak response and water damage assessment.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `Should I call a roofer or a water damage company first?`,
-      answer: `Call Flood Doctor at (703) 285-1107 first. We provide emergency tarping to stop the leak immediately and begin interior water damage mitigation. Permanent roof repair can follow once the emergency is controlled.`,
+      answer: `Call Flood Doctor at (877) 497-0007 first. We provide emergency tarping to stop the leak immediately and begin interior water damage mitigation. Permanent roof repair can follow once the emergency is controlled.`,
     },
     {
       question: `Can you repair my historic slate roof?`,
@@ -128,6 +128,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Roof Leaking in Leesburg? Call Flood Doctor`,
-    paragraph: `Roof leaks cause escalating damage with every passing hour. From emergency tarping to complete interior restoration, Flood Doctor handles every aspect of roof leak water damage for Leesburg properties. Call (703) 285-1107 for immediate 24/7 response.`,
+    paragraph: `Roof leaks cause escalating damage with every passing hour. From emergency tarping to complete interior restoration, Flood Doctor handles every aspect of roof leak water damage for Leesburg properties. Call (877) 497-0007 for immediate 24/7 response.`,
   },
 }

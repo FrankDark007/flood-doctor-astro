@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage in Vienna, VA | Flood Doctor',
-    description: 'Professional water damage restoration in Vienna, VA. 24/7 emergency response with 45-minute arrival. IICRC-certified technicians specializing in historic colonials, luxury estates, and townhomes. Call (703) 656-0105.',
+    description: 'Professional water damage restoration in Vienna, VA. 24/7 emergency response with 45-minute arrival. IICRC-certified technicians specializing in historic colonials, luxury estates, and townhomes. Call (877) 497-0007.',
   },
   h1: 'Water Damage Restoration in Vienna, Virginia',
   introSection: {
@@ -19,7 +19,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Contact & Rapid Vienna Dispatch',
-      description: 'Call (703) 656-0105 any time — day, night, weekends, or holidays. Our dispatch center immediately mobilizes IICRC-certified technicians to your Vienna location. While our team is en route, our emergency coordinator walks you through critical first steps: shutting off the water source if accessible, moving valuables to dry areas, and avoiding electrical hazards. We maintain dedicated response crews positioned throughout Northern Virginia to guarantee rapid arrival to every Vienna neighborhood.',
+      description: 'Call (877) 497-0007 any time — day, night, weekends, or holidays. Our dispatch center immediately mobilizes IICRC-certified technicians to your Vienna location. While our team is en route, our emergency coordinator walks you through critical first steps: shutting off the water source if accessible, moving valuables to dry areas, and avoiding electrical hazards. We maintain dedicated response crews positioned throughout Northern Virginia to guarantee rapid arrival to every Vienna neighborhood.',
       timeframe: '0–15 minutes',
     },
     {
@@ -150,7 +150,7 @@ export const content: CityServiceContent = {
       'Accessibility and complexity — multi-level water migration, finished basement restoration, wine cellar recovery, and homes with custom millwork or luxury finishes require more time, specialized skills, and premium materials',
       'Mold remediation requirements — secondary mold growth discovered during restoration adds containment, removal, treatment, and clearance testing to the project scope',
     ],
-    cta: 'Call (703) 656-0105 for a free on-site assessment. We respond 24/7 and provide a detailed estimate before any work begins. Insurance-accepted estimates — we bill your carrier directly when approved.',
+    cta: 'Call (877) 497-0007 for a free on-site assessment. We respond 24/7 and provide a detailed estimate before any work begins. Insurance-accepted estimates — we bill your carrier directly when approved.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,7 +175,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: 'How quickly can you respond to a water damage emergency in Vienna?',
-      answer: 'Our average response time throughout Vienna is 45 minutes. We maintain 24/7 emergency crews positioned across Northern Virginia, and our dispatch center sends the nearest available certified team the moment you call. We serve all Vienna neighborhoods — Vienna Town, Oakton, Dunn Loring, Wolf Trap, Clarks Crossing, Tysons Woods, and surrounding areas — with equal priority. Call (703) 656-0105 for immediate dispatch.',
+      answer: 'Our average response time throughout Vienna is 45 minutes. We maintain 24/7 emergency crews positioned across Northern Virginia, and our dispatch center sends the nearest available certified team the moment you call. We serve all Vienna neighborhoods — Vienna Town, Oakton, Dunn Loring, Wolf Trap, Clarks Crossing, Tysons Woods, and surrounding areas — with equal priority. Call (877) 497-0007 for immediate dispatch.',
     },
     {
       question: 'Can you restore plaster walls in older Vienna colonials without causing more damage?',
@@ -203,7 +203,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'What steps should I take immediately after discovering water damage in my home?',
-      answer: 'First, ensure family safety — avoid standing water near electrical outlets or panels. If you can safely reach the main water shutoff valve, turn off the water supply to stop the flow. Then call us immediately at (703) 656-0105 — speed is the single most important factor in limiting water damage. While our team is en route, move portable valuables, electronics, and documents to a dry area if you can do so safely. Lift furniture legs off wet carpet using aluminum foil or plastic. Do not use household vacuums on standing water. Do not turn on ceiling fans or your HVAC system if ceilings are wet — this can cause collapse or spread contamination. Our emergency coordinator will guide you through additional steps specific to your situation while technicians drive to your Vienna home.',
+      answer: 'First, ensure family safety — avoid standing water near electrical outlets or panels. If you can safely reach the main water shutoff valve, turn off the water supply to stop the flow. Then call us immediately at (877) 497-0007 — speed is the single most important factor in limiting water damage. While our team is en route, move portable valuables, electronics, and documents to a dry area if you can do so safely. Lift furniture legs off wet carpet using aluminum foil or plastic. Do not use household vacuums on standing water. Do not turn on ceiling fans or your HVAC system if ceilings are wet — this can cause collapse or spread contamination. Our emergency coordinator will guide you through additional steps specific to your situation while technicians drive to your Vienna home.',
     },
     {
       question: 'How do you prevent mold growth after water damage in Vienna homes?',

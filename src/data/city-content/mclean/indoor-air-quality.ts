@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in McLean, VA | Flood Doctor',
-    description: `McLean's trusted indoor air quality testing service. Mold spore sampling, VOC analysis & HVAC assessment for estate homes in Langley, Chesterbrook & The Reserve. Call (703) 285-1108.`,
+    description: `McLean's trusted indoor air quality testing service. Mold spore sampling, VOC analysis & HVAC assessment for estate homes in Langley, Chesterbrook & The Reserve. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in McLean, Virginia',
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       'Property square footage affecting the number of sampling locations needed for representative coverage',
       'Post-remediation clearance testing scope including number of containment zones requiring verification',
     ],
-    cta: `Call (703) 285-1108 for a confidential consultation. We design a testing protocol matched to your McLean estate and specific air quality concerns.`,
+    cta: `Call (877) 497-0007 for a confidential consultation. We design a testing protocol matched to your McLean estate and specific air quality concerns.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Brookhaven',
       'Chain Bridge Forest',
     ],
-    responseTime: `Same-day IAQ assessment deployment to all McLean neighborhoods. Expedited laboratory processing available for urgent health-related concerns. Call (703) 285-1108.`,
+    responseTime: `Same-day IAQ assessment deployment to all McLean neighborhoods. Expedited laboratory processing available for urgent health-related concerns. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Air Quality Concerns in Your McLean Estate?',
-    paragraph: `Scientific IAQ testing identifies the specific contaminants affecting your indoor environment. Our AIHA-accredited laboratory analysis provides definitive answers and actionable remediation guidance. Call (703) 285-1108 for a confidential consultation.`,
+    paragraph: `Scientific IAQ testing identifies the specific contaminants affecting your indoor environment. Our AIHA-accredited laboratory analysis provides definitive answers and actionable remediation guidance. Call (877) 497-0007 for a confidential consultation.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Mold Remediation in Chantilly, VA | Flood Doctor',
-    description: `Commercial mold remediation for Chantilly businesses. IICRC S520 certified. Serving Westfields Business Park, Dulles corridor & Sully Plaza. Call (703) 285-1104.`,
+    description: `Commercial mold remediation for Chantilly businesses. IICRC S520 certified. Serving Westfields Business Park, Dulles corridor & Sully Plaza. Call (877) 497-0007.`,
   },
   h1: 'Commercial Mold Remediation in Chantilly, Virginia',
   introSection: {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Multi-tenant coordination—containment and communication across suites add management requirements`,
       `Post-remediation testing—clearance verification by independent laboratories`,
     ],
-    cta: `Call (703) 285-1104 for commercial mold assessment. We provide thorough evaluation and clear pricing before remediation begins.`,
+    cta: `Call (877) 497-0007 for commercial mold assessment. We provide thorough evaluation and clear pricing before remediation begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Mold in Your Chantilly Commercial Property?',
-    paragraph: `Commercial mold threatens employee health, tenant relationships, and regulatory compliance. Our IICRC S520 certified team provides thorough remediation with documented clearance for Chantilly business properties. Call (703) 285-1104 for assessment.`,
+    paragraph: `Commercial mold threatens employee health, tenant relationships, and regulatory compliance. Our IICRC S520 certified team provides thorough remediation with documented clearance for Chantilly business properties. Call (877) 497-0007 for assessment.`,
   },
 }

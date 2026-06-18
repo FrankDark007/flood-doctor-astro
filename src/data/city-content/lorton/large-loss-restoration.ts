@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Lorton, VA | Flood Doctor',
-    description: `Lorton large loss restoration for Laurel Hill commercial centers, Occoquan waterfront complexes & Route 1 corridor multi-tenant properties. Full-scope project management. Call (703) 285-1100.`,
+    description: `Lorton large loss restoration for Laurel Hill commercial centers, Occoquan waterfront complexes & Route 1 corridor multi-tenant properties. Full-scope project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Lorton, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors navigate these growth-market complexities. They coordinate
   processSteps: [
     {
       title: 'Emergency Stabilization & Tenant Coordination',
-      description: `Call (703) 285-1100 to activate large loss response. Our stabilization team secures affected properties while coordinating immediate tenant communication across multi-unit commercial developments—critical in Lorton's newer retail centers where tenant relationships are still forming.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team secures affected properties while coordinating immediate tenant communication across multi-unit commercial developments—critical in Lorton's newer retail centers where tenant relationships are still forming.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -114,7 +114,7 @@ Our project directors navigate these growth-market complexities. They coordinate
       'Tenant diversity—restaurants, medical offices, and retail each require specialized restoration protocols within the same project',
       'Growth-market support—additional business owner guidance and communication for first-time large loss events adds project management scope',
     ],
-    cta: `Call (703) 285-1100 for immediate large loss response. Our project directors bring development-aware management and multi-tenant coordination expertise to Lorton's growing commercial market.`,
+    cta: `Call (877) 497-0007 for immediate large loss response. Our project directors bring development-aware management and multi-tenant coordination expertise to Lorton's growing commercial market.`,
   },
   serviceAreaSection: {
     neighborhoods: [

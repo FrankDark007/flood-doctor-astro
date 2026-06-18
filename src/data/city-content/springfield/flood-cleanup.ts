@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Springfield, VA | Flood Doctor',
-    description: 'Springfield flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. West Springfield, Kingstowne, Franconia. Call (703) 656-0110.',
+    description: 'Springfield flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Springfield, Virginia',
   introSection: {
@@ -92,7 +92,7 @@ Moisture mapping must trace contamination through every level transition. A read
       'Aging drainage evaluation — perimeter drain camera inspection and sump assessment to identify root cause',
       'Power-outage prevention — battery backup sizing, high-water alarms, and generator transfer switch evaluation',
     ],
-    cta: 'Call (703) 656-0110 for emergency response and a level-by-level damage assessment. We document moisture conditions at each half-level transition for complete insurance claim support.',
+    cta: 'Call (877) 497-0007 for emergency response and a level-by-level damage assessment. We document moisture conditions at each half-level transition for complete insurance claim support.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -143,6 +143,6 @@ Moisture mapping must trace contamination through every level transition. A read
   ],
   finalCTA: {
     headline: 'Split-Level Flooding in Springfield? Every Level Matters.',
-    paragraph: `Springfield's split-levels do not flood like other homes — water channels through stairwells, contamination crosses level transitions, and standard single-zone drying leaves moisture trapped in the spaces between. Flood Doctor's crews map every half-level, contain every transition, and dry every compartment independently. One call to (703) 656-0110 activates a response team that understands the geometry of your home and the hydrology of your watershed.`,
+    paragraph: `Springfield's split-levels do not flood like other homes — water channels through stairwells, contamination crosses level transitions, and standard single-zone drying leaves moisture trapped in the spaces between. Flood Doctor's crews map every half-level, contain every transition, and dry every compartment independently. One call to (877) 497-0007 activates a response team that understands the geometry of your home and the hydrology of your watershed.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church storm damage restoration. 30-min response for Seven Corners, Lake Barcroft & Falls Church City. Roof leaks, tree damage & flooding. Call (703) 656-0111.',
+    description: 'Falls Church storm damage restoration. 30-min response for Seven Corners, Lake Barcroft & Falls Church City. Roof leaks, tree damage & flooding. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Falls Church, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our storm damage response addresses the immediate emergency and prevents seconda
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: 'When you call (703) 656-0111 during or after a storm, we dispatch immediately. Our crews reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills within 30 minutes—even during active storm conditions when safe to travel.',
+      description: 'When you call (877) 497-0007 during or after a storm, we dispatch immediately. Our crews reach Falls Church City, Seven Corners, Lake Barcroft, Baileys Crossroads, and Pimmit Hills within 30 minutes—even during active storm conditions when safe to travel.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -120,7 +120,7 @@ Our storm damage response addresses the immediate emergency and prevents seconda
       'Structural involvement—attic flooding or ceiling collapse increases scope',
       'Contamination level—storm flood water is Category 3 requiring enhanced protocols',
     ],
-    cta: 'Call (703) 656-0111 immediately after storm damage. Fast response limits damage and costs. We provide free assessments and handle insurance claims directly.',
+    cta: 'Call (877) 497-0007 immediately after storm damage. Fast response limits damage and costs. We provide free assessments and handle insurance claims directly.',
   },
   serviceAreaSection: {
     neighborhoods: [

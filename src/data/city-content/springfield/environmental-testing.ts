@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Springfield, VA | Flood Doctor',
-    description: `Springfield's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in West Springfield, Franconia & Kingstowne. Call (703) 285-1110.`,
+    description: `Springfield's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in West Springfield, Franconia & Kingstowne. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Springfield, Virginia',
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       'Mold assessment in basements, crawlspaces, and flood-affected areas',
       'Rush laboratory processing for active renovation or post-flood restoration timelines',
     ],
-    cta: `Call (703) 285-1110 for a consultation. We provide family-focused environmental testing designed for Springfield\`s homes and specific community challenges.`,
+    cta: `Call (877) 497-0007 for a consultation. We provide family-focused environmental testing designed for Springfield\`s homes and specific community challenges.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -128,7 +128,7 @@ export const content: CityServiceContent = {
       'Ravensworth',
       'Backlick',
     ],
-    responseTime: `Same-day environmental testing deployment to all Springfield neighborhoods. Emergency response for post-flood and sewer backup contamination assessment. Call (703) 285-1110.`,
+    responseTime: `Same-day environmental testing deployment to all Springfield neighborhoods. Emergency response for post-flood and sewer backup contamination assessment. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -166,6 +166,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Protecting Your Springfield Family from Environmental Hazards?',
-    paragraph: `Certified environmental testing identifies asbestos, lead paint, mold, and flood contamination in Springfield\`s family homes. AIHA-accredited laboratory analysis with family-focused reporting and recommendations. Call (703) 285-1110 for a consultation.`,
+    paragraph: `Certified environmental testing identifies asbestos, lead paint, mold, and flood contamination in Springfield\`s family homes. AIHA-accredited laboratory analysis with family-focused reporting and recommendations. Call (877) 497-0007 for a consultation.`,
   },
 }

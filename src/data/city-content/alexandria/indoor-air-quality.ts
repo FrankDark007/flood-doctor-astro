@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Alexandria, VA | Flood Doctor',
-    description: `Alexandria indoor air quality experts. Mold spore sampling for historic homes, VOC testing & post-remediation verification in Old Town, Del Ray & Belle Haven. Call (703) 285-1101.`,
+    description: `Alexandria indoor air quality experts. Mold spore sampling for historic homes, VOC testing & post-remediation verification in Old Town, Del Ray & Belle Haven. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Alexandria, Virginia',
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Bacterial sampling requirements for properties with combined sewer backup history',
       'Post-remediation clearance testing scope and verification sampling requirements',
     ],
-    cta: `Call (703) 285-1101 for a consultation. We design testing protocols appropriate to your Alexandria property type and specific air quality concerns.`,
+    cta: `Call (877) 497-0007 for a consultation. We design testing protocols appropriate to your Alexandria property type and specific air quality concerns.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Eisenhower Valley',
       'Mount Vernon Avenue Corridor',
     ],
-    responseTime: `Same-day IAQ assessment throughout Alexandria. Emergency sampling available within 2 hours for suspected toxic mold or contamination events. Call (703) 285-1101.`,
+    responseTime: `Same-day IAQ assessment throughout Alexandria. Emergency sampling available within 2 hours for suspected toxic mold or contamination events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -159,6 +159,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Indoor Air Quality Concerns in Your Alexandria Property?',
-    paragraph: `From Old Town historic homes to Del Ray bungalows and Potomac Yard condominiums, our laboratory-grade IAQ testing identifies the specific contaminants affecting your health. Call (703) 285-1101 for scientific answers.`,
+    paragraph: `From Old Town historic homes to Del Ray bungalows and Potomac Yard condominiums, our laboratory-grade IAQ testing identifies the specific contaminants affecting your health. Call (877) 497-0007 for scientific answers.`,
   },
 }

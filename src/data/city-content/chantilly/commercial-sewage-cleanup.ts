@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Sewage Cleanup in Chantilly, VA | Flood Doctor',
-    description: `Commercial sewage cleanup for Chantilly businesses. Westfields Business Park, Dulles corridor & Sully Plaza. Biohazard certified, minimal downtime. Call (703) 285-1104.`,
+    description: `Commercial sewage cleanup for Chantilly businesses. Westfields Business Park, Dulles corridor & Sully Plaza. Biohazard certified, minimal downtime. Call (877) 497-0007.`,
   },
   h1: 'Commercial Sewage Cleanup in Chantilly, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Biohazard Response',
-      description: `Call (703) 285-1104 for immediate commercial sewage response. Our Category 3 certified team arrives within 30 minutes with full PPE, containment materials, and commercial-scale biohazard equipment.`,
+      description: `Call (877) 497-0007 for immediate commercial sewage response. Our Category 3 certified team arrives within 30 minutes with full PPE, containment materials, and commercial-scale biohazard equipment.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Verification testing—clearance testing requirements vary by facility type and regulatory authority`,
       `Business interruption timeline—accelerated cleanup to reduce closure days adds crew and equipment costs`,
     ],
-    cta: `Call (703) 285-1104 immediately for commercial sewage emergencies. Biohazard situations demand professional response—do not attempt internal cleanup.`,
+    cta: `Call (877) 497-0007 immediately for commercial sewage emergencies. Biohazard situations demand professional response—do not attempt internal cleanup.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,6 +131,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Sewage Emergency at Your Chantilly Business?',
-    paragraph: `Commercial sewage contamination is a public health emergency and a business continuity crisis. Our Category 3 certified biohazard team responds within 30 minutes to all Chantilly commercial properties. Call (703) 285-1104 now.`,
+    paragraph: `Commercial sewage contamination is a public health emergency and a business continuity crisis. Our Category 3 certified biohazard team responds within 30 minutes to all Chantilly commercial properties. Call (877) 497-0007 now.`,
   },
 }

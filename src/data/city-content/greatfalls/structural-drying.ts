@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Great Falls, VA | Flood Doctor',
-    description: `Great Falls estate structural drying specialists. Protecting wine cellars, equestrian facilities & custom homes on Georgetown Pike. 30-min response. Call (703) 285-1100.`,
+    description: `Great Falls estate structural drying specialists. Protecting wine cellars, equestrian facilities & custom homes on Georgetown Pike. 30-min response. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians develop zone-specific drying plans for each area
   processSteps: [
     {
       title: 'Immediate Estate Response',
-      description: `Call (703) 285-1100 and our crews reach Great Falls Village, Forestville, Hickory Farms, Seneca Estates, and Riverbend within 30 minutes. Emergency extraction begins immediately to protect premium flooring, custom finishes, and temperature-sensitive spaces.`,
+      description: `Call (877) 497-0007 and our crews reach Great Falls Village, Forestville, Hickory Farms, Seneca Estates, and Riverbend within 30 minutes. Emergency extraction begins immediately to protect premium flooring, custom finishes, and temperature-sensitive spaces.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -115,7 +115,7 @@ Our IICRC-certified technicians develop zone-specific drying plans for each area
       'Multi-zone complexity — wine cellars, main residence, pool houses, and equestrian facilities each have independent drying requirements',
       'Contamination level — septic system failures require hazardous protocols that extend treatment scope and duration',
     ],
-    cta: `Call (703) 285-1100 for immediate estate assessment. We evaluate every affected zone and provide transparent estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate estate assessment. We evaluate every affected zone and provide transparent estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our IICRC-certified technicians develop zone-specific drying plans for each area
   ],
   finalCTA: {
     headline: 'Water Damage Threatening Your Great Falls Estate?',
-    paragraph: 'From wine cellar flooding to estate-scale lower level intrusion to equestrian facility damage, your property deserves restoration that matches its construction quality. Our Great Falls team responds within 30 minutes with estate-appropriate expertise. Call (703) 285-1100.',
+    paragraph: 'From wine cellar flooding to estate-scale lower level intrusion to equestrian facility damage, your property deserves restoration that matches its construction quality. Our Great Falls team responds within 30 minutes with estate-appropriate expertise. Call (877) 497-0007.',
   },
 }

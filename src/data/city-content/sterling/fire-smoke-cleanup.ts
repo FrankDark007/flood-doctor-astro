@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Fire & Smoke Damage Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling fire and smoke damage restoration. Cleanup for Sterling Park, Cascades & Countryside homes. Soot removal, odor elimination, water damage from firefighting. Call (703) 285-1111.`,
+    description: `Sterling fire and smoke damage restoration. Cleanup for Sterling Park, Cascades & Countryside homes. Soot removal, odor elimination, water damage from firefighting. Call (877) 497-0007.`,
   },
   h1: `Fire & Smoke Damage Cleanup in Sterling, Virginia`,
   introSection: {
@@ -77,7 +77,7 @@ Our IICRC-certified fire restoration crews understand both the chemistry and the
       `Construction era—older Sterling Park materials may require more intensive cleaning and replacement`,
       `Multi-unit involvement—townhome smoke migration adds adjacent unit assessment and cleaning scope`,
     ],
-    cta: `Call (703) 285-1111 after any fire event. We assess the full scope—fire, smoke, and water damage—and provide a comprehensive estimate. Most fire restoration is fully covered by homeowners insurance.`,
+    cta: `Call (877) 497-0007 after any fire event. We assess the full scope—fire, smoke, and water damage—and provide a comprehensive estimate. Most fire restoration is fully covered by homeowners insurance.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,12 +97,12 @@ Our IICRC-certified fire restoration crews understand both the chemistry and the
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Same-day fire damage assessment throughout Sterling. Emergency board-up and water extraction within 2 hours of fire department clearance. Call (703) 285-1111.`,
+    responseTime: `Same-day fire damage assessment throughout Sterling. Emergency board-up and water extraction within 2 hours of fire department clearance. Call (877) 497-0007.`,
   },
   faqs: [
     {
       question: `When can you start fire cleanup in my Sterling home?`,
-      answer: `As soon as the fire department clears the structure. We recommend calling (703) 285-1111 even before clearance so we can dispatch crews to arrive shortly after. Early response prevents smoke residue from permanently bonding to surfaces and limits water damage from firefighting.`,
+      answer: `As soon as the fire department clears the structure. We recommend calling (877) 497-0007 even before clearance so we can dispatch crews to arrive shortly after. Early response prevents smoke residue from permanently bonding to surfaces and limits water damage from firefighting.`,
     },
     {
       question: `A fire in my neighbor's Cascades townhome left smoke in my unit. Do you handle that?`,

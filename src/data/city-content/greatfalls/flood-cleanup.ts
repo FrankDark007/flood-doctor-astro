@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls flood cleanup experts. 30-min response to storm flooding, Potomac overflow & groundwater intrusion. Protecting estates & equestrian properties. Call (703) 656-0112.',
+    description: 'Great Falls flood cleanup experts. 30-min response to storm flooding, Potomac overflow & groundwater intrusion. Protecting estates & equestrian properties. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC Master Water Restorers understand that flood cleanup in Great Falls me
   processSteps: [
     {
       title: 'Immediate Discrete Dispatch',
-      description: 'When you call (703) 656-0112, we dispatch immediately. Our unmarked vehicles reach properties throughout Great Falls—Forestville, Seneca Estates, Riverbend corridor, Beach Mill Road—within 30 minutes. During widespread flood events, we prioritize based on flood type and damage scope.',
+      description: 'When you call (877) 497-0007, we dispatch immediately. Our unmarked vehicles reach properties throughout Great Falls—Forestville, Seneca Estates, Riverbend corridor, Beach Mill Road—within 30 minutes. During widespread flood events, we prioritize based on flood type and damage scope.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -135,7 +135,7 @@ Our IICRC Master Water Restorers understand that flood cleanup in Great Falls me
       'Duration of structural drying, which varies based on estate size, material density, and the severity of saturation across multiple levels',
       'Emergency timing including after-hours, weekend, and holiday response when immediate intervention is critical',
     ],
-    cta: `Call (703) 656-0112 for a free on-site flood assessment. We'll evaluate your Great Falls property, explain the full scope of work, and provide a written estimate before any restoration begins. We handle direct billing with all insurance carriers.`,
+    cta: `Call (877) 497-0007 for a free on-site flood assessment. We'll evaluate your Great Falls property, explain the full scope of work, and provide a written estimate before any restoration begins. We handle direct billing with all insurance carriers.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,7 +159,7 @@ Our IICRC Master Water Restorers understand that flood cleanup in Great Falls me
   faqs: [
     {
       question: 'How quickly can you respond to flooding in Great Falls?',
-      answer: 'We guarantee 30-minute response to all Great Falls properties under normal conditions. During widespread flood events affecting multiple properties, we prioritize based on flood type and damage scope. Call (703) 656-0112 immediately—the sooner you call, the sooner we can respond.',
+      answer: 'We guarantee 30-minute response to all Great Falls properties under normal conditions. During widespread flood events affecting multiple properties, we prioritize based on flood type and damage scope. Call (877) 497-0007 immediately—the sooner you call, the sooner we can respond.',
     },
     {
       question: 'Can you handle flooding in my barn and main house at the same time?',

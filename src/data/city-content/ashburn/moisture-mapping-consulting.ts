@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Ashburn, VA | Flood Doctor',
-    description: `Ashburn moisture mapping specialists. Infrared thermography for new construction, builder warranty documentation & HOA communities in Broadlands, Brambleton & One Loudoun. Call (703) 285-1100.`,
+    description: `Ashburn moisture mapping specialists. Infrared thermography for new construction, builder warranty documentation & HOA communities in Broadlands, Brambleton & One Loudoun. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Ashburn, Virginia',
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       'Defect pathway documentation detail for warranty claims and builder negotiations',
       'Multi-day monitoring during active drying with daily moisture map updates',
     ],
-    cta: `Call (703) 285-1100 for a consultation. We explain the assessment scope needed for your specific situation—whether insurance claim, warranty investigation, or both.`,
+    cta: `Call (877) 497-0007 for a consultation. We explain the assessment scope needed for your specific situation—whether insurance claim, warranty investigation, or both.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       'Ashbrook',
       'Cameron Chase',
     ],
-    responseTime: `Same-day moisture assessment throughout Ashburn and Loudoun County. Emergency thermal imaging within 2 hours for active water intrusion. Call (703) 285-1100.`,
+    responseTime: `Same-day moisture assessment throughout Ashburn and Loudoun County. Emergency thermal imaging within 2 hours for active water intrusion. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Assessment for Your Ashburn Property?',
-    paragraph: `Whether you need insurance claim documentation or builder warranty evidence, our scientific moisture mapping provides the calibrated data and professional analysis your situation requires. Call (703) 285-1100 for a consultation.`,
+    paragraph: `Whether you need insurance claim documentation or builder warranty evidence, our scientific moisture mapping provides the calibrated data and professional analysis your situation requires. Call (877) 497-0007 for a consultation.`,
   },
 }

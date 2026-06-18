@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville sewage cleanup and biohazard restoration. 30-min response for sewer backups in Virginia Run, Centre Ridge & Sully Station. Call (703) 285-1103.`,
+    description: `Centreville sewage cleanup and biohazard restoration. 30-min response for sewer backups in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Sewage Cleanup Services in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our sewage cleanup goes far beyond extraction. We remove all contaminated porous
   processSteps: [
     {
       title: 'Emergency Biohazard Response',
-      description: `Call (703) 285-1103 and keep your family and pets away from the affected area. Our crew arrives within 30 minutes with full PPE, containment materials, and biohazard cleanup equipment. Safety is the first priority.`,
+      description: `Call (877) 497-0007 and keep your family and pets away from the affected area. Our crew arrives within 30 minutes with full PPE, containment materials, and biohazard cleanup equipment. Safety is the first priority.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -118,7 +118,7 @@ Our sewage cleanup goes far beyond extraction. We remove all contaminated porous
       'Materials affected—porous materials like carpet and drywall must be removed; non-porous surfaces are decontaminated',
       'Multi-unit involvement—shared sewer backups in townhomes may involve coordinated cleanup across units',
     ],
-    cta: `Call (703) 285-1103 for immediate sewage cleanup response. Keep your family away from contaminated areas—we handle the biohazard so you do not have to.`,
+    cta: `Call (877) 497-0007 for immediate sewage cleanup response. Keep your family away from contaminated areas—we handle the biohazard so you do not have to.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -137,7 +137,7 @@ Our sewage cleanup goes far beyond extraction. We remove all contaminated porous
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `30-minute biohazard response to all Centreville neighborhoods. Sewage cleanup is time-sensitive—call (703) 285-1103 immediately.`,
+    responseTime: `30-minute biohazard response to all Centreville neighborhoods. Sewage cleanup is time-sensitive—call (877) 497-0007 immediately.`,
   },
   faqs: [
     {
@@ -171,6 +171,6 @@ Our sewage cleanup goes far beyond extraction. We remove all contaminated porous
   ],
   finalCTA: {
     headline: 'Sewage Emergency in Your Centreville Home?',
-    paragraph: `Do not attempt to clean sewage yourself. Keep your family away from contaminated areas and call (703) 285-1103 now. Our biohazard-certified crews arrive within 30 minutes with full safety equipment and decontamination protocols.`,
+    paragraph: `Do not attempt to clean sewage yourself. Keep your family away from contaminated areas and call (877) 497-0007 now. Our biohazard-certified crews arrive within 30 minutes with full safety equipment and decontamination protocols.`,
   },
 }

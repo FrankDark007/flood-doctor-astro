@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Alexandria, VA | Flood Doctor',
-    description: `Alexandria large loss restoration specialists. Multi-million dollar projects for historic commercial buildings, waterfront properties & modern office complexes. Call (703) 285-1101.`,
+    description: `Alexandria large loss restoration specialists. Multi-million dollar projects for historic commercial buildings, waterfront properties & modern office complexes. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Alexandria, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors navigate these overlapping regulatory frameworks while man
   processSteps: [
     {
       title: 'Emergency Property Stabilization',
-      description: `Call (703) 285-1101 to activate large loss response. Our stabilization team secures the property, begins controlled water extraction, and protects historic elements while the full project team mobilizes. For Old Town commercial properties, stabilization includes documenting historic features before emergency work begins.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team secures the property, begins controlled water extraction, and protects historic elements while the full project team mobilizes. For Old Town commercial properties, stabilization includes documenting historic features before emergency work begins.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -114,7 +114,7 @@ Our project directors navigate these overlapping regulatory frameworks while man
       'Regulatory approval timelines—BAR review, environmental clearance, and building permit processes may extend project duration and carrying costs',
       'Specialty subcontractor requirements—historic material restoration, custom millwork, and preservation-grade finishes require specialty trades',
     ],
-    cta: `Call (703) 285-1101 for immediate large loss consultation. Our senior project director will assess scope including historic preservation and regulatory requirements, delivering a preliminary project plan within 72 hours.`,
+    cta: `Call (877) 497-0007 for immediate large loss consultation. Our senior project director will assess scope including historic preservation and regulatory requirements, delivering a preliminary project plan within 72 hours.`,
   },
   serviceAreaSection: {
     neighborhoods: [

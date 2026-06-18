@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Tysons, VA | Flood Doctor`,
-    description: `Tysons' trusted restoration for schools and public facilities. Experienced with modern building systems in the Tysons Corner and Scotts Run development areas. Call (703) 285-1100.`,
+    description: `Tysons' trusted restoration for schools and public facilities. Experienced with modern building systems in the Tysons Corner and Scotts Run development areas. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Tysons, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our teams understand these modern infrastructure challenges. We assess building 
   processSteps: [
     {
       title: `Public Facility Emergency Response`,
-      description: `Call (703) 285-1100 for immediate school or public facility response. We coordinate with FCPS facilities management or Fairfax County DPW to establish incident command and activate emergency procurement procedures appropriate for the affected facility.`,
+      description: `Call (877) 497-0007 for immediate school or public facility response. We coordinate with FCPS facilities management or Fairfax County DPW to establish incident command and activate emergency procurement procedures appropriate for the affected facility.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -116,7 +116,7 @@ Our teams understand these modern infrastructure challenges. We assess building 
       `Urban stormwater exposure—severe weather event damage documentation and source classification`,
       `Public accountability documentation for FCPS, county procurement, and community stakeholder communication`,
     ],
-    cta: `Call (703) 285-1100 for emergency school or public facility assessment. We navigate the modern building systems and multi-stakeholder environments unique to Tysons public facilities.`,
+    cta: `Call (877) 497-0007 for emergency school or public facility assessment. We navigate the modern building systems and multi-stakeholder environments unique to Tysons public facilities.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our teams understand these modern infrastructure challenges. We assess building 
   ],
   finalCTA: {
     headline: `Tysons School or Public Facility Emergency?`,
-    paragraph: `Modern public facilities need restoration teams that understand contemporary building systems and multi-stakeholder environments. Our crews respond within 45 minutes with the expertise Tysons' growing community demands. Call (703) 285-1100 immediately.`,
+    paragraph: `Modern public facilities need restoration teams that understand contemporary building systems and multi-stakeholder environments. Our crews respond within 45 minutes with the expertise Tysons' growing community demands. Call (877) 497-0007 immediately.`,
   },
 }

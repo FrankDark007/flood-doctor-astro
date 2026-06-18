@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Springfield, VA | Flood Doctor',
-    description: 'Springfield mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. West Springfield, Kingstowne, Franconia. Call (703) 656-0110.',
+    description: 'Springfield mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in Springfield, Virginia',
   introSection: {
@@ -124,7 +124,7 @@ Springfield's challenge extends beyond immediate contamination. These split-leve
       'Reconstruction specification — closed-cell spray foam, mold-resistant drywall, and modern framing eliminate the moisture trap permanently',
     ],
     insuranceNote: `When Springfield mold results from a covered water event (pipe burst, appliance overflow, sewer backup), homeowner insurance typically covers remediation. The original assembly design isn't a covered cause, but the water event triggering active growth often is. We document the specific event, timeline, and contamination to support your claim. For sewer backup coverage, check whether your policy includes the backup endorsement — many Springfield homeowners add this rider because of the aging lateral infrastructure.`,
-    cta: 'Call (703) 656-0110 for a Springfield split-level mold assessment. We understand these homes inside and out and can evaluate your specific construction era and risk factors.',
+    cta: 'Call (877) 497-0007 for a Springfield split-level mold assessment. We understand these homes inside and out and can evaluate your specific construction era and risk factors.',
   },
   serviceAreaSection: {
     neighborhoods: [

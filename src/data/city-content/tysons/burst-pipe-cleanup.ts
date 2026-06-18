@@ -26,7 +26,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: 'What should I do immediately if a pipe bursts in my Tysons condo?',
-      answer: 'First, shut off water to the affected area if you can safely access shut-off valves—typically under sinks or at water heater locations. If the burst affects a major line, contact building management immediately to shut down the riser serving your unit. Second, call emergency restoration services at (703) 656-0106—immediate response minimizes damage. Third, move valuable items away from water. Fourth, notify your HOA and neighbors in units below you. Fifth, document the damage with photos for insurance. Do not attempt electrical work in flooded areas.',
+      answer: 'First, shut off water to the affected area if you can safely access shut-off valves—typically under sinks or at water heater locations. If the burst affects a major line, contact building management immediately to shut down the riser serving your unit. Second, call emergency restoration services at (877) 497-0007—immediate response minimizes damage. Third, move valuable items away from water. Fourth, notify your HOA and neighbors in units below you. Fifth, document the damage with photos for insurance. Do not attempt electrical work in flooded areas.',
     },
     {
       question: 'How quickly can you respond to burst pipe emergencies in Tysons high-rise buildings?',
@@ -67,7 +67,7 @@ export const content: CityServiceContent = {
     paragraph: [
       `Burst pipe emergencies in Tysons' high-rise environment demand immediate professional response backed by specialized expertise and commercial-grade equipment. Our comprehensive burst pipe restoration services address the unique challenges of vertical water damage, multi-unit coordination, and complex building systems that characterize Tysons properties.`,
       'From luxury condominiums in Tysons Corner to Class A office buildings in Tysons Central, from established towers to new mixed-use developments at The Boro, we provide professional burst pipe restoration that minimizes damage extent, accelerates recovery timelines, and coordinates effectively with building management and HOA requirements.',
-      `Burst pipes don't wait for convenient times—they fail during winter cold snaps, weekend pressure surges, and overnight when buildings are unoccupied. Our 24/7 emergency availability ensures immediate response whenever plumbing failures threaten your Tysons property. Contact us at (703) 656-0106 for emergency burst pipe restoration backed by high-rise expertise, industrial equipment, and a commitment to complete recovery.`,
+      `Burst pipes don't wait for convenient times—they fail during winter cold snaps, weekend pressure surges, and overnight when buildings are unoccupied. Our 24/7 emergency availability ensures immediate response whenever plumbing failures threaten your Tysons property. Contact us at (877) 497-0007 for emergency burst pipe restoration backed by high-rise expertise, industrial equipment, and a commitment to complete recovery.`,
     ],
   },
 }

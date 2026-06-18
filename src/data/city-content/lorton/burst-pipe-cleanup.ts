@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Lorton, VA | Flood Doctor',
-    description: 'Emergency burst pipe repair & water damage restoration in Lorton. Serving Laurel Hill, Mason Neck & Occoquan. 30-min response. Call (703) 656-0113.',
+    description: 'Emergency burst pipe repair & water damage restoration in Lorton. Serving Laurel Hill, Mason Neck & Occoquan. 30-min response. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Water Damage Restoration in Lorton, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor responds to burst pipe emergencies throughout Lorton within 30 minu
 
 Our IICRC-certified crews don't just extract water—we coordinate with licensed plumbers to stop the source, then restore the damage. Your Lorton home needs both emergency plumbing response and professional water damage restoration, and we handle the entire process.`,
     ],
-    localContext: `Lorton's burst pipe emergencies range from frozen pipes in Occoquan's historic homes to connection failures in Laurel Hill's new construction to corrosion issues in South County's established neighborhoods. We've handled every scenario since 2005.`,
+    localContext: `Lorton's burst pipe emergencies range from frozen pipes in Occoquan's historic homes to connection failures in Laurel Hill's new construction to corrosion issues in South County's established neighborhoods. We've handled every scenario for years.`,
   },
   processSteps: [
     {
       title: 'Immediate Response & Water Shutoff',
-      description: 'When you call (703) 656-0113 about a burst pipe, our first question is: Have you shut off the water? If not, we guide you to your main shutoff while dispatching from our South Fairfax County position. We reach Laurel Hill, Mason Neck, Occoquan, and South County within 30 minutes.',
+      description: 'When you call (877) 497-0007 about a burst pipe, our first question is: Have you shut off the water? If not, we guide you to your main shutoff while dispatching from our South Fairfax County position. We reach Laurel Hill, Mason Neck, Occoquan, and South County within 30 minutes.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -126,7 +126,7 @@ Our IICRC-certified crews don't just extract water—we coordinate with licensed
       'Pipe location—in-wall bursts require wall cavity drying; slab leaks involve flooring removal',
       'Response timing—shutting off water quickly and calling immediately reduces total damage',
     ],
-    cta: `Call (703) 656-0113 for immediate burst pipe response and free damage assessment. We'll coordinate plumber dispatch, extract water, and explain your insurance coverage.`,
+    cta: `Call (877) 497-0007 for immediate burst pipe response and free damage assessment. We'll coordinate plumber dispatch, extract water, and explain your insurance coverage.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -146,7 +146,7 @@ Our IICRC-certified crews don't just extract water—we coordinate with licensed
   faqs: [
     {
       question: 'What should I do immediately when a pipe bursts in my Lorton home?',
-      answer: `First, shut off your main water supply—usually near your water heater or where the supply line enters your home. If you can't find it or can't access it safely, call us immediately at (703) 656-0113 and we'll guide you while dispatching. Don't attempt water extraction yourself—burst pipes release enough water to require professional equipment.`,
+      answer: `First, shut off your main water supply—usually near your water heater or where the supply line enters your home. If you can't find it or can't access it safely, call us immediately at (877) 497-0007 and we'll guide you while dispatching. Don't attempt water extraction yourself—burst pipes release enough water to require professional equipment.`,
     },
     {
       question: 'Can you respond to burst pipes at night or on weekends?',

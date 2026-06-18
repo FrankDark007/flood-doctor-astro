@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Falls Church, VA | Flood Doctor',
-    description: `Falls Church commercial water damage restoration. Historic buildings, apartment complexes & Lake Barcroft area businesses near State Theatre, Eden Center & Seven Corners. Call (703) 285-1100.`,
+    description: `Falls Church commercial water damage restoration. Historic buildings, apartment complexes & Lake Barcroft area businesses near State Theatre, Eden Center & Seven Corners. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Falls Church, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams bring historic building sensitivity alongsi
   processSteps: [
     {
       title: 'Local Community Dispatch',
-      description: `Call (703) 285-1100 for immediate commercial response. Our Falls Church crews serve the full community—from Falls Church City's historic center to Seven Corners, Baileys Crossroads, and the Lake Barcroft commercial area.`,
+      description: `Call (877) 497-0007 for immediate commercial response. Our Falls Church crews serve the full community—from Falls Church City's historic center to Seven Corners, Baileys Crossroads, and the Lake Barcroft commercial area.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -116,7 +116,7 @@ Our IICRC-certified commercial teams bring historic building sensitivity alongsi
       'Multi-unit building coordination—apartment-complex commercial spaces involve residential-commercial coordination adding scope',
       'Character preservation value—proper historic restoration maintains property value versus commodity replacement that diminishes architectural character',
     ],
-    cta: `Call (703) 285-1100 for a free commercial assessment. We'll evaluate the damage, explain preservation options for historic elements, and provide a straightforward estimate for your insurance carrier.`,
+    cta: `Call (877) 497-0007 for a free commercial assessment. We'll evaluate the damage, explain preservation options for historic elements, and provide a straightforward estimate for your insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [

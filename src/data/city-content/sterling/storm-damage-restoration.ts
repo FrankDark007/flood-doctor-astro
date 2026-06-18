@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Storm Damage Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling storm damage restoration. Wind, rain & hail damage repair for Sterling Park, Cascades & Countryside homes. Emergency response near Claude Moore Park. Call (703) 285-1111.`,
+    description: `Sterling storm damage restoration. Wind, rain & hail damage repair for Sterling Park, Cascades & Countryside homes. Emergency response near Claude Moore Park. Call (877) 497-0007.`,
   },
   h1: `Storm Damage Restoration in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our crews document storm damage carefully, distinguishing between storm-caused d
   processSteps: [
     {
       title: `Emergency Storm Response`,
-      description: `Call (703) 285-1111 immediately after storm damage. We dispatch crews to Sterling Park, Cascades, Countryside, and surrounding neighborhoods within 30 minutes. During widespread storm events, we triage by severity—active water entry receives priority dispatch.`,
+      description: `Call (877) 497-0007 immediately after storm damage. We dispatch crews to Sterling Park, Cascades, Countryside, and surrounding neighborhoods within 30 minutes. During widespread storm events, we triage by severity—active water entry receives priority dispatch.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -77,7 +77,7 @@ Our crews document storm damage carefully, distinguishing between storm-caused d
       `Multi-unit involvement—townhome storm damage in Cascades or Countryside may require coordinated community response`,
       `Emergency protection needs—tarping and board-up costs depend on damage accessibility and extent`,
     ],
-    cta: `Call (703) 285-1111 for emergency storm response. We protect your Sterling home immediately and provide detailed estimates for complete restoration.`,
+    cta: `Call (877) 497-0007 for emergency storm response. We protect your Sterling home immediately and provide detailed estimates for complete restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -102,7 +102,7 @@ Our crews document storm damage carefully, distinguishing between storm-caused d
   faqs: [
     {
       question: `Should I wait for the storm to pass before calling?`,
-      answer: `No. Call (703) 285-1111 as soon as you notice damage. We dispatch immediately and can begin emergency protection even during active weather. The sooner we tarp a damaged roof or board up broken windows, the less interior water damage you will experience.`,
+      answer: `No. Call (877) 497-0007 as soon as you notice damage. We dispatch immediately and can begin emergency protection even during active weather. The sooner we tarp a damaged roof or board up broken windows, the less interior water damage you will experience.`,
     },
     {
       question: `Will my insurance cover storm damage to my older Sterling Park home?`,
@@ -110,7 +110,7 @@ Our crews document storm damage carefully, distinguishing between storm-caused d
     },
     {
       question: `A tree hit my roof during the storm. What should I do?`,
-      answer: `Stay clear of the impact area, especially if the ceiling shows sagging or cracking. Call (703) 285-1111 immediately. We coordinate tree removal with emergency tarping to prevent further water intrusion and assess structural integrity before anyone enters affected areas.`,
+      answer: `Stay clear of the impact area, especially if the ceiling shows sagging or cracking. Call (877) 497-0007 immediately. We coordinate tree removal with emergency tarping to prevent further water intrusion and assess structural integrity before anyone enters affected areas.`,
     },
     {
       question: `Storm damage affected multiple townhome units in my Cascades community. How do you handle that?`,

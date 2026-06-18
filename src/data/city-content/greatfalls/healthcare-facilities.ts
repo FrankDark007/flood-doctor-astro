@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Great Falls, VA | Flood Doctor`,
-    description: `Great Falls' trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for concierge medical offices and private clinics. Call (703) 285-1100.`,
+    description: `Great Falls' trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for concierge medical offices and private clinics. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Great Falls, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our healthcare restoration protocols address these Great Falls-specific challeng
   processSteps: [
     {
       title: `Emergency Response and Facility Assessment`,
-      description: `Call our Great Falls healthcare hotline at (703) 285-1100 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager and security team before entering any patient care area.`,
+      description: `Call our Great Falls healthcare hotline at (877) 497-0007 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager and security team before entering any patient care area.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our healthcare restoration protocols address these Great Falls-specific challeng
       `Converted residential property considerations—restoration scope may differ from standard commercial medical buildings`,
       `Regulatory documentation needs for Joint Commission, CMS, and state health department compliance`,
     ],
-    cta: `Call (703) 285-1100 for an emergency healthcare facility assessment. We provide HIPAA-compliant estimates with the discretion Great Falls medical practices require.`,
+    cta: `Call (877) 497-0007 for an emergency healthcare facility assessment. We provide HIPAA-compliant estimates with the discretion Great Falls medical practices require.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -169,6 +169,6 @@ Our healthcare restoration protocols address these Great Falls-specific challeng
   ],
   finalCTA: {
     headline: `Healthcare Facility Emergency in Great Falls?`,
-    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Great Falls medical facilities within 45 minutes with containment materials, healthcare-grade equipment, and the discretion your practice demands. Call (703) 285-1100 now.`,
+    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Great Falls medical facilities within 45 minutes with containment materials, healthcare-grade equipment, and the discretion your practice demands. Call (877) 497-0007 now.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted commercial fire and smoke restoration team. Emergency response for Eden Center restaurants, historic district businesses, and apartment-commercial complexes. Call (703) 285-1100.`,
+    description: `Falls Church's trusted commercial fire and smoke restoration team. Emergency response for Eden Center restaurants, historic district businesses, and apartment-commercial complexes. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Falls Church, Virginia`,
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Historic building preservation—Falls Church City properties need character-appropriate restoration techniques`,
       `Vertical damage—apartment-commercial buildings add complexity from multi-story smoke and water migration`,
     ],
-    cta: `Call (703) 285-1100 for immediate commercial fire emergency response in Falls Church. Our teams adapt to every property type—Eden Center restaurants, historic storefronts, modern offices, and apartment-commercial buildings.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Falls Church. Our teams adapt to every property type—Eden Center restaurants, historic storefronts, modern offices, and apartment-commercial buildings.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -155,6 +155,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Falls Church?`,
-    paragraph: `From Eden Center's dining complex to Falls Church City's historic storefronts, our integrated restoration teams adapt to every property type with building-appropriate equipment and expertise. Call (703) 285-1100 for immediate emergency response.`,
+    paragraph: `From Eden Center's dining complex to Falls Church City's historic storefronts, our integrated restoration teams adapt to every property type with building-appropriate equipment and expertise. Call (877) 497-0007 for immediate emergency response.`,
   },
 }

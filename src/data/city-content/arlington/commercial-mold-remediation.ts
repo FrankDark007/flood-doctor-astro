@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Arlington, VA | Flood Doctor`,
-    description: `Arlington's trusted commercial mold remediation team. CIH-coordinated protocols for high-rise offices, restaurants, and multi-tenant buildings in Rosslyn, Ballston, and Crystal City. Call (703) 285-1102.`,
+    description: `Arlington's trusted commercial mold remediation team. CIH-coordinated protocols for high-rise offices, restaurants, and multi-tenant buildings in Rosslyn, Ballston, and Crystal City. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Arlington, Virginia`,
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Building access logistics—high-rise equipment deployment and after-hours scheduling affect project efficiency`,
       `Tenant displacement count—the number of affected tenants influences scheduling urgency and coordination requirements`,
     ],
-    cta: `Call (703) 285-1102 for a confidential commercial mold assessment in Arlington. We coordinate CIH engagement, provide detailed estimates, and help establish insurance coverage for mold events linked to water damage.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment in Arlington. We coordinate CIH engagement, provide detailed estimates, and help establish insurance coverage for mold events linked to water damage.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold Contamination in Your Arlington Commercial Building?`,
-    paragraph: `In Arlington's interconnected commercial buildings, mold spreads through shared HVAC systems and affects entire occupant populations. Our CIH-coordinated remediation delivers clearance-verified results while keeping unaffected areas operational. Call (703) 285-1102 for an immediate assessment.`,
+    paragraph: `In Arlington's interconnected commercial buildings, mold spreads through shared HVAC systems and affects entire occupant populations. Our CIH-coordinated remediation delivers clearance-verified results while keeping unaffected areas operational. Call (877) 497-0007 for an immediate assessment.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Storm Damage Restoration in Leesburg, VA | Flood Doctor`,
-    description: `Expert storm damage restoration for Leesburg properties. Serving historic homes, Lansdowne estates, and Village at Leesburg. 24/7 emergency response. Call (703) 285-1107.`,
+    description: `Expert storm damage restoration for Leesburg properties. Serving historic homes, Lansdowne estates, and Village at Leesburg. 24/7 emergency response. Call (877) 497-0007.`,
   },
   h1: `Leesburg Storm Damage Restoration`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Response & Securing`,
-      description: `Call (703) 285-1107 for immediate dispatch. Our first priority is securing your Leesburg property with emergency tarping, board-up, and water mitigation to prevent further storm damage.`,
+      description: `Call (877) 497-0007 for immediate dispatch. Our first priority is securing your Leesburg property with emergency tarping, board-up, and water mitigation to prevent further storm damage.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Historic preservation requirements for older Leesburg properties`,
       `Insurance coverage — we work with all major carriers`,
     ],
-    cta: `Call (703) 285-1107 for emergency storm response and a detailed damage assessment.`,
+    cta: `Call (877) 497-0007 for emergency storm response and a detailed damage assessment.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `Should I call my insurance first or Flood Doctor first?`,
-      answer: `Call Flood Doctor at (703) 285-1107 first. Stopping active water intrusion is time-critical and your insurance company expects you to mitigate damage promptly. We document everything for your insurance claim and can work directly with your adjuster.`,
+      answer: `Call Flood Doctor at (877) 497-0007 first. Stopping active water intrusion is time-critical and your insurance company expects you to mitigate damage promptly. We document everything for your insurance claim and can work directly with your adjuster.`,
     },
     {
       question: `Can you handle tree damage on historic Leesburg homes?`,
@@ -128,6 +128,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Storm Damage in Leesburg? Act Fast`,
-    paragraph: `Storm damage worsens rapidly when rain continues to enter your home. Flood Doctor provides emergency tarping, water extraction, and full storm restoration for every type of Leesburg property. Call (703) 285-1107 for immediate 24/7 response.`,
+    paragraph: `Storm damage worsens rapidly when rain continues to enter your home. Flood Doctor provides emergency tarping, water extraction, and full storm restoration for every type of Leesburg property. Call (877) 497-0007 for immediate 24/7 response.`,
   },
 }

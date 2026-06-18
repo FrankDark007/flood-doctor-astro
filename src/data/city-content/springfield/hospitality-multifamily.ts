@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Springfield, VA | Flood Doctor`,
-    description: `Springfield's trusted restoration experts for hotels, apartment communities, and multifamily properties. Military-friendly service near Fort Belvoir, Kingstowne, and Franconia. Call (703) 285-1110.`,
+    description: `Springfield's trusted restoration experts for hotels, apartment communities, and multifamily properties. Military-friendly service near Fort Belvoir, Kingstowne, and Franconia. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Springfield, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our approach balances thoroughness with practical efficiency. We deploy enough p
   processSteps: [
     {
       title: `Immediate Property Assessment and Containment`,
-      description: `When you call (703) 285-1110, our multi-unit response team deploys immediately. We assess the full scope of water migration through Springfield's older building construction, identify all affected units, and install containment to prevent further spread through aging wall cavities and plumbing chases.`,
+      description: `When you call (877) 497-0007, our multi-unit response team deploys immediately. We assess the full scope of water migration through Springfield's older building construction, identify all affected units, and install containment to prevent further spread through aging wall cavities and plumbing chases.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our approach balances thoroughness with practical efficiency. We deploy enough p
       `Pre-existing infrastructure conditions that affect restoration scope and timeline`,
       `Multi-policy documentation for HOA master policies and individual unit coverage`,
     ],
-    cta: `Call (703) 285-1110 for immediate multi-unit assessment. We provide transparent estimates and coordinate with property management companies, military housing offices, and insurance carriers throughout the Springfield area.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We provide transparent estimates and coordinate with property management companies, military housing offices, and insurance carriers throughout the Springfield area.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ Our approach balances thoroughness with practical efficiency. We deploy enough p
   ],
   finalCTA: {
     headline: `Water Damage in Your Springfield Property?`,
-    paragraph: `Every hour of water exposure in older buildings increases damage scope and displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Springfield multifamily investment. Call (703) 285-1110 now.`,
+    paragraph: `Every hour of water exposure in older buildings increases damage scope and displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Springfield multifamily investment. Call (877) 497-0007 now.`,
   },
 }

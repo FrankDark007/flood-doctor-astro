@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Water Damage Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling commercial water damage restoration. Route 7 corridor businesses, shopping centers & office parks. Rapid response to minimize downtime. Call (703) 285-1111.`,
+    description: `Sterling commercial water damage restoration. Route 7 corridor businesses, shopping centers & office parks. Rapid response to minimize downtime. Call (877) 497-0007.`,
   },
   h1: `Commercial Water Damage Restoration in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our commercial project managers handle the coordination that Sterling multi-tena
   processSteps: [
     {
       title: `Commercial Emergency Response`,
-      description: `Call (703) 285-1111 for immediate commercial dispatch. Our crews reach Route 7 corridor businesses, Sterling shopping centers, and commercial properties throughout Sterling within 30 minutes. We bring commercial-grade extraction and protection equipment.`,
+      description: `Call (877) 497-0007 for immediate commercial dispatch. Our crews reach Route 7 corridor businesses, Sterling shopping centers, and commercial properties throughout Sterling within 30 minutes. We bring commercial-grade extraction and protection equipment.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -77,7 +77,7 @@ Our commercial project managers handle the coordination that Sterling multi-tena
       `Schedule requirements—after-hours work to minimize business disruption`,
       `Inventory and equipment protection—commercial contents management and documentation`,
     ],
-    cta: `Call (703) 285-1111 for commercial water damage response. We understand that every hour of closure costs your Sterling business money—our rapid response minimizes downtime and maximizes recovery.`,
+    cta: `Call (877) 497-0007 for commercial water damage response. We understand that every hour of closure costs your Sterling business money—our rapid response minimizes downtime and maximizes recovery.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our commercial project managers handle the coordination that Sterling multi-tena
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute commercial response to all Sterling business areas. Route 7 corridor, Sterling Park shopping centers, and commercial properties throughout the area. Call (703) 285-1111.`,
+    responseTime: `30-minute commercial response to all Sterling business areas. Route 7 corridor, Sterling Park shopping centers, and commercial properties throughout the area. Call (877) 497-0007.`,
   },
   faqs: [
     {

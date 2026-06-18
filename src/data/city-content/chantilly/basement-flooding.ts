@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Restoration in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's basement flooding experts. 30-min response to South Riding, Chantilly Highlands & Franklin Glen. Sump pump failure and storm flooding specialists. Call (703) 285-1104.`,
+    description: `Chantilly's basement flooding experts. 30-min response to South Riding, Chantilly Highlands & Franklin Glen. Sump pump failure and storm flooding specialists. Call (877) 497-0007.`,
   },
   h1: 'Basement Flooding Restoration in Chantilly, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Pump-Out',
-      description: `Call (703) 285-1104 and our trucks arrive within 30 minutes with submersible pumps and truck-mounted extractors. We remove standing water from Chantilly's large finished basements at thousands of gallons per hour.`,
+      description: `Call (877) 497-0007 and our trucks arrive within 30 minutes with submersible pumps and truck-mounted extractors. We remove standing water from Chantilly's large finished basements at thousands of gallons per hour.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       `Duration of flooding before response—faster extraction reduces secondary damage costs`,
       `Prevention measures—sump pump upgrades and waterproofing are additional investments`,
     ],
-    cta: `Call (703) 285-1104 for emergency basement flooding response. We arrive within 30 minutes and provide free damage assessments with detailed estimates.`,
+    cta: `Call (877) 497-0007 for emergency basement flooding response. We arrive within 30 minutes and provide free damage assessments with detailed estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -136,7 +136,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `My Chantilly basement just flooded—what should I do first?`,
-      answer: `Do not enter standing water if there is any chance of electrical contact. Turn off the breaker for the basement circuit if you can do so safely from upstairs. Then call (703) 285-1104 for emergency extraction within 30 minutes.`,
+      answer: `Do not enter standing water if there is any chance of electrical contact. Turn off the breaker for the basement circuit if you can do so safely from upstairs. Then call (877) 497-0007 for emergency extraction within 30 minutes.`,
     },
     {
       question: `Can my finished basement be saved after flooding?`,
@@ -170,6 +170,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Basement Flooding in Your Chantilly Home?',
-    paragraph: `Your finished basement is too valuable to lose to water damage. Our crews respond within 30 minutes with industrial extraction equipment to pump out your basement and begin professional drying. Call (703) 285-1104 now.`,
+    paragraph: `Your finished basement is too valuable to lose to water damage. Our crews respond within 30 minutes with industrial extraction equipment to pump out your basement and begin professional drying. Call (877) 497-0007 now.`,
   },
 }

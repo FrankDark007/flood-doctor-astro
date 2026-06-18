@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Lorton, VA | Flood Doctor',
-    description: `Lorton commercial water damage restoration. Occoquan waterfront businesses, Laurel Hill retail centers & Gunston area commercial properties. Fast industrial response. Call (703) 285-1100.`,
+    description: `Lorton commercial water damage restoration. Occoquan waterfront businesses, Laurel Hill retail centers & Gunston area commercial properties. Fast industrial response. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Lorton, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams adapt to each property's construction era a
   processSteps: [
     {
       title: 'Rapid Commercial Dispatch',
-      description: `Call (703) 285-1100 for immediate response. Our Lorton crews reach properties from Laurel Hill retail centers to Occoquan waterfront businesses with truck-mounted extraction and commercial drying equipment ready for deployment.`,
+      description: `Call (877) 497-0007 for immediate response. Our Lorton crews reach properties from Laurel Hill retail centers to Occoquan waterfront businesses with truck-mounted extraction and commercial drying equipment ready for deployment.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -116,7 +116,7 @@ Our IICRC-certified commercial teams adapt to each property's construction era a
       'Infrastructure condition—aging Route 1 corridor plumbing may require investigation beyond the immediate water event',
       'Business interruption urgency—peak-season damage to Occoquan dining establishments carries higher urgency for rapid restoration',
     ],
-    cta: `Call (703) 285-1100 for immediate commercial water damage response. Our Lorton teams bring the technical range this growing market demands—from new construction expertise to waterfront restoration capability.`,
+    cta: `Call (877) 497-0007 for immediate commercial water damage response. Our Lorton teams bring the technical range this growing market demands—from new construction expertise to waterfront restoration capability.`,
   },
   serviceAreaSection: {
     neighborhoods: [

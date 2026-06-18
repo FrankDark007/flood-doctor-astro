@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Tysons, VA | Flood Doctor',
-    description: 'Tysons sewage cleanup for commercial buildings & high-rises. 24/7 biohazard response for sanitary failures, lift station backups & Category 3 contamination. Call (703) 656-0106.',
+    description: 'Tysons sewage cleanup for commercial buildings & high-rises. 24/7 biohazard response for sanitary failures, lift station backups & Category 3 contamination. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in Tysons, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians are trained in Category 3 biohazard response wit
   processSteps: [
     {
       title: 'Emergency Response & Isolation',
-      description: 'Sewage backups require immediate response—contamination spreads quickly and health hazards increase hourly. When you call (703) 656-0106, we dispatch immediately while guiding you on isolation procedures. We reach Tysons properties within 30 minutes with full biohazard response equipment.',
+      description: 'Sewage backups require immediate response—contamination spreads quickly and health hazards increase hourly. When you call (877) 497-0007, we dispatch immediately while guiding you on isolation procedures. We reach Tysons properties within 30 minutes with full biohazard response equipment.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -133,7 +133,7 @@ Our IICRC-certified technicians are trained in Category 3 biohazard response wit
       'Documentation needs—commercial properties often require third-party testing and detailed reporting',
       'Time before response—delay allows contamination spread, increasing cleanup scope',
     ],
-    cta: 'Call (703) 656-0106 for immediate response. Sewage contamination worsens hourly—rapid professional cleanup protects health and minimizes property damage.',
+    cta: 'Call (877) 497-0007 for immediate response. Sewage contamination worsens hourly—rapid professional cleanup protects health and minimizes property damage.',
   },
   serviceAreaSection: {
     neighborhoods: [

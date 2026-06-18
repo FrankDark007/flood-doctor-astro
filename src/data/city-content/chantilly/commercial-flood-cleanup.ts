@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Chantilly, VA | Flood Doctor',
-    description: `Commercial flood cleanup for Chantilly businesses. Westfields Business Park, Dulles corridor & Sully Plaza specialists. Rapid extraction and restoration. Call (703) 285-1104.`,
+    description: `Commercial flood cleanup for Chantilly businesses. Westfields Business Park, Dulles corridor & Sully Plaza specialists. Rapid extraction and restoration. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Chantilly, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Commercial Dispatch',
-      description: `Call (703) 285-1104 for immediate commercial flood response. We deploy crews with commercial-scale extraction equipment, coordinating with building management for rapid access to your Chantilly property.`,
+      description: `Call (877) 497-0007 for immediate commercial flood response. We deploy crews with commercial-scale extraction equipment, coordinating with building management for rapid access to your Chantilly property.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Multi-tenant involvement—shared building systems and multiple affected tenants add coordination complexity`,
       `Asset protection requirements—high-value equipment and inventory protection adds scope`,
     ],
-    cta: `Call (703) 285-1104 for immediate commercial flood response. Our commercial team understands that your business cannot wait.`,
+    cta: `Call (877) 497-0007 for immediate commercial flood response. Our commercial team understands that your business cannot wait.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Commercial Flood Emergency in Chantilly?',
-    paragraph: `Every hour of commercial downtime costs your business money. Our commercial flood crews respond within 30 minutes to Westfields, Sully Plaza, and all Dulles corridor locations with commercial-scale equipment. Call (703) 285-1104 now.`,
+    paragraph: `Every hour of commercial downtime costs your business money. Our commercial flood crews respond within 30 minutes to Westfields, Sully Plaza, and all Dulles corridor locations with commercial-scale equipment. Call (877) 497-0007 now.`,
   },
 }

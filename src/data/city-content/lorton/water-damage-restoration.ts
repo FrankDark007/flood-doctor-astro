@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Lorton, VA | Flood Doctor',
-    description: `Lorton's trusted water damage restoration experts. 30-min response to Laurel Hill, Mason Neck & Occoquan. Waterfront property specialists. Call (703) 656-0113.`,
+    description: `Lorton's trusted water damage restoration experts. 30-min response to Laurel Hill, Mason Neck & Occoquan. Waterfront property specialists. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Lorton, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor has served Lorton's growing community for nearly two decades. We've
 
 Our IICRC-certified technicians don't just extract water and leave. We understand that your new Laurel Hill townhome's modern building systems require different approaches than Occoquan's historic properties, that Mason Neck's crawlspace foundations need specialized moisture control, and that South County's clay soil creates unique foundation water intrusion patterns.`,
     ],
-    localContext: `Lorton spans new construction developments, established neighborhoods, and waterfront properties—each requiring specialized restoration expertise. We've protected investments throughout Laurel Hill, Mason Neck, Occoquan, South County, and Gunston since 2005.`,
+    localContext: `Lorton spans new construction developments, established neighborhoods, and waterfront properties—each requiring specialized restoration expertise. We've protected investments throughout Laurel Hill, Mason Neck, Occoquan, South County, and Gunston for years.`,
   },
   processSteps: [
     {
       title: 'Rapid 30-Minute Emergency Response',
-      description: 'When you call our Lorton hotline at (703) 656-0113, we dispatch from our South Fairfax County staging area immediately. Our trucks are positioned to reach Laurel Hill, Mason Neck, Occoquan, and South County within our 30-minute guarantee—strategically stationed near Lorton Station and along the Route 1 corridor, not at a distant warehouse.',
+      description: 'When you call our Lorton hotline at (877) 497-0007, we dispatch from our South Fairfax County staging area immediately. Our trucks are positioned to reach Laurel Hill, Mason Neck, Occoquan, and South County within our 30-minute guarantee—strategically stationed near Lorton Station and along the Route 1 corridor, not at a distant warehouse.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -125,7 +125,7 @@ Our IICRC-certified technicians don't just extract water and leave. We understan
       'Property access—waterfront properties or homes on wooded lots may present equipment transport challenges',
       'Response timing—calling within the first hour dramatically reduces total damage and restoration costs',
     ],
-    cta: `Call (703) 656-0113 for a free, no-obligation inspection. We'll assess your water damage, provide a detailed estimate, and explain your insurance coverage options specific to Lorton properties.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess your water damage, provide a detailed estimate, and explain your insurance coverage options specific to Lorton properties.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,7 +145,7 @@ Our IICRC-certified technicians don't just extract water and leave. We understan
   faqs: [
     {
       question: 'How quickly should I call after discovering water damage in my Lorton home?',
-      answer: `Immediately. Water damage worsens exponentially with every passing hour—water continues migrating into walls, under floors, and through ceiling spaces while mold can begin growing within 24-48 hours. In Lorton's humid climate, especially during summer months, the mold timeline can be even shorter. Call (703) 656-0113 the moment you discover water.`,
+      answer: `Immediately. Water damage worsens exponentially with every passing hour—water continues migrating into walls, under floors, and through ceiling spaces while mold can begin growing within 24-48 hours. In Lorton's humid climate, especially during summer months, the mold timeline can be even shorter. Call (877) 497-0007 the moment you discover water.`,
     },
     {
       question: 'Can you help with flooding from the Occoquan River or tidal surge?',

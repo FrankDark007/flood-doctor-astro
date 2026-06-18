@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Water Damage Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling's trusted water damage restoration experts. Fast response to Sterling Park, Cascades & Countryside. Aging plumbing specialists for 1970s-80s homes. Call (703) 285-1111.`,
+    description: `Sterling's trusted water damage restoration experts. Fast response to Sterling Park, Cascades & Countryside. Aging plumbing specialists for 1970s-80s homes. Call (877) 497-0007.`,
   },
   h1: `Water Damage Restoration in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC Master Water Restorers understand both legacy and modern construction 
   processSteps: [
     {
       title: `Emergency Response to Sterling`,
-      description: `Call (703) 285-1111 and our crews dispatch immediately. We maintain positions throughout the Route 7 corridor to reach Sterling Park, Cascades, Countryside, and Potomac Falls within our rapid response window—not from a distant warehouse, but from the Sterling area where we are already working.`,
+      description: `Call (877) 497-0007 and our crews dispatch immediately. We maintain positions throughout the Route 7 corridor to reach Sterling Park, Cascades, Countryside, and Potomac Falls within our rapid response window—not from a distant warehouse, but from the Sterling area where we are already working.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -116,7 +116,7 @@ Our IICRC Master Water Restorers understand both legacy and modern construction 
       `HOA coordination requirements for Cascades and Countryside townhome communities`,
       `Duration before response—faster calls mean less damage and lower restoration costs`,
     ],
-    cta: `Call (703) 285-1111 for a free inspection. We assess the damage honestly, provide a detailed estimate, and explain your insurance options—no pressure, no upselling.`,
+    cta: `Call (877) 497-0007 for a free inspection. We assess the damage honestly, provide a detailed estimate, and explain your insurance options—no pressure, no upselling.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -141,7 +141,7 @@ Our IICRC Master Water Restorers understand both legacy and modern construction 
   faqs: [
     {
       question: `How quickly should I call after discovering water damage in my Sterling home?`,
-      answer: `Immediately. In older Sterling Park homes, water migrates through deteriorated insulation and aging subfloor materials faster than you might expect. In Cascades townhomes, shared walls mean water can spread to neighboring units. Call (703) 285-1111 the moment you discover water—every hour of delay increases damage and cost.`,
+      answer: `Immediately. In older Sterling Park homes, water migrates through deteriorated insulation and aging subfloor materials faster than you might expect. In Cascades townhomes, shared walls mean water can spread to neighboring units. Call (877) 497-0007 the moment you discover water—every hour of delay increases damage and cost.`,
     },
     {
       question: `My Sterling Park home has original plumbing. Is that causing my water damage?`,

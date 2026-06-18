@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Vienna, VA | Flood Doctor`,
-    description: `Vienna's commercial and light industrial restoration specialists. Serving business operations along Maple Avenue, in Oakton, and the Tysons Woods corridor. Call (703) 285-1112.`,
+    description: `Vienna's commercial and light industrial restoration specialists. Serving business operations along Maple Avenue, in Oakton, and the Tysons Woods corridor. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Vienna, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Vienna commercial team treats every business restoration with the urgency th
   processSteps: [
     {
       title: `Rapid Commercial Response`,
-      description: `Call (703) 285-1112 for immediate commercial facility response. Our Vienna crews deploy with equipment appropriate to your business type—anti-corrosion treatment for technology operations, food-grade equipment for production kitchens, or standard extraction for retail and office environments.`,
+      description: `Call (877) 497-0007 for immediate commercial facility response. Our Vienna crews deploy with equipment appropriate to your business type—anti-corrosion treatment for technology operations, food-grade equipment for production kitchens, or standard extraction for retail and office environments.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Vienna commercial team treats every business restoration with the urgency th
       `Building responsibility—tenant versus landlord liability for plumbing, roof, and building system failures`,
       `Business interruption urgency—revenue loss timeline driving expedited restoration requirements`,
     ],
-    cta: `Call (703) 285-1112 for emergency commercial assessment. We provide detailed estimates supporting every applicable insurance coverage category for Vienna business restoration.`,
+    cta: `Call (877) 497-0007 for emergency commercial assessment. We provide detailed estimates supporting every applicable insurance coverage category for Vienna business restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ Our Vienna commercial team treats every business restoration with the urgency th
   ],
   finalCTA: {
     headline: `Vienna Business Emergency?`,
-    paragraph: `Every hour of closure costs your business revenue and customer trust. Our commercial restoration crews reach any Vienna operation within 30 minutes with equipment matched to your business type. Call (703) 285-1112 now.`,
+    paragraph: `Every hour of closure costs your business revenue and customer trust. Our commercial restoration crews reach any Vienna operation within 30 minutes with equipment matched to your business type. Call (877) 497-0007 now.`,
   },
 }

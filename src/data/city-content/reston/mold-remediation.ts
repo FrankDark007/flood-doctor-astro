@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Reston, VA | Flood Doctor',
-    description: 'Reston mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Lake Anne, South Lakes, North Point. Call (703) 656-0107.',
+    description: 'Reston mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in Reston, Virginia',
   introSection: {
@@ -67,7 +67,7 @@ We don't simply spray bleach and hope for the best. Professional mold remediatio
       'Moisture source correction—may require dehumidification for lake-area properties',
     ],
     insuranceNote: `Most homeowner policies don't cover mold remediation as a standalone issue. However, if mold resulted from a covered water damage event (burst pipe, appliance failure), remediation may be covered. We help document the connection for insurance purposes.`,
-    cta: `Call (703) 656-0107 for a professional mold assessment. We'll identify the scope, explain options, and provide a detailed estimate.`,
+    cta: `Call (877) 497-0007 for a professional mold assessment. We'll identify the scope, explain options, and provide a detailed estimate.`,
   },
   serviceAreaSection: {
     neighborhoods: [

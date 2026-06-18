@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Lorton, VA | Flood Doctor',
-    description: `Lorton structural drying for Laurel Hill, Mason Neck & Occoquan homes. New construction expertise, waterfront protection & crawlspace drying. Call (703) 285-1100.`,
+    description: `Lorton structural drying for Laurel Hill, Mason Neck & Occoquan homes. New construction expertise, waterfront protection & crawlspace drying. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Lorton, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians develop property-specific drying plans: monitori
   processSteps: [
     {
       title: 'Rapid Lorton Response',
-      description: `Call (703) 285-1100 and our crews reach Laurel Hill, Mason Neck, Occoquan, South County, and Gunston within 30 minutes. Emergency extraction begins immediately — protecting engineered flooring in newer homes, managing sediment in waterfront properties, and accessing crawlspaces in wooded-lot homes.`,
+      description: `Call (877) 497-0007 and our crews reach Laurel Hill, Mason Neck, Occoquan, South County, and Gunston within 30 minutes. Emergency extraction begins immediately — protecting engineered flooring in newer homes, managing sediment in waterfront properties, and accessing crawlspaces in wooded-lot homes.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -114,7 +114,7 @@ Our IICRC-certified technicians develop property-specific drying plans: monitori
       'Crawlspace involvement — below-grade access adds labor complexity; chronic conditions may require encapsulation recommendations',
       'Builder warranty — newer Laurel Hill homes with drainage defects require specific documentation for warranty claims alongside insurance',
     ],
-    cta: `Call (703) 285-1100 for a property-specific Lorton assessment. We evaluate your home construction, water source, and environmental conditions for accurate estimates.`,
+    cta: `Call (877) 497-0007 for a property-specific Lorton assessment. We evaluate your home construction, water source, and environmental conditions for accurate estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ Our IICRC-certified technicians develop property-specific drying plans: monitori
   ],
   finalCTA: {
     headline: 'Water Damage in Your Lorton Home?',
-    paragraph: 'Whether you live in a new Laurel Hill development, a Mason Neck waterfront property, or an established wooded-lot home, water damage needs immediate professional response matched to your construction type. Our Lorton team arrives within 30 minutes. Call (703) 285-1100.',
+    paragraph: 'Whether you live in a new Laurel Hill development, a Mason Neck waterfront property, or an established wooded-lot home, water damage needs immediate professional response matched to your construction type. Our Lorton team arrives within 30 minutes. Call (877) 497-0007.',
   },
 }

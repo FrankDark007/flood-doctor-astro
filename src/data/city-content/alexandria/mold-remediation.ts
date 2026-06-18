@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Alexandria, VA | Flood Doctor',
-    description: 'Alexandria mold remediation experts. Safe removal from Old Town historic properties, basement apartments & Del Ray homes. Preserving original materials. Call (703) 656-0103.',
+    description: 'Alexandria mold remediation experts. Safe removal from Old Town historic properties, basement apartments & Del Ray homes. Preserving original materials. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation in Alexandria, Virginia',
   introSection: {
@@ -16,7 +16,7 @@ Flood Doctor has remediated mold from Alexandria properties for nearly two decad
 
 Our IICRC-certified mold remediation technicians understand both the science of mold removal and the requirements of Alexandria's historic properties. We don't just demolish and rebuild—we assess each situation to determine what can be safely cleaned and preserved versus what must be removed. Your 1890s rowhouse deserves remediation that respects its character while eliminating health hazards.`,
     ],
-    localContext: `Alexandria's combination of humidity, historic housing, and high water tables creates mold conditions that require specialized expertise. We've developed remediation approaches specific to Alexandria's building types since 2005.`,
+    localContext: `Alexandria's combination of humidity, historic housing, and high water tables creates mold conditions that require specialized expertise. We've developed remediation approaches specific to Alexandria's building types for years.`,
   },
   processSteps: [
     {
@@ -126,7 +126,7 @@ Our IICRC-certified mold remediation technicians understand both the science of 
       'Testing requirements—some situations warrant pre- and post-remediation air quality testing',
       'Moisture source—addressing the cause adds cost but prevents recurrence',
     ],
-    cta: `Call (703) 656-0103 for a mold inspection. We'll assess the contamination, identify moisture sources, and provide a detailed estimate covering both remediation and prevention.`,
+    cta: `Call (877) 497-0007 for a mold inspection. We'll assess the contamination, identify moisture sources, and provide a detailed estimate covering both remediation and prevention.`,
   },
   serviceAreaSection: {
     neighborhoods: [

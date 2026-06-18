@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's trusted restoration for ACPS schools, city buildings, and historic public facilities. BAR-compliant restoration for government structures. Call (703) 285-1101.`,
+    description: `Alexandria's trusted restoration for ACPS schools, city buildings, and historic public facilities. BAR-compliant restoration for government structures. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Alexandria, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ The regulatory framework governing Alexandria public building restoration adds l
   processSteps: [
     {
       title: `Emergency Public Facility Response`,
-      description: `Call (703) 285-1101 for immediate school or municipal building response. We coordinate with ACPS facilities management or City of Alexandria DGS to establish incident command and activate emergency procurement authority for rapid restoration mobilization.`,
+      description: `Call (877) 497-0007 for immediate school or municipal building response. We coordinate with ACPS facilities management or City of Alexandria DGS to establish incident command and activate emergency procurement authority for rapid restoration mobilization.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -114,7 +114,7 @@ The regulatory framework governing Alexandria public building restoration adds l
       `Academic calendar urgency—compressed timelines for school restoration require additional crew deployment and extended hours`,
       `Multi-agency documentation for ACPS, city procurement, BAR, EPA, and public communication requirements`,
     ],
-    cta: `Call (703) 285-1101 for emergency school or municipal building assessment. We provide procurement-compliant estimates and coordinate with ACPS and city facilities management for immediate authorization.`,
+    cta: `Call (877) 497-0007 for emergency school or municipal building assessment. We provide procurement-compliant estimates and coordinate with ACPS and city facilities management for immediate authorization.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -170,6 +170,6 @@ The regulatory framework governing Alexandria public building restoration adds l
   ],
   finalCTA: {
     headline: `Alexandria School or Public Building Emergency?`,
-    paragraph: `Student safety and public services cannot wait. Our crews respond to Alexandria schools and government buildings within 45 minutes with biohazard equipment, preservation expertise, and the regulatory knowledge these historic facilities demand. Call (703) 285-1101 immediately.`,
+    paragraph: `Student safety and public services cannot wait. Our crews respond to Alexandria schools and government buildings within 45 minutes with biohazard equipment, preservation expertise, and the regulatory knowledge these historic facilities demand. Call (877) 497-0007 immediately.`,
   },
 }

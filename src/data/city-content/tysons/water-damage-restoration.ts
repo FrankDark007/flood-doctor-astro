@@ -67,7 +67,7 @@ export const content: CityServiceContent = {
     paragraph: [
       `Tysons' status as Northern Virginia's premier urban center demands water damage restoration services that match the sophistication of its buildings and the expectations of its residents and businesses. Our comprehensive restoration capabilities, specialized high-rise expertise, and understanding of Tysons' unique building environment make us the trusted choice for property managers, HOA boards, and property owners throughout the area.`,
       'From luxury condominiums in Tysons Corner to Class A office buildings in Tysons Central, from mixed-use developments at The Boro to emerging properties along The Mile, we provide professional water damage restoration that protects property values, preserves premium finishes, and minimizes disruption to residential and business operations.',
-      `Water damage emergencies don't respect business hours or building schedules. Our 24/7 availability ensures immediate response whenever water damage threatens your Tysons property. Contact us at (703) 656-0106 for emergency water damage restoration services backed by specialized expertise, advanced equipment, and a commitment to complete recovery.`,
+      `Water damage emergencies don't respect business hours or building schedules. Our 24/7 availability ensures immediate response whenever water damage threatens your Tysons property. Contact us at (877) 497-0007 for emergency water damage restoration services backed by specialized expertise, advanced equipment, and a commitment to complete recovery.`,
     ],
   },
 }

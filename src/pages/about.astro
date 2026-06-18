@@ -3,15 +3,16 @@ import BaseLayout from '../layouts/BaseLayout.astro'
 import ContactForm from '../components/islands/ContactForm.tsx'
 import { cityData } from '../data/cities'
 
+const serviceAreaCount = cityData.serviceArea.length
+
 const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'AboutPage',
   mainEntity: {
     '@type': 'LocalBusiness',
     name: `Flood Doctor ${cityData.name}`,
-    description: `Professional water damage restoration company serving ${cityData.name} and Northern Virginia since 2014.`,
+    description: `Professional water damage restoration company serving ${cityData.name} and Northern Virginia.`,
     telephone: cityData.phone,
-    foundingDate: '2014',
     areaServed: {
       '@type': 'State',
       name: 'Virginia',
@@ -19,30 +20,22 @@ const structuredData = {
   },
 }
 
-const timeline = [
+const capabilities = [
   {
-    name: 'Founded in Virginia',
-    description: 'Flood Doctor was established to bring fast, professional water damage restoration to Northern Virginia homeowners and businesses.',
-    date: '2014',
-    dateTime: '2014',
+    name: 'Emergency Dispatch',
+    description: '24/7 response for water damage, flooding, sewage, storm damage, and urgent structural drying calls.',
   },
   {
-    name: 'IICRC Certified Team',
-    description: 'Our entire crew earned IICRC certifications in Water Damage Restoration (WRT) and Applied Structural Drying (ASD).',
-    date: '2016',
-    dateTime: '2016',
+    name: 'Certified Restoration',
+    description: 'Technicians follow IICRC-aligned drying, containment, documentation, and remediation procedures.',
   },
   {
-    name: 'Expanded to 13 Cities',
-    description: 'Grew service area across Northern Virginia including Ashburn, Leesburg, Sterling, Herndon, Reston, Fairfax, and beyond.',
-    date: '2019',
-    dateTime: '2019',
+    name: `${serviceAreaCount} Service Areas`,
+    description: `Coverage spans ${cityData.serviceArea.slice(0, 6).join(', ')}, and other Northern Virginia communities.`,
   },
   {
-    name: '2,500+ Restorations',
-    description: 'Passed 2,500 completed restorations with a 98.7% customer satisfaction rate and 4.9-star Google rating.',
-    date: '2025',
-    dateTime: '2025',
+    name: 'Insurance Documentation',
+    description: 'Clear photos, moisture readings, scopes, and claim-ready records support adjuster communication.',
   },
 ]
 
@@ -68,7 +61,7 @@ const values = [
 
 <BaseLayout
   title={`About Us | Flood Doctor ${cityData.name}`}
-  description={`Learn about Flood Doctor — Northern Virginia's trusted water damage restoration company since 2014. IICRC certified, 4.9-star rated, serving ${cityData.name} and 13 cities.`}
+  description={`Learn about Flood Doctor, a water damage restoration company serving ${cityData.name} and ${serviceAreaCount} Northern Virginia service areas.`}
   structuredData={structuredData}
 >
   <main class="isolate">
@@ -85,7 +78,7 @@ const values = [
           </h1>
           <div class="mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1">
             <p class="text-lg font-medium text-pretty text-gray-500 dark:text-gray-400 sm:text-xl/8">
-              Since 2014, Flood Doctor has been Northern Virginia's go-to restoration company. We combine rapid emergency response with certified expertise to restore homes and businesses after water damage, flooding, and mold — minimizing damage and getting life back to normal, fast.
+              Flood Doctor combines rapid emergency response with certified restoration practices to restore homes and businesses after water damage, flooding, and mold. Our focus is simple: stabilize fast, document clearly, and get life back to normal.
             </p>
           </div>
           <img
@@ -98,21 +91,21 @@ const values = [
       <div class="absolute inset-x-0 bottom-0 -z-10 h-24 bg-gradient-to-t from-white dark:from-gray-900 sm:h-32"></div>
     </div>
 
-    <!-- Timeline section -->
+    <!-- Capabilities section -->
     <div class="mx-auto -mt-8 max-w-7xl px-6 lg:px-8">
       <div class="mx-auto grid max-w-2xl grid-cols-1 gap-8 overflow-hidden lg:mx-0 lg:max-w-none lg:grid-cols-4">
-        {timeline.map((item) => (
+        {capabilities.map((item) => (
           <div>
-            <time datetime={item.dateTime} class="flex items-center text-sm/6 font-semibold text-indigo-600 dark:text-indigo-400">
+            <p class="flex items-center text-sm/6 font-semibold text-indigo-600 dark:text-indigo-400">
               <svg viewBox="0 0 4 4" aria-hidden="true" class="mr-4 size-1 flex-none">
                 <circle r="2" cx="2" cy="2" fill="currentColor" />
               </svg>
-              {item.date}
+              Flood Doctor
               <div
                 aria-hidden="true"
                 class="absolute -ml-2 h-px w-screen -translate-x-full bg-gray-200 dark:bg-white/10 sm:-ml-4 lg:static lg:-mr-6 lg:ml-8 lg:w-auto lg:flex-auto lg:translate-x-0"
               ></div>
-            </time>
+            </p>
             <p class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white">{item.name}</p>
             <p class="mt-1 text-base/7 text-gray-500 dark:text-gray-400">{item.description}</p>
           </div>
@@ -151,7 +144,7 @@ const values = [
               Trusted by {cityData.name} Families
             </h2>
             <p class="mt-4 text-lg/8 text-gray-600 dark:text-gray-300">
-              The numbers speak for themselves.
+              Operational commitments we can stand behind on every emergency call.
             </p>
           </div>
           <dl class="mt-16 grid grid-cols-1 gap-0.5 overflow-hidden rounded-2xl text-center sm:grid-cols-2 lg:grid-cols-4">
@@ -160,16 +153,16 @@ const values = [
               <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">&lt;60 min</dd>
             </div>
             <div class="flex flex-col bg-gray-100 dark:bg-white/5 p-8">
-              <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Restorations Completed</dt>
-              <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">2,500+</dd>
+              <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Emergency Availability</dt>
+              <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">24/7</dd>
             </div>
             <div class="flex flex-col bg-gray-100 dark:bg-white/5 p-8">
-              <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Customer Satisfaction</dt>
-              <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">98.7%</dd>
+              <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Service Areas</dt>
+              <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">{serviceAreaCount}</dd>
             </div>
             <div class="flex flex-col bg-gray-100 dark:bg-white/5 p-8">
-              <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Google Rating</dt>
-              <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">4.9 ★</dd>
+              <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Emergency Line</dt>
+              <dd class="order-first text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">{cityData.phone}</dd>
             </div>
           </dl>
         </div>
@@ -312,7 +305,7 @@ const values = [
             </dl>
           </div>
         </div>
-        <ContactForm client:load />
+        <ContactForm city={cityData.slug} client:load />
       </div>
     </div>
   </main>

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Crawl Space Drying in Leesburg, VA | Flood Doctor`,
-    description: `Professional crawl space drying and encapsulation for Leesburg homes. Historic foundation specialists, moisture control, mold prevention. Call (703) 285-1107.`,
+    description: `Professional crawl space drying and encapsulation for Leesburg homes. Historic foundation specialists, moisture control, mold prevention. Call (877) 497-0007.`,
   },
   h1: `Leesburg Crawl Space Drying Services`,
   introSection: {
@@ -85,7 +85,7 @@ export const content: CityServiceContent = {
       `Vapor barrier and encapsulation specifications`,
       `Need for sump pump or dehumidifier installation`,
     ],
-    cta: `Call (703) 285-1107 for a crawl space inspection and customized treatment plan.`,
+    cta: `Call (877) 497-0007 for a crawl space inspection and customized treatment plan.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -118,7 +118,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How much does crawl space encapsulation cost?`,
-      answer: `Costs depend on square footage, accessibility, existing conditions, and scope of work. Contact us at (703) 285-1107 for a detailed inspection and quote specific to your Leesburg property.`,
+      answer: `Costs depend on square footage, accessibility, existing conditions, and scope of work. Contact us at (877) 497-0007 for a detailed inspection and quote specific to your Leesburg property.`,
     },
     {
       question: `Can you work in very tight crawl spaces under historic Leesburg homes?`,
@@ -139,6 +139,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Fix Your Leesburg Crawl Space — Call Today`,
-    paragraph: `A wet crawl space undermines your home's structure, air quality, and energy efficiency. Flood Doctor provides expert crawl space drying and encapsulation for every Leesburg property type. Call (703) 285-1107 for a professional assessment.`,
+    paragraph: `A wet crawl space undermines your home's structure, air quality, and energy efficiency. Flood Doctor provides expert crawl space drying and encapsulation for every Leesburg property type. Call (877) 497-0007 for a professional assessment.`,
   },
 }

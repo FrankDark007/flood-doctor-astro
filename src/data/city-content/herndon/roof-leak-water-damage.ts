@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Herndon, VA | Flood Doctor',
-    description: `Herndon roof leak water damage specialists. Serving Downtown Herndon, Fox Mill & Franklin Farm. Townhome and single-family expertise. Fast response. Call (703) 285-1106.`,
+    description: `Herndon roof leak water damage specialists. Serving Downtown Herndon, Fox Mill & Franklin Farm. Townhome and single-family expertise. Fast response. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Herndon, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Fast Herndon Response',
-      description: `Call (703) 285-1106 and our crews reach your Herndon property within 30 minutes. We assess the interior damage first, then trace the leak through the attic to its roof-level source. For townhome developments near Worldgate, we identify whether the leak originates in your roof section or a shared area.`,
+      description: `Call (877) 497-0007 and our crews reach your Herndon property within 30 minutes. We assess the interior damage first, then trace the leak through the attic to its roof-level source. For townhome developments near Worldgate, we identify whether the leak originates in your roof section or a shared area.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Mold treatment if extended dampness allowed growth before discovery',
       'Townhome shared-roof coordination requirements',
     ],
-    cta: `Call (703) 285-1106 when you spot a ceiling stain, drip, or musty attic odor. In Herndon, early calls cost thousands less than delayed calls. Free assessment, honest pricing.`,
+    cta: `Call (877) 497-0007 when you spot a ceiling stain, drip, or musty attic odor. In Herndon, early calls cost thousands less than delayed calls. Free assessment, honest pricing.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Herndon Roof Leak? Do Not Wait Another Rain.',
-    paragraph: `Every storm makes unrepaired roof leaks worse. Call (703) 285-1106 for emergency tarping and interior restoration that handles the full scope—from roof to finished ceiling.`,
+    paragraph: `Every storm makes unrepaired roof leaks worse. Call (877) 497-0007 for emergency tarping and interior restoration that handles the full scope—from roof to finished ceiling.`,
   },
 }

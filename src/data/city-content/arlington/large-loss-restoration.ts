@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Arlington, VA | Flood Doctor',
-    description: `Arlington large loss restoration for high-rise offices, government contractor buildings & mixed-use towers. Dedicated project management for multi-million dollar projects. Call (703) 285-1102.`,
+    description: `Arlington large loss restoration for high-rise offices, government contractor buildings & mixed-use towers. Dedicated project management for multi-million dollar projects. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Arlington, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors treat Arlington large loss events as construction manageme
   processSteps: [
     {
       title: 'Emergency Stabilization & Securing',
-      description: `Call (703) 285-1102 to activate large loss response. Our stabilization team secures the building, stops ongoing water damage, establishes emergency power if needed, and begins the controlled extraction that prevents further damage while the full project team mobilizes for Arlington's complex commercial environment.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team secures the building, stops ongoing water damage, establishes emergency power if needed, and begins the controlled extraction that prevents further damage while the full project team mobilizes for Arlington's complex commercial environment.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -115,7 +115,7 @@ Our project directors treat Arlington large loss events as construction manageme
       'Reconstruction finish specifications—matching existing commercial finishes requires specification research and specialty subcontractor procurement',
       'Project timeline requirements—accelerated schedules to reduce business interruption carry premium costs but often generate net savings',
     ],
-    cta: `Call (703) 285-1102 for immediate large loss response. Our senior project director will assess building-wide scope and deliver a preliminary project plan within 48 hours of stabilization.`,
+    cta: `Call (877) 497-0007 for immediate large loss response. Our senior project director will assess building-wide scope and deliver a preliminary project plan within 48 hours of stabilization.`,
   },
   serviceAreaSection: {
     neighborhoods: [

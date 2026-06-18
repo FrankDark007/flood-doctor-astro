@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Springfield, VA | Save Your Floors | Flood Doctor',
-    description: `Springfield hardwood floor drying specialists. Saving floors in West Springfield, Franconia & Kingstowne. Split-level and colonial expertise. Military family friendly. Call (703) 285-1110.`,
+    description: `Springfield hardwood floor drying specialists. Saving floors in West Springfield, Franconia & Kingstowne. Split-level and colonial expertise. Military family friendly. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Springfield, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'I-95 Corridor Rapid Response',
-      description: `Call (703) 285-1110 and our Springfield-positioned crews reach your home within 30 minutes. We measure moisture content across the affected area, identify the wood type, and assess whether the damage extends to other levels in multi-story and split-level homes.`,
+      description: `Call (877) 497-0007 and our Springfield-positioned crews reach your home within 30 minutes. We measure moisture content across the affected area, identify the wood type, and assess whether the damage extends to other levels in multi-story and split-level homes.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -108,7 +108,7 @@ export const content: CityServiceContent = {
       'Subfloor accessibility from crawl space or basement for dual-direction drying',
       'Timeline requirements for military PCS or real estate closing deadlines',
     ],
-    cta: `Call (703) 285-1110 when water reaches your Springfield hardwood. Fast response saves floors and saves money—and we provide free assessments with no pressure and no obligation.`,
+    cta: `Call (877) 497-0007 when water reaches your Springfield hardwood. Fast response saves floors and saves money—and we provide free assessments with no pressure and no obligation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -161,6 +161,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Springfield Hardwood Floor Emergency? Save Your Floors.',
-    paragraph: `Your hardwood floors are worth saving—and specialized drying saves both the floor and your budget. Call (703) 285-1110 for immediate response from our I-95 corridor crews.`,
+    paragraph: `Your hardwood floors are worth saving—and specialized drying saves both the floor and your budget. Call (877) 497-0007 for immediate response from our I-95 corridor crews.`,
   },
 }

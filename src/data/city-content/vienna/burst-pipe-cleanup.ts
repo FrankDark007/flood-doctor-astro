@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Vienna, VA | Flood Doctor',
-    description: 'Emergency burst pipe restoration in Vienna, VA. 45-minute response for frozen pipes, corroded galvanized plumbing, and hot water heater failures. IICRC-certified. Call (703) 656-0105.',
+    description: 'Emergency burst pipe restoration in Vienna, VA. 45-minute response for frozen pipes, corroded galvanized plumbing, and hot water heater failures. IICRC-certified. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Restoration in Vienna, Virginia',
   introSection: {
@@ -147,7 +147,7 @@ export const content: CityServiceContent = {
       'Duration of structural drying required based on material saturation levels',
       'Reconstruction scope including plaster repair, hardwood refinishing, drywall replacement, paint, and trim matching',
     ],
-    cta: 'Call (703) 656-0105 for immediate emergency response and a detailed on-site estimate. We work directly with your insurance company and provide comprehensive documentation supporting full claim coverage.',
+    cta: 'Call (877) 497-0007 for immediate emergency response and a detailed on-site estimate. We work directly with your insurance company and provide comprehensive documentation supporting full claim coverage.',
   },
   serviceAreaSection: {
     neighborhoods: ['Vienna Town', 'Oakton', 'Dunn Loring', 'Wolf Trap', 'Clarks Crossing', 'Tysons Woods'],
@@ -156,7 +156,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: 'Where is my main water shutoff valve, and how do I use it?',
-      answer: 'In most Vienna colonials, the main shutoff valve is located in the basement near where the water main enters the house, typically on the front wall closest to the street. Look for a brass gate valve (older homes) or a ball valve with a lever handle (newer installations). Turn gate valves clockwise until tight. Flip ball valve levers perpendicular to the pipe. If the valve is stuck or corroded, do not force it. Call us at (703) 656-0105 and we will guide you through alternative shutoff options including the water meter shutoff at the street.',
+      answer: 'In most Vienna colonials, the main shutoff valve is located in the basement near where the water main enters the house, typically on the front wall closest to the street. Look for a brass gate valve (older homes) or a ball valve with a lever handle (newer installations). Turn gate valves clockwise until tight. Flip ball valve levers perpendicular to the pipe. If the valve is stuck or corroded, do not force it. Call us at (877) 497-0007 and we will guide you through alternative shutoff options including the water meter shutoff at the street.',
     },
     {
       question: 'How do you protect hardwood floors during burst pipe restoration?',
@@ -188,7 +188,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'What should I do immediately after discovering a burst pipe?',
-      answer: 'Shut off the main water supply immediately. Then call (703) 656-0105 for emergency dispatch. While waiting for our crew, move electronics and valuables away from standing water, mop up what you can without entering standing water near electrical outlets, and take photographs documenting damage for insurance. Do not use a household vacuum to extract water as this creates electrocution risk. Do not turn on your HVAC system as this can spread moisture to unaffected areas through ductwork. Our technicians arrive with professional equipment to handle extraction safely and effectively.',
+      answer: 'Shut off the main water supply immediately. Then call (877) 497-0007 for emergency dispatch. While waiting for our crew, move electronics and valuables away from standing water, mop up what you can without entering standing water near electrical outlets, and take photographs documenting damage for insurance. Do not use a household vacuum to extract water as this creates electrocution risk. Do not turn on your HVAC system as this can spread moisture to unaffected areas through ductwork. Our technicians arrive with professional equipment to handle extraction safely and effectively.',
     },
   ],
   relatedBlogSlugs: [

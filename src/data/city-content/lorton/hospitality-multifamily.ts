@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Lorton, VA | Flood Doctor`,
-    description: `Lorton's trusted restoration experts for apartment communities, Laurel Hill condominiums, and Occoquan waterfront hospitality properties. Call (703) 285-1100.`,
+    description: `Lorton's trusted restoration experts for apartment communities, Laurel Hill condominiums, and Occoquan waterfront hospitality properties. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Lorton, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our approach prioritizes rapid restoration that protects both property values an
   processSteps: [
     {
       title: `Immediate Property Assessment and Containment`,
-      description: `When you call (703) 285-1100, our multi-unit response team deploys immediately. We assess the full scope of water migration, identify all affected units, and install containment to prevent further spread through Lorton's newer construction assemblies.`,
+      description: `When you call (877) 497-0007, our multi-unit response team deploys immediately. We assess the full scope of water migration, identify all affected units, and install containment to prevent further spread through Lorton's newer construction assemblies.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our approach prioritizes rapid restoration that protects both property values an
       `Builder warranty evaluation—documentation of potential construction defects for newer Lorton properties`,
       `HOA and property management documentation requirements for developing communities`,
     ],
-    cta: `Call (703) 285-1100 for immediate multi-unit assessment. We coordinate with property management companies, HOA boards, and insurance carriers to streamline restoration for Lorton multifamily properties.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We coordinate with property management companies, HOA boards, and insurance carriers to streamline restoration for Lorton multifamily properties.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ Our approach prioritizes rapid restoration that protects both property values an
   ],
   finalCTA: {
     headline: `Water Damage in Your Lorton Property?`,
-    paragraph: `Every hour of water exposure increases damage scope and displacement costs in modern buildings. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Lorton multifamily investment. Call (703) 285-1100 now.`,
+    paragraph: `Every hour of water exposure increases damage scope and displacement costs in modern buildings. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Lorton multifamily investment. Call (877) 497-0007 now.`,
   },
 }

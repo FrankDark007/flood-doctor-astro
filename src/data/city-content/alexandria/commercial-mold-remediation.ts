@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's trusted commercial mold remediation specialists. CIH-coordinated protocols for Old Town historic buildings, Carlyle offices, and Del Ray commercial properties. Call (703) 285-1101.`,
+    description: `Alexandria's trusted commercial mold remediation specialists. CIH-coordinated protocols for Old Town historic buildings, Carlyle offices, and Del Ray commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Alexandria, Virginia`,
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `Historic preservation requirements—media blasting, specialized antimicrobials, and material documentation add scope for BAR-district properties`,
       `Moisture source correction—resolving chronic foundation moisture, CSO vulnerability, or HVAC condensation issues`,
     ],
-    cta: `Call (703) 285-1101 for a confidential commercial mold assessment in Alexandria. We coordinate CIH engagement and provide remediation approaches tailored to your building type—whether a centuries-old Old Town landmark or a modern Carlyle office complex.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment in Alexandria. We coordinate CIH engagement and provide remediation approaches tailored to your building type—whether a centuries-old Old Town landmark or a modern Carlyle office complex.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold Contamination in Your Alexandria Commercial Property?`,
-    paragraph: `Whether mold threatens a centuries-old King Street landmark or a modern Carlyle office suite, our CIH-coordinated teams deliver clearance-verified results with preservation sensitivity. Call (703) 285-1101 for a confidential commercial mold assessment.`,
+    paragraph: `Whether mold threatens a centuries-old King Street landmark or a modern Carlyle office suite, our CIH-coordinated teams deliver clearance-verified results with preservation sensitivity. Call (877) 497-0007 for a confidential commercial mold assessment.`,
   },
 }

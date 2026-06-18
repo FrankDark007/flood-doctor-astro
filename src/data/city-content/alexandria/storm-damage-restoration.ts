@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Alexandria, VA | Flood Doctor',
-    description: 'Alexandria storm damage restoration. 30-min response for roof damage, wind damage & storm flooding. BAR-compliant historic repairs. Call (703) 656-0103.',
+    description: 'Alexandria storm damage restoration. 30-min response for roof damage, wind damage & storm flooding. BAR-compliant historic repairs. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Alexandria, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor has restored storm-damaged Alexandria properties for nearly two dec
 
 Our IICRC-certified technicians respond to Alexandria storm emergencies with both water damage expertise and historic preservation knowledge. We know that your 1890s rowhouse needs emergency tarping that won't damage the historic slate when a tree strikes. We understand that the BAR requires specific materials and methods for visible repairs. We coordinate the full restoration process—from emergency response through final BAR-approved repairs—protecting your property and your sanity during a stressful time.`,
     ],
-    localContext: `Alexandria's mature tree canopy, waterfront location, historic housing stock, and aging infrastructure combine to create storm damage scenarios that require specialized expertise. We've navigated these complex restorations since 2005.`,
+    localContext: `Alexandria's mature tree canopy, waterfront location, historic housing stock, and aging infrastructure combine to create storm damage scenarios that require specialized expertise. We've navigated these complex restorations for years.`,
   },
   processSteps: [
     {
       title: 'Emergency Response & Safety Assessment',
-      description: 'When you call (703) 656-0103 during or after a storm, we respond within 30 minutes when safe travel is possible. Our first priority is safety—assessing structural stability, electrical hazards, and gas leaks. We coordinate with utilities and emergency services when needed.',
+      description: 'When you call (877) 497-0007 during or after a storm, we respond within 30 minutes when safe travel is possible. Our first priority is safety—assessing structural stability, electrical hazards, and gas leaks. We coordinate with utilities and emergency services when needed.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -120,7 +120,7 @@ Our IICRC-certified technicians respond to Alexandria storm emergencies with bot
       'Power outage duration—extended outages can cause secondary flooding and spoilage',
       'Emergency protection requirements—tarping and boarding costs vary with damage complexity',
     ],
-    cta: `Call (703) 656-0103 for immediate storm damage response. We'll assess the damage, provide emergency protection, and deliver a detailed estimate for complete restoration.`,
+    cta: `Call (877) 497-0007 for immediate storm damage response. We'll assess the damage, provide emergency protection, and deliver a detailed estimate for complete restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,7 +145,7 @@ Our IICRC-certified technicians respond to Alexandria storm emergencies with bot
   faqs: [
     {
       question: 'A tree fell on my roof during the storm. What should I do?',
-      answer: `First, ensure everyone is safe and evacuate if there's any structural concern. Don't go into the attic or upper floors beneath the damage. Call (703) 656-0103 immediately—we'll respond within 30 minutes to assess, provide emergency tarping, and prevent further water damage. Don't attempt to remove the tree yourself; that's work for tree services after we've protected the structure.`,
+      answer: `First, ensure everyone is safe and evacuate if there's any structural concern. Don't go into the attic or upper floors beneath the damage. Call (877) 497-0007 immediately—we'll respond within 30 minutes to assess, provide emergency tarping, and prevent further water damage. Don't attempt to remove the tree yourself; that's work for tree services after we've protected the structure.`,
     },
     {
       question: 'Can you respond during an active storm?',

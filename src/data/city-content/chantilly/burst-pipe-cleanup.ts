@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Cleanup in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's burst pipe cleanup experts. 30-min response to South Riding, Chantilly Highlands & Franklin Glen. Frozen and failed pipe specialists. Call (703) 285-1104.`,
+    description: `Chantilly's burst pipe cleanup experts. 30-min response to South Riding, Chantilly Highlands & Franklin Glen. Frozen and failed pipe specialists. Call (877) 497-0007.`,
   },
   h1: 'Burst Pipe Cleanup in Chantilly, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Response & Water Shutoff',
-      description: `Call (703) 285-1104 and we arrive within 30 minutes. We locate and shut off the water source if you have not already, stopping flow immediately. For Chantilly homes with multiple shutoff valves across large floor plans, we know where to look.`,
+      description: `Call (877) 497-0007 and we arrive within 30 minutes. We locate and shut off the water source if you have not already, stopping flow immediately. For Chantilly homes with multiple shutoff valves across large floor plans, we know where to look.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       `Pipe failure cause—builder defects versus wear and age affect warranty claim eligibility`,
       `Response speed—faster extraction reduces drying time and total restoration cost`,
     ],
-    cta: `Call (703) 285-1104 immediately for burst pipe cleanup. We provide free damage assessments and handle insurance billing directly.`,
+    cta: `Call (877) 497-0007 immediately for burst pipe cleanup. We provide free damage assessments and handle insurance billing directly.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -136,7 +136,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `A pipe burst in my Chantilly home—what should I do first?`,
-      answer: `Shut off the main water supply immediately. If you cannot find the shutoff, call (703) 285-1104 and we will locate it upon arrival within 30 minutes. Move valuables away from standing water but do not enter areas with potential electrical hazards.`,
+      answer: `Shut off the main water supply immediately. If you cannot find the shutoff, call (877) 497-0007 and we will locate it upon arrival within 30 minutes. Move valuables away from standing water but do not enter areas with potential electrical hazards.`,
     },
     {
       question: `Will insurance cover burst pipe damage in my South Riding home?`,
@@ -166,6 +166,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Burst Pipe Emergency in Chantilly?',
-    paragraph: `Every minute of flowing water increases damage exponentially. Shut off your water supply and call (703) 285-1104 immediately. Our crews reach all Chantilly neighborhoods within 30 minutes with full extraction and drying equipment.`,
+    paragraph: `Every minute of flowing water increases damage exponentially. Shut off your water supply and call (877) 497-0007 immediately. Our crews reach all Chantilly neighborhoods within 30 minutes with full extraction and drying equipment.`,
   },
 }

@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Alexandria's historic properties demand fire restoration expertise that respects architectural heritage while achieving complete smoke, soot, and structural damage remediation. From 18th-century Old Town rowhouses to Del Ray's Craftsman bungalows, our certified technicians understand how fire affects original plaster walls, heart pine flooring, and period woodwork. We coordinate with the Board of Architectural Review for exterior repairs, navigate insurance claims for historic construction cost premiums, and restore your property to pre-loss condition while preserving irreplaceable character.`,
     ],
-    localContext: 'Fire damage requires immediate professional response—call (703) 656-0103 now for emergency board-up and restoration anywhere in Alexandria.',
+    localContext: 'Fire damage requires immediate professional response—call (877) 497-0007 now for emergency board-up and restoration anywhere in Alexandria.',
   },
   processSteps: [
     {
@@ -74,7 +74,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: 'How quickly can you respond to fire damage in Old Town?',
-      answer: 'Our emergency teams reach Old Town addresses within 45-60 minutes, arriving with board-up materials and damage assessment equipment. We coordinate with fire investigators, begin emergency securing immediately upon clearance, and start restoration planning while you process the immediate aftermath. Call (703) 656-0103 immediately after a fire for rapid response.',
+      answer: 'Our emergency teams reach Old Town addresses within 45-60 minutes, arriving with board-up materials and damage assessment equipment. We coordinate with fire investigators, begin emergency securing immediately upon clearance, and start restoration planning while you process the immediate aftermath. Call (877) 497-0007 immediately after a fire for rapid response.',
     },
     {
       question: 'Do I need BAR approval for fire damage repairs in the historic district?',
@@ -102,7 +102,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'What should I do immediately after a fire?',
-      answer: `Ensure personal safety and follow fire department instructions. Don't re-enter the property until cleared by officials. Contact your insurance company to report the loss. Call (703) 656-0103 for emergency response—we begin securing and assessing your property as soon as fire department clearance allows. Document damage with photos if you can do so safely.`,
+      answer: `Ensure personal safety and follow fire department instructions. Don't re-enter the property until cleared by officials. Contact your insurance company to report the loss. Call (877) 497-0007 for emergency response—we begin securing and assessing your property as soon as fire department clearance allows. Document damage with photos if you can do so safely.`,
     },
   ],
   relatedBlogSlugs: ['water-damage-insurance-claim-guide', 'first-24-hours-after-water-damage'],

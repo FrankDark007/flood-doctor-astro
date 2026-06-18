@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in McLean, VA | Flood Doctor',
-    description: `McLean's premier crawl space drying specialists. Protecting estate homes in Langley, Chesterbrook & The Reserve. Encapsulation, vapor barriers & dehumidification. Call (703) 285-1108.`,
+    description: `McLean's premier crawl space drying specialists. Protecting estate homes in Langley, Chesterbrook & The Reserve. Encapsulation, vapor barriers & dehumidification. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in McLean, Virginia',
   introSection: {
@@ -116,7 +116,7 @@ export const content: CityServiceContent = {
       'Drainage system requirements based on groundwater conditions near the Potomac corridor',
       'Dehumidification capacity needed for the total crawl space volume',
     ],
-    cta: `Call (703) 285-1108 for a private consultation. We'll assess your McLean property's crawl space and provide a comprehensive proposal tailored to your estate's specific needs.`,
+    cta: `Call (877) 497-0007 for a private consultation. We'll assess your McLean property's crawl space and provide a comprehensive proposal tailored to your estate's specific needs.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -177,6 +177,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Protect Your McLean Estate from Below-Grade Moisture',
-    paragraph: `Your crawl space affects every level of your home—from structural integrity to indoor air quality to wine cellar climate control. Call (703) 285-1108 for a confidential assessment of your McLean property's crawl space conditions.`,
+    paragraph: `Your crawl space affects every level of your home—from structural integrity to indoor air quality to wine cellar climate control. Call (877) 497-0007 for a confidential assessment of your McLean property's crawl space conditions.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Springfield, VA | Flood Doctor',
-    description: `Springfield roof leak water damage specialists. Serving West Springfield, Franconia & Kingstowne. Colonial and split-level ice dam expertise. Military family friendly. Call (703) 285-1110.`,
+    description: `Springfield roof leak water damage specialists. Serving West Springfield, Franconia & Kingstowne. Colonial and split-level ice dam expertise. Military family friendly. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Springfield, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'I-95 Corridor Rapid Response',
-      description: `Call (703) 285-1110 and our Springfield-positioned crews respond within 30 minutes. We assess interior damage and trace the leak through the attic to the roof entry point. For split-levels, we check whether water has traveled between levels through wall and ceiling cavities.`,
+      description: `Call (877) 497-0007 and our Springfield-positioned crews respond within 30 minutes. We assess interior damage and trace the leak through the attic to the roof entry point. For split-levels, we check whether water has traveled between levels through wall and ceiling cavities.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Mold treatment needs if the leak went undetected for extended periods',
       'Timeline requirements for military PCS or real estate transactions',
     ],
-    cta: `Call (703) 285-1110 at the first ceiling stain or drip. Every day of delay increases the scope. Free assessment, military-friendly scheduling, and honest pricing throughout.`,
+    cta: `Call (877) 497-0007 at the first ceiling stain or drip. Every day of delay increases the scope. Free assessment, military-friendly scheduling, and honest pricing throughout.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Springfield Roof Leak? Every Day Costs More.',
-    paragraph: `From ice dam damage on West Springfield colonials to chimney leaks on Franconia split-levels, early response saves thousands. Call (703) 285-1110 for immediate tarping, drying, and interior restoration.`,
+    paragraph: `From ice dam damage on West Springfield colonials to chimney leaks on Franconia split-levels, early response saves thousands. Call (877) 497-0007 for immediate tarping, drying, and interior restoration.`,
   },
 }

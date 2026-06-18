@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Arlington, VA | Flood Doctor',
-    description: 'Arlington basement & underground parking flood specialists. Rapid response to Rosslyn, Crystal City & Pentagon City underground levels. HOA coordination. Call (703) 656-0102.',
+    description: 'Arlington basement & underground parking flood specialists. Rapid response to Rosslyn, Crystal City & Pentagon City underground levels. HOA coordination. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Restoration in Arlington, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor has responded to underground flooding emergencies throughout Arling
 
 Our IICRC-certified technicians bring industrial extraction capacity to every underground flooding call. For parking structures, we deploy truck-mounted systems that remove thousands of gallons per hour while coordinating with building management on vehicle relocation and infrastructure protection. For finished basements in townhomes and rowhouses, we focus on rapid extraction followed by precision drying that protects your investment.`,
     ],
-    localContext: `Arlington's mix of high-rise parking structures, condo storage levels, and finished basement apartments requires specialized flooding response. From the towers of Rosslyn to the rowhouses of Lyon Village, we've protected underground investments across the county since 2005.`,
+    localContext: `Arlington's mix of high-rise parking structures, condo storage levels, and finished basement apartments requires specialized flooding response. From the towers of Rosslyn to the rowhouses of Lyon Village, we protect underground investments across the county with practical, building-specific mitigation.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Arlington hotline at (703) 656-0102, we dispatch immediately with equipment appropriate for your situation. Parking garage flood? Truck-mounted extraction. Finished basement apartment? Portable systems and protective equipment. We arrive prepared for Arlington's diverse underground spaces.`,
+      description: `When you call our Arlington hotline at (877) 497-0007, we dispatch immediately with equipment appropriate for your situation. Parking garage flood? Truck-mounted extraction. Finished basement apartment? Portable systems and protective equipment. We arrive prepared for Arlington's diverse underground spaces.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC-certified technicians bring industrial extraction capacity to every un
       'Contents affected—storage unit contents and finished basement furnishings require documentation and potential restoration',
       'Contamination category—storm drain backup differs from clean groundwater in restoration requirements',
     ],
-    cta: `Call (703) 656-0102 for a free, no-obligation inspection. We'll assess the flooding, explain your options, and provide detailed estimates for restoration.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the flooding, explain your options, and provide detailed estimates for restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -154,7 +154,7 @@ Our IICRC-certified technicians bring industrial extraction capacity to every un
     },
     {
       question: 'What should I do if my condo storage unit floods?',
-      answer: `Document everything with photos before anything is moved, then call us at (703) 656-0102 and notify building management. We'll coordinate access, photograph contents for your insurance claim, relocate salvageables to dry areas, and begin extraction and drying. Time matters—the sooner we start, the more we can save.`,
+      answer: `Document everything with photos before anything is moved, then call us at (877) 497-0007 and notify building management. We'll coordinate access, photograph contents for your insurance claim, relocate salvageables to dry areas, and begin extraction and drying. Time matters—the sooner we start, the more we can save.`,
     },
     {
       question: 'Do you work with building management during parking garage floods?',

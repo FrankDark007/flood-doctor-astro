@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls mold remediation experts. Discrete service for wine cellars, art environments & estate homes. Protecting high-value properties. Call (703) 656-0112.',
+    description: 'Great Falls mold remediation experts. Discrete service for wine cellars, art environments & estate homes. Protecting high-value properties. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in Great Falls, Virginia',
   introSection: {
@@ -132,7 +132,7 @@ Our approach combines thorough remediation with asset protection. We don't just 
       'Air quality testing requirements including pre-remediation sampling and post-remediation clearance verification',
       'Accessibility of affected areas including finished lower levels, guest wings, crawl spaces, and equestrian facilities',
     ],
-    cta: `Call (703) 656-0112 for a discrete mold assessment. We'll evaluate the contamination scope, identify the moisture source, and provide a written estimate that includes all asset protection and clearance testing. Insurance coordination included.`,
+    cta: `Call (877) 497-0007 for a discrete mold assessment. We'll evaluate the contamination scope, identify the moisture source, and provide a written estimate that includes all asset protection and clearance testing. Insurance coordination included.`,
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Vienna, VA | Flood Doctor`,
-    description: `Vienna's trusted commercial fire and smoke restoration specialists. Emergency response for Church Street shops, Oakton offices, and Wolf Trap area venues. Call (703) 285-1112.`,
+    description: `Vienna's trusted commercial fire and smoke restoration specialists. Emergency response for Church Street shops, Oakton offices, and Wolf Trap area venues. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Vienna, Virginia`,
   introSection: {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `HVAC decontamination—smoke in air handling systems adds cleaning scope in multi-suite commercial buildings`,
       `Schedule urgency—event venues and seasonal businesses benefit from expedited restoration to protect bookings`,
     ],
-    cta: `Call (703) 285-1112 for immediate commercial fire emergency response in Vienna. Our teams are positioned to reach Church Street, Maple Avenue, Oakton, and all Vienna commercial properties for rapid stabilization and restoration.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Vienna. Our teams are positioned to reach Church Street, Maple Avenue, Oakton, and all Vienna commercial properties for rapid stabilization and restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Vienna?`,
-    paragraph: `From Church Street boutiques to Oakton professional offices, our fire restoration teams deliver emergency response and quality reconstruction that respects the character of Vienna's commercial community. Call (703) 285-1112 for immediate assistance.`,
+    paragraph: `From Church Street boutiques to Oakton professional offices, our fire restoration teams deliver emergency response and quality reconstruction that respects the character of Vienna's commercial community. Call (877) 497-0007 for immediate assistance.`,
   },
 }

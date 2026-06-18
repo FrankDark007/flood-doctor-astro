@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Herndon, VA | Flood Doctor',
-    description: `Herndon's structural drying experts. Fast response to Downtown Herndon, Fox Mill, Franklin Farm & Worldgate. Scientific drying for 1970s-90s homes. Call (703) 285-1106.`,
+    description: `Herndon's structural drying experts. Fast response to Downtown Herndon, Fox Mill, Franklin Farm & Worldgate. Scientific drying for 1970s-90s homes. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Herndon, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed a
   processSteps: [
     {
       title: 'Fast Herndon Response',
-      description: `Call (703) 285-1106 and our crews arrive within 30 minutes. We reach Downtown Herndon, Fox Mill, Worldgate, Franklin Farm, McNair, and Floris from staging positions along the Herndon corridor — positioned for rapid deployment throughout the town.`,
+      description: `Call (877) 497-0007 and our crews arrive within 30 minutes. We reach Downtown Herndon, Fox Mill, Worldgate, Franklin Farm, McNair, and Floris from staging positions along the Herndon corridor — positioned for rapid deployment throughout the town.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -115,7 +115,7 @@ Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed a
       'Property type — townhomes with shared-wall involvement require neighbor coordination, while single-family homes focus on individual property treatment',
       'Infrastructure age — older plumbing failures may reveal hidden damage from gradual leaks, expanding project scope after initial assessment',
     ],
-    cta: `Call (703) 285-1106 for a free assessment. We evaluate the damage, explain your options clearly, and provide straightforward estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for a free assessment. We evaluate the damage, explain your options clearly, and provide straightforward estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -138,7 +138,7 @@ Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed a
   faqs: [
     {
       question: 'How fast can you respond to a flooded basement in Herndon?',
-      answer: 'Within 30 minutes. Our crews are stationed along the Herndon corridor. Basement flooding — whether from sump pump failure, plumbing burst, or storm drain backup — worsens every minute. Call (703) 285-1106 immediately when you discover water.',
+      answer: 'Within 30 minutes. Our crews are stationed along the Herndon corridor. Basement flooding — whether from sump pump failure, plumbing burst, or storm drain backup — worsens every minute. Call (877) 497-0007 immediately when you discover water.',
     },
     {
       question: 'What if the flooding came from a storm drain backup?',
@@ -167,6 +167,6 @@ Our IICRC-certified technicians deploy LGR dehumidifiers, strategically placed a
   ],
   finalCTA: {
     headline: 'Water Damage in Your Herndon Home?',
-    paragraph: 'Every hour of uncontrolled moisture leads to more damage and higher costs. Our Herndon crews arrive within 30 minutes with the equipment and expertise your home needs. Call (703) 285-1106 now — practical, thorough restoration for the Herndon community.',
+    paragraph: 'Every hour of uncontrolled moisture leads to more damage and higher costs. Our Herndon crews arrive within 30 minutes with the equipment and expertise your home needs. Call (877) 497-0007 now — practical, thorough restoration for the Herndon community.',
   },
 }

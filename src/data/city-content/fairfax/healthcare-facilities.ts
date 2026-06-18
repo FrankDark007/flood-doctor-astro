@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's HIPAA-compliant healthcare restoration experts. Serving medical offices, clinics, and urgent care centers near GMU and Burke Centre. Call (703) 285-1105.`,
+    description: `Fairfax's HIPAA-compliant healthcare restoration experts. Serving medical offices, clinics, and urgent care centers near GMU and Burke Centre. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Fairfax, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Fairfax healthcare team adapts to these varied requirements. We coordinate w
   processSteps: [
     {
       title: `Suburban Healthcare Emergency Response`,
-      description: `Call (703) 285-1105 for immediate medical facility response. Our Fairfax crews deploy with ICRA containment and HEPA filtration to medical offices throughout Fairfax City, Burke, Kings Park, and Mantua, arriving with equipment configured for the single-story professional buildings typical in this area.`,
+      description: `Call (877) 497-0007 for immediate medical facility response. Our Fairfax crews deploy with ICRA containment and HEPA filtration to medical offices throughout Fairfax City, Burke, Kings Park, and Mantua, arriving with equipment configured for the single-story professional buildings typical in this area.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Fairfax healthcare team adapts to these varied requirements. We coordinate w
       `Clinical scheduling impact—accelerated timelines for high-volume practices require additional crew deployment`,
       `Pharmaceutical and records protection—chain-of-custody documentation and specialized handling for controlled substances and PHI`,
     ],
-    cta: `Call (703) 285-1105 for a free emergency healthcare assessment. We coordinate with your practice manager and insurance carrier for streamlined Fairfax medical office restoration.`,
+    cta: `Call (877) 497-0007 for a free emergency healthcare assessment. We coordinate with your practice manager and insurance carrier for streamlined Fairfax medical office restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our Fairfax healthcare team adapts to these varied requirements. We coordinate w
   ],
   finalCTA: {
     headline: `Fairfax Medical Practice Emergency?`,
-    paragraph: `Your patients depend on accessible healthcare. Our HIPAA-compliant crews restore Fairfax medical offices within days, not weeks, with air quality standards that protect every patient population. Call (703) 285-1105 for immediate response.`,
+    paragraph: `Your patients depend on accessible healthcare. Our HIPAA-compliant crews restore Fairfax medical offices within days, not weeks, with air quality standards that protect every patient population. Call (877) 497-0007 for immediate response.`,
   },
 }

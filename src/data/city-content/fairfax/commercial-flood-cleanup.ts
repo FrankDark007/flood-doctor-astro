@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Fairfax, VA | Flood Doctor',
-    description: `Fairfax commercial flood cleanup for office parks, retail centers & institutional buildings. 24/7 industrial response near Burke, Fairfax Corner & George Mason. Call (703) 285-1105.`,
+    description: `Fairfax commercial flood cleanup for office parks, retail centers & institutional buildings. 24/7 industrial response near Burke, Fairfax Corner & George Mason. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Fairfax, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
   processSteps: [
     {
       title: 'Fast Local Flood Response',
-      description: `Call (703) 285-1105 for immediate commercial flood dispatch. Our Fairfax crews are stationed near Burke, Fairfax Corner, and the GMU corridor with industrial extraction equipment for rapid deployment to flooded commercial properties.`,
+      description: `Call (877) 497-0007 for immediate commercial flood dispatch. Our Fairfax crews are stationed near Burke, Fairfax Corner, and the GMU corridor with industrial extraction equipment for rapid deployment to flooded commercial properties.`,
       timeframe: 'Within 60 minutes',
     },
     {
@@ -115,7 +115,7 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
       'Multi-tenant coordination—each affected business needs separate scope documentation and insurance claim support',
       'Reopening timeline requirements—faster restoration for customer-facing businesses may require expanded crew deployment',
     ],
-    cta: `Call (703) 285-1105 for emergency commercial flood response. We'll be on site fast, assess the scope clearly, and provide an honest estimate before beginning work.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. We'll be on site fast, assess the scope clearly, and provide an honest estimate before beginning work.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -139,7 +139,7 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
   faqs: [
     {
       question: 'How fast can you respond to commercial flooding in Fairfax?',
-      answer: 'Our commercial dispatch deploys within 60 minutes to all Fairfax business areas—Burke, Fairfax City, Kings Park, and surrounding commercial districts. We carry industrial extraction equipment on every commercial response truck. Call (703) 285-1105 immediately.',
+      answer: 'Our commercial dispatch deploys within 60 minutes to all Fairfax business areas—Burke, Fairfax City, Kings Park, and surrounding commercial districts. We carry industrial extraction equipment on every commercial response truck. Call (877) 497-0007 immediately.',
     },
     {
       question: 'What if storm flooding entered our parking lot and ground-floor retail?',

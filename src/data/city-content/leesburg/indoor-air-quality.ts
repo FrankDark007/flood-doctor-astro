@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Indoor Air Quality Testing in Leesburg, VA | Flood Doctor`,
-    description: `Professional indoor air quality testing for Leesburg homes and businesses. Mold spores, VOCs, particulates, and allergen testing. Call (703) 285-1107.`,
+    description: `Professional indoor air quality testing for Leesburg homes and businesses. Mold spores, VOCs, particulates, and allergen testing. Call (877) 497-0007.`,
   },
   h1: `Leesburg Indoor Air Quality Testing`,
   introSection: {
@@ -85,7 +85,7 @@ export const content: CityServiceContent = {
       `Reporting requirements — standard vs. expert witness level`,
       `Follow-up testing for verification or monitoring`,
     ],
-    cta: `Call (703) 285-1107 for indoor air quality testing consultation.`,
+    cta: `Call (877) 497-0007 for indoor air quality testing consultation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -139,6 +139,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Concerned About Air Quality in Your Leesburg Home?`,
-    paragraph: `Stop guessing and get answers. Flood Doctor provides scientific indoor air quality testing that identifies exactly what is in your air and what to do about it. Call (703) 285-1107 to schedule professional IAQ testing.`,
+    paragraph: `Stop guessing and get answers. Flood Doctor provides scientific indoor air quality testing that identifies exactly what is in your air and what to do about it. Call (877) 497-0007 to schedule professional IAQ testing.`,
   },
 }

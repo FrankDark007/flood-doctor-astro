@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal in Centreville, VA | Flood Doctor',
-    description: `Centreville odor removal specialists. Musty basement, smoke, sewage & mold odor elimination in Virginia Run, Centre Ridge & Sully Station. Call (703) 285-1103.`,
+    description: `Centreville odor removal specialists. Musty basement, smoke, sewage & mold odor elimination in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Centreville, Virginia',
   introSection: {
@@ -110,7 +110,7 @@ Our odor elimination process identifies the source, treats the cause, and then e
       'Source remediation needs—mold removal, moisture correction, or contamination cleanup may be needed first',
       'HVAC system involvement—ductwork cleaning adds to scope when odors have entered the air system',
     ],
-    cta: `Call (703) 285-1103 for a professional odor assessment. We identify the source, explain the treatment, and provide transparent pricing before any work begins.`,
+    cta: `Call (877) 497-0007 for a professional odor assessment. We identify the source, explain the treatment, and provide transparent pricing before any work begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ Our odor elimination process identifies the source, treats the cause, and then e
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `Same-day odor assessments for all Centreville neighborhoods. For odors resulting from water damage or fire, call (703) 285-1103 for priority scheduling.`,
+    responseTime: `Same-day odor assessments for all Centreville neighborhoods. For odors resulting from water damage or fire, call (877) 497-0007 for priority scheduling.`,
   },
   faqs: [
     {
@@ -163,6 +163,6 @@ Our odor elimination process identifies the source, treats the cause, and then e
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Centreville Home?',
-    paragraph: `Stop masking the problem—eliminate it. Call (703) 285-1103 for a professional odor assessment. We find the source, treat the cause, and destroy the odor at the molecular level.`,
+    paragraph: `Stop masking the problem—eliminate it. Call (877) 497-0007 for a professional odor assessment. We find the source, treat the cause, and destroy the odor at the molecular level.`,
   },
 }

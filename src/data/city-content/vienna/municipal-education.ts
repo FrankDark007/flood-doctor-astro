@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Vienna, VA | Flood Doctor`,
-    description: `Vienna's trusted restoration for schools, the Vienna Community Center, and public facilities. Experienced with FCPS and Town of Vienna requirements. Call (703) 285-1112.`,
+    description: `Vienna's trusted restoration for schools, the Vienna Community Center, and public facilities. Experienced with FCPS and Town of Vienna requirements. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Vienna, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Beyond construction-era considerations, Vienna's public facilities face seasonal
   processSteps: [
     {
       title: `Emergency Facility Response`,
-      description: `Call (703) 285-1112 for immediate school or municipal facility response. We coordinate with FCPS facilities management for county schools or Town of Vienna public works for municipal buildings, activating the appropriate emergency procurement procedures for each jurisdiction.`,
+      description: `Call (877) 497-0007 for immediate school or municipal facility response. We coordinate with FCPS facilities management for county schools or Town of Vienna public works for municipal buildings, activating the appropriate emergency procurement procedures for each jurisdiction.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -116,7 +116,7 @@ Beyond construction-era considerations, Vienna's public facilities face seasonal
       `Community event scheduling—Vienna Community Center restoration phased around programming affects project duration`,
       `Multi-jurisdiction documentation for FCPS procurement, Town of Vienna requirements, and community accountability standards`,
     ],
-    cta: `Call (703) 285-1112 for emergency school or community facility assessment. We coordinate with FCPS and Town of Vienna for procurement-compliant, community-accountable restoration.`,
+    cta: `Call (877) 497-0007 for emergency school or community facility assessment. We coordinate with FCPS and Town of Vienna for procurement-compliant, community-accountable restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Beyond construction-era considerations, Vienna's public facilities face seasonal
   ],
   finalCTA: {
     headline: `Vienna School or Community Facility Emergency?`,
-    paragraph: `Students and community members depend on these facilities daily. Our crews respond within 45 minutes with HEPA filtration, regulated materials expertise, and the transparency Vienna's engaged community expects. Call (703) 285-1112 immediately.`,
+    paragraph: `Students and community members depend on these facilities daily. Our crews respond within 45 minutes with HEPA filtration, regulated materials expertise, and the transparency Vienna's engaged community expects. Call (877) 497-0007 immediately.`,
   },
 }

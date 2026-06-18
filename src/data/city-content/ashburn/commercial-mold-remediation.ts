@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's trusted commercial mold remediation team. CIH-coordinated protocols for offices, retail centers, and data center facilities near One Loudoun and Brambleton. Call (703) 285-1100.`,
+    description: `Ashburn's trusted commercial mold remediation team. CIH-coordinated protocols for offices, retail centers, and data center facilities near One Loudoun and Brambleton. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Ashburn, Virginia`,
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `HVAC system remediation—centralized air handling contamination adds specialized cleaning to the project`,
       `Below-grade moisture management—clay-soil hydrostatic conditions may require waterproofing and dehumidification installation`,
     ],
-    cta: `Call (703) 285-1100 for a confidential commercial mold assessment at your Ashburn property. We coordinate CIH engagement and provide remediation plans that address both the mold and the construction-era factors driving it.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment at your Ashburn property. We coordinate CIH engagement and provide remediation plans that address both the mold and the construction-era factors driving it.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -158,6 +158,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold in Your Ashburn Commercial Property?`,
-    paragraph: `Even newer Ashburn buildings develop mold when construction-era vulnerabilities create hidden moisture conditions. Our CIH-coordinated teams address both the contamination and the building science factors driving it. Call (703) 285-1100 for a confidential assessment.`,
+    paragraph: `Even newer Ashburn buildings develop mold when construction-era vulnerabilities create hidden moisture conditions. Our CIH-coordinated teams address both the contamination and the building science factors driving it. Call (877) 497-0007 for a confidential assessment.`,
   },
 }

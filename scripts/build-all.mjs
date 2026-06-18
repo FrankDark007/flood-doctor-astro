@@ -2,7 +2,7 @@
 
 /**
  * Multi-city build pipeline
- * Builds all 13 city variants sequentially, outputting each to dist/{city}/
+ * Builds all site variants sequentially, outputting each to dist-all/{city}/
  */
 
 import { execSync } from 'child_process'

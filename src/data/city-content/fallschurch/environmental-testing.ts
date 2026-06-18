@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Falls Church, VA | Flood Doctor',
-    description: `Falls Church's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Falls Church City, Lake Barcroft & Seven Corners. Call (703) 285-1100.`,
+    description: `Falls Church's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Falls Church City, Lake Barcroft & Seven Corners. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Falls Church, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Multi-unit apartment building assessment scope and Virginia compliance documentation',
       'Water quality testing for homes with original mid-century plumbing systems',
     ],
-    cta: `Call (703) 285-1100 for a consultation. We design testing protocols appropriate to your Falls Church property type and specific environmental concerns.`,
+    cta: `Call (877) 497-0007 for a consultation. We design testing protocols appropriate to your Falls Church property type and specific environmental concerns.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'West Falls Church',
       'Idylwood',
     ],
-    responseTime: `Same-day environmental testing deployment to all Falls Church neighborhoods. Expedited laboratory processing available for renovation and property management timelines. Call (703) 285-1100.`,
+    responseTime: `Same-day environmental testing deployment to all Falls Church neighborhoods. Expedited laboratory processing available for renovation and property management timelines. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Concerns in Your Falls Church Property?',
-    paragraph: `Certified environmental testing for Falls Church\`s historic homes, lakefront properties, and apartment buildings. AIHA-accredited laboratory analysis with preservation-sensitive and compliance-ready documentation. Call (703) 285-1100 for a consultation.`,
+    paragraph: `Certified environmental testing for Falls Church\`s historic homes, lakefront properties, and apartment buildings. AIHA-accredited laboratory analysis with preservation-sensitive and compliance-ready documentation. Call (877) 497-0007 for a consultation.`,
   },
 }

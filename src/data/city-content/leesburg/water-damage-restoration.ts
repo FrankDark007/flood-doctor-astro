@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Water Damage Restoration in Leesburg, VA | Flood Doctor`,
-    description: `Professional water damage restoration for Leesburg's historic homes, Lansdowne estates, and Village at Leesburg properties. 24/7 emergency response. Call (703) 285-1107.`,
+    description: `Professional water damage restoration for Leesburg's historic homes, Lansdowne estates, and Village at Leesburg properties. 24/7 emergency response. Call (877) 497-0007.`,
   },
   h1: `Leesburg Water Damage Restoration`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Contact & Dispatch`,
-      description: `Call (703) 285-1107 for immediate response. Our Leesburg-based crews are dispatched with full equipment loads, ready for anything from historic plaster water intrusion to modern drywall saturation.`,
+      description: `Call (877) 497-0007 for immediate response. Our Leesburg-based crews are dispatched with full equipment loads, ready for anything from historic plaster water intrusion to modern drywall saturation.`,
       timeframe: `Within 15 minutes`,
     },
     {
@@ -90,7 +90,7 @@ export const content: CityServiceContent = {
       `Need for specialized historic preservation techniques`,
       `Insurance coverage and direct billing availability`,
     ],
-    cta: `Call (703) 285-1107 for a free on-site assessment at your Leesburg property.`,
+    cta: `Call (877) 497-0007 for a free on-site assessment at your Leesburg property.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -115,7 +115,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `How quickly can you respond to water damage in Leesburg?`,
-      answer: `We typically arrive at Leesburg properties within 45-60 minutes of your call to (703) 285-1107. Our crews are familiar with every neighborhood from Lansdowne to Edwards Ferry and carry full equipment loads for immediate work.`,
+      answer: `We typically arrive at Leesburg properties within 45-60 minutes of your call to (877) 497-0007. Our crews are familiar with every neighborhood from Lansdowne to Edwards Ferry and carry full equipment loads for immediate work.`,
     },
     {
       question: `Do you have experience with historic Leesburg homes?`,
@@ -149,6 +149,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Protect Your Leesburg Property — Call Now`,
-    paragraph: `Water damage grows worse every hour. Whether you own a historic treasure in downtown Leesburg or a modern home in Village at Leesburg, Flood Doctor delivers expert restoration with the urgency your property demands. Call (703) 285-1107 for immediate 24/7 emergency response.`,
+    paragraph: `Water damage grows worse every hour. Whether you own a historic treasure in downtown Leesburg or a modern home in Village at Leesburg, Flood Doctor delivers expert restoration with the urgency your property demands. Call (877) 497-0007 for immediate 24/7 emergency response.`,
   },
 }

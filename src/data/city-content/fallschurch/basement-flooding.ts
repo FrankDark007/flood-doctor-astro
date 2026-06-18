@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church basement flooding experts. 30-min response for Seven Corners, Lake Barcroft & Falls Church City. Protecting finished basements. Call (703) 656-0111.',
+    description: 'Falls Church basement flooding experts. 30-min response for Seven Corners, Lake Barcroft & Falls Church City. Protecting finished basements. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Cleanup in Falls Church, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified teams arrive prepared for Falls Church basements specificall
   processSteps: [
     {
       title: '30-Minute Emergency Dispatch',
-      description: 'When you call (703) 656-0111 about basement flooding, we dispatch immediately from our Falls Church facility. Our crews reach Seven Corners, Lake Barcroft, Falls Church City, Baileys Crossroads, and Pimmit Hills within 30 minutes—guaranteed.',
+      description: 'When you call (877) 497-0007 about basement flooding, we dispatch immediately from our Falls Church facility. Our crews reach Seven Corners, Lake Barcroft, Falls Church City, Baileys Crossroads, and Pimmit Hills within 30 minutes—guaranteed.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -120,7 +120,7 @@ Our IICRC-certified teams arrive prepared for Falls Church basements specificall
       'Contamination level—damaged materials may need removal and disposal rather than restoration',
       'Response time—calling immediately limits damage spread and reduces total restoration costs',
     ],
-    cta: `Call (703) 656-0111 for immediate dispatch and a free assessment. We'll explain your options and insurance coverage before any work begins.`,
+    cta: `Call (877) 497-0007 for immediate dispatch and a free assessment. We'll explain your options and insurance coverage before any work begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [

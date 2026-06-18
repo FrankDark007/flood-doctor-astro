@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Springfield, VA | Flood Doctor',
-    description: `Springfield crawl space drying specialists. Serving West Springfield, Franconia & Kingstowne. 1960s-80s home expertise. Military family friendly. Call (703) 285-1110.`,
+    description: `Springfield crawl space drying specialists. Serving West Springfield, Franconia & Kingstowne. 1960s-80s home expertise. Military family friendly. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Springfield, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Sewer backup protection needs in older infrastructure neighborhoods',
       'Timeline requirements for military PCS moves or real estate transactions',
     ],
-    cta: `Call (703) 285-1110 for a free crawl space inspection. Honest assessment, fair pricing, and work that protects your Springfield family home for decades.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. Honest assessment, fair pricing, and work that protects your Springfield family home for decades.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Springfield Crawl Space Moisture? We Fix It Right.',
-    paragraph: `From split-levels in West Springfield to townhomes in Kingstowne, your home deserves professional crawl space protection. Call (703) 285-1110 for a free inspection—honest, practical, and built to last.`,
+    paragraph: `From split-levels in West Springfield to townhomes in Kingstowne, your home deserves professional crawl space protection. Call (877) 497-0007 for a free inspection—honest, practical, and built to last.`,
   },
 }

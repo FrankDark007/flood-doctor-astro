@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Chantilly, VA | Flood Doctor',
-    description: `Professional odor removal for Chantilly homes. Smoke, mold, sewage & pet odor elimination. Serving South Riding, Chantilly Highlands & Westfields. Call (703) 285-1104.`,
+    description: `Professional odor removal for Chantilly homes. Smoke, mold, sewage & pet odor elimination. Serving South Riding, Chantilly Highlands & Westfields. Call (877) 497-0007.`,
   },
   h1: 'Professional Odor Removal in Chantilly, Virginia',
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       `Source remediation—addressing hidden mold or contamination increases project scope`,
       `Treatment method—hydroxyl (safe for occupancy) versus ozone (requires vacancy) affects timeline`,
     ],
-    cta: `Call (703) 285-1104 for a free odor assessment. We identify the source and provide a clear treatment plan before any work begins.`,
+    cta: `Call (877) 497-0007 for a free odor assessment. We identify the source and provide a clear treatment plan before any work begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Chantilly Home?',
-    paragraph: `Odors indicate underlying problems that worsen over time. Our professional assessment identifies the source and our advanced elimination technology destroys odor compounds permanently. Call (703) 285-1104 for a free assessment.`,
+    paragraph: `Odors indicate underlying problems that worsen over time. Our professional assessment identifies the source and our advanced elimination technology destroys odor compounds permanently. Call (877) 497-0007 for a free assessment.`,
   },
 }

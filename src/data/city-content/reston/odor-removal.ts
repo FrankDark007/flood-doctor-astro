@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Reston, VA | Flood Doctor',
-    description: `Reston's odor elimination experts. Permanent treatment for musty, mold & sewage odors in townhomes, garden condos & lake-area homes. HOA-experienced. Call (703) 285-1109.`,
+    description: `Reston's odor elimination experts. Permanent treatment for musty, mold & sewage odors in townhomes, garden condos & lake-area homes. HOA-experienced. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Reston, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians deploy hydroxyl generators that neutralize odor molecules safely
   processSteps: [
     {
       title: 'Community-Context Investigation',
-      description: `Call (703) 285-1109 and we assess your Reston property with an understanding of the community factors that influence odors. For South Lakes townhomes, we check shared walls. For Lake Anne garden condos, we evaluate exterior grading. For wooded-lot homes, we assess foundation moisture patterns.`,
+      description: `Call (877) 497-0007 and we assess your Reston property with an understanding of the community factors that influence odors. For South Lakes townhomes, we check shared walls. For Lake Anne garden condos, we evaluate exterior grading. For wooded-lot homes, we assess foundation moisture patterns.`,
       timeframe: 'Initial visit',
     },
     {
@@ -108,7 +108,7 @@ Our technicians deploy hydroxyl generators that neutralize odor molecules safely
       'Property type — garden condos with below-grade challenges require different approaches than townhomes or single-family homes',
       'Chronic versus acute conditions — long-standing moisture-driven odors require more extensive remediation than recent events',
     ],
-    cta: `Call (703) 285-1109 for a community-aware odor assessment. We identify sources across property boundaries and provide solutions that address the full scope of the problem.`,
+    cta: `Call (877) 497-0007 for a community-aware odor assessment. We identify sources across property boundaries and provide solutions that address the full scope of the problem.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ Our technicians deploy hydroxyl generators that neutralize odor molecules safely
   ],
   finalCTA: {
     headline: 'Stubborn Odors in Your Reston Home?',
-    paragraph: 'In Reston planned community, odor sources often cross property boundaries through shared walls and community infrastructure. Our team traces every odor to its origin, coordinates with neighbors and HOAs, and eliminates the smell permanently. Call (703) 285-1109.',
+    paragraph: 'In Reston planned community, odor sources often cross property boundaries through shared walls and community infrastructure. Our team traces every odor to its origin, coordinates with neighbors and HOAs, and eliminates the smell permanently. Call (877) 497-0007.',
   },
 }

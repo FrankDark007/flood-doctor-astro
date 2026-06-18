@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in McLean, VA | Flood Doctor`,
-    description: `McLean's trusted commercial sewage cleanup experts. OSHA-compliant biohazard remediation for estate properties and commercial facilities near Chain Bridge and Georgetown Pike. Call (703) 285-1108.`,
+    description: `McLean's trusted commercial sewage cleanup experts. OSHA-compliant biohazard remediation for estate properties and commercial facilities near Chain Bridge and Georgetown Pike. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in McLean, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Response and Containment`,
-      description: `When you contact our McLean commercial line at (703) 285-1108, we dispatch a hazmat-equipped crew immediately. Our teams reach Langley, Chesterbrook, and Georgetown Pike commercial properties within our rapid response window, establishing restricted access zones and containment barriers before contamination spreads to unaffected tenant spaces.`,
+      description: `When you contact our McLean commercial line at (877) 497-0007, we dispatch a hazmat-equipped crew immediately. Our teams reach Langley, Chesterbrook, and Georgetown Pike commercial properties within our rapid response window, establishing restricted access zones and containment barriers before contamination spreads to unaffected tenant spaces.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       `HVAC decontamination scope—contamination that reaches building mechanical systems increases remediation complexity`,
       `Business interruption timeline—expedited service reduces revenue loss but requires additional crew deployment`,
     ],
-    cta: `Call (703) 285-1108 for immediate commercial sewage emergency response. We provide free on-site assessment, detailed scope documentation, and coordinate directly with your insurance carrier and property management team.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response. We provide free on-site assessment, detailed scope documentation, and coordinate directly with your insurance carrier and property management team.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -136,7 +136,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `How quickly can you respond to a commercial sewage emergency in McLean?`,
-      answer: `We maintain 24/7 commercial dispatch and typically reach McLean commercial properties within 60 minutes. Our hazmat-equipped crews are pre-positioned throughout Fairfax County. Call (703) 285-1108 immediately—sewage contamination worsens rapidly and early response reduces both health risk and remediation cost.`,
+      answer: `We maintain 24/7 commercial dispatch and typically reach McLean commercial properties within 60 minutes. Our hazmat-equipped crews are pre-positioned throughout Fairfax County. Call (877) 497-0007 immediately—sewage contamination worsens rapidly and early response reduces both health risk and remediation cost.`,
     },
     {
       question: `Do McLean commercial properties need health department clearance after sewage cleanup?`,
@@ -170,6 +170,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in McLean?`,
-    paragraph: `Sewage contamination threatens employee health, regulatory compliance, and business continuity. Our OSHA-compliant hazmat crews are standing by for immediate dispatch to any McLean commercial property. One call to (703) 285-1108 activates biohazard containment, professional remediation, and complete compliance documentation.`,
+    paragraph: `Sewage contamination threatens employee health, regulatory compliance, and business continuity. Our OSHA-compliant hazmat crews are standing by for immediate dispatch to any McLean commercial property. One call to (877) 497-0007 activates biohazard containment, professional remediation, and complete compliance documentation.`,
   },
 }

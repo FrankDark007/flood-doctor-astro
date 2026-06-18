@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Sewage Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling sewage cleanup specialists. Storm sewer backups in Sterling Park, septic failures near Potomac Falls. Biohazard-certified crews. 30-min response. Call (703) 285-1111.`,
+    description: `Sterling sewage cleanup specialists. Storm sewer backups in Sterling Park, septic failures near Potomac Falls. Biohazard-certified crews. 30-min response. Call (877) 497-0007.`,
   },
   h1: `Sewage Cleanup Services in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians follow strict ANSI/IICRC S500 protocols for ever
   processSteps: [
     {
       title: `Emergency Biohazard Response`,
-      description: `Call (703) 285-1111 immediately. Do not enter the contaminated area. Our biohazard-certified crews reach Sterling Park, Cascades, Countryside, and all Sterling neighborhoods within 30 minutes with full PPE and contamination control equipment.`,
+      description: `Call (877) 497-0007 immediately. Do not enter the contaminated area. Our biohazard-certified crews reach Sterling Park, Cascades, Countryside, and all Sterling neighborhoods within 30 minutes with full PPE and contamination control equipment.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -82,7 +82,7 @@ Our IICRC-certified technicians follow strict ANSI/IICRC S500 protocols for ever
       `Sewage source—municipal backup, septic failure, and drain line breaks each have different cleanup scopes`,
       `Clearance testing requirements—verification that contamination has been eliminated adds testing costs`,
     ],
-    cta: `Call (703) 285-1111 for immediate sewage emergency response. Do not attempt to clean sewage yourself—the health risks are serious and our biohazard-certified crews are equipped to handle it safely.`,
+    cta: `Call (877) 497-0007 for immediate sewage emergency response. Do not attempt to clean sewage yourself—the health risks are serious and our biohazard-certified crews are equipped to handle it safely.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -102,12 +102,12 @@ Our IICRC-certified technicians follow strict ANSI/IICRC S500 protocols for ever
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute biohazard response to all Sterling neighborhoods. Sewage emergencies receive priority dispatch due to health risks. Call (703) 285-1111 immediately.`,
+    responseTime: `30-minute biohazard response to all Sterling neighborhoods. Sewage emergencies receive priority dispatch due to health risks. Call (877) 497-0007 immediately.`,
   },
   faqs: [
     {
       question: `Is sewage backup dangerous to my family?`,
-      answer: `Yes, extremely. Sewage contains bacteria including E. coli and Salmonella, viruses, parasites, and other pathogens. Do not enter sewage-contaminated areas without proper PPE. Keep children and pets away. Call (703) 285-1111 for professional biohazard cleanup.`,
+      answer: `Yes, extremely. Sewage contains bacteria including E. coli and Salmonella, viruses, parasites, and other pathogens. Do not enter sewage-contaminated areas without proper PPE. Keep children and pets away. Call (877) 497-0007 for professional biohazard cleanup.`,
     },
     {
       question: `Does homeowners insurance cover sewage cleanup?`,

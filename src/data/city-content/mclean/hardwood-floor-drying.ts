@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in McLean, VA | Save Your Floors | Flood Doctor',
-    description: `McLean's hardwood floor drying specialists. Saving premium flooring in Langley, Chesterbrook & The Reserve estates. In-place drying systems that avoid costly replacement. Call (703) 285-1108.`,
+    description: `McLean's hardwood floor drying specialists. Saving premium flooring in Langley, Chesterbrook & The Reserve estates. In-place drying systems that avoid costly replacement. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in McLean, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Response & Floor Assessment',
-      description: `When you call (703) 285-1108, we respond to your McLean estate within 30 minutes. Our first action is assessing the hardwood—species identification, moisture content readings across the affected area, and evaluation of cupping, crowning, or buckling that has already begun. This assessment determines whether in-place drying can save your floors.`,
+      description: `When you call (877) 497-0007, we respond to your McLean estate within 30 minutes. Our first action is assessing the hardwood—species identification, moisture content readings across the affected area, and evaluation of cupping, crowning, or buckling that has already begun. This assessment determines whether in-place drying can save your floors.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -113,7 +113,7 @@ export const content: CityServiceContent = {
       'Subfloor conditions and accessibility from below for bottom-up drying',
       'Duration before response—faster calls mean higher salvage success rates',
     ],
-    cta: `Call (703) 285-1108 immediately when water contacts your hardwood. Every hour matters. We assess your McLean estate floors for free and provide an honest evaluation of salvageability before any work begins.`,
+    cta: `Call (877) 497-0007 immediately when water contacts your hardwood. Every hour matters. We assess your McLean estate floors for free and provide an honest evaluation of salvageability before any work begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -170,6 +170,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water on Your McLean Hardwood Floors? Call Now.',
-    paragraph: `Every hour of delay reduces salvage chances for your premium hardwood. Call (703) 285-1108 for immediate response—our specialized floor drying systems have saved thousands of square feet of estate-grade flooring throughout McLean.`,
+    paragraph: `Every hour of delay reduces salvage chances for your premium hardwood. Call (877) 497-0007 for immediate response—our specialized floor drying systems have saved thousands of square feet of estate-grade flooring throughout McLean.`,
   },
 }

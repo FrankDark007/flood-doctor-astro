@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling commercial sewage cleanup. Biohazard-certified crews for Route 7 businesses, restaurants & shopping centers. Health department compliance. Call (703) 285-1111.`,
+    description: `Sterling commercial sewage cleanup. Biohazard-certified crews for Route 7 businesses, restaurants & shopping centers. Health department compliance. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our commercial crews carry full PPE, EPA-registered antimicrobials, and the docu
   processSteps: [
     {
       title: `Emergency Commercial Biohazard Response`,
-      description: `Call (703) 285-1111 for immediate commercial sewage response. Our biohazard-certified crews reach Route 7 businesses and all Sterling commercial properties within 30 minutes. We arrive with full PPE, containment materials, and commercial-scale decontamination equipment.`,
+      description: `Call (877) 497-0007 for immediate commercial sewage response. Our biohazard-certified crews reach Route 7 businesses and all Sterling commercial properties within 30 minutes. We arrive with full PPE, containment materials, and commercial-scale decontamination equipment.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -77,7 +77,7 @@ Our commercial crews carry full PPE, EPA-registered antimicrobials, and the docu
       `Equipment and inventory contamination—commercial contents decontamination or documentation for replacement`,
       `Clearance testing requirements—environmental verification for regulatory compliance and business reopening`,
     ],
-    cta: `Call (703) 285-1111 for immediate commercial sewage response. Do not allow employees or customers into contaminated spaces. Our biohazard-certified crews handle the cleanup safely and efficiently.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage response. Do not allow employees or customers into contaminated spaces. Our biohazard-certified crews handle the cleanup safely and efficiently.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our commercial crews carry full PPE, EPA-registered antimicrobials, and the docu
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute biohazard response to all Sterling commercial properties. Sewage emergencies receive priority dispatch. Call (703) 285-1111 immediately.`,
+    responseTime: `30-minute biohazard response to all Sterling commercial properties. Sewage emergencies receive priority dispatch. Call (877) 497-0007 immediately.`,
   },
   faqs: [
     {

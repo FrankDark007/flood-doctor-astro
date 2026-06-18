@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Fairfax, VA | Flood Doctor',
-    description: 'Fairfax burst pipe emergency? Fast water damage repair for washing machine lines, supply pipes & freeze damage. Burke, Kings Park & Mantua service. (703) 656-0104.',
+    description: 'Fairfax burst pipe emergency? Fast water damage repair for washing machine lines, supply pipes & freeze damage. Burke, Kings Park & Mantua service. (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Water Damage Restoration in Fairfax, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor responds to burst pipe emergencies throughout Fairfax 24 hours a da
 
 Our burst pipe response combines emergency water extraction with permanent repair coordination. We don't just pump water and leave—we help you understand why the pipe burst, what needs replacing, and how to prevent the next failure. Fairfax families need solutions, not just cleanup.`,
     ],
-    localContext: `Fairfax's 30-50 year old housing stock—from Burke's family neighborhoods to Fairfax Station's colonials—faces increasing burst pipe risk as infrastructure ages. We've responded to thousands of burst pipe emergencies throughout Fairfax County since 2005.`,
+    localContext: `Fairfax's 30-50 year old housing stock—from Burke's family neighborhoods to Fairfax Station's colonials—faces increasing burst pipe risk as infrastructure ages. We've responded to thousands of burst pipe emergencies throughout Fairfax County for years.`,
   },
   processSteps: [
     {
       title: 'Immediate Emergency Dispatch',
-      description: `Call (703) 656-0104 any time—we answer 24/7/365. While you're on the phone, we dispatch our nearest crew to your Burke, Kings Park, or Fairfax location. Turn off your main water supply if you can locate the shutoff valve. We'll handle everything else when we arrive.`,
+      description: `Call (877) 497-0007 any time—we answer 24/7/365. While you're on the phone, we dispatch our nearest crew to your Burke, Kings Park, or Fairfax location. Turn off your main water supply if you can locate the shutoff valve. We'll handle everything else when we arrive.`,
       timeframe: 'Immediate response',
     },
     {
@@ -125,7 +125,7 @@ Our burst pipe response combines emergency water extraction with permanent repai
       'Pipe repair complexity—washing machine line replacement versus whole-section replumbing',
       'Response time—calling immediately limits damage that develops over hours',
     ],
-    cta: `Call (703) 656-0104 for immediate burst pipe response. We'll assess damage, coordinate plumbing repair, and handle all restoration needs.`,
+    cta: `Call (877) 497-0007 for immediate burst pipe response. We'll assess damage, coordinate plumbing repair, and handle all restoration needs.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -150,7 +150,7 @@ Our burst pipe response combines emergency water extraction with permanent repai
   faqs: [
     {
       question: 'My washing machine supply line just burst—what do I do right now?',
-      answer: `Turn off the water supply to the washing machine immediately—usually shutoff valves are on the wall behind the machine. If you can't reach them, turn off your main water supply. Move items from wet areas if safe. Then call (703) 656-0104 immediately. Don't try to mop up the water yourself—we'll extract it properly with professional equipment.`,
+      answer: `Turn off the water supply to the washing machine immediately—usually shutoff valves are on the wall behind the machine. If you can't reach them, turn off your main water supply. Move items from wet areas if safe. Then call (877) 497-0007 immediately. Don't try to mop up the water yourself—we'll extract it properly with professional equipment.`,
     },
     {
       question: 'How much water does a burst pipe release?',
@@ -178,7 +178,7 @@ Our burst pipe response combines emergency water extraction with permanent repai
     },
     {
       question: 'Do you respond at night to burst pipe emergencies?',
-      answer: `Yes, 24/7/365. A burst pipe at 2 AM gets the same immediate response as daytime calls. Water damage worsens hour by hour—we don't make you wait until morning while water floods your home. Call (703) 656-0104 any time.`,
+      answer: `Yes, 24/7/365. A burst pipe at 2 AM gets the same immediate response as daytime calls. Water damage worsens hour by hour—we don't make you wait until morning while water floods your home. Call (877) 497-0007 any time.`,
     },
   ],
   relatedBlogSlugs: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Arlington, VA | Flood Doctor',
-    description: `Arlington's crawl space drying experts. Serving Rosslyn, Clarendon & Crystal City. Rowhouse and mid-century rambler specialists. HOA coordination included. Call (703) 285-1102.`,
+    description: `Arlington's crawl space drying experts. Serving Rosslyn, Clarendon & Crystal City. Rowhouse and mid-century rambler specialists. HOA coordination included. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Arlington, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Drainage system needs based on soil conditions and stormwater patterns',
       'HOA requirements or permitting needs for exterior modifications',
     ],
-    cta: `Call (703) 285-1102 for a free crawl space inspection. We'll assess your Arlington property and provide a detailed proposal, whether you have a Clarendon rowhouse or a Lyon Village rambler.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We'll assess your Arlington property and provide a detailed proposal, whether you have a Clarendon rowhouse or a Lyon Village rambler.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -169,6 +169,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Crawl Space Moisture Problems in Your Arlington Home?',
-    paragraph: `Whether you have a Lyon Village rambler with 20-inch clearance or a Clarendon rowhouse with shared walls, our confined-space experts handle Arlington's toughest crawl space challenges. Call (703) 285-1102 for a free assessment.`,
+    paragraph: `Whether you have a Lyon Village rambler with 20-inch clearance or a Clarendon rowhouse with shared walls, our confined-space experts handle Arlington's toughest crawl space challenges. Call (877) 497-0007 for a free assessment.`,
   },
 }

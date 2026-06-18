@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Fairfax, VA | Flood Doctor',
-    description: `Fairfax moisture mapping experts. Infrared thermography and scientific moisture profiling for colonials, split-levels & townhomes in Burke, Kings Park & Mantua. Call (703) 285-1105.`,
+    description: `Fairfax moisture mapping experts. Infrared thermography and scientific moisture profiling for colonials, split-levels & townhomes in Burke, Kings Park & Mantua. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Fairfax, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Documentation detail for insurance claims or contractor quality assurance verification',
       'Monitoring duration and frequency during active drying operations',
     ],
-    cta: `Call (703) 285-1105 for a free consultation. We assess your situation, explain the scope of mapping needed, and provide a clear cost estimate before beginning work.`,
+    cta: `Call (877) 497-0007 for a free consultation. We assess your situation, explain the scope of mapping needed, and provide a clear cost estimate before beginning work.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Greenbriar',
       'Fair Oaks',
     ],
-    responseTime: `Same-day moisture assessment throughout Fairfax. Emergency thermal imaging available within 2 hours for active flooding events. Call (703) 285-1105.`,
+    responseTime: `Same-day moisture assessment throughout Fairfax. Emergency thermal imaging available within 2 hours for active flooding events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water Damage in Your Fairfax Home?',
-    paragraph: `Accurate moisture mapping ensures complete restoration and prevents hidden mold growth. Our IICRC-certified team provides scientific moisture diagnostics for Fairfax colonials, split-levels, and townhomes. Call (703) 285-1105 for a professional assessment.`,
+    paragraph: `Accurate moisture mapping ensures complete restoration and prevents hidden mold growth. Our IICRC-certified team provides scientific moisture diagnostics for Fairfax colonials, split-levels, and townhomes. Call (877) 497-0007 for a professional assessment.`,
   },
 }

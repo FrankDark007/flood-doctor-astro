@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Ashburn, VA | Flood Doctor',
-    description: `Ashburn's trusted water damage restoration experts. 30-min response to Broadlands, Brambleton & One Loudoun. Builder warranty claim specialists. Call (703) 656-0109.`,
+    description: `Ashburn's trusted water damage restoration experts. 30-min response to Broadlands, Brambleton & One Loudoun. Builder warranty claim specialists. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Ashburn, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC Master Water Restorers understand both the damage and the implications
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Ashburn hotline at (703) 656-0109, we dispatch immediately. Our trucks are positioned throughout Loudoun County to reach Broadlands, Brambleton, One Loudoun, and Lansdowne within our 30-minute guarantee—not from a distant warehouse, but from the Ashburn corridor where we're already stationed.`,
+      description: `When you call our Ashburn hotline at (877) 497-0007, we dispatch immediately. Our trucks are positioned throughout Loudoun County to reach Broadlands, Brambleton, One Loudoun, and Lansdowne within our 30-minute guarantee—not from a distant warehouse, but from the Ashburn corridor where we're already stationed.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC Master Water Restorers understand both the damage and the implications
       'Documentation needs—warranty claim situations require additional investigation and photography',
       'Duration before response—faster calls mean less damage spread and lower restoration costs',
     ],
-    cta: `Call (703) 656-0109 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage and warranty options.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage and warranty options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -146,7 +146,7 @@ Our IICRC Master Water Restorers understand both the damage and the implications
   faqs: [
     {
       question: 'How quickly should I call after discovering water damage in my Ashburn home?',
-      answer: 'Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating through modern open floor plans faster than older compartmentalized homes. Call (703) 656-0109 the moment you discover water.',
+      answer: 'Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating through modern open floor plans faster than older compartmentalized homes. Call (877) 497-0007 the moment you discover water.',
     },
     {
       question: 'Can you help with builder warranty water damage claims?',

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for Eden Center, historic district businesses, and apartment complexes. Call (703) 285-1100.`,
+    description: `Falls Church's trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for Eden Center, historic district businesses, and apartment complexes. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Falls Church, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Response Across Falls Church`,
-      description: `Call (703) 285-1100 and our hazmat team deploys to your Falls Church commercial property. We reach Falls Church City, Eden Center, Seven Corners, Baileys Crossroads, and Pimmit Hills commercial areas within our response guarantee, establishing containment appropriate to each property type.`,
+      description: `Call (877) 497-0007 and our hazmat team deploys to your Falls Church commercial property. We reach Falls Church City, Eden Center, Seven Corners, Baileys Crossroads, and Pimmit Hills commercial areas within our response guarantee, establishing containment appropriate to each property type.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
       `Building age—historic Falls Church City buildings may require adapted techniques for older construction materials`,
       `Vertical contamination—apartment-commercial buildings with plumbing stack issues may affect multiple levels`,
     ],
-    cta: `Call (703) 285-1100 for immediate commercial sewage emergency response in Falls Church. We serve Falls Church City, Eden Center, Seven Corners, Baileys Crossroads, and all Falls Church commercial areas.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Falls Church. We serve Falls Church City, Eden Center, Seven Corners, Baileys Crossroads, and all Falls Church commercial areas.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -153,6 +153,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Falls Church?`,
-    paragraph: `From Eden Center's celebrated restaurants to Falls Church City's historic storefronts, our OSHA-compliant hazmat crews deliver rapid, property-appropriate remediation. Call (703) 285-1100 for immediate containment and decontamination.`,
+    paragraph: `From Eden Center's celebrated restaurants to Falls Church City's historic storefronts, our OSHA-compliant hazmat crews deliver rapid, property-appropriate remediation. Call (877) 497-0007 for immediate containment and decontamination.`,
   },
 }

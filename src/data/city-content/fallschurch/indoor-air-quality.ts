@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Falls Church, VA | Flood Doctor',
-    description: `Falls Church indoor air quality testing. Mold sampling for historic bungalows, Lake Barcroft homes & apartment complexes. AIHA-accredited laboratory analysis. Call (703) 285-1100.`,
+    description: `Falls Church indoor air quality testing. Mold sampling for historic bungalows, Lake Barcroft homes & apartment complexes. AIHA-accredited laboratory analysis. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Falls Church, Virginia',
   introSection: {
@@ -105,7 +105,7 @@ export const content: CityServiceContent = {
       'Waterfront humidity assessment and HVAC dehumidification evaluation scope',
       'Post-remediation clearance sampling requirements',
     ],
-    cta: `Call (703) 285-1100 for a consultation tailored to your Falls Church property type. We provide upfront pricing before any testing begins.`,
+    cta: `Call (877) 497-0007 for a consultation tailored to your Falls Church property type. We provide upfront pricing before any testing begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -123,7 +123,7 @@ export const content: CityServiceContent = {
       'Glen Forest',
       'Greenway Downs',
     ],
-    responseTime: `Same-day IAQ assessment throughout Falls Church. Emergency multi-unit apartment response within 90 minutes. Call (703) 285-1100.`,
+    responseTime: `Same-day IAQ assessment throughout Falls Church. Emergency multi-unit apartment response within 90 minutes. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Air Quality Concerns in Your Falls Church Property?',
-    paragraph: `Historic home, lakefront residence, or apartment building—our scientific IAQ testing provides the definitive answers your health deserves. Call (703) 285-1100 for a professional assessment.`,
+    paragraph: `Historic home, lakefront residence, or apartment building—our scientific IAQ testing provides the definitive answers your health deserves. Call (877) 497-0007 for a professional assessment.`,
   },
 }

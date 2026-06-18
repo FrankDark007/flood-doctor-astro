@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Herndon, VA | Flood Doctor`,
-    description: `Herndon's trusted commercial mold remediation specialists. CIH-coordinated protocols for data center facilities, downtown offices, and Worldgate commercial properties. Call (703) 285-1106.`,
+    description: `Herndon's trusted commercial mold remediation specialists. CIH-coordinated protocols for data center facilities, downtown offices, and Worldgate commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Herndon, Virginia`,
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `Building age—downtown properties require different approaches than modern Franklin Farm technology buildings`,
       `Humidity management—wooded-area properties may need supplemental dehumidification installation`,
     ],
-    cta: `Call (703) 285-1106 for a confidential commercial mold assessment at your Herndon property. We adapt CIH protocols and remediation approaches to your specific facility type and operational requirements.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment at your Herndon property. We adapt CIH protocols and remediation approaches to your specific facility type and operational requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold in Your Herndon Commercial Property?`,
-    paragraph: `From downtown charm to Dulles corridor technology, our CIH-coordinated teams deliver mold remediation adapted to every Herndon facility type. Call (703) 285-1106 for a confidential assessment and facility-appropriate remediation plan.`,
+    paragraph: `From downtown charm to Dulles corridor technology, our CIH-coordinated teams deliver mold remediation adapted to every Herndon facility type. Call (877) 497-0007 for a confidential assessment and facility-appropriate remediation plan.`,
   },
 }

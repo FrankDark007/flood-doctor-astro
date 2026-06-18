@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Vienna, VA | Flood Doctor',
-    description: `Vienna indoor air quality testing. Mold spore analysis, VOC assessment & HVAC evaluation for colonials, Oakton luxury homes & mid-century properties. Call (703) 285-1112.`,
+    description: `Vienna indoor air quality testing. Mold spore analysis, VOC assessment & HVAC evaluation for colonials, Oakton luxury homes & mid-century properties. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Vienna, Virginia',
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'HVAC and crawl space evaluation scope',
       'Post-remediation verification sampling after mold removal or HVAC cleaning',
     ],
-    cta: `Call (703) 285-1112 for a consultation. We recommend the appropriate testing scope for your concerns and provide upfront pricing.`,
+    cta: `Call (877) 497-0007 for a consultation. We recommend the appropriate testing scope for your concerns and provide upfront pricing.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -124,7 +124,7 @@ export const content: CityServiceContent = {
       'Nottoway Park Area',
       'Tapawingo',
     ],
-    responseTime: `Same-day IAQ assessment throughout Vienna and Oakton. Emergency sampling within 2 hours for visible mold or acute health concerns. Call (703) 285-1112.`,
+    responseTime: `Same-day IAQ assessment throughout Vienna and Oakton. Emergency sampling within 2 hours for visible mold or acute health concerns. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -158,6 +158,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Breathing Concerns in Your Vienna Home?',
-    paragraph: `Laboratory-grade IAQ testing provides the definitive answers your family deserves. Mold identification, VOC measurement, and HVAC assessment—scientific data driving specific solutions. Call (703) 285-1112.`,
+    paragraph: `Laboratory-grade IAQ testing provides the definitive answers your family deserves. Mold identification, VOC measurement, and HVAC assessment—scientific data driving specific solutions. Call (877) 497-0007.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Herndon, VA | Flood Doctor`,
-    description: `Herndon's trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for data centers, downtown businesses, and commercial properties near Dulles Airport. Call (703) 285-1106.`,
+    description: `Herndon's trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for data centers, downtown businesses, and commercial properties near Dulles Airport. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Herndon, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Deployment Along the Herndon Corridor`,
-      description: `Call (703) 285-1106 and our hazmat team deploys immediately. We reach downtown Herndon, Worldgate, Franklin Farm, Fox Mill, and Dulles corridor commercial properties within our response guarantee, establishing containment and beginning coordination with property management.`,
+      description: `Call (877) 497-0007 and our hazmat team deploys immediately. We reach downtown Herndon, Worldgate, Franklin Farm, Fox Mill, and Dulles corridor commercial properties within our response guarantee, establishing containment and beginning coordination with property management.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `Health department requirements—Herndon restaurants and food service need additional compliance steps`,
       `Operational continuity—mission-critical facilities may require expedited service to minimize downtime`,
     ],
-    cta: `Call (703) 285-1106 for immediate commercial sewage emergency response in Herndon. We serve downtown Herndon, Worldgate, Franklin Farm, and the entire Dulles corridor with facility-appropriate hazmat response.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Herndon. We serve downtown Herndon, Worldgate, Franklin Farm, and the entire Dulles corridor with facility-appropriate hazmat response.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Herndon?`,
-    paragraph: `From downtown Elden Street businesses to Dulles corridor technology facilities, our OSHA-compliant hazmat crews deliver rapid containment, thorough decontamination, and facility-appropriate documentation. Call (703) 285-1106 for immediate response.`,
+    paragraph: `From downtown Elden Street businesses to Dulles corridor technology facilities, our OSHA-compliant hazmat crews deliver rapid containment, thorough decontamination, and facility-appropriate documentation. Call (877) 497-0007 for immediate response.`,
   },
 }

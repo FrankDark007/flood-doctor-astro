@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Industrial Facility Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville industrial facility water damage and restoration. Warehouses, data centers & manufacturing along Route 28/I-66 corridor. Call (703) 285-1103.`,
+    description: `Centreville industrial facility water damage and restoration. Warehouses, data centers & manufacturing along Route 28/I-66 corridor. Call (877) 497-0007.`,
   },
   h1: 'Industrial Facility Restoration in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our industrial team understands these priorities and structures the restoration 
   processSteps: [
     {
       title: 'Industrial Emergency Response',
-      description: `Call (703) 285-1103 for industrial-scale response. We dispatch equipment and crew capacity matched to industrial floor plates—multiple extraction units, commercial drying equipment, and project management for large facilities.`,
+      description: `Call (877) 497-0007 for industrial-scale response. We dispatch equipment and crew capacity matched to industrial floor plates—multiple extraction units, commercial drying equipment, and project management for large facilities.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -108,7 +108,7 @@ Our industrial team understands these priorities and structures the restoration 
       'Environmental requirements—climate-controlled facilities require precise environmental restoration',
       'Equipment assessment—manufacturer-coordinated equipment evaluation adds specialized scope',
     ],
-    cta: `Call (703) 285-1103 for industrial-scale restoration. We bring the capacity, expertise, and project management your facility requires.`,
+    cta: `Call (877) 497-0007 for industrial-scale restoration. We bring the capacity, expertise, and project management your facility requires.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -158,6 +158,6 @@ Our industrial team understands these priorities and structures the restoration 
   ],
   finalCTA: {
     headline: 'Industrial Facility Damage in Centreville?',
-    paragraph: `Industrial downtime compounds with every hour. Call (703) 285-1103 for industrial-scale response with the extraction capacity, drying equipment, and project management your facility demands.`,
+    paragraph: `Industrial downtime compounds with every hour. Call (877) 497-0007 for industrial-scale response with the extraction capacity, drying equipment, and project management your facility demands.`,
   },
 }

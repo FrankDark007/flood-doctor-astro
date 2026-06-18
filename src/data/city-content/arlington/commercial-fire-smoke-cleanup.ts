@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Arlington, VA | Flood Doctor`,
-    description: `Arlington's trusted commercial fire and smoke restoration team. Emergency response for high-rise offices, restaurants, and multi-tenant buildings in Rosslyn, Ballston, and Crystal City. Call (703) 285-1102.`,
+    description: `Arlington's trusted commercial fire and smoke restoration team. Emergency response for high-rise offices, restaurants, and multi-tenant buildings in Rosslyn, Ballston, and Crystal City. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Arlington, Virginia`,
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Sprinkler water damage—secondary water damage from fire suppression often adds substantial restoration scope`,
       `Reconstruction standards—Arlington County commercial codes and ADA compliance requirements affect rebuild costs`,
     ],
-    cta: `Call (703) 285-1102 for immediate commercial fire emergency response in Arlington. Our teams are positioned throughout the urban corridor for rapid deployment to any Rosslyn, Ballston, Crystal City, or Arlington commercial property.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Arlington. Our teams are positioned throughout the urban corridor for rapid deployment to any Rosslyn, Ballston, Crystal City, or Arlington commercial property.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -156,6 +156,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Arlington?`,
-    paragraph: `Smoke travels through HVAC systems and building infrastructure, expanding damage every hour. Our multi-discipline commercial fire teams are positioned throughout Arlington for rapid deployment. Call (703) 285-1102 for emergency stabilization and integrated fire restoration.`,
+    paragraph: `Smoke travels through HVAC systems and building infrastructure, expanding damage every hour. Our multi-discipline commercial fire teams are positioned throughout Arlington for rapid deployment. Call (877) 497-0007 for emergency stabilization and integrated fire restoration.`,
   },
 }

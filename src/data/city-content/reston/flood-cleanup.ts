@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Reston, VA | Flood Doctor',
-    description: 'Reston flood cleanup experts. 30-min emergency response for storm flooding, lake-area flooding & water damage. Lake Anne, South Lakes, North Point. Call (703) 656-0107.',
+    description: 'Reston flood cleanup experts. 30-min emergency response for storm flooding, lake-area flooding & water damage. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Reston, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Summer storms roll through Northern Virginia with little warning. One moment your North Point colonial is peaceful; an hour later, six inches of rain has overwhelmed the stormwater system, raised the water table near Lake Audubon, and sent muddy water cascading into your walkout basement. The family room facing the nature preserve, the home office where you work remotely—now under brown water carried by the very natural integration that makes Reston special.
 
-Flood Doctor has cleaned up after every major storm event in Reston since 2005. We've pumped out lake-adjacent basements after flash floods, extracted storm water from Hunters Woods colonials, and restored South Lakes properties after summer deluges. When NOAA issues a flash flood warning for Fairfax County, our phones light up with Reston addresses—and our trucks are already positioned to respond.`,
+Flood Doctor has cleaned up after every major storm event in Reston for years. We've pumped out lake-adjacent basements after flash floods, extracted storm water from Hunters Woods colonials, and restored South Lakes properties after summer deluges. When NOAA issues a flash flood warning for Fairfax County, our phones light up with Reston addresses—and our trucks are already positioned to respond.`,
       `Flood cleanup in Reston differs from typical water damage. Storm water carries soil from the pathways, debris from natural areas, and contaminants that complicate restoration. Reston's unique hydrology—four man-made lakes, extensive stormwater management, and homes integrated with nature—means flood water often carries sediment from the community's natural areas. Properties near Lake Anne or Lake Thoreau may also experience groundwater flooding when the water table rises during extended storms.
 
 Our IICRC-certified crews understand Reston's flood patterns: the low-lying areas where stormwater collects, the walkout basements vulnerable to runoff, the lake-adjacent properties where groundwater rises during wet periods. We don't just pump and leave—we extract, decontaminate, and restore.`,
@@ -21,7 +21,7 @@ Our IICRC-certified crews understand Reston's flood patterns: the low-lying area
   processSteps: [
     {
       title: 'Emergency Storm Response',
-      description: `When storms hit Reston, we dispatch multiple crews simultaneously. Your South Lakes colonial isn't waiting while we finish in Herndon—we have capacity for the community's concentrated emergency needs. Call (703) 656-0107 and we're moving within minutes.`,
+      description: `When storms hit Reston, we dispatch multiple crews simultaneously. Your South Lakes colonial isn't waiting while we finish in Herndon—we have capacity for the community's concentrated emergency needs. Call (877) 497-0007 and we're moving within minutes.`,
       timeframe: '30-minute response',
     },
     {
@@ -61,7 +61,7 @@ Our IICRC-certified crews understand Reston's flood patterns: the low-lying area
       'Material types—hardwood walkout floors require more careful drying than concrete',
       'Lake proximity—properties near water features may require extended drying time',
     ],
-    cta: `Call (703) 656-0107 for emergency response and free assessment. We'll evaluate damage, explain contamination categories, and provide detailed estimates.`,
+    cta: `Call (877) 497-0007 for emergency response and free assessment. We'll evaluate damage, explain contamination categories, and provide detailed estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [

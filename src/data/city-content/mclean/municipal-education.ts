@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in McLean, VA | Flood Doctor`,
-    description: `McLean's trusted restoration for schools and public buildings. FCPS-experienced crews serving Langley HS, McLean HS, and community facilities. Call (703) 285-1108.`,
+    description: `McLean's trusted restoration for schools and public buildings. FCPS-experienced crews serving Langley HS, McLean HS, and community facilities. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in McLean, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Beyond regulatory compliance, McLean school restorations must satisfy a communit
   processSteps: [
     {
       title: `Emergency Notification and Facility Securing`,
-      description: `Call (703) 285-1108 to activate our municipal response protocol. We coordinate with FCPS facilities management and McLean community facility directors to secure the affected building, notify appropriate administrators, and establish a restoration timeline that protects academic or event schedules.`,
+      description: `Call (877) 497-0007 to activate our municipal response protocol. We coordinate with FCPS facilities management and McLean community facility directors to secure the affected building, notify appropriate administrators, and establish a restoration timeline that protects academic or event schedules.`,
       timeframe: `Within 1 hour`,
     },
     {
@@ -116,7 +116,7 @@ Beyond regulatory compliance, McLean school restorations must satisfy a communit
       `ADA compliance requirements triggered by restoration scope in public buildings`,
       `Documentation and reporting requirements for FCPS administration, school boards, and public records`,
     ],
-    cta: `Call (703) 285-1108 for emergency school or municipal facility assessment. We provide procurement-compliant estimates and coordinate with FCPS facilities management for streamlined approval.`,
+    cta: `Call (877) 497-0007 for emergency school or municipal facility assessment. We provide procurement-compliant estimates and coordinate with FCPS facilities management for streamlined approval.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -171,6 +171,6 @@ Beyond regulatory compliance, McLean school restorations must satisfy a communit
   ],
   finalCTA: {
     headline: `School or Public Facility Emergency in McLean?`,
-    paragraph: `Student safety and community services depend on rapid restoration. Our crews respond to McLean schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the regulatory expertise these facilities require. Call (703) 285-1108 immediately.`,
+    paragraph: `Student safety and community services depend on rapid restoration. Our crews respond to McLean schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the regulatory expertise these facilities require. Call (877) 497-0007 immediately.`,
   },
 }

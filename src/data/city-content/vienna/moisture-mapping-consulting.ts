@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Vienna, VA | Flood Doctor',
-    description: `Vienna's trusted moisture mapping service. Infrared thermography for historic colonials, Oakton luxury homes & established neighborhoods. IICRC-certified diagnostics. Call (703) 285-1112.`,
+    description: `Vienna's trusted moisture mapping service. Infrared thermography for historic colonials, Oakton luxury homes & established neighborhoods. IICRC-certified diagnostics. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Vienna, Virginia',
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       'Finish sensitivity requiring non-destructive testing priority for premium materials',
       'Insurance documentation detail and ongoing monitoring duration',
     ],
-    cta: `Call (703) 285-1112 for a consultation. We assess your Vienna property and provide a clear scope and cost estimate before any work begins.`,
+    cta: `Call (877) 497-0007 for a consultation. We assess your Vienna property and provide a clear scope and cost estimate before any work begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       'Church Street Corridor',
       'Tapawingo',
     ],
-    responseTime: `Same-day moisture assessment throughout Vienna and Oakton. Emergency thermal imaging within 2 hours for active water intrusion. Call (703) 285-1112.`,
+    responseTime: `Same-day moisture assessment throughout Vienna and Oakton. Emergency thermal imaging within 2 hours for active water intrusion. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Concerns in Your Vienna Home?',
-    paragraph: `Scientific moisture mapping reveals the complete picture—hidden moisture, affected materials, and optimal drying approach. Our IICRC-certified consultants serve Vienna Town, Oakton, and surrounding neighborhoods. Call (703) 285-1112 for a professional assessment.`,
+    paragraph: `Scientific moisture mapping reveals the complete picture—hidden moisture, affected materials, and optimal drying approach. Our IICRC-certified consultants serve Vienna Town, Oakton, and surrounding neighborhoods. Call (877) 497-0007 for a professional assessment.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Springfield, VA | Flood Doctor',
-    description: 'Springfield storm damage restoration. 24/7 emergency response for wind damage, hail, fallen trees & water intrusion. West Springfield, Kingstowne, Franconia. Call (703) 656-0110.',
+    description: 'Springfield storm damage restoration. 24/7 emergency response for wind damage, hail, fallen trees & water intrusion. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Springfield, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: 'Call (703) 656-0110 as soon as safely possible after storm damage. We dispatch crews throughout Springfield when severe weather clears, reaching West Springfield, Kingstowne, Franconia, Newington, and surrounding neighborhoods within our 30-minute guarantee. During area-wide events, we prioritize by damage severity and ongoing exposure risk.',
+      description: 'Call (877) 497-0007 as soon as safely possible after storm damage. We dispatch crews throughout Springfield when severe weather clears, reaching West Springfield, Kingstowne, Franconia, Newington, and surrounding neighborhoods within our 30-minute guarantee. During area-wide events, we prioritize by damage severity and ongoing exposure risk.',
       timeframe: '30 minutes after safe conditions',
     },
     {
@@ -133,7 +133,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
       'Cascade damage from power outages—sump pump failure flooding, HVAC-related humidity damage, or frozen pipe bursts during winter storms',
       'Multi-point damage—storms often create several breach points requiring separate assessment and remediation across different building levels',
     ],
-    cta: `Call (703) 656-0110 for emergency storm damage response. We'll assess damage, provide emergency weatherproofing, and guide you through the insurance process with direct billing and professional documentation.`,
+    cta: `Call (877) 497-0007 for emergency storm damage response. We'll assess damage, provide emergency weatherproofing, and guide you through the insurance process with direct billing and professional documentation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -162,7 +162,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
     },
     {
       question: 'A tree fell on my Springfield home. What do I do?',
-      answer: `Evacuate if structural integrity is questionable, then call us at (703) 656-0110. We assess safety, provide emergency tarping around the tree impact, and coordinate removal with certified arborists. Don't attempt to move tree limbs yourself—shifting weight can cause additional structural collapse. We handle all resulting water damage and structural drying while tree removal is safely coordinated.`,
+      answer: `Evacuate if structural integrity is questionable, then call us at (877) 497-0007. We assess safety, provide emergency tarping around the tree impact, and coordinate removal with certified arborists. Don't attempt to move tree limbs yourself—shifting weight can cause additional structural collapse. We handle all resulting water damage and structural drying while tree removal is safely coordinated.`,
     },
     {
       question: 'Should I call my insurance company or Flood Doctor first?',

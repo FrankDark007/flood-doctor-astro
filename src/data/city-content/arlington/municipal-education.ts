@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Arlington, VA | Flood Doctor`,
-    description: `Arlington's trusted restoration for APS schools, county buildings, and community centers. Experienced with Arlington County procurement and APS facilities. Call (703) 285-1102.`,
+    description: `Arlington's trusted restoration for APS schools, county buildings, and community centers. Experienced with Arlington County procurement and APS facilities. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Arlington, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ The county's commitment to environmental sustainability adds another layer to re
   processSteps: [
     {
       title: `Emergency Notification and County Coordination`,
-      description: `Call (703) 285-1102 for immediate public facility response. We coordinate with APS facilities management or Arlington County DES to establish incident command, secure the building, and activate emergency procurement procedures that allow restoration to begin without standard bidding delays.`,
+      description: `Call (877) 497-0007 for immediate public facility response. We coordinate with APS facilities management or Arlington County DES to establish incident command, secure the building, and activate emergency procurement procedures that allow restoration to begin without standard bidding delays.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -115,7 +115,7 @@ The county's commitment to environmental sustainability adds another layer to re
       `ADA compliance requirements for reconstruction in public buildings`,
       `Documentation and reporting for county procurement, school board review, and community communication`,
     ],
-    cta: `Call (703) 285-1102 for emergency school or government building assessment. We provide procurement-compliant estimates and coordinate with APS and county facilities management for immediate response authorization.`,
+    cta: `Call (877) 497-0007 for emergency school or government building assessment. We provide procurement-compliant estimates and coordinate with APS and county facilities management for immediate response authorization.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -167,6 +167,6 @@ The county's commitment to environmental sustainability adds another layer to re
   ],
   finalCTA: {
     headline: `Arlington School or Government Building Emergency?`,
-    paragraph: `Every hour of closure affects students and constituents who depend on these facilities. Our crews respond to Arlington public buildings within 45 minutes with the equipment, regulatory expertise, and procurement compliance documentation the county requires. Call (703) 285-1102 now.`,
+    paragraph: `Every hour of closure affects students and constituents who depend on these facilities. Our crews respond to Arlington public buildings within 45 minutes with the equipment, regulatory expertise, and procurement compliance documentation the county requires. Call (877) 497-0007 now.`,
   },
 }

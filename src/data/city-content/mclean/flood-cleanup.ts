@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in McLean, VA | Flood Doctor',
-    description: 'McLean flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. Langley, Chesterbrook, The Reserve. Call (703) 656-0101.',
+    description: 'McLean flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in McLean, Virginia',
   introSection: {
@@ -18,7 +18,7 @@ McLean flood events operate on a different scale than standard residential water
   processSteps: [
     {
       title: 'Estate-Scale Emergency Dispatch',
-      description: `Our crews stage along Route 123 and the George Washington Parkway corridor during storm warnings, positioning truck-mounted extraction units within minutes of McLean's estate neighborhoods. Each dispatch includes contents protection supplies — acid-free tissue, moving blankets, moisture-barrier wrap, and plastic crating. When your Langley property calls (703) 656-0101 during a Pimmit Run flood event, the truck carries everything needed to simultaneously extract water and protect irreplaceable items.`,
+      description: `Our crews stage along Route 123 and the George Washington Parkway corridor during storm warnings, positioning truck-mounted extraction units within minutes of McLean's estate neighborhoods. Each dispatch includes contents protection supplies — acid-free tissue, moving blankets, moisture-barrier wrap, and plastic crating. When your Langley property calls (877) 497-0007 during a Pimmit Run flood event, the truck carries everything needed to simultaneously extract water and protect irreplaceable items.`,
       timeframe: '30-minute response',
     },
     {
@@ -89,7 +89,7 @@ McLean flood events operate on a different scale than standard residential water
       'Fine arts and specialty documentation — conservation-grade assessment and coordination with art conservators',
       'Contamination category — Category 3 protocols require containment, PPE crews, material disposal, and clearance testing',
     ],
-    cta: 'Call (703) 656-0101 for immediate emergency response and a detailed damage assessment. We evaluate every zone independently, document material-specific damage, and provide transparent estimates for both structure and contents restoration.',
+    cta: 'Call (877) 497-0007 for immediate emergency response and a detailed damage assessment. We evaluate every zone independently, document material-specific damage, and provide transparent estimates for both structure and contents restoration.',
   },
   serviceAreaSection: {
     neighborhoods: [

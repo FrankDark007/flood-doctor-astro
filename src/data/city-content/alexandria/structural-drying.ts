@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Alexandria, VA | Flood Doctor',
-    description: `Alexandria's structural drying experts. Historic preservation-compliant drying for Old Town, Del Ray & Belle Haven. BAR-aware restoration. Call (703) 285-1101.`,
+    description: `Alexandria's structural drying experts. Historic preservation-compliant drying for Old Town, Del Ray & Belle Haven. BAR-aware restoration. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Alexandria, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians calculate material-specific drying parameters fo
   processSteps: [
     {
       title: 'Emergency Response with Historic Awareness',
-      description: `Call (703) 285-1101 and our Alexandria-experienced crews arrive within 30 minutes. We immediately assess both the water damage and the historic materials at risk — original plaster, timber framing, stone foundations, and period-specific finishes that require preservation-sensitive drying approaches in Old Town, Del Ray, and Rosemont.`,
+      description: `Call (877) 497-0007 and our Alexandria-experienced crews arrive within 30 minutes. We immediately assess both the water damage and the historic materials at risk — original plaster, timber framing, stone foundations, and period-specific finishes that require preservation-sensitive drying approaches in Old Town, Del Ray, and Rosemont.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -125,7 +125,7 @@ Our IICRC-certified technicians calculate material-specific drying parameters fo
       'Property size and construction complexity — mixed-era construction with both original and renovated sections requires multiple drying approaches',
       'Regulatory considerations — BAR-compliant documentation and preservation-priority methods may add scope to historic district properties',
     ],
-    cta: `Call (703) 285-1101 for a preservation-aware assessment. We evaluate both the water damage and the historic materials at risk, providing detailed estimates that account for Alexandria's unique restoration requirements.`,
+    cta: `Call (877) 497-0007 for a preservation-aware assessment. We evaluate both the water damage and the historic materials at risk, providing detailed estimates that account for Alexandria's unique restoration requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -178,6 +178,6 @@ Our IICRC-certified technicians calculate material-specific drying parameters fo
   ],
   finalCTA: {
     headline: 'Water Damage in Your Alexandria Home?',
-    paragraph: 'Historic materials suffer irreversible damage when drying is delayed or performed incorrectly. Our Alexandria team combines psychrometric science with preservation expertise to dry your home safely. Call (703) 285-1101 for immediate response that protects both your structure and its historic character.',
+    paragraph: 'Historic materials suffer irreversible damage when drying is delayed or performed incorrectly. Our Alexandria team combines psychrometric science with preservation expertise to dry your home safely. Call (877) 497-0007 for immediate response that protects both your structure and its historic character.',
   },
 }

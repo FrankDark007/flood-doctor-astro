@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for medical offices and clinics near Lake Barcroft and Seven Corners. Call (703) 285-1100.`,
+    description: `Falls Church's trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for medical offices and clinics near Lake Barcroft and Seven Corners. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Falls Church, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our healthcare restoration protocols address these community-specific challenges
   processSteps: [
     {
       title: `Emergency Response and Facility Assessment`,
-      description: `Call our Falls Church healthcare hotline at (703) 285-1100 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager before entering any patient care area.`,
+      description: `Call our Falls Church healthcare hotline at (877) 497-0007 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager before entering any patient care area.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our healthcare restoration protocols address these community-specific challenges
       `Contamination category—sewer lateral failures in older Falls Church buildings require enhanced protocols`,
       `Regulatory documentation needs for Joint Commission, CMS, and state health department compliance`,
     ],
-    cta: `Call (703) 285-1100 for an emergency healthcare facility assessment. We provide HIPAA-compliant estimates and coordinate directly with medical facility insurance carriers throughout Falls Church.`,
+    cta: `Call (877) 497-0007 for an emergency healthcare facility assessment. We provide HIPAA-compliant estimates and coordinate directly with medical facility insurance carriers throughout Falls Church.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -169,6 +169,6 @@ Our healthcare restoration protocols address these community-specific challenges
   ],
   finalCTA: {
     headline: `Healthcare Facility Emergency in Falls Church?`,
-    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Falls Church medical facilities within 45 minutes with containment materials and healthcare-grade equipment. Call (703) 285-1100 now.`,
+    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Falls Church medical facilities within 45 minutes with containment materials and healthcare-grade equipment. Call (877) 497-0007 now.`,
   },
 }

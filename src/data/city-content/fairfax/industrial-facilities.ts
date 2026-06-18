@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's industrial and commercial restoration specialists. OSHA-compliant service for business parks, warehouses, and production facilities near Fair Lakes. Call (703) 285-1105.`,
+    description: `Fairfax's industrial and commercial restoration specialists. OSHA-compliant service for business parks, warehouses, and production facilities near Fair Lakes. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Fairfax, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Fairfax industrial team adapts heavy restoration capability to these suburba
   processSteps: [
     {
       title: `Commercial Emergency Response`,
-      description: `Call (703) 285-1105 for immediate commercial or industrial deployment. Our Fairfax crews arrive with extraction equipment and anti-corrosion treatment materials, coordinating with building management for access to affected commercial spaces and shared building systems.`,
+      description: `Call (877) 497-0007 for immediate commercial or industrial deployment. Our Fairfax crews arrive with extraction equipment and anti-corrosion treatment materials, coordinating with building management for access to affected commercial spaces and shared building systems.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Fairfax industrial team adapts heavy restoration capability to these suburba
       `Inventory exposure and salvage assessment—damaged product and material documentation for insurance claim support`,
       `Business interruption urgency—government contract deadlines and supply chain obligations requiring expedited restoration timelines`,
     ],
-    cta: `Call (703) 285-1105 for emergency commercial or industrial assessment. We coordinate with building management and your insurance carrier for comprehensive Fairfax business facility restoration.`,
+    cta: `Call (877) 497-0007 for emergency commercial or industrial assessment. We coordinate with building management and your insurance carrier for comprehensive Fairfax business facility restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our Fairfax industrial team adapts heavy restoration capability to these suburba
   ],
   finalCTA: {
     headline: `Fairfax Commercial or Industrial Emergency?`,
-    paragraph: `Production downtime and equipment damage grow worse by the hour. Our commercial restoration crews reach any Fairfax facility within 30 minutes with anti-corrosion treatment, extraction equipment, and the business recovery documentation your operation needs. Call (703) 285-1105 now.`,
+    paragraph: `Production downtime and equipment damage grow worse by the hour. Our commercial restoration crews reach any Fairfax facility within 30 minutes with anti-corrosion treatment, extraction equipment, and the business recovery documentation your operation needs. Call (877) 497-0007 now.`,
   },
 }

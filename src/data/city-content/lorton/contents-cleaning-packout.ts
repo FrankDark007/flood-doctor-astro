@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Lorton, VA | Flood Doctor',
-    description: `Lorton contents restoration for Laurel Hill, Mason Neck & Occoquan homes. Waterfront contamination, new homeowner guidance & professional pack-out. Call (703) 285-1100.`,
+    description: `Lorton contents restoration for Laurel Hill, Mason Neck & Occoquan homes. Waterfront contamination, new homeowner guidance & professional pack-out. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Lorton, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every item our team handles is photographed, condition-documented, and tracked t
   processSteps: [
     {
       title: 'Immediate Triage',
-      description: `Within 30 minutes of calling (703) 285-1100, we stabilize time-sensitive items. Home office documents and electronics from your Laurel Hill basement receive priority handling. Sediment-exposed items at Mason Neck are separated for contamination protocols. Family photographs and irreplaceable items are identified and secured first.`,
+      description: `Within 30 minutes of calling (877) 497-0007, we stabilize time-sensitive items. Home office documents and electronics from your Laurel Hill basement receive priority handling. Sediment-exposed items at Mason Neck are separated for contamination protocols. Family photographs and irreplaceable items are identified and secured first.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -106,7 +106,7 @@ Every item our team handles is photographed, condition-documented, and tracked t
       'Electronics scope — home office setups with multiple devices increase component-level restoration investment',
       'Storage duration — climate-controlled storage costs correlate with structural restoration timelines in your Lorton home',
     ],
-    cta: `Call (703) 285-1100 for immediate contents assessment. We stabilize time-sensitive items and provide clear estimates — with first-claim guidance for new homeowners.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We stabilize time-sensitive items and provide clear estimates — with first-claim guidance for new homeowners.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ Every item our team handles is photographed, condition-documented, and tracked t
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Lorton Home?',
-    paragraph: 'From waterfront sediment contamination to basement sump pump failures to your first-ever insurance claim, our Lorton team responds within 30 minutes with the expertise and guidance your family needs. Call (703) 285-1100 now.',
+    paragraph: 'From waterfront sediment contamination to basement sump pump failures to your first-ever insurance claim, our Lorton team responds within 30 minutes with the expertise and guidance your family needs. Call (877) 497-0007 now.',
   },
 }

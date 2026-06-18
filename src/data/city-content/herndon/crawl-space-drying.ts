@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Herndon, VA | Flood Doctor',
-    description: `Herndon crawl space drying specialists. Serving Downtown Herndon, Fox Mill & Franklin Farm. 1970s-90s home expertise. Storm drain solutions. Call (703) 285-1106.`,
+    description: `Herndon crawl space drying specialists. Serving Downtown Herndon, Fox Mill & Franklin Farm. 1970s-90s home expertise. Storm drain solutions. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Herndon, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Storm drain backup protection needs based on neighborhood infrastructure capacity',
       'Property type—owner-occupied homes, rental properties, and townhomes have different documentation needs',
     ],
-    cta: `Call (703) 285-1106 for a free crawl space inspection. We'll give you an honest assessment and a clear proposal for protecting your Herndon home.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We'll give you an honest assessment and a clear proposal for protecting your Herndon home.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Herndon Crawl Space Needs Attention?',
-    paragraph: `From downtown Victorian foundations to Fox Mill split-levels, Herndon homes deserve crawl space protection that matches how we build them today—not how they were built decades ago. Call (703) 285-1106 for a free inspection.`,
+    paragraph: `From downtown Victorian foundations to Fox Mill split-levels, Herndon homes deserve crawl space protection that matches how we build them today—not how they were built decades ago. Call (877) 497-0007 for a free inspection.`,
   },
 }

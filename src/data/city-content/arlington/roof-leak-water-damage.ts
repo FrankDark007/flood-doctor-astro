@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Arlington, VA | Flood Doctor',
-    description: `Arlington roof leak water damage experts. Serving Rosslyn, Clarendon & Lyon Village. Flat-roof, condo & rowhouse specialists. HOA coordination. Call (703) 285-1102.`,
+    description: `Arlington roof leak water damage experts. Serving Rosslyn, Clarendon & Lyon Village. Flat-roof, condo & rowhouse specialists. HOA coordination. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Arlington, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Urban Emergency Response',
-      description: `Call (703) 285-1102 and our Arlington crews respond within 30 minutes. We coordinate building access for condos and apartment buildings, navigate street parking for rowhouses, and arrive prepared for the specific roof type at your address—flat, pitched, shared-wall, or high-rise.`,
+      description: `Call (877) 497-0007 and our Arlington crews respond within 30 minutes. We coordinate building access for condos and apartment buildings, navigate street parking for rowhouses, and arrive prepared for the specific roof type at your address—flat, pitched, shared-wall, or high-rise.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Duration before detection—hidden leaks create more extensive damage than immediately noticed ones',
       'Building access logistics affecting equipment deployment and monitoring scheduling',
     ],
-    cta: `Call (703) 285-1102 at the first sign of a roof leak. Whether you are in a Lyon Village rambler or a Rosslyn high-rise, rapid response limits damage and reduces restoration costs.`,
+    cta: `Call (877) 497-0007 at the first sign of a roof leak. Whether you are in a Lyon Village rambler or a Rosslyn high-rise, rapid response limits damage and reduces restoration costs.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Arlington Roof Leak? Stop the Damage Before It Spreads.',
-    paragraph: `Roof leaks worsen by the hour. Call (703) 285-1102 for immediate tarping, interior assessment, and complete restoration—whether your Arlington home is a rambler, rowhouse, or high-rise condo.`,
+    paragraph: `Roof leaks worsen by the hour. Call (877) 497-0007 for immediate tarping, interior assessment, and complete restoration—whether your Arlington home is a rambler, rowhouse, or high-rise condo.`,
   },
 }

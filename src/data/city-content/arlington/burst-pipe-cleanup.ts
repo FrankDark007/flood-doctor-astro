@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Arlington, VA | Flood Doctor',
-    description: 'Arlington burst pipe emergency response. 30-min arrival to Rosslyn, Clarendon & Crystal City high-rises. Multi-unit coordination, HOA documentation. Call (703) 656-0102.',
+    description: 'Arlington burst pipe emergency response. 30-min arrival to Rosslyn, Clarendon & Crystal City high-rises. Multi-unit coordination, HOA documentation. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Cleanup in Arlington, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC Master Water Restorers understand high-rise plumbing architecture. We 
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: 'When you call our Arlington hotline at (703) 656-0102, we dispatch immediately. While en route, we coordinate with building management on water shutoff status, freight elevator access, and affected unit identification. Our crews arrive ready to work, not ready to negotiate building access.',
+      description: 'When you call our Arlington hotline at (877) 497-0007, we dispatch immediately. While en route, we coordinate with building management on water shutoff status, freight elevator access, and affected unit identification. Our crews arrive ready to work, not ready to negotiate building access.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -120,7 +120,7 @@ Our IICRC Master Water Restorers understand high-rise plumbing architecture. We 
       'Materials affected—carpet, hardwood, and drywall have different restoration requirements and costs',
       'Insurance coordination—multi-policy claims require additional documentation and adjuster coordination',
     ],
-    cta: `Call (703) 656-0102 for a free, no-obligation inspection. We'll assess all affected units, trace water migration paths, and provide detailed estimates that support your insurance claim.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess all affected units, trace water migration paths, and provide detailed estimates that support your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,11 +145,11 @@ Our IICRC Master Water Restorers understand high-rise plumbing architecture. We 
   faqs: [
     {
       question: 'What should I do immediately when a pipe bursts in my Arlington condo?',
-      answer: `First, try to shut off water at your unit's valve if accessible—usually under sinks or behind toilets. If the main supply line burst, contact building management immediately for building-wide shutoff. Then call us at (703) 656-0102. Move valuables away from water and document damage with photos while waiting for response.`,
+      answer: `First, try to shut off water at your unit's valve if accessible—usually under sinks or behind toilets. If the main supply line burst, contact building management immediately for building-wide shutoff. Then call us at (877) 497-0007. Move valuables away from water and document damage with photos while waiting for response.`,
     },
     {
       question: `My neighbor's pipe burst and water is coming through my ceiling—what do I do?`,
-      answer: `Document the damage with photos immediately, then call us at (703) 656-0102 and notify building management. We'll assess both units and coordinate response. Your HO-6 condo policy typically covers damage to your unit regardless of the water's source—we provide documentation supporting your claim.`,
+      answer: `Document the damage with photos immediately, then call us at (877) 497-0007 and notify building management. We'll assess both units and coordinate response. Your HO-6 condo policy typically covers damage to your unit regardless of the water's source—we provide documentation supporting your claim.`,
     },
     {
       question: `How do you access other units when the owners aren't home?`,

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Lorton, VA | Flood Doctor',
-    description: `Lorton odor elimination for Laurel Hill, Mason Neck & Occoquan homes. Crawlspace mold, waterfront mustiness & new construction VOCs. Call (703) 285-1100.`,
+    description: `Lorton odor elimination for Laurel Hill, Mason Neck & Occoquan homes. Crawlspace mold, waterfront mustiness & new construction VOCs. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Lorton, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians deploy hydroxyl generators for safe treatment in occupied Lorton
   processSteps: [
     {
       title: 'Property-Context Assessment',
-      description: `Call (703) 285-1100 and we evaluate your Lorton home within its environmental context. Laurel Hill homes receive sealed-envelope air quality assessment. Waterfront properties get sediment and organic contamination evaluation. Wooded-lot homes receive crawlspace moisture and mold investigation.`,
+      description: `Call (877) 497-0007 and we evaluate your Lorton home within its environmental context. Laurel Hill homes receive sealed-envelope air quality assessment. Waterfront properties get sediment and organic contamination evaluation. Wooded-lot homes receive crawlspace moisture and mold investigation.`,
       timeframe: 'Initial visit',
     },
     {
@@ -107,7 +107,7 @@ Our technicians deploy hydroxyl generators for safe treatment in occupied Lorton
       'Chronic versus acute — years of crawlspace moisture and repeated waterfront events require more extensive remediation than recent incidents',
       'Prevention scope — crawlspace encapsulation, drainage correction, and ventilation upgrades are investments alongside deodorization treatment',
     ],
-    cta: `Call (703) 285-1100 for a property-specific odor assessment. We identify the source, explain the treatment approach, and provide clear pricing for your Lorton home.`,
+    cta: `Call (877) 497-0007 for a property-specific odor assessment. We identify the source, explain the treatment approach, and provide clear pricing for your Lorton home.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -158,6 +158,6 @@ Our technicians deploy hydroxyl generators for safe treatment in occupied Lorton
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Lorton Home?',
-    paragraph: 'From crawlspace mustiness in wooded lots to waterfront organic contamination to sealed-envelope trapped compounds, our Lorton team traces every odor to its source and eliminates it permanently. Call (703) 285-1100 for professional assessment.',
+    paragraph: 'From crawlspace mustiness in wooded lots to waterfront organic contamination to sealed-envelope trapped compounds, our Lorton team traces every odor to its source and eliminates it permanently. Call (877) 497-0007 for professional assessment.',
   },
 }

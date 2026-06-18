@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling commercial fire and smoke restoration. Route 7 businesses, shopping centers & office parks. Minimize downtime with rapid smoke and water damage restoration. Call (703) 285-1111.`,
+    description: `Sterling commercial fire and smoke restoration. Route 7 businesses, shopping centers & office parks. Minimize downtime with rapid smoke and water damage restoration. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Sterling, Virginia`,
   introSection: {
@@ -77,7 +77,7 @@ Our commercial fire project managers coordinate the full scope—managing smoke 
       `Business type requirements—food service, medical, and retail each have industry-specific restoration needs`,
       `Timeline acceleration—after-hours crews and parallel work streams for faster reopening`,
     ],
-    cta: `Call (703) 285-1111 after any commercial fire event. Early response prevents smoke from bonding permanently and limits water damage from fire suppression. We coordinate the full restoration scope.`,
+    cta: `Call (877) 497-0007 after any commercial fire event. Early response prevents smoke from bonding permanently and limits water damage from fire suppression. We coordinate the full restoration scope.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our commercial fire project managers coordinate the full scope—managing smoke 
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Immediate response after fire department clearance for all Sterling commercial properties. Emergency board-up and water extraction begin within the first response. Call (703) 285-1111.`,
+    responseTime: `Immediate response after fire department clearance for all Sterling commercial properties. Emergency board-up and water extraction begin within the first response. Call (877) 497-0007.`,
   },
   faqs: [
     {

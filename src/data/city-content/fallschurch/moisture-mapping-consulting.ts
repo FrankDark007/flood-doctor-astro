@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Falls Church, VA | Flood Doctor',
-    description: `Falls Church moisture mapping specialists. Infrared thermography for historic bungalows, Lake Barcroft waterfront homes & apartment buildings. IICRC-certified. Call (703) 285-1100.`,
+    description: `Falls Church moisture mapping specialists. Infrared thermography for historic bungalows, Lake Barcroft waterfront homes & apartment buildings. IICRC-certified. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Falls Church, Virginia',
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       'Number of apartment units requiring assessment in multi-unit water events',
       'Water classification testing when sewer lateral or contamination involvement is suspected',
     ],
-    cta: `Call (703) 285-1100 for a consultation. We match our assessment approach to your Falls Church property type and provide clear pricing before beginning work.`,
+    cta: `Call (877) 497-0007 for a consultation. We match our assessment approach to your Falls Church property type and provide clear pricing before beginning work.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       'Greenway Downs',
       'Falls Hill',
     ],
-    responseTime: `Same-day moisture assessment throughout Falls Church. Emergency multi-unit response within 90 minutes for apartment building water events. Call (703) 285-1100.`,
+    responseTime: `Same-day moisture assessment throughout Falls Church. Emergency multi-unit response within 90 minutes for apartment building water events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Concerns in Your Falls Church Property?',
-    paragraph: `From historic bungalows to lakefront homes and apartment complexes, our scientific moisture mapping provides accurate data for every Falls Church property type. Call (703) 285-1100 for a professional assessment.`,
+    paragraph: `From historic bungalows to lakefront homes and apartment complexes, our scientific moisture mapping provides accurate data for every Falls Church property type. Call (877) 497-0007 for a professional assessment.`,
   },
 }

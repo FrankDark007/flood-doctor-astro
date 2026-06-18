@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Springfield, VA | Flood Doctor',
-    description: `Springfield moisture mapping experts. Infrared thermography for split-levels, colonials & military housing near Fort Belvoir. IICRC-certified diagnostics. Call (703) 285-1110.`,
+    description: `Springfield moisture mapping experts. Infrared thermography for split-levels, colonials & military housing near Fort Belvoir. IICRC-certified diagnostics. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Springfield, Virginia',
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       'Documentation urgency—expedited reports for PCS timelines or insurance deadlines',
       'Monitoring frequency and duration during active drying operations',
     ],
-    cta: `Call (703) 285-1110 for a consultation. We assess your Springfield property situation and provide transparent pricing before any work begins.`,
+    cta: `Call (877) 497-0007 for a consultation. We assess your Springfield property situation and provide transparent pricing before any work begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Ravensworth',
       'Springfield Crossing',
     ],
-    responseTime: `Same-day moisture assessment throughout Springfield and the Fort Belvoir corridor. Emergency response within 2 hours for active flooding. Call (703) 285-1110.`,
+    responseTime: `Same-day moisture assessment throughout Springfield and the Fort Belvoir corridor. Emergency response within 2 hours for active flooding. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water Damage in Your Springfield Home?',
-    paragraph: `Accurate moisture mapping ensures complete restoration of your Springfield property. Our IICRC-certified consultants specialize in the split-level and colonial construction found throughout West Springfield, Franconia, and Kingstowne. Call (703) 285-1110.`,
+    paragraph: `Accurate moisture mapping ensures complete restoration of your Springfield property. Our IICRC-certified consultants specialize in the split-level and colonial construction found throughout West Springfield, Franconia, and Kingstowne. Call (877) 497-0007.`,
   },
 }

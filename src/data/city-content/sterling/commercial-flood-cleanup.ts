@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Flood Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling commercial flood cleanup. Route 7 businesses, shopping centers & office parks. Rapid extraction, business continuity planning. 30-min response. Call (703) 285-1111.`,
+    description: `Sterling commercial flood cleanup. Route 7 businesses, shopping centers & office parks. Rapid extraction, business continuity planning. 30-min response. Call (877) 497-0007.`,
   },
   h1: `Commercial Flood Cleanup in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our commercial crews carry both the extraction capacity for large commercial flo
   processSteps: [
     {
       title: `Priority Commercial Dispatch`,
-      description: `Call (703) 285-1111 for immediate commercial flood response. Our crews reach Route 7 corridor businesses and all Sterling commercial areas within 30 minutes with commercial-grade extraction equipment ready for deployment.`,
+      description: `Call (877) 497-0007 for immediate commercial flood response. Our crews reach Route 7 corridor businesses and all Sterling commercial areas within 30 minutes with commercial-grade extraction equipment ready for deployment.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -77,7 +77,7 @@ Our commercial crews carry both the extraction capacity for large commercial flo
       `Inventory involvement—protecting, cleaning, or documenting damaged merchandise adds scope`,
       `Business continuity needs—after-hours and accelerated restoration to minimize closure`,
     ],
-    cta: `Call (703) 285-1111 for immediate commercial flood response. We minimize your closure period and maximize your insurance recovery.`,
+    cta: `Call (877) 497-0007 for immediate commercial flood response. We minimize your closure period and maximize your insurance recovery.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our commercial crews carry both the extraction capacity for large commercial flo
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute commercial flood response across all Sterling business areas. Priority dispatch for active flooding with business inventory at risk. Call (703) 285-1111.`,
+    responseTime: `30-minute commercial flood response across all Sterling business areas. Priority dispatch for active flooding with business inventory at risk. Call (877) 497-0007.`,
   },
   faqs: [
     {

@@ -32,7 +32,7 @@ interface CityData {
   state: string          // 'Virginia'
   stateAbbr: string      // 'VA'
   fullName: string       // 'McLean, Virginia'
-  phone: string          // '(703) 285-1108'
+  phone: string          // '(877) 497-0007'
   address: string        // local office address
   zipCode: string
   serviceArea: string[]  // neighborhoods served

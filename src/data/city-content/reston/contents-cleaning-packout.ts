@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Reston, VA | Flood Doctor',
-    description: `Reston's contents restoration team. Professional pack-out for townhomes, garden condos & homes. HOA coordination, climate storage & tracking. Call (703) 285-1109.`,
+    description: `Reston's contents restoration team. Professional pack-out for townhomes, garden condos & homes. HOA coordination, climate storage & tracking. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Reston, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every item we handle is photographed, catalogued, and barcoded for tracking thro
   processSteps: [
     {
       title: 'Emergency Triage & Stabilization',
-      description: `Within 30 minutes of your call to (703) 285-1109, our team arrives to identify time-sensitive items. Water-soaked documents and photographs are bagged for freezing. Electronics are disconnected for corrosion prevention. Sentimental items stored in flooded basements and lower levels are prioritized for immediate handling.`,
+      description: `Within 30 minutes of your call to (877) 497-0007, our team arrives to identify time-sensitive items. Water-soaked documents and photographs are bagged for freezing. Electronics are disconnected for corrosion prevention. Sentimental items stored in flooded basements and lower levels are prioritized for immediate handling.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -106,7 +106,7 @@ Every item we handle is photographed, catalogued, and barcoded for tracking thro
       'Contamination level — below-grade items may require decontamination protocols beyond standard cleaning',
       'Storage duration — climate-controlled storage costs extend with longer structural restoration timelines',
     ],
-    cta: `Call (703) 285-1109 for immediate contents triage. We stabilize time-sensitive items within hours and provide detailed estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents triage. We stabilize time-sensitive items within hours and provide detailed estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -158,6 +158,6 @@ Every item we handle is photographed, catalogued, and barcoded for tracking thro
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Reston Home?',
-    paragraph: 'Every hour of water exposure damages documents, photographs, and electronics that connect your family to years of Reston community life. Our contents team responds within 30 minutes to stabilize what matters most. Call (703) 285-1109 now.',
+    paragraph: 'Every hour of water exposure damages documents, photographs, and electronics that connect your family to years of Reston community life. Our contents team responds within 30 minutes to stabilize what matters most. Call (877) 497-0007 now.',
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted restoration for schools and public buildings. Experienced crews serving Falls Church City schools, Seven Corners facilities, and Lake Barcroft community buildings. Call (703) 285-1100.`,
+    description: `Falls Church's trusted restoration for schools and public buildings. Experienced crews serving Falls Church City schools, Seven Corners facilities, and Lake Barcroft community buildings. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Falls Church, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Falls Church residents are deeply engaged in public facility management. School 
   processSteps: [
     {
       title: `Emergency Notification and Facility Securing`,
-      description: `Call (703) 285-1100 to activate our municipal response protocol. We coordinate with Falls Church City Schools or FCPS facilities management as appropriate, secure the affected building, and establish a restoration timeline protecting academic or program schedules.`,
+      description: `Call (877) 497-0007 to activate our municipal response protocol. We coordinate with Falls Church City Schools or FCPS facilities management as appropriate, secure the affected building, and establish a restoration timeline protecting academic or program schedules.`,
       timeframe: `Within 1 hour`,
     },
     {
@@ -116,7 +116,7 @@ Falls Church residents are deeply engaged in public facility management. School 
       `Academic calendar constraints—accelerated timelines requiring additional crews affect project costs`,
       `Dual jurisdiction documentation—Falls Church City and FCPS have different reporting requirements`,
     ],
-    cta: `Call (703) 285-1100 for emergency school or municipal facility assessment. We provide jurisdiction-appropriate procurement documentation and coordinate with Falls Church City Schools or FCPS facilities management for streamlined approval.`,
+    cta: `Call (877) 497-0007 for emergency school or municipal facility assessment. We provide jurisdiction-appropriate procurement documentation and coordinate with Falls Church City Schools or FCPS facilities management for streamlined approval.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -171,6 +171,6 @@ Falls Church residents are deeply engaged in public facility management. School 
   ],
   finalCTA: {
     headline: `School or Public Facility Emergency in Falls Church?`,
-    paragraph: `Student safety and community services depend on rapid restoration. Our crews respond to Falls Church schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the regulatory expertise these historic facilities require. Call (703) 285-1100 immediately.`,
+    paragraph: `Student safety and community services depend on rapid restoration. Our crews respond to Falls Church schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the regulatory expertise these historic facilities require. Call (877) 497-0007 immediately.`,
   },
 }

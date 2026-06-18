@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Alexandria, VA | Flood Doctor',
-    description: `Alexandria roof leak water damage with historic preservation expertise. Serving Old Town, Del Ray & Belle Haven. BAR-compliant repairs. Emergency tarping. Call (703) 285-1101.`,
+    description: `Alexandria roof leak water damage with historic preservation expertise. Serving Old Town, Del Ray & Belle Haven. BAR-compliant repairs. Emergency tarping. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Alexandria, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Historic Property Emergency Response',
-      description: `Call (703) 285-1101 and our Alexandria crews respond within 30 minutes. For historic district properties near King Street and the Old Town Waterfront, we assess both the leak urgency and any BAR considerations for emergency exterior work. Interior protection begins immediately regardless of exterior permitting.`,
+      description: `Call (877) 497-0007 and our Alexandria crews respond within 30 minutes. For historic district properties near King Street and the Old Town Waterfront, we assess both the leak urgency and any BAR considerations for emergency exterior work. Interior protection begins immediately regardless of exterior permitting.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Hidden damage extent from slow leaks that went undetected in insulated attic spaces',
       'Duration and severity of the leak event',
     ],
-    cta: `Call (703) 285-1101 at the first sign of a ceiling stain or active leak. In Alexandria's historic homes, rapid response protects irreplaceable interior finishes that no amount of insurance money can truly replace.`,
+    cta: `Call (877) 497-0007 at the first sign of a ceiling stain or active leak. In Alexandria's historic homes, rapid response protects irreplaceable interior finishes that no amount of insurance money can truly replace.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Alexandria Roof Leak Threatening Your Historic Home?',
-    paragraph: `Your home has survived centuries—protect its interior from water damage today. Call (703) 285-1101 for emergency response that respects Alexandria's historic character while stopping the damage.`,
+    paragraph: `Your home has survived centuries—protect its interior from water damage today. Call (877) 497-0007 for emergency response that respects Alexandria's historic character while stopping the damage.`,
   },
 }

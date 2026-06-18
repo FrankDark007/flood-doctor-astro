@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Arlington, VA | Flood Doctor`,
-    description: `Arlington's industrial and commercial restoration specialists. OSHA-compliant service for data centers, government facilities, and commercial operations. Call (703) 285-1102.`,
+    description: `Arlington's industrial and commercial restoration specialists. OSHA-compliant service for data centers, government facilities, and commercial operations. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Arlington, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Arlington industrial team navigates these constraints daily. We stage equipm
   processSteps: [
     {
       title: `Secure Facility Emergency Response`,
-      description: `Call (703) 285-1102 for immediate industrial response. We coordinate with facility security during transit, arriving with clearances or escort arrangements in place. Anti-corrosion treatment materials and extraction equipment are staged at the nearest building access point within 30 minutes.`,
+      description: `Call (877) 497-0007 for immediate industrial response. We coordinate with facility security during transit, arriving with clearances or escort arrangements in place. Anti-corrosion treatment materials and extraction equipment are staged at the nearest building access point within 30 minutes.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Arlington industrial team navigates these constraints daily. We stage equipm
       `Operational continuity requirements—24/7 operations and mission-critical facilities require around-the-clock restoration with additional crew deployment`,
       `Multi-tenant building system restoration—shared infrastructure repairs benefiting multiple tenants require coordinated documentation and cost allocation`,
     ],
-    cta: `Call (703) 285-1102 for emergency commercial or government facility assessment. We coordinate with building management and facility security for immediate response authorization.`,
+    cta: `Call (877) 497-0007 for emergency commercial or government facility assessment. We coordinate with building management and facility security for immediate response authorization.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our Arlington industrial team navigates these constraints daily. We stage equipm
   ],
   finalCTA: {
     headline: `Commercial or Government Facility Emergency in Arlington?`,
-    paragraph: `Mission-critical operations and high-value equipment cannot wait for standard restoration timelines. Our security-aware, industrially-equipped crews respond to Arlington facilities within 30 minutes with anti-corrosion treatment and extraction capability. Call (703) 285-1102 immediately.`,
+    paragraph: `Mission-critical operations and high-value equipment cannot wait for standard restoration timelines. Our security-aware, industrially-equipped crews respond to Arlington facilities within 30 minutes with anti-corrosion treatment and extraction capability. Call (877) 497-0007 immediately.`,
   },
 }

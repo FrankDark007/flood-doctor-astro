@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Herndon, VA | Flood Doctor',
-    description: `Herndon's contents restoration experts. Professional pack-out, cleaning & storage for water & fire-damaged belongings. Downtown Herndon, Fox Mill, Franklin Farm. Call (703) 285-1106.`,
+    description: `Herndon's contents restoration experts. Professional pack-out, cleaning & storage for water & fire-damaged belongings. Downtown Herndon, Fox Mill, Franklin Farm. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Herndon, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every item we touch is photographed, catalogued with condition notes, and barcod
   processSteps: [
     {
       title: 'Rapid Priority Triage',
-      description: `Within 30 minutes of your call to (703) 285-1106, we identify and stabilize time-sensitive items. Documents and photos are bagged for freezing. Electronics are disconnected for corrosion prevention. Sentimental items from your Herndon home receive priority attention before the systematic pack-out begins.`,
+      description: `Within 30 minutes of your call to (877) 497-0007, we identify and stabilize time-sensitive items. Documents and photos are bagged for freezing. Electronics are disconnected for corrosion prevention. Sentimental items from your Herndon home receive priority attention before the systematic pack-out begins.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -106,7 +106,7 @@ Every item we touch is photographed, catalogued with condition notes, and barcod
       'Treatment types — electronics, documents, textiles, and hard goods each have different restoration cost structures',
       'Storage duration — climate-controlled storage costs extend with longer structural restoration timelines',
     ],
-    cta: `Call (703) 285-1106 for immediate contents assessment. We stabilize time-sensitive items within hours and provide clear estimates for insurance.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We stabilize time-sensitive items within hours and provide clear estimates for insurance.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ Every item we touch is photographed, catalogued with condition notes, and barcod
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Herndon Home?',
-    paragraph: 'Documents, electronics, and photographs suffer irreversible damage with every passing hour. Our Herndon contents team responds within 30 minutes to stabilize what matters most and begins professional pack-out service. Call (703) 285-1106 now.',
+    paragraph: 'Documents, electronics, and photographs suffer irreversible damage with every passing hour. Our Herndon contents team responds within 30 minutes to stabilize what matters most and begins professional pack-out service. Call (877) 497-0007 now.',
   },
 }

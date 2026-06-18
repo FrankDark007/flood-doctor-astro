@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hospitality & Multi-Family Restoration in Chantilly, VA | Flood Doctor',
-    description: `Hospitality and multi-family property restoration in Chantilly. Hotels, apartments & condos near Dulles Airport. Guest experience focused. Call (703) 285-1104.`,
+    description: `Hospitality and multi-family property restoration in Chantilly. Hotels, apartments & condos near Dulles Airport. Guest experience focused. Call (877) 497-0007.`,
   },
   h1: 'Hospitality & Multi-Family Restoration in Chantilly, Virginia',
   introSection: {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Multi-carrier coordination—condominiums with individual owner policies require separate documentation`,
       `Resident displacement—units requiring evacuation add complexity and urgency`,
     ],
-    cta: `Call (703) 285-1104 for hospitality and multi-family restoration. We understand occupancy-driven urgency and coordinate the complex logistics these properties require.`,
+    cta: `Call (877) 497-0007 for hospitality and multi-family restoration. We understand occupancy-driven urgency and coordinate the complex logistics these properties require.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Hospitality or Multi-Family Emergency in Chantilly?',
-    paragraph: `Occupancy loss costs money every day. Our hospitality and multi-family team responds within 30 minutes with the equipment and expertise to minimize displacement and maximize operational continuity. Call (703) 285-1104 now.`,
+    paragraph: `Occupancy loss costs money every day. Our hospitality and multi-family team responds within 30 minutes with the equipment and expertise to minimize displacement and maximize operational continuity. Call (877) 497-0007 now.`,
   },
 }

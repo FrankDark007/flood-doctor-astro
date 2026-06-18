@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Springfield, VA | Flood Doctor',
-    description: `Springfield large loss restoration for government contractor complexes, military-adjacent facilities & established commercial centers. Dedicated project management. Call (703) 285-1110.`,
+    description: `Springfield large loss restoration for government contractor complexes, military-adjacent facilities & established commercial centers. Dedicated project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Springfield, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors address these compounding factors in every Springfield lar
   processSteps: [
     {
       title: 'Emergency Stabilization',
-      description: `Call (703) 285-1110 to activate large loss response. Our stabilization team secures the property and begins extraction while the project director mobilizes resources tailored for Springfield's aging commercial building environment.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team secures the property and begins extraction while the project director mobilizes resources tailored for Springfield's aging commercial building environment.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -114,7 +114,7 @@ Our project directors address these compounding factors in every Springfield lar
       'Military-community priority scheduling—accelerated timelines for mission-critical tenants carry expanded crew costs',
       'Multi-tenant coordination—each affected business requires individual documentation and insurance claim management',
     ],
-    cta: `Call (703) 285-1110 for immediate large loss consultation. Our project director will assess infrastructure conditions, hazardous material considerations, and watershed factors to deliver a comprehensive Springfield-specific plan.`,
+    cta: `Call (877) 497-0007 for immediate large loss consultation. Our project director will assess infrastructure conditions, hazardous material considerations, and watershed factors to deliver a comprehensive Springfield-specific plan.`,
   },
   serviceAreaSection: {
     neighborhoods: [

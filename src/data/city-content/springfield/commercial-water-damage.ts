@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Springfield, VA | Flood Doctor',
-    description: `Springfield commercial water damage restoration. I-95 corridor offices, military-adjacent facilities & retail centers near Springfield Town Center & Fort Belvoir. Call (703) 285-1110.`,
+    description: `Springfield commercial water damage restoration. I-95 corridor offices, military-adjacent facilities & retail centers near Springfield Town Center & Fort Belvoir. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Springfield, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams understand Springfield's infrastructure age
   processSteps: [
     {
       title: 'I-95 Corridor Commercial Dispatch',
-      description: `Call (703) 285-1110 for immediate commercial response. Our Springfield crews are positioned near the Franconia-Springfield interchange and along the Fort Belvoir corridor for rapid deployment to commercial properties throughout the area.`,
+      description: `Call (877) 497-0007 for immediate commercial response. Our Springfield crews are positioned near the Franconia-Springfield interchange and along the Fort Belvoir corridor for rapid deployment to commercial properties throughout the area.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -116,7 +116,7 @@ Our IICRC-certified commercial teams understand Springfield's infrastructure age
       'Government contractor requirements—facility security and scheduling constraints may affect crew efficiency',
       'Flat-roof involvement—hidden ceiling plenum damage from chronic roof leaks adds scope beyond the visible water event',
     ],
-    cta: `Call (703) 285-1110 for a free commercial assessment. We'll provide an honest evaluation of damage scope including any aging infrastructure concerns, and a clear estimate for your insurance carrier.`,
+    cta: `Call (877) 497-0007 for a free commercial assessment. We'll provide an honest evaluation of damage scope including any aging infrastructure concerns, and a clear estimate for your insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -140,7 +140,7 @@ Our IICRC-certified commercial teams understand Springfield's infrastructure age
   faqs: [
     {
       question: 'How quickly can you respond to our Springfield government contractor office?',
-      answer: 'Our commercial dispatch reaches Springfield, Franconia, and Fort Belvoir-area commercial properties within 45 minutes. We coordinate with facility security on access protocols and maintain the professional conduct government-adjacent environments require. Call (703) 285-1110.',
+      answer: 'Our commercial dispatch reaches Springfield, Franconia, and Fort Belvoir-area commercial properties within 45 minutes. We coordinate with facility security on access protocols and maintain the professional conduct government-adjacent environments require. Call (877) 497-0007.',
     },
     {
       question: 'Our building is from the 1970s—does that affect restoration?',

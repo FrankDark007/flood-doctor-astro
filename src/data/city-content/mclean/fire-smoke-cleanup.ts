@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in McLean, VA | Flood Doctor',
-    description: 'McLean fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. Langley, Chesterbrook, The Reserve. Call (703) 656-0101.',
+    description: 'McLean fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in McLean, Virginia',
   introSection: {
@@ -64,7 +64,7 @@ export const content: CityServiceContent = {
       'Protein residue versus synthetic soot — different cleaning agents, different labor intensity',
     ],
     insuranceNote: 'We produce room-by-room assessments, itemized contents inventories with pre-loss values, daily progress logs with photography, and zone-by-zone clearance reports. For McLean claims involving high-value contents exceeding $100,000, we coordinate directly with your adjuster to ensure scheduled item coverage and replacement cost endorsements are properly applied.',
-    cta: 'Call (703) 656-0101 for emergency fire damage response. We deploy contents triage teams to McLean estates within hours of fire department clearance — every hour of delay costs you cabinetry finishes, wine quality, and restoration options.',
+    cta: 'Call (877) 497-0007 for emergency fire damage response. We deploy contents triage teams to McLean estates within hours of fire department clearance — every hour of delay costs you cabinetry finishes, wine quality, and restoration options.',
   },
   serviceAreaSection: {
     neighborhoods: [

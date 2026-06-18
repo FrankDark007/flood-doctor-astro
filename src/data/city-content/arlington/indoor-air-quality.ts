@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Arlington, VA | Flood Doctor',
-    description: `Arlington indoor air quality testing for condos, rowhouses & apartments. Mold spore sampling, VOC analysis & HVAC assessment in Rosslyn, Clarendon & Crystal City. Call (703) 285-1102.`,
+    description: `Arlington indoor air quality testing for condos, rowhouses & apartments. Mold spore sampling, VOC analysis & HVAC assessment in Rosslyn, Clarendon & Crystal City. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Arlington, Virginia',
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       'Regulatory documentation requirements—OSHA compliance for commercial, EPA guidelines for residential',
       'Post-remediation clearance scope including number of containment zones requiring verification sampling',
     ],
-    cta: `Call (703) 285-1102 for a detailed proposal. We coordinate with building management and HOA boards to scope multi-unit assessments efficiently.`,
+    cta: `Call (877) 497-0007 for a detailed proposal. We coordinate with building management and HOA boards to scope multi-unit assessments efficiently.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Bluemont',
       'Ashton Heights',
     ],
-    responseTime: `Same-day IAQ assessment throughout Arlington County. Emergency sampling available within 2 hours for suspected mold or chemical exposure events. Call (703) 285-1102.`,
+    responseTime: `Same-day IAQ assessment throughout Arlington County. Emergency sampling available within 2 hours for suspected mold or chemical exposure events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Air Quality Concerns in Your Arlington Property?',
-    paragraph: `Whether you live in a Rosslyn high-rise, Clarendon rowhouse, or manage an Arlington commercial building, our scientific IAQ testing provides the answers you need. Call (703) 285-1102 for a professional assessment.`,
+    paragraph: `Whether you live in a Rosslyn high-rise, Clarendon rowhouse, or manage an Arlington commercial building, our scientific IAQ testing provides the answers you need. Call (877) 497-0007 for a professional assessment.`,
   },
 }

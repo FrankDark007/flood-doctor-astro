@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Vienna, VA | Flood Doctor',
-    description: `Vienna commercial water damage restoration. Professional offices, boutique retail & mixed-use properties near Church Street, Oakton & Wolf Trap. Call (703) 285-1112.`,
+    description: `Vienna commercial water damage restoration. Professional offices, boutique retail & mixed-use properties near Church Street, Oakton & Wolf Trap. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Vienna, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams bring the technical range to handle all of 
   processSteps: [
     {
       title: 'Responsive Local Dispatch',
-      description: `Call (703) 285-1112 for immediate commercial response. Our Vienna crews are positioned near Church Street, Oakton, and the Vienna Metro corridor for rapid deployment to commercial properties throughout the community.`,
+      description: `Call (877) 497-0007 for immediate commercial response. Our Vienna crews are positioned near Church Street, Oakton, and the Vienna Metro corridor for rapid deployment to commercial properties throughout the community.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -116,7 +116,7 @@ Our IICRC-certified commercial teams bring the technical range to handle all of 
       `Finish preservation versus replacement—proper preservation often reduces total project cost while maintaining the space's quality standard`,
       'Business hours scheduling—professional office scheduling requirements may affect work timing and crew deployment',
     ],
-    cta: `Call (703) 285-1112 for a free commercial assessment. We'll evaluate the damage, explain preservation options for your quality finishes, and provide a clear estimate for your insurance carrier.`,
+    cta: `Call (877) 497-0007 for a free commercial assessment. We'll evaluate the damage, explain preservation options for your quality finishes, and provide a clear estimate for your insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [

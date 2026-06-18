@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Alexandria, VA | Flood Doctor',
-    description: `Alexandria's certified environmental testing for asbestos, lead paint, mold & hazardous materials. AIHA-accredited lab analysis for historic homes in Old Town, Del Ray & Rosemont. Call (703) 285-1101.`,
+    description: `Alexandria's certified environmental testing for asbestos, lead paint, mold & hazardous materials. AIHA-accredited lab analysis for historic homes in Old Town, Del Ray & Rosemont. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Alexandria, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Board of Architectural Review documentation requirements for historic district properties',
       'Rush laboratory processing for renovation projects with contractor scheduling dependencies',
     ],
-    cta: `Call (703) 285-1101 for a consultation. We design testing protocols that address both environmental regulations and Alexandria\`s historic preservation requirements.`,
+    cta: `Call (877) 497-0007 for a consultation. We design testing protocols that address both environmental regulations and Alexandria\`s historic preservation requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Cameron Station',
       'Mount Vernon',
     ],
-    responseTime: `Same-day environmental testing deployment to all Alexandria neighborhoods. Expedited laboratory processing available for renovation projects and post-flood contamination assessment. Call (703) 285-1101.`,
+    responseTime: `Same-day environmental testing deployment to all Alexandria neighborhoods. Expedited laboratory processing available for renovation projects and post-flood contamination assessment. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -168,6 +168,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Concerns in Your Alexandria Property?',
-    paragraph: `Certified environmental testing delivers the laboratory data and regulatory documentation essential for safe renovation in Alexandria\`s historic districts. AIHA-accredited analysis with preservation-sensitive protocols. Call (703) 285-1101 for a consultation.`,
+    paragraph: `Certified environmental testing delivers the laboratory data and regulatory documentation essential for safe renovation in Alexandria\`s historic districts. AIHA-accredited analysis with preservation-sensitive protocols. Call (877) 497-0007 for a consultation.`,
   },
 }

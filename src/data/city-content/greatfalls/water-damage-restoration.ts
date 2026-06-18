@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Great Falls, VA | Flood Doctor',
-    description: `Great Falls' trusted water damage restoration experts. 30-min discrete response to all estates. Protecting wine cellars, art collections & equestrian properties. Call (703) 656-0112.`,
+    description: `Great Falls' trusted water damage restoration experts. 30-min discrete response to all estates. Protecting wine cellars, art collections & equestrian properties. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Great Falls, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor has restored water-damaged estates throughout Great Falls for nearl
 
 Our IICRC Master Water Restorers don't just pump water and leave. We understand that your Seneca Estates property requires precision drying to protect hand-painted murals, that your Forestville wine cellar demands specialized temperature and humidity control during restoration, and that the equestrian barn on your Hickory Farms property requires agricultural-grade remediation expertise.`,
     ],
-    localContext: `Great Falls' ultra-luxury estates—ranging from 8,000 to 25,000+ square feet—require restoration expertise that most companies simply don't possess. We've protected irreplaceable assets in Forestville, Seneca Estates, and throughout the Georgetown Pike corridor since 2005.`,
+    localContext: `Great Falls' ultra-luxury estates—ranging from 8,000 to 25,000+ square feet—require restoration expertise that most companies simply don't possess. We've protected irreplaceable assets in Forestville, Seneca Estates, and throughout the Georgetown Pike corridor for years.`,
   },
   processSteps: [
     {
       title: '30-Minute Discrete Emergency Response',
-      description: 'When you call our Great Falls hotline at (703) 656-0112, we dispatch immediately from our McLean staging area. Our unmarked vehicles reach properties on Georgetown Pike, Beach Mill Road, Springvale Road, and every private lane within our 30-minute guarantee. Discretion is automatic—not requested.',
+      description: 'When you call our Great Falls hotline at (877) 497-0007, we dispatch immediately from our McLean staging area. Our unmarked vehicles reach properties on Georgetown Pike, Beach Mill Road, Springvale Road, and every private lane within our 30-minute guarantee. Discretion is automatic—not requested.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -135,7 +135,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
       'Materials involved—imported stone, custom millwork, hand-painted finishes, and rare materials require specialized drying',
       'Duration before response—faster calls mean less damage spread; in large estates, this difference multiplies',
     ],
-    cta: `Call (703) 656-0112 for a free, discrete inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options—including coordination with specialty insurers.`,
+    cta: `Call (877) 497-0007 for a free, discrete inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options—including coordination with specialty insurers.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,7 +159,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   faqs: [
     {
       question: 'How quickly should I call after discovering water damage in my Great Falls estate?',
-      answer: 'Immediately. In large estates, water damage compounds rapidly—mold can begin within 24-48 hours, and water continues migrating through multiple floors and wings while you wait. A few hours of delay in a 15,000-square-foot property can mean tens of thousands in additional damage. Call (703) 656-0112 the moment you discover water.',
+      answer: 'Immediately. In large estates, water damage compounds rapidly—mold can begin within 24-48 hours, and water continues migrating through multiple floors and wings while you wait. A few hours of delay in a 15,000-square-foot property can mean tens of thousands in additional damage. Call (877) 497-0007 the moment you discover water.',
     },
     {
       question: 'Can you save my imported hardwood and stone floors after water damage?',

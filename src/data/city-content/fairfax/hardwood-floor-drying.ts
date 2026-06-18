@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Fairfax, VA | Save Your Floors | Flood Doctor',
-    description: `Fairfax hardwood floor drying specialists. Saving floors in Burke, Kings Park & Mantua. Split-level and colonial home expertise. Insurance billing included. Call (703) 285-1105.`,
+    description: `Fairfax hardwood floor drying specialists. Saving floors in Burke, Kings Park & Mantua. Split-level and colonial home expertise. Insurance billing included. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Fairfax, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Fairfax Response',
-      description: `Call (703) 285-1105 and our crews reach your Fairfax home within 30 minutes. We assess the hardwood species, measure moisture content at multiple points, and determine the extent of water migration—often further than the visible wet area, especially in Fairfax open floor plan renovations.`,
+      description: `Call (877) 497-0007 and our crews reach your Fairfax home within 30 minutes. We assess the hardwood species, measure moisture content at multiple points, and determine the extent of water migration—often further than the visible wet area, especially in Fairfax open floor plan renovations.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Duration before response—floors treated within 24 hours have the highest salvage rate',
       'Associated damage to walls, subfloor, or insulation requiring simultaneous treatment',
     ],
-    cta: `Call (703) 285-1105 when water reaches your Fairfax hardwood. Same-day response, free assessment, and an honest evaluation of what can be saved. Do not let anyone tell you the floor must be replaced without getting our opinion first.`,
+    cta: `Call (877) 497-0007 when water reaches your Fairfax hardwood. Same-day response, free assessment, and an honest evaluation of what can be saved. Do not let anyone tell you the floor must be replaced without getting our opinion first.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Fairfax Hardwood Floor Emergency? We Save Floors.',
-    paragraph: `Do not accept a replacement quote without getting a drying assessment first. Call (703) 285-1105 for immediate response—our specialized equipment saves Fairfax hardwood that other companies say cannot be salvaged.`,
+    paragraph: `Do not accept a replacement quote without getting a drying assessment first. Call (877) 497-0007 for immediate response—our specialized equipment saves Fairfax hardwood that other companies say cannot be salvaged.`,
   },
 }

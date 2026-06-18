@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Vienna, VA | Flood Doctor`,
-    description: `Vienna's HIPAA-compliant healthcare restoration experts. Serving medical offices and clinics in Vienna Town, Oakton, and Dunn Loring. Call (703) 285-1112.`,
+    description: `Vienna's HIPAA-compliant healthcare restoration experts. Serving medical offices and clinics in Vienna Town, Oakton, and Dunn Loring. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Vienna, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Vienna healthcare team adapts to each building type while maintaining consis
   processSteps: [
     {
       title: `Community-Responsive Emergency Dispatch`,
-      description: `Call (703) 285-1112 for immediate healthcare facility response. Our Vienna crews arrive with ICRA containment and HEPA filtration, understanding the building types along Church Street, Maple Avenue, and in the Oakton professional corridor to bring appropriate equipment for your specific facility.`,
+      description: `Call (877) 497-0007 for immediate healthcare facility response. Our Vienna crews arrive with ICRA containment and HEPA filtration, understanding the building types along Church Street, Maple Avenue, and in the Oakton professional corridor to bring appropriate equipment for your specific facility.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Vienna healthcare team adapts to each building type while maintaining consis
       `Practice scheduling impact—accommodating patient appointment calendars affects work hours and timeline compression needs`,
       `HIPAA and regulatory compliance documentation for Joint Commission, CMS, and practice-specific requirements`,
     ],
-    cta: `Call (703) 285-1112 for an emergency medical practice assessment. We provide healthcare-specific estimates and coordinate with your insurance carrier for streamlined Vienna medical office restoration.`,
+    cta: `Call (877) 497-0007 for an emergency medical practice assessment. We provide healthcare-specific estimates and coordinate with your insurance carrier for streamlined Vienna medical office restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ Our Vienna healthcare team adapts to each building type while maintaining consis
   ],
   finalCTA: {
     headline: `Vienna Medical Practice Emergency?`,
-    paragraph: `Your patients and equipment cannot wait. Our HIPAA-compliant crews reach any Vienna healthcare facility within 30 minutes with containment, HEPA filtration, and the community-aware service your practice deserves. Call (703) 285-1112 now.`,
+    paragraph: `Your patients and equipment cannot wait. Our HIPAA-compliant crews reach any Vienna healthcare facility within 30 minutes with containment, HEPA filtration, and the community-aware service your practice deserves. Call (877) 497-0007 now.`,
   },
 }

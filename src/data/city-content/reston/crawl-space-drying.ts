@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Reston, VA | Flood Doctor',
-    description: `Reston's crawl space specialists. Serving South Lakes, Lake Anne & Hunters Woods. HOA and Reston Association compliant. Townhome cluster expertise. Call (703) 285-1109.`,
+    description: `Reston's crawl space specialists. Serving South Lakes, Lake Anne & Hunters Woods. HOA and Reston Association compliant. Townhome cluster expertise. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Reston, Virginia',
   introSection: {
@@ -108,7 +108,7 @@ export const content: CityServiceContent = {
       'Existing damage to structural wood, vapor barriers, or insulation requiring remediation',
       'Reston Association compliance requirements for exterior modifications',
     ],
-    cta: `Call (703) 285-1109 for a free crawl space inspection. We understand Reston's unique community structure and deliver solutions that work within it.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We understand Reston's unique community structure and deliver solutions that work within it.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Reston Crawl Space Moisture Affecting Your Home?',
-    paragraph: `From lake-adjacent properties to townhome clusters, Reston homes face unique crawl space challenges. Call (703) 285-1109 for a free inspection that accounts for your community setting and delivers solutions that work within Reston Association guidelines.`,
+    paragraph: `From lake-adjacent properties to townhome clusters, Reston homes face unique crawl space challenges. Call (877) 497-0007 for a free inspection that accounts for your community setting and delivers solutions that work within Reston Association guidelines.`,
   },
 }

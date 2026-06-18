@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Tysons, VA | Flood Doctor',
-    description: 'Tysons storm damage restoration for commercial buildings & high-rises. 24/7 response for urban flooding, roof damage & building envelope failures. Call (703) 656-0106.',
+    description: 'Tysons storm damage restoration for commercial buildings & high-rises. 24/7 response for urban flooding, roof damage & building envelope failures. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Tysons, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified storm damage teams understand urban restoration challenges. 
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: 'During active storm damage, call (703) 656-0106 for immediate dispatch. We prioritize based on damage severity and building system exposure—mechanical room flooding takes precedence over minor office intrusion. Our crews deploy throughout Tysons simultaneously during major storm events.',
+      description: 'During active storm damage, call (877) 497-0007 for immediate dispatch. We prioritize based on damage severity and building system exposure—mechanical room flooding takes precedence over minor office intrusion. Our crews deploy throughout Tysons simultaneously during major storm events.',
       timeframe: 'During/immediately after storm',
     },
     {
@@ -142,7 +142,7 @@ Our IICRC-certified storm damage teams understand urban restoration challenges. 
       'Emergency mitigation needs—tarping, temporary repairs, and after-hours response affect project costs',
       'Insurance complexity—building policies, tenant policies, and potential flood insurance require separate documentation',
     ],
-    cta: 'Call (703) 656-0106 during or after storm events. We respond immediately, coordinate with property management, and document everything for insurance claims.',
+    cta: 'Call (877) 497-0007 during or after storm events. We respond immediately, coordinate with property management, and document everything for insurance claims.',
   },
   serviceAreaSection: {
     neighborhoods: [

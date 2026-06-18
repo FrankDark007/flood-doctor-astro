@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Mold Remediation in Centreville, VA | Flood Doctor',
-    description: `Centreville commercial mold remediation. IICRC-certified for offices, retail & commercial properties. Minimal business disruption. Call (703) 285-1103.`,
+    description: `Centreville commercial mold remediation. IICRC-certified for offices, retail & commercial properties. Minimal business disruption. Call (877) 497-0007.`,
   },
   h1: 'Commercial Mold Remediation in Centreville, Virginia',
   introSection: {
@@ -113,7 +113,7 @@ Our commercial team provides all of this—professional remediation that meets i
       'Documentation requirements—commercial properties require more extensive testing and documentation than residential',
       'Scheduling constraints—after-hours and phased work schedules to minimize tenant disruption may affect timelines',
     ],
-    cta: `Call (703) 285-1103 for a commercial mold assessment. We provide detailed protocols, transparent pricing, and the documentation your property requires.`,
+    cta: `Call (877) 497-0007 for a commercial mold assessment. We provide detailed protocols, transparent pricing, and the documentation your property requires.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ Our commercial team provides all of this—professional remediation that meets i
       'Centre Ridge Marketplace',
       'Compton Village Commercial',
     ],
-    responseTime: `Priority commercial mold assessments scheduled within 24-48 hours for all Centreville commercial properties. For mold discovered after water damage, call (703) 285-1103 for expedited response.`,
+    responseTime: `Priority commercial mold assessments scheduled within 24-48 hours for all Centreville commercial properties. For mold discovered after water damage, call (877) 497-0007 for expedited response.`,
   },
   faqs: [
     {
@@ -164,6 +164,6 @@ Our commercial team provides all of this—professional remediation that meets i
   ],
   finalCTA: {
     headline: 'Mold in Your Centreville Commercial Property?',
-    paragraph: `Protect your tenants, your property, and your liability position. Call (703) 285-1103 for professional commercial mold assessment and IICRC-certified remediation with independent clearance testing.`,
+    paragraph: `Protect your tenants, your property, and your liability position. Call (877) 497-0007 for professional commercial mold assessment and IICRC-certified remediation with independent clearance testing.`,
   },
 }

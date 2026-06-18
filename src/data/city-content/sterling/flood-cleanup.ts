@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Flood Cleanup Services in Sterling, VA | Flood Doctor`,
-    description: `Sterling flood cleanup specialists. Sugarland Run creek flooding, storm surge cleanup in Sterling Park, Cascades & Countryside. 30-min response. Call (703) 285-1111.`,
+    description: `Sterling flood cleanup specialists. Sugarland Run creek flooding, storm surge cleanup in Sterling Park, Cascades & Countryside. 30-min response. Call (877) 497-0007.`,
   },
   h1: `Flood Cleanup Services in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified crews follow strict contamination protocols for every Sterli
   processSteps: [
     {
       title: `30-Minute Sterling Flood Response`,
-      description: `Call (703) 285-1111 for immediate dispatch. Our crews reach Sterling Park, Cascades, Countryside, Sugarland Run, and Potomac Falls within 30 minutes from our Route 7 corridor positions. Flood situations escalate by the hour—speed is the most important factor in limiting damage.`,
+      description: `Call (877) 497-0007 for immediate dispatch. Our crews reach Sterling Park, Cascades, Countryside, Sugarland Run, and Potomac Falls within 30 minutes from our Route 7 corridor positions. Flood situations escalate by the hour—speed is the most important factor in limiting damage.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -116,7 +116,7 @@ Our IICRC-certified crews follow strict contamination protocols for every Sterli
       `Multi-unit involvement—townhome flooding affecting shared walls requires coordinated cleanup across units`,
       `Foundation condition—chronic flooding from waterproofing failure may require mitigation beyond immediate cleanup`,
     ],
-    cta: `Call (703) 285-1111 for immediate flood response. We assess the situation, provide honest estimates, and handle your insurance claim from start to finish.`,
+    cta: `Call (877) 497-0007 for immediate flood response. We assess the situation, provide honest estimates, and handle your insurance claim from start to finish.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,7 +145,7 @@ Our IICRC-certified crews follow strict contamination protocols for every Sterli
     },
     {
       question: `How fast should I act after my Sterling home floods?`,
-      answer: `Within hours, not days. Contaminated floodwater from creek overflow or sewer backups creates biohazard conditions that worsen rapidly. Even clean-water flooding grows mold within 24-48 hours. Call (703) 285-1111 immediately—our 30-minute response limits both damage and cost.`,
+      answer: `Within hours, not days. Contaminated floodwater from creek overflow or sewer backups creates biohazard conditions that worsen rapidly. Even clean-water flooding grows mold within 24-48 hours. Call (877) 497-0007 immediately—our 30-minute response limits both damage and cost.`,
     },
     {
       question: `My Sterling Park basement floods every heavy rain. Can you help permanently?`,

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Tysons, VA | Flood Doctor',
-    description: `Tysons commercial water damage experts. Class A office towers, mixed-use developments & data centers near Tysons Corner Center, The Boro & Capital One HQ. Call (703) 285-1100.`,
+    description: `Tysons commercial water damage experts. Class A office towers, mixed-use developments & data centers near Tysons Corner Center, The Boro & Capital One HQ. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Tysons, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial teams bring the modern building system expertise Tysons requires.
   processSteps: [
     {
       title: 'Technical Commercial Dispatch',
-      description: `Call (703) 285-1100 for immediate commercial response. Our Tysons commercial crews are equipped for high-rise deployment with elevator-compatible equipment and the building system knowledge to coordinate with your engineering staff from the first minute on site.`,
+      description: `Call (877) 497-0007 for immediate commercial response. Our Tysons commercial crews are equipped for high-rise deployment with elevator-compatible equipment and the building system knowledge to coordinate with your engineering staff from the first minute on site.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our commercial teams bring the modern building system expertise Tysons requires.
       'Class A finish specifications—Tysons commercial spaces require restoration matching premium fit-and-finish standards',
       'Mixed-use coordination—projects spanning commercial, retail, and residential use types require separate documentation and carrier coordination',
     ],
-    cta: `Call (703) 285-1100 for immediate commercial assessment. Our Tysons project manager speaks your building engineer's language and will deliver a technical scope within 24 hours.`,
+    cta: `Call (877) 497-0007 for immediate commercial assessment. Our Tysons project manager speaks your building engineer's language and will deliver a technical scope within 24 hours.`,
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Reston, VA | Flood Doctor',
-    description: 'Reston burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. Lake Anne, South Lakes, North Point. Call (703) 656-0107.',
+    description: 'Reston burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Cleanup in Reston, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ We coordinate water shutoff, extract standing water, and begin drying before a p
   processSteps: [
     {
       title: '30-Minute Emergency Dispatch',
-      description: `Call (703) 656-0107 and describe the situation. We'll guide you to shut off your main water supply if you haven't already—stopping the source before we arrive. Our crews dispatch immediately from positions throughout the Reston corridor.`,
+      description: `Call (877) 497-0007 and describe the situation. We'll guide you to shut off your main water supply if you haven't already—stopping the source before we arrive. Our crews dispatch immediately from positions throughout the Reston corridor.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -61,7 +61,7 @@ We coordinate water shutoff, extract standing water, and begin drying before a p
       'Material types—hardwood, drywall, and finished spaces each require specific approaches',
       'Hidden moisture—water inside walls and under floors requires detection and complete drying',
     ],
-    cta: 'Call (703) 656-0107 immediately when pipes burst. Fast response limits damage and restoration costs.',
+    cta: 'Call (877) 497-0007 immediately when pipes burst. Fast response limits damage and restoration costs.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -83,7 +83,7 @@ We coordinate water shutoff, extract standing water, and begin drying before a p
   faqs: [
     {
       question: 'What should I do first when a pipe bursts in my Reston home?',
-      answer: `Shut off the main water supply immediately—this stops water flow while you call for help. If you can't find the shutoff or it's stuck, call us at (703) 656-0107 anyway—we can guide you and are dispatching simultaneously. Turn off electricity to affected areas if water is near outlets or panels.`,
+      answer: `Shut off the main water supply immediately—this stops water flow while you call for help. If you can't find the shutoff or it's stuck, call us at (877) 497-0007 anyway—we can guide you and are dispatching simultaneously. Turn off electricity to affected areas if water is near outlets or panels.`,
     },
     {
       question: 'If I live in a townhome, could my burst pipe affect my neighbors?',

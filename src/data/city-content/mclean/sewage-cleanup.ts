@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in McLean, VA | Flood Doctor',
-    description: 'McLean sewage backup cleanup. Biohazard-certified crews for sewer overflow, septic failure & drain backups. Langley, Chesterbrook, The Reserve. Call (703) 656-0101.',
+    description: 'McLean sewage backup cleanup. Biohazard-certified crews for sewer overflow, septic failure & drain backups. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in McLean, Virginia',
   introSection: {
@@ -67,7 +67,7 @@ Properties toward Great Falls and along Balls Hill Road often operate private se
       'HVAC ductwork decontamination — treating supply and return ductwork when the air handler circulated contaminated air to upper floors',
       'Insurance endorsement navigation — septic-origin backup claims follow different coverage pathways than sewer backup; many standard endorsements exclude septic failures',
     ],
-    cta: 'Call (703) 656-0101 immediately for sewage emergencies. Every hour increases contamination spread into luxury finishes that become exponentially more expensive to remediate. Detailed assessments, insurance documentation, and septic-versus-sewer coverage navigation included.',
+    cta: 'Call (877) 497-0007 immediately for sewage emergencies. Every hour increases contamination spread into luxury finishes that become exponentially more expensive to remediate. Detailed assessments, insurance documentation, and septic-versus-sewer coverage navigation included.',
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Ashburn, VA | Flood Doctor',
-    description: `Ashburn roof leak water damage experts. Serving Broadlands, Brambleton & One Loudoun. New construction defect specialists. Warranty documentation. Call (703) 285-1100.`,
+    description: `Ashburn roof leak water damage experts. Serving Broadlands, Brambleton & One Loudoun. New construction defect specialists. Warranty documentation. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Ashburn, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Ashburn Response',
-      description: `Call (703) 285-1100 and our Loudoun County crews respond within 30 minutes. We assess the interior damage and trace the leak to its roof-level source. For homes under builder warranty (typically less than 10 years), we evaluate whether the failure indicates a construction defect.`,
+      description: `Call (877) 497-0007 and our Loudoun County crews respond within 30 minutes. We assess the interior damage and trace the leak to its roof-level source. For homes under builder warranty (typically less than 10 years), we evaluate whether the failure indicates a construction defect.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       'Insulation type and replacement scope',
       'Warranty documentation preparation for builder defect situations',
     ],
-    cta: `Call (703) 285-1100 at the first sign of a roof leak in your Ashburn home. For homes under warranty, early documentation preserves your claim rights while we protect your interior from further damage.`,
+    cta: `Call (877) 497-0007 at the first sign of a roof leak in your Ashburn home. For homes under warranty, early documentation preserves your claim rights while we protect your interior from further damage.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Ashburn Roof Leak? Document the Defect, Protect Your Home.',
-    paragraph: `Your new construction roof should not be leaking. Call (703) 285-1100 for emergency protection and the warranty documentation that holds your builder accountable while we restore your interior.`,
+    paragraph: `Your new construction roof should not be leaking. Call (877) 497-0007 for emergency protection and the warranty documentation that holds your builder accountable while we restore your interior.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Moisture Mapping & Consulting in Leesburg, VA | Flood Doctor`,
-    description: `Professional moisture mapping and consulting for Leesburg properties. Infrared thermography, psychrometric analysis for historic and modern buildings. Call (703) 285-1107.`,
+    description: `Professional moisture mapping and consulting for Leesburg properties. Infrared thermography, psychrometric analysis for historic and modern buildings. Call (877) 497-0007.`,
   },
   h1: `Leesburg Moisture Mapping & Consulting`,
   introSection: {
@@ -85,7 +85,7 @@ export const content: CityServiceContent = {
       `Need for extended monitoring with data loggers`,
       `Expert documentation for insurance, legal, or real estate purposes`,
     ],
-    cta: `Call (703) 285-1107 for moisture mapping and consulting services.`,
+    cta: `Call (877) 497-0007 for moisture mapping and consulting services.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -139,6 +139,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Need Professional Moisture Analysis in Leesburg?`,
-    paragraph: `Guesswork leads to restoration failures. Flood Doctor provides scientific moisture mapping and consulting that gives you objective answers about moisture conditions in any Leesburg property. Call (703) 285-1107 to schedule your assessment.`,
+    paragraph: `Guesswork leads to restoration failures. Flood Doctor provides scientific moisture mapping and consulting that gives you objective answers about moisture conditions in any Leesburg property. Call (877) 497-0007 to schedule your assessment.`,
   },
 }

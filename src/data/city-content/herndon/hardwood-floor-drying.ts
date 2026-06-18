@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Herndon, VA | Save Your Floors | Flood Doctor',
-    description: `Herndon hardwood floor drying specialists. Saving floors in Downtown Herndon, Fox Mill & Franklin Farm. Rental and homeowner expertise. Fast turnaround. Call (703) 285-1106.`,
+    description: `Herndon hardwood floor drying specialists. Saving floors in Downtown Herndon, Fox Mill & Franklin Farm. Rental and homeowner expertise. Fast turnaround. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Herndon, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Fast Herndon Response',
-      description: `Call (703) 285-1106 and our crews reach your Herndon property within 30 minutes. We assess the hardwood condition, measure moisture content, and determine the full extent of water migration—including into adjacent rooms and beneath cabinetry where water often pools undetected.`,
+      description: `Call (877) 497-0007 and our crews reach your Herndon property within 30 minutes. We assess the hardwood condition, measure moisture content, and determine the full extent of water migration—including into adjacent rooms and beneath cabinetry where water often pools undetected.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       'Property type—rental documentation and expedited scheduling add coordination scope',
       'Subfloor conditions and accessibility for below-floor drying',
     ],
-    cta: `Call (703) 285-1106 the moment water hits your Herndon hardwood. Homeowner or landlord, fast action saves your floor and your wallet. Free assessment, no obligation.`,
+    cta: `Call (877) 497-0007 the moment water hits your Herndon hardwood. Homeowner or landlord, fast action saves your floor and your wallet. Free assessment, no obligation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Herndon Hardwood Floor Water Emergency?',
-    paragraph: `Homeowner or investor, your hardwood floors deserve a drying assessment before anyone picks up a pry bar. Call (703) 285-1106 for immediate response—we save Herndon hardwood that others write off.`,
+    paragraph: `Homeowner or investor, your hardwood floors deserve a drying assessment before anyone picks up a pry bar. Call (877) 497-0007 for immediate response—we save Herndon hardwood that others write off.`,
   },
 }

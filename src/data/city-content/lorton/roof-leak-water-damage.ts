@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Lorton, VA | Flood Doctor',
-    description: `Lorton roof leak water damage specialists. Serving Laurel Hill, Mason Neck & Occoquan. New construction and wooded property expertise. Fast I-95 corridor response. Call (703) 285-1100.`,
+    description: `Lorton roof leak water damage specialists. Serving Laurel Hill, Mason Neck & Occoquan. New construction and wooded property expertise. Fast I-95 corridor response. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Lorton, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid I-95 Corridor Response',
-      description: `Call (703) 285-1100 and our crews respond within 30 minutes. We assess the interior damage, identify the roof-level entry point, and determine whether the cause is installation defect (newer homes) or environmental damage (wooded properties)—a distinction that affects the repair and payment pathway.`,
+      description: `Call (877) 497-0007 and our crews respond within 30 minutes. We assess the interior damage, identify the roof-level entry point, and determine whether the cause is installation defect (newer homes) or environmental damage (wooded properties)—a distinction that affects the repair and payment pathway.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Insulation type and replacement needs',
       'Leak duration and associated mold treatment requirements',
     ],
-    cta: `Call (703) 285-1100 when you discover a roof leak or storm damage. Whether the cause is a falling branch or a construction shortcut, we protect your Lorton home interior while documenting the right claim pathway.`,
+    cta: `Call (877) 497-0007 when you discover a roof leak or storm damage. Whether the cause is a falling branch or a construction shortcut, we protect your Lorton home interior while documenting the right claim pathway.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Lorton Roof Damage? Nature or Defect, We Handle Both.',
-    paragraph: `Whether a fallen branch or a builder shortcut caused your roof leak, your interior needs protection now. Call (703) 285-1100 for emergency response with the right documentation for the right claim.`,
+    paragraph: `Whether a fallen branch or a builder shortcut caused your roof leak, your interior needs protection now. Call (877) 497-0007 for emergency response with the right documentation for the right claim.`,
   },
 }

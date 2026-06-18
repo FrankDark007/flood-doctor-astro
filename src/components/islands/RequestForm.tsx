@@ -1,12 +1,16 @@
 import { useState, type FormEvent } from 'react'
-
-const WORKER_URL = 'https://flood-doctor-forms.bluemedia-account.workers.dev'
+import { FORM_WORKER_URL } from '../../config/forms'
 
 interface Props {
   city?: string
+  phone?: string
 }
 
-export default function RequestForm({ city }: Props) {
+function phoneHref(phone: string): string {
+  return `tel:+1${phone.replace(/\D/g, '')}`
+}
+
+export default function RequestForm({ city, phone = '(877) 497-0007' }: Props) {
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle')
   const [errorMsg, setErrorMsg] = useState('')
 
@@ -29,7 +33,7 @@ export default function RequestForm({ city }: Props) {
     }
 
     try {
-      const res = await fetch(`${WORKER_URL}/api/request`, {
+      const res = await fetch(`${FORM_WORKER_URL}/api/request`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(data),
@@ -57,7 +61,7 @@ export default function RequestForm({ city }: Props) {
         </div>
         <h3 className="mt-4 text-lg font-semibold text-white">Request Submitted!</h3>
         <p className="mt-2 text-sm text-gray-400">We'll contact you within 30 minutes during business hours.</p>
-        <p className="mt-1 text-sm text-gray-400">For emergencies, call <a href="tel:+17032851100" className="text-indigo-400 hover:text-indigo-300">(703) 285-1100</a> now.</p>
+        <p className="mt-1 text-sm text-gray-400">For emergencies, call <a href={phoneHref(phone)} className="text-indigo-400 hover:text-indigo-300">{phone}</a> now.</p>
       </div>
     )
   }

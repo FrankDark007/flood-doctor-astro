@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Vienna, VA | Flood Doctor',
-    description: `Vienna's structural drying experts. 30-min response to Vienna Town, Oakton & Dunn Loring. Scientific drying for historic colonials & luxury new builds. Call (703) 285-1112.`,
+    description: `Vienna's structural drying experts. 30-min response to Vienna Town, Oakton & Dunn Loring. Scientific drying for historic colonials & luxury new builds. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Vienna, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians map moisture throughout your Vienna home and dev
   processSteps: [
     {
       title: 'Fast Community Response',
-      description: `Call (703) 285-1112 and our Vienna-area crews arrive within 30 minutes. We reach Vienna Town, Oakton, Dunn Loring, Wolftrap, Tysons Woods, and Clarks Crossing from local staging — responding as a neighbor, not a distant service provider.`,
+      description: `Call (877) 497-0007 and our Vienna-area crews arrive within 30 minutes. We reach Vienna Town, Oakton, Dunn Loring, Wolftrap, Tysons Woods, and Clarks Crossing from local staging — responding as a neighbor, not a distant service provider.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -115,7 +115,7 @@ Our IICRC-certified technicians map moisture throughout your Vienna home and dev
       'Water source and category — clean supply line water differs from sump pump groundwater in treatment requirements',
       'Hidden damage extent — appliance leaks and foundation seepage often affect larger areas than initially visible, expanding project scope after assessment',
     ],
-    cta: `Call (703) 285-1112 for a free assessment. We evaluate your Vienna home, explain what to expect, and provide a clear estimate for your insurance claim.`,
+    cta: `Call (877) 497-0007 for a free assessment. We evaluate your Vienna home, explain what to expect, and provide a clear estimate for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -143,7 +143,7 @@ Our IICRC-certified technicians map moisture throughout your Vienna home and dev
     },
     {
       question: 'How quickly should I call after discovering water in my basement?',
-      answer: 'Immediately. Every hour of standing water means more moisture absorption into drywall, framing, and subfloor materials. Mold can begin growing within 24-48 hours. Call (703) 285-1112 the moment you discover water — early response saves both money and materials.',
+      answer: 'Immediately. Every hour of standing water means more moisture absorption into drywall, framing, and subfloor materials. Mold can begin growing within 24-48 hours. Call (877) 497-0007 the moment you discover water — early response saves both money and materials.',
     },
     {
       question: 'Can you save hardwood floors after water damage?',
@@ -168,6 +168,6 @@ Our IICRC-certified technicians map moisture throughout your Vienna home and dev
   ],
   finalCTA: {
     headline: 'Water Damage in Your Vienna Home?',
-    paragraph: 'Whether your home is a charming Vienna Town colonial or a luxury Oakton property, water damage demands immediate professional response. Our Vienna-based crews arrive within 30 minutes with equipment matched to your home construction type. Call (703) 285-1112 now.',
+    paragraph: 'Whether your home is a charming Vienna Town colonial or a luxury Oakton property, water damage demands immediate professional response. Our Vienna-based crews arrive within 30 minutes with equipment matched to your home construction type. Call (877) 497-0007 now.',
   },
 }

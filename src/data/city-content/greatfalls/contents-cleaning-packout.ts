@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Great Falls, VA | Flood Doctor',
-    description: `Great Falls estate contents restoration. Art collections, wine cellars, equestrian items & custom furnishings. Discreet pack-out & climate storage. Call (703) 285-1100.`,
+    description: `Great Falls estate contents restoration. Art collections, wine cellars, equestrian items & custom furnishings. Discreet pack-out & climate storage. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every item is photographed, catalogued with condition notes, and tracked through
   processSteps: [
     {
       title: 'Emergency Collection Stabilization',
-      description: `Within 30 minutes of calling (703) 285-1100, our team stabilizes time-sensitive items. Artwork receives immediate assessment and protective covering. Wine collections are evaluated for temperature exposure. Documents from your Great Falls estate office are bagged for emergency freezing. Electronics are disconnected for corrosion prevention.`,
+      description: `Within 30 minutes of calling (877) 497-0007, our team stabilizes time-sensitive items. Artwork receives immediate assessment and protective covering. Wine collections are evaluated for temperature exposure. Documents from your Great Falls estate office are bagged for emergency freezing. Electronics are disconnected for corrosion prevention.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -106,7 +106,7 @@ Every item is photographed, catalogued with condition notes, and tracked through
       'Contamination level — septic backup items require decontamination protocols; wine and art require temperature-controlled handling throughout',
       'Storage duration — climate-controlled storage for estate-scale inventories during extended structural restoration carries proportional costs',
     ],
-    cta: `Call (703) 285-1100 for immediate estate contents assessment. We stabilize collections and time-sensitive items while developing comprehensive restoration plans.`,
+    cta: `Call (877) 497-0007 for immediate estate contents assessment. We stabilize collections and time-sensitive items while developing comprehensive restoration plans.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ Every item is photographed, catalogued with condition notes, and tracked through
   ],
   finalCTA: {
     headline: 'Collections at Risk in Your Great Falls Estate?',
-    paragraph: 'Art, wine, equestrian equipment, and irreplaceable furnishings deserve restoration that matches their significance. Our Great Falls team responds within 30 minutes with estate-grade expertise and the discretion your property demands. Call (703) 285-1100.',
+    paragraph: 'Art, wine, equestrian equipment, and irreplaceable furnishings deserve restoration that matches their significance. Our Great Falls team responds within 30 minutes with estate-grade expertise and the discretion your property demands. Call (877) 497-0007.',
   },
 }

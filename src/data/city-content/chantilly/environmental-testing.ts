@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Chantilly, VA | Flood Doctor',
-    description: `Professional environmental testing for Chantilly properties. Mold, asbestos, lead & moisture analysis. AIHA-accredited lab partners. Serving Dulles corridor. Call (703) 285-1104.`,
+    description: `Professional environmental testing for Chantilly properties. Mold, asbestos, lead & moisture analysis. AIHA-accredited lab partners. Serving Dulles corridor. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing Services in Chantilly, Virginia',
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Report requirements—standard results versus expert witness or regulatory submission documentation`,
       `Property size and complexity—larger Chantilly properties require more sampling points`,
     ],
-    cta: `Call (703) 285-1104 for professional environmental testing. We provide clear scope, transparent pricing, and accredited results for all Chantilly properties.`,
+    cta: `Call (877) 497-0007 for professional environmental testing. We provide clear scope, transparent pricing, and accredited results for all Chantilly properties.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Need Environmental Testing in Chantilly?',
-    paragraph: `Accredited environmental testing provides the scientific data you need for property decisions—health, renovation, transaction, or compliance. Our environmental scientists serve all Chantilly properties with professional analysis and clear reporting. Call (703) 285-1104.`,
+    paragraph: `Accredited environmental testing provides the scientific data you need for property decisions—health, renovation, transaction, or compliance. Our environmental scientists serve all Chantilly properties with professional analysis and clear reporting. Call (877) 497-0007.`,
   },
 }

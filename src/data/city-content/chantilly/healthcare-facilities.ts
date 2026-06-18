@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Healthcare Facility Restoration in Chantilly, VA | Flood Doctor',
-    description: `Healthcare facility water damage and mold restoration in Chantilly. HIPAA-compliant, infection control protocols. Serving Dulles corridor medical offices. Call (703) 285-1104.`,
+    description: `Healthcare facility water damage and mold restoration in Chantilly. HIPAA-compliant, infection control protocols. Serving Dulles corridor medical offices. Call (877) 497-0007.`,
   },
   h1: 'Healthcare Facility Restoration in Chantilly, Virginia',
   introSection: {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Facility type and regulatory requirements—hospitals, dental, and specialty each have standards`,
       `Business interruption—accelerated restoration for patient-facing facilities`,
     ],
-    cta: `Call (703) 285-1104 for healthcare facility restoration. We understand the unique requirements of medical environments and respond with appropriate expertise.`,
+    cta: `Call (877) 497-0007 for healthcare facility restoration. We understand the unique requirements of medical environments and respond with appropriate expertise.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,6 +131,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Healthcare Facility Emergency in Chantilly?',
-    paragraph: `Your patients and your practice depend on rapid, compliant facility restoration. Our healthcare-specialized team responds immediately with the protocols and equipment your medical environment requires. Call (703) 285-1104 now.`,
+    paragraph: `Your patients and your practice depend on rapid, compliant facility restoration. Our healthcare-specialized team responds immediately with the protocols and equipment your medical environment requires. Call (877) 497-0007 now.`,
   },
 }

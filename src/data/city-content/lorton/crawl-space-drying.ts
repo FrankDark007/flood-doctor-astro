@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Lorton, VA | Flood Doctor',
-    description: `Lorton crawl space drying and encapsulation. Serving Laurel Hill, Mason Neck & Occoquan. New development & waterfront expertise. Wooded lot solutions. Call (703) 285-1100.`,
+    description: `Lorton crawl space drying and encapsulation. Serving Laurel Hill, Mason Neck & Occoquan. New development & waterfront expertise. Wooded lot solutions. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Lorton, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Drainage system requirements based on groundwater volume and tidal influence',
       'Existing moisture damage requiring remediation before encapsulation',
     ],
-    cta: `Call (703) 285-1100 for a free crawl space inspection. We evaluate your Lorton property within its full environmental context and provide honest recommendations.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We evaluate your Lorton property within its full environmental context and provide honest recommendations.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Lorton Crawl Space Moisture? Nature-Smart Solutions.',
-    paragraph: `Your Lorton home sits in a unique environment—waterfront, wooded, and growing. Your crawl space protection should be designed for these actual conditions. Call (703) 285-1100 for a free assessment that accounts for everything beneath and around your home.`,
+    paragraph: `Your Lorton home sits in a unique environment—waterfront, wooded, and growing. Your crawl space protection should be designed for these actual conditions. Call (877) 497-0007 for a free assessment that accounts for everything beneath and around your home.`,
   },
 }

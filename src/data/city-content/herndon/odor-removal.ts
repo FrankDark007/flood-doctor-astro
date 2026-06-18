@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Herndon, VA | Flood Doctor',
-    description: `Herndon's odor elimination specialists. Permanent treatment for mold, sewage & smoke odors in Downtown Herndon, Fox Mill & Franklin Farm homes. Call (703) 285-1106.`,
+    description: `Herndon's odor elimination specialists. Permanent treatment for mold, sewage & smoke odors in Downtown Herndon, Fox Mill & Franklin Farm homes. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Herndon, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians use hydroxyl generators that safely neutralize airborne odor mol
   processSteps: [
     {
       title: 'Practical Source Investigation',
-      description: `Call (703) 285-1106 and we schedule a thorough assessment of your Herndon home. Using borescopes, moisture meters, and thermal imaging, we trace the odor to its exact source — whether hidden mold in your Fox Mill basement walls, a deteriorated drain line beneath your Downtown property, or embedded smoke in your Franklin Farm HVAC system.`,
+      description: `Call (877) 497-0007 and we schedule a thorough assessment of your Herndon home. Using borescopes, moisture meters, and thermal imaging, we trace the odor to its exact source — whether hidden mold in your Fox Mill basement walls, a deteriorated drain line beneath your Downtown property, or embedded smoke in your Franklin Farm HVAC system.`,
       timeframe: 'Initial visit',
     },
     {
@@ -113,7 +113,7 @@ Our technicians use hydroxyl generators that safely neutralize airborne odor mol
       'Home size and HVAC scope — larger homes with extensive ductwork require more comprehensive whole-house treatment',
       'Material removal — severely contaminated drywall, carpet, or insulation that cannot be salvaged adds project scope',
     ],
-    cta: `Call (703) 285-1106 for a straightforward odor assessment. We find the source, explain your options, and provide clear estimates.`,
+    cta: `Call (877) 497-0007 for a straightforward odor assessment. We find the source, explain your options, and provide clear estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ Our technicians use hydroxyl generators that safely neutralize airborne odor mol
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Herndon Home?',
-    paragraph: 'Odors that resist cleaning indicate hidden contamination in wall cavities, subfloors, and ductwork. Our Herndon team finds the source, eliminates the molecules, and prevents recurrence. Call (703) 285-1106 for practical, permanent odor solutions.',
+    paragraph: 'Odors that resist cleaning indicate hidden contamination in wall cavities, subfloors, and ductwork. Our Herndon team finds the source, eliminates the molecules, and prevents recurrence. Call (877) 497-0007 for practical, permanent odor solutions.',
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's industrial and commercial facility restoration specialists. OSHA-compliant water damage restoration for Seven Corners commercial properties and Baileys Crossroads businesses. Call (703) 285-1100.`,
+    description: `Falls Church's industrial and commercial facility restoration specialists. OSHA-compliant water damage restoration for Seven Corners commercial properties and Baileys Crossroads businesses. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Falls Church, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our commercial restoration approach addresses both the physical damage and the b
   processSteps: [
     {
       title: `Emergency Response and Multi-Tenant Coordination`,
-      description: `Call (703) 285-1100 for immediate commercial response. For multi-tenant buildings like Eden Center, we coordinate with building management for access to all affected businesses. Our crews arrive with extraction equipment and anti-corrosion treatment for immediate equipment protection.`,
+      description: `Call (877) 497-0007 for immediate commercial response. For multi-tenant buildings like Eden Center, we coordinate with building management for access to all affected businesses. Our crews arrive with extraction equipment and anti-corrosion treatment for immediate equipment protection.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -120,7 +120,7 @@ Our commercial restoration approach addresses both the physical damage and the b
       `Building age and condition—aging Falls Church commercial construction may present additional infrastructure challenges`,
       `Regulatory clearance—health department inspections for restaurants and medical offices add compliance documentation requirements`,
     ],
-    cta: `Call (703) 285-1100 for emergency commercial or industrial facility assessment. We provide tenant-specific estimates and coordinate with building management for multi-business restoration.`,
+    cta: `Call (877) 497-0007 for emergency commercial or industrial facility assessment. We provide tenant-specific estimates and coordinate with building management for multi-business restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ Our commercial restoration approach addresses both the physical damage and the b
   ],
   finalCTA: {
     headline: `Commercial or Industrial Emergency in Falls Church?`,
-    paragraph: `Business downtime and equipment damage compound by the hour. Our crews respond to Falls Church commercial properties within 45 minutes with extraction equipment adapted to your business type. Call (703) 285-1100 now.`,
+    paragraph: `Business downtime and equipment damage compound by the hour. Our crews respond to Falls Church commercial properties within 45 minutes with extraction equipment adapted to your business type. Call (877) 497-0007 now.`,
   },
 }

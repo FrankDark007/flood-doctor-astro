@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's trusted restoration for FCPS schools, city government buildings, and community centers. Experienced with Fairfax County procurement. Call (703) 285-1105.`,
+    description: `Fairfax's trusted restoration for FCPS schools, city government buildings, and community centers. Experienced with Fairfax County procurement. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Fairfax, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Beyond the technical challenges, Fairfax school restoration must accommodate one
   processSteps: [
     {
       title: `Emergency School and Municipal Response`,
-      description: `Call (703) 285-1105 for immediate response. We contact FCPS facilities management or City of Fairfax public works during dispatch to coordinate building access and activate emergency procurement procedures appropriate to the specific governmental jurisdiction.`,
+      description: `Call (877) 497-0007 for immediate response. We contact FCPS facilities management or City of Fairfax public works during dispatch to coordinate building access and activate emergency procurement procedures appropriate to the specific governmental jurisdiction.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Beyond the technical challenges, Fairfax school restoration must accommodate one
       `Academic calendar constraints—accelerated timelines require additional crew deployment and extended work hours`,
       `Jurisdictional procurement requirements—FCPS and City of Fairfax have distinct documentation and compliance standards`,
     ],
-    cta: `Call (703) 285-1105 for emergency school or municipal assessment. We coordinate with FCPS facilities management and City of Fairfax public works for proper procurement authorization and immediate restoration.`,
+    cta: `Call (877) 497-0007 for emergency school or municipal assessment. We coordinate with FCPS facilities management and City of Fairfax public works for proper procurement authorization and immediate restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Beyond the technical challenges, Fairfax school restoration must accommodate one
   ],
   finalCTA: {
     headline: `Fairfax School or Municipal Building Emergency?`,
-    paragraph: `Students and families depend on operational schools and public facilities. Our crews respond within 45 minutes with high-bay drying equipment, hazardous materials expertise, and the procurement documentation Fairfax jurisdictions require. Call (703) 285-1105 immediately.`,
+    paragraph: `Students and families depend on operational schools and public facilities. Our crews respond within 45 minutes with high-bay drying equipment, hazardous materials expertise, and the procurement documentation Fairfax jurisdictions require. Call (877) 497-0007 immediately.`,
   },
 }

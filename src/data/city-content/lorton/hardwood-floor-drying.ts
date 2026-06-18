@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Lorton, VA | Save Your Floors | Flood Doctor',
-    description: `Lorton hardwood floor drying specialists. Saving floors in Laurel Hill, Mason Neck & Occoquan. New construction and waterfront expertise. Fast response. Call (703) 285-1100.`,
+    description: `Lorton hardwood floor drying specialists. Saving floors in Laurel Hill, Mason Neck & Occoquan. New construction and waterfront expertise. Fast response. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Lorton, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Lorton Response',
-      description: `Call (703) 285-1100 and our I-95 corridor crews reach your Lorton home within 30 minutes. Assessment includes hardwood species identification, moisture mapping across the affected area, and evaluation of environmental moisture sources—particularly important for homes near the Occoquan or in wooded Mason Neck settings.`,
+      description: `Call (877) 497-0007 and our I-95 corridor crews reach your Lorton home within 30 minutes. Assessment includes hardwood species identification, moisture mapping across the affected area, and evaluation of environmental moisture sources—particularly important for homes near the Occoquan or in wooded Mason Neck settings.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Square footage affected across open floor plans and connected rooms',
       'Waterfront or wooded-lot environmental factors extending treatment duration',
     ],
-    cta: `Call (703) 285-1100 when water or moisture affects your Lorton hardwood. Whether it is an acute event or gradual cupping, we assess the full situation and provide honest recommendations.`,
+    cta: `Call (877) 497-0007 when water or moisture affects your Lorton hardwood. Whether it is an acute event or gradual cupping, we assess the full situation and provide honest recommendations.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Lorton Hardwood Floor Moisture? We Find the Real Cause.',
-    paragraph: `Whether acute flooding or environmental cupping, your Lorton hardwood deserves diagnosis and treatment that addresses the root cause. Call (703) 285-1100 for assessment that goes beyond the surface.`,
+    paragraph: `Whether acute flooding or environmental cupping, your Lorton hardwood deserves diagnosis and treatment that addresses the root cause. Call (877) 497-0007 for assessment that goes beyond the surface.`,
   },
 }

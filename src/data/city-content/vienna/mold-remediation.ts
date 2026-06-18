@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Vienna, VA | Flood Doctor',
-    description: 'Vienna mold remediation specialists. IICRC-certified removal for Oakton, Wolf Trap & Vienna Town. Basement mold experts. Free inspection. Call (703) 656-0105.',
+    description: 'Vienna mold remediation specialists. IICRC-certified removal for Oakton, Wolf Trap & Vienna Town. Basement mold experts. Free inspection. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation & Removal in Vienna, Virginia',
   introSection: {
@@ -119,7 +119,7 @@ Our approach addresses both visible mold and the conditions enabling growth. Rem
       'Moisture source correction—addressing the underlying cause may add project scope',
       'Post-remediation testing—verification testing confirms successful remediation',
     ],
-    cta: `Call (703) 656-0105 for a free mold inspection. We'll assess the contamination, identify moisture sources, and provide a detailed remediation proposal.`,
+    cta: `Call (877) 497-0007 for a free mold inspection. We'll assess the contamination, identify moisture sources, and provide a detailed remediation proposal.`,
   },
   serviceAreaSection: {
     neighborhoods: [

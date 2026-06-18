@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls sewage & septic backup cleanup. 24/7 biohazard response. Private septic system specialists. Discrete estate service. Call (703) 656-0112.',
+    description: 'Great Falls sewage & septic backup cleanup. 24/7 biohazard response. Private septic system specialists. Discrete estate service. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup & Septic Backup Services in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC Master Water Restorers and biohazard-certified crews understand that s
   processSteps: [
     {
       title: 'Immediate Biohazard Response',
-      description: 'When you call (703) 656-0112 about sewage backup, we dispatch immediately with biohazard-equipped crews. Sewage contains pathogens that pose immediate health risks—speed matters. We reach Great Falls properties within 30 minutes.',
+      description: 'When you call (877) 497-0007 about sewage backup, we dispatch immediately with biohazard-equipped crews. Sewage contains pathogens that pose immediate health risks—speed matters. We reach Great Falls properties within 30 minutes.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -132,7 +132,7 @@ Our IICRC Master Water Restorers and biohazard-certified crews understand that s
       'Antimicrobial treatment scope and air quality verification requirements',
       'Emergency timing and the complexity of biohazard response protocols for after-hours events',
     ],
-    cta: 'Call (703) 656-0112 immediately for sewage backup response. We arrive within 30 minutes with full biohazard equipment and provide a written estimate before beginning decontamination work. Insurance coordination and septic specialist referrals included.',
+    cta: 'Call (877) 497-0007 immediately for sewage backup response. We arrive within 30 minutes with full biohazard equipment and provide a written estimate before beginning decontamination work. Insurance coordination and septic specialist referrals included.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -156,7 +156,7 @@ Our IICRC Master Water Restorers and biohazard-certified crews understand that s
   faqs: [
     {
       question: 'How quickly can you respond to a sewage backup in Great Falls?',
-      answer: 'We guarantee 30-minute response with biohazard-equipped crews. Sewage backup creates immediate health risks—every minute of delay exposes your family and spreads contamination. Call (703) 656-0112 immediately upon discovering a backup.',
+      answer: 'We guarantee 30-minute response with biohazard-equipped crews. Sewage backup creates immediate health risks—every minute of delay exposes your family and spreads contamination. Call (877) 497-0007 immediately upon discovering a backup.',
     },
     {
       question: 'Is sewage backup dangerous?',

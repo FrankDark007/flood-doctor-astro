@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Herndon, VA | Flood Doctor`,
-    description: `Herndon's HIPAA-compliant healthcare restoration experts. Serving medical offices in Downtown Herndon, Fox Mill, and Franklin Farm. Call (703) 285-1106.`,
+    description: `Herndon's HIPAA-compliant healthcare restoration experts. Serving medical offices in Downtown Herndon, Fox Mill, and Franklin Farm. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Herndon, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Herndon healthcare team adapts restoration approaches to each building conte
   processSteps: [
     {
       title: `Practical Emergency Response`,
-      description: `Call (703) 285-1106 for immediate medical facility deployment. Our Herndon crews arrive with ICRA containment and HEPA filtration at medical offices throughout downtown Herndon, Fox Mill, Franklin Farm, Worldgate, and the Floris corridor.`,
+      description: `Call (877) 497-0007 for immediate medical facility deployment. Our Herndon crews arrive with ICRA containment and HEPA filtration at medical offices throughout downtown Herndon, Fox Mill, Franklin Farm, Worldgate, and the Floris corridor.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Herndon healthcare team adapts restoration approaches to each building conte
       `Multi-tenant building coordination for shared system failures affecting multiple practices`,
       `Practice type and scheduling urgency—occupational health facilities may require expedited restoration`,
     ],
-    cta: `Call (703) 285-1106 for emergency healthcare assessment. We provide practical, HIPAA-compliant estimates for Herndon medical offices in any building type.`,
+    cta: `Call (877) 497-0007 for emergency healthcare assessment. We provide practical, HIPAA-compliant estimates for Herndon medical offices in any building type.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ Our Herndon healthcare team adapts restoration approaches to each building conte
   ],
   finalCTA: {
     headline: `Herndon Medical Practice Emergency?`,
-    paragraph: `From downtown family practices to Dulles corridor clinics, your patients need you back in operation. Our HIPAA-compliant crews reach any Herndon medical facility within 30 minutes. Call (703) 285-1106 now.`,
+    paragraph: `From downtown family practices to Dulles corridor clinics, your patients need you back in operation. Our HIPAA-compliant crews reach any Herndon medical facility within 30 minutes. Call (877) 497-0007 now.`,
   },
 }

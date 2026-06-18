@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Ashburn, VA | Flood Doctor',
-    description: 'Ashburn basement flooding experts. 30-min response for finished basements, home offices & media rooms. Broadlands, Brambleton, Lansdowne. Call (703) 656-0109.',
+    description: 'Ashburn basement flooding experts. 30-min response for finished basements, home offices & media rooms. Broadlands, Brambleton, Lansdowne. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in Ashburn, Virginia',
   introSection: {
@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       `A Brambleton homeowner bought their house in 2018. Finished walkout basement — home office, gaming room, full bath. The builder's warranty expired in 2023. During the first major storm of spring 2024, water appeared along the basement wall-floor joint. Not from a pipe. Not from the sump pump. Hydrostatic pressure forced groundwater through a foundation poured too thin in one section, with waterproofing membrane that had debonded from green concrete within three years. The homeowner didn't know until water pooled under the LVP flooring and saturated the OSB subfloor beneath it.
 
 This story repeats across Ashburn. Homes built during the 2004-2022 construction boom share failure patterns that older Northern Virginia construction doesn't have: undersized stormwater management ponds engineered for theoretical runoff ratios that no longer hold, builder-grade sump pumps rated for 5-7 years with no battery backup, foundation waterproofing applied over uncured concrete, and grading that settles toward the foundation as Loudoun County's clay fill compresses.`,
-      `Flood Doctor has restored basements across Broadlands, Brambleton, Lansdowne, Ashburn Farm, One Loudoun, Moorefield Station, and Stone Ridge. We don't just extract water. We document the failure mechanism and produce evidence for warranty claims, builder disputes, or litigation. Our crews are positioned throughout Loudoun County — 30-minute response, not dispatched from Manassas or Fairfax. Call (703) 656-0109.`,
+      `Flood Doctor has restored basements across Broadlands, Brambleton, Lansdowne, Ashburn Farm, One Loudoun, Moorefield Station, and Stone Ridge. We don't just extract water. We document the failure mechanism and produce evidence for warranty claims, builder disputes, or litigation. Our crews are positioned throughout Loudoun County — 30-minute response, not dispatched from Manassas or Fairfax. Call (877) 497-0007.`,
     ],
     localContext: `Ashburn's finished basements — 1,500 to 2,500 square feet of living space — represent $80,000 to $150,000 in below-grade investment. Home offices for the data center corridor's remote workforce, multigenerational family suites, licensed daycare operations, and entertainment spaces with equipment worth more than some cars. Restoring them requires understanding both modern materials and the specific ways Ashburn construction fails.`,
   },
@@ -80,7 +80,7 @@ This story repeats across Ashburn. Homes built during the 2004-2022 construction
       'Construction defect involvement — documentation and builder coordination adds scope',
       'Smart system reinstallation — sensors, monitors, and shutoff valves may need replacement or reprogramming',
     ],
-    cta: 'Call (703) 656-0109 for 30-minute emergency response and a free assessment. We identify the failure mechanism, explain options, and outline likely insurance coverage.',
+    cta: 'Call (877) 497-0007 for 30-minute emergency response and a free assessment. We identify the failure mechanism, explain options, and outline likely insurance coverage.',
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Vienna, VA | Flood Doctor`,
-    description: `Vienna's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for Church Street businesses, Oakton offices, and Wolf Trap area commercial properties. Call (703) 285-1112.`,
+    description: `Vienna's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for Church Street businesses, Oakton offices, and Wolf Trap area commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Vienna, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Rapid Response to Vienna Commercial Districts`,
-      description: `Call (703) 285-1112 and our hazmat team deploys immediately. We reach Church Street, Maple Avenue, Oakton, and Wolf Trap area commercial properties within our response guarantee, establishing containment barriers and beginning tenant notification protocols.`,
+      description: `Call (877) 497-0007 and our hazmat team deploys immediately. We reach Church Street, Maple Avenue, Oakton, and Wolf Trap area commercial properties within our response guarantee, establishing containment barriers and beginning tenant notification protocols.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
       `Custom interior preservation—Vienna's charming commercial interiors may require careful documentation and restoration of distinctive finishes`,
       `Schedule urgency—event venues and seasonal businesses may require expedited service to protect bookings and revenue`,
     ],
-    cta: `Call (703) 285-1112 for immediate commercial sewage emergency response in Vienna. We respond to Church Street, Maple Avenue, Oakton, and all Vienna commercial areas with hazmat-equipped crews and community-minded service.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Vienna. We respond to Church Street, Maple Avenue, Oakton, and all Vienna commercial areas with hazmat-equipped crews and community-minded service.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -153,6 +153,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Vienna?`,
-    paragraph: `Every hour of sewage contamination threatens the health, compliance, and reputation that Vienna businesses depend on. Our hazmat crews deliver rapid containment, thorough decontamination, and complete documentation. Call (703) 285-1112 for immediate response.`,
+    paragraph: `Every hour of sewage contamination threatens the health, compliance, and reputation that Vienna businesses depend on. Our hazmat crews deliver rapid containment, thorough decontamination, and complete documentation. Call (877) 497-0007 for immediate response.`,
   },
 }

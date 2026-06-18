@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Great Falls, VA | Flood Doctor`,
-    description: `Great Falls' trusted restoration for schools and community facilities. Specialized crews serving Great Falls Village, Forestville, and Seneca Estates area institutions. Call (703) 285-1100.`,
+    description: `Great Falls' trusted restoration for schools and community facilities. Specialized crews serving Great Falls Village, Forestville, and Seneca Estates area institutions. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Great Falls, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ The community's engagement extends beyond attendance at board meetings. Great Fa
   processSteps: [
     {
       title: `Emergency Notification and Facility Securing`,
-      description: `Call (703) 285-1100 to activate our municipal response protocol. We coordinate with FCPS facilities management and Great Falls community facility directors to secure the affected building, notify administrators, and establish a restoration timeline protecting academic and community schedules.`,
+      description: `Call (877) 497-0007 to activate our municipal response protocol. We coordinate with FCPS facilities management and Great Falls community facility directors to secure the affected building, notify administrators, and establish a restoration timeline protecting academic and community schedules.`,
       timeframe: `Within 1 hour`,
     },
     {
@@ -116,7 +116,7 @@ The community's engagement extends beyond attendance at board meetings. Great Fa
       `Environmental factors—wooded lot drainage issues and root intrusion may require assessment beyond the immediate water damage`,
       `Documentation depth—professional-grade reporting for Great Falls community review requires additional preparation`,
     ],
-    cta: `Call (703) 285-1100 for emergency school or community facility assessment. We provide procurement-compliant estimates and coordinate with FCPS facilities management for streamlined approval.`,
+    cta: `Call (877) 497-0007 for emergency school or community facility assessment. We provide procurement-compliant estimates and coordinate with FCPS facilities management for streamlined approval.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -171,6 +171,6 @@ The community's engagement extends beyond attendance at board meetings. Great Fa
   ],
   finalCTA: {
     headline: `School or Community Facility Emergency in Great Falls?`,
-    paragraph: `Student safety and community programs depend on rapid, premium-quality restoration. Our crews respond to Great Falls schools and community facilities within 1 hour, equipped with the expertise and equipment these facilities require. Call (703) 285-1100 immediately.`,
+    paragraph: `Student safety and community programs depend on rapid, premium-quality restoration. Our crews respond to Great Falls schools and community facilities within 1 hour, equipped with the expertise and equipment these facilities require. Call (877) 497-0007 immediately.`,
   },
 }

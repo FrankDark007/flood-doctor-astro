@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Springfield, VA | Flood Doctor',
-    description: `Springfield's odor elimination experts. Permanent mold, sewage & smoke odor treatment for West Springfield, Franconia & Kingstowne homes. Military-friendly. Call (703) 285-1110.`,
+    description: `Springfield's odor elimination experts. Permanent mold, sewage & smoke odor treatment for West Springfield, Franconia & Kingstowne homes. Military-friendly. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Springfield, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians deploy hydroxyl generators that safely neutralize odor molecules
   processSteps: [
     {
       title: 'Era-Specific Source Investigation',
-      description: `Call (703) 285-1110 and we assess your Springfield home with construction-era expertise. We inspect block foundations in West Springfield split-levels, evaluate drain connections in Franconia colonials, and assess water table moisture in Lake Accotink-area properties — finding the source specific to your home.`,
+      description: `Call (877) 497-0007 and we assess your Springfield home with construction-era expertise. We inspect block foundations in West Springfield split-levels, evaluate drain connections in Franconia colonials, and assess water table moisture in Lake Accotink-area properties — finding the source specific to your home.`,
       timeframe: 'Initial visit',
     },
     {
@@ -108,7 +108,7 @@ Our technicians deploy hydroxyl generators that safely neutralize odor molecules
       'Chronic versus acute — decades-old mold conditions require more extensive remediation than recent events',
       'Infrastructure involvement — sewer line repairs and foundation corrections add scope alongside deodorization',
     ],
-    cta: `Call (703) 285-1110 for a straightforward odor assessment. We find the source, explain options, and provide clear pricing.`,
+    cta: `Call (877) 497-0007 for a straightforward odor assessment. We find the source, explain options, and provide clear pricing.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,6 +159,6 @@ Our technicians deploy hydroxyl generators that safely neutralize odor molecules
   ],
   finalCTA: {
     headline: 'Stubborn Odors in Your Springfield Home?',
-    paragraph: 'Decades of moisture and aging infrastructure create odors that consumer products cannot touch. Our Springfield team traces every smell to its source and eliminates it permanently. Call (703) 285-1110 for professional assessment.',
+    paragraph: 'Decades of moisture and aging infrastructure create odors that consumer products cannot touch. Our Springfield team traces every smell to its source and eliminates it permanently. Call (877) 497-0007 for professional assessment.',
   },
 }

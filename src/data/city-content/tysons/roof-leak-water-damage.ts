@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Tysons, VA | Flood Doctor',
-    description: `Tysons roof leak water damage specialists. Serving Tysons Corner, The Boro & Scotts Run. High-rise, new construction & modern building expertise. Call (703) 285-1100.`,
+    description: `Tysons roof leak water damage specialists. Serving Tysons Corner, The Boro & Scotts Run. High-rise, new construction & modern building expertise. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Tysons, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Building-Coordinated Response',
-      description: `Call (703) 285-1100 and we respond within 30 minutes. For Tysons high-rise and mid-rise buildings, we coordinate with building management for roof access and freight elevator availability. For single-family homes in Scotts Run, direct roof access begins immediately.`,
+      description: `Call (877) 497-0007 and we respond within 30 minutes. For Tysons high-rise and mid-rise buildings, we coordinate with building management for roof access and freight elevator availability. For single-family homes in Scotts Run, direct roof access begins immediately.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'New construction warranty documentation adding assessment and reporting time',
       'Modern material types requiring specific drying protocols',
     ],
-    cta: `Call (703) 285-1100 at the first sign of a roof leak in your Tysons property. Early response protects premium interiors and preserves warranty claim options for newer buildings.`,
+    cta: `Call (877) 497-0007 at the first sign of a roof leak in your Tysons property. Early response protects premium interiors and preserves warranty claim options for newer buildings.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,6 +159,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Tysons Roof Leak? Protect Your Investment Now.',
-    paragraph: `Modern buildings deserve modern response. Call (703) 285-1100 for immediate assessment, building-coordinated access, and complete interior restoration with warranty documentation for newer construction.`,
+    paragraph: `Modern buildings deserve modern response. Call (877) 497-0007 for immediate assessment, building-coordinated access, and complete interior restoration with warranty documentation for newer construction.`,
   },
 }

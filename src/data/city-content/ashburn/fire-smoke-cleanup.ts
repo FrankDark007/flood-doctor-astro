@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Ashburn, VA | Flood Doctor',
-    description: 'Emergency fire damage restoration in Ashburn. Smoke removal, water damage from firefighting, complete recovery. 24/7 response to Broadlands, Brambleton, One Loudoun. Call (703) 656-0109.',
+    description: 'Emergency fire damage restoration in Ashburn. Smoke removal, water damage from firefighting, complete recovery. 24/7 response to Broadlands, Brambleton, One Loudoun. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Ashburn, Virginia',
   introSection: {
@@ -120,7 +120,7 @@ export const content: CityServiceContent = {
       'HOA architectural compliance — exterior restoration must use pre-approved materials and pass review, affecting material selection and timeline',
       'Builder-grade replacement vs premium preservation — MDF and laminate require full replacement while hardwood and stone may be restored, affecting cost allocation',
     ],
-    cta: 'Call (703) 656-0109 for immediate dual-track response. Free assessment, detailed documentation, and direct insurance billing. We coordinate complete restoration — fire, water, structural, and HOA compliance — through a single point of contact.',
+    cta: 'Call (877) 497-0007 for immediate dual-track response. Free assessment, detailed documentation, and direct insurance billing. We coordinate complete restoration — fire, water, structural, and HOA compliance — through a single point of contact.',
   },
   serviceAreaSection: {
     neighborhoods: [

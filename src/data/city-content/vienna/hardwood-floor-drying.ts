@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Vienna, VA | Save Your Floors | Flood Doctor',
-    description: `Vienna hardwood floor drying specialists. Saving floors in Vienna Town, Oakton & Dunn Loring. Colonial and luxury home expertise. Crawl space moisture solutions. Call (703) 285-1112.`,
+    description: `Vienna hardwood floor drying specialists. Saving floors in Vienna Town, Oakton & Dunn Loring. Colonial and luxury home expertise. Crawl space moisture solutions. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Vienna, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Vienna Response',
-      description: `Call (703) 285-1112 and we reach your Vienna or Oakton home within 30 minutes. Our first assessment identifies the wood species, measures moisture content at multiple locations, and evaluates the subfloor system—including crawl space conditions that may be contributing to the moisture problem.`,
+      description: `Call (877) 497-0007 and we reach your Vienna or Oakton home within 30 minutes. Our first assessment identifies the wood species, measures moisture content at multiple locations, and evaluates the subfloor system—including crawl space conditions that may be contributing to the moisture problem.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -113,7 +113,7 @@ export const content: CityServiceContent = {
       'Water source and duration before response—early calls save more flooring',
       'Associated damage to subfloor, crawl space, or wall cavities requiring simultaneous treatment',
     ],
-    cta: `Call (703) 285-1112 when water reaches your Vienna hardwood. Quick response saves floors and saves money. Free assessment with honest salvage evaluation—no high-pressure replacement recommendations.`,
+    cta: `Call (877) 497-0007 when water reaches your Vienna hardwood. Quick response saves floors and saves money. Free assessment with honest salvage evaluation—no high-pressure replacement recommendations.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water on Your Vienna Hardwood? Time Is Everything.',
-    paragraph: `Your hardwood floors represent years of careful selection and investment. Call (703) 285-1112 for immediate response—our drying systems save Vienna floors that others would replace.`,
+    paragraph: `Your hardwood floors represent years of careful selection and investment. Call (877) 497-0007 for immediate response—our drying systems save Vienna floors that others would replace.`,
   },
 }

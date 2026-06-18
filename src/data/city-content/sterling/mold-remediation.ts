@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Mold Remediation in Sterling, VA | Flood Doctor`,
-    description: `Sterling mold remediation specialists. Hidden mold in 1970s-80s Sterling Park homes, townhome mold in Cascades & Countryside. IICRC-certified. Call (703) 285-1111.`,
+    description: `Sterling mold remediation specialists. Hidden mold in 1970s-80s Sterling Park homes, townhome mold in Cascades & Countryside. IICRC-certified. Call (877) 497-0007.`,
   },
   h1: `Mold Remediation in Sterling, Virginia`,
   introSection: {
@@ -82,7 +82,7 @@ Our approach addresses both the mold and its moisture source. Removing visible m
       `Testing requirements—third-party clearance testing ensures verified results but adds lab costs`,
       `Multi-unit coordination—shared wall remediation in Cascades townhomes requires adjacent unit access and HOA involvement`,
     ],
-    cta: `Call (703) 285-1111 for a mold assessment. We identify the extent of the problem, explain your options, and provide honest estimates—no scare tactics, no unnecessary scope.`,
+    cta: `Call (877) 497-0007 for a mold assessment. We identify the extent of the problem, explain your options, and provide honest estimates—no scare tactics, no unnecessary scope.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -102,7 +102,7 @@ Our approach addresses both the mold and its moisture source. Removing visible m
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Same-day mold assessment throughout Sterling. Emergency containment for active water damage situations that present mold risk. Call (703) 285-1111.`,
+    responseTime: `Same-day mold assessment throughout Sterling. Emergency containment for active water damage situations that present mold risk. Call (877) 497-0007.`,
   },
   faqs: [
     {

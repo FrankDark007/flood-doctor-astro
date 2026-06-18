@@ -1,6 +1,5 @@
 import { useState, type FormEvent } from 'react'
-
-const WORKER_URL = 'https://flood-doctor-forms.bluemedia-account.workers.dev'
+import { FORM_WORKER_URL } from '../../config/forms'
 
 interface Props {
   city?: string
@@ -26,7 +25,7 @@ export default function ContactForm({ city }: Props) {
     }
 
     try {
-      const res = await fetch(`${WORKER_URL}/api/contact`, {
+      const res = await fetch(`${FORM_WORKER_URL}/api/contact`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(data),

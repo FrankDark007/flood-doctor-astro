@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Leesburg, VA | Flood Doctor`,
-    description: `Water damage and restoration for Leesburg schools, government buildings, and public facilities. County seat expertise. Call (703) 285-1107.`,
+    description: `Water damage and restoration for Leesburg schools, government buildings, and public facilities. County seat expertise. Call (877) 497-0007.`,
   },
   h1: `Leesburg Municipal & Education Facility Restoration`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Response & Facility Coordination`,
-      description: `Call (703) 285-1107 for immediate response. We coordinate with facility managers, school administrators, or government operations teams to assess the situation and establish access and safety protocols.`,
+      description: `Call (877) 497-0007 for immediate response. We coordinate with facility managers, school administrators, or government operations teams to assess the situation and establish access and safety protocols.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Environmental clearance and testing requirements`,
       `Public procurement compliance and documentation`,
     ],
-    cta: `Call (703) 285-1107 for municipal and education facility restoration consultation.`,
+    cta: `Call (877) 497-0007 for municipal and education facility restoration consultation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,6 +126,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Municipal or School Facility Damage in Leesburg?`,
-    paragraph: `Public facilities serve the entire community and cannot afford extended downtime. Flood Doctor provides the specialized restoration expertise that Leesburg's government buildings and schools need. Call (703) 285-1107 for immediate response.`,
+    paragraph: `Public facilities serve the entire community and cannot afford extended downtime. Flood Doctor provides the specialized restoration expertise that Leesburg's government buildings and schools need. Call (877) 497-0007 for immediate response.`,
   },
 }

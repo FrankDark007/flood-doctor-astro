@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Springfield, VA | Flood Doctor',
-    description: `Springfield commercial flood cleanup. I-95 corridor offices, Lake Accotink area businesses & Fort Belvoir adjacent properties. Industrial extraction. Call (703) 285-1110.`,
+    description: `Springfield commercial flood cleanup. I-95 corridor offices, Lake Accotink area businesses & Fort Belvoir adjacent properties. Industrial extraction. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Springfield, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams deploy to Springfield with contamination assessment e
   processSteps: [
     {
       title: 'Rapid Springfield Dispatch',
-      description: `Call (703) 285-1110 for immediate flood response. Our crews deploy from positions near the Franconia-Springfield Metro and Fort Belvoir corridor with industrial extraction equipment for Springfield's commercial environment.`,
+      description: `Call (877) 497-0007 for immediate flood response. Our crews deploy from positions near the Franconia-Springfield Metro and Fort Belvoir corridor with industrial extraction equipment for Springfield's commercial environment.`,
       timeframe: 'Within 60 minutes',
     },
     {
@@ -114,7 +114,7 @@ Our commercial flood teams deploy to Springfield with contamination assessment e
       'Military-adjacent urgency—accelerated schedules for mission-critical facilities carry expanded crew costs',
       'Access logistics—I-95 corridor staging constraints may affect equipment deployment efficiency',
     ],
-    cta: `Call (703) 285-1110 for emergency commercial flood response. We'll assess the scope honestly, manage the insurance process, and restore your Springfield business efficiently.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. We'll assess the scope honestly, manage the insurance process, and restore your Springfield business efficiently.`,
   },
   serviceAreaSection: {
     neighborhoods: [

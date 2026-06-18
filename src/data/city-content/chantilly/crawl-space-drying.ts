@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying in Chantilly, VA | Flood Doctor',
-    description: `Professional crawl space drying and encapsulation for Chantilly homes. High water table specialists near Cub Run. Serving South Riding & Chantilly Highlands. Call (703) 285-1104.`,
+    description: `Professional crawl space drying and encapsulation for Chantilly homes. High water table specialists near Cub Run. Serving South Riding & Chantilly Highlands. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying Services in Chantilly, Virginia',
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Encapsulation specifications—vapor barrier weight, dehumidifier capacity, and drainage components`,
       `Mold remediation—existing mold growth requires treatment before encapsulation`,
     ],
-    cta: `Call (703) 285-1104 for a free crawl space inspection. We assess conditions, explain options, and provide clear pricing for drying and long-term moisture management.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We assess conditions, explain options, and provide clear pricing for drying and long-term moisture management.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Crawl Space Moisture Problems in Chantilly?',
-    paragraph: `Crawl space moisture damages your home's structure and affects your family's health every day it continues. Our free inspection identifies the source and our encapsulation systems provide permanent control. Call (703) 285-1104 today.`,
+    paragraph: `Crawl space moisture damages your home's structure and affects your family's health every day it continues. Our free inspection identifies the source and our encapsulation systems provide permanent control. Call (877) 497-0007 today.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Leesburg, VA | Flood Doctor`,
-    description: `Professional commercial mold remediation for Leesburg businesses. Historic buildings, retail centers, offices, and government facilities. Call (703) 285-1107.`,
+    description: `Professional commercial mold remediation for Leesburg businesses. Historic buildings, retail centers, offices, and government facilities. Call (877) 497-0007.`,
   },
   h1: `Leesburg Commercial Mold Remediation`,
   introSection: {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `After-hours scheduling and business continuity requirements`,
       `Third-party testing and documentation requirements`,
     ],
-    cta: `Call (703) 285-1107 for a commercial mold assessment at your Leesburg property.`,
+    cta: `Call (877) 497-0007 for a commercial mold assessment at your Leesburg property.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Commercial Mold Problem in Leesburg? Get Expert Remediation`,
-    paragraph: `Mold in your commercial space creates liability, health risks, and business disruption. Flood Doctor provides professional commercial mold remediation with minimal business impact for Leesburg properties. Call (703) 285-1107 today.`,
+    paragraph: `Mold in your commercial space creates liability, health risks, and business disruption. Flood Doctor provides professional commercial mold remediation with minimal business impact for Leesburg properties. Call (877) 497-0007 today.`,
   },
 }

@@ -62,9 +62,9 @@ const waterDamageRestoration: ServiceData = {
   ],
   stats: [
     { label: 'Average Response Time', value: '<60 min' },
-    { label: 'Jobs Completed', value: '2,500+' },
-    { label: 'Customer Satisfaction', value: '98.7%' },
-    { label: 'Insurance Partners', value: '45+' },
+    { label: 'Emergency Availability', value: '24/7' },
+    { label: 'Restoration Protocols', value: 'IICRC' },
+    { label: 'Insurance Documentation', value: 'Included' },
   ],
   testimonial: {
     quote:

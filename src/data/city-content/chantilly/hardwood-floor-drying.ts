@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's hardwood floor drying specialists. Save engineered and solid hardwood after water damage. Serving South Riding & Chantilly Highlands. Call (703) 285-1104.`,
+    description: `Chantilly's hardwood floor drying specialists. Save engineered and solid hardwood after water damage. Serving South Riding & Chantilly Highlands. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying in Chantilly, Virginia',
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `Water category—clean water damage has higher salvage rates than contaminated water`,
       `Response time—faster intervention dramatically increases the chance of saving floors`,
     ],
-    cta: `Call (703) 285-1104 the moment you discover water on your hardwood floors. Rapid response is the single most important factor in saving your floors.`,
+    cta: `Call (877) 497-0007 the moment you discover water on your hardwood floors. Rapid response is the single most important factor in saving your floors.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,7 +132,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `Can my engineered hardwood floors in South Riding be saved after water damage?`,
-      answer: `In many cases, yes—with rapid professional response. Engineered hardwood can be dried in place using specialized mat systems that prevent delamination. The key is speed: call (703) 285-1104 immediately when water contacts your floors.`,
+      answer: `In many cases, yes—with rapid professional response. Engineered hardwood can be dried in place using specialized mat systems that prevent delamination. The key is speed: call (877) 497-0007 immediately when water contacts your floors.`,
     },
     {
       question: `Why are my hardwood floors cupping after getting wet?`,
@@ -161,6 +161,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water on Your Chantilly Hardwood Floors?',
-    paragraph: `Every hour of water contact reduces the chance of saving your floors. Our specialized floor drying mats can restore what household methods cannot. Call (703) 285-1104 now for 30-minute response—your floors depend on speed.`,
+    paragraph: `Every hour of water contact reduces the chance of saving your floors. Our specialized floor drying mats can restore what household methods cannot. Call (877) 497-0007 now for 30-minute response—your floors depend on speed.`,
   },
 }

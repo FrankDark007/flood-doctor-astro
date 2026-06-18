@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Centreville, VA | Flood Doctor',
-    description: `Centreville indoor air quality testing. Mold spore, VOC & particulate testing for homes and businesses in Virginia Run, Centre Ridge & Sully Station. Call (703) 285-1103.`,
+    description: `Centreville indoor air quality testing. Mold spore, VOC & particulate testing for homes and businesses in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Centreville, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ Our air quality assessment considers these Centreville-specific factors alongsid
       'Laboratory analysis—independent accredited laboratory fees are included in all testing packages',
       'Report depth—standard reports versus detailed reports for insurance, legal, or real estate purposes',
     ],
-    cta: `Call (703) 285-1103 for an indoor air quality consultation. We recommend the right testing based on your specific concerns and Centreville home characteristics.`,
+    cta: `Call (877) 497-0007 for an indoor air quality consultation. We recommend the right testing based on your specific concerns and Centreville home characteristics.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -169,6 +169,6 @@ Our air quality assessment considers these Centreville-specific factors alongsid
   ],
   finalCTA: {
     headline: 'Concerned About Air Quality in Your Centreville Home?',
-    paragraph: `Your family breathes this air every day. Call (703) 285-1103 for professional indoor air quality testing that identifies what is in your air, where it comes from, and how to fix it.`,
+    paragraph: `Your family breathes this air every day. Call (877) 497-0007 for professional indoor air quality testing that identifies what is in your air, where it comes from, and how to fix it.`,
   },
 }

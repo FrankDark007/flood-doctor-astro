@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Fairfax, VA | Flood Doctor',
-    description: `Fairfax's odor elimination experts. Permanent removal of mold, sewage & smoke odors from colonials & split-levels in Burke, Kings Park & Mantua. Call (703) 285-1105.`,
+    description: `Fairfax's odor elimination experts. Permanent removal of mold, sewage & smoke odors from colonials & split-levels in Burke, Kings Park & Mantua. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Fairfax, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our deodorization technicians deploy hydroxyl generators that safely neutralize 
   processSteps: [
     {
       title: 'Source Investigation in Your Home',
-      description: `Call (703) 285-1105 and we schedule a thorough assessment. Using moisture meters, borescopes, and UV inspection, we trace the odor to its exact source — whether that is mold behind basement drywall in your Burke home, a deteriorated drain line beneath your Kings Park split-level, or smoke residue embedded in your Mantua colonial HVAC system.`,
+      description: `Call (877) 497-0007 and we schedule a thorough assessment. Using moisture meters, borescopes, and UV inspection, we trace the odor to its exact source — whether that is mold behind basement drywall in your Burke home, a deteriorated drain line beneath your Kings Park split-level, or smoke residue embedded in your Mantua colonial HVAC system.`,
       timeframe: 'Initial visit',
     },
     {
@@ -113,7 +113,7 @@ Our deodorization technicians deploy hydroxyl generators that safely neutralize 
       'Home size and HVAC complexity — larger homes with multiple HVAC zones require more equipment and ductwork treatment',
       'Material removal needs — severely contaminated drywall, carpet, or insulation that must be removed adds scope to the project',
     ],
-    cta: `Call (703) 285-1105 for a straightforward odor assessment. We identify the source, explain your options, and provide a clear estimate with no hidden costs.`,
+    cta: `Call (877) 497-0007 for a straightforward odor assessment. We identify the source, explain your options, and provide a clear estimate with no hidden costs.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ Our deodorization technicians deploy hydroxyl generators that safely neutralize 
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Fairfax Home?',
-    paragraph: 'Odors that resist cleaning indicate hidden contamination that worsens over time. Our Fairfax deodorization team traces every smell to its source and eliminates it permanently — safely around your family. Call (703) 285-1105 for a professional assessment.',
+    paragraph: 'Odors that resist cleaning indicate hidden contamination that worsens over time. Our Fairfax deodorization team traces every smell to its source and eliminates it permanently — safely around your family. Call (877) 497-0007 for a professional assessment.',
   },
 }

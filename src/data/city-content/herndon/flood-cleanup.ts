@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Herndon, VA | Flood Doctor',
-    description: 'Herndon flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. Fox Mill, Downtown, Worldgate. Call (703) 656-0108.',
+    description: 'Herndon flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Herndon, Virginia',
   introSection: {
@@ -88,7 +88,7 @@ export const content: CityServiceContent = {
       'Building era and construction type — 1960s colonials with stone foundations require different approaches than 1990s townhome frames',
       'Sump pump retrofit needs — older homes requiring new systems add equipment and installation costs',
     ],
-    cta: 'Call (703) 656-0108 for emergency response. We evaluate all affected units, determine contamination categories, document for both individual and HOA claims, and provide per-unit estimates reflecting actual multi-unit scope.',
+    cta: 'Call (877) 497-0007 for emergency response. We evaluate all affected units, determine contamination categories, document for both individual and HOA claims, and provide per-unit estimates reflecting actual multi-unit scope.',
   },
   serviceAreaSection: {
     neighborhoods: [

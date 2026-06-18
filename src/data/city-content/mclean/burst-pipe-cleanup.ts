@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in McLean, VA | Flood Doctor',
-    description: 'McLean burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. Langley, Chesterbrook, The Reserve. Call (703) 656-0101.',
+    description: 'McLean burst pipe emergency response. 30-min arrival for frozen pipes, supply line breaks & water main damage. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Cleanup in McLean, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Standard drying does not apply when protecting two hundred thousand dollars in c
   processSteps: [
     {
       title: 'Zone-Specific Estate Dispatch',
-      description: 'Call (703) 656-0101. Our crews carry manifold diagnostic tools, FLIR thermal cameras, and Injectidry wall-injection systems for millwork preservation, positioned along Route 123 and the George Washington Parkway for rapid deployment to Langley, Chesterbrook, and The Reserve. While en route, we walk you through locating your manifold closet so you can attempt zone isolation before we arrive.',
+      description: 'Call (877) 497-0007. Our crews carry manifold diagnostic tools, FLIR thermal cameras, and Injectidry wall-injection systems for millwork preservation, positioned along Route 123 and the George Washington Parkway for rapid deployment to Langley, Chesterbrook, and The Reserve. While en route, we walk you through locating your manifold closet so you can attempt zone isolation before we arrive.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -61,7 +61,7 @@ Standard drying does not apply when protecting two hundred thousand dollars in c
       'Contents pack-out scale — estates with fine art, antiques, wine collections, and extensive furnishings may require climate-controlled off-site storage',
       'Insurance documentation depth — McLean adjusters expect comprehensive moisture maps, daily drying logs, thermal imaging records, and photographic inventories supporting the full claim scope',
     ],
-    cta: 'Call (703) 656-0101 for immediate response. Early intervention is the single most effective way to reduce restoration costs — every hour of unaddressed water flow compounds damage exponentially.',
+    cta: 'Call (877) 497-0007 for immediate response. Early intervention is the single most effective way to reduce restoration costs — every hour of unaddressed water flow compounds damage exponentially.',
   },
   serviceAreaSection: {
     neighborhoods: [

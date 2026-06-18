@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in McLean, VA | Flood Doctor`,
-    description: `McLean's trusted commercial fire and smoke restoration experts. Emergency stabilization, HVAC decontamination, and full reconstruction for premium commercial properties. Call (703) 285-1108.`,
+    description: `McLean's trusted commercial fire and smoke restoration experts. Emergency stabilization, HVAC decontamination, and full reconstruction for premium commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in McLean, Virginia`,
   introSection: {
@@ -114,7 +114,7 @@ export const content: CityServiceContent = {
       `Business interruption duration—expedited restoration reduces revenue loss and tenant displacement costs`,
       `Reconstruction complexity—matching McLean premium commercial finishes and meeting current building codes`,
     ],
-    cta: `Call (703) 285-1108 for immediate commercial fire emergency response. We provide on-site assessment, coordinate with your insurance carrier, and develop a restoration plan that prioritizes getting your McLean business back in operation.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response. We provide on-site assessment, coordinate with your insurance carrier, and develop a restoration plan that prioritizes getting your McLean business back in operation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -138,7 +138,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `How quickly should we act after a commercial fire in McLean?`,
-      answer: `Immediately. Smoke residue becomes increasingly difficult to remove as it bonds with surfaces—acidic soot causes permanent etching within 72 hours. Call (703) 285-1108 as soon as fire department operations conclude. Early intervention dramatically reduces restoration costs and timeline.`,
+      answer: `Immediately. Smoke residue becomes increasingly difficult to remove as it bonds with surfaces—acidic soot causes permanent etching within 72 hours. Call (877) 497-0007 as soon as fire department operations conclude. Early intervention dramatically reduces restoration costs and timeline.`,
     },
     {
       question: `Can you prioritize getting our most important spaces operational first?`,
@@ -168,6 +168,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in McLean?`,
-    paragraph: `Every hour of delay deepens smoke damage and extends business interruption. Our commercial fire restoration teams are standing by for immediate dispatch to any McLean property. Call (703) 285-1108 for emergency stabilization, comprehensive smoke removal, and integrated reconstruction under one managed project.`,
+    paragraph: `Every hour of delay deepens smoke damage and extends business interruption. Our commercial fire restoration teams are standing by for immediate dispatch to any McLean property. Call (877) 497-0007 for emergency stabilization, comprehensive smoke removal, and integrated reconstruction under one managed project.`,
   },
 }

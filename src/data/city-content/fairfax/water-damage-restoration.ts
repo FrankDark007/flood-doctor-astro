@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Fairfax, VA | Flood Doctor',
-    description: `Fairfax's trusted water damage pros. Expert colonial and split-level restoration in Burke, Fairfax City & Kings Park. Fast family-focused service. Call (703) 656-0104.`,
+    description: `Fairfax's trusted water damage pros. Expert colonial and split-level restoration in Burke, Fairfax City & Kings Park. Fast family-focused service. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Fairfax, Virginia',
   introSection: {
@@ -11,17 +11,17 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Your Fairfax colonial isn't just a house—it's where your kids learned to ride bikes, where Thanksgiving dinners happen, and where twenty years of family memories live in the walls. When water invades your Burke Centre townhome or Kings Park split-level, it threatens more than drywall and carpet. It disrupts the place your family calls home.
 
-Flood Doctor has served Fairfax families since 2005, restoring water-damaged homes throughout Burke, Fairfax City, Mantua, and beyond. We've pumped flooded basements in Burke Centre after summer storms, dried split-levels in Kings Park when washing machine lines burst, and saved colonial hardwood floors in Fairfax Station before insurance adjusters even arrived. When your neighbor recommends a restoration company, they mention us—because we've already handled their sump pump failure or burst pipe emergency.`,
+Flood Doctor has served Fairfax families for years, restoring water-damaged homes throughout Burke, Fairfax City, Mantua, and beyond. We've pumped flooded basements in Burke Centre after summer storms, dried split-levels in Kings Park when washing machine lines burst, and saved colonial hardwood floors in Fairfax Station before insurance adjusters even arrived. When your neighbor recommends a restoration company, they mention us—because we've already handled their sump pump failure or burst pipe emergency.`,
       `Fairfax's water damage challenges reflect the community's housing stock. The colonials and split-levels built in the 1970s and 1980s now face aging infrastructure—original sump pumps that fail during heavy rain, HVAC drain lines that clog after decades of service, and supply lines that finally give out. The mature trees that shade Burke Lake Park also send roots into clay sewer pipes, creating backups when storms hit. The same sloped lots that provide great yards also channel water toward foundation walls.
 
 Our IICRC-certified technicians understand Fairfax homes. We know Burke Centre townhomes share HVAC systems that can spread water damage between units. We've dried hundreds of split-level basements where water pools at the lowest level. We understand that your Fairfax City home's value depends on fast, thorough restoration—not just pumping water and hoping for the best.`,
     ],
-    localContext: `Fairfax's family neighborhoods—from Burke's established subdivisions to Fairfax City's charming downtown—deserve restoration experts who understand how people actually live in these homes. We've protected family investments throughout Fairfax County since 2005.`,
+    localContext: `Fairfax's family neighborhoods—from Burke's established subdivisions to Fairfax City's charming downtown—deserve restoration experts who understand how people actually live in these homes. We've protected family investments throughout Fairfax County for years.`,
   },
   processSteps: [
     {
       title: 'Fast Emergency Response',
-      description: `When you call our Fairfax hotline at (703) 656-0104, we dispatch immediately from our facility near Fairfax Corner. Our trucks reach Burke, Kings Park, Mantua, and Fairfax Station within 45 minutes—usually faster. We don't make you wait hours while water spreads through your home.`,
+      description: `When you call our Fairfax hotline at (877) 497-0007, we dispatch immediately from our facility near Fairfax Corner. Our trucks reach Burke, Kings Park, Mantua, and Fairfax Station within 45 minutes—usually faster. We don't make you wait hours while water spreads through your home.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC-certified technicians understand Fairfax homes. We know Burke Centre t
       'Response speed—calling within the first hour prevents damage that calling six hours later allows',
       `Insurance coverage—your policy's water damage provisions affect out-of-pocket costs`,
     ],
-    cta: `Call (703) 656-0104 for a free inspection and estimate. We'll assess your damage, explain insurance coverage, and answer all your questions before you commit to anything.`,
+    cta: `Call (877) 497-0007 for a free inspection and estimate. We'll assess your damage, explain insurance coverage, and answer all your questions before you commit to anything.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -146,7 +146,7 @@ Our IICRC-certified technicians understand Fairfax homes. We know Burke Centre t
   faqs: [
     {
       question: 'How fast should I call after finding water damage in my Fairfax home?',
-      answer: `Call immediately—within minutes if possible. Water damage worsens hour by hour. Drywall absorbs water, wood floors begin warping, and mold can start growing within 24 hours. In Fairfax's humid climate, fast action makes the difference between minor restoration and major reconstruction. Call (703) 656-0104 the moment you discover water.`,
+      answer: `Call immediately—within minutes if possible. Water damage worsens hour by hour. Drywall absorbs water, wood floors begin warping, and mold can start growing within 24 hours. In Fairfax's humid climate, fast action makes the difference between minor restoration and major reconstruction. Call (877) 497-0007 the moment you discover water.`,
     },
     {
       question: 'Can you save my hardwood floors after basement flooding?',

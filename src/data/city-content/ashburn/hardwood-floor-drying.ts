@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Ashburn, VA | Save Your Floors | Flood Doctor',
-    description: `Ashburn hardwood floor drying experts. Saving floors in Broadlands, Brambleton & One Loudoun. New construction & warranty claim specialists. Call (703) 285-1100.`,
+    description: `Ashburn hardwood floor drying experts. Saving floors in Broadlands, Brambleton & One Loudoun. New construction & warranty claim specialists. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Ashburn, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Ashburn Response',
-      description: `Call (703) 285-1100 and our Loudoun County crews reach your Ashburn home within 30 minutes. We identify the flooring type—engineered or solid, species, installation method—because each requires different drying parameters. Moisture readings map the full extent of water migration across your open floor plan.`,
+      description: `Call (877) 497-0007 and our Loudoun County crews reach your Ashburn home within 30 minutes. We identify the flooring type—engineered or solid, species, installation method—because each requires different drying parameters. Moisture readings map the full extent of water migration across your open floor plan.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Water source—builder defect documentation for warranty claims adds assessment scope',
       'Response time—floors treated within 24 hours have significantly higher salvage rates',
     ],
-    cta: `Call (703) 285-1100 when water reaches your Ashburn hardwood. Fast response is the difference between saving and replacing your floors. Free assessment, honest salvage evaluation.`,
+    cta: `Call (877) 497-0007 when water reaches your Ashburn hardwood. Fast response is the difference between saving and replacing your floors. Free assessment, honest salvage evaluation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water on Your Ashburn Hardwood? Every Hour Counts.',
-    paragraph: `Your engineered hardwood may not be available for matching if replacement becomes necessary. Call (703) 285-1100 now for drying that saves your existing floors and avoids the matching nightmare.`,
+    paragraph: `Your engineered hardwood may not be available for matching if replacement becomes necessary. Call (877) 497-0007 now for drying that saves your existing floors and avoids the matching nightmare.`,
   },
 }

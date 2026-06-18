@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Lorton, VA | Flood Doctor',
-    description: 'Emergency storm damage restoration in Lorton. Tropical storm specialists for Occoquan watershed. Wind & water damage experts. 24/7 response. Call (703) 656-0113.',
+    description: 'Emergency storm damage restoration in Lorton. Tropical storm specialists for Occoquan watershed. Wind & water damage experts. 24/7 response. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration & Emergency Response in Lorton, Virginia',
   introSection: {
@@ -12,12 +12,12 @@ export const content: CityServiceContent = {
       `Storm damage in Lorton arrives from multiple directions—tropical storm remnants bringing heavy rain and wind to the Occoquan River watershed, summer thunderstorms with damaging microbursts affecting South County, winter nor'easters creating ice damage throughout Laurel Hill, and severe weather that drops trees onto Mason Neck's wooded properties. When storms damage your home, you need emergency restoration experts who respond immediately regardless of weather conditions. Flood Doctor provides 24/7 storm damage response throughout Lorton. We've restored storm-damaged homes after every major weather event to hit our community—from tropical storm flooding along the Occoquan River to wind damage throughout South County to fallen trees crushing roofs in Mason Neck's wooded neighborhoods.`,
       `Lorton's storm vulnerability reflects our geography. The Occoquan River watershed funnels heavy rainfall creating flash flooding miles from actual waterfront. Mason Neck and Gunston's mature tree canopy creates falling tree risks during high winds. South County and Laurel Hill's rapid development means newer roofs that can fail during severe weather. Our IICRC-certified storm restoration crews respond during active weather events—not after storms pass—to begin emergency mitigation immediately.`,
     ],
-    localContext: `Lorton storm damage ranges from tropical storm flooding in the Occoquan watershed to wind damage throughout South County to tree impacts on Mason Neck's wooded properties. We've responded to every major storm event since 2005.`,
+    localContext: `Lorton storm damage ranges from tropical storm flooding in the Occoquan watershed to wind damage throughout South County to tree impacts on Mason Neck's wooded properties. We've responded to every major storm event for years.`,
   },
   processSteps: [
     {
       title: 'Emergency Storm Response During Events',
-      description: 'When storms damage your Lorton home, call (703) 656-0113 immediately—we respond during active weather when safe to do so. Our crews are positioned throughout South Fairfax County for rapid dispatch to storm-damaged properties.',
+      description: 'When storms damage your Lorton home, call (877) 497-0007 immediately—we respond during active weather when safe to do so. Our crews are positioned throughout South Fairfax County for rapid dispatch to storm-damaged properties.',
       timeframe: 'During/immediately after storm',
     },
     {
@@ -121,7 +121,7 @@ export const content: CityServiceContent = {
       `Emergency services timing—after-hours storm response doesn't increase our rates`,
       'Insurance deductibles and coverage—we help maximize your claim value',
     ],
-    cta: 'Call (703) 656-0113 for immediate storm damage response. We respond during storms to prevent ongoing damage and coordinate your complete restoration.',
+    cta: 'Call (877) 497-0007 for immediate storm damage response. We respond during storms to prevent ongoing damage and coordinate your complete restoration.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,7 +145,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'What should I do immediately after storm damage?',
-      answer: `First ensure safety—don't enter structurally damaged areas. If safe, place buckets under active roof leaks and move valuables from affected areas. Call us immediately at (703) 656-0113—we respond during and after storms. Take photos for insurance but don't delay calling for emergency mitigation.`,
+      answer: `First ensure safety—don't enter structurally damaged areas. If safe, place buckets under active roof leaks and move valuables from affected areas. Call us immediately at (877) 497-0007—we respond during and after storms. Take photos for insurance but don't delay calling for emergency mitigation.`,
     },
     {
       question: 'Will my insurance cover storm damage in Lorton?',

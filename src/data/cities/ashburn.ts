@@ -6,7 +6,7 @@ const ashburn: CityData = {
   state: 'Virginia',
   stateAbbr: 'VA',
   fullName: 'Ashburn, Virginia',
-  phone: '(703) 285-1100',
+  phone: '(877) 497-0007',
   address: '44927 George Washington Blvd, Ashburn, VA 20147',
   zipCode: '20147',
   serviceArea: [
@@ -17,7 +17,7 @@ const ashburn: CityData = {
   coordinates: { lat: 39.0437, lng: -77.4875 },
   meta: {
     title: 'Flood Doctor Ashburn | 24/7 Water Damage Restoration',
-    description: '24/7 emergency water damage restoration in Ashburn, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (703) 285-1100.',
+    description: '24/7 emergency water damage restoration in Ashburn, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (877) 497-0007.',
   },
 }
 

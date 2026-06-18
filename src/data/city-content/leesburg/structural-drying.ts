@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Structural Drying Services in Leesburg, VA | Flood Doctor`,
-    description: `Professional structural drying for Leesburg's historic homes and modern properties. Preservation-compatible techniques for stone, plaster, and wood. Call (703) 285-1107.`,
+    description: `Professional structural drying for Leesburg's historic homes and modern properties. Preservation-compatible techniques for stone, plaster, and wood. Call (877) 497-0007.`,
   },
   h1: `Leesburg Structural Drying Services`,
   introSection: {
@@ -86,7 +86,7 @@ export const content: CityServiceContent = {
       `Duration of drying (typically 3-7 days)`,
       `Access challenges in crawl spaces or multi-story historic homes`,
     ],
-    cta: `Call (703) 285-1107 for a professional moisture assessment and drying plan.`,
+    cta: `Call (877) 497-0007 for a professional moisture assessment and drying plan.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -140,6 +140,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Professional Structural Drying for Leesburg Properties`,
-    paragraph: `Proper structural drying is the foundation of successful water damage restoration. Whether your Leesburg home is a historic landmark or a modern build, Flood Doctor delivers the precision drying your property requires. Call (703) 285-1107 today.`,
+    paragraph: `Proper structural drying is the foundation of successful water damage restoration. Whether your Leesburg home is a historic landmark or a modern build, Flood Doctor delivers the precision drying your property requires. Call (877) 497-0007 today.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville's emergency flood cleanup specialists. 30-min response to Virginia Run, Centre Ridge & Little Rocky Run. Clay soil flooding experts. Call (703) 285-1103.`,
+    description: `Centreville's emergency flood cleanup specialists. 30-min response to Virginia Run, Centre Ridge & Little Rocky Run. Clay soil flooding experts. Call (877) 497-0007.`,
   },
   h1: 'Flood Cleanup Services in Centreville, Virginia',
   introSection: {
@@ -14,14 +14,14 @@ export const content: CityServiceContent = {
 Flood Doctor provides emergency flood cleanup throughout Centreville with 30-minute response times. We've pumped out flooded basements in Little Rocky Run after summer thunderstorms, extracted storm water from Centreville Farms garages, and cleaned up sewer backflows in London Towne during overwhelmed storm seasons. Our crews understand that your finished basement is not just square footage—it is where your family lives.`,
       `Flood cleanup in Centreville requires more than water extraction. The clay soil that caused the flooding also creates ongoing moisture pressure against your foundation. Standing water in finished basements saturates carpet, pad, drywall, and OSB subfloor—materials that must be dried to precise standards or replaced entirely. Contaminated floodwater from storm drain backup requires biohazard protocols that protect your family's health.
 
-Our IICRC-certified flood cleanup teams follow strict protocols for water classification, extraction, sanitization, and structural drying. We document everything for insurance claims and handle direct billing with all major carriers. When floodwater enters your Centreville home, one call to (703) 285-1103 starts the recovery process.`,
+Our IICRC-certified flood cleanup teams follow strict protocols for water classification, extraction, sanitization, and structural drying. We document everything for insurance claims and handle direct billing with all major carriers. When floodwater enters your Centreville home, one call to (877) 497-0007 starts the recovery process.`,
     ],
     localContext: `Centreville's position along the Route 28/I-66 corridor, combined with clay soil conditions and 1990s-2000s construction with large finished basements, creates a flooding profile that requires rapid response and specialized cleanup techniques.`,
   },
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: `Call (703) 285-1103 and our Centreville-area crew mobilizes immediately. We reach Virginia Run, Centre Ridge, Sully Station, and all Centreville neighborhoods within 30 minutes with truck-mounted extraction equipment and portable pumps.`,
+      description: `Call (877) 497-0007 and our Centreville-area crew mobilizes immediately. We reach Virginia Run, Centre Ridge, Sully Station, and all Centreville neighborhoods within 30 minutes with truck-mounted extraction equipment and portable pumps.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -116,7 +116,7 @@ Our IICRC-certified flood cleanup teams follow strict protocols for water classi
       'Materials affected—carpet, pad, drywall, and stored items may need removal and replacement',
       'Multi-unit involvement—shared-wall townhome floods may require coordinated multi-unit cleanup',
     ],
-    cta: `Call (703) 285-1103 for immediate flood cleanup. We'll assess the damage, classify the water, and provide a detailed estimate—all while extraction begins to limit further damage.`,
+    cta: `Call (877) 497-0007 for immediate flood cleanup. We'll assess the damage, classify the water, and provide a detailed estimate—all while extraction begins to limit further damage.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -141,7 +141,7 @@ Our IICRC-certified flood cleanup teams follow strict protocols for water classi
   faqs: [
     {
       question: 'How quickly can you respond to flooding in my Centreville home?',
-      answer: `Within 30 minutes. Our crews are stationed along the Route 28/I-66 corridor and respond immediately to flood emergencies. Call (703) 285-1103—we dispatch before the call ends.`,
+      answer: `Within 30 minutes. Our crews are stationed along the Route 28/I-66 corridor and respond immediately to flood emergencies. Call (877) 497-0007—we dispatch before the call ends.`,
     },
     {
       question: 'Is floodwater from storm drains dangerous?',
@@ -171,6 +171,6 @@ Our IICRC-certified flood cleanup teams follow strict protocols for water classi
   ],
   finalCTA: {
     headline: 'Flood Emergency in Centreville?',
-    paragraph: `Every minute floodwater sits in your home, damage spreads and costs increase. Our crews are ready now—30-minute response, truck-mounted extraction, and full insurance coordination. Call (703) 285-1103 immediately.`,
+    paragraph: `Every minute floodwater sits in your home, damage spreads and costs increase. Our crews are ready now—30-minute response, truck-mounted extraction, and full insurance coordination. Call (877) 497-0007 immediately.`,
   },
 }

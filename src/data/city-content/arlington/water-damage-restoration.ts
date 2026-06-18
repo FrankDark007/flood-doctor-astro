@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Arlington, VA | Flood Doctor',
-    description: `Arlington's trusted water damage restoration experts. 30-min response to Rosslyn, Clarendon, Ballston & Crystal City high-rises. HOA coordination included. Call (703) 656-0102.`,
+    description: `Arlington's trusted water damage restoration experts. 30-min response to Rosslyn, Clarendon, Ballston & Crystal City high-rises. HOA coordination included. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Arlington, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor has restored water-damaged properties throughout Arlington for near
 
 Our IICRC Master Water Restorers understand that your Clarendon condo requires different protocols than a Pentagon City luxury apartment or a 1940s Cherrydale bungalow. We've developed specialized workflows for Arlington's unique building stock: rapid multi-unit assessment, coordinated drying across affected floors, and documentation that satisfies both individual claims and HOA requirements.`,
     ],
-    localContext: `Arlington's high-rise density—from 30-story Rosslyn towers to mid-rise Ballston condos—demands restoration expertise that most companies simply don't have. We've protected property values in buildings throughout the county since 2005, earning trust from HOA boards, property managers, and individual owners alike.`,
+    localContext: `Arlington's high-rise density—from 30-story Rosslyn towers to mid-rise Ballston condos—demands restoration expertise that most companies simply don't have. We've protected property values in buildings throughout the county for years, earning trust from HOA boards, property managers, and individual owners alike.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: 'When you call our Arlington hotline at (703) 656-0102, we dispatch immediately from our Falls Church facility. Our trucks are positioned to reach Rosslyn, Clarendon, Ballston, Crystal City, and Pentagon City within our 30-minute guarantee—even during rush hour traffic on Route 50 or I-66.',
+      description: 'When you call our Arlington hotline at (877) 497-0007, we dispatch immediately from our Falls Church facility. Our trucks are positioned to reach Rosslyn, Clarendon, Ballston, Crystal City, and Pentagon City within our 30-minute guarantee—even during rush hour traffic on Route 50 or I-66.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -122,7 +122,7 @@ Our IICRC Master Water Restorers understand that your Clarendon condo requires d
       'Construction type—high-rise concrete differs from wood-frame townhomes in drying requirements',
       'Duration before response—faster calls mean less spread between units and lower total restoration costs',
     ],
-    cta: `Call (703) 656-0102 for a free, no-obligation inspection. We'll assess the damage across all affected areas, provide estimates for each unit, and explain your insurance coverage options.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the damage across all affected areas, provide estimates for each unit, and explain your insurance coverage options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -147,11 +147,11 @@ Our IICRC Master Water Restorers understand that your Clarendon condo requires d
   faqs: [
     {
       question: 'How quickly should I call after discovering water damage in my Arlington condo?',
-      answer: `Immediately. In high-rise buildings, water spreads both horizontally and vertically—affecting your unit, your neighbors below, and potentially common areas. Mold can begin growing within 24-48 hours. Call (703) 656-0102 the moment you discover water, then notify building management. We'll coordinate with both you and the building.`,
+      answer: `Immediately. In high-rise buildings, water spreads both horizontally and vertically—affecting your unit, your neighbors below, and potentially common areas. Mold can begin growing within 24-48 hours. Call (877) 497-0007 the moment you discover water, then notify building management. We'll coordinate with both you and the building.`,
     },
     {
       question: 'What if the water damage came from the unit above mine?',
-      answer: `Document the damage with photos immediately, then call us at (703) 656-0102. We'll assess your unit and can also inspect the source unit with proper authorization. Our documentation supports insurance claims and helps establish the damage timeline—important when multiple policies are involved.`,
+      answer: `Document the damage with photos immediately, then call us at (877) 497-0007. We'll assess your unit and can also inspect the source unit with proper authorization. Our documentation supports insurance claims and helps establish the damage timeline—important when multiple policies are involved.`,
     },
     {
       question: 'Do you work directly with HOA boards and property managers?',

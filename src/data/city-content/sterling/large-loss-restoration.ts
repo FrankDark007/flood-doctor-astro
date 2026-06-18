@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Large Loss Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling large loss restoration for major water, fire & storm damage. Multi-unit townhome events, commercial complex losses along Route 7. Project management expertise. Call (703) 285-1111.`,
+    description: `Sterling large loss restoration for major water, fire & storm damage. Multi-unit townhome events, commercial complex losses along Route 7. Project management expertise. Call (877) 497-0007.`,
   },
   h1: `Large Loss Restoration in Sterling, Virginia`,
   introSection: {
@@ -82,7 +82,7 @@ Our large loss project managers bring experience with Sterling's specific proper
       `Timeline requirements—phased completion allowing earlier reoccupation of less-affected areas`,
       `Documentation depth—carrier-specific reporting, HOA board presentations, and individual owner communications`,
     ],
-    cta: `Call (703) 285-1111 for large loss project management. We bring the coordination capacity and documentation infrastructure that Sterling's complex loss events require.`,
+    cta: `Call (877) 497-0007 for large loss project management. We bring the coordination capacity and documentation infrastructure that Sterling's complex loss events require.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -102,7 +102,7 @@ Our large loss project managers bring experience with Sterling's specific proper
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Large loss mobilization within 2 hours for Sterling events. Full project team deployment within 4 hours. Call (703) 285-1111 for immediate large loss response.`,
+    responseTime: `Large loss mobilization within 2 hours for Sterling events. Full project team deployment within 4 hours. Call (877) 497-0007 for immediate large loss response.`,
   },
   faqs: [
     {

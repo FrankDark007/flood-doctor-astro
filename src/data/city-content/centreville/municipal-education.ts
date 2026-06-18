@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Municipal & Education Facility Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville school and municipal building restoration. Water damage, mold & fire restoration for Fairfax County schools and government facilities. Call (703) 285-1103.`,
+    description: `Centreville school and municipal building restoration. Water damage, mold & fire restoration for Fairfax County schools and government facilities. Call (877) 497-0007.`,
   },
   h1: 'Municipal & Education Facility Restoration in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our public facility team coordinates with administration, facility management, a
   processSteps: [
     {
       title: 'Emergency Facility Response',
-      description: `Call (703) 285-1103 for priority response to municipal and education facilities. We dispatch immediately and coordinate with facility management on access, safety requirements, and operational priorities.`,
+      description: `Call (877) 497-0007 for priority response to municipal and education facilities. We dispatch immediately and coordinate with facility management on access, safety requirements, and operational priorities.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -109,7 +109,7 @@ Our public facility team coordinates with administration, facility management, a
       'Code compliance—bringing restoration up to current code standards may add scope beyond original construction',
       'Air quality requirements—enhanced filtration and testing for vulnerable populations adds specialized scope',
     ],
-    cta: `Call (703) 285-1103 for municipal and education facility restoration. We understand public building requirements and provide the documentation your administration needs.`,
+    cta: `Call (877) 497-0007 for municipal and education facility restoration. We understand public building requirements and provide the documentation your administration needs.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,7 +126,7 @@ Our public facility team coordinates with administration, facility management, a
       'Centreville Library Area',
       'Cub Run RECenter Area',
     ],
-    responseTime: `Priority response for public facilities throughout Centreville. Emergency events receive immediate dispatch. Call (703) 285-1103 for expedited service.`,
+    responseTime: `Priority response for public facilities throughout Centreville. Emergency events receive immediate dispatch. Call (877) 497-0007 for expedited service.`,
   },
   faqs: [
     {
@@ -159,6 +159,6 @@ Our public facility team coordinates with administration, facility management, a
   ],
   finalCTA: {
     headline: 'Municipal or School Facility Damage in Centreville?',
-    paragraph: `Public facilities serve the community—and the community needs them restored quickly and safely. Call (703) 285-1103 for restoration that meets public building standards and keeps your facility serving Centreville families.`,
+    paragraph: `Public facilities serve the community—and the community needs them restored quickly and safely. Call (877) 497-0007 for restoration that meets public building standards and keeps your facility serving Centreville families.`,
   },
 }

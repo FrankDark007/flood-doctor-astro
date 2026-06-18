@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Structural Drying Services in Sterling, VA | Flood Doctor`,
-    description: `Sterling structural drying specialists. IICRC-certified drying for 1970s-80s Sterling Park homes and modern Cascades construction. Scientific monitoring. Call (703) 285-1111.`,
+    description: `Sterling structural drying specialists. IICRC-certified drying for 1970s-80s Sterling Park homes and modern Cascades construction. Scientific monitoring. Call (877) 497-0007.`,
   },
   h1: `Structural Drying Services in Sterling, Virginia`,
   introSection: {
@@ -111,7 +111,7 @@ Our technicians calculate the specific evaporation rate, grain depression, and e
       `Foundation moisture conditions—creek-adjacent properties may require adjusted drying targets`,
       `Equipment duration—drying timeline depends on material volume, moisture content, and ambient conditions`,
     ],
-    cta: `Call (703) 285-1111 for professional structural drying. We calculate the specific approach your Sterling home needs rather than deploying generic equipment and hoping for the best.`,
+    cta: `Call (877) 497-0007 for professional structural drying. We calculate the specific approach your Sterling home needs rather than deploying generic equipment and hoping for the best.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,7 +131,7 @@ Our technicians calculate the specific evaporation rate, grain depression, and e
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Same-day structural drying deployment throughout Sterling. Emergency drying setup within 2 hours of water extraction completion. Call (703) 285-1111.`,
+    responseTime: `Same-day structural drying deployment throughout Sterling. Emergency drying setup within 2 hours of water extraction completion. Call (877) 497-0007.`,
   },
   faqs: [
     {

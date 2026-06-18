@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in McLean, VA | Flood Doctor',
-    description: `McLean's certified environmental testing for asbestos, lead paint, mold & hazardous materials. AIHA-accredited lab analysis for estate homes in Langley, Chesterbrook & The Reserve. Call (703) 285-1108.`,
+    description: `McLean's certified environmental testing for asbestos, lead paint, mold & hazardous materials. AIHA-accredited lab analysis for estate homes in Langley, Chesterbrook & The Reserve. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in McLean, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Water quality testing panels for properties with private well systems',
       'Rush laboratory processing when project timelines require expedited results',
     ],
-    cta: `Call (703) 285-1108 for a confidential consultation. We design a testing protocol matched to your McLean property and specific environmental concerns.`,
+    cta: `Call (877) 497-0007 for a confidential consultation. We design a testing protocol matched to your McLean property and specific environmental concerns.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Evermay',
       'Chain Bridge Forest',
     ],
-    responseTime: `Same-day environmental testing deployment to all McLean neighborhoods. Expedited laboratory processing available for time-sensitive renovation projects. Call (703) 285-1108.`,
+    responseTime: `Same-day environmental testing deployment to all McLean neighborhoods. Expedited laboratory processing available for time-sensitive renovation projects. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Concerns in Your McLean Property?',
-    paragraph: `Certified environmental testing provides the laboratory data you need for renovation planning, health investigation, or real estate due diligence. AIHA-accredited analysis with chain-of-custody documentation. Call (703) 285-1108 for a confidential consultation.`,
+    paragraph: `Certified environmental testing provides the laboratory data you need for renovation planning, health investigation, or real estate due diligence. AIHA-accredited analysis with chain-of-custody documentation. Call (877) 497-0007 for a confidential consultation.`,
   },
 }

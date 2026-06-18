@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church mold remediation specialists. IICRC-certified crews for Seven Corners, Lake Barcroft & Falls Church City. Safe removal & prevention. Call (703) 656-0111.',
+    description: 'Falls Church mold remediation specialists. IICRC-certified crews for Seven Corners, Lake Barcroft & Falls Church City. Safe removal & prevention. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation in Falls Church, Virginia',
   introSection: {
@@ -11,12 +11,12 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Mold in your Falls Church home isn't just an aesthetic problem—it's a health concern and a threat to your property's structure and value. Whether you've discovered mold after water damage, found it growing in a humid basement, or smell that telltale musty odor without a visible source, professional remediation protects your family and your investment. Falls Church's older housing stock and humid summers create conditions where mold thrives if given any opportunity.
 
-Flood Doctor has remediated mold throughout Falls Church since 2005. We've removed mold from 1940s bungalows in Falls Church City where decades of basement humidity created hidden growth. We've treated Seven Corners colonials where a slow leak fed mold colonies inside wall cavities. We've addressed Lake Barcroft waterfront homes where high water tables create persistent moisture challenges. Our IICRC-certified crews follow industry protocols for safe, effective mold removal.`,
+Flood Doctor has remediated mold throughout Falls Church for years. We've removed mold from 1940s bungalows in Falls Church City where decades of basement humidity created hidden growth. We've treated Seven Corners colonials where a slow leak fed mold colonies inside wall cavities. We've addressed Lake Barcroft waterfront homes where high water tables create persistent moisture challenges. Our IICRC-certified crews follow industry protocols for safe, effective mold removal.`,
       `Falls Church homes present unique mold challenges. The older housing stock includes construction features—balloon framing, minimal vapor barriers, original windows—that allow moisture intrusion modern homes don't face. Lake Barcroft's waterfront properties contend with humidity levels that stay elevated year-round. Basement spaces throughout Falls Church often lack adequate ventilation, creating conditions where mold grows on any organic material.
 
 Our remediation process addresses both the mold and the moisture source. Removing visible mold without fixing the underlying moisture problem just invites regrowth. We identify where moisture is coming from, remediate existing mold safely, and help you prevent future problems. This comprehensive approach protects your Falls Church home long-term.`,
     ],
-    localContext: `Falls Church's humid summers, older housing stock, and areas with high water tables create ideal mold conditions. We've addressed mold problems throughout Falls Church City, Seven Corners, Lake Barcroft, and surrounding neighborhoods since 2005.`,
+    localContext: `Falls Church's humid summers, older housing stock, and areas with high water tables create ideal mold conditions. We've addressed mold problems throughout Falls Church City, Seven Corners, Lake Barcroft, and surrounding neighborhoods for years.`,
   },
   processSteps: [
     {
@@ -119,7 +119,7 @@ Our remediation process addresses both the mold and the moisture source. Removin
       'Moisture source complexity—simple leaks versus foundation or humidity issues affect scope',
       'Historic home considerations—older Falls Church homes may need specialized techniques',
     ],
-    cta: `Call (703) 656-0111 for a free mold inspection. We'll assess the extent of the problem, identify the moisture source, and provide a detailed remediation estimate.`,
+    cta: `Call (877) 497-0007 for a free mold inspection. We'll assess the extent of the problem, identify the moisture source, and provide a detailed remediation estimate.`,
   },
   serviceAreaSection: {
     neighborhoods: [

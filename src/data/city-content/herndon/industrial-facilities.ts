@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Herndon, VA | Flood Doctor`,
-    description: `Herndon's industrial and data center restoration specialists. Serving the Dulles corridor's technology infrastructure, warehouses, and commercial operations. Call (703) 285-1106.`,
+    description: `Herndon's industrial and data center restoration specialists. Serving the Dulles corridor's technology infrastructure, warehouses, and commercial operations. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Herndon, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Herndon data center team addresses these interrelated challenges. We stabili
   processSteps: [
     {
       title: `Critical Infrastructure Emergency Response`,
-      description: `Call (703) 285-1106 for immediate deployment. Our Herndon data center and commercial response teams coordinate with facility operations during transit, arriving with anti-corrosion treatment, environmental controls, and extraction equipment within 30 minutes.`,
+      description: `Call (877) 497-0007 for immediate deployment. Our Herndon data center and commercial response teams coordinate with facility operations during transit, arriving with anti-corrosion treatment, environmental controls, and extraction equipment within 30 minutes.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -114,7 +114,7 @@ Our Herndon data center team addresses these interrelated challenges. We stabili
       `Operational continuity—24/7 uptime requirements necessitate restoration around active operations with additional safety measures`,
       `Contractual documentation—SLA compliance records and client notification requirements for data center operators`,
     ],
-    cta: `Call (703) 285-1106 for emergency data center or technology facility assessment. We deploy with the precision environmental capability Herndon's critical infrastructure demands.`,
+    cta: `Call (877) 497-0007 for emergency data center or technology facility assessment. We deploy with the precision environmental capability Herndon's critical infrastructure demands.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ Our Herndon data center team addresses these interrelated challenges. We stabili
   ],
   finalCTA: {
     headline: `Data Center or Technology Facility Emergency in Herndon?`,
-    paragraph: `Critical computing infrastructure faces permanent damage within hours. Our precision environmental and anti-corrosion teams respond to Herndon data centers and technology facilities within 30 minutes. Call (703) 285-1106 immediately.`,
+    paragraph: `Critical computing infrastructure faces permanent damage within hours. Our precision environmental and anti-corrosion teams respond to Herndon data centers and technology facilities within 30 minutes. Call (877) 497-0007 immediately.`,
   },
 }

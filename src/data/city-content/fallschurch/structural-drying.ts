@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Falls Church, VA | Flood Doctor',
-    description: `Falls Church structural drying for historic bungalows, Lake Barcroft homes & apartments. 30-min response to Falls Church City, Seven Corners & Pimmit Hills. Call (703) 285-1100.`,
+    description: `Falls Church structural drying for historic bungalows, Lake Barcroft homes & apartments. 30-min response to Falls Church City, Seven Corners & Pimmit Hills. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Falls Church, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians develop property-specific drying plans: desiccan
   processSteps: [
     {
       title: 'Fast Local Response',
-      description: `Call (703) 285-1100 and our crews arrive within 30 minutes. We reach Falls Church City, Seven Corners, Baileys Crossroads, Lake Barcroft, and Pimmit Hills from nearby staging — responding as a community partner familiar with every neighborhood.`,
+      description: `Call (877) 497-0007 and our crews arrive within 30 minutes. We reach Falls Church City, Seven Corners, Baileys Crossroads, Lake Barcroft, and Pimmit Hills from nearby staging — responding as a community partner familiar with every neighborhood.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -120,7 +120,7 @@ Our IICRC-certified technicians develop property-specific drying plans: desiccan
       'Multi-unit coordination — apartment events with multiple affected units require project management and individual documentation',
       'Water contamination — sewer lateral failures require hazardous protocols that increase treatment scope',
     ],
-    cta: `Call (703) 285-1100 for a property-specific assessment. We evaluate your Falls Church home, explain the approach, and provide clear estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for a property-specific assessment. We evaluate your Falls Church home, explain the approach, and provide clear estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -172,6 +172,6 @@ Our IICRC-certified technicians develop property-specific drying plans: desiccan
   ],
   finalCTA: {
     headline: 'Water Damage in Your Falls Church Home?',
-    paragraph: 'Whether your property is a historic Falls Church City bungalow, a Lake Barcroft lakefront home, or a Seven Corners apartment, water damage demands immediate professional response. Our crews arrive within 30 minutes with the right equipment for your property type. Call (703) 285-1100.',
+    paragraph: 'Whether your property is a historic Falls Church City bungalow, a Lake Barcroft lakefront home, or a Seven Corners apartment, water damage demands immediate professional response. Our crews arrive within 30 minutes with the right equipment for your property type. Call (877) 497-0007.',
   },
 }

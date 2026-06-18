@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's trusted commercial fire and smoke restoration specialists. Emergency response for data center facilities, retail centers, and new construction commercial properties. Call (703) 285-1100.`,
+    description: `Ashburn's trusted commercial fire and smoke restoration specialists. Emergency response for data center facilities, retail centers, and new construction commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Ashburn, Virginia`,
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       `Mixed-use coordination—multi-occupancy buildings require segmented documentation and scheduling`,
       `HOA compliance—community-governed properties may have additional restoration standards`,
     ],
-    cta: `Call (703) 285-1100 for immediate commercial fire emergency response in Ashburn. Our teams understand modern building fire dynamics and deploy restoration calibrated for contemporary Ashburn commercial construction.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Ashburn. Our teams understand modern building fire dynamics and deploy restoration calibrated for contemporary Ashburn commercial construction.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -161,6 +161,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Ashburn?`,
-    paragraph: `Modern Ashburn buildings amplify smoke damage through centralized HVAC and sealed construction. Our fire restoration teams understand contemporary building science and deploy adapted approaches for rapid, thorough recovery. Call (703) 285-1100 for immediate emergency response.`,
+    paragraph: `Modern Ashburn buildings amplify smoke damage through centralized HVAC and sealed construction. Our fire restoration teams understand contemporary building science and deploy adapted approaches for rapid, thorough recovery. Call (877) 497-0007 for immediate emergency response.`,
   },
 }

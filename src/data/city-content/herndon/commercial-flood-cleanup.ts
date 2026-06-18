@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Herndon, VA | Flood Doctor',
-    description: `Herndon commercial flood cleanup. Data center facilities, downtown businesses & Dulles corridor office parks. Industrial extraction and contamination management. Call (703) 285-1106.`,
+    description: `Herndon commercial flood cleanup. Data center facilities, downtown businesses & Dulles corridor office parks. Industrial extraction and contamination management. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Herndon, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams deploy to Herndon with the dual capability this marke
   processSteps: [
     {
       title: 'Priority Technology-Aware Dispatch',
-      description: `Call (703) 285-1106 for immediate flood response. Our dispatcher determines whether IT infrastructure is at risk, deploying crews with appropriate equipment—anti-corrosion systems and environmental controls for data facilities, standard industrial extraction for commercial offices and retail.`,
+      description: `Call (877) 497-0007 for immediate flood response. Our dispatcher determines whether IT infrastructure is at risk, deploying crews with appropriate equipment—anti-corrosion systems and environmental controls for data facilities, standard industrial extraction for commercial offices and retail.`,
       timeframe: 'Within 30-45 minutes',
     },
     {
@@ -114,7 +114,7 @@ Our commercial flood teams deploy to Herndon with the dual capability this marke
       'Multi-tenant technology concentration—multiple IT environments at risk in one building multiply protection scope',
       'Environmental monitoring duration—technology spaces requiring extended environmental parameter maintenance carry ongoing monitoring costs',
     ],
-    cta: `Call (703) 285-1106 for emergency commercial flood response. Our Herndon team assesses IT exposure on arrival and deploys the appropriate protection alongside industrial flood cleanup.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. Our Herndon team assesses IT exposure on arrival and deploys the appropriate protection alongside industrial flood cleanup.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -137,7 +137,7 @@ Our commercial flood teams deploy to Herndon with the dual capability this marke
   faqs: [
     {
       question: 'Can you respond to a cooling system flood in our data facility?',
-      answer: 'Yes. Our crews deploy with anti-corrosion treatments, environmental controls, and raised-floor drying equipment within 30 minutes. We understand data facility layouts and equipment sensitivity. Call (703) 285-1106 immediately—corrosion begins within hours of water exposure.',
+      answer: 'Yes. Our crews deploy with anti-corrosion treatments, environmental controls, and raised-floor drying equipment within 30 minutes. We understand data facility layouts and equipment sensitivity. Call (877) 497-0007 immediately—corrosion begins within hours of water exposure.',
     },
     {
       question: 'What about storm flooding in our Downtown Herndon restaurant?',

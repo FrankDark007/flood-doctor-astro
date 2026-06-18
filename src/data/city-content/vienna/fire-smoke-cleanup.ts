@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage in Vienna, VA | Flood Doctor',
-    description: 'Professional fire damage restoration in Vienna, VA. 24/7 emergency response for fire, smoke, and water damage from firefighting. IICRC-certified technicians serving Vienna Town, Oakton, Dunn Loring, and Wolf Trap. Call (703) 656-0105.',
+    description: 'Professional fire damage restoration in Vienna, VA. 24/7 emergency response for fire, smoke, and water damage from firefighting. IICRC-certified technicians serving Vienna Town, Oakton, Dunn Loring, and Wolf Trap. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Vienna, Virginia',
   introSection: {
@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       'Fire damage strikes on multiple fronts. The fire itself destroys structural materials and personal belongings. Smoke penetrates every surface in your home—through HVAC ductwork, into wall cavities, behind cabinetry, and deep into porous materials like carpet, upholstery, and clothing. Then there is the water. Fire departments use thousands of gallons to suppress even a modest house fire, saturating structures from attic to basement. Every one of these damage vectors requires specialized restoration techniques, and they all need to begin immediately.',
       `At Flood Doctor, our IICRC-certified fire damage restoration teams have restored hundreds of Vienna homes—from kitchen fires in Church Street colonials to major structural fires in Oakton estates. We handle every phase of recovery: emergency board-up within hours of fire department clearance, water extraction from firefighting efforts, comprehensive smoke and soot removal, odor elimination using industrial-grade equipment, careful contents pack-out and restoration, and complete structural reconstruction that preserves your home's architectural character.`,
       'Fire damage is one of the most complex restoration scenarios a homeowner can face. It combines structural compromise, chemical contamination from smoke and soot, water damage, and emotional devastation. Our approach addresses all of it—methodically, compassionately, and with the technical expertise that comes from years of restoring fire-damaged properties across Northern Virginia.',
-      'We understand that after a fire, you need answers and action—not sales pitches. When you call (703) 656-0105, we dispatch a certified project manager to your Vienna home who will assess the full scope of damage, explain exactly what restoration involves, coordinate with your insurance company from day one, and begin emergency mitigation work the same day. Our goal is simple: return your home to pre-fire condition, or better, as efficiently as possible.',
+      'We understand that after a fire, you need answers and action—not sales pitches. When you call (877) 497-0007, we dispatch a certified project manager to your Vienna home who will assess the full scope of damage, explain exactly what restoration involves, coordinate with your insurance company from day one, and begin emergency mitigation work the same day. Our goal is simple: return your home to pre-fire condition, or better, as efficiently as possible.',
     ],
     localContext: `Vienna's housing stock presents unique fire restoration challenges. The community's beloved 1950s-70s colonials feature original knob-and-tube or aluminum wiring, plaster walls, and hardwood floors that require period-appropriate restoration techniques. Larger homes in Oakton and Tysons Woods have complex HVAC systems where smoke spreads rapidly through ductwork, contaminating rooms far from the fire origin. Whether your home is a compact Dunn Loring townhome or a sprawling Wolf Trap estate, our technicians adapt restoration strategies to your property's specific construction, age, and architectural details.`,
   },
@@ -148,7 +148,7 @@ export const content: CityServiceContent = {
       'Reconstruction requirements — cosmetic repairs versus structural rebuilding, and whether period-appropriate materials and craftsmanship are needed for historic homes',
       'Home size and construction type — larger homes with complex HVAC systems, multiple levels, and finished basements require more equipment, labor, and time',
     ],
-    cta: 'Call (703) 656-0105 for an on-site assessment and detailed estimate. We coordinate directly with your insurance company and provide comprehensive documentation supporting your claim.',
+    cta: 'Call (877) 497-0007 for an on-site assessment and detailed estimate. We coordinate directly with your insurance company and provide comprehensive documentation supporting your claim.',
   },
   serviceAreaSection: {
     neighborhoods: ['Vienna Town', 'Oakton', 'Dunn Loring', 'Wolf Trap', 'Clarks Crossing', 'Tysons Woods'],
@@ -157,7 +157,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: 'How quickly can you respond after a fire in Vienna?',
-      answer: 'We arrive within 45-60 minutes of fire department clearance, 24 hours a day, 7 days a week. Call (703) 656-0105 as soon as the fire is extinguished and you have permission to access the property. Our emergency crew begins board-up, water extraction, and initial assessment immediately. For fires reported during business hours, a dedicated project manager accompanies the emergency crew. For after-hours calls, a project manager arrives within 2-4 hours to begin insurance coordination and detailed scope development.',
+      answer: 'We arrive within 45-60 minutes of fire department clearance, 24 hours a day, 7 days a week. Call (877) 497-0007 as soon as the fire is extinguished and you have permission to access the property. Our emergency crew begins board-up, water extraction, and initial assessment immediately. For fires reported during business hours, a dedicated project manager accompanies the emergency crew. For after-hours calls, a project manager arrives within 2-4 hours to begin insurance coordination and detailed scope development.',
     },
     {
       question: 'Why is there so much water damage after a fire?',

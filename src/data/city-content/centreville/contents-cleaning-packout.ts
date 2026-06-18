@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Centreville, VA | Flood Doctor',
-    description: `Centreville contents cleaning and pack-out services. Protect belongings during water damage restoration. Virginia Run, Centre Ridge & Sully Station. Call (703) 285-1103.`,
+    description: `Centreville contents cleaning and pack-out services. Protect belongings during water damage restoration. Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out in Centreville, Virginia',
   introSection: {
@@ -107,7 +107,7 @@ Every item is photographed, barcoded, and inventoried before packing. This detai
       'Item types—electronics, documents, soft goods, and hard goods each have specific restoration approaches',
       'Storage duration—longer restoration projects require extended climate-controlled storage',
     ],
-    cta: `Call (703) 285-1103 to discuss contents protection during your restoration project. We provide free assessments and handle all insurance coordination.`,
+    cta: `Call (877) 497-0007 to discuss contents protection during your restoration project. We provide free assessments and handle all insurance coordination.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ Every item is photographed, barcoded, and inventoried before packing. This detai
   ],
   finalCTA: {
     headline: 'Need Contents Protection During Restoration?',
-    paragraph: `Your belongings deserve the same professional care as your home's structure. Call (703) 285-1103 for contents assessment, professional pack-out, and specialized cleaning—all coordinated with your restoration project and insurance claim.`,
+    paragraph: `Your belongings deserve the same professional care as your home's structure. Call (877) 497-0007 for contents assessment, professional pack-out, and specialized cleaning—all coordinated with your restoration project and insurance claim.`,
   },
 }

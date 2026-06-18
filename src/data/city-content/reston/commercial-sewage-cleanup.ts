@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Reston, VA | Flood Doctor`,
-    description: `Reston's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for Town Center offices, retail complexes, and HOA-governed commercial properties. Call (703) 285-1109.`,
+    description: `Reston's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for Town Center offices, retail complexes, and HOA-governed commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Reston, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Rapid Deployment Across Reston`,
-      description: `Call (703) 285-1109 and our hazmat crew deploys to your Reston commercial property. We reach Town Center, Lake Anne, South Lakes, Hunters Woods, and North Point commercial areas within our response guarantee, establishing containment and coordinating with property management and any applicable Reston Association contacts.`,
+      description: `Call (877) 497-0007 and our hazmat crew deploys to your Reston commercial property. We reach Town Center, Lake Anne, South Lakes, Hunters Woods, and North Point commercial areas within our response guarantee, establishing containment and coordinating with property management and any applicable Reston Association contacts.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
       `Health department requirements—restaurants and food service establishments need additional compliance steps`,
       `Underground infrastructure—parking structures and below-grade retail require specialized concrete decontamination`,
     ],
-    cta: `Call (703) 285-1109 for immediate commercial sewage emergency response in Reston. We serve Town Center, Lake Anne, South Lakes, Hunters Woods, and all Reston commercial areas with community-aware hazmat expertise.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Reston. We serve Town Center, Lake Anne, South Lakes, Hunters Woods, and all Reston commercial areas with community-aware hazmat expertise.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -153,6 +153,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Reston?`,
-    paragraph: `From Town Center's urban core to Lake Anne's community plaza, our OSHA-compliant hazmat crews deliver rapid remediation with Reston community awareness. Call (703) 285-1109 for immediate containment, decontamination, and compliance documentation.`,
+    paragraph: `From Town Center's urban core to Lake Anne's community plaza, our OSHA-compliant hazmat crews deliver rapid remediation with Reston community awareness. Call (877) 497-0007 for immediate containment, decontamination, and compliance documentation.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Great Falls, VA | Flood Doctor`,
-    description: `Great Falls' commercial and estate facility restoration specialists. Water damage restoration for equestrian facilities, estate operations, and Georgetown Pike commercial properties. Call (703) 285-1100.`,
+    description: `Great Falls' commercial and estate facility restoration specialists. Water damage restoration for equestrian facilities, estate operations, and Georgetown Pike commercial properties. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Great Falls, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our estate facility restoration addresses both the structural damage and the ext
   processSteps: [
     {
       title: `Emergency Response and Estate Coordination`,
-      description: `Call (703) 285-1100 for immediate facility response. For estate properties, we coordinate with estate managers or property caretakers for access. For equestrian facilities, we coordinate with stable managers to ensure animal safety during restoration mobilization.`,
+      description: `Call (877) 497-0007 for immediate facility response. For estate properties, we coordinate with estate managers or property caretakers for access. For equestrian facilities, we coordinate with stable managers to ensure animal safety during restoration mobilization.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -120,7 +120,7 @@ Our estate facility restoration addresses both the structural damage and the ext
       `Property access logistics—remote estate facilities may require specialized equipment deployment`,
       `Well and septic system involvement—private utility failures add scope beyond standard water damage restoration`,
     ],
-    cta: `Call (703) 285-1100 for emergency estate facility assessment. We coordinate with estate managers and specialty vendors to provide comprehensive restoration for Great Falls' unique property types.`,
+    cta: `Call (877) 497-0007 for emergency estate facility assessment. We coordinate with estate managers and specialty vendors to provide comprehensive restoration for Great Falls' unique property types.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ Our estate facility restoration addresses both the structural damage and the ext
   ],
   finalCTA: {
     headline: `Estate Facility Emergency in Great Falls?`,
-    paragraph: `High-value equipment and collections face increasing damage every hour. Our crews respond to Great Falls estate facilities within 45 minutes with industrial extraction equipment and the asset protection expertise your property demands. Call (703) 285-1100 now.`,
+    paragraph: `High-value equipment and collections face increasing damage every hour. Our crews respond to Great Falls estate facilities within 45 minutes with industrial extraction equipment and the asset protection expertise your property demands. Call (877) 497-0007 now.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Herndon, VA | Flood Doctor',
-    description: 'Herndon sewage backup cleanup. Biohazard-certified crews for sewer overflow, septic failure & drain backups. Fox Mill, Downtown, Worldgate. Call (703) 656-0108.',
+    description: 'Herndon sewage backup cleanup. Biohazard-certified crews for sewer overflow, septic failure & drain backups. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in Herndon, Virginia',
   introSection: {
@@ -63,7 +63,7 @@ export const content: CityServiceContent = {
       'HOA billing coordination — master policy plus individual claims running in parallel require coordinated documentation',
       'Pipe replacement recommendations — galvanized stack replacement is most efficient when coordinated across the entire row',
     ],
-    cta: 'Call (703) 656-0108 immediately for sewage emergencies. Multi-unit events escalate rapidly — every hour means additional units may be affected through shared lateral connections. We deploy parallel crews and coordinate with HOA management from the first call.',
+    cta: 'Call (877) 497-0007 immediately for sewage emergencies. Multi-unit events escalate rapidly — every hour means additional units may be affected through shared lateral connections. We deploy parallel crews and coordinate with HOA management from the first call.',
   },
   serviceAreaSection: {
     neighborhoods: [

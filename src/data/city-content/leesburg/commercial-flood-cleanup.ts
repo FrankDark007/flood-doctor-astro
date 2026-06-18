@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Flood Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Emergency commercial flood cleanup for Leesburg businesses. Downtown buildings, Village at Leesburg retail, office parks. 24/7 response. Call (703) 285-1107.`,
+    description: `Emergency commercial flood cleanup for Leesburg businesses. Downtown buildings, Village at Leesburg retail, office parks. 24/7 response. Call (877) 497-0007.`,
   },
   h1: `Leesburg Commercial Flood Cleanup`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Commercial Dispatch`,
-      description: `Call (703) 285-1107 for immediate response. Commercial floods receive priority dispatch with multiple crews and high-capacity equipment deployed simultaneously.`,
+      description: `Call (877) 497-0007 for immediate response. Commercial floods receive priority dispatch with multiple crews and high-capacity equipment deployed simultaneously.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Inventory damage extent and documentation needs`,
       `After-hours and expedited service requirements`,
     ],
-    cta: `Call (703) 285-1107 for emergency commercial flood response — we are available 24/7.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response — we are available 24/7.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `Can you respond to a commercial flood after business hours?`,
-      answer: `Yes. We provide 24/7 commercial emergency response. After-hours, weekend, and holiday floods receive the same rapid dispatch as daytime emergencies. Call (703) 285-1107 any time.`,
+      answer: `Yes. We provide 24/7 commercial emergency response. After-hours, weekend, and holiday floods receive the same rapid dispatch as daytime emergencies. Call (877) 497-0007 any time.`,
     },
     {
       question: `How do you handle flooding in multi-tenant buildings?`,
@@ -127,6 +127,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Commercial Flood in Leesburg? Every Minute Costs Revenue`,
-    paragraph: `Get your Leesburg business back on its feet fast. Flood Doctor provides emergency commercial flood cleanup with the capacity, speed, and expertise to minimize your downtime. Call (703) 285-1107 now for immediate response.`,
+    paragraph: `Get your Leesburg business back on its feet fast. Flood Doctor provides emergency commercial flood cleanup with the capacity, speed, and expertise to minimize your downtime. Call (877) 497-0007 now for immediate response.`,
   },
 }

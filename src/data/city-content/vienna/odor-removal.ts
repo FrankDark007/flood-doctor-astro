@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Vienna, VA | Flood Doctor',
-    description: `Vienna's odor elimination specialists. Permanent treatment for musty basements, smoke & sewage odors in Vienna Town, Oakton & Wolf Trap homes. Call (703) 285-1112.`,
+    description: `Vienna's odor elimination specialists. Permanent treatment for musty basements, smoke & sewage odors in Vienna Town, Oakton & Wolf Trap homes. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Vienna, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians trace every odor to its origin using diagnostic tools that revea
   processSteps: [
     {
       title: 'Thorough Source Investigation',
-      description: `Call (703) 285-1112 and we schedule a comprehensive assessment. We trace odors to their origin in your Vienna Town colonial, Oakton home, or Wolftrap-area property using borescopes, moisture meters, and UV inspection — finding what is causing the smell, not just where the smell is strongest.`,
+      description: `Call (877) 497-0007 and we schedule a comprehensive assessment. We trace odors to their origin in your Vienna Town colonial, Oakton home, or Wolftrap-area property using borescopes, moisture meters, and UV inspection — finding what is causing the smell, not just where the smell is strongest.`,
       timeframe: 'Initial visit',
     },
     {
@@ -113,7 +113,7 @@ Our technicians trace every odor to its origin using diagnostic tools that revea
       'HVAC system scope — multi-zone systems in larger Vienna homes require comprehensive ductwork treatment',
       'Source remediation needs — removing contaminated materials or repairing infrastructure adds to the overall project scope',
     ],
-    cta: `Call (703) 285-1112 for a professional odor assessment. We find the source, explain treatment options, and provide a clear estimate for your Vienna property.`,
+    cta: `Call (877) 497-0007 for a professional odor assessment. We find the source, explain treatment options, and provide a clear estimate for your Vienna property.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ Our technicians trace every odor to its origin using diagnostic tools that revea
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Vienna Home?',
-    paragraph: 'Odors that resist cleaning indicate contamination embedded in materials and building systems beyond your reach. Our Vienna deodorization team traces the source, eliminates the molecules, and ensures the smell never returns. Call (703) 285-1112 for a professional assessment.',
+    paragraph: 'Odors that resist cleaning indicate contamination embedded in materials and building systems beyond your reach. Our Vienna deodorization team traces the source, eliminates the molecules, and ensures the smell never returns. Call (877) 497-0007 for a professional assessment.',
   },
 }

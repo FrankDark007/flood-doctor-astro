@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Leesburg, VA | Flood Doctor`,
-    description: `Water damage and restoration for Leesburg industrial and warehouse facilities. Large-scale extraction, equipment protection, rapid recovery. Call (703) 285-1107.`,
+    description: `Water damage and restoration for Leesburg industrial and warehouse facilities. Large-scale extraction, equipment protection, rapid recovery. Call (877) 497-0007.`,
   },
   h1: `Leesburg Industrial Facility Restoration`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Industrial Response`,
-      description: `Call (703) 285-1107 for immediate industrial facility response. Our project manager assesses the situation, coordinates with facility management, and deploys appropriate resources based on facility type and damage scope.`,
+      description: `Call (877) 497-0007 for immediate industrial facility response. Our project manager assesses the situation, coordinates with facility management, and deploys appropriate resources based on facility type and damage scope.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Production urgency and phased restoration needs`,
       `Hazardous material involvement and environmental compliance`,
     ],
-    cta: `Call (703) 285-1107 for emergency industrial facility response.`,
+    cta: `Call (877) 497-0007 for emergency industrial facility response.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,6 +131,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Industrial Facility Emergency in Leesburg?`,
-    paragraph: `Production downtime costs your business every hour. Flood Doctor provides industrial-scale restoration with the capacity and urgency that Leesburg's warehouses and manufacturing facilities demand. Call (703) 285-1107 for immediate response.`,
+    paragraph: `Production downtime costs your business every hour. Flood Doctor provides industrial-scale restoration with the capacity and urgency that Leesburg's warehouses and manufacturing facilities demand. Call (877) 497-0007 for immediate response.`,
   },
 }

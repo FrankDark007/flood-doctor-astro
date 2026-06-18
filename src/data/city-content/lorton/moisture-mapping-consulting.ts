@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Lorton, VA | Flood Doctor',
-    description: `Lorton moisture mapping experts. Infrared thermography for new construction, Occoquan waterfront homes & wooded lots in Laurel Hill, Mason Neck & South County. Call (703) 285-1100.`,
+    description: `Lorton moisture mapping experts. Infrared thermography for new construction, Occoquan waterfront homes & wooded lots in Laurel Hill, Mason Neck & South County. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Lorton, Virginia',
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       'Builder warranty investigation depth including defect pathway documentation and code compliance review',
       'Insurance documentation detail and ongoing drying monitoring requirements',
     ],
-    cta: `Call (703) 285-1100 for a consultation. We evaluate your Lorton property environment and provide a scope-appropriate assessment proposal.`,
+    cta: `Call (877) 497-0007 for a consultation. We evaluate your Lorton property environment and provide a scope-appropriate assessment proposal.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Spring Hill',
       'Halley Farm',
     ],
-    responseTime: `Same-day moisture assessment throughout Lorton and South Fairfax County. Emergency response within 2 hours for active flooding events. Call (703) 285-1100.`,
+    responseTime: `Same-day moisture assessment throughout Lorton and South Fairfax County. Emergency response within 2 hours for active flooding events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -159,6 +159,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Assessment for Your Lorton Property?',
-    paragraph: `From Laurel Hill new construction to Occoquan waterfront and wooded South County lots, our scientific moisture mapping provides the data you need for informed restoration decisions. Call (703) 285-1100 for a professional assessment.`,
+    paragraph: `From Laurel Hill new construction to Occoquan waterfront and wooded South County lots, our scientific moisture mapping provides the data you need for informed restoration decisions. Call (877) 497-0007 for a professional assessment.`,
   },
 }

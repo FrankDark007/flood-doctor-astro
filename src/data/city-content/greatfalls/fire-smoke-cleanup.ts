@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls fire damage restoration. Smoke, soot & water damage from firefighting. Protecting art, wine collections & irreplaceable assets. Call (703) 656-0112.',
+    description: 'Great Falls fire damage restoration. Smoke, soot & water damage from firefighting. Protecting art, wine collections & irreplaceable assets. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Great Falls, Virginia',
   introSection: {
@@ -137,7 +137,7 @@ Our IICRC-certified fire restorers understand that Great Falls fire recovery mea
       'Odor elimination scope and method—hydroxyl generation for art-safe environments versus thermal fogging for structural spaces',
       'Restoration coordination for custom millwork, plaster, and specialty finishes that require artisan-level repair',
     ],
-    cta: 'Call (703) 656-0112 as soon as fire crews clear your property for entry. We respond within 30 minutes to begin protecting your assets from ongoing smoke, soot, and water damage. Free assessment and insurance coordination included.',
+    cta: 'Call (877) 497-0007 as soon as fire crews clear your property for entry. We respond within 30 minutes to begin protecting your assets from ongoing smoke, soot, and water damage. Free assessment and insurance coordination included.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -161,7 +161,7 @@ Our IICRC-certified fire restorers understand that Great Falls fire recovery mea
   faqs: [
     {
       question: 'How quickly can you respond after a fire in Great Falls?',
-      answer: 'We respond within 30 minutes of fire department clearance. Smoke and soot damage worsens hourly—the sooner we begin, the more we can save. Call (703) 656-0112 as soon as fire crews indicate the property is safe for entry, or even before for scheduling.',
+      answer: 'We respond within 30 minutes of fire department clearance. Smoke and soot damage worsens hourly—the sooner we begin, the more we can save. Call (877) 497-0007 as soon as fire crews indicate the property is safe for entry, or even before for scheduling.',
     },
     {
       question: 'Can you protect my art collection after a fire?',

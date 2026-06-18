@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Basement Flooding Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Expert basement flooding cleanup for Leesburg properties. Stone foundation specialists, Lansdowne estate basements, sump pump failure recovery. Call (703) 285-1107.`,
+    description: `Expert basement flooding cleanup for Leesburg properties. Stone foundation specialists, Lansdowne estate basements, sump pump failure recovery. Call (877) 497-0007.`,
   },
   h1: `Leesburg Basement Flooding Cleanup`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Pumping`,
-      description: `Call (703) 285-1107 for immediate response. Submersible pumps begin removing standing water from your Leesburg basement within minutes of arrival, even during ongoing rain events.`,
+      description: `Call (877) 497-0007 for immediate response. Submersible pumps begin removing standing water from your Leesburg basement within minutes of arrival, even during ongoing rain events.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -90,7 +90,7 @@ export const content: CityServiceContent = {
       `Foundation type — stone, block, or poured concrete`,
       `Sump pump repair or replacement needs`,
     ],
-    cta: `Call (703) 285-1107 for emergency basement flooding response and a free assessment.`,
+    cta: `Call (877) 497-0007 for emergency basement flooding response and a free assessment.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -127,7 +127,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `My sump pump failed during the storm. Now what?`,
-      answer: `Call (703) 285-1107 for emergency pumping. We deploy portable pumps to replace your failed system immediately. After the crisis, we recommend battery backup and water-powered backup systems to prevent future failures.`,
+      answer: `Call (877) 497-0007 for emergency pumping. We deploy portable pumps to replace your failed system immediately. After the crisis, we recommend battery backup and water-powered backup systems to prevent future failures.`,
     },
     {
       question: `Is basement flooding covered by insurance?`,
@@ -145,6 +145,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Basement Flooding in Leesburg? Act Now`,
-    paragraph: `Every hour of standing water increases damage to your basement, foundation, and belongings. Flood Doctor provides rapid extraction, expert drying, and complete restoration for every Leesburg basement type. Call (703) 285-1107 for immediate 24/7 response.`,
+    paragraph: `Every hour of standing water increases damage to your basement, foundation, and belongings. Flood Doctor provides rapid extraction, expert drying, and complete restoration for every Leesburg basement type. Call (877) 497-0007 for immediate 24/7 response.`,
   },
 }

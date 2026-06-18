@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Municipal & Education Facility Restoration in Chantilly, VA | Flood Doctor',
-    description: `Municipal and school building restoration in Chantilly. Government facility and Fairfax County school water damage specialists. Call (703) 285-1104.`,
+    description: `Municipal and school building restoration in Chantilly. Government facility and Fairfax County school water damage specialists. Call (877) 497-0007.`,
   },
   h1: 'Municipal & Education Facility Restoration in Chantilly, Virginia',
   introSection: {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Government documentation standards—procurement compliance adds administrative requirements`,
       `Specialty spaces—gymnasiums, laboratories, commercial kitchens, and technology labs require specific approaches`,
     ],
-    cta: `Call (703) 285-1104 for municipal and education facility restoration. We understand public facility requirements and respond with appropriate urgency and compliance.`,
+    cta: `Call (877) 497-0007 for municipal and education facility restoration. We understand public facility requirements and respond with appropriate urgency and compliance.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,6 +131,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Public Facility Emergency in Chantilly?',
-    paragraph: `Schools and public buildings serve Chantilly's community every day. Our public facility team responds within 30 minutes with the scale, compliance, and urgency your facility requires. Call (703) 285-1104 now.`,
+    paragraph: `Schools and public buildings serve Chantilly's community every day. Our public facility team responds within 30 minutes with the scale, compliance, and urgency your facility requires. Call (877) 497-0007 now.`,
   },
 }

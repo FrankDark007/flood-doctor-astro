@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hospitality & Multifamily Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville hospitality and multifamily restoration. Hotels, apartment communities & condo buildings. Minimize tenant displacement. Call (703) 285-1103.`,
+    description: `Centreville hospitality and multifamily restoration. Hotels, apartment communities & condo buildings. Minimize tenant displacement. Call (877) 497-0007.`,
   },
   h1: 'Hospitality & Multifamily Restoration in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our multifamily team provides the project management layer that makes complex mu
   processSteps: [
     {
       title: 'Emergency Multi-Unit Response',
-      description: `Call (703) 285-1103 for immediate response. We dispatch crews sized for multi-unit events and begin mitigation in the most severely affected units first while assessing the full scope across all potentially affected units.`,
+      description: `Call (877) 497-0007 for immediate response. We dispatch crews sized for multi-unit events and begin mitigation in the most severely affected units first while assessing the full scope across all potentially affected units.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -110,7 +110,7 @@ Our multifamily team provides the project management layer that makes complex mu
       'Building type—apartment, condominium, and hotel construction each have different restoration approaches',
       'Revenue impact—expedited scheduling for hospitality properties may involve premium labor rates',
     ],
-    cta: `Call (703) 285-1103 for multifamily water damage response. We bring the multi-unit expertise and project management your property requires.`,
+    cta: `Call (877) 497-0007 for multifamily water damage response. We bring the multi-unit expertise and project management your property requires.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -161,6 +161,6 @@ Our multifamily team provides the project management layer that makes complex mu
   ],
   finalCTA: {
     headline: 'Multifamily or Hospitality Damage in Centreville?',
-    paragraph: `Multi-unit events require multi-unit expertise. Call (703) 285-1103 for coordinated restoration that minimizes tenant displacement and returns your property to full operation as quickly as possible.`,
+    paragraph: `Multi-unit events require multi-unit expertise. Call (877) 497-0007 for coordinated restoration that minimizes tenant displacement and returns your property to full operation as quickly as possible.`,
   },
 }

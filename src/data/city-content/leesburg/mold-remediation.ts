@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Mold Remediation in Leesburg, VA | Flood Doctor`,
-    description: `Professional mold remediation for Leesburg's historic and modern homes. Stone foundation mold, basement mold, and crawl space specialists. Call (703) 285-1107.`,
+    description: `Professional mold remediation for Leesburg's historic and modern homes. Stone foundation mold, basement mold, and crawl space specialists. Call (877) 497-0007.`,
   },
   h1: `Leesburg Mold Remediation Services`,
   introSection: {
@@ -90,7 +90,7 @@ export const content: CityServiceContent = {
       `Need for third-party testing and clearance verification`,
       `Underlying moisture source correction requirements`,
     ],
-    cta: `Call (703) 285-1107 for a professional mold inspection and remediation estimate.`,
+    cta: `Call (877) 497-0007 for a professional mold inspection and remediation estimate.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -148,6 +148,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Protect Your Leesburg Home from Mold`,
-    paragraph: `Mold damages your property and affects your family's health. Whether you suspect hidden mold in a historic downtown home or have visible growth in your Lansdowne basement, Flood Doctor provides expert remediation that solves the problem permanently. Call (703) 285-1107 today.`,
+    paragraph: `Mold damages your property and affects your family's health. Whether you suspect hidden mold in a historic downtown home or have visible growth in your Lansdowne basement, Flood Doctor provides expert remediation that solves the problem permanently. Call (877) 497-0007 today.`,
   },
 }

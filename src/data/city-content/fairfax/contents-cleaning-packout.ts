@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Fairfax, VA | Flood Doctor',
-    description: `Fairfax's trusted contents restoration specialists. Professional pack-out & cleaning for family belongings after water, fire & mold damage. Burke, Mantua, Kings Park. Call (703) 285-1105.`,
+    description: `Fairfax's trusted contents restoration specialists. Professional pack-out & cleaning for family belongings after water, fire & mold damage. Burke, Mantua, Kings Park. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Fairfax, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ At our climate-controlled facility, items receive treatment matched to their mat
   processSteps: [
     {
       title: 'Emergency Triage of Priority Items',
-      description: `Within 30 minutes of your call to (703) 285-1105, we arrive to identify time-sensitive items. Water-damaged documents, photos, and children's artwork are bagged for emergency freezing. Electronics are disconnected for corrosion prevention. Sentimental items that cannot wait for the full pack-out are stabilized immediately.`,
+      description: `Within 30 minutes of your call to (877) 497-0007, we arrive to identify time-sensitive items. Water-damaged documents, photos, and children's artwork are bagged for emergency freezing. Electronics are disconnected for corrosion prevention. Sentimental items that cannot wait for the full pack-out are stabilized immediately.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -106,7 +106,7 @@ At our climate-controlled facility, items receive treatment matched to their mat
       'Storage duration — longer structural restoration timelines extend climate-controlled storage periods and associated costs',
       'Documentation complexity — detailed sentimental item documentation and enhanced photography for high-value claims add assessment time',
     ],
-    cta: `Call (703) 285-1105 for immediate contents assessment. We triage time-sensitive items within hours and provide clear estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We triage time-sensitive items within hours and provide clear estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -162,6 +162,6 @@ At our climate-controlled facility, items receive treatment matched to their mat
   ],
   finalCTA: {
     headline: 'Family Belongings at Risk After Water Damage?',
-    paragraph: 'Documents, photographs, and electronics suffer irreversible damage with every hour of delay. Our Fairfax contents team responds within 30 minutes to stabilize time-sensitive items and begins the professional pack-out that protects everything your family treasures. Call (703) 285-1105 now.',
+    paragraph: 'Documents, photographs, and electronics suffer irreversible damage with every hour of delay. Our Fairfax contents team responds within 30 minutes to stabilize time-sensitive items and begins the professional pack-out that protects everything your family treasures. Call (877) 497-0007 now.',
   },
 }

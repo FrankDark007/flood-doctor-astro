@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Contents Cleaning & Pack-Out in Sterling, VA | Flood Doctor`,
-    description: `Sterling contents cleaning and pack-out services. Water, smoke & mold damage to personal belongings in Sterling Park, Cascades & Countryside homes. Call (703) 285-1111.`,
+    description: `Sterling contents cleaning and pack-out services. Water, smoke & mold damage to personal belongings in Sterling Park, Cascades & Countryside homes. Call (877) 497-0007.`,
   },
   h1: `Contents Cleaning & Pack-Out Services in Sterling, Virginia`,
   introSection: {
@@ -82,7 +82,7 @@ Our contents team works alongside structural crews, coordinating timing so belon
       `Storage duration—longer structural restoration projects increase climate-controlled storage costs`,
       `Pack-out logistics—townhome access constraints and multi-level Sterling Park homes affect labor requirements`,
     ],
-    cta: `Call (703) 285-1111 for contents assessment. We work with your insurance to cover contents cleaning and pack-out as part of your overall restoration claim.`,
+    cta: `Call (877) 497-0007 for contents assessment. We work with your insurance to cover contents cleaning and pack-out as part of your overall restoration claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -102,7 +102,7 @@ Our contents team works alongside structural crews, coordinating timing so belon
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Same-day contents assessment and emergency pack-out for water and fire damage situations. Priority handling for time-sensitive items like electronics and documents. Call (703) 285-1111.`,
+    responseTime: `Same-day contents assessment and emergency pack-out for water and fire damage situations. Priority handling for time-sensitive items like electronics and documents. Call (877) 497-0007.`,
   },
   faqs: [
     {

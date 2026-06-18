@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Herndon, VA | Flood Doctor',
-    description: `Herndon's trusted water damage restoration experts. 30-min response to Fox Mill, Downtown, Worldgate & Franklin Farm. Commercial & residential. Call (703) 656-0108.`,
+    description: `Herndon's trusted water damage restoration experts. 30-min response to Fox Mill, Downtown, Worldgate & Franklin Farm. Commercial & residential. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Herndon, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor has restored water-damaged properties throughout Herndon for nearly
 
 Our IICRC Master Water Restorers don't just pump water and leave. We understand that your McNair property requires precision drying to protect finished spaces, that your Downtown Herndon commercial lease has uptime requirements, and that your Worldgate townhome's open floor plan means water travels quickly between levels.`,
     ],
-    localContext: `Herndon's mix of established residential neighborhoods and commercial tech corridor requires restoration expertise that spans both sectors. We've protected homes in Fox Mill, businesses near Dulles, and everything in between since 2005.`,
+    localContext: `Herndon's mix of established residential neighborhoods and commercial tech corridor requires restoration expertise that spans both sectors. We've protected homes in Fox Mill, businesses near Dulles, and everything in between for years.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Herndon hotline at (703) 656-0108, we dispatch from our local facility immediately. Our trucks are positioned to reach Downtown Herndon, Fox Mill, Worldgate, Franklin Farm, and McNair within our 30-minute guarantee—not from a distant warehouse, but from the Herndon corridor where we're already stationed.`,
+      description: `When you call our Herndon hotline at (877) 497-0007, we dispatch from our local facility immediately. Our trucks are positioned to reach Downtown Herndon, Fox Mill, Worldgate, Franklin Farm, and McNair within our 30-minute guarantee—not from a distant warehouse, but from the Herndon corridor where we're already stationed.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
       'Property type—commercial facilities may have equipment, inventory, or uptime concerns affecting approach',
       'Duration before response—faster calls mean less damage spread and lower restoration costs',
     ],
-    cta: `Call (703) 656-0108 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -144,7 +144,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   faqs: [
     {
       question: 'How quickly should I call after discovering water damage in my Herndon property?',
-      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating into wall cavities, under floors, and through ceiling spaces. Whether you're in a Fox Mill home or Downtown Herndon commercial space, a few hours of delay can mean thousands of additional dollars in damage. Call (703) 656-0108 the moment you discover water.`,
+      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating into wall cavities, under floors, and through ceiling spaces. Whether you're in a Fox Mill home or Downtown Herndon commercial space, a few hours of delay can mean thousands of additional dollars in damage. Call (877) 497-0007 the moment you discover water.`,
     },
     {
       question: 'Can you save my hardwood floors after water damage?',

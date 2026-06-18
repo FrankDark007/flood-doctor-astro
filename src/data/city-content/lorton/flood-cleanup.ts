@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Lorton, VA | Flood Doctor',
-    description: 'Professional flood cleanup in Lorton. Occoquan River watershed flooding experts. Serving Mason Neck & waterfront properties. 24/7 response. Call (703) 656-0113.',
+    description: 'Professional flood cleanup in Lorton. Occoquan River watershed flooding experts. Serving Mason Neck & waterfront properties. 24/7 response. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup & Restoration in Lorton, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor has responded to every major flood event in Lorton for nearly two d
 
 Our IICRC-certified flood restoration crews understand that floodwater isn't clean water—it's contaminated Category 2 or 3 water requiring specialized cleanup protocols to protect your family's health.`,
     ],
-    localContext: `Lorton's flood risks range from Occoquan River overflow to tidal surge on Mason Neck to storm drainage backup throughout South County and Laurel Hill. We've restored flood-damaged homes throughout our watershed community since 2005.`,
+    localContext: `Lorton's flood risks range from Occoquan River overflow to tidal surge on Mason Neck to storm drainage backup throughout South County and Laurel Hill. We've restored flood-damaged homes throughout our watershed community for years.`,
   },
   processSteps: [
     {
       title: 'Emergency Flood Response',
-      description: `When flooding strikes Lorton, call (703) 656-0113 immediately. Our crews dispatch from South Fairfax County positions to reach flooded properties within 30 minutes—even during active weather events when many companies won't respond.`,
+      description: `When flooding strikes Lorton, call (877) 497-0007 immediately. Our crews dispatch from South Fairfax County positions to reach flooded properties within 30 minutes—even during active weather events when many companies won't respond.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -125,7 +125,7 @@ Our IICRC-certified flood restoration crews understand that floodwater isn't cle
       'Structural damage—some floods affect foundations, HVAC systems, electrical panels',
       'Insurance coverage—flood insurance versus homeowners coverage affects cost responsibility',
     ],
-    cta: `Call (703) 656-0113 for immediate flood cleanup response. We'll assess damage, begin cleanup, and coordinate with your insurance carriers—including FEMA flood insurance.`,
+    cta: `Call (877) 497-0007 for immediate flood cleanup response. We'll assess damage, begin cleanup, and coordinate with your insurance carriers—including FEMA flood insurance.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,7 +145,7 @@ Our IICRC-certified flood restoration crews understand that floodwater isn't cle
   faqs: [
     {
       question: 'What should I do when floodwater enters my Lorton home?',
-      answer: `First, ensure safety—don't enter floodwater if it might be electrically charged or deeper than a few inches. Move to higher ground if flooding is ongoing. Call us at (703) 656-0113 to report flooding and we'll dispatch immediately. Don't attempt cleanup yourself—floodwater contains contaminants requiring professional handling and protective equipment.`,
+      answer: `First, ensure safety—don't enter floodwater if it might be electrically charged or deeper than a few inches. Move to higher ground if flooding is ongoing. Call us at (877) 497-0007 to report flooding and we'll dispatch immediately. Don't attempt cleanup yourself—floodwater contains contaminants requiring professional handling and protective equipment.`,
     },
     {
       question: 'Is floodwater different from clean water damage?',

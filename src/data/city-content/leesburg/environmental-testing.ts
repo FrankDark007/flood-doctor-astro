@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Environmental Testing in Leesburg, VA | Flood Doctor`,
-    description: `Professional environmental testing for Leesburg properties. Mold, asbestos, lead, water quality, and contamination assessment. Call (703) 285-1107.`,
+    description: `Professional environmental testing for Leesburg properties. Mold, asbestos, lead, water quality, and contamination assessment. Call (877) 497-0007.`,
   },
   h1: `Leesburg Environmental Testing Services`,
   introSection: {
@@ -85,7 +85,7 @@ export const content: CityServiceContent = {
       `Reporting level — standard, expert, or litigation-support`,
       `Regulatory compliance documentation requirements`,
     ],
-    cta: `Call (703) 285-1107 for environmental testing consultation and proposal.`,
+    cta: `Call (877) 497-0007 for environmental testing consultation and proposal.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -143,6 +143,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Need Environmental Answers for Your Leesburg Property?`,
-    paragraph: `Environmental hazards require laboratory-verified data, not guesswork. Flood Doctor provides professional environmental testing for every concern affecting Leesburg properties — from lead and asbestos in historic homes to mold and water quality in modern construction. Call (703) 285-1107 to schedule testing.`,
+    paragraph: `Environmental hazards require laboratory-verified data, not guesswork. Flood Doctor provides professional environmental testing for every concern affecting Leesburg properties — from lead and asbestos in historic homes to mold and water quality in modern construction. Call (877) 497-0007 to schedule testing.`,
   },
 }

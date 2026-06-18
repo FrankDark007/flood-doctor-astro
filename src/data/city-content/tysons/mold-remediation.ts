@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Tysons, VA | Flood Doctor',
-    description: 'Tysons mold removal for commercial buildings & high-rises. HVAC system mold, multi-unit remediation, property management coordination. Call (703) 656-0106.',
+    description: 'Tysons mold removal for commercial buildings & high-rises. HVAC system mold, multi-unit remediation, property management coordination. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation in Tysons, Virginia',
   introSection: {
@@ -140,7 +140,7 @@ Our IICRC-certified mold remediation specialists understand these modern buildin
       'Access coordination—multi-unit scheduling and after-hours work affect project logistics',
       'Moisture source correction—addressing underlying building system failures prevents recurrence',
     ],
-    cta: 'Call (703) 656-0106 for professional mold assessment. We coordinate with property management, provide detailed scope and pricing, and document everything for building records.',
+    cta: 'Call (877) 497-0007 for professional mold assessment. We coordinate with property management, provide detailed scope and pricing, and document everything for building records.',
   },
   serviceAreaSection: {
     neighborhoods: [

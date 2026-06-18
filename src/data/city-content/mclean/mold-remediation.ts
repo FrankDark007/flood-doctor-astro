@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in McLean, VA | Flood Doctor',
-    description: 'McLean mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Langley, Chesterbrook, The Reserve. Call (703) 656-0101.',
+    description: 'McLean mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in McLean, Virginia',
   introSection: {
@@ -124,7 +124,7 @@ Flood Doctor has remediated mold in over 300 McLean properties since 2008. We un
       'Foundation moisture source correction — masonry waterproofing, drainage improvements, and whole-house dehumidification systems represent long-term investments beyond the remediation itself',
     ],
     insuranceNote: `McLean homeowner policies with replacement cost coverage should cover mold remediation when it results from a covered water event. However, adjusters often underestimate the cost of estate-grade restoration. We provide detailed documentation including material specifications, custom fabrication quotes, and preservation-grade treatment protocols that justify coverage amounts appropriate to your property's finishes and construction quality.`,
-    cta: 'Call (703) 656-0101 for an estate mold assessment. We understand the complexity of McLean properties and provide assessments calibrated to the materials and systems in your home.',
+    cta: 'Call (877) 497-0007 for an estate mold assessment. We understand the complexity of McLean properties and provide assessments calibrated to the materials and systems in your home.',
   },
   serviceAreaSection: {
     neighborhoods: [

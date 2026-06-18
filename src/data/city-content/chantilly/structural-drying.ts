@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Chantilly, VA | Flood Doctor',
-    description: `Professional structural drying for Chantilly homes. IICRC-certified technicians serving South Riding, Chantilly Highlands & Westfields. Modern material specialists. Call (703) 285-1104.`,
+    description: `Professional structural drying for Chantilly homes. IICRC-certified technicians serving South Riding, Chantilly Highlands & Westfields. Modern material specialists. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Chantilly, Virginia',
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       `Accessibility—hidden moisture in wall cavities and between floors may require targeted drying systems`,
       `Duration—most Chantilly projects require 3-5 days of monitored drying`,
     ],
-    cta: `Call (703) 285-1104 for professional structural drying. We provide free moisture assessments and work directly with your insurance carrier.`,
+    cta: `Call (877) 497-0007 for professional structural drying. We provide free moisture assessments and work directly with your insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Need Professional Structural Drying in Chantilly?',
-    paragraph: `Hidden moisture causes more long-term damage than the initial water event. Our IICRC-certified technicians use precision equipment and daily monitoring to dry every structural element in your Chantilly home completely. Call (703) 285-1104 for a free moisture assessment.`,
+    paragraph: `Hidden moisture causes more long-term damage than the initial water event. Our IICRC-certified technicians use precision equipment and daily monitoring to dry every structural element in your Chantilly home completely. Call (877) 497-0007 for a free moisture assessment.`,
   },
 }

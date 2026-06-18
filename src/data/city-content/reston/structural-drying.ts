@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Reston, VA | Flood Doctor',
-    description: `Reston's structural drying specialists. HOA-experienced teams for townhome clusters, garden condos & lake-area properties. 30-min response. Call (703) 285-1109.`,
+    description: `Reston's structural drying specialists. HOA-experienced teams for townhome clusters, garden condos & lake-area properties. 30-min response. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Reston, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians develop property-specific drying plans that acco
   processSteps: [
     {
       title: 'Community-Ready Response',
-      description: `Call (703) 285-1109 and our Reston-positioned crews arrive within 30 minutes. We reach South Lakes, Lake Anne, Hunters Woods, North Point, and Reston Town Center from staging locations along the Dulles Toll Road corridor — familiar with community access roads, cluster parking, and HOA entry protocols.`,
+      description: `Call (877) 497-0007 and our Reston-positioned crews arrive within 30 minutes. We reach South Lakes, Lake Anne, Hunters Woods, North Point, and Reston Town Center from staging locations along the Dulles Toll Road corridor — familiar with community access roads, cluster parking, and HOA entry protocols.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -115,7 +115,7 @@ Our IICRC-certified technicians develop property-specific drying plans that acco
       'Below-grade conditions — concrete slab drying and elevated water table management require specialized desiccant equipment',
       'HOA and Reston Association requirements — compliance documentation and exterior work approvals may add administrative scope',
     ],
-    cta: `Call (703) 285-1109 for a community-aware assessment. We evaluate your Reston property, coordinate with your HOA, and provide detailed estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for a community-aware assessment. We evaluate your Reston property, coordinate with your HOA, and provide detailed estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -168,6 +168,6 @@ Our IICRC-certified technicians develop property-specific drying plans that acco
   ],
   finalCTA: {
     headline: 'Water Damage in Your Reston Home?',
-    paragraph: 'In Reston, water damage rarely stays in one unit. Shared walls, connected systems, and community drainage mean rapid professional response protects both your home and your neighbors. Call (703) 285-1109 — we arrive within 30 minutes with the community expertise your property requires.',
+    paragraph: 'In Reston, water damage rarely stays in one unit. Shared walls, connected systems, and community drainage mean rapid professional response protects both your home and your neighbors. Call (877) 497-0007 — we arrive within 30 minutes with the community expertise your property requires.',
   },
 }

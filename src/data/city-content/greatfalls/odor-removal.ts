@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Great Falls, VA | Flood Doctor',
-    description: `Great Falls estate odor elimination. Discreet treatment for wine cellars, equestrian facilities & custom homes. Premium material-safe protocols. Call (703) 285-1100.`,
+    description: `Great Falls estate odor elimination. Discreet treatment for wine cellars, equestrian facilities & custom homes. Premium material-safe protocols. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians deploy hydroxyl generators for safe treatment in occupied estate
   processSteps: [
     {
       title: 'Discreet Estate Assessment',
-      description: `Call (703) 285-1100 and we evaluate your Great Falls property with the thoroughness and discretion estate homes require. Wine cellars, lower levels, equestrian facilities, and HVAC systems are assessed independently. Material compatibility is documented before any treatment begins.`,
+      description: `Call (877) 497-0007 and we evaluate your Great Falls property with the thoroughness and discretion estate homes require. Wine cellars, lower levels, equestrian facilities, and HVAC systems are assessed independently. Material compatibility is documented before any treatment begins.`,
       timeframe: 'Initial visit',
     },
     {
@@ -108,7 +108,7 @@ Our technicians deploy hydroxyl generators for safe treatment in occupied estate
       'Source complexity — septic system gas, equestrian facility organics, and concealed mold each require distinct investigation and treatment',
       'Collection protection — wine cellar and art room treatment requires temperature-stable methods that add protocol complexity',
     ],
-    cta: `Call (703) 285-1100 for a discreet estate odor assessment. We evaluate every zone, test material compatibility, and provide thorough estimates.`,
+    cta: `Call (877) 497-0007 for a discreet estate odor assessment. We evaluate every zone, test material compatibility, and provide thorough estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,6 +159,6 @@ Our technicians deploy hydroxyl generators for safe treatment in occupied estate
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Great Falls Estate?',
-    paragraph: 'From wine cellar mustiness to septic gas infiltration to equestrian facility migration, your estate deserves odor elimination with the material expertise and discretion Great Falls properties demand. Call (703) 285-1100.',
+    paragraph: 'From wine cellar mustiness to septic gas infiltration to equestrian facility migration, your estate deserves odor elimination with the material expertise and discretion Great Falls properties demand. Call (877) 497-0007.',
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Reston, VA | Flood Doctor`,
-    description: `Reston's multi-unit restoration experts. Serving townhome clusters, garden condos, and hotels near Reston Town Center, South Lakes, and Lake Anne. Call (703) 285-1109.`,
+    description: `Reston's multi-unit restoration experts. Serving townhome clusters, garden condos, and hotels near Reston Town Center, South Lakes, and Lake Anne. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Reston, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Reston multifamily team accounts for these environmental factors in every re
   processSteps: [
     {
       title: `Multi-Unit Community Response`,
-      description: `Call (703) 285-1109 for immediate multifamily deployment. Our Reston crews assess beyond the initial unit—checking adjacent townhomes, neighboring condo units, and shared building systems that may have distributed water throughout the cluster or building.`,
+      description: `Call (877) 497-0007 for immediate multifamily deployment. Our Reston crews assess beyond the initial unit—checking adjacent townhomes, neighboring condo units, and shared building systems that may have distributed water throughout the cluster or building.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Reston multifamily team accounts for these environmental factors in every re
       `Reston Association compliance for exterior work and equipment staging`,
       `Multi-policy documentation for individual homeowners, HOA master coverage, and property management reporting`,
     ],
-    cta: `Call (703) 285-1109 for immediate multi-unit assessment. We coordinate with Reston HOAs, property managers, and the Reston Association for community-compliant restoration.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We coordinate with Reston HOAs, property managers, and the Reston Association for community-compliant restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -168,6 +168,6 @@ Our Reston multifamily team accounts for these environmental factors in every re
   ],
   finalCTA: {
     headline: `Multi-Unit Water Damage in Reston?`,
-    paragraph: `Shared walls and humid conditions accelerate damage in Reston's residential communities. Our multi-unit team responds within 30 minutes with enhanced environmental controls and community coordination expertise. Call (703) 285-1109 now.`,
+    paragraph: `Shared walls and humid conditions accelerate damage in Reston's residential communities. Our multi-unit team responds within 30 minutes with enhanced environmental controls and community coordination expertise. Call (877) 497-0007 now.`,
   },
 }

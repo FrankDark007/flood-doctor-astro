@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Arlington, VA | Flood Doctor',
-    description: 'Arlington storm damage restoration. Flat roof ponding, high-rise wind damage, underground flooding. Rapid response to Rosslyn to Shirlington. Call (703) 656-0102.',
+    description: 'Arlington storm damage restoration. Flat roof ponding, high-rise wind damage, underground flooding. Rapid response to Rosslyn to Shirlington. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Arlington, Virginia',
   introSection: {
@@ -26,7 +26,7 @@ Our IICRC-certified storm damage crews understand that Arlington storm response 
     },
     {
       title: 'Rapid Emergency Response',
-      description: 'When you call our Arlington hotline at (703) 656-0102 during or after a storm, we dispatch immediately. Response times during active weather events may extend beyond normal guarantees due to road conditions, but we deploy continuously throughout the storm and its aftermath.',
+      description: 'When you call our Arlington hotline at (877) 497-0007 during or after a storm, we dispatch immediately. Response times during active weather events may extend beyond normal guarantees due to road conditions, but we deploy continuously throughout the storm and its aftermath.',
       timeframe: 'During/after storm',
     },
     {
@@ -120,7 +120,7 @@ Our IICRC-certified storm damage crews understand that Arlington storm response 
       'Emergency timing—active storm response may require extended crew hours and challenging conditions',
       'Secondary damage—mold prevention through complete drying is essential and adds to timeline',
     ],
-    cta: `Call (703) 656-0102 for storm damage assessment. We'll evaluate all affected areas, document damage for your insurance claim, and provide detailed restoration estimates.`,
+    cta: `Call (877) 497-0007 for storm damage assessment. We'll evaluate all affected areas, document damage for your insurance claim, and provide detailed restoration estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -149,11 +149,11 @@ Our IICRC-certified storm damage crews understand that Arlington storm response 
     },
     {
       question: 'My high-rise condo has wind-driven rain coming through the windows—what do I do?',
-      answer: `Move belongings away from affected windows, put down towels to limit water spread, and call us at (703) 656-0102. Wind-driven rain through window systems indicates either window failure or sealant deterioration. We'll extract water, dry affected areas, and document the intrusion pattern for insurance and building management.`,
+      answer: `Move belongings away from affected windows, put down towels to limit water spread, and call us at (877) 497-0007. Wind-driven rain through window systems indicates either window failure or sealant deterioration. We'll extract water, dry affected areas, and document the intrusion pattern for insurance and building management.`,
     },
     {
       question: 'The parking garage under my building is flooding—who do I call?',
-      answer: `Contact building management immediately, then call us at (703) 656-0102. We'll coordinate with building staff on access, utility protection, and vehicle relocation while deploying extraction equipment. Garage flooding threatens building infrastructure—elevators, electrical rooms, mechanical systems—and requires rapid response.`,
+      answer: `Contact building management immediately, then call us at (877) 497-0007. We'll coordinate with building staff on access, utility protection, and vehicle relocation while deploying extraction equipment. Garage flooding threatens building infrastructure—elevators, electrical rooms, mechanical systems—and requires rapid response.`,
     },
     {
       question: 'Will my insurance cover storm damage?',

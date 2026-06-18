@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Reston, VA | Flood Doctor`,
-    description: `Reston's HIPAA-compliant healthcare restoration specialists. Serving medical offices near Reston Town Center, South Lakes, and Lake Anne. Call (703) 285-1109.`,
+    description: `Reston's HIPAA-compliant healthcare restoration specialists. Serving medical offices near Reston Town Center, South Lakes, and Lake Anne. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Reston, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Reston healthcare team accounts for these environmental factors. We deploy w
   processSteps: [
     {
       title: `Community-Integrated Emergency Response`,
-      description: `Call (703) 285-1109 for immediate healthcare facility deployment. Our Reston crews know the village center layouts and access routes, arriving with ICRA containment and HEPA filtration at medical offices throughout Reston Town Center, South Lakes, Lake Anne, and Hunters Woods.`,
+      description: `Call (877) 497-0007 for immediate healthcare facility deployment. Our Reston crews know the village center layouts and access routes, arriving with ICRA containment and HEPA filtration at medical offices throughout Reston Town Center, South Lakes, Lake Anne, and Hunters Woods.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Reston healthcare team accounts for these environmental factors. We deploy w
       `ICRA containment complexity and healthcare-grade air quality requirements in humid conditions`,
       `Reston Association compliance for exterior work and equipment staging`,
     ],
-    cta: `Call (703) 285-1109 for emergency healthcare facility assessment. We provide estimates accounting for Reston's unique environmental conditions and community requirements.`,
+    cta: `Call (877) 497-0007 for emergency healthcare facility assessment. We provide estimates accounting for Reston's unique environmental conditions and community requirements.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -166,6 +166,6 @@ Our Reston healthcare team accounts for these environmental factors. We deploy w
   ],
   finalCTA: {
     headline: `Reston Healthcare Facility Emergency?`,
-    paragraph: `Lake-adjacent humidity accelerates mold risk in water-damaged medical spaces. Our HIPAA-compliant crews respond within 30 minutes with enhanced environmental controls designed for Reston's unique conditions. Call (703) 285-1109 now.`,
+    paragraph: `Lake-adjacent humidity accelerates mold risk in water-damaged medical spaces. Our HIPAA-compliant crews respond within 30 minutes with enhanced environmental controls designed for Reston's unique conditions. Call (877) 497-0007 now.`,
   },
 }

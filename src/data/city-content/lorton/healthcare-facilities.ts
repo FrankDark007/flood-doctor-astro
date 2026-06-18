@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Lorton, VA | Flood Doctor`,
-    description: `Lorton's trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for medical offices and clinics near Laurel Hill and Occoquan. Call (703) 285-1100.`,
+    description: `Lorton's trusted healthcare facility restoration experts. HIPAA-compliant water damage restoration for medical offices and clinics near Laurel Hill and Occoquan. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Lorton, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
   processSteps: [
     {
       title: `Emergency Response and Facility Assessment`,
-      description: `Call our Lorton healthcare hotline at (703) 285-1100 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager before entering any patient care area.`,
+      description: `Call our Lorton healthcare hotline at (877) 497-0007 for immediate dispatch. Our ICRA-trained crews arrive with containment materials, HEPA filtration, and moisture detection equipment specifically configured for medical environments. We coordinate with your facility manager before entering any patient care area.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
       `Waterfront proximity—Occoquan-area facilities may require enhanced dehumidification and antimicrobial treatment`,
       `Regulatory documentation needs for Joint Commission, CMS, and state health department compliance`,
     ],
-    cta: `Call (703) 285-1100 for an emergency healthcare facility assessment. We provide HIPAA-compliant estimates and coordinate directly with medical facility insurance carriers throughout Lorton.`,
+    cta: `Call (877) 497-0007 for an emergency healthcare facility assessment. We provide HIPAA-compliant estimates and coordinate directly with medical facility insurance carriers throughout Lorton.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -169,6 +169,6 @@ Our healthcare restoration protocols address these Lorton-specific challenges. W
   ],
   finalCTA: {
     headline: `Healthcare Facility Emergency in Lorton?`,
-    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Lorton medical facilities within 45 minutes with containment materials and healthcare-grade equipment. Call (703) 285-1100 now.`,
+    paragraph: `Patient safety and regulatory compliance cannot wait. Our HIPAA-certified, ICRA-trained crews respond to Lorton medical facilities within 45 minutes with containment materials and healthcare-grade equipment. Call (877) 497-0007 now.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Arlington, VA | Flood Doctor`,
-    description: `Arlington's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for high-rise buildings, restaurants, and office complexes near Rosslyn, Ballston, and Crystal City. Call (703) 285-1102.`,
+    description: `Arlington's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for high-rise buildings, restaurants, and office complexes near Rosslyn, Ballston, and Crystal City. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Arlington, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Rapid Urban Deployment`,
-      description: `Call our Arlington emergency line at (703) 285-1102 and our hazmat crew deploys immediately. We navigate urban access challenges in Rosslyn, Ballston, and Crystal City—loading dock access, freight elevator coordination, and building management notification happen simultaneously with equipment staging.`,
+      description: `Call our Arlington emergency line at (877) 497-0007 and our hazmat crew deploys immediately. We navigate urban access challenges in Rosslyn, Ballston, and Crystal City—loading dock access, freight elevator coordination, and building management notification happen simultaneously with equipment staging.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Health department requirements—restaurant and food service facilities require additional compliance steps and inspections`,
       `Building system contamination—HVAC, elevator, and plumbing system decontamination adds complexity in interconnected buildings`,
     ],
-    cta: `Call (703) 285-1102 for immediate commercial sewage emergency response in Arlington. Our hazmat crews are positioned throughout the urban corridor for rapid deployment to Rosslyn, Ballston, Crystal City, and all Arlington commercial districts.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Arlington. Our hazmat crews are positioned throughout the urban corridor for rapid deployment to Rosslyn, Ballston, Crystal City, and all Arlington commercial districts.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Arlington?`,
-    paragraph: `In Arlington's dense commercial corridors, sewage contamination spreads through interconnected building systems in hours. Our urban hazmat teams are positioned for immediate deployment to any Rosslyn, Ballston, Crystal City, or Arlington commercial property. Call (703) 285-1102 now.`,
+    paragraph: `In Arlington's dense commercial corridors, sewage contamination spreads through interconnected building systems in hours. Our urban hazmat teams are positioned for immediate deployment to any Rosslyn, Ballston, Crystal City, or Arlington commercial property. Call (877) 497-0007 now.`,
   },
 }

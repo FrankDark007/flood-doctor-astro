@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Fairfax, VA | Flood Doctor',
-    description: `Fairfax's trusted structural drying specialists. Fast 30-min response to Burke, Kings Park & Mantua. Scientific drying for colonials & split-levels. Call (703) 285-1105.`,
+    description: `Fairfax's trusted structural drying specialists. Fast 30-min response to Burke, Kings Park & Mantua. Scientific drying for colonials & split-levels. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Fairfax, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians calculate drying parameters for each material type in your home,
   processSteps: [
     {
       title: 'Rapid Neighborhood Response',
-      description: `When you call (703) 285-1105, our Fairfax-positioned crews arrive within 30 minutes. We reach Burke, Kings Park, Mantua, and Fairfax Station from staging locations along the Route 123 and Burke Lake corridor — not from a distant warehouse, but from the neighborhoods where we work every day.`,
+      description: `When you call (877) 497-0007, our Fairfax-positioned crews arrive within 30 minutes. We reach Burke, Kings Park, Mantua, and Fairfax Station from staging locations along the Route 123 and Burke Lake corridor — not from a distant warehouse, but from the neighborhoods where we work every day.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -119,7 +119,7 @@ Our technicians calculate drying parameters for each material type in your home,
       'Material salvageability — carpet, drywall, and paneling in finished basements may require removal versus in-place drying depending on damage severity',
       'Number of levels affected — split-level homes and colonials with multi-floor damage require equipment deployment on each affected level',
     ],
-    cta: `Call (703) 285-1105 for a free inspection. We assess the damage, explain what can be saved versus replaced, and provide a detailed estimate for your insurance claim.`,
+    cta: `Call (877) 497-0007 for a free inspection. We assess the damage, explain what can be saved versus replaced, and provide a detailed estimate for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,7 +159,7 @@ Our technicians calculate drying parameters for each material type in your home,
     },
     {
       question: 'What should I do immediately when my basement floods?',
-      answer: 'Call us at (703) 285-1105 immediately. If safe, turn off the water source. Do not enter standing water if electrical outlets are submerged. Move valuable items from the floor if you can do so safely. The single most important action is calling for professional extraction quickly — every hour of delay means more damage.',
+      answer: 'Call us at (877) 497-0007 immediately. If safe, turn off the water source. Do not enter standing water if electrical outlets are submerged. Move valuable items from the floor if you can do so safely. The single most important action is calling for professional extraction quickly — every hour of delay means more damage.',
     },
     {
       question: 'Does insurance cover basement flooding from sump pump failure?',
@@ -172,6 +172,6 @@ Our technicians calculate drying parameters for each material type in your home,
   ],
   finalCTA: {
     headline: 'Flooded Basement in Your Fairfax Home?',
-    paragraph: 'Every hour of standing water means more damage to your finished basement, more mold risk, and higher restoration costs. Our Fairfax crews respond within 30 minutes with the extraction and drying equipment your home needs. Call (703) 285-1105 now — one call handles everything.',
+    paragraph: 'Every hour of standing water means more damage to your finished basement, more mold risk, and higher restoration costs. Our Fairfax crews respond within 30 minutes with the extraction and drying equipment your home needs. Call (877) 497-0007 now — one call handles everything.',
   },
 }

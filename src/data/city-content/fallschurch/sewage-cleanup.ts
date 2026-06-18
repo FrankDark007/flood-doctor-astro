@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Falls Church, VA | Flood Doctor',
-    description: 'Falls Church sewage cleanup specialists. 30-min biohazard response for Seven Corners, Lake Barcroft & Falls Church City. IICRC certified. Call (703) 656-0111.',
+    description: 'Falls Church sewage cleanup specialists. 30-min biohazard response for Seven Corners, Lake Barcroft & Falls Church City. IICRC certified. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in Falls Church, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Sewage cleanup isn't a job for standard water damage restoration—it requires b
   processSteps: [
     {
       title: 'Emergency Response & Safety Isolation',
-      description: 'When you call (703) 656-0111 about sewage, we dispatch immediately. Our first priority on arrival is safety—isolating the affected area to prevent contamination spread and ensuring electrical safety before entering. You and your family should avoid the contaminated area.',
+      description: 'When you call (877) 497-0007 about sewage, we dispatch immediately. Our first priority on arrival is safety—isolating the affected area to prevent contamination spread and ensuring electrical safety before entering. You and your family should avoid the contaminated area.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -118,7 +118,7 @@ Sewage cleanup isn't a job for standard water damage restoration—it requires b
       'Affected materials—carpet, drywall, and furniture contaminated by sewage require disposal',
       'Structural involvement—sewage that has soaked into subfloor or wall cavities increases scope',
     ],
-    cta: 'Call (703) 656-0111 immediately for sewage emergencies. We provide free assessments and explain your insurance coverage before work begins.',
+    cta: 'Call (877) 497-0007 immediately for sewage emergencies. We provide free assessments and explain your insurance coverage before work begins.',
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Vienna, VA | Flood Doctor',
-    description: 'Vienna sewage backup cleanup specialists. Biohazard-certified crews for Church Street, Oakton & Wolf Trap. 30-min emergency response. Call (703) 656-0105.',
+    description: 'Vienna sewage backup cleanup specialists. Biohazard-certified crews for Church Street, Oakton & Wolf Trap. 30-min emergency response. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup & Remediation in Vienna, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our approach to sewage cleanup goes beyond water removal. We remove all contamin
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: 'When you call (703) 656-0105 about sewage backup, we dispatch immediately. Our crews arrive in full PPE—because sewage exposure begins the moment you enter an affected space. We reach Vienna Town, Oakton, Wolf Trap, and Dunn Loring within our 30-minute guarantee.',
+      description: 'When you call (877) 497-0007 about sewage backup, we dispatch immediately. Our crews arrive in full PPE—because sewage exposure begins the moment you enter an affected space. We reach Vienna Town, Oakton, Wolf Trap, and Dunn Loring within our 30-minute guarantee.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -119,7 +119,7 @@ Our approach to sewage cleanup goes beyond water removal. We remove all contamin
       'Disposal requirements—contaminated material requires special handling and disposal fees',
       'Verification testing—ATP testing confirms successful sanitization and supports insurance documentation',
     ],
-    cta: `Call (703) 656-0105 immediately. Sewage contamination poses immediate health risks—don't delay. We'll assess the situation and work with your insurance on coverage.`,
+    cta: `Call (877) 497-0007 immediately. Sewage contamination poses immediate health risks—don't delay. We'll assess the situation and work with your insurance on coverage.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -148,7 +148,7 @@ Our approach to sewage cleanup goes beyond water removal. We remove all contamin
     },
     {
       question: 'Can I clean up sewage backup myself?',
-      answer: `No. Sewage cleanup requires specialized PPE, biohazard-rated equipment, EPA-registered antimicrobials, and verification testing that homeowners don't have access to. DIY attempts risk serious illness from pathogen exposure and rarely achieve actual sanitization. Call (703) 656-0105 immediately.`,
+      answer: `No. Sewage cleanup requires specialized PPE, biohazard-rated equipment, EPA-registered antimicrobials, and verification testing that homeowners don't have access to. DIY attempts risk serious illness from pathogen exposure and rarely achieve actual sanitization. Call (877) 497-0007 immediately.`,
     },
     {
       question: 'How quickly do you respond to sewage emergencies?',

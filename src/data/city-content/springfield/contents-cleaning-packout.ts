@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Springfield, VA | Flood Doctor',
-    description: `Springfield's contents restoration team. Professional pack-out & cleaning for West Springfield, Franconia & Kingstowne families. Military-friendly service. Call (703) 285-1110.`,
+    description: `Springfield's contents restoration team. Professional pack-out & cleaning for West Springfield, Franconia & Kingstowne families. Military-friendly service. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Springfield, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every item is photographed, catalogued, and barcoded. For military families proc
   processSteps: [
     {
       title: 'Immediate Priority Triage',
-      description: `Within 30 minutes of calling (703) 285-1110, we identify and stabilize time-sensitive items. Documents and military records are bagged for freezing. Electronics from the West Springfield rec room are secured. Family photographs from the Franconia basement storage closet receive emergency handling.`,
+      description: `Within 30 minutes of calling (877) 497-0007, we identify and stabilize time-sensitive items. Documents and military records are bagged for freezing. Electronics from the West Springfield rec room are secured. Family photographs from the Franconia basement storage closet receive emergency handling.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -106,7 +106,7 @@ Every item is photographed, catalogued, and barcoded. For military families proc
       'Specialty items — military records, memorabilia, and unique items require individual treatment and enhanced documentation',
       'Storage duration — climate-controlled storage costs extend with longer structural restoration timelines',
     ],
-    cta: `Call (703) 285-1110 for immediate contents triage. We stabilize time-sensitive items within hours and provide clear estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents triage. We stabilize time-sensitive items within hours and provide clear estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ Every item is photographed, catalogued, and barcoded. For military families proc
   ],
   finalCTA: {
     headline: 'Family Belongings at Risk in Springfield?',
-    paragraph: 'Every hour of water exposure threatens documents, photographs, electronics, and irreplaceable memories. Our Springfield contents team responds within 30 minutes with military-family efficiency. Call (703) 285-1110 now.',
+    paragraph: 'Every hour of water exposure threatens documents, photographs, electronics, and irreplaceable memories. Our Springfield contents team responds within 30 minutes with military-family efficiency. Call (877) 497-0007 now.',
   },
 }

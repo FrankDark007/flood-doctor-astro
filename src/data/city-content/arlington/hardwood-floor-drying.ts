@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Arlington, VA | Save Your Floors | Flood Doctor',
-    description: `Arlington hardwood floor drying specialists. Saving floors in Rosslyn, Clarendon & Lyon Village. Condo, rowhouse & mid-century home expertise. Call (703) 285-1102.`,
+    description: `Arlington hardwood floor drying specialists. Saving floors in Rosslyn, Clarendon & Lyon Village. Condo, rowhouse & mid-century home expertise. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Arlington, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Urban Response',
-      description: `When you call (703) 285-1102, we dispatch to your Arlington location within 30 minutes. Our crews navigate urban access—elevator freight access for Pentagon City condos, street parking coordination for Clarendon rowhouses, alley access for Lyon Village bungalows—arriving with equipment sized for immediate deployment.`,
+      description: `When you call (877) 497-0007, we dispatch to your Arlington location within 30 minutes. Our crews navigate urban access—elevator freight access for Pentagon City condos, street parking coordination for Clarendon rowhouses, alley access for Lyon Village bungalows—arriving with equipment sized for immediate deployment.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Water category—clean supply water versus contaminated water affects salvageability',
       'Building access logistics affecting equipment deployment time in urban settings',
     ],
-    cta: `Call (703) 285-1102 immediately when water hits your Arlington hardwood. Time is the single biggest factor in salvage success. We provide free assessments and honest salvageability evaluations.`,
+    cta: `Call (877) 497-0007 immediately when water hits your Arlington hardwood. Time is the single biggest factor in salvage success. We provide free assessments and honest salvageability evaluations.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water on Your Arlington Hardwood? Act Now.',
-    paragraph: `Whether it is original oak in a Lyon Village bungalow or engineered walnut in a Pentagon City condo, your hardwood floors deserve specialized drying—not a demolition crew. Call (703) 285-1102 for immediate response.`,
+    paragraph: `Whether it is original oak in a Lyon Village bungalow or engineered walnut in a Pentagon City condo, your hardwood floors deserve specialized drying—not a demolition crew. Call (877) 497-0007 for immediate response.`,
   },
 }

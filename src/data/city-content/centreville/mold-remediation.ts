@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Centreville, VA | Flood Doctor',
-    description: `Centreville mold remediation experts. IICRC-certified removal in Virginia Run, Centre Ridge & Sully Station. Basement mold specialists. Call (703) 285-1103.`,
+    description: `Centreville mold remediation experts. IICRC-certified removal in Virginia Run, Centre Ridge & Sully Station. Basement mold specialists. Call (877) 497-0007.`,
   },
   h1: 'Mold Remediation Services in Centreville, Virginia',
   introSection: {
@@ -124,7 +124,7 @@ Our remediation protocols address the full scope. We contain the affected area, 
       'Moisture source correction—plumbing repairs, vapor barriers, or ventilation upgrades may be needed',
       'Independent testing—pre and post-remediation air sampling by third-party laboratories',
     ],
-    cta: `Call (703) 285-1103 for a professional mold inspection. We'll assess the scope, identify the moisture source, and provide a detailed remediation plan with transparent pricing.`,
+    cta: `Call (877) 497-0007 for a professional mold inspection. We'll assess the scope, identify the moisture source, and provide a detailed remediation plan with transparent pricing.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -143,7 +143,7 @@ Our remediation protocols address the full scope. We contain the affected area, 
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `Same-day mold inspections for all Centreville neighborhoods. For mold discovered after water damage, call (703) 285-1103 immediately—early intervention limits the scope of remediation needed.`,
+    responseTime: `Same-day mold inspections for all Centreville neighborhoods. For mold discovered after water damage, call (877) 497-0007 immediately—early intervention limits the scope of remediation needed.`,
   },
   faqs: [
     {
@@ -181,6 +181,6 @@ Our remediation protocols address the full scope. We contain the affected area, 
   ],
   finalCTA: {
     headline: 'Suspect Mold in Your Centreville Home?',
-    paragraph: `Do not ignore musty odors or visible mold growth—the problem is always worse behind the wall than what you can see. Call (703) 285-1103 for a professional inspection. We identify the scope, the source, and the solution.`,
+    paragraph: `Do not ignore musty odors or visible mold growth—the problem is always worse behind the wall than what you can see. Call (877) 497-0007 for a professional inspection. We identify the scope, the source, and the solution.`,
   },
 }

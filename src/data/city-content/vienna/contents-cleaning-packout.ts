@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Vienna, VA | Flood Doctor',
-    description: `Vienna's contents restoration experts. Professional pack-out, cleaning & storage for water, fire & mold-damaged belongings. Vienna Town, Oakton, Wolf Trap. Call (703) 285-1112.`,
+    description: `Vienna's contents restoration experts. Professional pack-out, cleaning & storage for water, fire & mold-damaged belongings. Vienna Town, Oakton, Wolf Trap. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Vienna, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every belonging is photographed, described with condition notes, and barcoded fo
   processSteps: [
     {
       title: 'Emergency Priority Triage',
-      description: `Within 30 minutes of your call to (703) 285-1112, we arrive to identify and stabilize time-sensitive items. Water-damaged photos and documents from your Vienna Town basement are bagged for immediate freezing. Electronics from the Oakton home office are disconnected for corrosion prevention. Sentimental items receive priority handling.`,
+      description: `Within 30 minutes of your call to (877) 497-0007, we arrive to identify and stabilize time-sensitive items. Water-damaged photos and documents from your Vienna Town basement are bagged for immediate freezing. Electronics from the Oakton home office are disconnected for corrosion prevention. Sentimental items receive priority handling.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -106,7 +106,7 @@ Every belonging is photographed, described with condition notes, and barcoded fo
       'Climate-controlled storage duration — longer structural restoration timelines extend storage requirements',
       'Documentation detail — enhanced documentation for antiques and high-value items adds assessment time',
     ],
-    cta: `Call (703) 285-1112 for immediate contents assessment. We stabilize time-sensitive items within hours and provide detailed estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We stabilize time-sensitive items within hours and provide detailed estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -162,6 +162,6 @@ Every belonging is photographed, described with condition notes, and barcoded fo
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Vienna Home?',
-    paragraph: 'Photographs bond, documents deteriorate, and electronics corrode with every passing hour. Our Vienna contents team responds within 30 minutes to stabilize the items your family cannot replace. Call (703) 285-1112 for immediate professional pack-out service.',
+    paragraph: 'Photographs bond, documents deteriorate, and electronics corrode with every passing hour. Our Vienna contents team responds within 30 minutes to stabilize the items your family cannot replace. Call (877) 497-0007 for immediate professional pack-out service.',
   },
 }

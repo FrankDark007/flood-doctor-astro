@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Ashburn, VA | Flood Doctor',
-    description: 'Ashburn mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Broadlands, Brambleton, Lansdowne. Call (703) 656-0109.',
+    description: 'Ashburn mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Broadlands, Brambleton, Lansdowne. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in Ashburn, Virginia',
   introSection: {
@@ -119,7 +119,7 @@ What makes Ashburn particularly challenging is the builder warranty dynamic. Man
       'Permanent monitoring installation — in-wall humidity sensors add upfront cost but provide early warning preventing future events',
     ],
     insuranceNote: `Homeowner insurance covers mold from sudden, accidental water events (burst pipe, appliance failure, storm damage). Construction defect-related mold typically falls under the builder's warranty. We provide the technical analysis distinguishing between these causes, supporting the appropriate claim path. For homes outside warranty, some policies cover remediation even when the moisture source isn't a covered peril — policy language varies and we can help your adjuster understand the technical details.`,
-    cta: `Call (703) 656-0109 for an Ashburn new-construction mold assessment. We'll identify whether your home's building envelope, HVAC system, or construction history is contributing to moisture conditions.`,
+    cta: `Call (877) 497-0007 for an Ashburn new-construction mold assessment. We'll identify whether your home's building envelope, HVAC system, or construction history is contributing to moisture conditions.`,
   },
   serviceAreaSection: {
     neighborhoods: [

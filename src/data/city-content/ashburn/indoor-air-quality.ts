@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Ashburn, VA | Flood Doctor',
-    description: `Ashburn indoor air quality testing. Mold sampling for new construction, post-remediation verification & HVAC assessment in Broadlands, Brambleton & One Loudoun. Call (703) 285-1100.`,
+    description: `Ashburn indoor air quality testing. Mold sampling for new construction, post-remediation verification & HVAC assessment in Broadlands, Brambleton & One Loudoun. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Ashburn, Virginia',
   introSection: {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Wall cavity investigation when spray foam concealment of mold is a concern',
       'Post-remediation clearance scope including number of containment areas and adjacent verification zones',
     ],
-    cta: `Call (703) 285-1100 for a consultation. We design a testing protocol that answers your specific air quality concerns and provide transparent pricing.`,
+    cta: `Call (877) 497-0007 for a consultation. We design a testing protocol that answers your specific air quality concerns and provide transparent pricing.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Ashbrook',
       'Cameron Chase',
     ],
-    responseTime: `Same-day IAQ assessment throughout Ashburn and Loudoun County. Emergency sampling within 2 hours for visible mold or acute health symptoms. Call (703) 285-1100.`,
+    responseTime: `Same-day IAQ assessment throughout Ashburn and Loudoun County. Emergency sampling within 2 hours for visible mold or acute health symptoms. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -159,6 +159,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Air Quality Concerns in Your Ashburn Home?',
-    paragraph: `New construction IAQ issues deserve testing calibrated for modern materials and building systems. Our AIHA-accredited analysis provides definitive answers. Call (703) 285-1100 for a professional assessment.`,
+    paragraph: `New construction IAQ issues deserve testing calibrated for modern materials and building systems. Our AIHA-accredited analysis provides definitive answers. Call (877) 497-0007 for a professional assessment.`,
   },
 }

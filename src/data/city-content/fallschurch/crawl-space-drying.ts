@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Falls Church, VA | Flood Doctor',
-    description: `Falls Church crawl space specialists. Serving Falls Church City, Lake Barcroft & Seven Corners. Historic home expertise. 1920s-60s foundation solutions. Call (703) 285-1100.`,
+    description: `Falls Church crawl space specialists. Serving Falls Church City, Lake Barcroft & Seven Corners. Historic home expertise. 1920s-60s foundation solutions. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Falls Church, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Structural wood condition and treatment scope after decades of moisture exposure',
       'Multi-section foundations from additions and renovations over the decades',
     ],
-    cta: `Call (703) 285-1100 for a free crawl space inspection. We understand Falls Church homes from the 1920s to today and provide solutions matched to your property's specific era and conditions.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We understand Falls Church homes from the 1920s to today and provide solutions matched to your property's specific era and conditions.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Falls Church Crawl Space Needs Professional Attention?',
-    paragraph: `Whether your home was built near the State Theatre in the 1930s or along Lake Barcroft in the 1960s, its crawl space deserves treatment matched to its construction era. Call (703) 285-1100 for a free, expert inspection.`,
+    paragraph: `Whether your home was built near the State Theatre in the 1930s or along Lake Barcroft in the 1960s, its crawl space deserves treatment matched to its construction era. Call (877) 497-0007 for a free, expert inspection.`,
   },
 }

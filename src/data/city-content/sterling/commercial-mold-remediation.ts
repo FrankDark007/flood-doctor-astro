@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Sterling, VA | Flood Doctor`,
-    description: `Sterling commercial mold remediation. Route 7 offices, shopping centers & commercial buildings. IICRC-certified, business-focused scheduling. Call (703) 285-1111.`,
+    description: `Sterling commercial mold remediation. Route 7 offices, shopping centers & commercial buildings. IICRC-certified, business-focused scheduling. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Sterling, Virginia`,
   introSection: {
@@ -77,7 +77,7 @@ We coordinate with third-party industrial hygienists for pre-remediation assessm
       `HVAC involvement—contaminated mechanical systems add cleaning and treatment scope`,
       `Testing requirements—pre-remediation assessment and post-remediation clearance by independent hygienists`,
     ],
-    cta: `Call (703) 285-1111 for commercial mold assessment coordination. We work with property managers and building owners to develop remediation plans that address the mold professionally while respecting tenant operations.`,
+    cta: `Call (877) 497-0007 for commercial mold assessment coordination. We work with property managers and building owners to develop remediation plans that address the mold professionally while respecting tenant operations.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ We coordinate with third-party industrial hygienists for pre-remediation assessm
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Commercial mold assessment coordination within 24 hours throughout Sterling. Emergency containment for active water damage situations presenting mold risk available same-day. Call (703) 285-1111.`,
+    responseTime: `Commercial mold assessment coordination within 24 hours throughout Sterling. Emergency containment for active water damage situations presenting mold risk available same-day. Call (877) 497-0007.`,
   },
   faqs: [
     {

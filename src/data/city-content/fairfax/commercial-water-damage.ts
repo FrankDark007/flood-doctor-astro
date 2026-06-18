@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Fairfax, VA | Flood Doctor',
-    description: `Fairfax commercial water damage restoration. Fast response for office parks, university facilities & retail centers near George Mason, Burke & Fairfax Corner. Call (703) 285-1105.`,
+    description: `Fairfax commercial water damage restoration. Fast response for office parks, university facilities & retail centers near George Mason, Burke & Fairfax Corner. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Fairfax, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams understand the building systems common in F
   processSteps: [
     {
       title: 'Rapid Local Dispatch',
-      description: `Call (703) 285-1105 for immediate commercial response. Our Fairfax crews are positioned near Fairfax Corner, Burke, and the George Mason corridor for rapid deployment to commercial properties throughout the area.`,
+      description: `Call (877) 497-0007 for immediate commercial response. Our Fairfax crews are positioned near Fairfax Corner, Burke, and the George Mason corridor for rapid deployment to commercial properties throughout the area.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -116,7 +116,7 @@ Our IICRC-certified commercial teams understand the building systems common in F
       'Tenant count—each affected suite requires individual scope documentation and insurance coordination',
       'Business hours scheduling—after-hours work for medical offices and customer-facing businesses may affect scheduling efficiency',
     ],
-    cta: `Call (703) 285-1105 for a free commercial assessment. We'll provide a clear scope and estimate, explain your insurance options, and begin restoration on your timeline.`,
+    cta: `Call (877) 497-0007 for a free commercial assessment. We'll provide a clear scope and estimate, explain your insurance options, and begin restoration on your timeline.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -140,7 +140,7 @@ Our IICRC-certified commercial teams understand the building systems common in F
   faqs: [
     {
       question: 'How quickly can you respond to water damage in our Fairfax office?',
-      answer: 'Our commercial dispatch reaches Fairfax City, Burke, Kings Park, and surrounding business areas within 45 minutes. We carry extraction and drying equipment on every truck for immediate work upon arrival. Call (703) 285-1105 any time, day or night.',
+      answer: 'Our commercial dispatch reaches Fairfax City, Burke, Kings Park, and surrounding business areas within 45 minutes. We carry extraction and drying equipment on every truck for immediate work upon arrival. Call (877) 497-0007 any time, day or night.',
     },
     {
       question: 'Can you work after hours in our medical or dental office?',

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Reston, VA | Flood Doctor',
-    description: 'Reston sewage backup cleanup. Biohazard-certified crews for sewer overflow, drain backups & storm-related sewage. Lake Anne, South Lakes, North Point. Call (703) 656-0107.',
+    description: 'Reston sewage backup cleanup. Biohazard-certified crews for sewer overflow, drain backups & storm-related sewage. Lake Anne, South Lakes, North Point. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in Reston, Virginia',
   introSection: {
@@ -66,7 +66,7 @@ Our crews don't approach sewage like regular water damage. This is biohazard wor
       'Property type—townhomes may require party wall assessment',
       'Disposal fees—biohazard waste disposal follows regulated procedures with associated costs',
     ],
-    cta: 'Call (703) 656-0107 immediately for sewage emergencies. Health hazards and contamination spread increase every hour. We provide free assessments and handle insurance directly.',
+    cta: 'Call (877) 497-0007 immediately for sewage emergencies. Health hazards and contamination spread increase every hour. We provide free assessments and handle insurance directly.',
   },
   serviceAreaSection: {
     neighborhoods: [

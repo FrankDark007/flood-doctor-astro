@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Springfield, VA | Flood Doctor',
-    description: 'Springfield fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. West Springfield, Kingstowne, Franconia. Call (703) 656-0110.',
+    description: 'Springfield fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Springfield, Virginia',
   introSection: {
@@ -64,7 +64,7 @@ export const content: CityServiceContent = {
       'Soot type and distribution — wet/oily soot from smoldering fires costs significantly more to clean than dry soot from fast-burning fires',
     ],
     insuranceNote: 'Hazmat compliance costs are legitimate claim expenses — legally required, not optional upgrades. Insurance carriers including USAA cover these costs when properly documented. We provide testing reports and specific documentation adjusters need to approve hazmat line items without delays.',
-    cta: 'Call (703) 656-0110 for emergency fire damage response. We assess hazardous materials, contain smoke migration between levels, and begin restoration with full EPA compliance from day one.',
+    cta: 'Call (877) 497-0007 for emergency fire damage response. We assess hazardous materials, contain smoke migration between levels, and begin restoration with full EPA compliance from day one.',
   },
   serviceAreaSection: {
     neighborhoods: [

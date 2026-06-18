@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's storm damage restoration experts. Emergency response to South Riding, Chantilly Highlands & Westfields. Wind, rain & hail damage repair. Call (703) 285-1104.`,
+    description: `Chantilly's storm damage restoration experts. Emergency response to South Riding, Chantilly Highlands & Westfields. Wind, rain & hail damage repair. Call (877) 497-0007.`,
   },
   h1: 'Storm Damage Restoration in Chantilly, Virginia',
   introSection: {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Materials and finishes—matching existing materials in Chantilly's newer homes affects material costs`,
       `HOA requirements—architectural guidelines in managed communities may affect repair specifications`,
     ],
-    cta: `Call (703) 285-1104 for emergency storm damage response. We provide free damage assessments and handle insurance documentation to maximize your claim.`,
+    cta: `Call (877) 497-0007 for emergency storm damage response. We provide free damage assessments and handle insurance documentation to maximize your claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `Should I wait for my insurance adjuster before cleaning up storm damage?`,
-      answer: `No. You have a duty to mitigate further damage. Call (703) 285-1104 for emergency board-up and tarping immediately. We document everything before and during cleanup, which satisfies insurance requirements while protecting your home from additional damage.`,
+      answer: `No. You have a duty to mitigate further damage. Call (877) 497-0007 for emergency board-up and tarping immediately. We document everything before and during cleanup, which satisfies insurance requirements while protecting your home from additional damage.`,
     },
     {
       question: `A tree fell on my roof during a storm—what do I do first?`,
@@ -133,6 +133,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Storm Damage in Chantilly? Act Now.',
-    paragraph: `Every hour without emergency tarping and board-up allows more water into your home. Our crews are ready along the Dulles corridor with emergency materials and extraction equipment. Call (703) 285-1104 now for 30-minute response.`,
+    paragraph: `Every hour without emergency tarping and board-up allows more water into your home. Our crews are ready along the Dulles corridor with emergency materials and extraction equipment. Call (877) 497-0007 now for 30-minute response.`,
   },
 }

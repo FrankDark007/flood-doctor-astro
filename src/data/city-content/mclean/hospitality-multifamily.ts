@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in McLean, VA | Flood Doctor`,
-    description: `McLean's trusted restoration experts for hotels, luxury condos, and multifamily properties. Discreet service near Langley and Chesterbrook. Call (703) 285-1108.`,
+    description: `McLean's trusted restoration experts for hotels, luxury condos, and multifamily properties. Discreet service near Langley and Chesterbrook. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in McLean, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our approach prioritizes revenue recovery and occupant satisfaction in parallel.
   processSteps: [
     {
       title: `Immediate Property Assessment and Containment`,
-      description: `When you call (703) 285-1108, our multi-unit response team deploys immediately. We assess the full vertical and horizontal scope of water migration, identify all affected units, and install containment to prevent further spread through McLean luxury properties.`,
+      description: `When you call (877) 497-0007, our multi-unit response team deploys immediately. We assess the full vertical and horizontal scope of water migration, identify all affected units, and install containment to prevent further spread through McLean luxury properties.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -124,7 +124,7 @@ Our approach prioritizes revenue recovery and occupant satisfaction in parallel.
       `Building access restrictions and scheduling limitations in occupied properties`,
       `Multi-policy documentation requirements for condominium master policies and individual unit coverage`,
     ],
-    cta: `Call (703) 285-1108 for immediate multi-unit assessment. We coordinate with property management companies, HOA boards, and insurance carriers to streamline the restoration process for McLean luxury properties.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. We coordinate with property management companies, HOA boards, and insurance carriers to streamline the restoration process for McLean luxury properties.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -184,6 +184,6 @@ Our approach prioritizes revenue recovery and occupant satisfaction in parallel.
   ],
   finalCTA: {
     headline: `Water Damage in Your McLean Property?`,
-    paragraph: `Every hour of water exposure threatens luxury finishes and increases displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your McLean hospitality or residential investment. Call (703) 285-1108 now.`,
+    paragraph: `Every hour of water exposure threatens luxury finishes and increases displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your McLean hospitality or residential investment. Call (877) 497-0007 now.`,
   },
 }

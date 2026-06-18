@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls basement flooding experts. 30-min response. Protecting wine cellars, home theaters & finished lower levels in estate homes. Call (703) 656-0112.',
+    description: 'Great Falls basement flooding experts. 30-min response. Protecting wine cellars, home theaters & finished lower levels in estate homes. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Cleanup in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC Master Water Restorers understand these Great Falls-specific challenge
   processSteps: [
     {
       title: 'Immediate Discrete Dispatch',
-      description: 'When you call (703) 656-0112, we dispatch immediately from our McLean staging area. Our unmarked vehicles reach properties throughout Great Falls—Forestville, Seneca Estates, Riverbend, Georgetown Pike corridor—within 30 minutes. For basement emergencies, every minute matters.',
+      description: 'When you call (877) 497-0007, we dispatch immediately from our McLean staging area. Our unmarked vehicles reach properties throughout Great Falls—Forestville, Seneca Estates, Riverbend, Georgetown Pike corridor—within 30 minutes. For basement emergencies, every minute matters.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -134,7 +134,7 @@ Our IICRC Master Water Restorers understand these Great Falls-specific challenge
       'Sump pump, well system, or septic repair coordination—we manage these specialists alongside our restoration work',
       'Emergency timing and response requirements for after-hours and weekend flooding events',
     ],
-    cta: `Call (703) 656-0112 for a free basement flooding assessment. We'll evaluate the damage, protect your wine cellar and valuables, and provide a written estimate before beginning work. Insurance coordination included.`,
+    cta: `Call (877) 497-0007 for a free basement flooding assessment. We'll evaluate the damage, protect your wine cellar and valuables, and provide a written estimate before beginning work. Insurance coordination included.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -158,7 +158,7 @@ Our IICRC Master Water Restorers understand these Great Falls-specific challenge
   faqs: [
     {
       question: 'How quickly can you respond to basement flooding in Great Falls?',
-      answer: `We guarantee 30-minute response to all Great Falls properties. Our crews are positioned throughout the Georgetown Pike corridor—when you call about a flooded basement in Forestville, Seneca Estates, or any Great Falls location, we're already nearby. Every minute matters with basement flooding—call immediately at (703) 656-0112.`,
+      answer: `We guarantee 30-minute response to all Great Falls properties. Our crews are positioned throughout the Georgetown Pike corridor—when you call about a flooded basement in Forestville, Seneca Estates, or any Great Falls location, we're already nearby. Every minute matters with basement flooding—call immediately at (877) 497-0007.`,
     },
     {
       question: 'Can you protect my wine cellar during basement flooding cleanup?',

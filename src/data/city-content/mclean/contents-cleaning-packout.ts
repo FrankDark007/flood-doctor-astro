@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in McLean, VA | Flood Doctor',
-    description: `McLean's trusted contents restoration specialists. Art, wine, electronics & heirloom protection for luxury estates. Climate-controlled storage. Call (703) 285-1108.`,
+    description: `McLean's trusted contents restoration specialists. Art, wine, electronics & heirloom protection for luxury estates. Climate-controlled storage. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in McLean, Virginia',
   introSection: {
@@ -115,7 +115,7 @@ At our 12,000-square-foot climate-controlled facility, every item receives treat
       'Duration of climate-controlled storage — longer structural restoration timelines extend storage periods',
       'Documentation requirements — high-value insurance claims require detailed condition reports and itemized restoration records',
     ],
-    cta: `Call (703) 285-1108 for a confidential contents assessment. We evaluate your belongings, provide a detailed restoration and storage estimate, and coordinate with your insurance carrier from day one.`,
+    cta: `Call (877) 497-0007 for a confidential contents assessment. We evaluate your belongings, provide a detailed restoration and storage estimate, and coordinate with your insurance carrier from day one.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -176,6 +176,6 @@ At our 12,000-square-foot climate-controlled facility, every item receives treat
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your McLean Home?',
-    paragraph: 'Every hour of exposure to water, smoke, or mold causes additional damage to your irreplaceable possessions. Our contents restoration team responds within 30 minutes to stabilize priority items and begins the professional pack-out process that protects everything your McLean estate holds. Call (703) 285-1108 now.',
+    paragraph: 'Every hour of exposure to water, smoke, or mold causes additional damage to your irreplaceable possessions. Our contents restoration team responds within 30 minutes to stabilize priority items and begins the professional pack-out process that protects everything your McLean estate holds. Call (877) 497-0007 now.',
   },
 }

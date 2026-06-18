@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Tysons, VA | Flood Doctor',
-    description: `Tysons odor elimination for luxury condos & modern buildings. HVAC-distributed odor treatment, mold & smoke removal with building coordination. Call (703) 285-1100.`,
+    description: `Tysons odor elimination for luxury condos & modern buildings. HVAC-distributed odor treatment, mold & smoke removal with building coordination. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Tysons, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians deploy hydroxyl generators that operate safely in occupied luxur
   processSteps: [
     {
       title: 'Building-Aware Assessment',
-      description: `Call (703) 285-1100 and we schedule an assessment that examines both your unit and the building systems connected to it. Using borescopes, moisture meters, and HVAC inspection, we trace the odor source — whether it originates within your Tysons Corner condo, from shared ductwork, or through plumbing infrastructure.`,
+      description: `Call (877) 497-0007 and we schedule an assessment that examines both your unit and the building systems connected to it. Using borescopes, moisture meters, and HVAC inspection, we trace the odor source — whether it originates within your Tysons Corner condo, from shared ductwork, or through plumbing infrastructure.`,
       timeframe: 'Initial visit',
     },
     {
@@ -108,7 +108,7 @@ Our technicians deploy hydroxyl generators that operate safely in occupied luxur
       'Contamination type — mold, smoke, sewage, and chemical odors each require specific protocols with different costs and timelines',
       'Property management coordination — building-level access and treatment scheduling may add logistical requirements',
     ],
-    cta: `Call (703) 285-1100 for professional odor assessment. We identify whether the source is within your unit or building systems, explain treatment options, and provide detailed estimates.`,
+    cta: `Call (877) 497-0007 for professional odor assessment. We identify whether the source is within your unit or building systems, explain treatment options, and provide detailed estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,6 +159,6 @@ Our technicians deploy hydroxyl generators that operate safely in occupied luxur
   ],
   finalCTA: {
     headline: 'Persistent Odors in Your Tysons Property?',
-    paragraph: 'In sealed modern buildings, odors from hidden sources only worsen without professional intervention. Our Tysons deodorization team traces odors through building systems, eliminates them at the molecular level, and coordinates with property management to ensure permanent results. Call (703) 285-1100.',
+    paragraph: 'In sealed modern buildings, odors from hidden sources only worsen without professional intervention. Our Tysons deodorization team traces odors through building systems, eliminates them at the molecular level, and coordinates with property management to ensure permanent results. Call (877) 497-0007.',
   },
 }

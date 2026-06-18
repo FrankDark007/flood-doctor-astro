@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling healthcare facility water damage and mold restoration. Medical offices, dental practices & urgent care along Route 7. Infection control compliance. Call (703) 285-1111.`,
+    description: `Sterling healthcare facility water damage and mold restoration. Medical offices, dental practices & urgent care along Route 7. Infection control compliance. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our crews are trained in healthcare restoration protocols and understand the reg
   processSteps: [
     {
       title: `Healthcare Emergency Response`,
-      description: `Call (703) 285-1111 for immediate healthcare facility response. Our crews arrive with infection control supplies, medical equipment protection materials, and HIPAA-compliant document handling protocols for Sterling medical and dental practices.`,
+      description: `Call (877) 497-0007 for immediate healthcare facility response. Our crews arrive with infection control supplies, medical equipment protection materials, and HIPAA-compliant document handling protocols for Sterling medical and dental practices.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -77,7 +77,7 @@ Our crews are trained in healthcare restoration protocols and understand the reg
       `HIPAA compliance—secure handling of exposed patient records and health information`,
       `Practice resumption timeline—accelerated scheduling to minimize revenue-impacting closure`,
     ],
-    cta: `Call (703) 285-1111 for healthcare facility emergency response. We understand that your Sterling practice serves patients who depend on you—our restoration respects both your facility and your mission.`,
+    cta: `Call (877) 497-0007 for healthcare facility emergency response. We understand that your Sterling practice serves patients who depend on you—our restoration respects both your facility and your mission.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our crews are trained in healthcare restoration protocols and understand the reg
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Priority response for Sterling healthcare facilities. 30-minute emergency dispatch for active water events threatening medical equipment and patient care spaces. Call (703) 285-1111.`,
+    responseTime: `Priority response for Sterling healthcare facilities. 30-minute emergency dispatch for active water events threatening medical equipment and patient care spaces. Call (877) 497-0007.`,
   },
   faqs: [
     {

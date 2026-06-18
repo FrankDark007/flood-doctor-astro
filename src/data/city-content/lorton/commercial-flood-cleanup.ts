@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Lorton, VA | Flood Doctor',
-    description: `Lorton commercial flood cleanup. Occoquan River tidal flooding, Laurel Hill storm drainage & Route 1 corridor flash floods. Industrial pumping & contamination management. Call (703) 285-1100.`,
+    description: `Lorton commercial flood cleanup. Occoquan River tidal flooding, Laurel Hill storm drainage & Route 1 corridor flash floods. Industrial pumping & contamination management. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Lorton, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams deploy to Lorton with both the industrial pumping cap
   processSteps: [
     {
       title: 'Storm-Alert Commercial Dispatch',
-      description: `Call (703) 285-1100 for immediate flood response. Our Lorton crews monitor tidal and storm conditions affecting the Occoquan waterfront and deploy industrial pumping to commercial properties across Laurel Hill, the Route 1 corridor, and South County business areas.`,
+      description: `Call (877) 497-0007 for immediate flood response. Our Lorton crews monitor tidal and storm conditions affecting the Occoquan waterfront and deploy industrial pumping to commercial properties across Laurel Hill, the Route 1 corridor, and South County business areas.`,
       timeframe: 'Within 60 minutes',
     },
     {
@@ -114,7 +114,7 @@ Our commercial flood teams deploy to Lorton with both the industrial pumping cap
       'Development drainage documentation—new-development flooding may require engineering assessment supporting liability recovery',
       'Riverside drying extension—elevated ambient humidity near the Occoquan extends equipment deployment and monitoring periods',
     ],
-    cta: `Call (703) 285-1100 for emergency commercial flood response. Our Lorton teams deploy industrial pumping and contamination management for tidal, storm, and flash flood events across this growing market.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. Our Lorton teams deploy industrial pumping and contamination management for tidal, storm, and flash flood events across this growing market.`,
   },
   serviceAreaSection: {
     neighborhoods: [

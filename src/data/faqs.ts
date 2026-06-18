@@ -38,7 +38,7 @@ export const faqs: FAQItem[] = [
   },
   {
     question: 'Do you offer free estimates?',
-    answer: 'Yes, Flood Doctor provides free on-site estimates for all water damage, mold remediation, and restoration services. For emergency situations, we begin work immediately and provide a detailed estimate once the situation is stabilized. Call us at (703) 285-1100 or use our online request form.',
+    answer: 'Yes, Flood Doctor provides free on-site estimates for all water damage, mold remediation, and restoration services. For emergency situations, we begin work immediately and provide a detailed estimate once the situation is stabilized. Call us at (877) 497-0007 or use our online request form.',
   },
   {
     question: 'What areas do you serve?',

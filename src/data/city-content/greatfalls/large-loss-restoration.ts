@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Great Falls, VA | Flood Doctor',
-    description: `Great Falls large loss restoration for equestrian campuses, luxury commercial complexes & estate-adjacent properties. Ultra-premium project management. Call (703) 285-1100.`,
+    description: `Great Falls large loss restoration for equestrian campuses, luxury commercial complexes & estate-adjacent properties. Ultra-premium project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors bring both the premium-market sensibility and the practica
   processSteps: [
     {
       title: 'Priority Stabilization & Asset Protection',
-      description: `Call (703) 285-1100 to activate large loss response. Our stabilization team secures the property with immediate attention to high-value assets, livestock welfare, and irreplaceable elements while the project director mobilizes full premium-scale resources.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team secures the property with immediate attention to high-value assets, livestock welfare, and irreplaceable elements while the project director mobilizes full premium-scale resources.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -114,7 +114,7 @@ Our project directors bring both the premium-market sensibility and the practica
       'Private infrastructure—well and septic system repair or replacement integrated into building restoration adds specialized scope',
       'High-value asset management—art, collections, and specialized equipment requiring individual protection and insurance documentation',
     ],
-    cta: `Call (703) 285-1100 for immediate large loss response. Our senior project director brings ultra-premium market expertise and rural-property logistics capability for Great Falls' most demanding restoration projects.`,
+    cta: `Call (877) 497-0007 for immediate large loss response. Our senior project director brings ultra-premium market expertise and rural-property logistics capability for Great Falls' most demanding restoration projects.`,
   },
   serviceAreaSection: {
     neighborhoods: [

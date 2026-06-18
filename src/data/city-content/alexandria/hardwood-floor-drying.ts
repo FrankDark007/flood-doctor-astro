@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Alexandria, VA | Save Your Floors | Flood Doctor',
-    description: `Alexandria hardwood floor drying with historic preservation expertise. Saving original floors in Old Town, Del Ray & Rosemont. BAR-aware restoration. Call (703) 285-1101.`,
+    description: `Alexandria hardwood floor drying with historic preservation expertise. Saving original floors in Old Town, Del Ray & Rosemont. BAR-aware restoration. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Alexandria, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Historic Floor Response',
-      description: `We respond to your Alexandria home within 30 minutes of your call to (703) 285-1101. For historic properties in Old Town and Rosemont, our first assessment identifies wood species, age, condition, and any preservation considerations that affect our drying approach.`,
+      description: `We respond to your Alexandria home within 30 minutes of your call to (877) 497-0007. For historic properties in Old Town and Rosemont, our first assessment identifies wood species, age, condition, and any preservation considerations that affect our drying approach.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Adjacent material moisture—plaster walls that continue releasing water extend treatment duration',
       'Preservation requirements—historic district properties may need BAR-aware exterior access coordination',
     ],
-    cta: `Call (703) 285-1101 the moment water contacts your Alexandria hardwood. For historic floors, every hour is the difference between preservation and loss. Free assessment, honest evaluation.`,
+    cta: `Call (877) 497-0007 the moment water contacts your Alexandria hardwood. For historic floors, every hour is the difference between preservation and loss. Free assessment, honest evaluation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water Threatening Your Alexandria Hardwood? Every Hour Counts.',
-    paragraph: `Your historic hardwood floors survived centuries—do not let one water event destroy them. Call (703) 285-1101 for immediate response with preservation-grade drying that saves irreplaceable Alexandria flooring.`,
+    paragraph: `Your historic hardwood floors survived centuries—do not let one water event destroy them. Call (877) 497-0007 for immediate response with preservation-grade drying that saves irreplaceable Alexandria flooring.`,
   },
 }

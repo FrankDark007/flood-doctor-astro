@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Emergency commercial sewage cleanup for Leesburg businesses. Downtown buildings, restaurants, retail centers, and government offices. Call (703) 285-1107.`,
+    description: `Emergency commercial sewage cleanup for Leesburg businesses. Downtown buildings, restaurants, retail centers, and government offices. Call (877) 497-0007.`,
   },
   h1: `Leesburg Commercial Sewage Cleanup`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Hazmat Dispatch`,
-      description: `Call (703) 285-1107 for immediate commercial sewage response. Crews arrive in full PPE with containment materials, extraction equipment, and decontamination supplies ready for deployment.`,
+      description: `Call (877) 497-0007 for immediate commercial sewage response. Crews arrive in full PPE with containment materials, extraction equipment, and decontamination supplies ready for deployment.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `After-hours and emergency service requirements`,
       `Commercial insurance coverage and deductible`,
     ],
-    cta: `Call (703) 285-1107 for immediate commercial sewage response. Health and liability risks demand fast action.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage response. Health and liability risks demand fast action.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,6 +126,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Leesburg? Call Now`,
-    paragraph: `Sewage contamination in your commercial space is a health emergency and a liability risk. Flood Doctor provides OSHA-compliant commercial sewage cleanup for Leesburg businesses of every type. Call (703) 285-1107 for immediate 24/7 hazmat response.`,
+    paragraph: `Sewage contamination in your commercial space is a health emergency and a liability risk. Flood Doctor provides OSHA-compliant commercial sewage cleanup for Leesburg businesses of every type. Call (877) 497-0007 for immediate 24/7 hazmat response.`,
   },
 }

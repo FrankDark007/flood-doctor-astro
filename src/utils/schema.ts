@@ -6,6 +6,14 @@
 import { cityData, allCities } from '../data/cities'
 import type { CityData } from '../data/cities'
 
+const HEADQUARTERS = {
+  streetAddress: '8466D Tyco Rd',
+  addressLocality: 'Vienna',
+  addressRegion: 'VA',
+  postalCode: '22182',
+  addressCountry: 'US',
+}
+
 /** Returns the canonical base URL for a city (main → flood.doctor, others → {slug}.flood.doctor) */
 export function cityBaseUrl(slug: string = cityData.slug): string {
   return slug === 'main' ? 'https://flood.doctor' : `https://${slug}.flood.doctor`
@@ -25,11 +33,7 @@ export function localBusinessSchema(city: CityData = cityData) {
     url: baseUrl,
     address: {
       '@type': 'PostalAddress',
-      streetAddress: city.address.split(',')[0]?.trim(),
-      addressLocality: city.name,
-      addressRegion: city.stateAbbr,
-      postalCode: city.zipCode,
-      addressCountry: 'US',
+      ...HEADQUARTERS,
     },
     geo: {
       '@type': 'GeoCoordinates',
@@ -40,12 +44,6 @@ export function localBusinessSchema(city: CityData = cityData) {
       '@type': 'City',
       name: area,
     })),
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: '4.9',
-      reviewCount: '103',
-      bestRating: '5',
-    },
     openingHoursSpecification: {
       '@type': 'OpeningHoursSpecification',
       dayOfWeek: [

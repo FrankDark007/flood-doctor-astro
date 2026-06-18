@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hardwood Floor Drying in Leesburg, VA | Flood Doctor`,
-    description: `Professional hardwood floor drying for Leesburg homes. Save original wide-plank and modern hardwood floors from water damage. Call (703) 285-1107.`,
+    description: `Professional hardwood floor drying for Leesburg homes. Save original wide-plank and modern hardwood floors from water damage. Call (877) 497-0007.`,
   },
   h1: `Leesburg Hardwood Floor Drying`,
   introSection: {
@@ -84,7 +84,7 @@ export const content: CityServiceContent = {
       `Solid hardwood vs. engineered flooring`,
       `Subfloor condition and crawl space moisture contribution`,
     ],
-    cta: `Call (703) 285-1107 for immediate hardwood floor assessment — early intervention saves floors.`,
+    cta: `Call (877) 497-0007 for immediate hardwood floor assessment — early intervention saves floors.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -109,7 +109,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `Can my water-damaged hardwood floors be saved?`,
-      answer: `In many cases, yes — especially with prompt professional treatment. The key factors are how long the wood was wet, the water category, and the wood species. Call (703) 285-1107 immediately for the best chance of saving your floors.`,
+      answer: `In many cases, yes — especially with prompt professional treatment. The key factors are how long the wood was wet, the water category, and the wood species. Call (877) 497-0007 immediately for the best chance of saving your floors.`,
     },
     {
       question: `How long does hardwood floor drying take?`,
@@ -138,6 +138,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Water on Your Leesburg Hardwood Floors? Act Fast`,
-    paragraph: `Every hour of water exposure reduces the chance of saving your hardwood floors. Flood Doctor's specialized floor drying systems have saved hundreds of Leesburg floors from replacement. Call (703) 285-1107 now for immediate response.`,
+    paragraph: `Every hour of water exposure reduces the chance of saving your hardwood floors. Flood Doctor's specialized floor drying systems have saved hundreds of Leesburg floors from replacement. Call (877) 497-0007 now for immediate response.`,
   },
 }

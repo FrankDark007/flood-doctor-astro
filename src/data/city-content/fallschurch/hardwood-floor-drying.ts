@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Falls Church, VA | Save Your Floors | Flood Doctor',
-    description: `Falls Church hardwood floor drying with historic sensitivity. Saving original floors in Falls Church City, Lake Barcroft & Pimmit Hills. 1920s-60s home expertise. Call (703) 285-1100.`,
+    description: `Falls Church hardwood floor drying with historic sensitivity. Saving original floors in Falls Church City, Lake Barcroft & Pimmit Hills. 1920s-60s home expertise. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Falls Church, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Falls Church Response',
-      description: `When you call (703) 285-1100, we respond within 30 minutes. Our first assessment identifies the wood era, species, and condition—1920s heart pine requires fundamentally different handling than 1960s red oak. We measure moisture throughout the floor and evaluate the subfloor system beneath.`,
+      description: `When you call (877) 497-0007, we respond within 30 minutes. Our first assessment identifies the wood era, species, and condition—1920s heart pine requires fundamentally different handling than 1960s red oak. We measure moisture throughout the floor and evaluate the subfloor system beneath.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -109,7 +109,7 @@ export const content: CityServiceContent = {
       'Multi-unit coordination for apartment complex incidents',
       'Preservation requirements for original flooring that cannot be replaced',
     ],
-    cta: `Call (703) 285-1100 the moment water contacts your Falls Church hardwood. For irreplaceable floors, every minute matters. Free assessment, preservation-first approach.`,
+    cta: `Call (877) 497-0007 the moment water contacts your Falls Church hardwood. For irreplaceable floors, every minute matters. Free assessment, preservation-first approach.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -161,6 +161,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Falls Church Historic Hardwood in Danger? Act Now.',
-    paragraph: `Your century-old floors survived generations—do not lose them to one water event. Call (703) 285-1100 for immediate preservation-grade drying that saves the flooring that gives your Falls Church home its character.`,
+    paragraph: `Your century-old floors survived generations—do not lose them to one water event. Call (877) 497-0007 for immediate preservation-grade drying that saves the flooring that gives your Falls Church home its character.`,
   },
 }

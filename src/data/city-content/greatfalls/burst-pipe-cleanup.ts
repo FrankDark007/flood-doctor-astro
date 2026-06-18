@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Great Falls, VA | Flood Doctor',
-    description: 'Great Falls burst pipe emergency response. 30-min discrete service. Protecting estates from supply line failures, frozen pipes & plumbing disasters. Call (703) 656-0112.',
+    description: 'Great Falls burst pipe emergency response. 30-min discrete service. Protecting estates from supply line failures, frozen pipes & plumbing disasters. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Repair & Water Damage Cleanup in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC Master Water Restorers understand the complexity of Great Falls estate
   processSteps: [
     {
       title: 'Immediate Water Shutoff Guidance',
-      description: `When you call (703) 656-0112, we immediately guide you to shut off water if safe. Great Falls estates often have multiple shutoff points—main well supply, individual building shutoffs, and fixture stops. We'll help you identify the fastest way to stop ongoing water flow while we're en route.`,
+      description: `When you call (877) 497-0007, we immediately guide you to shut off water if safe. Great Falls estates often have multiple shutoff points—main well supply, individual building shutoffs, and fixture stops. We'll help you identify the fastest way to stop ongoing water flow while we're en route.`,
       timeframe: 'Phone call',
     },
     {
@@ -135,7 +135,7 @@ Our IICRC Master Water Restorers understand the complexity of Great Falls estate
       'Plumber coordination for pipe repair and system assessment alongside water damage restoration',
       `Emergency timing and the complexity of accessing the burst location within the estate's plumbing network`,
     ],
-    cta: `Call (703) 656-0112 for immediate burst pipe response. We'll guide you to shut off water during the call, arrive within 30 minutes, and provide a written estimate before restoration work begins. Insurance coordination is included.`,
+    cta: `Call (877) 497-0007 for immediate burst pipe response. We'll guide you to shut off water during the call, arrive within 30 minutes, and provide a written estimate before restoration work begins. Insurance coordination is included.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -159,7 +159,7 @@ Our IICRC Master Water Restorers understand the complexity of Great Falls estate
   faqs: [
     {
       question: 'How quickly can you respond to a burst pipe in Great Falls?',
-      answer: 'We guarantee 30-minute response to all Great Falls properties. When you call (703) 656-0112, we immediately guide you to shut off water if safe, then dispatch from our McLean staging area. We reach Forestville, Seneca Estates, Georgetown Pike, and all Great Falls locations within our guaranteed timeframe.',
+      answer: 'We guarantee 30-minute response to all Great Falls properties. When you call (877) 497-0007, we immediately guide you to shut off water if safe, then dispatch from our McLean staging area. We reach Forestville, Seneca Estates, Georgetown Pike, and all Great Falls locations within our guaranteed timeframe.',
     },
     {
       question: 'A pipe burst upstairs—how do I know if damage reached lower levels?',

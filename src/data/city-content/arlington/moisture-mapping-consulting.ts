@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Arlington, VA | Flood Doctor',
-    description: `Arlington's trusted moisture mapping experts. Infrared thermography for high-rise condos, rowhouses & multi-unit buildings in Rosslyn, Clarendon & Crystal City. Call (703) 285-1102.`,
+    description: `Arlington's trusted moisture mapping experts. Infrared thermography for high-rise condos, rowhouses & multi-unit buildings in Rosslyn, Clarendon & Crystal City. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Arlington, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Documentation scope for insurance claims, HOA reporting, or inter-unit liability determination',
       'Duration of monitoring during active drying operations across multiple affected spaces',
     ],
-    cta: `Call (703) 285-1102 for a detailed assessment proposal. We coordinate with building management and HOA boards to scope multi-unit evaluations efficiently.`,
+    cta: `Call (877) 497-0007 for a detailed assessment proposal. We coordinate with building management and HOA boards to scope multi-unit evaluations efficiently.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Bluemont',
       'Ashton Heights',
     ],
-    responseTime: `Same-day moisture assessment throughout Arlington County. Emergency thermal imaging available within 90 minutes for active water intrusion in occupied buildings. Call (703) 285-1102.`,
+    responseTime: `Same-day moisture assessment throughout Arlington County. Emergency thermal imaging available within 90 minutes for active water intrusion in occupied buildings. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -173,6 +173,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Concerns in Your Arlington Property?',
-    paragraph: `Whether you manage a Rosslyn high-rise, own a Clarendon rowhouse, or oversee an Arlington condominium association, our scientific moisture mapping provides the objective data you need. Call (703) 285-1102 for a professional assessment.`,
+    paragraph: `Whether you manage a Rosslyn high-rise, own a Clarendon rowhouse, or oversee an Arlington condominium association, our scientific moisture mapping provides the objective data you need. Call (877) 497-0007 for a professional assessment.`,
   },
 }

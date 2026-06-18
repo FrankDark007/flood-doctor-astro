@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Springfield, VA | Flood Doctor',
-    description: 'Springfield sewage backup cleanup. Biohazard-certified crews for sewer overflow, drain backups & contaminated water. West Springfield, Kingstowne, Franconia. Call (703) 656-0110.',
+    description: 'Springfield sewage backup cleanup. Biohazard-certified crews for sewer overflow, drain backups & contaminated water. West Springfield, Kingstowne, Franconia. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in Springfield, Virginia',
   introSection: {
@@ -63,7 +63,7 @@ export const content: CityServiceContent = {
       'Sub-slab treatment — injection port installation and sub-membrane depressurization for slab-penetration events',
       'Root cause documentation — camera inspection, ejector diagnosis, and multi-level contamination mapping for insurance',
     ],
-    cta: 'Call (703) 656-0110 immediately for sewage emergencies. Contamination spreads rapidly through split-level stairwell systems — every hour extends the affected zone. Free assessments, direct insurance billing.',
+    cta: 'Call (877) 497-0007 immediately for sewage emergencies. Contamination spreads rapidly through split-level stairwell systems — every hour extends the affected zone. Free assessments, direct insurance billing.',
   },
   serviceAreaSection: {
     neighborhoods: [

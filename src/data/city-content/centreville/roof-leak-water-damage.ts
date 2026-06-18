@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage in Centreville, VA | Flood Doctor',
-    description: `Centreville roof leak water damage restoration. Aging roof specialists for Virginia Run, Centre Ridge & Sully Station homes. Emergency tarping available. Call (703) 285-1103.`,
+    description: `Centreville roof leak water damage restoration. Aging roof specialists for Virginia Run, Centre Ridge & Sully Station homes. Emergency tarping available. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Repair in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our approach traces the water from the visible damage back to the roof entry poi
   processSteps: [
     {
       title: 'Emergency Response & Tarping',
-      description: `Call (703) 285-1103 and we respond within 30 minutes. If the roof is actively leaking, we deploy emergency tarps to stop water entry. We contain interior water to prevent further spread while setting up extraction equipment.`,
+      description: `Call (877) 497-0007 and we respond within 30 minutes. If the roof is actively leaking, we deploy emergency tarps to stop water entry. We contain interior water to prevent further spread while setting up extraction equipment.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -110,7 +110,7 @@ Our approach traces the water from the visible damage back to the roof entry poi
       'Mold presence—chronic leaks often include mold remediation as part of the restoration scope',
       'Roof repair needs—emergency tarping is included; permanent roof repair is coordinated separately',
     ],
-    cta: `Call (703) 285-1103 for immediate roof leak response. We stop the water entry, dry the damage, and handle your insurance claim from start to finish.`,
+    cta: `Call (877) 497-0007 for immediate roof leak response. We stop the water entry, dry the damage, and handle your insurance claim from start to finish.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ Our approach traces the water from the visible damage back to the roof entry poi
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `30-minute response to all Centreville neighborhoods for roof leak emergencies. Active leaks during rain require immediate tarping—call (703) 285-1103 now.`,
+    responseTime: `30-minute response to all Centreville neighborhoods for roof leak emergencies. Active leaks during rain require immediate tarping—call (877) 497-0007 now.`,
   },
   faqs: [
     {
@@ -164,6 +164,6 @@ Our approach traces the water from the visible damage back to the roof entry poi
   ],
   finalCTA: {
     headline: 'Roof Leak Damaging Your Centreville Home?',
-    paragraph: `Do not wait for the next rainstorm to make it worse. Call (703) 285-1103 now for emergency tarping, water extraction, and complete water damage restoration. We coordinate everything—from stopping the leak to rebuilding the ceiling.`,
+    paragraph: `Do not wait for the next rainstorm to make it worse. Call (877) 497-0007 now for emergency tarping, water extraction, and complete water damage restoration. We coordinate everything—from stopping the leak to rebuilding the ceiling.`,
   },
 }

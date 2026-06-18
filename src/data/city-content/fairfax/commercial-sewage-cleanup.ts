@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's trusted commercial sewage cleanup experts. OSHA-compliant biohazard remediation for restaurants, offices, and retail near George Mason University and Fairfax Corner. Call (703) 285-1105.`,
+    description: `Fairfax's trusted commercial sewage cleanup experts. OSHA-compliant biohazard remediation for restaurants, offices, and retail near George Mason University and Fairfax Corner. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Fairfax, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Response Across Fairfax`,
-      description: `Call (703) 285-1105 and our hazmat crew deploys to your Fairfax commercial property immediately. We reach Fairfax City, Burke Centre, Kings Park, and Mantua commercial locations within our rapid response guarantee, establishing containment barriers before contamination spreads to adjacent tenant spaces.`,
+      description: `Call (877) 497-0007 and our hazmat crew deploys to your Fairfax commercial property immediately. We reach Fairfax City, Burke Centre, Kings Park, and Mantua commercial locations within our rapid response guarantee, establishing containment barriers before contamination spreads to adjacent tenant spaces.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       `Shared-wall involvement—contamination migrating to adjacent tenants in strip malls expands remediation scope`,
       `Business interruption timeline—Fairfax restaurant and retail operators benefit from expedited service to reduce revenue loss`,
     ],
-    cta: `Call (703) 285-1105 for immediate commercial sewage emergency response in Fairfax. We provide free on-site assessment, detailed estimates, and coordinate with your insurance carrier to streamline the claims process.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Fairfax. We provide free on-site assessment, detailed estimates, and coordinate with your insurance carrier to streamline the claims process.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -162,6 +162,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Fairfax?`,
-    paragraph: `Sewage contamination at your Fairfax commercial property threatens employee health, regulatory standing, and business revenue. Our OSHA-compliant hazmat crews deliver rapid containment, professional remediation, and complete documentation. Call (703) 285-1105 for immediate response.`,
+    paragraph: `Sewage contamination at your Fairfax commercial property threatens employee health, regulatory standing, and business revenue. Our OSHA-compliant hazmat crews deliver rapid containment, professional remediation, and complete documentation. Call (877) 497-0007 for immediate response.`,
   },
 }

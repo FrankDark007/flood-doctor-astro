@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Reston, VA | Flood Doctor',
-    description: `Reston indoor air quality testing. Mold sampling for townhome clusters, garden condos & lake-adjacent homes in South Lakes, Hunters Woods & Lake Anne. Call (703) 285-1109.`,
+    description: `Reston indoor air quality testing. Mold sampling for townhome clusters, garden condos & lake-adjacent homes in South Lakes, Hunters Woods & Lake Anne. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Reston, Virginia',
   introSection: {
@@ -105,7 +105,7 @@ export const content: CityServiceContent = {
       'HVAC system assessment including surface sampling and duct inspection',
       'HOA documentation and multi-stakeholder reporting requirements',
     ],
-    cta: `Call (703) 285-1109 for a consultation. We recommend the appropriate testing scope for your Reston property type and concerns.`,
+    cta: `Call (877) 497-0007 for a consultation. We recommend the appropriate testing scope for your Reston property type and concerns.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -124,7 +124,7 @@ export const content: CityServiceContent = {
       'Glade Cluster',
       'W&OD Trail Corridor',
     ],
-    responseTime: `Same-day IAQ assessment throughout Reston. Emergency sampling within 2 hours for visible mold or acute health symptoms. Call (703) 285-1109.`,
+    responseTime: `Same-day IAQ assessment throughout Reston. Emergency sampling within 2 hours for visible mold or acute health symptoms. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -158,6 +158,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Air Quality Concerns in Your Reston Home?',
-    paragraph: `Whether you live in a townhome cluster, garden condo, or wooded-lot single-family, our scientific IAQ testing identifies the specific contaminants affecting your indoor environment. Call (703) 285-1109 for a professional assessment.`,
+    paragraph: `Whether you live in a townhome cluster, garden condo, or wooded-lot single-family, our scientific IAQ testing identifies the specific contaminants affecting your indoor environment. Call (877) 497-0007 for a professional assessment.`,
   },
 }

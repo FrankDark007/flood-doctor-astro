@@ -6,7 +6,7 @@ const greatfalls: CityData = {
   state: 'Virginia',
   stateAbbr: 'VA',
   fullName: 'Great Falls, Virginia',
-  phone: '(703) 285-1100',
+  phone: '(877) 497-0007',
   address: '9859 Georgetown Pike, Great Falls, VA 22066',
   zipCode: '22066',
   serviceArea: [
@@ -17,7 +17,7 @@ const greatfalls: CityData = {
   coordinates: { lat: 38.9982, lng: -77.2884 },
   meta: {
     title: 'Flood Doctor Great Falls | 24/7 Water Damage Restoration',
-    description: '24/7 emergency water damage restoration in Great Falls, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (703) 285-1100.',
+    description: '24/7 emergency water damage restoration in Great Falls, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (877) 497-0007.',
   },
 }
 

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Flood Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Emergency flood cleanup for Leesburg homes and businesses. Goose Creek flooding specialists serving Lansdowne, Edwards Ferry, and Village at Leesburg. Call (703) 285-1107.`,
+    description: `Emergency flood cleanup for Leesburg homes and businesses. Goose Creek flooding specialists serving Lansdowne, Edwards Ferry, and Village at Leesburg. Call (877) 497-0007.`,
   },
   h1: `Leesburg Flood Cleanup Services`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Dispatch`,
-      description: `Call (703) 285-1107 for immediate flood response. Our Leesburg crews deploy with pumps, extractors, and drying equipment pre-loaded for rapid flood intervention.`,
+      description: `Call (877) 497-0007 for immediate flood response. Our Leesburg crews deploy with pumps, extractors, and drying equipment pre-loaded for rapid flood intervention.`,
       timeframe: `Immediate`,
     },
     {
@@ -91,7 +91,7 @@ export const content: CityServiceContent = {
       `Need for content manipulation, removal, or disposal`,
       `Insurance coverage and deductible structure`,
     ],
-    cta: `Call (703) 285-1107 for emergency flood cleanup and a free damage assessment.`,
+    cta: `Call (877) 497-0007 for emergency flood cleanup and a free damage assessment.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -116,7 +116,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `What should I do first when my Leesburg home floods?`,
-      answer: `Ensure safety first — turn off electricity if water is near outlets, then call (703) 285-1107 immediately. Do not walk through standing floodwater, as it may be contaminated or hide hazards. Our crews can be at your Leesburg property within 30-60 minutes.`,
+      answer: `Ensure safety first — turn off electricity if water is near outlets, then call (877) 497-0007 immediately. Do not walk through standing floodwater, as it may be contaminated or hide hazards. Our crews can be at your Leesburg property within 30-60 minutes.`,
     },
     {
       question: `Is Goose Creek flooding covered by homeowner insurance?`,
@@ -146,6 +146,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Leesburg Flooding? Call Flood Doctor Now`,
-    paragraph: `Every minute counts during a flood. From Goose Creek overflows to burst pipes in Lansdowne estates, Flood Doctor provides the rapid response and expert cleanup that Leesburg properties need. Call (703) 285-1107 now for immediate 24/7 flood cleanup service.`,
+    paragraph: `Every minute counts during a flood. From Goose Creek overflows to burst pipes in Lansdowne estates, Flood Doctor provides the rapid response and expert cleanup that Leesburg properties need. Call (877) 497-0007 now for immediate 24/7 flood cleanup service.`,
   },
 }

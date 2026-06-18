@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire & Smoke Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville fire and smoke damage cleanup specialists. Soot removal, odor elimination & restoration for Virginia Run, Centre Ridge & Sully Station. Call (703) 285-1103.`,
+    description: `Centreville fire and smoke damage cleanup specialists. Soot removal, odor elimination & restoration for Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Fire & Smoke Cleanup Services in Centreville, Virginia',
   introSection: {
@@ -109,7 +109,7 @@ Our restoration approach addresses all three challenges in parallel. We extract 
       'Contents restoration—volume and type of smoke-damaged belongings requiring cleaning or replacement',
       'Water damage—firefighting water creates secondary damage requiring extraction and drying',
     ],
-    cta: `Call (703) 285-1103 after any fire event. Even small fires create smoke damage that worsens over time. We provide free assessments and coordinate directly with your insurance carrier.`,
+    cta: `Call (877) 497-0007 after any fire event. Even small fires create smoke damage that worsens over time. We provide free assessments and coordinate directly with your insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -162,6 +162,6 @@ Our restoration approach addresses all three challenges in parallel. We extract 
   ],
   finalCTA: {
     headline: 'Fire or Smoke Damage in Your Centreville Home?',
-    paragraph: `Soot and smoke residue cause permanent damage to surfaces if not cleaned promptly. Call (703) 285-1103 now for emergency board-up, smoke assessment, and complete fire restoration. We handle everything—cleanup to rebuild.`,
+    paragraph: `Soot and smoke residue cause permanent damage to surfaces if not cleaned promptly. Call (877) 497-0007 now for emergency board-up, smoke assessment, and complete fire restoration. We handle everything—cleanup to rebuild.`,
   },
 }

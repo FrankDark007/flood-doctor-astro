@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Vienna, VA | Flood Doctor',
-    description: `Vienna roof leak water damage specialists. Serving Vienna Town, Oakton & Wolftrap. Colonial and luxury home expertise. Ice dam prevention. Emergency tarping. Call (703) 285-1112.`,
+    description: `Vienna roof leak water damage specialists. Serving Vienna Town, Oakton & Wolftrap. Colonial and luxury home expertise. Ice dam prevention. Emergency tarping. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Vienna, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Prompt Vienna Response',
-      description: `Call (703) 285-1112 and our crews reach your Vienna or Oakton home within 30 minutes. We assess the visible interior damage, then trace the leak through the attic to its actual source—which is rarely directly above the ceiling stain you see.`,
+      description: `Call (877) 497-0007 and our crews reach your Vienna or Oakton home within 30 minutes. We assess the visible interior damage, then trace the leak through the attic to its actual source—which is rarely directly above the ceiling stain you see.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       'Mold treatment needs if extended dampness allowed colonization before discovery',
       'Roof repair complexity communicated to the roofing contractor',
     ],
-    cta: `Call (703) 285-1112 when you notice a ceiling stain, drip, or musty attic odor. Early detection in Vienna homes means smaller scope, lower cost, and faster return to normal.`,
+    cta: `Call (877) 497-0007 when you notice a ceiling stain, drip, or musty attic odor. Early detection in Vienna homes means smaller scope, lower cost, and faster return to normal.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Vienna Roof Leak? Early Response Saves Thousands.',
-    paragraph: `The difference between a $3,000 repair and a $12,000 restoration is often just two weeks of delay. Call (703) 285-1112 at the first sign of a leak for rapid assessment and intervention.`,
+    paragraph: `The difference between a $3,000 repair and a $12,000 restoration is often just two weeks of delay. Call (877) 497-0007 at the first sign of a leak for rapid assessment and intervention.`,
   },
 }

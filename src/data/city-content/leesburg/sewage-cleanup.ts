@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Sewage Cleanup in Leesburg, VA | Flood Doctor`,
-    description: `Emergency sewage cleanup for Leesburg properties. Septic system failures, sewer backups, and Category 3 contamination specialists. Call (703) 285-1107.`,
+    description: `Emergency sewage cleanup for Leesburg properties. Septic system failures, sewer backups, and Category 3 contamination specialists. Call (877) 497-0007.`,
   },
   h1: `Leesburg Sewage Cleanup Services`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Hazmat Response`,
-      description: `Call (703) 285-1107 for immediate dispatch. Our crews arrive in full PPE with containment equipment to isolate the contaminated area and prevent cross-contamination throughout your Leesburg property.`,
+      description: `Call (877) 497-0007 for immediate dispatch. Our crews arrive in full PPE with containment equipment to isolate the contaminated area and prevent cross-contamination throughout your Leesburg property.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       `Need for post-cleanup bacterial clearance testing`,
       `Insurance coverage for sewage backup (check your policy)`,
     ],
-    cta: `Call (703) 285-1107 for emergency sewage cleanup. Health hazards demand immediate action.`,
+    cta: `Call (877) 497-0007 for emergency sewage cleanup. Health hazards demand immediate action.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `Is sewage backup dangerous to my family's health?`,
-      answer: `Yes. Sewage contains bacteria, viruses, parasites, and other pathogens that pose serious health risks. Evacuate the affected area immediately, do not attempt DIY cleanup, and call (703) 285-1107 for professional hazmat response.`,
+      answer: `Yes. Sewage contains bacteria, viruses, parasites, and other pathogens that pose serious health risks. Evacuate the affected area immediately, do not attempt DIY cleanup, and call (877) 497-0007 for professional hazmat response.`,
     },
     {
       question: `Does homeowner insurance cover sewage backup?`,
@@ -132,6 +132,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Sewage Emergency in Leesburg? Call Now`,
-    paragraph: `Sewage contamination is a health emergency that worsens every hour. Flood Doctor provides immediate hazmat-level sewage cleanup for every Leesburg property type, from historic downtown homes to Lansdowne estates. Call (703) 285-1107 for 24/7 emergency response.`,
+    paragraph: `Sewage contamination is a health emergency that worsens every hour. Flood Doctor provides immediate hazmat-level sewage cleanup for every Leesburg property type, from historic downtown homes to Lansdowne estates. Call (877) 497-0007 for 24/7 emergency response.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Odor Removal Services in Sterling, VA | Flood Doctor`,
-    description: `Sterling odor removal specialists. Musty basement odors in Sterling Park, mold odors in Cascades townhomes, smoke & sewage odor elimination. Call (703) 285-1111.`,
+    description: `Sterling odor removal specialists. Musty basement odors in Sterling Park, mold odors in Cascades townhomes, smoke & sewage odor elimination. Call (877) 497-0007.`,
   },
   h1: `Odor Removal Services in Sterling, Virginia`,
   introSection: {
@@ -77,7 +77,7 @@ Our advanced odor elimination technology—hydroxyl generators, thermal fogging,
       `Source correction needs—addressing underlying moisture, mold, or contamination adds scope but prevents recurrence`,
       `Material sensitivity—vintage materials in older Sterling homes may require gentler treatment methods`,
     ],
-    cta: `Call (703) 285-1111 for an odor assessment. We identify the source, explain treatment options, and provide honest estimates. No odor is too stubborn when the source is properly addressed.`,
+    cta: `Call (877) 497-0007 for an odor assessment. We identify the source, explain treatment options, and provide honest estimates. No odor is too stubborn when the source is properly addressed.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our advanced odor elimination technology—hydroxyl generators, thermal fogging,
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Same-day odor assessment throughout Sterling. Emergency response for sewage odor events and active contamination situations. Call (703) 285-1111.`,
+    responseTime: `Same-day odor assessment throughout Sterling. Emergency response for sewage odor events and active contamination situations. Call (877) 497-0007.`,
   },
   faqs: [
     {

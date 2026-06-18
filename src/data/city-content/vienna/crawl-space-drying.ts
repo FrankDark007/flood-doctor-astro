@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Vienna, VA | Flood Doctor',
-    description: `Vienna's trusted crawl space specialists. Serving Vienna Town, Oakton & Dunn Loring. Historic and luxury home expertise. Vapor barriers & dehumidification. Call (703) 285-1112.`,
+    description: `Vienna's trusted crawl space specialists. Serving Vienna Town, Oakton & Dunn Loring. Historic and luxury home expertise. Vapor barriers & dehumidification. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Vienna, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Clearance height affecting labor requirements—some older Vienna homes have minimal access',
       'Integration with existing mechanical systems including HVAC and water heater locations',
     ],
-    cta: `Call (703) 285-1112 for a free crawl space inspection. We serve Vienna and Oakton homeowners with the quality craftsmanship and personal attention this community values.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We serve Vienna and Oakton homeowners with the quality craftsmanship and personal attention this community values.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Vienna Crawl Space Problems? Get a Free Inspection.',
-    paragraph: `Whether you own an established colonial near Church Street or a newer home in Oakton, your crawl space deserves professional attention. Call (703) 285-1112 for a thorough, no-obligation inspection from Vienna's trusted crawl space specialists.`,
+    paragraph: `Whether you own an established colonial near Church Street or a newer home in Oakton, your crawl space deserves professional attention. Call (877) 497-0007 for a thorough, no-obligation inspection from Vienna's trusted crawl space specialists.`,
   },
 }

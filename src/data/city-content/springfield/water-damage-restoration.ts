@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Springfield, VA | Flood Doctor',
-    description: `Springfield's trusted water damage restoration experts. 30-min response to West Springfield, Kingstowne & Franconia. Serving military families near Fort Belvoir. Call (703) 656-0110.`,
+    description: `Springfield's trusted water damage restoration experts. 30-min response to West Springfield, Kingstowne & Franconia. Serving military families near Fort Belvoir. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Springfield, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC Master Water Restorers understand that Springfield homeowners are ofte
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Springfield hotline at (703) 656-0110, we dispatch from our facility immediately. Our trucks are positioned to reach West Springfield, Kingstowne, Franconia, Newington, and Rolling Valley within our 30-minute guarantee—not from a distant warehouse, but from the I-95 corridor where we're already stationed.`,
+      description: `When you call our Springfield hotline at (877) 497-0007, we dispatch from our facility immediately. Our trucks are positioned to reach West Springfield, Kingstowne, Franconia, Newington, and Rolling Valley within our 30-minute guarantee—not from a distant warehouse, but from the I-95 corridor where we're already stationed.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC Master Water Restorers understand that Springfield homeowners are ofte
       'Response time—faster calls mean less damage spread and lower restoration costs',
       'Townhome complexity—shared walls and HOA requirements can add coordination needs',
     ],
-    cta: `Call (703) 656-0110 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -144,7 +144,7 @@ Our IICRC Master Water Restorers understand that Springfield homeowners are ofte
   faqs: [
     {
       question: 'How quickly should I call after discovering water damage in my Springfield home?',
-      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating into wall cavities, under floors, and through ceiling spaces. In Springfield's split-levels, a few hours of delay can mean water spreading from upper levels to lower living spaces. Call (703) 656-0110 the moment you discover water.`,
+      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating into wall cavities, under floors, and through ceiling spaces. In Springfield's split-levels, a few hours of delay can mean water spreading from upper levels to lower living spaces. Call (877) 497-0007 the moment you discover water.`,
     },
     {
       question: 'Can you save my hardwood floors after water damage?',

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Ashburn, VA | Flood Doctor',
-    description: `Ashburn large loss restoration for data center campuses, new construction office complexes & master-planned commercial developments. Enterprise project management. Call (703) 285-1100.`,
+    description: `Ashburn large loss restoration for data center campuses, new construction office complexes & master-planned commercial developments. Enterprise project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Ashburn, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our project directors navigate this dual-track landscape with construction manag
   processSteps: [
     {
       title: 'Emergency Stabilization & Technology Protection',
-      description: `Call (703) 285-1100 to activate large loss response. Our stabilization team simultaneously secures the property, deploys IT protection, and begins emergency extraction while the project director mobilizes full-scale resources for Ashburn's commercial and technology environments.`,
+      description: `Call (877) 497-0007 to activate large loss response. Our stabilization team simultaneously secures the property, deploys IT protection, and begins emergency extraction while the project director mobilizes full-scale resources for Ashburn's commercial and technology environments.`,
       timeframe: 'First 4-8 hours',
     },
     {
@@ -115,7 +115,7 @@ Our project directors navigate this dual-track landscape with construction manag
       'Modern material complexity—new-construction buildings with contemporary materials require calibrated drying at scale',
       'Multiple recovery tracks—managing insurance claims, warranty recovery, and infrastructure claims in parallel adds coordination scope',
     ],
-    cta: `Call (703) 285-1100 for immediate large loss response. Our senior project director brings data center expertise and new-construction warranty awareness for the dual-track management Ashburn's commercial market demands.`,
+    cta: `Call (877) 497-0007 for immediate large loss response. Our senior project director brings data center expertise and new-construction warranty awareness for the dual-track management Ashburn's commercial market demands.`,
   },
   serviceAreaSection: {
     neighborhoods: [

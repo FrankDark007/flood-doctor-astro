@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's trusted restoration for schools and public buildings. LCPS-experienced crews serving Broadlands, Brambleton, and One Loudoun community facilities. Call (703) 285-1100.`,
+    description: `Ashburn's trusted restoration for schools and public buildings. LCPS-experienced crews serving Broadlands, Brambleton, and One Loudoun community facilities. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Ashburn, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our documentation packages address both technical restoration and the public acc
   processSteps: [
     {
       title: `Emergency Notification and Facility Securing`,
-      description: `Call (703) 285-1100 to activate our municipal response protocol. We coordinate with LCPS facilities management and Ashburn community facility directors to secure the affected building, notify appropriate administrators, and establish a restoration timeline that protects academic or program schedules.`,
+      description: `Call (877) 497-0007 to activate our municipal response protocol. We coordinate with LCPS facilities management and Ashburn community facility directors to secure the affected building, notify appropriate administrators, and establish a restoration timeline that protects academic or program schedules.`,
       timeframe: `Within 1 hour`,
     },
     {
@@ -116,7 +116,7 @@ Our documentation packages address both technical restoration and the public acc
       `ADA compliance requirements triggered by restoration scope in public buildings`,
       `Documentation and reporting requirements for LCPS administration, school boards, and community forums`,
     ],
-    cta: `Call (703) 285-1100 for emergency school or community facility assessment. We provide procurement-compliant estimates and coordinate with LCPS facilities management for streamlined approval.`,
+    cta: `Call (877) 497-0007 for emergency school or community facility assessment. We provide procurement-compliant estimates and coordinate with LCPS facilities management for streamlined approval.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -171,6 +171,6 @@ Our documentation packages address both technical restoration and the public acc
   ],
   finalCTA: {
     headline: `School or Community Facility Emergency in Ashburn?`,
-    paragraph: `Student safety and community programs depend on rapid restoration. Our crews respond to Ashburn schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the expertise these facilities require. Call (703) 285-1100 immediately.`,
+    paragraph: `Student safety and community programs depend on rapid restoration. Our crews respond to Ashburn schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the expertise these facilities require. Call (877) 497-0007 immediately.`,
   },
 }

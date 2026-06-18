@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Reston, VA | Flood Doctor',
-    description: `Reston's expert moisture mapping service. Scientific diagnostics for townhome clusters, garden condos & lake-adjacent properties in South Lakes, Lake Anne & Hunters Woods. Call (703) 285-1109.`,
+    description: `Reston's expert moisture mapping service. Scientific diagnostics for townhome clusters, garden condos & lake-adjacent properties in South Lakes, Lake Anne & Hunters Woods. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Reston, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'HOA and property management documentation and reporting requirements',
       'Duration of monitoring during active drying across multiple affected units',
     ],
-    cta: `Call (703) 285-1109 for a consultation. We coordinate with your cluster HOA or property management company to scope the assessment appropriately.`,
+    cta: `Call (877) 497-0007 for a consultation. We coordinate with your cluster HOA or property management company to scope the assessment appropriately.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Autumnwood',
       'W&OD Trail Corridor',
     ],
-    responseTime: `Same-day moisture assessment throughout Reston. Emergency response for active multi-unit water events within 90 minutes. Call (703) 285-1109.`,
+    responseTime: `Same-day moisture assessment throughout Reston. Emergency response for active multi-unit water events within 90 minutes. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Concerns in Your Reston Property?',
-    paragraph: `From townhome clusters to lake-adjacent homes, our scientific moisture mapping provides the data you need for effective restoration and informed decisions. Call (703) 285-1109 for a professional assessment.`,
+    paragraph: `From townhome clusters to lake-adjacent homes, our scientific moisture mapping provides the data you need for effective restoration and informed decisions. Call (877) 497-0007 for a professional assessment.`,
   },
 }

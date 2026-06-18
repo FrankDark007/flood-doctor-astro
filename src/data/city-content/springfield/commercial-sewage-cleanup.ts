@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Springfield, VA | Flood Doctor`,
-    description: `Springfield's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for I-95 corridor businesses, military-adjacent properties, and commercial centers. Call (703) 285-1110.`,
+    description: `Springfield's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for I-95 corridor businesses, military-adjacent properties, and commercial centers. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Springfield, Virginia`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Rapid I-95 Corridor Response`,
-      description: `Call (703) 285-1110 and our hazmat team deploys to your Springfield commercial property. We reach Springfield Town Center, West Springfield, Franconia, Kingstowne, and Newington commercial areas within our response guarantee via I-95/395 corridor positioning.`,
+      description: `Call (877) 497-0007 and our hazmat team deploys to your Springfield commercial property. We reach Springfield Town Center, West Springfield, Franconia, Kingstowne, and Newington commercial areas within our response guarantee via I-95/395 corridor positioning.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
       `Watershed location—Lake Accotink area properties may need combined stormwater and sewage remediation`,
       `Service urgency—military-community and essential-service businesses may benefit from expedited restoration schedules`,
     ],
-    cta: `Call (703) 285-1110 for immediate commercial sewage emergency response in Springfield. We serve Springfield Town Center, West Springfield, Franconia, Kingstowne, and the I-95 corridor with practical, efficient hazmat response.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Springfield. We serve Springfield Town Center, West Springfield, Franconia, Kingstowne, and the I-95 corridor with practical, efficient hazmat response.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -153,6 +153,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Springfield?`,
-    paragraph: `Springfield commercial properties need practical, efficient sewage remediation that gets businesses reopened. Our OSHA-compliant hazmat crews deliver rapid containment, thorough decontamination, and complete documentation. Call (703) 285-1110 now.`,
+    paragraph: `Springfield commercial properties need practical, efficient sewage remediation that gets businesses reopened. Our OSHA-compliant hazmat crews deliver rapid containment, thorough decontamination, and complete documentation. Call (877) 497-0007 now.`,
   },
 }

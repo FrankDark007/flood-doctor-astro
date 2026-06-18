@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in McLean, VA | Flood Doctor',
-    description: 'McLean storm damage restoration. 24/7 emergency response for wind damage, hail, fallen trees & water intrusion. Langley, Chesterbrook, The Reserve. Call (703) 656-0101.',
+    description: 'McLean storm damage restoration. 24/7 emergency response for wind damage, hail, fallen trees & water intrusion. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in McLean, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: 'Call (703) 656-0101 as soon as safely possible after storm damage. We dispatch crews throughout McLean when severe weather clears, reaching Langley, Chesterbrook, The Reserve, and surrounding neighborhoods within our 30-minute guarantee.',
+      description: 'Call (877) 497-0007 as soon as safely possible after storm damage. We dispatch crews throughout McLean when severe weather clears, reaching Langley, Chesterbrook, The Reserve, and surrounding neighborhoods within our 30-minute guarantee.',
       timeframe: '30 minutes after safe conditions',
     },
     {
@@ -62,7 +62,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
       'Multiple damage points—McLean estates often have several affected areas',
     ],
     insuranceNote: `Storm damage is typically covered by homeowner's insurance. We document everything, work directly with adjusters, and support your claim throughout the process.`,
-    cta: `Call (703) 656-0101 for emergency storm damage response. We'll assess damage, provide emergency weatherproofing, and guide you through the insurance process.`,
+    cta: `Call (877) 497-0007 for emergency storm damage response. We'll assess damage, provide emergency weatherproofing, and guide you through the insurance process.`,
   },
   serviceAreaSection: {
     neighborhoods: [

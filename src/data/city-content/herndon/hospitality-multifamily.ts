@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Herndon, VA | Flood Doctor`,
-    description: `Herndon's multi-unit restoration experts. Serving apartments, townhomes, and hotels in Downtown Herndon, Franklin Farm, and Worldgate. Call (703) 285-1106.`,
+    description: `Herndon's multi-unit restoration experts. Serving apartments, townhomes, and hotels in Downtown Herndon, Franklin Farm, and Worldgate. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Herndon, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our Herndon team applies construction-era-specific expertise to each property ty
   processSteps: [
     {
       title: `Multi-Unit Emergency Response`,
-      description: `Call (703) 285-1106 for immediate deployment. We assess beyond the initial unit—checking adjacent townhomes in Franklin Farm, neighboring apartments in Floris, and building systems at Worldgate area hotels for hidden water migration.`,
+      description: `Call (877) 497-0007 for immediate deployment. We assess beyond the initial unit—checking adjacent townhomes in Franklin Farm, neighboring apartments in Floris, and building systems at Worldgate area hotels for hidden water migration.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ Our Herndon team applies construction-era-specific expertise to each property ty
       `Property type—hotel rooms, rental apartments, and owner-occupied townhomes each have different urgency and documentation needs`,
       `Multi-policy coordination for individual unit owners, HOA master coverage, and property management reporting`,
     ],
-    cta: `Call (703) 285-1106 for immediate multi-unit assessment. Practical restoration for Herndon townhomes, apartments, and hotels with efficient insurance documentation.`,
+    cta: `Call (877) 497-0007 for immediate multi-unit assessment. Practical restoration for Herndon townhomes, apartments, and hotels with efficient insurance documentation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -167,6 +167,6 @@ Our Herndon team applies construction-era-specific expertise to each property ty
   ],
   finalCTA: {
     headline: `Multi-Unit Water Damage in Herndon?`,
-    paragraph: `Shared walls and aging plumbing mean damage spreads fast. Our multi-unit team arrives within 30 minutes with the practical, efficient restoration Herndon properties need. Call (703) 285-1106 now.`,
+    paragraph: `Shared walls and aging plumbing mean damage spreads fast. Our multi-unit team arrives within 30 minutes with the practical, efficient restoration Herndon properties need. Call (877) 497-0007 now.`,
   },
 }

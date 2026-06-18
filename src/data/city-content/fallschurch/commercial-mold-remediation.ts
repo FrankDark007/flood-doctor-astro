@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Falls Church, VA | Flood Doctor`,
-    description: `Falls Church's trusted commercial mold remediation specialists. CIH-coordinated protocols for historic district businesses, Eden Center, and apartment-commercial complexes. Call (703) 285-1100.`,
+    description: `Falls Church's trusted commercial mold remediation specialists. CIH-coordinated protocols for historic district businesses, Eden Center, and apartment-commercial complexes. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Falls Church, Virginia`,
   introSection: {
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
       `CIH services—assessment, protocol development, and independent clearance verification`,
       `Humidity management—Lake Barcroft area properties may need supplemental dehumidification systems`,
     ],
-    cta: `Call (703) 285-1100 for a confidential commercial mold assessment at your Falls Church property. We adapt CIH protocols for your specific building type—whether historic storefront, restaurant, office, or apartment-commercial configuration.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment at your Falls Church property. We adapt CIH protocols for your specific building type—whether historic storefront, restaurant, office, or apartment-commercial configuration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -154,6 +154,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold in Your Falls Church Commercial Property?`,
-    paragraph: `Whether mold threatens a historic Falls Church City storefront, an Eden Center restaurant, or a Seven Corners office suite, our CIH-coordinated teams deliver building-appropriate remediation with independent verification. Call (703) 285-1100 for a confidential assessment.`,
+    paragraph: `Whether mold threatens a historic Falls Church City storefront, an Eden Center restaurant, or a Seven Corners office suite, our CIH-coordinated teams deliver building-appropriate remediation with independent verification. Call (877) 497-0007 for a confidential assessment.`,
   },
 }

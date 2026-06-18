@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Fairfax, VA | Flood Doctor',
-    description: `Fairfax's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Burke, Kings Park & Mantua. Call (703) 285-1105.`,
+    description: `Fairfax's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Burke, Kings Park & Mantua. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Fairfax, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Rental property compliance documentation with Virginia landlord-tenant requirements',
       'Rush laboratory processing for renovation projects with active contractor schedules',
     ],
-    cta: `Call (703) 285-1105 for a consultation. We provide practical, budget-conscious testing protocols for Fairfax family homes and renovation projects.`,
+    cta: `Call (877) 497-0007 for a consultation. We provide practical, budget-conscious testing protocols for Fairfax family homes and renovation projects.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Bonnie Brae',
       'Robinson',
     ],
-    responseTime: `Same-day environmental testing deployment to all Fairfax neighborhoods. Expedited laboratory processing available for active renovation projects. Call (703) 285-1105.`,
+    responseTime: `Same-day environmental testing deployment to all Fairfax neighborhoods. Expedited laboratory processing available for active renovation projects. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Planning a Renovation in Your Fairfax Home?',
-    paragraph: `Environmental testing before demolition identifies asbestos, lead paint, and mold hazards—preventing mid-project shutdowns and protecting your family. AIHA-accredited laboratory analysis with practical, budget-conscious protocols. Call (703) 285-1105 for a consultation.`,
+    paragraph: `Environmental testing before demolition identifies asbestos, lead paint, and mold hazards—preventing mid-project shutdowns and protecting your family. AIHA-accredited laboratory analysis with practical, budget-conscious protocols. Call (877) 497-0007 for a consultation.`,
   },
 }

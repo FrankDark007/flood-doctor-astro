@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Alexandria's aging plumbing infrastructure creates burst pipe emergencies that demand immediate professional response. From cast iron drain lines installed in the 1920s to galvanized supply pipes nearing end-of-service life, historic Old Town homes and established neighborhoods throughout Alexandria face unique pipe failure challenges. Our certified emergency teams arrive within 60 minutes with specialized equipment to stop water flow, extract standing water, and begin structural drying that prevents catastrophic secondary damage to irreplaceable historic materials.`,
     ],
-    localContext: `Burst pipe flooding your home right now? Call (703) 656-0103 immediately for emergency shutoff and water extraction anywhere in Alexandria—we're available 24/7/365.`,
+    localContext: `Burst pipe flooding your home right now? Call (877) 497-0007 immediately for emergency shutoff and water extraction anywhere in Alexandria—we're available 24/7/365.`,
   },
   processSteps: [
     {
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'What should I do immediately after discovering a burst pipe?',
-      answer: `Shut off water at the main valve if you can locate it safely. Move valuable items away from flooding areas. Call (703) 656-0103 immediately for emergency response—don't wait to see if leaking stops. Take photos documenting damage extent for insurance claims. Don't attempt major cleanup before professional assessment, as improper techniques can worsen damage or destroy evidence needed for insurance coverage.`,
+      answer: `Shut off water at the main valve if you can locate it safely. Move valuable items away from flooding areas. Call (877) 497-0007 immediately for emergency response—don't wait to see if leaking stops. Take photos documenting damage extent for insurance claims. Don't attempt major cleanup before professional assessment, as improper techniques can worsen damage or destroy evidence needed for insurance coverage.`,
     },
     {
       question: 'Can you restore water damage from a burst pipe that happened days ago?',

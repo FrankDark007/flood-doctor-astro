@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Roof Leak Water Damage Repair in Sterling, VA | Flood Doctor`,
-    description: `Sterling roof leak water damage restoration. Aging roofs in Sterling Park, shared rooflines in Cascades & Countryside. Emergency tarping and drying. Call (703) 285-1111.`,
+    description: `Sterling roof leak water damage restoration. Aging roofs in Sterling Park, shared rooflines in Cascades & Countryside. Emergency tarping and drying. Call (877) 497-0007.`,
   },
   h1: `Roof Leak Water Damage Repair in Sterling, Virginia`,
   introSection: {
@@ -77,7 +77,7 @@ Our assessment traces water from the entry point through its full path to identi
       `Mold remediation—chronic leaks frequently cause attic mold requiring professional treatment`,
       `Multi-unit involvement—shared roofline leaks in Cascades townhomes may affect multiple insurance claims`,
     ],
-    cta: `Call (703) 285-1111 for emergency roof leak response. We stop the water entry and restore the interior damage while coordinating with roofing contractors for permanent roof repair.`,
+    cta: `Call (877) 497-0007 for emergency roof leak response. We stop the water entry and restore the interior damage while coordinating with roofing contractors for permanent roof repair.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our assessment traces water from the entry point through its full path to identi
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Emergency roof leak response within 2 hours throughout Sterling. Emergency tarping during active rain to stop ongoing water damage. Call (703) 285-1111.`,
+    responseTime: `Emergency roof leak response within 2 hours throughout Sterling. Emergency tarping during active rain to stop ongoing water damage. Call (877) 497-0007.`,
   },
   faqs: [
     {

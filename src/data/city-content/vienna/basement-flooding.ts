@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding in Vienna, VA | Flood Doctor',
-    description: 'Vienna basement flooding experts. Foundation seepage, sump pump failure, and storm flooding solutions for colonials throughout Vienna Town, Oakton & Dunn Loring. 24/7 response. (703) 656-0105.',
+    description: 'Vienna basement flooding experts. Foundation seepage, sump pump failure, and storm flooding solutions for colonials throughout Vienna Town, Oakton & Dunn Loring. 24/7 response. (877) 497-0007.',
   },
   h1: 'Basement Flooding Solutions in Vienna, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `A flooded basement in Vienna isn't a minor inconvenience—it's a direct threat to your home's structural integrity, your family's health, and tens of thousands of dollars in finished living space. Vienna's 1950s–1970s colonials were built when foundation waterproofing meant a single coat of tar and a prayer. Fifty to seventy years later, that original waterproofing has deteriorated completely, leaving foundations vulnerable to hydrostatic pressure every time it rains. The result: chronic seepage through foundation walls, water pooling on basement floors, and sump pumps running overtime until they finally fail.
 
-Flood Doctor has extracted water from hundreds of Vienna basements since 2005. We've responded to foundation seepage in Vienna Town colonials at 3 AM, pumped out finished basements in Clarks Crossing after sump pump failures, and dried Oakton properties where window well leaks saturated drywall and carpet for days before homeowners noticed. When your basement floods, the clock starts immediately—mold colonizes wet materials within 24–48 hours, and every hour of standing water increases structural damage exponentially.`,
+Flood Doctor has extracted water from hundreds of Vienna basements for years. We've responded to foundation seepage in Vienna Town colonials at 3 AM, pumped out finished basements in Clarks Crossing after sump pump failures, and dried Oakton properties where window well leaks saturated drywall and carpet for days before homeowners noticed. When your basement floods, the clock starts immediately—mold colonizes wet materials within 24–48 hours, and every hour of standing water increases structural damage exponentially.`,
       `Vienna's basement flooding problems stem from a combination of aging housing stock, clay-heavy soil, and proximity to waterways like Difficult Run Creek and Wolf Trap Stream. Clay soil doesn't absorb water—it channels it toward your foundation. When heavy storms overwhelm municipal drainage systems, water tables rise and hydrostatic pressure forces groundwater through every crack, cold joint, and deteriorated seal in your foundation walls and floor. Properties near Wolf Trap and along the Difficult Run corridor face additional flash flood risk when these waterways overflow their banks during severe weather events.
 
 Our approach goes beyond pumping water and dropping fans. We identify the entry point, extract every gallon, dry every material to verified moisture targets, treat surfaces to prevent mold colonization, and provide specific recommendations addressing the root cause. Vienna families don't need a company that treats symptoms—they need one that solves the problem and prevents the next flood.`,
@@ -22,7 +22,7 @@ Our approach goes beyond pumping water and dropping fans. We identify the entry 
   processSteps: [
     {
       title: 'Emergency Dispatch & Phone Guidance',
-      description: `Call (703) 656-0105 any time—day, night, weekend, holiday. A live person answers and dispatches our nearest Vienna crew immediately. While our team is en route, we walk you through safety steps: don't enter standing water if electrical outlets are submerged, shut off the basement circuit breaker if accessible safely, and move valuables above the water line if you can do so without risk. We stay on the line until our crew arrives.`,
+      description: `Call (877) 497-0007 any time—day, night, weekend, holiday. A live person answers and dispatches our nearest Vienna crew immediately. While our team is en route, we walk you through safety steps: don't enter standing water if electrical outlets are submerged, shut off the basement circuit breaker if accessible safely, and move valuables above the water line if you can do so without risk. We stay on the line until our crew arrives.`,
       timeframe: 'Immediate dispatch, 45-minute average arrival',
     },
     {
@@ -150,7 +150,7 @@ Our approach goes beyond pumping water and dropping fans. We identify the entry 
       'Materials affected—carpet, engineered flooring, drywall, insulation, stored contents, and specialty finishes all factor into total restoration cost',
       'Mold remediation needs—prolonged moisture exposure before professional response often requires mold testing and remediation as an additional scope of work',
     ],
-    cta: 'Call (703) 656-0105 for immediate basement flooding response in Vienna. We assess damage on site, explain your insurance options, and begin extraction the moment we arrive.',
+    cta: 'Call (877) 497-0007 for immediate basement flooding response in Vienna. We assess damage on site, explain your insurance options, and begin extraction the moment we arrive.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -176,7 +176,7 @@ Our approach goes beyond pumping water and dropping fans. We identify the entry 
     },
     {
       question: 'How fast can you extract water from my flooded Vienna basement?',
-      answer: `We dispatch immediately when you call (703) 656-0105 and typically arrive within 45 minutes anywhere in Vienna. Extraction begins the moment we're on site—our truck-mounted systems remove thousands of gallons per hour. Most Vienna basements are fully extracted within 2–6 hours depending on water volume and basement size. For deep flooding after sump pump failure, we deploy submersible pumps first to reduce water levels rapidly, then follow with truck-mounted extraction for thorough removal. The faster we extract, the less secondary damage develops and the lower your total restoration cost.`,
+      answer: `We dispatch immediately when you call (877) 497-0007 and typically arrive within 45 minutes anywhere in Vienna. Extraction begins the moment we're on site—our truck-mounted systems remove thousands of gallons per hour. Most Vienna basements are fully extracted within 2–6 hours depending on water volume and basement size. For deep flooding after sump pump failure, we deploy submersible pumps first to reduce water levels rapidly, then follow with truck-mounted extraction for thorough removal. The faster we extract, the less secondary damage develops and the lower your total restoration cost.`,
     },
     {
       question: 'Does my finished basement need to be completely gutted after flooding?',
@@ -200,7 +200,7 @@ Our approach goes beyond pumping water and dropping fans. We identify the entry 
     },
     {
       question: 'Is it safe to go into my basement during or after flooding?',
-      answer: 'Exercise extreme caution. Standing water in a basement with electrical outlets, appliances, or any powered equipment presents a serious electrocution risk. Do not enter standing water unless you have confirmed the basement electrical circuit is off at the breaker panel—and only if the panel is accessible without entering water. Do not use household vacuums or shop vacs to remove water—they are not designed for flood conditions and present electrical hazard. If you smell gas, leave the house immediately and call the gas company. If sewage is involved, avoid all contact with the water. When you call us at (703) 656-0105, we walk you through safety assessment specific to your situation while our team is en route.',
+      answer: 'Exercise extreme caution. Standing water in a basement with electrical outlets, appliances, or any powered equipment presents a serious electrocution risk. Do not enter standing water unless you have confirmed the basement electrical circuit is off at the breaker panel—and only if the panel is accessible without entering water. Do not use household vacuums or shop vacs to remove water—they are not designed for flood conditions and present electrical hazard. If you smell gas, leave the house immediately and call the gas company. If sewage is involved, avoid all contact with the water. When you call us at (877) 497-0007, we walk you through safety assessment specific to your situation while our team is en route.',
     },
   ],
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Herndon, VA | Flood Doctor',
-    description: 'Herndon basement flooding experts. 30-min response for finished basements, home offices & recreation rooms. Fox Mill, Downtown, Worldgate. Call (703) 656-0108.',
+    description: 'Herndon basement flooding experts. 30-min response for finished basements, home offices & recreation rooms. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in Herndon, Virginia',
   introSection: {
@@ -75,7 +75,7 @@ Herndon is townhome-dominated. Worldgate, Franklin Farm, Chandon, Herndon Statio
       'Flooring material type—LVP mat drying, engineered hardwood restraint systems, and carpet pad replacement carry different costs',
       'HOA documentation—multi-party insurance reporting for townhome communities requires additional evidence gathering and adjuster coordination',
     ],
-    cta: 'Call (703) 656-0108 for immediate response and a detailed scope assessment. We explain what is required, what your policy covers, and what out-of-pocket exposure looks like before work begins.',
+    cta: 'Call (877) 497-0007 for immediate response and a detailed scope assessment. We explain what is required, what your policy covers, and what out-of-pocket exposure looks like before work begins.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -95,7 +95,7 @@ Herndon is townhome-dominated. Worldgate, Franklin Farm, Chandon, Herndon Statio
   faqs: [
     {
       question: `My townhome neighbor's unit flooded too — who coordinates the restoration?`,
-      answer: `A single restoration company coordinating all affected units produces better outcomes than each homeowner hiring separately. Separate companies use different drying standards and moisture thresholds, meaning the shared wall gets conflicting treatment from each side. We coordinate multi-unit restoration regularly in Herndon's townhome communities. Each homeowner maintains their own insurance claim and contract, but we sequence extraction, drying, and verification in coordination across shared wall assemblies. Call (703) 656-0108 and let us know it is a multi-unit situation so we stage appropriately.`,
+      answer: `A single restoration company coordinating all affected units produces better outcomes than each homeowner hiring separately. Separate companies use different drying standards and moisture thresholds, meaning the shared wall gets conflicting treatment from each side. We coordinate multi-unit restoration regularly in Herndon's townhome communities. Each homeowner maintains their own insurance claim and contract, but we sequence extraction, drying, and verification in coordination across shared wall assemblies. Call (877) 497-0007 and let us know it is a multi-unit situation so we stage appropriately.`,
     },
     {
       question: `Does my HOA's master policy cover my basement flooding?`,
@@ -115,7 +115,7 @@ Herndon is townhome-dominated. Worldgate, Franklin Farm, Chandon, Herndon Statio
     },
     {
       question: 'What if my sump pump failed because of a power outage during a storm?',
-      answer: `Power-outage sump failures are the most common flooding cause in Herndon's townhome communities during summer storms. Many standard policies exclude sump overflow unless you carry a sump and drain backup endorsement—check your declarations page. Regardless of coverage, the immediate priority is extraction before secondary damage compounds. After restoration, we recommend a battery backup sump system and a cellular water alarm that texts when pit levels rise abnormally. These additions cost a few hundred dollars and eliminate the scenario where you discover the failure only after the lower level is flooded. Call (703) 656-0108 immediately—every hour of delay increases the scope.`,
+      answer: `Power-outage sump failures are the most common flooding cause in Herndon's townhome communities during summer storms. Many standard policies exclude sump overflow unless you carry a sump and drain backup endorsement—check your declarations page. Regardless of coverage, the immediate priority is extraction before secondary damage compounds. After restoration, we recommend a battery backup sump system and a cellular water alarm that texts when pit levels rise abnormally. These additions cost a few hundred dollars and eliminate the scenario where you discover the failure only after the lower level is flooded. Call (877) 497-0007 immediately—every hour of delay increases the scope.`,
     },
   ],
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],

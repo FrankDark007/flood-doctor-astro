@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Lorton, VA | Flood Doctor',
-    description: 'Emergency sewage cleanup & biohazard restoration in Lorton. Septic system specialists for Gunston & Occoquan. 24/7 response. Call (703) 656-0113.',
+    description: 'Emergency sewage cleanup & biohazard restoration in Lorton. Septic system specialists for Gunston & Occoquan. 24/7 response. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup & Biohazard Restoration in Lorton, Virginia',
   introSection: {
@@ -12,12 +12,12 @@ export const content: CityServiceContent = {
       `Sewage backup in your Lorton home creates an immediate health emergency. Whether it's a septic system overflow on your Gunston property, sewer main backup in South County, storm drainage overwhelming your Laurel Hill basement, or septic failure at your historic Occoquan residence, sewage contamination requires professional biohazard response—not standard water damage cleanup. Flood Doctor provides 24/7 emergency sewage cleanup throughout Lorton. Our IICRC-certified biohazard technicians respond within 30 minutes equipped with protective gear, commercial sanitizers, and specialized disposal protocols required for Category 3 black water contamination.`,
       `Lorton's sewage problems reflect our infrastructure diversity. Many older Gunston and Occoquan properties operate on private septic systems that can overflow when drain fields saturate during heavy rain. South County and Laurel Hill connect to public sewer but can experience backup when storm drainage overwhelms the system. Mason Neck's rural character means septic systems in areas where soil conditions create drainage challenges. Our crews understand Lorton's varied sewage infrastructure and apply appropriate cleanup protocols for each scenario.`,
     ],
-    localContext: `Lorton sewage emergencies range from private septic overflow in Gunston and Occoquan to public sewer backup in South County to storm drain contamination throughout our community. We've handled every sewage scenario since 2005.`,
+    localContext: `Lorton sewage emergencies range from private septic overflow in Gunston and Occoquan to public sewer backup in South County to storm drain contamination throughout our community. We've handled every sewage scenario for years.`,
   },
   processSteps: [
     {
       title: 'Immediate Emergency Response',
-      description: `Sewage emergencies can't wait. When you call (703) 656-0113 about sewage backup, our biohazard-certified crews dispatch immediately from South Fairfax County positions—reaching Lorton neighborhoods within 30 minutes wearing full protective equipment.`,
+      description: `Sewage emergencies can't wait. When you call (877) 497-0007 about sewage backup, our biohazard-certified crews dispatch immediately from South Fairfax County positions—reaching Lorton neighborhoods within 30 minutes wearing full protective equipment.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -119,7 +119,7 @@ export const content: CityServiceContent = {
       'Structural sanitization—all contacted surfaces require multiple antimicrobial treatments',
       'Insurance coverage—backup cause determines whether homeowners or sewage backup rider applies',
     ],
-    cta: `Call (703) 656-0113 for immediate sewage cleanup response. We'll assess contamination, begin emergency cleanup, and coordinate with your insurance carrier.`,
+    cta: `Call (877) 497-0007 for immediate sewage cleanup response. We'll assess contamination, begin emergency cleanup, and coordinate with your insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -139,7 +139,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: 'What should I do immediately when sewage backs up into my Lorton home?',
-      answer: `Evacuate affected areas immediately—sewage contains dangerous pathogens. Don't attempt cleanup yourself. Call us at (703) 656-0113 for emergency biohazard response. Don't let children or pets near contaminated areas. Turn off HVAC systems to prevent airborne contamination spread if sewage odors are present.`,
+      answer: `Evacuate affected areas immediately—sewage contains dangerous pathogens. Don't attempt cleanup yourself. Call us at (877) 497-0007 for emergency biohazard response. Don't let children or pets near contaminated areas. Turn off HVAC systems to prevent airborne contamination spread if sewage odors are present.`,
     },
     {
       question: 'Is sewage cleanup different from regular water damage?',

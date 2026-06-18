@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in McLean, VA | Flood Doctor',
-    description: `McLean's trusted water damage restoration experts. 30-min response to Langley, Chesterbrook & The Reserve. Protecting wine cellars & home theaters. Call (703) 656-0101.`,
+    description: `McLean's trusted water damage restoration experts. 30-min response to Langley, Chesterbrook & The Reserve. Protecting wine cellars & home theaters. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in McLean, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor has restored water-damaged properties throughout McLean for nearly 
 
 Our IICRC Master Water Restorers don't just pump water and leave. We understand that your McLean Hamlet property requires precision drying to protect original plaster walls, that your El Nido estate's inlaid floors need controlled humidity to prevent warping, and that your Langley Farms wine collection demands specialized attention during any restoration project.`,
     ],
-    localContext: `McLean's estate homes—ranging from 4,000 to 15,000+ square feet—require restoration expertise most companies simply don't have. We've protected irreplaceable assets in The Reserve, Woodside Estates, and throughout the Georgetown Pike corridor since 2005.`,
+    localContext: `McLean's estate homes—ranging from 4,000 to 15,000+ square feet—require restoration expertise most companies simply don't have. We've protected irreplaceable assets in The Reserve, Woodside Estates, and throughout the Georgetown Pike corridor for years.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our McLean hotline at (703) 656-0101, we dispatch from our Falls Church facility immediately. Our trucks are positioned to reach Langley, Chesterbrook, The Reserve, and Salona Village within our 30-minute guarantee—not from a distant warehouse, but from the McLean corridor where we're already stationed.`,
+      description: `When you call our McLean hotline at (877) 497-0007, we dispatch from our Falls Church facility immediately. Our trucks are positioned to reach Langley, Chesterbrook, The Reserve, and Salona Village within our 30-minute guarantee—not from a distant warehouse, but from the McLean corridor where we're already stationed.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
       'High-value asset protection—wine cellar, home theater, and art collection safeguarding adds complexity',
       'Duration before response—faster calls mean less damage spread and lower restoration costs',
     ],
-    cta: `Call (703) 656-0101 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
+    cta: `Call (877) 497-0007 for a free, no-obligation inspection. We'll assess the damage, provide a detailed estimate, and explain your insurance coverage options.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -146,7 +146,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   faqs: [
     {
       question: 'How quickly should I call after discovering water damage in my McLean home?',
-      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating into wall cavities, under floors, and through ceiling spaces. In McLean's large estates, a few hours of delay can mean thousands of additional dollars in damage. Call (703) 656-0101 the moment you discover water.`,
+      answer: `Immediately. Water damage worsens exponentially—mold can begin growing within 24-48 hours, and water continues migrating into wall cavities, under floors, and through ceiling spaces. In McLean's large estates, a few hours of delay can mean thousands of additional dollars in damage. Call (877) 497-0007 the moment you discover water.`,
     },
     {
       question: 'Can you save my hardwood floors after water damage?',

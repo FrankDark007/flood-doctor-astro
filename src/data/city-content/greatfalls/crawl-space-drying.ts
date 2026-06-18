@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Great Falls, VA | Flood Doctor',
-    description: `Great Falls estate crawl space specialists. Serving Great Falls Village, Forestville & Seneca Estates. Ultra-luxury property expertise. Equestrian facilities. Call (703) 285-1100.`,
+    description: `Great Falls estate crawl space specialists. Serving Great Falls Village, Forestville & Seneca Estates. Ultra-luxury property expertise. Equestrian facilities. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Great Falls, Virginia',
   introSection: {
@@ -116,7 +116,7 @@ export const content: CityServiceContent = {
       'Integration needs with wine cellar, art storage, or other climate-controlled spaces',
       'Equestrian facility moisture management and interceptor drainage requirements',
     ],
-    cta: `Call (703) 285-1100 for a confidential consultation. We protect Great Falls estates with the same discretion and quality that these exceptional properties deserve.`,
+    cta: `Call (877) 497-0007 for a confidential consultation. We protect Great Falls estates with the same discretion and quality that these exceptional properties deserve.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -172,6 +172,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Protect Your Great Falls Estate from Below',
-    paragraph: `Your property represents an extraordinary investment. The crawl space beneath it deserves protection that matches. Call (703) 285-1100 for a confidential assessment tailored to your Great Falls estate.`,
+    paragraph: `Your property represents an extraordinary investment. The crawl space beneath it deserves protection that matches. Call (877) 497-0007 for a confidential assessment tailored to your Great Falls estate.`,
   },
 }

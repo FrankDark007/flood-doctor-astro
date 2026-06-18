@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Lorton, VA | Flood Doctor',
-    description: 'Emergency basement flooding repair in Lorton. Serving Laurel Hill, Gunston & South County. Crawlspace specialists. 30-min response. Call (703) 656-0113.',
+    description: 'Emergency basement flooding repair in Lorton. Serving Laurel Hill, Gunston & South County. Crawlspace specialists. 30-min response. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in Lorton, Virginia',
   introSection: {
@@ -16,12 +16,12 @@ Flood Doctor has rescued Lorton basements for nearly two decades. We've pumped o
 
 Our IICRC Master Water Restorers don't just pump basements dry. We understand that your Laurel Hill finished basement represents significant investment, that your Gunston property's foundation needs careful assessment after flooding, and that your Occoquan home's historic construction requires gentle restoration approaches that protect original materials.`,
     ],
-    localContext: `Lorton's basement flooding challenges range from new construction drainage failures in Laurel Hill to tidal influences on Mason Neck crawlspaces to clay soil foundation seepage throughout South County. We've addressed every basement flood scenario in our community since 2005.`,
+    localContext: `Lorton's basement flooding challenges range from new construction drainage failures in Laurel Hill to tidal influences on Mason Neck crawlspaces to clay soil foundation seepage throughout South County. We've addressed every basement flood scenario in our community for years.`,
   },
   processSteps: [
     {
       title: 'Emergency Response Within 30 Minutes',
-      description: 'When water fills your Lorton basement, call (703) 656-0113 immediately. Our crews dispatch from South Fairfax County staging areas positioned to reach Laurel Hill, Mason Neck, Occoquan, and South County within 30 minutes—day or night, weekends and holidays included.',
+      description: 'When water fills your Lorton basement, call (877) 497-0007 immediately. Our crews dispatch from South Fairfax County staging areas positioned to reach Laurel Hill, Mason Neck, Occoquan, and South County within 30 minutes—day or night, weekends and holidays included.',
       timeframe: 'Within 30 minutes',
     },
     {
@@ -124,7 +124,7 @@ Our IICRC Master Water Restorers don't just pump basements dry. We understand th
       'Contents affected—home theaters, home offices, and living spaces increase restoration complexity',
       'Foundation condition—identifying entry points may reveal needed waterproofing beyond immediate flood cleanup',
     ],
-    cta: `Call (703) 656-0113 for immediate basement flood response and a free damage assessment. We'll provide a detailed estimate and explain your insurance coverage options specific to Lorton basement flooding.`,
+    cta: `Call (877) 497-0007 for immediate basement flood response and a free damage assessment. We'll provide a detailed estimate and explain your insurance coverage options specific to Lorton basement flooding.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -144,7 +144,7 @@ Our IICRC Master Water Restorers don't just pump basements dry. We understand th
   faqs: [
     {
       question: 'What should I do immediately when I discover my Lorton basement is flooding?',
-      answer: `First, ensure safety—don't enter standing water if electrical outlets or appliances may be submerged. Turn off power to the basement at your electrical panel if you can do so safely. Call us immediately at (703) 656-0113. Don't attempt to pump water yourself with a shop vac—improper extraction can push water deeper into walls and force it into upper levels.`,
+      answer: `First, ensure safety—don't enter standing water if electrical outlets or appliances may be submerged. Turn off power to the basement at your electrical panel if you can do so safely. Call us immediately at (877) 497-0007. Don't attempt to pump water yourself with a shop vac—improper extraction can push water deeper into walls and force it into upper levels.`,
     },
     {
       question: 'Can you respond to basement flooding at night or on weekends?',

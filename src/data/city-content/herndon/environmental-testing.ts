@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Herndon, VA | Flood Doctor',
-    description: `Herndon's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes and commercial properties in Downtown Herndon, Fox Mill & Franklin Farm. Call (703) 285-1106.`,
+    description: `Herndon's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes and commercial properties in Downtown Herndon, Fox Mill & Franklin Farm. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Herndon, Virginia',
   introSection: {
@@ -113,7 +113,7 @@ export const content: CityServiceContent = {
       'Commercial regulatory compliance documentation—OSHA, EPA NESHAP, Virginia DEQ',
       'Rush laboratory processing for renovation schedules and rental property turnovers',
     ],
-    cta: `Call (703) 285-1106 for a consultation. We provide appropriately scaled testing protocols for Herndon residential homes and commercial properties.`,
+    cta: `Call (877) 497-0007 for a consultation. We provide appropriately scaled testing protocols for Herndon residential homes and commercial properties.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Grace Church',
       'West Ox',
     ],
-    responseTime: `Same-day environmental testing deployment to all Herndon neighborhoods and commercial areas. Expedited laboratory processing available for active renovation and tenant turnover timelines. Call (703) 285-1106.`,
+    responseTime: `Same-day environmental testing deployment to all Herndon neighborhoods and commercial areas. Expedited laboratory processing available for active renovation and tenant turnover timelines. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -168,6 +168,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Testing for Your Herndon Property?',
-    paragraph: `Certified environmental assessment for residential homes, townhome communities, and Dulles corridor commercial properties. AIHA-accredited laboratory analysis with chain-of-custody documentation. Call (703) 285-1106 for a consultation.`,
+    paragraph: `Certified environmental assessment for residential homes, townhome communities, and Dulles corridor commercial properties. AIHA-accredited laboratory analysis with chain-of-custody documentation. Call (877) 497-0007 for a consultation.`,
   },
 }

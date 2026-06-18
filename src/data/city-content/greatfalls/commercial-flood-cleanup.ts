@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Great Falls, VA | Flood Doctor',
-    description: `Great Falls commercial flood cleanup. Equestrian facilities, luxury offices & estate-adjacent properties. Watershed flood response near Great Falls Park & Riverbend. Call (703) 285-1100.`,
+    description: `Great Falls commercial flood cleanup. Equestrian facilities, luxury offices & estate-adjacent properties. Watershed flood response near Great Falls Park & Riverbend. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood teams deploy to Great Falls with portable pumping equipment
   processSteps: [
     {
       title: 'Rural-Premium Flood Dispatch',
-      description: `Call (703) 285-1100 for immediate flood response. Our Great Falls crews carry portable industrial extraction equipment that deploys without loading dock access, reaching rural-setting commercial properties throughout the community.`,
+      description: `Call (877) 497-0007 for immediate flood response. Our Great Falls crews carry portable industrial extraction equipment that deploys without loading dock access, reaching rural-setting commercial properties throughout the community.`,
       timeframe: 'Within 60 minutes',
     },
     {
@@ -113,7 +113,7 @@ Our commercial flood teams deploy to Great Falls with portable pumping equipment
       'Wooded environment drying—humid conditions under tree canopy extend drying timelines requiring additional equipment capacity',
       'High-value asset protection—specialized equipment, collections, and premium inventory require individual documentation and protection',
     ],
-    cta: `Call (703) 285-1100 for emergency flood response. Our Great Falls team deploys with the portable capability and premium service this community's commercial properties demand.`,
+    cta: `Call (877) 497-0007 for emergency flood response. Our Great Falls team deploys with the portable capability and premium service this community's commercial properties demand.`,
   },
   serviceAreaSection: {
     neighborhoods: [

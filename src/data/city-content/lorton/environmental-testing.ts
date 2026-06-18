@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Lorton, VA | Flood Doctor',
-    description: `Lorton's certified environmental testing for mold, VOC, indoor air quality & hazardous materials. AIHA-accredited lab analysis for homes in Laurel Hill, Mason Neck & Occoquan. Call (703) 285-1100.`,
+    description: `Lorton's certified environmental testing for mold, VOC, indoor air quality & hazardous materials. AIHA-accredited lab analysis for homes in Laurel Hill, Mason Neck & Occoquan. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Lorton, Virginia',
   introSection: {
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       'Construction defect documentation with enhanced chain-of-custody and evidence protocols',
       'Commercial or adaptive reuse hazardous materials survey for older structures',
     ],
-    cta: `Call (703) 285-1100 for a consultation. We design testing protocols matched to your Lorton property\`s specific environmental profile and assessment needs.`,
+    cta: `Call (877) 497-0007 for a consultation. We design testing protocols matched to your Lorton property\`s specific environmental profile and assessment needs.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -128,7 +128,7 @@ export const content: CityServiceContent = {
       'Lorton Station',
       'Lorton Town Center',
     ],
-    responseTime: `Same-day environmental testing deployment to all Lorton communities. Emergency response for post-flood contamination assessment in Occoquan-area properties. Call (703) 285-1100.`,
+    responseTime: `Same-day environmental testing deployment to all Lorton communities. Emergency response for post-flood contamination assessment in Occoquan-area properties. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -166,6 +166,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Questions About Your Lorton Property?',
-    paragraph: `Certified environmental testing for Lorton\`s new construction, waterfront, and wooded-lot properties. AIHA-accredited laboratory analysis with chain-of-custody documentation for health investigation and warranty claims. Call (703) 285-1100 for a consultation.`,
+    paragraph: `Certified environmental testing for Lorton\`s new construction, waterfront, and wooded-lot properties. AIHA-accredited laboratory analysis with chain-of-custody documentation for health investigation and warranty claims. Call (877) 497-0007 for a consultation.`,
   },
 }

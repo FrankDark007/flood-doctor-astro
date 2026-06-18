@@ -6,7 +6,7 @@ const tysons: CityData = {
   state: 'Virginia',
   stateAbbr: 'VA',
   fullName: 'Tysons, Virginia',
-  phone: '(703) 285-1100',
+  phone: '(877) 497-0007',
   address: '8000 Westpark Dr, Tysons, VA 22102',
   zipCode: '22102',
   serviceArea: [
@@ -17,7 +17,7 @@ const tysons: CityData = {
   coordinates: { lat: 38.9187, lng: -77.2311 },
   meta: {
     title: 'Flood Doctor Tysons | 24/7 Water Damage Restoration',
-    description: '24/7 emergency water damage restoration in Tysons, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (703) 285-1100.',
+    description: '24/7 emergency water damage restoration in Tysons, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (877) 497-0007.',
   },
 }
 

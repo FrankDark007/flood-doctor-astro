@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Crawl Space Drying in Sterling, VA | Flood Doctor`,
-    description: `Sterling crawl space drying specialists. Moisture control for Sterling Park, Cascades & Countryside crawl spaces. Vapor barrier installation. Call (703) 285-1111.`,
+    description: `Sterling crawl space drying specialists. Moisture control for Sterling Park, Cascades & Countryside crawl spaces. Vapor barrier installation. Call (877) 497-0007.`,
   },
   h1: `Crawl Space Drying Services in Sterling, Virginia`,
   introSection: {
@@ -77,7 +77,7 @@ Our crawl space solutions are calibrated to Sterling conditions—the soil moist
       `Groundwater conditions—Sugarland Run proximity may require drainage and sump installation`,
       `Mold treatment needs—contaminated structural wood requires antimicrobial treatment adding scope`,
     ],
-    cta: `Call (703) 285-1111 for a crawl space assessment. We provide honest evaluation and practical recommendations matched to your Sterling home's specific conditions and your budget.`,
+    cta: `Call (877) 497-0007 for a crawl space assessment. We provide honest evaluation and practical recommendations matched to your Sterling home's specific conditions and your budget.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our crawl space solutions are calibrated to Sterling conditions—the soil moist
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `Same-day crawl space assessment throughout Sterling. Emergency drying for active flooding situations within 2 hours. Call (703) 285-1111.`,
+    responseTime: `Same-day crawl space assessment throughout Sterling. Emergency drying for active flooding situations within 2 hours. Call (877) 497-0007.`,
   },
   faqs: [
     {

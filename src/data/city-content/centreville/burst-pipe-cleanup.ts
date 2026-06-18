@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville burst pipe cleanup specialists. Polybutylene & CPVC pipe failure experts. 30-min response to Virginia Run, Centre Ridge & Sully Station. Call (703) 285-1103.`,
+    description: `Centreville burst pipe cleanup specialists. Polybutylene & CPVC pipe failure experts. 30-min response to Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Burst Pipe Cleanup Services in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our team arrives with truck-mounted extraction, thermal imaging to map hidden wa
   processSteps: [
     {
       title: 'Emergency Response & Water Shutoff',
-      description: `Call (703) 285-1103 and shut off your main water supply if possible. Our crew arrives within 30 minutes, confirms shutoff, and begins immediate assessment. If you cannot locate your shutoff valve, we assist upon arrival.`,
+      description: `Call (877) 497-0007 and shut off your main water supply if possible. Our crew arrives within 30 minutes, confirms shutoff, and begins immediate assessment. If you cannot locate your shutoff valve, we assist upon arrival.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -121,7 +121,7 @@ Our team arrives with truck-mounted extraction, thermal imaging to map hidden wa
       'Number of levels affected—each additional floor adds extraction and drying equipment needs',
       'Hidden damage extent—behind-wall moisture from burst pipes may require targeted cavity drying',
     ],
-    cta: `Call (703) 285-1103 for immediate burst pipe response. We extract water, document the failure for insurance, and begin drying while you focus on getting a plumber scheduled.`,
+    cta: `Call (877) 497-0007 for immediate burst pipe response. We extract water, document the failure for insurance, and begin drying while you focus on getting a plumber scheduled.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -140,7 +140,7 @@ Our team arrives with truck-mounted extraction, thermal imaging to map hidden wa
       'Gate Post Estates',
       'Country Club Manor',
     ],
-    responseTime: `30-minute response to all Centreville neighborhoods for burst pipe emergencies. Shut off your water supply and call (703) 285-1103—we are on the way.`,
+    responseTime: `30-minute response to all Centreville neighborhoods for burst pipe emergencies. Shut off your water supply and call (877) 497-0007—we are on the way.`,
   },
   faqs: [
     {
@@ -149,7 +149,7 @@ Our team arrives with truck-mounted extraction, thermal imaging to map hidden wa
     },
     {
       question: 'My pipe burst upstairs. Should I go to the basement first?',
-      answer: `First, shut off the main water supply. Then call (703) 285-1103. Water from upstairs bursts reaches the basement quickly in Centreville colonials. We address all levels simultaneously upon arrival.`,
+      answer: `First, shut off the main water supply. Then call (877) 497-0007. Water from upstairs bursts reaches the basement quickly in Centreville colonials. We address all levels simultaneously upon arrival.`,
     },
     {
       question: 'Will insurance cover a polybutylene pipe failure?',
@@ -175,6 +175,6 @@ Our team arrives with truck-mounted extraction, thermal imaging to map hidden wa
   ],
   finalCTA: {
     headline: 'Burst Pipe in Your Centreville Home?',
-    paragraph: `Shut off your water and call now. Every minute water flows, damage spreads to additional floors and rooms. Our 30-minute response team is ready with extraction equipment and the expertise to handle multi-level burst pipe damage. Call (703) 285-1103.`,
+    paragraph: `Shut off your water and call now. Every minute water flows, damage spreads to additional floors and rooms. Our 30-minute response team is ready with extraction equipment and the expertise to handle multi-level burst pipe damage. Call (877) 497-0007.`,
   },
 }

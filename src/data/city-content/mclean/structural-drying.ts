@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in McLean, VA | Flood Doctor',
-    description: `McLean's premier structural drying specialists. Discreet 30-min response to Langley, Chesterbrook & The Reserve estates. Psychrometric monitoring for luxury homes. Call (703) 285-1108.`,
+    description: `McLean's premier structural drying specialists. Discreet 30-min response to Langley, Chesterbrook & The Reserve estates. Psychrometric monitoring for luxury homes. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in McLean, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ We deploy commercial LGR dehumidifiers and desiccant units alongside high-veloci
   processSteps: [
     {
       title: 'Discreet Emergency Response',
-      description: `When you contact our McLean line at (703) 285-1108, we dispatch unmarked vehicles and uniformed technicians who understand the discretion McLean homeowners expect. Our teams reach Langley, The Reserve, Chesterbrook, and El Nido within 30 minutes from our Northern Virginia staging locations.`,
+      description: `When you contact our McLean line at (877) 497-0007, we dispatch unmarked vehicles and uniformed technicians who understand the discretion McLean homeowners expect. Our teams reach Langley, The Reserve, Chesterbrook, and El Nido within 30 minutes from our Northern Virginia staging locations.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -126,7 +126,7 @@ We deploy commercial LGR dehumidifiers and desiccant units alongside high-veloci
       'Number of structural levels — multi-story moisture migration requires equipment on every affected floor',
       'Documentation requirements — high-value claims and premium materials demand detailed scientific reporting',
     ],
-    cta: `Call (703) 285-1108 for a confidential assessment. We provide detailed drying plans and cost estimates before any work begins, and coordinate directly with your insurance carrier.`,
+    cta: `Call (877) 497-0007 for a confidential assessment. We provide detailed drying plans and cost estimates before any work begins, and coordinate directly with your insurance carrier.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -187,6 +187,6 @@ We deploy commercial LGR dehumidifiers and desiccant units alongside high-veloci
   ],
   finalCTA: {
     headline: 'Water Damage Threatening Your McLean Estate?',
-    paragraph: 'Every hour of uncontrolled moisture risks permanent damage to premium materials and high-value spaces. Our structural drying specialists are positioned throughout Northern Virginia for immediate 30-minute response to McLean properties. One call to (703) 285-1108 deploys the scientific drying expertise your estate demands.',
+    paragraph: 'Every hour of uncontrolled moisture risks permanent damage to premium materials and high-value spaces. Our structural drying specialists are positioned throughout Northern Virginia for immediate 30-minute response to McLean properties. One call to (877) 497-0007 deploys the scientific drying expertise your estate demands.',
   },
 }

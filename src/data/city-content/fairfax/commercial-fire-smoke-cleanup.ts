@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's trusted commercial fire and smoke restoration team. Emergency response for restaurants, retail centers, and office buildings near Burke, GMU, and Fairfax Corner. Call (703) 285-1105.`,
+    description: `Fairfax's trusted commercial fire and smoke restoration team. Emergency response for restaurants, retail centers, and office buildings near Burke, GMU, and Fairfax Corner. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Fairfax, Virginia`,
   introSection: {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Content and equipment restoration—medical equipment, restaurant inventory, and retail stock each require specialized handling`,
       `Business interruption urgency—expedited restoration reduces cumulative revenue loss for Fairfax commercial tenants`,
     ],
-    cta: `Call (703) 285-1105 for immediate commercial fire emergency response in Fairfax. Our teams are positioned throughout the area for rapid deployment to Fairfax City, Burke, Kings Park, and all Fairfax commercial districts.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Fairfax. Our teams are positioned throughout the area for rapid deployment to Fairfax City, Burke, Kings Park, and all Fairfax commercial districts.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Fairfax?`,
-    paragraph: `Every day your Fairfax business stays closed costs revenue and customer loyalty. Our integrated fire restoration teams prioritize getting your most critical spaces operational first. Call (703) 285-1105 for emergency stabilization and a restoration plan built around your business priorities.`,
+    paragraph: `Every day your Fairfax business stays closed costs revenue and customer loyalty. Our integrated fire restoration teams prioritize getting your most critical spaces operational first. Call (877) 497-0007 for emergency stabilization and a restoration plan built around your business priorities.`,
   },
 }

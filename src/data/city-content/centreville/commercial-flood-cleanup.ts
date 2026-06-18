@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Centreville, VA | Flood Doctor',
-    description: `Centreville commercial flood cleanup. 24/7 emergency response for offices, retail & commercial properties along Route 28/I-66. Call (703) 285-1103.`,
+    description: `Centreville commercial flood cleanup. 24/7 emergency response for offices, retail & commercial properties along Route 28/I-66. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our commercial flood cleanup teams are structured for large-scale response. We b
   processSteps: [
     {
       title: 'Emergency Commercial Dispatch',
-      description: `Call (703) 285-1103 for immediate commercial flood response. We dispatch multiple trucks and crews sized for commercial floor plates—arriving within 30 minutes to begin extraction and damage containment.`,
+      description: `Call (877) 497-0007 for immediate commercial flood response. We dispatch multiple trucks and crews sized for commercial floor plates—arriving within 30 minutes to begin extraction and damage containment.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -109,7 +109,7 @@ Our commercial flood cleanup teams are structured for large-scale response. We b
       'Contamination level—biohazard cleanup for contaminated flooding adds specialized protocols and costs',
       'Business interruption mitigation—expedited schedules and after-hours work reduce downtime but may increase labor costs',
     ],
-    cta: `Call (703) 285-1103 for immediate commercial flood response. We bring the scale, speed, and coordination your commercial property requires.`,
+    cta: `Call (877) 497-0007 for immediate commercial flood response. We bring the scale, speed, and coordination your commercial property requires.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,7 +131,7 @@ Our commercial flood cleanup teams are structured for large-scale response. We b
   faqs: [
     {
       question: 'How quickly can you respond to a commercial flood emergency?',
-      answer: `Within 30 minutes, 24/7. For large-scale events, we dispatch multiple trucks and crews simultaneously. Call (703) 285-1103—we mobilize before the call ends.`,
+      answer: `Within 30 minutes, 24/7. For large-scale events, we dispatch multiple trucks and crews simultaneously. Call (877) 497-0007—we mobilize before the call ends.`,
     },
     {
       question: 'Our fire suppression system discharged accidentally. Can you help?',
@@ -160,6 +160,6 @@ Our commercial flood cleanup teams are structured for large-scale response. We b
   ],
   finalCTA: {
     headline: 'Commercial Flooding in Centreville?',
-    paragraph: `Business interruption costs grow every hour. Call (703) 285-1103 now for commercial-scale flood response. We bring the extraction capacity, crew size, and project management to get your business back to operational.`,
+    paragraph: `Business interruption costs grow every hour. Call (877) 497-0007 now for commercial-scale flood response. We bring the extraction capacity, crew size, and project management to get your business back to operational.`,
   },
 }

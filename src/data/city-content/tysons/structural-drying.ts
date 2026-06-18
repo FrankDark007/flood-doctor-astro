@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Tysons, VA | Flood Doctor',
-    description: `Tysons structural drying for luxury high-rises & modern buildings. HVAC system expertise, concrete slab drying & HOA coordination. 30-min response. Call (703) 285-1100.`,
+    description: `Tysons structural drying for luxury high-rises & modern buildings. HVAC system expertise, concrete slab drying & HOA coordination. 30-min response. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Tysons, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians deploy equipment optimized for modern building s
   processSteps: [
     {
       title: 'Rapid Urban Response',
-      description: `Call (703) 285-1100 and our Tysons-positioned crews arrive within 30 minutes. We are familiar with the access protocols, elevator systems, and loading dock procedures at major Tysons developments — reaching your unit in Tysons Corner, The Boro, Scotts Run, or Tysons Central without the delays that unfamiliar crews experience in these buildings.`,
+      description: `Call (877) 497-0007 and our Tysons-positioned crews arrive within 30 minutes. We are familiar with the access protocols, elevator systems, and loading dock procedures at major Tysons developments — reaching your unit in Tysons Corner, The Boro, Scotts Run, or Tysons Central without the delays that unfamiliar crews experience in these buildings.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -125,7 +125,7 @@ Our IICRC-certified technicians deploy equipment optimized for modern building s
       'Construction defect documentation — situations involving builder warranty claims require additional investigation and reporting',
       'Premium flooring verification — ASTM F2170 concrete testing for manufacturer clearance adds scientific precision to the project',
     ],
-    cta: `Call (703) 285-1100 for immediate assessment. We provide unit-specific estimates, coordinate with building management, and handle individual insurance claims simultaneously.`,
+    cta: `Call (877) 497-0007 for immediate assessment. We provide unit-specific estimates, coordinate with building management, and handle individual insurance claims simultaneously.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -177,6 +177,6 @@ Our IICRC-certified technicians deploy equipment optimized for modern building s
   ],
   finalCTA: {
     headline: 'Water Damage in Your Tysons Property?',
-    paragraph: 'Modern high-rise water events escalate rapidly across multiple units and require immediate professional response. Our Tysons-specialized crews arrive within 30 minutes with building-appropriate equipment and the coordination expertise these complex properties demand. Call (703) 285-1100 now.',
+    paragraph: 'Modern high-rise water events escalate rapidly across multiple units and require immediate professional response. Our Tysons-specialized crews arrive within 30 minutes with building-appropriate equipment and the coordination expertise these complex properties demand. Call (877) 497-0007 now.',
   },
 }

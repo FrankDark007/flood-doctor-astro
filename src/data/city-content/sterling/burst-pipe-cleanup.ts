@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Burst Pipe Cleanup in Sterling, VA | Flood Doctor`,
-    description: `Sterling burst pipe cleanup experts. Aging plumbing failures in Sterling Park, frozen pipe response for Cascades & Countryside. 30-min emergency response. Call (703) 285-1111.`,
+    description: `Sterling burst pipe cleanup experts. Aging plumbing failures in Sterling Park, frozen pipe response for Cascades & Countryside. 30-min emergency response. Call (877) 497-0007.`,
   },
   h1: `Burst Pipe Cleanup in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified technicians understand these flow patterns and trace water t
   processSteps: [
     {
       title: `Emergency Dispatch to Sterling`,
-      description: `Call (703) 285-1111 the moment a pipe bursts. Shut off the main water supply if you can locate it. Our crews are stationed along the Route 7 corridor and reach Sterling Park, Cascades, Countryside, and Potomac Falls within 30 minutes.`,
+      description: `Call (877) 497-0007 the moment a pipe bursts. Shut off the main water supply if you can locate it. Our crews are stationed along the Route 7 corridor and reach Sterling Park, Cascades, Countryside, and Potomac Falls within 30 minutes.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -116,7 +116,7 @@ Our IICRC-certified technicians understand these flow patterns and trace water t
       `Construction materials—vintage plaster and hardwood versus modern drywall and engineered flooring`,
       `Adjacent unit involvement—Cascades townhome shared-wall migration adds coordination and scope`,
     ],
-    cta: `Call (703) 285-1111 for immediate burst pipe response. We provide free assessments and handle insurance billing directly—you focus on your family while we restore your home.`,
+    cta: `Call (877) 497-0007 for immediate burst pipe response. We provide free assessments and handle insurance billing directly—you focus on your family while we restore your home.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -136,12 +136,12 @@ Our IICRC-certified technicians understand these flow patterns and trace water t
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute burst pipe emergency response to all Sterling neighborhoods. Shut off your water and call (703) 285-1111—we are already in your area.`,
+    responseTime: `30-minute burst pipe emergency response to all Sterling neighborhoods. Shut off your water and call (877) 497-0007—we are already in your area.`,
   },
   faqs: [
     {
       question: `I think I have a burst pipe but I cannot find the source. Should I still call?`,
-      answer: `Yes, immediately. Hidden burst pipes behind walls or under floors cause the worst damage because they run undetected. If you see unexplained water, hear running water, or notice a sudden spike in water pressure loss, shut off the main and call (703) 285-1111. Our thermal imaging locates hidden bursts quickly.`,
+      answer: `Yes, immediately. Hidden burst pipes behind walls or under floors cause the worst damage because they run undetected. If you see unexplained water, hear running water, or notice a sudden spike in water pressure loss, shut off the main and call (877) 497-0007. Our thermal imaging locates hidden bursts quickly.`,
     },
     {
       question: `My Sterling Park home has old plumbing. How do I prevent burst pipes?`,

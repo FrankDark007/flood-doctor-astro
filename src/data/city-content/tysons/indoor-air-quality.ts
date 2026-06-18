@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Tysons, VA | Flood Doctor',
-    description: `Tysons indoor air quality testing for commercial buildings and luxury condos. OSHA-compliant assessments, mold sampling & HVAC evaluation at The Boro and Tysons Corner. Call (703) 285-1100.`,
+    description: `Tysons indoor air quality testing for commercial buildings and luxury condos. OSHA-compliant assessments, mold sampling & HVAC evaluation at The Boro and Tysons Corner. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Tysons, Virginia',
   introSection: {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'HVAC system complexity including cooling tower evaluation and Legionella testing',
       'Reporting scope and number of stakeholder-specific deliverables',
     ],
-    cta: `Call (703) 285-1100 for a commercial consultation. We coordinate with your property management team to scope assessment appropriate to the building and complaint pattern.`,
+    cta: `Call (877) 497-0007 for a commercial consultation. We coordinate with your property management team to scope assessment appropriate to the building and complaint pattern.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Jones Branch',
       'Westpark',
     ],
-    responseTime: `Same-day commercial IAQ assessment in Tysons. Emergency deployment within 90 minutes for suspected chemical exposure or visible contamination events. Call (703) 285-1100.`,
+    responseTime: `Same-day commercial IAQ assessment in Tysons. Emergency deployment within 90 minutes for suspected chemical exposure or visible contamination events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Air Quality Issues in Your Tysons Building?',
-    paragraph: `Commercial or residential, our scientific IAQ assessment provides the data property managers and building owners need. OSHA-referenced documentation, ASHRAE ventilation verification, and AIHA-accredited laboratory analysis. Call (703) 285-1100.`,
+    paragraph: `Commercial or residential, our scientific IAQ assessment provides the data property managers and building owners need. OSHA-referenced documentation, ASHRAE ventilation verification, and AIHA-accredited laboratory analysis. Call (877) 497-0007.`,
   },
 }

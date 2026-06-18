@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Great Falls, VA | Flood Doctor',
-    description: `Great Falls commercial water damage restoration. Equestrian facilities, luxury professional offices & estate-adjacent commercial properties near Great Falls Village Centre. Call (703) 285-1100.`,
+    description: `Great Falls commercial water damage restoration. Equestrian facilities, luxury professional offices & estate-adjacent commercial properties near Great Falls Village Centre. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Great Falls, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified commercial teams bring the technical range and service demea
   processSteps: [
     {
       title: 'Discreet Premium Dispatch',
-      description: `Call (703) 285-1100 for immediate response. Our Great Falls crews arrive with unmarked vehicles when requested and maintain the discreet, professional presence that businesses serving ultra-high-net-worth clientele require.`,
+      description: `Call (877) 497-0007 for immediate response. Our Great Falls crews arrive with unmarked vehicles when requested and maintain the discreet, professional presence that businesses serving ultra-high-net-worth clientele require.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -114,7 +114,7 @@ Our IICRC-certified commercial teams bring the technical range and service demea
       'Private infrastructure involvement—well and septic system considerations add assessment and documentation unique to Great Falls properties',
       'Rural-setting logistics—properties without standard commercial access may require portable equipment deployment adding logistical scope',
     ],
-    cta: `Call (703) 285-1100 for immediate premium commercial response. We deliver the service quality and discretion that Great Falls commercial properties demand.`,
+    cta: `Call (877) 497-0007 for immediate premium commercial response. We deliver the service quality and discretion that Great Falls commercial properties demand.`,
   },
   serviceAreaSection: {
     neighborhoods: [

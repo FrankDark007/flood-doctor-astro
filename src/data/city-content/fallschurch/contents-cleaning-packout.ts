@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Falls Church, VA | Flood Doctor',
-    description: `Falls Church contents restoration for historic homes, Lake Barcroft properties & apartments. Professional pack-out, cleaning & climate storage. Call (703) 285-1100.`,
+    description: `Falls Church contents restoration for historic homes, Lake Barcroft properties & apartments. Professional pack-out, cleaning & climate storage. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Falls Church, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every item we handle is inventoried with photographs, condition notes, and barco
   processSteps: [
     {
       title: 'Emergency Triage',
-      description: `Within 30 minutes of calling (703) 285-1100, we stabilize time-sensitive items. Documents from your Falls Church City study are bagged for freezing. Electronics from the Lake Barcroft family room are disconnected. Antiques and artwork receive immediate assessment.`,
+      description: `Within 30 minutes of calling (877) 497-0007, we stabilize time-sensitive items. Documents from your Falls Church City study are bagged for freezing. Electronics from the Lake Barcroft family room are disconnected. Antiques and artwork receive immediate assessment.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -106,7 +106,7 @@ Every item we handle is inventoried with photographs, condition notes, and barco
       'Specialty items — vintage furniture, collected art, and antiques require individual treatment plans',
       'Storage duration — climate-controlled storage costs extend with longer structural restoration timelines',
     ],
-    cta: `Call (703) 285-1100 for immediate contents assessment. We stabilize time-sensitive items and provide estimates for your homeowner or renter insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We stabilize time-sensitive items and provide estimates for your homeowner or renter insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ Every item we handle is inventoried with photographs, condition notes, and barco
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Falls Church Home?',
-    paragraph: 'Whether you live in a historic bungalow, lakefront property, or apartment, your belongings deserve professional restoration that saves what matters most. Our Falls Church team responds within 30 minutes. Call (703) 285-1100.',
+    paragraph: 'Whether you live in a historic bungalow, lakefront property, or apartment, your belongings deserve professional restoration that saves what matters most. Our Falls Church team responds within 30 minutes. Call (877) 497-0007.',
   },
 }

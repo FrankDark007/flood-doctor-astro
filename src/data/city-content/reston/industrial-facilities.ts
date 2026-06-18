@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Reston, VA | Flood Doctor`,
-    description: `Reston's commercial and industrial restoration specialists. Serving technology offices, data centers, and business operations along Sunrise Valley and Reston Town Center. Call (703) 285-1109.`,
+    description: `Reston's commercial and industrial restoration specialists. Serving technology offices, data centers, and business operations along Sunrise Valley and Reston Town Center. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Reston, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ These environmental factors demand proactive facility management and reactive re
   processSteps: [
     {
       title: `Technology Facility Emergency Response`,
-      description: `Call (703) 285-1109 for immediate commercial deployment. Our Reston crews arrive with anti-corrosion treatment, precision environmental controls, and server room protection equipment within 30 minutes to technology offices along Sunrise Valley, at Reston Town Center, and throughout the business parks.`,
+      description: `Call (877) 497-0007 for immediate commercial deployment. Our Reston crews arrive with anti-corrosion treatment, precision environmental controls, and server room protection equipment within 30 minutes to technology offices along Sunrise Valley, at Reston Town Center, and throughout the business parks.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -115,7 +115,7 @@ These environmental factors demand proactive facility management and reactive re
       `Business interruption scale—technology operations losing revenue and contract performance during downtime`,
       `Building responsibility—roof and system failures distinguishing landlord from tenant liability`,
     ],
-    cta: `Call (703) 285-1109 for emergency technology or commercial facility assessment. We protect computing infrastructure and business operations with Reston-calibrated environmental management.`,
+    cta: `Call (877) 497-0007 for emergency technology or commercial facility assessment. We protect computing infrastructure and business operations with Reston-calibrated environmental management.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -165,6 +165,6 @@ These environmental factors demand proactive facility management and reactive re
   ],
   finalCTA: {
     headline: `Reston Technology or Commercial Emergency?`,
-    paragraph: `Computing equipment and digital infrastructure face permanent damage within hours of water exposure. Our technology recovery teams respond within 30 minutes with anti-corrosion treatment and environmental controls designed for Reston's humid conditions. Call (703) 285-1109 now.`,
+    paragraph: `Computing equipment and digital infrastructure face permanent damage within hours of water exposure. Our technology recovery teams respond within 30 minutes with anti-corrosion treatment and environmental controls designed for Reston's humid conditions. Call (877) 497-0007 now.`,
   },
 }

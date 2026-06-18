@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Alexandria, VA | Flood Doctor',
-    description: `Alexandria's odor elimination experts. Historic-safe treatment for musty basements, sewage odors & smoke damage in Old Town, Del Ray & Belle Haven. Call (703) 285-1101.`,
+    description: `Alexandria's odor elimination experts. Historic-safe treatment for musty basements, sewage odors & smoke damage in Old Town, Del Ray & Belle Haven. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Alexandria, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our technicians trace every odor to its source using borescopes that inspect ins
   processSteps: [
     {
       title: 'Historic-Aware Source Investigation',
-      description: `When you call (703) 285-1101, we schedule an assessment that examines your Alexandria property with both deodorization and preservation expertise. Using borescopes, moisture meters, and UV inspection, we trace odors to their source — whether hidden mold behind stone foundations in Old Town, deteriorated waste lines in Del Ray, or embedded smoke in Rosemont plaster walls.`,
+      description: `When you call (877) 497-0007, we schedule an assessment that examines your Alexandria property with both deodorization and preservation expertise. Using borescopes, moisture meters, and UV inspection, we trace odors to their source — whether hidden mold behind stone foundations in Old Town, deteriorated waste lines in Del Ray, or embedded smoke in Rosemont plaster walls.`,
       timeframe: 'Initial visit',
     },
     {
@@ -108,7 +108,7 @@ Our technicians trace every odor to its source using borescopes that inspect ins
       'Infrastructure condition — aging sewer laterals and cast iron pipes may need repair alongside deodorization to prevent recurrence',
       'Chronic moisture conditions — properties near the Potomac water table may require integrated moisture management alongside odor treatment',
     ],
-    cta: `Call (703) 285-1101 for a professional odor assessment. We trace the source, explain treatment options compatible with your Alexandria property, and provide detailed estimates.`,
+    cta: `Call (877) 497-0007 for a professional odor assessment. We trace the source, explain treatment options compatible with your Alexandria property, and provide detailed estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -168,6 +168,6 @@ Our technicians trace every odor to its source using borescopes that inspect ins
   ],
   finalCTA: {
     headline: 'Stubborn Odors in Your Alexandria Home?',
-    paragraph: 'Historic properties trap odors in materials that consumer products cannot reach. Our Alexandria deodorization team combines molecular-level odor destruction with historic material expertise to eliminate musty, sewage, and smoke odors permanently. Call (703) 285-1101 for a professional assessment.',
+    paragraph: 'Historic properties trap odors in materials that consumer products cannot reach. Our Alexandria deodorization team combines molecular-level odor destruction with historic material expertise to eliminate musty, sewage, and smoke odors permanently. Call (877) 497-0007 for a professional assessment.',
   },
 }

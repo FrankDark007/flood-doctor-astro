@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Arlington, VA | Flood Doctor',
-    description: 'Arlington mold removal experts. HVAC system contamination, multi-unit spread, HOA coordination. Rosslyn to Crystal City high-rise specialists. Call (703) 656-0102.',
+    description: 'Arlington mold removal experts. HVAC system contamination, multi-unit spread, HOA coordination. Rosslyn to Crystal City high-rise specialists. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation in Arlington, Virginia',
   introSection: {
@@ -120,7 +120,7 @@ Our IICRC-certified mold remediation specialists understand that Arlington mold 
       'Material removal scope—extensive drywall and insulation removal increases cost and timeline',
       'Clearance testing requirements—some insurance carriers and HOAs require independent verification',
     ],
-    cta: `Call (703) 656-0102 for a free mold inspection. We'll assess visible and hidden growth, check shared systems, and provide detailed estimates for complete remediation.`,
+    cta: `Call (877) 497-0007 for a free mold inspection. We'll assess visible and hidden growth, check shared systems, and provide detailed estimates for complete remediation.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -149,7 +149,7 @@ Our IICRC-certified mold remediation specialists understand that Arlington mold 
     },
     {
       question: `My building's HVAC seems to be spreading mold—what do I do?`,
-      answer: 'Contact building management immediately and call us at (703) 656-0102. We can assess whether HVAC contamination exists and recommend appropriate cleaning. Documenting the problem professionally helps communicate the issue to HOA boards and property managers who may not understand the severity.',
+      answer: 'Contact building management immediately and call us at (877) 497-0007. We can assess whether HVAC contamination exists and recommend appropriate cleaning. Documenting the problem professionally helps communicate the issue to HOA boards and property managers who may not understand the severity.',
     },
     {
       question: 'Do I need to leave my condo during mold remediation?',

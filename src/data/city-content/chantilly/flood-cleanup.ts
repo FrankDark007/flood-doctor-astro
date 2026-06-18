@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup Services in Chantilly, VA | Flood Doctor',
-    description: `Chantilly's emergency flood cleanup specialists. 30-min response to South Riding, Westfields & Franklin Glen. Storm and sewage flood experts. Call (703) 285-1104.`,
+    description: `Chantilly's emergency flood cleanup specialists. 30-min response to South Riding, Westfields & Franklin Glen. Storm and sewage flood experts. Call (877) 497-0007.`,
   },
   h1: 'Flood Cleanup Services in Chantilly, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: `Call (703) 285-1104 and our nearest crew deploys immediately. We maintain trucks along Route 50 and Route 28 to reach Chantilly Highlands, South Riding, Franklin Glen, and Westfields within 30 minutes.`,
+      description: `Call (877) 497-0007 and our nearest crew deploys immediately. We maintain trucks along Route 50 and Route 28 to reach Chantilly Highlands, South Riding, Franklin Glen, and Westfields within 30 minutes.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       `Materials requiring removal versus salvage—modern materials have specific saturation thresholds`,
       `Urgency and response time—faster extraction significantly reduces total project cost`,
     ],
-    cta: `Call (703) 285-1104 for immediate flood cleanup. We provide free assessments and handle insurance billing directly so you can focus on your family.`,
+    cta: `Call (877) 497-0007 for immediate flood cleanup. We provide free assessments and handle insurance billing directly so you can focus on your family.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -137,7 +137,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: `How fast can you reach my Chantilly home during a flood?`,
-      answer: `Within 30 minutes. Our crews are positioned along Route 50 and Route 28, covering South Riding to Chantilly Highlands. Call (703) 285-1104 immediately—every minute of standing water increases damage.`,
+      answer: `Within 30 minutes. Our crews are positioned along Route 50 and Route 28, covering South Riding to Chantilly Highlands. Call (877) 497-0007 immediately—every minute of standing water increases damage.`,
     },
     {
       question: `Is flood water in my basement dangerous?`,
@@ -171,6 +171,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Flood Emergency in Chantilly?',
-    paragraph: `Standing water causes exponentially more damage every hour. Our crews are ready now along the Dulles corridor with truck-mounted extractors and full flood cleanup equipment. Call (703) 285-1104 for immediate 30-minute response.`,
+    paragraph: `Standing water causes exponentially more damage every hour. Our crews are ready now along the Dulles corridor with truck-mounted extractors and full flood cleanup equipment. Call (877) 497-0007 for immediate 30-minute response.`,
   },
 }

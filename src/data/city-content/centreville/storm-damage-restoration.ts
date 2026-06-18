@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Centreville, VA | Flood Doctor',
-    description: `Centreville storm damage restoration experts. 30-min response for wind, rain & flooding damage in Virginia Run, Centre Ridge & Sully Station. Call (703) 285-1103.`,
+    description: `Centreville storm damage restoration experts. 30-min response for wind, rain & flooding damage in Virginia Run, Centre Ridge & Sully Station. Call (877) 497-0007.`,
   },
   h1: 'Storm Damage Restoration in Centreville, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our storm damage restoration covers the full scope: emergency tarping, water ext
   processSteps: [
     {
       title: 'Emergency Storm Response',
-      description: `Call (703) 285-1103 during or immediately after the storm. We dispatch crews to Centreville neighborhoods as conditions allow, arriving within 30 minutes to assess damage and begin emergency measures.`,
+      description: `Call (877) 497-0007 during or immediately after the storm. We dispatch crews to Centreville neighborhoods as conditions allow, arriving within 30 minutes to assess damage and begin emergency measures.`,
       timeframe: 'Within 30 minutes of safe access',
     },
     {
@@ -111,7 +111,7 @@ Our storm damage restoration covers the full scope: emergency tarping, water ext
       'Duration of exposure—homes secured quickly sustain less secondary damage',
       'Mold prevention needs—storm moisture in concealed spaces requires treatment to prevent growth',
     ],
-    cta: `Call (703) 285-1103 for immediate storm damage response. We'll secure your home, assess all damage, and handle your insurance claim from start to finish.`,
+    cta: `Call (877) 497-0007 for immediate storm damage response. We'll secure your home, assess all damage, and handle your insurance claim from start to finish.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -135,7 +135,7 @@ Our storm damage restoration covers the full scope: emergency tarping, water ext
   faqs: [
     {
       question: 'Should I call during the storm or wait until it passes?',
-      answer: `Call during the storm at (703) 285-1103. We queue emergency requests and dispatch as conditions allow. Being first in queue means faster service—demand spikes after every major storm in Centreville.`,
+      answer: `Call during the storm at (877) 497-0007. We queue emergency requests and dispatch as conditions allow. Being first in queue means faster service—demand spikes after every major storm in Centreville.`,
     },
     {
       question: 'Does homeowner insurance cover storm damage?',
@@ -165,6 +165,6 @@ Our storm damage restoration covers the full scope: emergency tarping, water ext
   ],
   finalCTA: {
     headline: 'Storm Damage in Centreville?',
-    paragraph: `Every hour without protection means more secondary damage to your home. Our storm response crews are ready now with tarping, extraction, and drying equipment. Call (703) 285-1103 for immediate response.`,
+    paragraph: `Every hour without protection means more secondary damage to your home. Our storm response crews are ready now with tarping, extraction, and drying equipment. Call (877) 497-0007 for immediate response.`,
   },
 }

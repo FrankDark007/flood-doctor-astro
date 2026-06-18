@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Fairfax, VA | Flood Doctor',
-    description: 'Fairfax mold remediation specialists. Safe removal from Burke, Burke Centre, Kings Park & Mantua homes. Basement mold, hidden mold, testing & prevention. Call (703) 656-0104.',
+    description: 'Fairfax mold remediation specialists. Safe removal from Burke, Burke Centre, Kings Park & Mantua homes. Basement mold, hidden mold, testing & prevention. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation & Removal in Fairfax, Virginia',
   introSection: {
@@ -120,7 +120,7 @@ Our IICRC-certified mold remediation specialists understand Fairfax home constru
       'Mold species—some species require more intensive containment and removal protocols',
       'Moisture source—remediation must include fixing the underlying moisture problem',
     ],
-    cta: `Call (703) 656-0104 for a mold inspection. We'll assess the extent, identify the moisture source, and provide a detailed estimate before any work begins.`,
+    cta: `Call (877) 497-0007 for a mold inspection. We'll assess the extent, identify the moisture source, and provide a detailed estimate before any work begins.`,
   },
   serviceAreaSection: {
     neighborhoods: [

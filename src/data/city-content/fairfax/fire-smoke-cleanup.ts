@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Fairfax, VA | Flood Doctor',
-    description: 'Fairfax fire damage restoration & smoke cleanup. 30-min emergency response for fire, smoke, and water damage from firefighting. Burke, Kings Park, Mantua. Call (703) 656-0104.',
+    description: 'Fairfax fire damage restoration & smoke cleanup. 30-min emergency response for fire, smoke, and water damage from firefighting. Burke, Kings Park, Mantua. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Fairfax, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified fire damage technicians understand this complexity. We addre
   processSteps: [
     {
       title: 'Emergency Response & Assessment',
-      description: 'We respond within 30 minutes when you call (703) 656-0104 about fire damage. After the fire department clears the scene, we assess the full scope—fire damage, smoke infiltration, water from firefighting, and structural integrity. This comprehensive assessment guides the restoration plan.',
+      description: 'We respond within 30 minutes when you call (877) 497-0007 about fire damage. After the fire department clears the scene, we assess the full scope—fire damage, smoke infiltration, water from firefighting, and structural integrity. This comprehensive assessment guides the restoration plan.',
       timeframe: 'Within 30 minutes of call',
     },
     {
@@ -119,7 +119,7 @@ Our IICRC-certified fire damage technicians understand this complexity. We addre
       'Contents damage—on-site cleaning vs. pack-out for off-site restoration',
       'Reconstruction scope—cosmetic repairs vs. major rebuilding',
     ],
-    cta: 'Call (703) 656-0104 for immediate fire damage response. We provide detailed estimates for insurance purposes and coordinate the complete restoration process.',
+    cta: 'Call (877) 497-0007 for immediate fire damage response. We provide detailed estimates for insurance purposes and coordinate the complete restoration process.',
   },
   serviceAreaSection: {
     neighborhoods: [

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Lorton, VA | Flood Doctor`,
-    description: `Lorton's trusted restoration for schools and public buildings. Experienced crews serving Laurel Hill, South County, and Gunston area educational and community facilities. Call (703) 285-1100.`,
+    description: `Lorton's trusted restoration for schools and public buildings. Experienced crews serving Laurel Hill, South County, and Gunston area educational and community facilities. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Lorton, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our documentation addresses the specific needs of Lorton's developing community.
   processSteps: [
     {
       title: `Emergency Notification and Facility Securing`,
-      description: `Call (703) 285-1100 to activate our municipal response protocol. We coordinate with FCPS facilities management and Lorton community facility directors to secure the affected building, notify administrators, and establish a restoration timeline protecting academic and program schedules.`,
+      description: `Call (877) 497-0007 to activate our municipal response protocol. We coordinate with FCPS facilities management and Lorton community facility directors to secure the affected building, notify administrators, and establish a restoration timeline protecting academic and program schedules.`,
       timeframe: `Within 1 hour`,
     },
     {
@@ -116,7 +116,7 @@ Our documentation addresses the specific needs of Lorton's developing community.
       `ADA compliance requirements triggered by restoration scope in public buildings`,
       `Documentation for FCPS administration, county oversight, and community presentations`,
     ],
-    cta: `Call (703) 285-1100 for emergency school or community facility assessment. We provide procurement-compliant estimates and coordinate with FCPS facilities management and county parks authority for streamlined approval.`,
+    cta: `Call (877) 497-0007 for emergency school or community facility assessment. We provide procurement-compliant estimates and coordinate with FCPS facilities management and county parks authority for streamlined approval.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -171,6 +171,6 @@ Our documentation addresses the specific needs of Lorton's developing community.
   ],
   finalCTA: {
     headline: `School or Community Facility Emergency in Lorton?`,
-    paragraph: `Student safety and community programs depend on rapid restoration. Our crews respond to Lorton schools and community facilities within 1 hour, equipped with modern diagnostic tools, containment materials, and the expertise these growing facilities require. Call (703) 285-1100 immediately.`,
+    paragraph: `Student safety and community programs depend on rapid restoration. Our crews respond to Lorton schools and community facilities within 1 hour, equipped with modern diagnostic tools, containment materials, and the expertise these growing facilities require. Call (877) 497-0007 immediately.`,
   },
 }

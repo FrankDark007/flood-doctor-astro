@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Arlington, VA | Flood Doctor',
-    description: 'Arlington fire damage restoration experts. Smoke migration through high-rises, multi-unit coordination, HOA documentation. Rapid response. Call (703) 656-0102.',
+    description: 'Arlington fire damage restoration experts. Smoke migration through high-rises, multi-unit coordination, HOA documentation. Rapid response. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Arlington, Virginia',
   introSection: {
@@ -120,7 +120,7 @@ Our IICRC-certified fire restoration crews understand the complexity of high-ris
       'Contents restoration—smoke-damaged belongings may require off-site cleaning or replacement documentation',
       'Water damage scope—firefighting water affecting lower units adds water damage restoration to fire restoration',
     ],
-    cta: `Call (703) 656-0102 for fire damage assessment. We'll evaluate all affected areas including smoke migration paths, document damage for insurance, and provide detailed restoration estimates.`,
+    cta: `Call (877) 497-0007 for fire damage assessment. We'll evaluate all affected areas including smoke migration paths, document damage for insurance, and provide detailed restoration estimates.`,
   },
   serviceAreaSection: {
     neighborhoods: [

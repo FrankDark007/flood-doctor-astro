@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Herndon, VA | Flood Doctor',
-    description: `Herndon moisture mapping experts. Infrared thermography for townhomes, commercial properties & historic downtown buildings in Fox Mill, Franklin Farm & Worldgate. Call (703) 285-1106.`,
+    description: `Herndon moisture mapping experts. Infrared thermography for townhomes, commercial properties & historic downtown buildings in Fox Mill, Franklin Farm & Worldgate. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Herndon, Virginia',
   introSection: {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       'Urgency of documentation—same-day commercial reports require expedited assessment protocols',
       'Ongoing monitoring duration during active drying operations',
     ],
-    cta: `Call (703) 285-1106 for a consultation. We provide clear scope and pricing before beginning any assessment work in your Herndon property.`,
+    cta: `Call (877) 497-0007 for a consultation. We provide clear scope and pricing before beginning any assessment work in your Herndon property.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       'Van Metre Crossing',
       'Herndon Centennial Golf Area',
     ],
-    responseTime: `Same-day moisture assessment throughout Herndon. Emergency commercial response within 90 minutes for active water intrusion. Call (703) 285-1106.`,
+    responseTime: `Same-day moisture assessment throughout Herndon. Emergency commercial response within 90 minutes for active water intrusion. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Need Moisture Diagnostics in Herndon?',
-    paragraph: `Residential or commercial, our scientific moisture mapping provides the accurate data you need for effective restoration decisions. Call (703) 285-1106 for a professional assessment of your Herndon property.`,
+    paragraph: `Residential or commercial, our scientific moisture mapping provides the accurate data you need for effective restoration decisions. Call (877) 497-0007 for a professional assessment of your Herndon property.`,
   },
 }

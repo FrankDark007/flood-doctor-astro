@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Water Damage Restoration in Leesburg, VA | Flood Doctor`,
-    description: `Commercial water damage restoration for Leesburg businesses. Downtown retail, Village at Leesburg shops, county offices, and Lansdowne commercial. Call (703) 285-1107.`,
+    description: `Commercial water damage restoration for Leesburg businesses. Downtown retail, Village at Leesburg shops, county offices, and Lansdowne commercial. Call (877) 497-0007.`,
   },
   h1: `Leesburg Commercial Water Damage Restoration`,
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: `Emergency Commercial Response`,
-      description: `Call (703) 285-1107 for immediate dispatch. Our commercial crews arrive with full equipment loads and begin water mitigation while coordinating with your management team on access and business continuity priorities.`,
+      description: `Call (877) 497-0007 for immediate dispatch. Our commercial crews arrive with full equipment loads and begin water mitigation while coordinating with your management team on access and business continuity priorities.`,
       timeframe: `Within 60 minutes`,
     },
     {
@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
       `Inventory and contents damage extent`,
       `Commercial insurance coverage and deductible structure`,
     ],
-    cta: `Call (703) 285-1107 for emergency commercial water damage response.`,
+    cta: `Call (877) 497-0007 for emergency commercial water damage response.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -127,6 +127,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: `Commercial Water Damage in Leesburg? Call Now`,
-    paragraph: `Every hour of downtime costs your business money. Flood Doctor provides rapid commercial water damage restoration with the capacity and expertise Leesburg businesses need. Call (703) 285-1107 for immediate 24/7 commercial response.`,
+    paragraph: `Every hour of downtime costs your business money. Flood Doctor provides rapid commercial water damage restoration with the capacity and expertise Leesburg businesses need. Call (877) 497-0007 for immediate 24/7 commercial response.`,
   },
 }

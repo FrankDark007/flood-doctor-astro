@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Sterling, VA | Flood Doctor`,
-    description: `Sterling industrial facility water damage restoration. Warehouses, distribution centers & light industrial along Route 7. Equipment protection, rapid response. Call (703) 285-1111.`,
+    description: `Sterling industrial facility water damage restoration. Warehouses, distribution centers & light industrial along Route 7. Equipment protection, rapid response. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Sterling, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our industrial project managers develop restoration plans that account for Sterl
   processSteps: [
     {
       title: `Industrial Emergency Response`,
-      description: `Call (703) 285-1111 for immediate industrial facility response. Our crews deploy with industrial-scale extraction equipment and the capacity to address large floor areas. We reach Sterling industrial properties within 30 minutes.`,
+      description: `Call (877) 497-0007 for immediate industrial facility response. Our crews deploy with industrial-scale extraction equipment and the capacity to address large floor areas. We reach Sterling industrial properties within 30 minutes.`,
       timeframe: `Within 30 minutes`,
     },
     {
@@ -77,7 +77,7 @@ Our industrial project managers develop restoration plans that account for Sterl
       `Operations continuity—maintaining partial operations during restoration adds coordination`,
       `Concrete drying—warehouse floor slabs require specialized drying systems and extended timelines`,
     ],
-    cta: `Call (703) 285-1111 for industrial facility emergency response. We bring the capacity and project management that Sterling's warehouse and industrial properties require.`,
+    cta: `Call (877) 497-0007 for industrial facility emergency response. We bring the capacity and project management that Sterling's warehouse and industrial properties require.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -97,7 +97,7 @@ Our industrial project managers develop restoration plans that account for Sterl
       `Dominion Station`,
       `Old Sterling`,
     ],
-    responseTime: `30-minute industrial emergency response throughout Sterling. Multi-truck deployment for large-scale industrial events. Call (703) 285-1111.`,
+    responseTime: `30-minute industrial emergency response throughout Sterling. Multi-truck deployment for large-scale industrial events. Call (877) 497-0007.`,
   },
   faqs: [
     {

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Great Falls, VA | Save Premium Floors | Flood Doctor',
-    description: `Great Falls estate hardwood floor drying. Saving exotic and premium flooring in Great Falls Village, Forestville & Seneca Estates. Discreet, estate-scale service. Call (703) 285-1100.`,
+    description: `Great Falls estate hardwood floor drying. Saving exotic and premium flooring in Great Falls Village, Forestville & Seneca Estates. Discreet, estate-scale service. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Great Falls, Virginia',
   introSection: {
@@ -17,7 +17,7 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Confidential Estate Response',
-      description: `When you call (703) 285-1100, we respond discreetly within 45 minutes. Our assessment identifies the exact wood species, finish type, and installation method—critical for exotic and custom-milled floors where manufacturer specifications may not exist. Moisture mapping covers the full affected area across multiple connected rooms.`,
+      description: `When you call (877) 497-0007, we respond discreetly within 45 minutes. Our assessment identifies the exact wood species, finish type, and installation method—critical for exotic and custom-milled floors where manufacturer specifications may not exist. Moisture mapping covers the full affected area across multiple connected rooms.`,
       timeframe: 'Within 45 minutes',
     },
     {
@@ -112,7 +112,7 @@ export const content: CityServiceContent = {
       'Multi-structure involvement when pool houses or auxiliary buildings are part of the damage path',
       'Below-floor access complexity across multiple foundation sections',
     ],
-    cta: `Call (703) 285-1100 the moment water contacts your estate hardwood. For custom installations worth six figures, immediate response is not just recommended—it is essential.`,
+    cta: `Call (877) 497-0007 the moment water contacts your estate hardwood. For custom installations worth six figures, immediate response is not just recommended—it is essential.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -164,6 +164,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water on Your Great Falls Estate Hardwood? Immediate Response.',
-    paragraph: `Your custom hardwood installation represents an irreplaceable investment. Call (703) 285-1100 now—every hour of delay reduces salvage probability for the floors that define your estate.`,
+    paragraph: `Your custom hardwood installation represents an irreplaceable investment. Call (877) 497-0007 now—every hour of delay reduces salvage probability for the floors that define your estate.`,
   },
 }

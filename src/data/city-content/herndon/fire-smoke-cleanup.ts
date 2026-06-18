@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Herndon, VA | Flood Doctor',
-    description: 'Herndon fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. Fox Mill, Downtown, Worldgate. Call (703) 656-0108.',
+    description: 'Herndon fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. Fox Mill, Downtown, Worldgate. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Herndon, Virginia',
   introSection: {
@@ -64,7 +64,7 @@ export const content: CityServiceContent = {
       'Suppression water cascade — upper-unit fires creating lower-unit water damage doubles the affected square footage',
     ],
     insuranceNote: `The fire unit's policy covers their damage and potentially neighbor damage. Adjacent units file under HO-6 policies with subrogation against the fire unit's carrier. The HOA master policy covers shared structural elements. We document source, migration path, and per-unit damage to support every claim and resolve allocation disputes.`,
-    cta: `Call (703) 656-0108 for emergency fire damage response. We assess the fire unit and all adjacent units as standard protocol — because in Herndon's townhome communities, a one-unit fire is rarely a one-unit restoration.`,
+    cta: `Call (877) 497-0007 for emergency fire damage response. We assess the fire unit and all adjacent units as standard protocol — because in Herndon's townhome communities, a one-unit fire is rarely a one-unit restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [

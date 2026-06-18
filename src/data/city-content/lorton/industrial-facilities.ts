@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Lorton, VA | Flood Doctor`,
-    description: `Lorton's industrial and commercial facility restoration specialists. OSHA-compliant water damage restoration for South County warehouses, Occoquan businesses, and Gunston industrial properties. Call (703) 285-1100.`,
+    description: `Lorton's industrial and commercial facility restoration specialists. OSHA-compliant water damage restoration for South County warehouses, Occoquan businesses, and Gunston industrial properties. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Lorton, Virginia`,
   introSection: {
@@ -21,7 +21,7 @@ Our industrial restoration approach addresses both the diverse building stock an
   processSteps: [
     {
       title: `Emergency Response and Facility Coordination`,
-      description: `Call (703) 285-1100 for immediate industrial response. For waterfront Occoquan businesses, we assess flood risk and deploy appropriate containment. For warehouses and commercial facilities, we prioritize inventory and equipment protection upon arrival.`,
+      description: `Call (877) 497-0007 for immediate industrial response. For waterfront Occoquan businesses, we assess flood risk and deploy appropriate containment. For warehouses and commercial facilities, we prioritize inventory and equipment protection upon arrival.`,
       timeframe: `Within 45 minutes`,
     },
     {
@@ -120,7 +120,7 @@ Our industrial restoration approach addresses both the diverse building stock an
       `Building age—Occoquan's historic commercial buildings versus Laurel Hill newer construction face different restoration challenges`,
       `Business interruption urgency—growing operations may require expedited restoration to survive closure periods`,
     ],
-    cta: `Call (703) 285-1100 for emergency commercial or industrial facility assessment. We provide practical estimates and coordinate with building management, insurance carriers, and construction warranty processes.`,
+    cta: `Call (877) 497-0007 for emergency commercial or industrial facility assessment. We provide practical estimates and coordinate with building management, insurance carriers, and construction warranty processes.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -175,6 +175,6 @@ Our industrial restoration approach addresses both the diverse building stock an
   ],
   finalCTA: {
     headline: `Commercial or Industrial Emergency in Lorton?`,
-    paragraph: `Equipment damage and business interruption compound by the hour. Our crews respond to Lorton commercial and industrial facilities within 45 minutes with industrial extraction equipment and the practical expertise your growing business needs. Call (703) 285-1100 now.`,
+    paragraph: `Equipment damage and business interruption compound by the hour. Our crews respond to Lorton commercial and industrial facilities within 45 minutes with industrial extraction equipment and the practical expertise your growing business needs. Call (877) 497-0007 now.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Fairfax, VA | Flood Doctor',
-    description: 'Fairfax storm damage restoration. 30-min response for roof leaks, wind damage, fallen trees & flooding. Burke, Burke Centre, Kings Park, Mantua. Call (703) 656-0104.',
+    description: 'Fairfax storm damage restoration. 30-min response for roof leaks, wind damage, fallen trees & flooding. Burke, Burke Centre, Kings Park, Mantua. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Fairfax, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified crews are trained for the complete spectrum of storm damage.
   processSteps: [
     {
       title: 'Storm-Event Dispatch Protocol',
-      description: 'During significant storms, we activate our emergency protocol—pre-positioning crews, checking equipment, and monitoring weather and call volume. When you call (703) 656-0104 about storm damage, we dispatch immediately, working through road closures and debris to reach your Fairfax home.',
+      description: 'During significant storms, we activate our emergency protocol—pre-positioning crews, checking equipment, and monitoring weather and call volume. When you call (877) 497-0007 about storm damage, we dispatch immediately, working through road closures and debris to reach your Fairfax home.',
       timeframe: 'Within 30 minutes when conditions allow',
     },
     {
@@ -120,7 +120,7 @@ Our IICRC-certified crews are trained for the complete spectrum of storm damage.
       'Materials damaged—ceiling drywall, insulation, flooring, and personal property affect totals',
       'Reconstruction needs—minor drywall repair vs. major structural reconstruction',
     ],
-    cta: 'Call (703) 656-0104 for immediate storm damage response. We provide detailed estimates for insurance purposes and can coordinate with your carrier on claims.',
+    cta: 'Call (877) 497-0007 for immediate storm damage response. We provide detailed estimates for insurance purposes and can coordinate with your carrier on claims.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,7 +145,7 @@ Our IICRC-certified crews are trained for the complete spectrum of storm damage.
   faqs: [
     {
       question: 'A tree just came through my roof—what should I do?',
-      answer: `First, ensure everyone is safe and evacuate the affected area if necessary. If it's actively raining, move belongings away from the damaged area. Call (703) 656-0104—we'll dispatch immediately for emergency tarping. Don't try to move the tree yourself; it may be unstable or entangled with the structure.`,
+      answer: `First, ensure everyone is safe and evacuate the affected area if necessary. If it's actively raining, move belongings away from the damaged area. Call (877) 497-0007—we'll dispatch immediately for emergency tarping. Don't try to move the tree yourself; it may be unstable or entangled with the structure.`,
     },
     {
       question: 'Do you work during active storms?',

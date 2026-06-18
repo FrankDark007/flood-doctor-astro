@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's trusted commercial fire and smoke restoration team. Emergency response for Old Town historic buildings, Carlyle offices, and Del Ray commercial properties. Call (703) 285-1101.`,
+    description: `Alexandria's trusted commercial fire and smoke restoration team. Emergency response for Old Town historic buildings, Carlyle offices, and Del Ray commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Alexandria, Virginia`,
   introSection: {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `BAR compliance—reconstruction in historic districts may require preservation-grade materials and techniques`,
       `Business interruption urgency—tourism-dependent Alexandria businesses benefit from accelerated restoration schedules`,
     ],
-    cta: `Call (703) 285-1101 for immediate commercial fire emergency response in Alexandria. We handle both the preservation-sensitive restoration that Old Town demands and the efficient commercial recovery that modern Alexandria businesses require.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Alexandria. We handle both the preservation-sensitive restoration that Old Town demands and the efficient commercial recovery that modern Alexandria businesses require.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Alexandria?`,
-    paragraph: `From Old Town's irreplaceable historic landmarks to Carlyle's modern office towers, our integrated fire restoration teams deliver emergency stabilization, professional smoke removal, and reconstruction that meets Alexandria's standards. Call (703) 285-1101 now.`,
+    paragraph: `From Old Town's irreplaceable historic landmarks to Carlyle's modern office towers, our integrated fire restoration teams deliver emergency stabilization, professional smoke removal, and reconstruction that meets Alexandria's standards. Call (877) 497-0007 now.`,
   },
 }

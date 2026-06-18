@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Alexandria, VA | Flood Doctor',
-    description: `Alexandria's expert moisture mapping service. Infrared thermography for historic rowhouses, waterfront properties & Old Town buildings. BAR-compliant documentation. Call (703) 285-1101.`,
+    description: `Alexandria's expert moisture mapping service. Infrared thermography for historic rowhouses, waterfront properties & Old Town buildings. BAR-compliant documentation. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Alexandria, Virginia',
   introSection: {
@@ -116,7 +116,7 @@ export const content: CityServiceContent = {
       'Water classification assessment when combined sewer involvement is suspected',
       'Multi-day monitoring duration for properties with cyclical moisture patterns',
     ],
-    cta: `Call (703) 285-1101 for a consultation tailored to your Alexandria property. We understand historic preservation requirements and provide documentation that satisfies both restoration needs and regulatory compliance.`,
+    cta: `Call (877) 497-0007 for a consultation tailored to your Alexandria property. We understand historic preservation requirements and provide documentation that satisfies both restoration needs and regulatory compliance.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -135,7 +135,7 @@ export const content: CityServiceContent = {
       'Eisenhower Valley',
       'Mount Vernon Avenue Corridor',
     ],
-    responseTime: `Same-day moisture assessment deployment throughout Alexandria. Priority scheduling for active water intrusion in historic district properties. Call (703) 285-1101.`,
+    responseTime: `Same-day moisture assessment deployment throughout Alexandria. Priority scheduling for active water intrusion in historic district properties. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -173,6 +173,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Assessment for Your Alexandria Property?',
-    paragraph: `From Old Town historic rowhouses to Del Ray bungalows and Potomac waterfront estates, our moisture mapping protocols are calibrated for Alexandria building types. Call (703) 285-1101 for a professional consultation.`,
+    paragraph: `From Old Town historic rowhouses to Del Ray bungalows and Potomac waterfront estates, our moisture mapping protocols are calibrated for Alexandria building types. Call (877) 497-0007 for a professional consultation.`,
   },
 }

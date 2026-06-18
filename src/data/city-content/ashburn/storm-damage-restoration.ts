@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Ashburn, VA | Flood Doctor',
-    description: 'Emergency storm damage restoration in Ashburn. Rapid development runoff flooding, HOA drainage, new construction vulnerabilities. 24/7 response. Call (703) 656-0109.',
+    description: 'Emergency storm damage restoration in Ashburn. Rapid development runoff flooding, HOA drainage, new construction vulnerabilities. 24/7 response. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Ashburn, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Our IICRC-certified storm damage specialists understand these Ashburn-specific f
   processSteps: [
     {
       title: 'Emergency Storm Response',
-      description: `When storms damage your Ashburn home, call (703) 656-0109 immediately—even during active weather. Our crews often respond during storms, providing emergency tarping and water extraction before damage worsens. We're positioned along Route 28 for 30-minute response to Broadlands, Brambleton, One Loudoun, and all Ashburn neighborhoods.`,
+      description: `When storms damage your Ashburn home, call (877) 497-0007 immediately—even during active weather. Our crews often respond during storms, providing emergency tarping and water extraction before damage worsens. We're positioned along Route 28 for 30-minute response to Broadlands, Brambleton, One Loudoun, and all Ashburn neighborhoods.`,
       timeframe: 'Within 30 minutes',
     },
     {
@@ -125,7 +125,7 @@ Our IICRC-certified storm damage specialists understand these Ashburn-specific f
       'Emergency protection requirements—tarping and board-up preventing further damage during storms',
       'Response speed—calls during or immediately after storms prevent dramatically higher damage costs',
     ],
-    cta: 'Call (703) 656-0109 immediately for storm damage—during or after the event. Free inspection, detailed estimates, and direct insurance billing. Emergency tarping available during active storms.',
+    cta: 'Call (877) 497-0007 immediately for storm damage—during or after the event. Free inspection, detailed estimates, and direct insurance billing. Emergency tarping available during active storms.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -150,7 +150,7 @@ Our IICRC-certified storm damage specialists understand these Ashburn-specific f
   faqs: [
     {
       question: 'Should I call during the storm or wait until it passes?',
-      answer: 'Call immediately—even during active weather. Our crews often respond during storms to provide emergency tarping and prevent ongoing water intrusion. Every hour of delay during a storm means exponentially more damage. Call (703) 656-0109 the moment you discover storm damage.',
+      answer: 'Call immediately—even during active weather. Our crews often respond during storms to provide emergency tarping and prevent ongoing water intrusion. Every hour of delay during a storm means exponentially more damage. Call (877) 497-0007 the moment you discover storm damage.',
     },
     {
       question: `Will my homeowner's insurance cover storm damage?`,

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Tysons, VA | Flood Doctor',
-    description: `Tysons contents restoration for luxury condos & high-rises. Professional pack-out with building coordination, electronics recovery & climate-controlled storage. Call (703) 285-1100.`,
+    description: `Tysons contents restoration for luxury condos & high-rises. Professional pack-out with building coordination, electronics recovery & climate-controlled storage. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Tysons, Virginia',
   introSection: {
@@ -21,7 +21,7 @@ Every item is photographed, catalogued with condition notes, and barcoded for tr
   processSteps: [
     {
       title: 'Priority Stabilization & Building Coordination',
-      description: `Within 30 minutes of your call to (703) 285-1100, our team arrives to triage time-sensitive items while our coordinator contacts building management to schedule elevator access and loading dock reservations for the full pack-out. Electronics are disconnected for corrosion prevention and documents are bagged for stabilization.`,
+      description: `Within 30 minutes of your call to (877) 497-0007, our team arrives to triage time-sensitive items while our coordinator contacts building management to schedule elevator access and loading dock reservations for the full pack-out. Electronics are disconnected for corrosion prevention and documents are bagged for stabilization.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -106,7 +106,7 @@ Every item is photographed, catalogued with condition notes, and barcoded for tr
       'Multi-unit coordination — simultaneous pack-outs from cascading water events require larger crews and sequential building access management',
       'Storage duration — climate-controlled storage during unit restoration extends with longer structural restoration timelines',
     ],
-    cta: `Call (703) 285-1100 for immediate contents assessment. We coordinate with your building management from the first call and provide detailed estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We coordinate with your building management from the first call and provide detailed estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -157,6 +157,6 @@ Every item is photographed, catalogued with condition notes, and barcoded for tr
   ],
   finalCTA: {
     headline: 'Contents at Risk in Your Tysons Condo?',
-    paragraph: 'Electronics corrode, designer fabrics stain permanently, and documents deteriorate with every hour of exposure. Our Tysons contents team responds within 30 minutes, coordinates with your building management, and begins professional pack-out immediately. Call (703) 285-1100.',
+    paragraph: 'Electronics corrode, designer fabrics stain permanently, and documents deteriorate with every hour of exposure. Our Tysons contents team responds within 30 minutes, coordinates with your building management, and begins professional pack-out immediately. Call (877) 497-0007.',
   },
 }

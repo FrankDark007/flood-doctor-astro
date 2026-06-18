@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Fairfax, VA | Flood Doctor',
-    description: 'Fairfax basement flooding experts. Split-level and colonial basement specialists serving Burke, Kings Park & Mantua. Sump pump failures fixed fast. (703) 656-0104.',
+    description: 'Fairfax basement flooding experts. Split-level and colonial basement specialists serving Burke, Kings Park & Mantua. Sump pump failures fixed fast. (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in Fairfax, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `A flooded basement in your Fairfax home isn't just an inconvenience—it's a threat to your family's finished living space, stored belongings, and home value. Whether you've converted your Burke split-level's lower level into a family room, built a Kings Park colonial's basement into a playroom, or simply use your Mantua home's basement for storage, water intrusion demands immediate professional response.
 
-Flood Doctor has pumped thousands of flooded basements throughout Fairfax since 2005. We've handled Burke Centre townhome sump pump failures during summer storms, Kings Park foundation seepage after spring thaws, and Fairfax Station basement flooding when aging infrastructure finally gave out. When Fairfax families discover water in their basement at 2 AM, they call us—because we answer, we respond fast, and we fix it right.`,
+Flood Doctor has pumped thousands of flooded basements throughout Fairfax for years. We've handled Burke Centre townhome sump pump failures during summer storms, Kings Park foundation seepage after spring thaws, and Fairfax Station basement flooding when aging infrastructure finally gave out. When Fairfax families discover water in their basement at 2 AM, they call us—because we answer, we respond fast, and we fix it right.`,
       `Fairfax's basement flooding challenges reflect the area's housing patterns. Split-level homes built in the 1970s and 1980s feature partially below-grade lower levels that naturally collect water when systems fail. Colonial homes from the same era often have finished basements that weren't waterproofed to modern standards. Burke Centre's clay soil expands when wet and contracts when dry, creating foundation movement that opens seepage pathways. The same heavy storms that flood Burke Lake also overwhelm aging sump pumps throughout the area.
 
 Our basement flooding response isn't just about pumping water. We identify why it flooded, dry everything thoroughly to prevent mold, and help you understand what needs to happen to prevent the next flood. Fairfax families don't need temporary fixes—they need permanent solutions.`,
@@ -21,7 +21,7 @@ Our basement flooding response isn't just about pumping water. We identify why i
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: `Call (703) 656-0104 any time—we answer 24/7. Our crews dispatch immediately to Burke, Kings Park, Mantua, and throughout Fairfax. We don't tell you to wait until morning while water soaks into drywall and damages belongings.`,
+      description: `Call (877) 497-0007 any time—we answer 24/7. Our crews dispatch immediately to Burke, Kings Park, Mantua, and throughout Fairfax. We don't tell you to wait until morning while water soaks into drywall and damages belongings.`,
       timeframe: 'Immediate dispatch',
     },
     {
@@ -131,7 +131,7 @@ Our basement flooding response isn't just about pumping water. We identify why i
       'Contents damage—belongings damaged by flooding add to total restoration costs',
       'Response speed—calling within the first few hours prevents damage that develops over days',
     ],
-    cta: `Call (703) 656-0104 for immediate basement flooding response. We'll assess your damage, explain insurance implications, and start extraction right away.`,
+    cta: `Call (877) 497-0007 for immediate basement flooding response. We'll assess your damage, explain insurance implications, and start extraction right away.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -156,7 +156,7 @@ Our basement flooding response isn't just about pumping water. We identify why i
   faqs: [
     {
       question: 'My split-level basement just flooded—what should I do right now?',
-      answer: `Call us immediately at (703) 656-0104. Don't enter standing water if electrical outlets or appliances might be submerged—electrical hazard. Don't use household vacuums to remove water. Move valuable items to dry areas if you can do so safely. Then let our professionals handle extraction safely and completely.`,
+      answer: `Call us immediately at (877) 497-0007. Don't enter standing water if electrical outlets or appliances might be submerged—electrical hazard. Don't use household vacuums to remove water. Move valuable items to dry areas if you can do so safely. Then let our professionals handle extraction safely and completely.`,
     },
     {
       question: 'Can you save my finished basement after flooding?',
