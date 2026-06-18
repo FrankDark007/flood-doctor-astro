@@ -1,6 +1,8 @@
 import { useState, type FormEvent } from 'react'
 import { FORM_WORKER_URL } from '../../config/forms'
 
+const CONTACT_CONSENT_TEXT = 'I agree to be contacted by Flood Doctor by phone, text, or email about this message. Consent is not required to purchase services.'
+
 interface Props {
   city?: string
 }
@@ -21,6 +23,9 @@ export default function ContactForm({ city }: Props) {
       email: (form.elements.namedItem('email') as HTMLInputElement).value,
       'phone-number': (form.elements.namedItem('phone-number') as HTMLInputElement).value,
       message: (form.elements.namedItem('message') as HTMLTextAreaElement).value,
+      consent: (form.elements.namedItem('consent') as HTMLInputElement).checked,
+      consentText: CONTACT_CONSENT_TEXT,
+      consentTimestamp: new Date().toISOString(),
       city: city || '',
     }
 
@@ -124,6 +129,19 @@ export default function ContactForm({ city }: Props) {
                 className="block w-full rounded-md bg-white/5 px-3.5 py-2 text-base text-white outline-1 -outline-offset-1 outline-white/10 placeholder:text-gray-500 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-500"
               />
             </div>
+          </div>
+
+          <div className="sm:col-span-2">
+            <label className="flex gap-x-3 text-sm text-gray-300">
+              <input
+                id="contact-consent"
+                name="consent"
+                type="checkbox"
+                required
+                className="mt-1 size-4 rounded border-white/10 bg-white/5 text-indigo-500 focus:ring-indigo-500"
+              />
+              <span>{CONTACT_CONSENT_TEXT}</span>
+            </label>
           </div>
           <div className="sm:col-span-2">
             <label htmlFor="message" className="block text-sm/6 font-semibold text-white">

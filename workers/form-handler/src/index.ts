@@ -10,6 +10,9 @@ interface ContactPayload {
   email: string
   'phone-number'?: string
   message: string
+  consent?: boolean
+  consentText?: string
+  consentTimestamp?: string
   city?: string
 }
 
@@ -22,6 +25,9 @@ interface RequestPayload {
   'service-type': string
   urgency: string
   message?: string
+  consent?: boolean
+  consentText?: string
+  consentTimestamp?: string
   city?: string
 }
 
@@ -59,7 +65,7 @@ function getCorsHeaders(request: Request): Record<string, string> {
   }
 }
 
-function extractCity(request: Request, body: Record<string, unknown>): string {
+function extractCity(request: Request, body: { city?: unknown }): string {
   // Prefer city from body (set by form)
   if (body.city && typeof body.city === 'string') return body.city
 
@@ -73,6 +79,8 @@ function extractCity(request: Request, body: Record<string, unknown>): string {
 
 function contactEmailHtml(data: ContactPayload, city: string): string {
   const cityDisplay = titleCase(city)
+  const consentText = data.consentText || 'User agreed to be contacted by Flood Doctor by phone, text, or email.'
+  const consentTimestamp = data.consentTimestamp || 'Not provided'
   return `
 <!DOCTYPE html>
 <html>
@@ -99,6 +107,11 @@ function contactEmailHtml(data: ContactPayload, city: string): string {
     <hr style="border: none; border-top: 1px solid #334155; margin: 16px 0;">
     <h3 style="color: #e2e8f0; margin-bottom: 8px;">Message</h3>
     <p style="color: #cbd5e1; line-height: 1.6; white-space: pre-wrap;">${data.message}</p>
+    <hr style="border: none; border-top: 1px solid #334155; margin: 16px 0;">
+    <h3 style="color: #e2e8f0; margin-bottom: 8px;">Consent</h3>
+    <p style="color: #cbd5e1; line-height: 1.6; margin: 0;">Consent given: ${data.consent ? 'Yes' : 'No'}</p>
+    <p style="color: #cbd5e1; line-height: 1.6; margin: 4px 0 0;">${consentText}</p>
+    <p style="color: #94a3b8; line-height: 1.6; margin: 4px 0 0;">Timestamp: ${consentTimestamp}</p>
   </div>
 </body>
 </html>`
@@ -108,6 +121,8 @@ function requestEmailHtml(data: RequestPayload, city: string): string {
   const cityDisplay = titleCase(city)
   const serviceLabel = SERVICE_LABELS[data['service-type']] || data['service-type']
   const isEmergency = data.urgency === 'emergency'
+  const consentText = data.consentText || 'User agreed to be contacted by Flood Doctor by phone, text, or email.'
+  const consentTimestamp = data.consentTimestamp || 'Not provided'
 
   return `
 <!DOCTYPE html>
@@ -152,6 +167,11 @@ function requestEmailHtml(data: RequestPayload, city: string): string {
     <h3 style="color: #e2e8f0; margin-bottom: 8px;">Damage Description</h3>
     <p style="color: #cbd5e1; line-height: 1.6; white-space: pre-wrap;">${data.message}</p>
     ` : ''}
+    <hr style="border: none; border-top: 1px solid #334155; margin: 16px 0;">
+    <h3 style="color: #e2e8f0; margin-bottom: 8px;">Consent</h3>
+    <p style="color: #cbd5e1; line-height: 1.6; margin: 0;">Consent given: ${data.consent ? 'Yes' : 'No'}</p>
+    <p style="color: #cbd5e1; line-height: 1.6; margin: 4px 0 0;">${consentText}</p>
+    <p style="color: #94a3b8; line-height: 1.6; margin: 4px 0 0;">Timestamp: ${consentTimestamp}</p>
   </div>
 </body>
 </html>`
@@ -203,6 +223,10 @@ async function handleContact(request: Request, env: Env): Promise<Response> {
     return jsonResponse({ success: false, error: 'Missing required fields' }, 400, cors)
   }
 
+  if (body.consent !== true) {
+    return jsonResponse({ success: false, error: 'Consent is required' }, 400, cors)
+  }
+
   // Basic email format check
   if (!body.email.includes('@') || !body.email.includes('.')) {
     return jsonResponse({ success: false, error: 'Invalid email address' }, 400, cors)
@@ -237,6 +261,10 @@ async function handleRequest(request: Request, env: Env): Promise<Response> {
   // Validate required fields
   if (!body['first-name'] || !body['last-name'] || !body.email || !body.phone || !body.address || !body['service-type'] || !body.urgency) {
     return jsonResponse({ success: false, error: 'Missing required fields' }, 400, cors)
+  }
+
+  if (body.consent !== true) {
+    return jsonResponse({ success: false, error: 'Consent is required' }, 400, cors)
   }
 
   if (!body.email.includes('@') || !body.email.includes('.')) {

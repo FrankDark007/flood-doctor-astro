@@ -2,6 +2,8 @@ import { useState, type FormEvent } from 'react'
 import { FORM_WORKER_URL } from '../../config/forms'
 import { toTelHref } from '../../utils/phone'
 
+const REQUEST_CONSENT_TEXT = 'I agree to be contacted by Flood Doctor by phone, text, or email about this service request. Consent is not required to purchase services.'
+
 interface Props {
   city?: string
   phone?: string
@@ -27,6 +29,9 @@ export default function RequestForm({ city, phone = '(877) 497-0007' }: Props) {
       'service-type': (form.elements.namedItem('service-type') as HTMLSelectElement).value,
       urgency: (form.querySelector('input[name="urgency"]:checked') as HTMLInputElement)?.value || '',
       message: (form.elements.namedItem('message') as HTMLTextAreaElement).value,
+      consent: (form.elements.namedItem('consent') as HTMLInputElement).checked,
+      consentText: REQUEST_CONSENT_TEXT,
+      consentTimestamp: new Date().toISOString(),
       city: city || '',
     }
 
@@ -204,6 +209,19 @@ export default function RequestForm({ city, phone = '(877) 497-0007' }: Props) {
               Routine estimate
             </label>
           </div>
+        </div>
+
+        <div className="sm:col-span-2">
+          <label className="flex gap-x-3 text-sm text-gray-300">
+            <input
+              id="req-consent"
+              name="consent"
+              type="checkbox"
+              required
+              className="mt-1 size-4 rounded border-white/10 bg-white/5 text-indigo-500 focus:ring-indigo-500"
+            />
+            <span>{REQUEST_CONSENT_TEXT}</span>
+          </label>
         </div>
         <div className="sm:col-span-2">
           <label htmlFor="req-message" className="block text-sm/6 font-semibold text-white">
