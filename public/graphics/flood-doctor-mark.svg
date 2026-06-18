@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Flood Doctor mark</title>
+  <desc id="desc">A shield, roofline, water drop, and emergency cross for Flood Doctor restoration service.</desc>
+  <defs>
+    <linearGradient id="markBlue" x1="18" y1="12" x2="78" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3b8df2"/>
+      <stop offset="1" stop-color="#1a73e8"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#0b1f3a" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <path fill="#0b1f3a" d="M48 5 84 18v29c0 22.3-14.2 36.5-36 44-21.8-7.5-36-21.7-36-44V18L48 5Z"/>
+  <path fill="url(#markBlue)" d="M48 11.5 77.5 22v25.3c0 17.9-10.9 29.8-29.5 36.5-18.6-6.7-29.5-18.6-29.5-36.5V22L48 11.5Z" filter="url(#softShadow)"/>
+  <path fill="#fff" d="m25 42.6 23-18.9 23 18.9-4.8 5.8L48 33.5 29.8 48.4 25 42.6Z"/>
+  <path fill="#fff" d="M32.5 47h31v22.5a3 3 0 0 1-3 3h-25a3 3 0 0 1-3-3V47Z"/>
+  <path fill="#1a73e8" d="M48 42.5c-6.9 8.3-11.2 14.2-11.2 19.2a11.2 11.2 0 1 0 22.4 0c0-5-4.3-10.9-11.2-19.2Z"/>
+  <path fill="#fff" d="M45.3 54.1h5.4v5h5v5.4h-5v5h-5.4v-5h-5v-5.4h5v-5Z"/>
+  <path fill="#f97316" d="M70.6 21.8 79 24.9v13.9h-8.4v-17Z"/>
+  <path fill="#facc15" d="M70.6 31.4H79v7.4h-8.4z"/>
+</svg>

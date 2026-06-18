@@ -1,0 +1,170 @@
+---
+interface Props {
+  href?: string
+  cityName?: string
+  showCity?: boolean
+  showTagline?: boolean
+  variant?: 'full' | 'compact' | 'mark'
+  tone?: 'light' | 'dark'
+  size?: 'sm' | 'md' | 'lg'
+  class?: string
+}
+
+const {
+  href = '/',
+  cityName,
+  showCity = Boolean(cityName),
+  showTagline = false,
+  variant = 'full',
+  tone = 'light',
+  size = 'md',
+  class: className = '',
+} = Astro.props
+
+const isMarkOnly = variant === 'mark'
+const cityLabel = cityName && showCity ? ` ${cityName}` : ''
+const accessibleName = `Flood Doctor${cityLabel}`
+const Element = href ? 'a' : 'span'
+---
+
+<Element
+  href={href || undefined}
+  class:list={['brand-logo', className]}
+  data-variant={variant}
+  data-tone={tone}
+  data-size={size}
+  aria-label={accessibleName}
+>
+  <img
+    class="brand-logo__mark"
+    src="/graphics/flood-doctor-mark.svg"
+    alt=""
+    width="48"
+    height="48"
+    loading="eager"
+    decoding="async"
+  />
+  {!isMarkOnly && (
+    <span class="brand-logo__copy">
+      <span class="brand-logo__name">
+        <span>Flood</span>
+        <span class="brand-logo__accent">Doctor</span>
+        {cityName && showCity && <span class="brand-logo__city">{cityName}</span>}
+      </span>
+      {showTagline && variant === 'full' && (
+        <span class="brand-logo__tagline">Water damage response &amp; drying</span>
+      )}
+    </span>
+  )}
+</Element>
+
+<style>
+  .brand-logo {
+    --fd-blue: #1a73e8;
+    --fd-navy: #0b1f3a;
+    --fd-orange: #f97316;
+    --fd-text: #0b1f3a;
+    --fd-muted: #475569;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.625rem;
+    color: var(--fd-text);
+    text-decoration: none;
+    vertical-align: middle;
+  }
+
+  .brand-logo[data-tone='dark'] {
+    --fd-text: #ffffff;
+    --fd-muted: #cbd5e1;
+  }
+
+  .brand-logo[data-size='sm'] {
+    gap: 0.5rem;
+  }
+
+  .brand-logo[data-size='lg'] {
+    gap: 0.75rem;
+  }
+
+  .brand-logo__mark {
+    display: block;
+    width: 2.25rem;
+    height: 2.25rem;
+    flex: 0 0 auto;
+  }
+
+  .brand-logo[data-size='sm'] .brand-logo__mark {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .brand-logo[data-size='lg'] .brand-logo__mark {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  .brand-logo__copy {
+    display: grid;
+    gap: 0.0625rem;
+    min-width: 0;
+  }
+
+  .brand-logo__name {
+    display: flex;
+    align-items: baseline;
+    gap: 0.22em;
+    font-size: 1.125rem;
+    font-weight: 850;
+    letter-spacing: -0.04em;
+    line-height: 1;
+    color: var(--fd-text);
+  }
+
+  .brand-logo[data-size='sm'] .brand-logo__name {
+    font-size: 1rem;
+  }
+
+  .brand-logo[data-size='lg'] .brand-logo__name {
+    font-size: 1.45rem;
+  }
+
+  .brand-logo__accent {
+    color: var(--fd-blue);
+  }
+
+  .brand-logo__city {
+    margin-left: 0.18em;
+    padding-left: 0.42em;
+    border-left: 2px solid color-mix(in srgb, var(--fd-orange), transparent 12%);
+    color: var(--fd-muted);
+    font-size: 0.76em;
+    font-weight: 760;
+    letter-spacing: -0.025em;
+  }
+
+  .brand-logo__tagline {
+    color: var(--fd-muted);
+    font-size: 0.6875rem;
+    font-weight: 750;
+    letter-spacing: 0.08em;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+
+  .brand-logo[data-variant='compact'] .brand-logo__tagline,
+  .brand-logo[data-variant='mark'] .brand-logo__copy {
+    display: none;
+  }
+
+  .brand-logo:where(a):focus-visible {
+    outline: 3px solid color-mix(in srgb, var(--fd-blue), white 25%);
+    outline-offset: 4px;
+    border-radius: 0.75rem;
+  }
+
+  @media (max-width: 420px) {
+    .brand-logo__city {
+      display: none;
+    }
+  }
+</style>

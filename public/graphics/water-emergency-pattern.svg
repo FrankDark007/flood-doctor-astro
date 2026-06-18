@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="title desc">
+  <title id="title">Water emergency pattern</title>
+  <desc id="desc">A lightweight pattern of water contours, drying airflow, and construction safety stripes.</desc>
+  <rect width="480" height="480" fill="#f8fbff"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-20 76c52-31 94-31 146 0s94 31 146 0 94-31 146 0 94 31 146 0" stroke="#1a73e8" stroke-opacity=".13" stroke-width="6"/>
+    <path d="M-20 112c52-31 94-31 146 0s94 31 146 0 94-31 146 0 94 31 146 0" stroke="#1a73e8" stroke-opacity=".09" stroke-width="6"/>
+    <path d="M-20 300c52-31 94-31 146 0s94 31 146 0 94-31 146 0 94 31 146 0" stroke="#1a73e8" stroke-opacity=".12" stroke-width="6"/>
+    <path d="M-20 336c52-31 94-31 146 0s94 31 146 0 94-31 146 0 94 31 146 0" stroke="#1a73e8" stroke-opacity=".08" stroke-width="6"/>
+    <path d="M86 185c25-15 45-15 70 0s45 15 70 0 45-15 70 0 45 15 70 0" stroke="#0b1f3a" stroke-opacity=".08" stroke-width="5"/>
+    <path d="M70 218h140M92 250h210M252 218h156" stroke="#0b1f3a" stroke-opacity=".08" stroke-width="5"/>
+  </g>
+  <g opacity=".85">
+    <path fill="#f97316" d="M0 0h96L0 96zM480 384v96h-96zM384 0h96v96z"/>
+    <path fill="#facc15" d="M32 0h28L0 60V32zM420 480h-28l88-88v28zM420 0h28l32 32v28z"/>
+  </g>
+  <g fill="#1a73e8" opacity=".13">
+    <path d="M88 392c-17 21-27 35-27 47a27 27 0 0 0 54 0c0-12-10-26-27-47Z"/>
+    <path d="M402 112c-13 16-21 27-21 36a21 21 0 0 0 42 0c0-9-8-20-21-36Z"/>
+  </g>
+  <g fill="#f97316" opacity=".72">
+    <path d="M124 144h14v14h-14zM130 138h2v26h-2zM118 150h26v2h-26z"/>
+    <path d="M348 344h14v14h-14zM354 338h2v26h-2zM342 350h26v2h-26z"/>
+  </g>
+</svg>

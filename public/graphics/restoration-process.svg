@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Flood Doctor restoration process</title>
+  <desc id="desc">Four restoration steps: emergency call, water extraction, drying and monitoring, and documentation support.</desc>
+  <defs>
+    <linearGradient id="panel" x1="80" y1="40" x2="880" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef6ff"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#3b8df2"/>
+      <stop offset="1" stop-color="#1a73e8"/>
+    </linearGradient>
+  </defs>
+  <rect x="24" y="24" width="912" height="372" rx="36" fill="url(#panel)" stroke="#bfdbfe" stroke-width="2"/>
+  <path d="M80 326c72-42 130-42 202 0s130 42 202 0 130-42 202 0 130 42 202 0" fill="none" stroke="#1a73e8" stroke-opacity=".13" stroke-width="12" stroke-linecap="round"/>
+  <path d="M115 130h730" fill="none" stroke="#0b1f3a" stroke-opacity=".14" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 24"/>
+
+  <g transform="translate(76 72)">
+    <circle cx="88" cy="88" r="66" fill="#fff" stroke="#fed7aa" stroke-width="4"/>
+    <circle cx="88" cy="88" r="48" fill="#fff7ed"/>
+    <path d="M77 60 92 75l-9 12c6 12 14 20 26 26l12-9 15 15-8 18c-2 5-7 7-12 6-28-8-45-25-53-53-1-5 1-10 6-12l18-8Z" fill="none" stroke="#ea580c" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="88" y="194" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#0b1f3a">Call</text>
+    <text x="88" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#475569">Emergency intake</text>
+  </g>
+
+  <g transform="translate(294 72)">
+    <circle cx="88" cy="88" r="66" fill="#fff" stroke="#bfdbfe" stroke-width="4"/>
+    <circle cx="88" cy="88" r="48" fill="#eff6ff"/>
+    <path d="M88 48c-25 31-39 51-39 68a39 39 0 0 0 78 0c0-17-14-37-39-68Z" fill="url(#blue)"/>
+    <path d="M67 117c12 10 30 10 42 0" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+    <path d="M62 144h52" fill="none" stroke="#1a73e8" stroke-width="7" stroke-linecap="round"/>
+    <text x="88" y="194" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#0b1f3a">Extract</text>
+    <text x="88" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#475569">Remove standing water</text>
+  </g>
+
+  <g transform="translate(512 72)">
+    <circle cx="88" cy="88" r="66" fill="#fff" stroke="#bfdbfe" stroke-width="4"/>
+    <circle cx="88" cy="88" r="48" fill="#eff6ff"/>
+    <path d="M57 74h55a15 15 0 1 0-15-15" fill="none" stroke="#1a73e8" stroke-width="8" stroke-linecap="round"/>
+    <path d="M52 98h72a15 15 0 1 1-15 15" fill="none" stroke="#1a73e8" stroke-width="8" stroke-linecap="round"/>
+    <path d="M68 134h46" fill="none" stroke="#1a73e8" stroke-width="8" stroke-linecap="round"/>
+    <text x="88" y="194" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#0b1f3a">Dry</text>
+    <text x="88" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#475569">Monitor moisture</text>
+  </g>
+
+  <g transform="translate(730 72)">
+    <circle cx="88" cy="88" r="66" fill="#fff" stroke="#cbd5e1" stroke-width="4"/>
+    <circle cx="88" cy="88" r="48" fill="#f8fafc"/>
+    <path d="M65 47h43a10 10 0 0 1 10 10v67a10 10 0 0 1-10 10H65a10 10 0 0 1-10-10V57a10 10 0 0 1 10-10Z" fill="none" stroke="#334155" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M73 74h28M73 93h28M73 112h20" fill="none" stroke="#1a73e8" stroke-width="7" stroke-linecap="round"/>
+    <path d="m97 121 9 9 18-23" fill="none" stroke="#f97316" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="88" y="194" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#0b1f3a">Document</text>
+    <text x="88" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#475569">Photos and notes</text>
+  </g>
+</svg>
