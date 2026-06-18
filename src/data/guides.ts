@@ -12,7 +12,7 @@ export const guideArticles: Record<string, GuideArticle> = {
     title: 'Emergency Water Damage Response Guide',
     subtitle: 'A step-by-step guide for homeowners facing water damage emergencies in Northern Virginia',
     heroImage:
-      'https://images.unsplash.com/photo-1525438160292-a4a860951216?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/water-emergency-pattern.svg',
     content: `
       <h2>When Water Damage Strikes: Your Emergency Action Plan</h2>
       <p>Water damage emergencies can happen at any time — a burst pipe at 2 AM, a flash flood during a summer storm, or a failed water heater while you're at work. Having a clear action plan can mean the difference between minor repairs and catastrophic structural damage.</p>
@@ -22,7 +22,7 @@ export const guideArticles: Record<string, GuideArticle> = {
         <li><strong>Ensure personal safety</strong> — Do not enter standing water if there's any chance of electrical contact. If water is near outlets, appliances, or your breaker panel, stay out until power is confirmed off.</li>
         <li><strong>Turn off electricity</strong> — If you can safely reach your breaker panel without walking through water, shut off power to affected areas. If in doubt, call your utility company.</li>
         <li><strong>Stop the water source</strong> — For pipe bursts, locate and turn your main water shut-off valve (typically near the water meter or where the main line enters your home). For appliance failures, shut off the specific supply line.</li>
-        <li><strong>Call for professional help</strong> — Contact Flood Doctor at <strong>(877) 497-0007</strong> immediately. Our 24/7 emergency team deploys within 60 minutes.</li>
+        <li><strong>Call for professional help</strong> — Contact Flood Doctor at <strong>(877) 497-0007</strong> immediately. Our 24/7 emergency team deploys as quickly as possible.</li>
       </ol>
 
       <h3>While Waiting for Help (First 30 Minutes)</h3>
@@ -75,7 +75,7 @@ export const guideArticles: Record<string, GuideArticle> = {
     title: 'Water Damage Prevention Guide',
     subtitle: 'Protect your Northern Virginia home with these proven prevention strategies for every season',
     heroImage:
-      'https://images.unsplash.com/photo-1516912481808-3406841bd33c?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/water-emergency-pattern.svg',
     content: `
       <h2>Preventing Water Damage Before It Happens</h2>
       <p>The average water damage claim costs homeowners over $11,000 — and that doesn't include the stress, disruption, and items that can't be replaced. The good news? Most water damage is preventable with regular maintenance and smart home practices.</p>
@@ -154,7 +154,7 @@ export const guideArticles: Record<string, GuideArticle> = {
     title: 'Water Damage Insurance Claims Guide',
     subtitle: 'Navigate the insurance claims process with confidence — maximize your settlement and avoid common pitfalls',
     heroImage:
-      'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/restoration-process.svg',
     content: `
       <h2>Your Complete Guide to Water Damage Insurance Claims</h2>
       <p>Filing an insurance claim for water damage can feel overwhelming, especially when you're already dealing with the stress of property damage. This guide walks you through every step of the process, from initial documentation to final settlement.</p>
@@ -245,7 +245,7 @@ export const guideArticles: Record<string, GuideArticle> = {
       <ul>
         <li>Free detailed damage assessment with moisture mapping</li>
         <li>Insurance-ready documentation with photos, measurements, and scope of work</li>
-        <li>Direct billing to your insurance company</li>
+        <li>Insurance documentation support to your insurance company</li>
         <li>Assistance with the claims process and adjuster coordination</li>
         <li>Xactimate estimates (the same software insurance companies use)</li>
       </ul>

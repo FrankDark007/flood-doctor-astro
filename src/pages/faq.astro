@@ -10,13 +10,13 @@ const cityPhoneHref = toTelHref(cityData.phone)
 
 const sanitizeCopy = (value: string) => value
   .replace(/60 minutes or less/gi, 'as quickly as possible')
-  .replace(/within 60 minutes/gi, 'as quickly as possible')
-  .replace(/60-minute/gi, 'prompt')
+  .replace(/within\s+60 minutes/gi, 'as quickly as possible')
+  .replace(/60[\s-]minute/gi, 'prompt')
   .replace(/IICRC \(Institute of Inspection, Cleaning and Restoration Certification\) certified/gi, 'trained')
   .replace(/IICRC-certified/gi, 'trained')
   .replace(/certified/gi, 'trained')
-  .replace(/direct billing/gi, 'claim documentation support')
-  .replace(/all major carriers/gi, 'insurance adjusters')
+  .replace(/direct\s+billing/gi, 'claim documentation support')
+  .replace(/all\s+major\s+carriers/gi, 'insurance adjusters')
 
 const safeFaqs = faqs.map((faq) => ({
   ...faq,

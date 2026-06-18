@@ -27,7 +27,7 @@ export const faqs: FAQItem[] = [
   {
     question: 'What is the difference between water mitigation and water restoration?',
     answer:
-      'Water mitigation refers to the immediate response — stopping the water source, extracting standing water, and beginning the drying process to prevent further damage. Water restoration is the subsequent phase — repairing and rebuilding damaged structures, replacing materials, and returning your home to its pre-loss condition. Flood Doctor handles both phases as a full-service restoration company.',
+      'Water mitigation refers to the immediate response — stopping the water source, extracting standing water, and beginning the drying process to prevent further damage. Water restoration is the subsequent phase — repairing and rebuilding damaged structures, replacing materials, and returning your home to a safe, dry, usable condition. Flood Doctor handles both phases as a full-service restoration company.',
   },
   {
     question: 'How do you detect hidden moisture behind walls?',

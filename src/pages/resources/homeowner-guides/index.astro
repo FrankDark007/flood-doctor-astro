@@ -7,11 +7,11 @@ const safeGuidesList = guidesList.map((guide) => ({
   ...guide,
   heroImage: '/graphics/water-emergency-pattern.svg',
   subtitle: guide.subtitle
-    .replace(/within 60 minutes/gi, 'as quickly as possible')
-    .replace(/60-minute/gi, 'prompt')
+    .replace(/within\s+60 minutes/gi, 'as quickly as possible')
+    .replace(/60[\s-]minute/gi, 'prompt')
     .replace(/60 minutes/gi, 'the first few minutes')
     .replace(/IICRC/g, 'industry')
-    .replace(/direct billing/gi, 'claim documentation support'),
+    .replace(/direct\s+billing/gi, 'claim documentation support'),
 }))
 ---
 

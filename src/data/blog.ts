@@ -31,7 +31,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'Time is critical after water damage strikes your home. Learn the essential steps you need to take immediately to minimize damage, protect your belongings, and start the restoration process.',
     imageUrl:
-      'https://images.unsplash.com/photo-1525438160292-a4a860951216?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/water-emergency-pattern.svg',
     date: 'Feb 20, 2026',
     datetime: '2026-02-20',
     category: { title: 'Water Damage', href: '/blog?category=water-damage' },
@@ -40,7 +40,7 @@ export const blogPosts: BlogPost[] = [
       role: 'Owner / Lead Technician',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Act Fast: The First 24 Hours Are Critical</h2>
@@ -82,16 +82,16 @@ export const blogPosts: BlogPost[] = [
     description:
       'Mold doesn\'t always grow where you can see it. Discover the warning signs of hidden mold behind walls, under floors, and in HVAC systems, plus professional remediation options.',
     imageUrl:
-      'https://images.unsplash.com/photo-1585771724684-38269d6639fd?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/restoration-process.svg',
     date: 'Feb 14, 2026',
     datetime: '2026-02-14',
     category: { title: 'Mold', href: '/blog?category=mold' },
     author: {
-      name: 'Sarah Chen',
+      name: 'Flood Doctor Team',
       role: 'Mold Remediation Specialist',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Hidden Mold: The Silent Threat in Your Home</h2>
@@ -125,7 +125,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'Navigating insurance claims after water damage can be overwhelming. This step-by-step guide walks you through documentation, filing, and maximizing your claim settlement.',
     imageUrl:
-      'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/restoration-process.svg',
     date: 'Feb 8, 2026',
     datetime: '2026-02-08',
     category: { title: 'Insurance', href: '/blog?category=insurance' },
@@ -134,7 +134,7 @@ export const blogPosts: BlogPost[] = [
       role: 'Owner / Lead Technician',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Your Complete Guide to Water Damage Insurance Claims</h2>
@@ -165,7 +165,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'Winter brings unique water damage risks including frozen pipes, ice dams, and heavy snow loads. Here are 10 proven prevention strategies to protect your home during the cold months.',
     imageUrl:
-      'https://images.unsplash.com/photo-1516912481808-3406841bd33c?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/water-emergency-pattern.svg',
     date: 'Jan 28, 2026',
     datetime: '2026-01-28',
     category: { title: 'Prevention', href: '/blog?category=prevention' },
@@ -174,7 +174,7 @@ export const blogPosts: BlogPost[] = [
       role: 'Senior Restoration Tech',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Protect Your Home From Winter Water Damage</h2>
@@ -205,7 +205,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'Understanding the professional water damage restoration process helps you know what to expect. From initial assessment to final reconstruction, here\'s what happens step by step.',
     imageUrl:
-      'https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/restoration-process.svg',
     date: 'Jan 15, 2026',
     datetime: '2026-01-15',
     category: { title: 'Restoration', href: '/blog?category=restoration' },
@@ -214,14 +214,14 @@ export const blogPosts: BlogPost[] = [
       role: 'Owner / Lead Technician',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Understanding the Professional Restoration Process</h2>
       <p>Professional water damage restoration follows a proven scientific process developed by the IICRC (Institute of Inspection, Cleaning and Restoration Certification). Understanding each phase helps you know what to expect and why each step matters.</p>
 
       <h3>Phase 1: Emergency Contact & Assessment</h3>
-      <p>When you call Flood Doctor, our team responds within 60 minutes. The first step is a thorough assessment using moisture meters, thermal imaging cameras, and hygrometers to map the full extent of water damage — including areas not visible to the naked eye.</p>
+      <p>When you call Flood Doctor, our team responds as quickly as possible. The first step is a thorough assessment using moisture meters, thermal imaging cameras, and hygrometers to map the full extent of water damage — including areas not visible to the naked eye.</p>
 
       <h3>Phase 2: Water Extraction</h3>
       <p>Using truck-mounted and portable extraction units, we remove standing water rapidly. Our industrial extractors can remove thousands of gallons per hour, significantly reducing drying time and preventing further damage.</p>
@@ -233,7 +233,7 @@ export const blogPosts: BlogPost[] = [
       <p>All affected materials are cleaned, sanitized, and treated with antimicrobial agents. This includes air scrubbing with HEPA filtration to remove airborne contaminants and odors.</p>
 
       <h3>Phase 5: Restoration & Reconstruction</h3>
-      <p>The final phase involves repairing or replacing damaged materials — drywall, flooring, trim, and paint — to return your home to its pre-loss condition.</p>
+      <p>The final phase involves repairing or replacing damaged materials — drywall, flooring, trim, and paint — to return your home to its safe, dry condition.</p>
     `,
   },
   {
@@ -244,16 +244,16 @@ export const blogPosts: BlogPost[] = [
     description:
       'Ashburn and Loudoun County face unique flood risks from rapid development and storm drainage challenges. Know your local flood risks and how to respond when disaster strikes.',
     imageUrl:
-      'https://images.unsplash.com/photo-1547683905-f686c993aae5?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/water-emergency-pattern.svg',
     date: 'Jan 5, 2026',
     datetime: '2026-01-05',
     category: { title: 'Emergency Tips', href: '/blog?category=emergency-tips' },
     author: {
-      name: 'Sarah Chen',
+      name: 'Flood Doctor Team',
       role: 'Mold Remediation Specialist',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Ashburn's Unique Flood Risks</h2>
@@ -282,16 +282,16 @@ export const blogPosts: BlogPost[] = [
     description:
       'Not all mold is created equal. Learn how to identify different types of mold, understand the health risks of black mold (Stachybotrys), and when you need professional remediation.',
     imageUrl:
-      'https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/restoration-process.svg',
     date: 'Dec 20, 2025',
     datetime: '2025-12-20',
     category: { title: 'Mold', href: '/blog?category=mold' },
     author: {
-      name: 'Sarah Chen',
+      name: 'Flood Doctor Team',
       role: 'Mold Remediation Specialist',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Understanding Mold Types in Your Home</h2>
@@ -315,7 +315,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'Your sump pump is the most important defense against basement flooding, but only if it works when you need it. Learn essential maintenance tips and warning signs of failure.',
     imageUrl:
-      'https://images.unsplash.com/photo-1585704032915-c3400ca199e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/water-emergency-pattern.svg',
     date: 'Dec 10, 2025',
     datetime: '2025-12-10',
     category: { title: 'Prevention', href: '/blog?category=prevention' },
@@ -324,7 +324,7 @@ export const blogPosts: BlogPost[] = [
       role: 'Senior Restoration Tech',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Keep Your Sump Pump Ready for Action</h2>
@@ -358,7 +358,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'Water damage restoration in Northern Virginia typically ranges from a few hundred dollars for a small clean-water leak to tens of thousands for a major sewage or basement flood. Here is what drives the cost and how to estimate yours.',
     imageUrl:
-      'https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/restoration-process.svg',
     date: 'Jun 10, 2026',
     datetime: '2026-06-10',
     category: { title: 'Restoration', href: '/blog?category=restoration' },
@@ -367,7 +367,7 @@ export const blogPosts: BlogPost[] = [
       role: 'Owner / Lead Technician',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>How Much Does Water Damage Restoration Cost in Northern Virginia?</h2>
@@ -449,7 +449,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'Homeowners insurance in Virginia usually covers sudden, accidental water damage like burst pipes and appliance failures, but excludes gradual leaks and surface flooding. Here is exactly what is covered, what is not, and how to protect your claim.',
     imageUrl:
-      'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/restoration-process.svg',
     date: 'Jun 2, 2026',
     datetime: '2026-06-02',
     category: { title: 'Insurance', href: '/blog?category=insurance' },
@@ -458,7 +458,7 @@ export const blogPosts: BlogPost[] = [
       role: 'Owner / Lead Technician',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Does Homeowners Insurance Cover Water Damage in Virginia?</h2>
@@ -522,7 +522,7 @@ export const blogPosts: BlogPost[] = [
       <blockquote><p>The most expensive insurance mistake is not the deductible — it is discovering after a basement floods that you never added the $50-a-year water backup endorsement. Check your coverage before storm season, not during it.</p></blockquote>
 
       <h3>How does the deductible affect a water damage claim?</h3>
-      <p>Your deductible is what you pay before coverage kicks in, and it changes the math on whether to file. For a small leak that costs roughly your deductible to fix, filing may not be worth a possible premium increase. For any significant loss — a burst pipe, a flooded basement, a sewage backup — the covered amount far exceeds the deductible and filing clearly makes sense. With direct billing, the deductible is typically all a covered NoVA homeowner pays out of pocket; Flood Doctor bills the carrier for the rest of the approved scope.</p>
+      <p>Your deductible is what you pay before coverage kicks in, and it changes the math on whether to file. For a small leak that costs roughly your deductible to fix, filing may not be worth a possible premium increase. For any significant loss — a burst pipe, a flooded basement, a sewage backup — the covered amount far exceeds the deductible and filing clearly makes sense. With insurance documentation support, the deductible is typically all a covered NoVA homeowner pays out of pocket; Flood Doctor bills the carrier for the rest of the approved scope.</p>
 
       <h3>Frequently Asked Questions</h3>
       <h3>Does homeowners insurance cover a burst pipe in Virginia?</h3>
@@ -532,7 +532,7 @@ export const blogPosts: BlogPost[] = [
       <h3>Will filing a water damage claim raise my premium?</h3>
       <p>It can, especially with multiple claims. For a small loss near your deductible it may not be worth filing. For a significant loss, the coverage almost always outweighs the premium impact — and prompt professional mitigation reduces the total claim.</p>
       <h3>Does Flood Doctor handle the insurance claim for me?</h3>
-      <p>We handle the documentation and direct billing. Flood Doctor photographs the loss, records moisture data, writes the Xactimate scope your carrier expects, and bills them directly. You still own the claim, but we do the heavy paperwork. Call (877) 497-0007.</p>
+      <p>We handle the documentation and insurance documentation support. Flood Doctor photographs the loss, records moisture data, writes the Xactimate scope your carrier expects, and bills them directly. You still own the claim, but we do the heavy paperwork. Call (877) 497-0007.</p>
     `,
   },
   {
@@ -543,7 +543,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'Getting your insurer to pay for water damage restoration comes down to documentation, prompt mitigation, and a properly written Xactimate scope. Here is the step-by-step process NoVA homeowners use to get claims approved and paid in full.',
     imageUrl:
-      'https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/restoration-process.svg',
     date: 'May 22, 2026',
     datetime: '2026-05-22',
     category: { title: 'Insurance', href: '/blog?category=insurance' },
@@ -552,7 +552,7 @@ export const blogPosts: BlogPost[] = [
       role: 'Owner / Lead Technician',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>How to Get Your Insurance to Pay for Water Damage Restoration</h2>
@@ -574,7 +574,7 @@ export const blogPosts: BlogPost[] = [
       <blockquote><p>Homeowners who hand the adjuster a professional, line-item Xactimate scope before the inspection consistently see higher, faster settlements than those who rely on the carrier's first estimate. You are negotiating from documentation, not hope.</p></blockquote>
 
       <h3>Step 5: Let the restoration company bill insurance directly</h3>
-      <p>Direct billing means your restoration company invoices the insurer for the covered work instead of asking you to pay and chase reimbursement. For covered losses, this often leaves you responsible only for your deductible. It also keeps the pricing conversation between two parties who both work in Xactimate — the restorer and the adjuster — rather than putting you in the middle.</p>
+      <p>Insurance documentation support means your restoration company invoices the insurer for the covered work instead of asking you to pay and chase reimbursement. For covered losses, this often leaves you responsible only for your deductible. It also keeps the pricing conversation between two parties who both work in Xactimate — the restorer and the adjuster — rather than putting you in the middle.</p>
 
       <h3>What if my water damage claim is denied or underpaid?</h3>
       <p>Denials and lowball offers are common, and they are not the end. Request the denial in writing with the specific policy language cited. If the denial rests on a "gradual damage" finding you dispute, your documentation and the restorer's moisture data can rebut it. You can request a re-inspection, submit a supplemental scope for missed line items, or invoke your policy's appraisal clause. Many "denials" are really under-scopes that get corrected with better documentation.</p>
@@ -613,7 +613,7 @@ export const blogPosts: BlogPost[] = [
       <h3>How long does an insurance company have to pay a water damage claim in Virginia?</h3>
       <p>Virginia requires insurers to handle claims in good faith and within a reasonable time. Timelines vary by carrier and complexity, but well-documented claims with a clear Xactimate scope generally move faster because there is less to dispute.</p>
       <h3>Do I have to pay anything out of pocket?</h3>
-      <p>For a covered loss with direct billing, you typically pay only your deductible. Flood Doctor bills the carrier for the rest of the covered scope. Call (877) 497-0007 to start.</p>
+      <p>For a covered loss with insurance documentation support, you typically pay only your deductible. Flood Doctor bills the carrier for the rest of the covered scope. Call (877) 497-0007 to start.</p>
     `,
   },
   {
@@ -624,7 +624,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'A sewage backup is a Category 3 "black water" biohazard that requires professional cleanup. Learn what to do in the first minutes, why DIY is dangerous, and what sewage cleanup costs in Northern Virginia.',
     imageUrl:
-      'https://images.unsplash.com/photo-1581244277943-fe4a9c777189?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/water-emergency-pattern.svg',
     date: 'May 8, 2026',
     datetime: '2026-05-08',
     category: { title: 'Water Damage', href: '/blog?category=water-damage' },
@@ -633,7 +633,7 @@ export const blogPosts: BlogPost[] = [
       role: 'Owner / Lead Technician',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Sewage Backup Cleanup: What to Do and What It Costs in NoVA</h2>
@@ -719,7 +719,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'A burst pipe can flood a room in minutes. Shut off your main water valve, cut power to the area, drain the lines, and call for help. Here is the exact first-hour checklist for Northern Virginia homeowners.',
     imageUrl:
-      'https://images.unsplash.com/photo-1585704032915-c3400ca199e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/water-emergency-pattern.svg',
     date: 'Apr 18, 2026',
     datetime: '2026-04-18',
     category: { title: 'Emergency Tips', href: '/blog?category=emergency-tips' },
@@ -728,7 +728,7 @@ export const blogPosts: BlogPost[] = [
       role: 'Owner / Lead Technician',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Burst Pipe? Here's Exactly What to Do in the First Hour</h2>
@@ -798,7 +798,7 @@ export const blogPosts: BlogPost[] = [
     description:
       'Commercial water damage threatens tenant safety, business continuity, and your bottom line. This guide covers response priorities, IICRC standards, downtime, cost factors, and insurance for property managers in Fairfax, Arlington, and across NoVA.',
     imageUrl:
-      'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=3270&q=80',
+      '/graphics/restoration-process.svg',
     date: 'Mar 28, 2026',
     datetime: '2026-03-28',
     category: { title: 'Restoration', href: '/blog?category=restoration' },
@@ -807,7 +807,7 @@ export const blogPosts: BlogPost[] = [
       role: 'Owner / Lead Technician',
       href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+        '/graphics/flood-doctor-mark.svg',
     },
     content: `
       <h2>Commercial Water Damage in Fairfax & Arlington: A Property Manager's Guide</h2>
@@ -885,7 +885,7 @@ export const blogPosts: BlogPost[] = [
       <h3>Does commercial insurance cover business interruption from water damage?</h3>
       <p>Many commercial policies include business-interruption coverage that reimburses lost income during restoration, subject to your policy terms. Prompt, documented mitigation supports both the property and the interruption portions of the claim.</p>
       <h3>Do you handle large-loss commercial water damage?</h3>
-      <p>Yes. Flood Doctor handles large-loss and multi-floor commercial events with the crew size and equipment to dry at scale, plus the documentation and direct billing that complex commercial claims require. Call (877) 497-0007.</p>
+      <p>Yes. Flood Doctor handles large-loss and multi-floor commercial events with the crew size and equipment to dry at scale, plus the documentation and insurance documentation support that complex commercial claims require. Call (877) 497-0007.</p>
     `,
   },
 ]

@@ -15,16 +15,16 @@ export function getStaticPaths() {
 
 const { post } = Astro.props
 const sanitizeCopy = (value: string) => value
-  .replace(/within 60 minutes/gi, 'as quickly as possible')
+  .replace(/within\s+60 minutes/gi, 'as quickly as possible')
   .replace(/60 minutes or less/gi, 'as quickly as possible')
-  .replace(/60-minute/gi, 'prompt')
-  .replace(/under 60 minutes/gi, 'as quickly as possible')
+  .replace(/60[\s-]minute/gi, 'prompt')
+  .replace(/under\s+60 minutes/gi, 'as quickly as possible')
   .replace(/IICRC \(Institute of Inspection, Cleaning and Restoration Certification\)/g, 'industry guidance')
   .replace(/IICRC-certified/gi, 'trained')
   .replace(/IICRC/g, 'industry')
   .replace(/certified/gi, 'trained')
-  .replace(/direct billing/gi, 'claim documentation support')
-  .replace(/all major carriers/gi, 'insurance adjusters')
+  .replace(/direct\s+billing/gi, 'claim documentation support')
+  .replace(/all\s+major\s+carriers/gi, 'insurance adjusters')
   .replace(/Free\s+Estimate/g, 'Request Service')
 
 const safePost = {
