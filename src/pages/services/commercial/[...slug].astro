@@ -77,8 +77,9 @@ const serviceStructuredData = service
 // Page title & description — city-specific when available
 const pageTitle = cityContent?.meta?.title
   ? cityContent.meta.title
-  : service ? `${service.name} | Flood Doctor ${cityData.name}` : ''
-const pageDescription = cityContent?.meta?.description ?? service?.description ?? ''
+  : service ? `${service.name} in ${cityData.name}, ${cityData.stateAbbr} | Flood Doctor` : ''
+const pageDescription = cityContent?.meta?.description
+  ?? (service ? `${service.name} in ${cityData.name}, ${cityData.stateAbbr}. ${service.description}` : '')
 ---
 
 {pageType === 'category' && categoryNode ? (
@@ -162,7 +163,7 @@ const pageDescription = cityContent?.meta?.description ?? service?.description ?
             <span class="text-gray-900 dark:text-white">{service.name}</span>
           </nav>
           <h1 class="text-5xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-7xl">
-            {cityContent?.h1 ?? service.name}
+            {cityContent?.h1 ?? `${service.name} in ${cityData.name}, ${cityData.stateAbbr}`}
           </h1>
           <p class="mt-8 text-lg font-medium text-pretty text-gray-600 dark:text-gray-400 sm:text-xl/8">{service.description}</p>
           <div class="mt-10 flex items-center gap-x-6">
