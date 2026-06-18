@@ -3,6 +3,7 @@ import ThemeScript from '../components/ThemeScript.astro'
 import Header from '../components/Header.astro'
 import Footer from '../components/Footer.astro'
 import Breadcrumbs from '../components/Breadcrumbs.astro'
+import StickyMobileCTA from '../components/StickyMobileCTA.astro'
 import ThemeToggle from '../components/islands/ThemeToggle.tsx'
 import { cityData } from '../data/cities'
 import { getHreflangUrls } from '../utils/schema'
@@ -98,6 +99,7 @@ const hreflangUrls = getHreflangUrls(Astro.url.pathname)
     <main class="flex-1">
       <slot />
     </main>
+    <StickyMobileCTA />
     <Footer />
   </body>
 </html>

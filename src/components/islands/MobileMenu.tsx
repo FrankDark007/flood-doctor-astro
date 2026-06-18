@@ -25,7 +25,9 @@ export default function MobileMenu({ navigation, secondaryNav, phone, cityName }
       <button
         type="button"
         onClick={() => setOpen(true)}
-        className="lg:hidden -m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700 dark:text-gray-400"
+        aria-expanded={open}
+        aria-controls="mobile-navigation"
+        className="relative z-30 -m-2.5 inline-flex min-h-11 min-w-11 items-center justify-center rounded-md p-2.5 text-gray-700 dark:text-gray-400 lg:hidden"
       >
         <span className="sr-only">Open main menu</span>
         <Bars3Icon className="size-6" />
@@ -33,7 +35,10 @@ export default function MobileMenu({ navigation, secondaryNav, phone, cityName }
 
       <Dialog open={open} onClose={setOpen} className="lg:hidden">
         <div className="fixed inset-0 z-50" />
-        <DialogPanel className="fixed inset-y-0 right-0 z-50 flex w-full flex-col justify-between overflow-y-auto bg-white dark:bg-gray-900 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10 dark:sm:ring-white/10">
+        <DialogPanel
+          id="mobile-navigation"
+          className="fixed inset-y-0 right-0 z-50 flex w-full flex-col justify-between overflow-y-auto bg-white dark:bg-gray-900 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10 dark:sm:ring-white/10"
+        >
           <div className="p-6">
             <div className="flex items-center justify-between">
               <a href="/" className="-m-1.5 p-1.5">
@@ -80,13 +85,19 @@ export default function MobileMenu({ navigation, secondaryNav, phone, cityName }
               </div>
             </div>
           </div>
-          <div className="sticky bottom-0 bg-gray-50 dark:bg-gray-800/50 p-6">
+          <div className="sticky bottom-0 space-y-3 bg-gray-50 p-6 dark:bg-gray-800/50">
             <a
               href={toTelHref(phone)}
               className="flex items-center justify-center gap-x-2.5 rounded-md bg-indigo-600 dark:bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400"
             >
               <PhoneIcon className="size-5" />
               Call {phone}
+            </a>
+            <a
+              href="/request"
+              className="flex items-center justify-center rounded-md border border-gray-300 bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-xs hover:bg-gray-50 dark:border-white/15 dark:bg-gray-900 dark:text-white dark:hover:bg-white/5"
+            >
+              Request Emergency Service
             </a>
           </div>
         </DialogPanel>

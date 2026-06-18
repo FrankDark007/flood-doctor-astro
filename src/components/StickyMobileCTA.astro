@@ -1,0 +1,34 @@
+---
+import { cityData } from '../data/cities'
+import { toTelHref } from '../utils/phone'
+
+const phoneHref = toTelHref(cityData.phone)
+---
+
+<aside
+  class="fixed inset-x-0 bottom-0 z-40 border-t border-slate-200/80 bg-white/95 px-4 pb-[calc(0.75rem+env(safe-area-inset-bottom))] pt-3 shadow-[0_-18px_40px_rgba(15,23,42,0.18)] backdrop-blur dark:border-white/10 dark:bg-slate-950/95 lg:hidden"
+  aria-label="Emergency mobile actions"
+>
+  <div class="mx-auto grid max-w-md grid-cols-2 gap-3">
+    <a
+      href={phoneHref}
+      class="flex min-h-12 items-center justify-center rounded-xl bg-orange-600 px-3 text-center text-sm font-black uppercase tracking-wide text-white shadow-lg shadow-orange-950/20 transition-colors hover:bg-orange-500 focus:outline-none focus:ring-2 focus:ring-orange-300 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-slate-950"
+    >
+      Call Now
+    </a>
+    <a
+      href="/request"
+      class="flex min-h-12 items-center justify-center rounded-xl bg-slate-900 px-3 text-center text-sm font-black uppercase tracking-wide text-white shadow-lg shadow-slate-950/20 transition-colors hover:bg-slate-800 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-white dark:bg-white dark:text-slate-950 dark:hover:bg-slate-100 dark:focus:ring-offset-slate-950"
+    >
+      Request Service
+    </a>
+  </div>
+</aside>
+
+<style is:global>
+  @media (max-width: 1023px) {
+    body {
+      padding-bottom: calc(5.5rem + env(safe-area-inset-bottom));
+    }
+  }
+</style>
