@@ -29,7 +29,7 @@ const capabilities = [
   },
   {
     name: 'Certified Restoration',
-    description: 'Technicians follow IICRC-aligned drying, containment, documentation, and remediation procedures.',
+    description: 'Technicians follow documented drying, containment, moisture tracking, and remediation procedures.',
   },
   {
     name: `${serviceAreaCount} Service Areas`,
@@ -44,7 +44,7 @@ const capabilities = [
 const values = [
   {
     name: 'Rapid Response',
-    description: 'Every minute counts with water damage. Our teams arrive on-site within 60 minutes, 24 hours a day, 365 days a year.',
+    description: 'Every minute counts with water damage. Our teams prioritize urgent dispatch 24 hours a day, 365 days a year.',
   },
   {
     name: 'Transparent Pricing',
@@ -52,7 +52,7 @@ const values = [
   },
   {
     name: 'Certified Expertise',
-    description: 'IICRC-certified technicians use industrial-grade equipment and follow science-based drying protocols for every job.',
+    description: 'Trained restoration crews use commercial drying equipment and documented moisture-control protocols for every job.',
   },
   {
     name: 'Community First',
@@ -76,16 +76,16 @@ const values = [
       <div class="mx-auto max-w-7xl px-6 py-32 sm:py-40 lg:px-8">
         <div class="mx-auto max-w-2xl lg:mx-0 lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-x-16 lg:gap-y-8 xl:grid-cols-1 xl:grid-rows-1 xl:gap-x-8">
           <h1 class="max-w-2xl text-5xl font-semibold tracking-tight text-balance text-gray-900 dark:text-white sm:text-7xl lg:col-span-2 xl:col-auto">
-            Your Trusted Water Damage Restoration Team
+            Your Local Water Damage Restoration Team
           </h1>
           <div class="mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1">
             <p class="text-lg font-medium text-pretty text-gray-500 dark:text-gray-400 sm:text-xl/8">
-              Flood Doctor combines rapid emergency response with certified restoration practices to restore homes and businesses after water damage, flooding, and mold. Our focus is simple: stabilize fast, document clearly, and get life back to normal.
+              Flood Doctor combines rapid emergency response with documented restoration practices to restore homes and businesses after water damage, flooding, and mold. Our focus is simple: stabilize fast, document clearly, and get life back to normal.
             </p>
           </div>
           <img
             alt="Flood Doctor restoration team at work"
-            src="https://images.unsplash.com/photo-1567532900872-f4e906cbf06a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1280&q=80"
+            src="/graphics/water-emergency-pattern.svg"
             class="mt-10 aspect-[6/5] w-full max-w-lg rounded-2xl object-cover outline-1 -outline-offset-1 outline-gray-200 dark:outline-white/10 sm:mt-16 lg:mt-0 lg:max-w-none xl:row-span-2 xl:row-end-2 xl:mt-36"
           />
         </div>
@@ -143,7 +143,7 @@ const values = [
         <div class="mx-auto max-w-2xl lg:max-w-none">
           <div class="text-center">
             <h2 class="text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
-              Trusted by {cityData.name} Families
+              Ready for {cityData.name} Water Emergencies
             </h2>
             <p class="mt-4 text-lg/8 text-gray-600 dark:text-gray-300">
               Operational commitments we can stand behind on every emergency call.
@@ -152,7 +152,7 @@ const values = [
           <dl class="mt-16 grid grid-cols-1 gap-0.5 overflow-hidden rounded-2xl text-center sm:grid-cols-2 lg:grid-cols-4">
             <div class="flex flex-col bg-gray-100 dark:bg-white/5 p-8">
               <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Response Time</dt>
-              <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">&lt;60 min</dd>
+              <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">Fast</dd>
             </div>
             <div class="flex flex-col bg-gray-100 dark:bg-white/5 p-8">
               <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Emergency Availability</dt>
@@ -181,14 +181,14 @@ const values = [
               When water damage strikes your {cityData.name} home or business, every minute matters. Our commitment is simple: rapid response, expert restoration, and treating your property like our own.
             </p>
             <p class="mt-6 text-base/7 text-gray-500 dark:text-gray-400">
-              We work directly with all major insurance carriers, handling the paperwork so you can focus on what matters. Our IICRC-certified technicians use industrial-grade equipment and science-based protocols to ensure complete restoration — no shortcuts, no cutting corners.
+              We help organize claim documentation, photos, moisture readings, and job records so you have clear information for your adjuster. Our trained crews use commercial equipment and documented drying protocols to restore affected areas carefully — no shortcuts, no cutting corners.
             </p>
             <div class="mt-8 flex gap-x-4">
               <a
                 href="/request"
                 class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500"
               >
-                Request Free Estimate
+                Request Emergency Service
               </a>
               <a
                 href={cityPhoneHref}
@@ -202,7 +202,7 @@ const values = [
             <div class="w-0 flex-auto lg:ml-auto lg:w-auto lg:flex-none lg:self-end">
               <img
                 alt="Water damage restoration work"
-                src="https://images.unsplash.com/photo-1670272502246-768d249768ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1152&q=80"
+                src="/graphics/restoration-process.svg"
                 class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-200 dark:bg-gray-800 object-cover max-sm:w-[30rem]"
               />
             </div>
@@ -210,21 +210,21 @@ const values = [
               <div class="order-first flex w-64 flex-none justify-end self-end max-sm:w-40 lg:w-auto">
                 <img
                   alt="Restoration equipment"
-                  src="https://images.unsplash.com/photo-1605656816944-971cd5c1407f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&h=604&q=80"
+                  src="/graphics/water-emergency-pattern.svg"
                   class="aspect-[4/3] w-[24rem] max-w-none flex-none rounded-2xl bg-gray-200 dark:bg-gray-800 object-cover"
                 />
               </div>
               <div class="flex w-96 flex-auto justify-end lg:w-auto lg:flex-none">
                 <img
                   alt="Professional team"
-                  src="https://images.unsplash.com/photo-1568992687947-868a62a9f521?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1152&h=842&q=80"
+                  src="/graphics/restoration-process.svg"
                   class="aspect-[7/5] w-[37rem] max-w-none flex-none rounded-2xl bg-gray-200 dark:bg-gray-800 object-cover max-sm:w-[30rem]"
                 />
               </div>
               <div class="hidden sm:block sm:w-0 sm:flex-auto lg:w-auto lg:flex-none">
                 <img
                   alt="Drying process"
-                  src="https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&h=604&q=80"
+                  src="/graphics/water-emergency-pattern.svg"
                   class="aspect-[4/3] w-[24rem] max-w-none rounded-2xl bg-gray-200 dark:bg-gray-800 object-cover"
                 />
               </div>

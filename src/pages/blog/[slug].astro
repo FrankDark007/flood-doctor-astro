@@ -14,14 +14,42 @@ export function getStaticPaths() {
 }
 
 const { post } = Astro.props
-const relatedPosts = blogPosts.filter((p) => p.slug !== post.slug).slice(0, 3)
+const sanitizeCopy = (value: string) => value
+  .replace(/within 60 minutes/gi, 'as quickly as possible')
+  .replace(/60 minutes or less/gi, 'as quickly as possible')
+  .replace(/60-minute/gi, 'prompt')
+  .replace(/under 60 minutes/gi, 'as quickly as possible')
+  .replace(/IICRC \(Institute of Inspection, Cleaning and Restoration Certification\)/g, 'industry guidance')
+  .replace(/IICRC-certified/gi, 'trained')
+  .replace(/IICRC/g, 'industry')
+  .replace(/certified/gi, 'trained')
+  .replace(/direct billing/gi, 'claim documentation support')
+  .replace(/all major carriers/gi, 'insurance adjusters')
+  .replace(/Free\s+Estimate/g, 'Request Service')
 
-const structuredData = blogPostingSchema(post)
+const safePost = {
+  ...post,
+  description: sanitizeCopy(post.description),
+  imageUrl: '/graphics/water-emergency-pattern.svg',
+  author: { ...post.author, name: 'Flood Doctor Team', imageUrl: '/graphics/flood-doctor-mark.svg' },
+  content: post.content ? sanitizeCopy(post.content) : post.content,
+}
+const relatedPosts = blogPosts
+  .filter((p) => p.slug !== post.slug)
+  .slice(0, 3)
+  .map((p) => ({
+    ...p,
+    description: sanitizeCopy(p.description),
+    imageUrl: '/graphics/water-emergency-pattern.svg',
+    author: { ...p.author, name: 'Flood Doctor Team', imageUrl: '/graphics/flood-doctor-mark.svg' },
+  }))
+
+const structuredData = blogPostingSchema(safePost)
 ---
 
 <BaseLayout
-  title={`${post.title} | Flood Doctor ${cityData.name}`}
-  description={post.description}
+  title={`${safePost.title} | Flood Doctor ${cityData.name}`}
+  description={safePost.description}
   structuredData={structuredData}
 >
   <div class="py-24 sm:py-32">
@@ -30,29 +58,29 @@ const structuredData = blogPostingSchema(post)
         <!-- Article content -->
         <div class="lg:col-span-2">
           <div class="flex items-center gap-x-4 text-xs">
-            <time datetime={post.datetime} class="text-gray-500 dark:text-gray-400">{post.date}</time>
+            <time datetime={safePost.datetime} class="text-gray-500 dark:text-gray-400">{safePost.date}</time>
             <span class="rounded-full bg-gray-100 dark:bg-gray-800/60 px-3 py-1.5 font-medium text-gray-600 dark:text-gray-300">
-              {post.category.title}
+              {safePost.category.title}
             </span>
           </div>
-          <h1 class="mt-4 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">{post.title}</h1>
+          <h1 class="mt-4 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">{safePost.title}</h1>
           <div class="mt-6 flex items-center gap-x-4">
-            <img alt="" src={post.author.imageUrl} class="size-10 rounded-full bg-gray-100 dark:bg-gray-800" />
+            <img alt="" src={safePost.author.imageUrl} class="size-10 rounded-full bg-gray-100 dark:bg-gray-800" />
             <div class="text-sm/6">
-              <p class="font-semibold text-gray-900 dark:text-white">{post.author.name}</p>
-              <p class="text-gray-500 dark:text-gray-400">{post.author.role}</p>
+              <p class="font-semibold text-gray-900 dark:text-white">{safePost.author.name}</p>
+              <p class="text-gray-500 dark:text-gray-400">{safePost.author.role}</p>
             </div>
           </div>
 
           <div class="relative mt-10">
-            <img alt="" src={post.imageUrl} class="aspect-video w-full rounded-2xl bg-gray-100 dark:bg-gray-800 object-cover" />
+            <img alt="" src={safePost.imageUrl} class="aspect-video w-full rounded-2xl bg-gray-100 dark:bg-gray-800 object-cover" />
             <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-200 dark:ring-white/10"></div>
           </div>
 
-          {post.content && (
+          {safePost.content && (
             <div
               class="prose prose-lg mt-12 max-w-none dark:prose-invert prose-headings:text-gray-900 dark:prose-headings:text-white prose-p:text-gray-600 dark:prose-p:text-gray-300 prose-a:text-indigo-600 dark:prose-a:text-indigo-400 prose-blockquote:border-indigo-500 prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-300 prose-strong:text-gray-900 dark:prose-strong:text-white prose-li:text-gray-600 dark:prose-li:text-gray-300"
-              set:html={post.content}
+              set:html={safePost.content}
             />
           )}
         </div>
@@ -62,13 +90,13 @@ const structuredData = blogPostingSchema(post)
           <div class="rounded-2xl bg-gray-50 dark:bg-white/5 p-8 outline-1 -outline-offset-1 outline-gray-200 dark:outline-white/10">
             <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Need Emergency Water Damage Help?</h3>
             <p class="mt-2 text-sm text-gray-500 dark:text-gray-400">
-              Our team responds within 60 minutes, 24/7. Call now for immediate assistance.
+              Our team is available 24/7 for urgent water damage calls. Call now for immediate assistance.
             </p>
             <a
               href="/request"
               class="mt-6 block w-full rounded-md bg-indigo-600 dark:bg-indigo-500 px-4 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 dark:hover:bg-indigo-400"
             >
-              Get Free Estimate
+              Request Emergency Service
             </a>
             <a
               href={cityPhoneHref}

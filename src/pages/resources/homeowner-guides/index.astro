@@ -2,6 +2,17 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro'
 import { guidesList } from '../../../data/guides'
 import { cityData } from '../../../data/cities'
+
+const safeGuidesList = guidesList.map((guide) => ({
+  ...guide,
+  heroImage: '/graphics/water-emergency-pattern.svg',
+  subtitle: guide.subtitle
+    .replace(/within 60 minutes/gi, 'as quickly as possible')
+    .replace(/60-minute/gi, 'prompt')
+    .replace(/60 minutes/gi, 'the first few minutes')
+    .replace(/IICRC/g, 'industry')
+    .replace(/direct billing/gi, 'claim documentation support'),
+}))
 ---
 
 <BaseLayout
@@ -18,7 +29,7 @@ import { cityData } from '../../../data/cities'
       </div>
 
       <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-        {guidesList.map((guide) => (
+        {safeGuidesList.map((guide) => (
           <article class="flex flex-col items-start justify-between">
             <div class="relative w-full">
               <img

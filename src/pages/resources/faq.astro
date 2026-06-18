@@ -7,7 +7,23 @@ import { faqPageSchema } from '../../utils/schema'
 import { toTelHref } from '../../utils/phone'
 const cityPhoneHref = toTelHref(cityData.phone)
 
-const structuredData = faqPageSchema(faqs)
+const sanitizeCopy = (value: string) => value
+  .replace(/60 minutes or less/gi, 'as quickly as possible')
+  .replace(/within 60 minutes/gi, 'as quickly as possible')
+  .replace(/60-minute/gi, 'prompt')
+  .replace(/IICRC \(Institute of Inspection, Cleaning and Restoration Certification\) certified/gi, 'trained')
+  .replace(/IICRC-certified/gi, 'trained')
+  .replace(/certified/gi, 'trained')
+  .replace(/direct billing/gi, 'claim documentation support')
+  .replace(/all major carriers/gi, 'insurance adjusters')
+
+const safeFaqs = faqs.map((faq) => ({
+  ...faq,
+  question: sanitizeCopy(faq.question),
+  answer: sanitizeCopy(faq.answer),
+}))
+
+const structuredData = faqPageSchema(safeFaqs)
 ---
 
 <BaseLayout
@@ -25,7 +41,7 @@ const structuredData = faqPageSchema(faqs)
           Got questions about water damage restoration? We've got answers. If you don't find what you're looking for, <a href="/contact" class="text-indigo-400 hover:text-indigo-300">contact us</a> or call <a href={cityPhoneHref} class="text-indigo-400 hover:text-indigo-300">{cityData.phone}</a>.
         </p>
         <div class="mt-10">
-          <FAQAccordion client:load faqs={faqs} />
+          <FAQAccordion client:load faqs={safeFaqs} />
         </div>
       </div>
     </div>
@@ -36,13 +52,13 @@ const structuredData = faqPageSchema(faqs)
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl rounded-2xl bg-white/5 p-8 text-center outline-1 -outline-offset-1 outline-white/10 sm:p-12">
         <h2 class="text-2xl font-semibold text-white">Still have questions?</h2>
-        <p class="mt-4 text-gray-400">Our team is ready to help 24/7. Get a free estimate or call us directly.</p>
+        <p class="mt-4 text-gray-400">Our team is ready to help 24/7. Request service or call us directly.</p>
         <div class="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
           <a
             href="/request"
             class="rounded-md bg-indigo-500 px-6 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400"
           >
-            Request Free Estimate
+            Request Service
           </a>
           <a
             href={cityPhoneHref}

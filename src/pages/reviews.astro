@@ -14,7 +14,7 @@ const structuredData = {
 
 <BaseLayout
   title={`Customer Reviews | Flood Doctor ${cityData.name}`}
-  description={`Read selected customer feedback for Flood Doctor ${cityData.name} and visit our Google profile for the current review count and rating.`}
+  description={`Read selected customer feedback for Flood Doctor ${cityData.name} and visit our Google profile for current customer feedback.`}
   structuredData={structuredData}
 >
   <div class="py-16 sm:py-24">
@@ -24,7 +24,7 @@ const structuredData = {
           Customer Reviews
         </h1>
         <p class="mt-2 text-lg/8 text-gray-300">
-          Selected customer feedback for Flood Doctor {cityData.name} and Northern Virginia. For the latest public rating and review count, use our Google profile.
+          Selected customer feedback for Flood Doctor {cityData.name} and Northern Virginia. For the latest public customer feedback, use our Google profile.
         </p>
       </div>
     </div>
@@ -38,7 +38,7 @@ const structuredData = {
             <div class="rounded-2xl bg-white/5 p-8 outline-1 -outline-offset-1 outline-white/10">
               <h2 class="text-2xl font-semibold text-white">Google Reviews</h2>
               <p class="mt-4 text-sm/6 text-gray-400">
-                We do not mark up our own reviews with AggregateRating schema. This page is structured for customer trust while keeping the current rating source on Google.
+                We keep public feedback sourced to Google instead of publishing site-owned score summaries. Use the Google profile for current review details.
               </p>
               <a
                 href={reviewsSourceUrl}

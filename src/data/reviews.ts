@@ -1,5 +1,5 @@
 // Selected public Google review excerpts for Flood Doctor.
-// Do not use these excerpts to generate AggregateRating schema.
+// Do not use these excerpts to generate site-owned review score summaries.
 
 export const reviewsSourceUrl = 'https://share.google/AhUTxb7gmJLiVuSIr'
 
