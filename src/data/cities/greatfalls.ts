@@ -7,7 +7,7 @@ const greatfalls: CityData = {
   stateAbbr: 'VA',
   fullName: 'Great Falls, Virginia',
   phone: '(877) 497-0007',
-  address: '9859 Georgetown Pike, Great Falls, VA 22066',
+  address: '8466D Tyco Rd, Vienna, VA 22182',
   zipCode: '22066',
   serviceArea: [
     'Great Falls', 'Forestville', 'Colvin Run', 'Herndon',
@@ -17,7 +17,7 @@ const greatfalls: CityData = {
   coordinates: { lat: 38.9982, lng: -77.2884 },
   meta: {
     title: 'Flood Doctor Great Falls | 24/7 Water Damage Restoration',
-    description: '24/7 emergency water damage restoration in Great Falls, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (877) 497-0007.',
+    description: '24/7 emergency water damage restoration serving Great Falls, VA and nearby neighborhoods. Water extraction, structural drying, mold remediation, flood cleanup, and insurance documentation help. Call (877) 497-0007.',
   },
 }
 

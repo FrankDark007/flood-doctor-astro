@@ -33,8 +33,7 @@ const main: CityData = {
   coordinates: { lat: 38.8816, lng: -77.1714 },
   meta: {
     title: 'Flood Doctor | 24/7 Water Damage Restoration in Northern Virginia',
-    description:
-      '24/7 emergency water damage restoration serving Northern Virginia & the DC Metro. Professional mitigation, drying, cleanup, and insurance documentation. Call (877) 497-0007.',
+    description: '24/7 emergency water damage restoration serving Northern Virginia and the DC Metro. Professional mitigation, drying, cleanup, mold remediation, and insurance documentation help. Call (877) 497-0007.',
   },
 }
 

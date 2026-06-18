@@ -7,7 +7,7 @@ const ashburn: CityData = {
   stateAbbr: 'VA',
   fullName: 'Ashburn, Virginia',
   phone: '(877) 497-0007',
-  address: '44927 George Washington Blvd, Ashburn, VA 20147',
+  address: '8466D Tyco Rd, Vienna, VA 22182',
   zipCode: '20147',
   serviceArea: [
     'Ashburn', 'Broadlands', 'Brambleton', 'Lansdowne', 'Belmont',
@@ -17,7 +17,7 @@ const ashburn: CityData = {
   coordinates: { lat: 39.0437, lng: -77.4875 },
   meta: {
     title: 'Flood Doctor Ashburn | 24/7 Water Damage Restoration',
-    description: '24/7 emergency water damage restoration in Ashburn, VA. IICRC certified technicians respond in 60 minutes. Mold remediation, flood cleanup & insurance claims help. Call (877) 497-0007.',
+    description: '24/7 emergency water damage restoration serving Ashburn, VA and nearby neighborhoods. Water extraction, structural drying, mold remediation, flood cleanup, and insurance documentation help. Call (877) 497-0007.',
   },
 }
 
