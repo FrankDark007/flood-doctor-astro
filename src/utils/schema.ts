@@ -5,6 +5,7 @@
 
 import { cityData } from '../data/cities'
 import type { CityData } from '../data/cities'
+import { getServiceBySlug } from '../data/services/service-tree'
 
 export const HEADQUARTERS = {
   streetAddress: '8466D Tyco Rd',
@@ -16,7 +17,23 @@ export const HEADQUARTERS = {
 
 /** Returns the canonical base URL for a city (main → flood.doctor, others → {slug}.flood.doctor) */
 export function cityBaseUrl(slug: string = cityData.slug): string {
+  if (slug === cityData.slug && import.meta.env.SITE_URL) {
+    return import.meta.env.SITE_URL.replace(/\/$/, '')
+  }
   return slug === 'main' ? 'https://flood.doctor' : `https://${slug}.flood.doctor`
+}
+
+function absoluteUrl(pathOrUrl: string): string {
+  if (/^https?:\/\//.test(pathOrUrl)) {
+    return pathOrUrl
+  }
+
+  return `${cityBaseUrl()}${pathOrUrl.startsWith('/') ? '' : '/'}${pathOrUrl}`
+}
+
+function canonicalUrl(pathOrUrl: string): string {
+  const url = absoluteUrl(pathOrUrl)
+  return url.includes('?') || url.endsWith('/') ? url : `${url}/`
 }
 
 // ── LocalBusiness (home page) ──────────────────────────────────────────
@@ -80,13 +97,17 @@ export function serviceSchema(service: {
   name: string
   description: string
   slug: string
+  url?: string
+  path?: string
 }) {
+  const serviceRoute = service.url ?? service.path ?? getServiceBySlug(service.slug)?.path
+
   return {
     '@context': 'https://schema.org',
     '@type': 'Service',
     name: service.name,
     description: service.description,
-    url: `${cityBaseUrl()}/services/${service.slug}`,
+    ...(serviceRoute ? { url: canonicalUrl(serviceRoute) } : {}),
     provider: {
       '@type': 'LocalBusiness',
       '@id': `${cityBaseUrl()}/#business`,
