@@ -123,14 +123,14 @@ const imageUrl = (url = '', params = '') => url.endsWith('.svg') ? url : `${url}
     <div class="py-24 sm:py-32">
       <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <div class="mx-auto max-w-2xl lg:mx-0">
-          <nav class="flex text-sm text-gray-400 mb-8" aria-label="Breadcrumb">
+          <nav class="flex flex-wrap items-center gap-y-1 text-sm text-gray-400 mb-8" aria-label="Breadcrumb">
             <a href="/" class="hover:text-white">Home</a>
             <span class="mx-2">/</span>
             <a href="/services" class="hover:text-white">Services</a>
             <span class="mx-2">/</span>
             <a href="/services/commercial" class="hover:text-white">Commercial</a>
             <span class="mx-2">/</span>
-            <span class="text-white">{categoryNode.name}</span>
+            <span class="min-w-0 break-words text-white">{categoryNode.name}</span>
           </nav>
           <div class="flex items-center gap-x-3">
             <Icon name={categoryNode.icon || 'check'} class="size-8 text-indigo-400" />
@@ -180,7 +180,7 @@ const imageUrl = (url = '', params = '') => url.endsWith('.svg') ? url : `${url}
       </svg>
       <div class="mx-auto max-w-7xl px-6 pt-36 pb-24 sm:pt-60 sm:pb-32 lg:flex lg:items-center lg:gap-x-10 lg:px-8 lg:pt-40 lg:pb-40">
         <div class="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
-          <nav class="flex text-sm text-gray-400 dark:text-gray-500 mb-6" aria-label="Breadcrumb">
+          <nav class="flex flex-wrap items-center gap-y-1 text-sm text-gray-400 dark:text-gray-500 mb-6" aria-label="Breadcrumb">
             <a href="/" class="hover:text-gray-900 dark:hover:text-white">Home</a>
             <span class="mx-2">/</span>
             <a href="/services" class="hover:text-gray-900 dark:hover:text-white">Services</a>
@@ -189,11 +189,11 @@ const imageUrl = (url = '', params = '') => url.endsWith('.svg') ? url : `${url}
             <span class="mx-2">/</span>
             {categoryForService && (
               <>
-                <a href={categoryForService.path} class="hover:text-gray-900 dark:hover:text-white">{categoryForService.name}</a>
+                <a href={categoryForService.path} class="min-w-0 break-words hover:text-gray-900 dark:hover:text-white">{categoryForService.name}</a>
                 <span class="mx-2">/</span>
               </>
             )}
-            <span class="text-gray-900 dark:text-white">{service.name}</span>
+            <span class="min-w-0 break-words text-gray-900 dark:text-white">{service.name}</span>
           </nav>
           <h1 class="text-5xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-7xl">
             {safeText(cityContent?.h1 ?? `${service.name} in ${cityData.name}, ${cityData.stateAbbr}`)}
