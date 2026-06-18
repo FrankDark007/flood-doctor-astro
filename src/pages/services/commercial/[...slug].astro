@@ -18,13 +18,19 @@ const safeText = (value = '') => String(value)
   .replace(/IICRC-Certified Technicians/g, 'Trained Restoration Crews')
   .replace(/IICRC-certified technicians/g, 'restoration technicians')
   .replace(/IICRC-certified/g, 'trained')
+  .replace(/\bIICRC\b/g, 'industry')
   .replace(/IICRC certifications/g, 'industry training')
+  .replace(/\bcertified\b/gi, 'trained')
+  .replace(/\bcertifications\b/gi, 'training')
   .replace(/Licensed & Insured/g, 'Property Restoration Support')
   .replace(/Direct Insurance Billing/g, 'Insurance Documentation Help')
+  .replace(/direct billing/gi, 'insurance documentation help')
+  .replace(/all major carriers/gi, 'insurance carriers')
   .replace(/Trusted by/g, 'Serving')
   .replace(/under 60 minutes/gi, 'as quickly as possible')
   .replace(/within 60 minutes/gi, 'as quickly as possible')
   .replace(/60-minute/gi, 'prompt')
+  .replace(/60 minute/gi, 'prompt')
   .replace(/15\+/g, 'many')
   .replace(/45\+/g, 'many')
 
@@ -86,7 +92,7 @@ const safeFaqs = displayFaqs.map((faq) => ({
 const _base = cityBaseUrl()
 const serviceStructuredData = service
   ? [
-      serviceSchema(service),
+      serviceSchema({ ...service, description: safeText(service.description) }),
       ...(safeFaqs.length ? [faqPageSchema(safeFaqs)] : []),
       breadcrumbSchema([
         { name: 'Home', url: `${_base}/` },
@@ -294,7 +300,7 @@ const pageDescription = cityContent?.meta?.description
             <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">In-depth</h2>
             <p class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">How Our {service.name} Process Works</p>
             <div class="mt-10 space-y-8 text-base/7 text-gray-600 dark:text-gray-400">
-              {service.contentParagraphs.map((p) => <p>{p}</p>)}
+              {service.contentParagraphs.map((p) => <p>{safeText(p)}</p>)}
             </div>
           </div>
         </div>

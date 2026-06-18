@@ -1,6 +1,6 @@
 # Flood Doctor
 
-> Flood Doctor is a Northern Virginia water-damage restoration company providing 24/7 emergency water extraction, structural drying, flood and sewage cleanup, mold remediation, and fire/smoke restoration for residential and commercial properties. IICRC-certified technicians serve 17 cities across Fairfax, Arlington, Loudoun, and Prince William counties. Direct insurance billing supported.
+> Flood Doctor is a Northern Virginia water-damage restoration company providing 24/7 emergency water extraction, structural drying, flood and sewage cleanup, mold remediation, and fire/smoke restoration for residential and commercial properties. Trained restoration crews serve Northern Virginia communities across Fairfax, Arlington, Loudoun, and Prince William counties. Insurance documentation support is available.
 
 > This site serves city-specific landing pages on subdomains (e.g. ashburn.flood.doctor). Each city subdomain offers the same services, localized to its service area. Links below are relative so they resolve to the city you are currently viewing.
 
