@@ -1,12 +1,10 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import Icon from '../../components/Icon.astro'
-import LogoCloud from '../../components/sections/LogoCloud.astro'
 import CTABand from '../../components/sections/CTABand.astro'
-import TestimonialSection from '../../components/sections/TestimonialSection.astro'
 import FAQAccordion from '../../components/islands/FAQAccordion.tsx'
 import { cityData } from '../../data/cities'
-import { serviceTree, getDivisionCategories } from '../../data/services/service-tree'
+import { getDivisionCategories } from '../../data/services/service-tree'
 import { toTelHref } from '../../utils/phone'
 const cityPhoneHref = toTelHref(cityData.phone)
 
@@ -24,18 +22,18 @@ const structuredData = {
   ],
 }
 
-const stats = [
-  { label: 'Years of Experience', value: '15+' },
-  { label: 'Certified Technicians', value: '24' },
-  { label: 'Cities Served', value: '17' },
-  { label: 'Insurance Partners', value: '45+' },
+const serviceStandards = [
+  { label: 'Emergency Intake', value: '24/7' },
+  { label: 'Property Types', value: 'Homes + Businesses' },
+  { label: 'Documentation', value: 'Photos + Scope Notes' },
+  { label: 'Coverage Check', value: 'By Phone' },
 ]
 
 const faqs = [
   { question: 'What services do you offer?', answer: 'We provide comprehensive water damage restoration services for both residential and commercial properties, including emergency water extraction, structural drying, mold remediation, flood cleanup, sewage cleanup, fire and smoke restoration, content restoration, and insurance coordination.' },
-  { question: 'Do you offer free estimates?', answer: 'Yes, we provide free on-site estimates for all restoration services. Our certified estimators will assess the damage, document everything for insurance purposes, and provide a detailed scope of work.' },
-  { question: 'Are your technicians certified?', answer: 'All of our technicians hold IICRC certifications in water damage restoration (WRT), applied structural drying (ASD), and mold remediation. We maintain ongoing training to stay current with industry best practices.' },
-  { question: 'What areas do you serve?', answer: `We serve ${cityData.name} and surrounding communities including ${cityData.serviceAreas?.slice(0, 5).join(', ') || 'the greater metro area'}. Contact us to confirm coverage for your location.` },
+  { question: 'How do service requests work?', answer: 'Submit the request form or call us. We confirm the issue, collect the property details, and explain the next steps before dispatch or scheduling.' },
+  { question: 'Who handles the restoration work?', answer: 'Restoration crews use industry-standard drying, cleanup, and documentation practices. Call us to confirm availability and service details for your property.' },
+  { question: 'What areas do you serve?', answer: `We serve ${cityData.name} and surrounding communities including ${cityData.serviceArea?.slice(0, 5).join(', ') || 'the greater metro area'}. Contact us to confirm coverage for your location.` },
 ]
 ---
 
@@ -64,15 +62,15 @@ const faqs = [
             Restoration Services in {cityData.name}
           </h1>
           <p class="mt-8 text-lg font-medium text-pretty text-gray-600 dark:text-gray-400 sm:text-xl/8">
-            From emergency water extraction to complete reconstruction, our IICRC-certified team handles every
-            aspect of property restoration — residential and commercial. Available 24/7.
+            From emergency water extraction to complete reconstruction, restoration crews handle property
+            cleanup and drying for homes and businesses. Available 24/7.
           </p>
           <div class="mt-10 flex items-center gap-x-6">
             <a
               href="/request"
               class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400"
             >
-              Get a Free Estimate
+              Request Service
             </a>
             <a href={cityPhoneHref} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
               Call {cityData.phone} <span aria-hidden="true">&rarr;</span>
@@ -82,9 +80,6 @@ const faqs = [
       </div>
     </div>
   </div>
-
-  <!-- LOGO CLOUD -->
-  <LogoCloud cityName={cityData.name} />
 
   <!-- RESIDENTIAL -->
   <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
@@ -148,16 +143,16 @@ const faqs = [
     </div>
   </div>
 
-  <!-- ═══ STATS ═══ -->
+  <!-- ═══ SERVICE STANDARDS ═══ -->
   <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
         <p class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Why Flood Doctor</p>
         <h2 class="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-5xl">
-          {cityData.name}'s Preferred Restoration Company
+          Restoration help built for urgent property damage
         </h2>
         <dl class="mt-16 grid grid-cols-1 gap-x-8 gap-y-12 sm:mt-20 sm:grid-cols-2 sm:gap-y-16 lg:mt-28 lg:grid-cols-4">
-          {stats.map((stat) => (
+          {serviceStandards.map((stat) => (
             <div class="flex flex-col-reverse gap-y-3 border-l border-gray-300 dark:border-white/20 pl-6">
               <dt class="text-base/7 text-gray-600 dark:text-gray-300">{stat.label}</dt>
               <dd class="text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">{stat.value}</dd>
@@ -168,20 +163,11 @@ const faqs = [
     </div>
   </div>
 
-  <!-- TESTIMONIAL -->
-  <TestimonialSection
-    quote='"After a pipe burst in our ceiling, Flood Doctor had everything dried out and repaired within a week. Their team was professional, thorough, and made the insurance process painless."'
-    authorName="James Rodriguez"
-    authorRole="Homeowner"
-    cityName={cityData.name}
-    authorImage="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=1024&h=1024&q=80"
-  />
-
   <!-- CTA BAND -->
   <CTABand
     heading="Water damage emergency?"
-    description="Don't wait — every minute counts. Our certified team responds in under 60 minutes with industrial-grade equipment."
-    primaryText="Request Free Estimate"
+    description="Don't wait — every minute counts. Request emergency service so we can confirm details and coordinate the right restoration response."
+    primaryText="Request Emergency Service"
     primaryHref="/request"
     secondaryText={`Call ${cityData.phone}`}
     secondaryHref={cityPhoneHref}
