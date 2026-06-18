@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { cityData } from '../data/cities'
+---
+
+<BaseLayout
+  title={`Terms of Use | Flood Doctor ${cityData.name}`}
+  description={`Terms of use for the Flood Doctor ${cityData.name} website and service request information.`}
+>
+  <section class="mx-auto max-w-3xl px-6 py-24 sm:py-32 lg:px-8">
+    <p class="text-sm font-semibold text-blue-700 dark:text-blue-300">Legal</p>
+    <h1 class="mt-3 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white">Terms of Use</h1>
+    <div class="mt-8 space-y-6 text-base/7 text-gray-600 dark:text-gray-300">
+      <p>By using this website, you agree to use it only for lawful purposes and to provide accurate information when submitting a service request or contacting Flood Doctor.</p>
+      <p>Website content is provided for general informational purposes and does not replace an on-site inspection, written scope, insurance policy review, or professional advice specific to your property.</p>
+      <p>Emergency response availability, arrival timing, service scope, and pricing depend on location, crew availability, site conditions, safety conditions, and written project approval.</p>
+      <p>All website text, branding, graphics, and page content are owned by Flood Doctor or its licensors and may not be copied or reused without permission.</p>
+      <p>For questions about these terms, contact Flood Doctor at <a href="tel:+18774970007" class="font-semibold text-blue-700 hover:text-blue-800 dark:text-blue-300 dark:hover:text-blue-200">(877) 497-0007</a>.</p>
+    </div>
+  </section>
+</BaseLayout>

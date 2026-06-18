@@ -7,6 +7,8 @@ import { toTelHref } from '../utils/phone'
 const cityPhoneHref = toTelHref(cityData.phone)
 const headquartersAddress = `${HEADQUARTERS.streetAddress}, ${HEADQUARTERS.addressLocality}, ${HEADQUARTERS.addressRegion} ${HEADQUARTERS.postalCode}`
 const footerLabel = (item: { name: string; href: string }) => item.href === '/request' ? 'Request Service' : item.name
+const privacyPolicyUrl = new URL('/privacy-policy/', Astro.site).toString()
+const termsUrl = new URL('/terms/', Astro.site).toString()
 ---
 
 <footer class="bg-slate-950 border-t border-white/10 text-white">
@@ -85,8 +87,8 @@ const footerLabel = (item: { name: string; href: string }) => item.href === '/re
         &copy; {new Date().getFullYear()} Flood Doctor {cityData.name}. All rights reserved.
       </p>
       <div class="mt-4 md:mt-0 flex gap-x-4 text-sm text-slate-400">
-        <a href="/privacy" class="hover:text-white focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-300">Privacy</a>
-        <a href="/terms" class="hover:text-white focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-300">Terms</a>
+        <a href={privacyPolicyUrl} class="hover:text-white focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-300">Privacy</a>
+        <a href={termsUrl} class="hover:text-white focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-300">Terms</a>
       </div>
     </div>
   </div>

@@ -31,18 +31,21 @@ const pages = segments.map((seg, i) => ({
             <svg class="size-5 shrink-0 text-gray-400 dark:text-gray-300" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M8.22 5.22a.75.75 0 011.06 0l4.25 4.25a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 010-1.06z" clip-rule="evenodd" />
             </svg>
-            <a
-              href={page.href}
-              aria-current={page.current ? 'page' : undefined}
-              class:list={[
-                'ml-2 min-w-0 break-words font-medium sm:ml-4',
-                page.current
-                  ? 'text-gray-800 dark:text-white'
-                  : 'text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-white',
-              ]}
-            >
-              {page.name}
-            </a>
+            {page.current ? (
+              <span
+                aria-current="page"
+                class="ml-2 min-w-0 break-words font-medium sm:ml-4 text-gray-800 dark:text-white"
+              >
+                {page.name}
+              </span>
+            ) : (
+              <a
+                href={page.href}
+                class="ml-2 min-w-0 break-words font-medium sm:ml-4 text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-white"
+              >
+                {page.name}
+              </a>
+            )}
           </div>
         </li>
       ))}
