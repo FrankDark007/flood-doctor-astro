@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in McLean, VA | Flood Doctor',
-    description: `McLean's certified environmental testing for asbestos, lead paint, mold & hazardous materials. AIHA-accredited lab analysis for estate homes in Langley, Chesterbrook & The Reserve. Call (877) 497-0007.`,
+    description: `McLean's trained environmental testing for asbestos, lead paint, mold & hazardous materials. AIHA-accredited lab analysis for estate homes in Langley, Chesterbrook & The Reserve. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in McLean, Virginia',
   introSection: {
-    headline: `Certified Environmental Testing for McLean Estate Properties`,
+    headline: `Trained Environmental Testing for McLean Estate Properties`,
     paragraphs: [
       `Environmental testing in McLean estate properties demands protocols calibrated for complex building systems and premium construction materials. Homes along Georgetown Pike built in the 1960s and 1970s contain asbestos in popcorn ceilings, pipe insulation, and floor tile mastic that remains undisturbed until renovation begins. Langley estates with original construction may harbor lead-based paint beneath multiple layers of high-end finishes. Woodside Estates properties with climate-controlled wine cellars and sealed home theaters create enclosed environments where mold contamination and VOC off-gassing concentrate to levels requiring laboratory quantification. Flood Doctor provides AIHA-accredited environmental testing—asbestos bulk sampling, XRF lead paint analysis, mold air and surface sampling with chain of custody, and comprehensive VOC screening—engineered for the scale and complexity that distinguish McLean properties.`,
-      `Our certified inspectors have identified friable asbestos in mechanical rooms of Chesterbrook colonials undergoing kitchen renovations, documented lead-based paint on original trim and window assemblies in Salona Village homes, and quantified elevated Stachybotrys concentrations behind finished walls in Balls Hill basements following slow plumbing leaks. For estate properties near Great Falls Park where private well systems serve the household, we add water quality testing for bacteria, heavy metals, and chemical contaminants. McLean homeowners planning renovations, investigating health symptoms, or conducting real estate due diligence require definitive laboratory data—not visual inspections. Our testing protocols deliver chain-of-custody documentation, accredited laboratory analysis, and regulatory-compliant reporting that withstands scrutiny from contractors, attorneys, and regulatory agencies.`,
+      `Our trained inspectors have identified friable asbestos in mechanical rooms of Chesterbrook colonials undergoing kitchen renovations, documented lead-based paint on original trim and window assemblies in Salona Village homes, and quantified elevated Stachybotrys concentrations behind finished walls in Balls Hill basements following slow plumbing leaks. For estate properties near Great Falls Park where private well systems serve the household, we add water quality testing for bacteria, heavy metals, and chemical contaminants. McLean homeowners planning renovations, investigating health symptoms, or conducting real estate due diligence require definitive laboratory data—not visual inspections. Our testing protocols deliver chain-of-custody documentation, accredited laboratory analysis, and regulatory-compliant reporting that withstands scrutiny from contractors, attorneys, and regulatory agencies.`,
     ],
     localContext: `McLean estate homes span construction eras from the 1950s through present day, creating a cross-section of environmental hazards from legacy asbestos and lead paint in older properties to VOC off-gassing and mold risk in newer sealed construction.`,
   },
   processSteps: [
     {
       title: 'Site Assessment and Hazard Identification',
-      description: `Our certified inspector evaluates your McLean property against construction date, renovation history, and current concerns. We identify suspect asbestos-containing materials, lead paint surfaces, moisture intrusion evidence, and areas requiring air quality evaluation. For estate properties, this assessment maps the full scope of testing required across all structures.`,
+      description: `Our trained inspector evaluates your McLean property against construction date, renovation history, and current concerns. We identify suspect asbestos-containing materials, lead paint surfaces, moisture intrusion evidence, and areas requiring air quality evaluation. For estate properties, this assessment maps the full scope of testing required across all structures.`,
       timeframe: 'Hours 1-2',
     },
     {
@@ -69,7 +69,7 @@ export const content: CityServiceContent = {
     },
   ],
   equipmentSection: {
-    headline: 'Certified Environmental Testing Equipment for McLean Properties',
+    headline: 'Trained Environmental Testing Equipment for McLean Properties',
     equipment: [
       {
         name: 'Niton XL3t XRF Analyzer',
@@ -158,7 +158,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Do you provide remediation services after testing?',
-      answer: `We provide testing, assessment, and consulting services. For physical abatement—asbestos removal, lead paint remediation, mold remediation—we coordinate with licensed specialty contractors. This separation between testing and remediation ensures objectivity and is considered best practice by EPA and state regulatory agencies.`,
+      answer: `We provide testing, assessment, and consulting services. For physical abatement—asbestos removal, lead paint remediation, mold remediation—we coordinate with qualified specialty contractors. This separation between testing and remediation ensures objectivity and is considered best practice by EPA and state regulatory agencies.`,
     },
   ],
   relatedBlogSlugs: [
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Concerns in Your McLean Property?',
-    paragraph: `Certified environmental testing provides the laboratory data you need for renovation planning, health investigation, or real estate due diligence. AIHA-accredited analysis with chain-of-custody documentation. Call (877) 497-0007 for a confidential consultation.`,
+    paragraph: `Trained environmental testing provides the laboratory data you need for renovation planning, health investigation, or real estate due diligence. AIHA-accredited analysis with chain-of-custody documentation. Call (877) 497-0007 for a confidential consultation.`,
   },
 }

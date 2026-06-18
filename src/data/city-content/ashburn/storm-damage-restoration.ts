@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When severe weather strikes Ashburn, the damage reveals vulnerabilities that rapid development creates. Stormwater systems designed for farmland can't handle the impervious surfaces of Brambleton's townhome clusters. HOA retention ponds in Broadlands overflow when overwhelmed by development density that exceeded original planning. Your three-year-old Belmont home might flood because grading wasn't properly executed during the construction rush.
 
-Flood Doctor has provided Ashburn storm damage restoration since the community first experienced the infrastructure strain of explosive growth. We've responded to summer thunderstorm flooding throughout Brambleton when retention ponds overflowed, winter ice dam water intrusion in One Loudoun townhomes where builder-installed gutters proved inadequate, and wind damage throughout Ashburn Farm where new construction roof systems failed their first major test. Our crews arrive within 30 minutes, often during the storm itself, bringing immediate protection and rapid restoration.`,
+Flood Doctor has provided Ashburn storm damage restoration since the community first experienced the infrastructure strain of explosive growth. We've responded to summer thunderstorm flooding throughout Brambleton when retention ponds overflowed, winter ice dam water intrusion in One Loudoun townhomes where builder-installed gutters proved inadequate, and wind damage throughout Ashburn Farm where new construction roof systems failed their first major test. Our crews arrive as quickly as available crews can safely arrive, often during the storm itself, bringing immediate protection and rapid restoration.`,
       `Ashburn's storm damage patterns differ from established communities. Your neighborhood's stormwater infrastructure might have been overwhelmed by development additions—those extra townhome sections added when the market was hot. Construction defects in newer homes create storm vulnerabilities that shouldn't exist: improperly sealed windows, inadequate roof flashing, and exterior finishes that allow water penetration behind walls.
 
-Our IICRC-certified storm damage specialists understand these Ashburn-specific failure modes. We know how to document builder defects for warranty claims, how to coordinate with HOA management when common infrastructure fails during storms, and how to address the drainage problems that rapid development creates. We've restored storm damage across every major Ashburn development—and we know exactly what comprehensive recovery requires.`,
+Our trained storm damage specialists understand these Ashburn-specific failure modes. We know how to document builder defects for warranty claims, how to coordinate with HOA management when common infrastructure fails during storms, and how to address the drainage problems that rapid development creates. We've restored storm damage across every major Ashburn development—and we know exactly what comprehensive recovery requires.`,
     ],
     localContext: `Ashburn's transformation from farmland to 49,000+ residents in three decades created predictable storm drainage stress. Infrastructure designed for 2000 rainfall patterns can't handle 2026 development density and climate intensification.`,
   },
   processSteps: [
     {
       title: 'Emergency Storm Response',
-      description: `When storms damage your Ashburn home, call (877) 497-0007 immediately—even during active weather. Our crews often respond during storms, providing emergency tarping and water extraction before damage worsens. We're positioned along Route 28 for 30-minute response to Broadlands, Brambleton, One Loudoun, and all Ashburn neighborhoods.`,
-      timeframe: 'Within 30 minutes',
+      description: `When storms damage your Ashburn home, call (877) 497-0007 immediately—even during active weather. Our crews may respond during storms when conditions allow, providing emergency tarping and water extraction before damage worsens. We provide service-area response along Route 28 to Broadlands, Brambleton, One Loudoun, and all Ashburn neighborhoods.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Emergency Protection & Damage Mitigation',
@@ -46,7 +46,7 @@ Our IICRC-certified storm damage specialists understand these Ashburn-specific f
     },
     {
       title: 'Monitored Drying & Restoration Coordination',
-      description: 'We monitor moisture levels daily, adjusting equipment until all materials return to normal dryness. Once drying completes, we coordinate with roofing contractors, siding specialists, and other trades needed for complete restoration—handling the entire process from emergency response to final repairs.',
+      description: 'We monitor moisture levels daily, adjusting equipment until all materials return to normal dryness. Once drying completes, we coordinate with roofing contractors, siding specialists, and other trades needed for restoration—handling the entire process from emergency response to final repairs.',
       timeframe: 'Days 3-10',
     },
   ],
@@ -59,7 +59,7 @@ Our IICRC-certified storm damage specialists understand these Ashburn-specific f
     {
       title: 'HOA Retention Pond Inadequacy',
       description: `Master-planned communities use retention ponds to manage stormwater. But when development additions overwhelmed pond capacity, or when ponds aren't properly maintained, they overflow during major storms—flooding downstream homes in communities like Belmont and Ashburn Farm.`,
-      solution: 'We document the overflow event, photograph pond maintenance deficiencies, and provide reports for HOA liability claims. Our storm damage expertise includes extensive experience with Ashburn HOA disputes over drainage infrastructure.',
+      solution: 'We document the overflow event, photograph pond maintenance deficiencies, and provide reports for HOA liability claims. Our storm damage experience includes extensive experience with Ashburn HOA disputes over drainage infrastructure.',
     },
     {
       title: 'New Construction Roof System Failures',
@@ -116,7 +116,7 @@ Our IICRC-certified storm damage specialists understand these Ashburn-specific f
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Ashburn',
-    intro: `Storm damage costs vary significantly based on water intrusion extent, structural damage, and whether builder warranties or HOA liability apply. We provide free inspections and detailed estimates before work begins. Most storm damage is covered by homeowner's insurance—we handle direct billing.`,
+    intro: `Storm damage costs vary significantly based on water intrusion extent, structural damage, and whether builder warranties or HOA liability apply. We provide free inspections and detailed estimates before work begins. Most storm damage is covered by homeowner's insurance—we handle insurance documentation support.`,
     factors: [
       'Storm water intrusion extent—flooding affecting finished basements requires complete water extraction and drying',
       'Structural damage—roof, siding, and window failures requiring emergency protection and repair coordination',
@@ -125,7 +125,7 @@ Our IICRC-certified storm damage specialists understand these Ashburn-specific f
       'Emergency protection requirements—tarping and board-up preventing further damage during storms',
       'Response speed—calls during or immediately after storms prevent dramatically higher damage costs',
     ],
-    cta: 'Call (877) 497-0007 immediately for storm damage—during or after the event. Free inspection, detailed estimates, and direct insurance billing. Emergency tarping available during active storms.',
+    cta: 'Call (877) 497-0007 immediately for storm damage—during or after the event. Free inspection, detailed estimates, and insurance documentation support. Emergency tarping available during active storms.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -145,12 +145,12 @@ Our IICRC-certified storm damage specialists understand these Ashburn-specific f
       'Farmwell Station',
       'Ryan Park',
     ],
-    responseTime: '30-minute emergency response during and after storms. Our crews are positioned along Route 28 for immediate dispatch to any Ashburn neighborhood experiencing storm damage.',
+    responseTime: 'rapid emergency response during and after storms. Our crews serve Route 28 for immediate dispatch to any Ashburn neighborhood experiencing storm damage.',
   },
   faqs: [
     {
       question: 'Should I call during the storm or wait until it passes?',
-      answer: 'Call immediately—even during active weather. Our crews often respond during storms to provide emergency tarping and prevent ongoing water intrusion. Every hour of delay during a storm means exponentially more damage. Call (877) 497-0007 the moment you discover storm damage.',
+      answer: 'Call immediately—even during active weather. Our crews may respond during storms when conditions allow to provide emergency tarping and prevent ongoing water intrusion. Every hour of delay during a storm means exponentially more damage. Call (877) 497-0007 the moment you discover storm damage.',
     },
     {
       question: `Will my homeowner's insurance cover storm damage?`,
@@ -162,15 +162,15 @@ Our IICRC-certified storm damage specialists understand these Ashburn-specific f
     },
     {
       question: 'Can you help if HOA drainage problems caused storm flooding?',
-      answer: `Yes. We document overflow events, photograph retention pond inadequacies or storm drain failures, and provide expert reports for HOA liability claims. Ashburn's master-planned communities create complex responsibility questions—our documentation clarifies what failed.`,
+      answer: `Yes. We document overflow events, photograph retention pond inadequacies or storm drain failures, and provide technical reports for HOA liability claims. Ashburn's master-planned communities create complex responsibility questions—our documentation clarifies what failed.`,
     },
     {
       question: 'How quickly can you tarp my roof during a storm?',
-      answer: 'Our crews carry emergency tarping systems and often respond during active weather. We can provide temporary roof protection within our 30-minute response window, preventing further water intrusion while permanent repairs are coordinated.',
+      answer: 'Our crews carry emergency tarping systems and often respond during active weather. We can provide temporary roof protection within our rapid emergency response window, preventing further water intrusion while permanent repairs are coordinated.',
     },
     {
       question: 'Do you coordinate the entire restoration or just water damage?',
-      answer: 'We coordinate complete restoration: emergency protection, water extraction and drying, and connections to roofing contractors, siding specialists, and other trades needed for full recovery. One call handles the entire process from emergency response to final repairs.',
+      answer: 'We coordinate restoration: emergency protection, water extraction and drying, and connections to roofing contractors, siding specialists, and other trades needed for full recovery. One call handles the entire process from emergency response to final repairs.',
     },
     {
       question: 'How long does storm damage restoration take?',
@@ -184,6 +184,6 @@ Our IICRC-certified storm damage specialists understand these Ashburn-specific f
   ],
   finalCTA: {
     headline: 'Storm Damage Emergency in Ashburn?',
-    paragraph: `Don't wait for the storm to pass. Our crews respond during active weather to prevent ongoing damage. Emergency tarping, water extraction, and complete restoration coordination—one call brings immediate help.`,
+    paragraph: `Don't wait for the storm to pass. Our crews respond during active weather to prevent ongoing damage. Emergency tarping, water extraction, and restoration coordination—one call brings immediate help.`,
   },
 }

@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Ashburn, VA | Flood Doctor',
-    description: `Ashburn commercial flood cleanup. Data centers, new construction offices & HOA commercial developments near Broadlands, One Loudoun & Brambleton. Call (877) 497-0007.`,
+    description: `Ashburn commercial flood cleanup. Data centers, new construction workplaces & HOA commercial developments near Broadlands, One Loudoun & Brambleton. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Ashburn, Virginia',
   introSection: {
     headline: `Industrial Flood Response for Ashburn's Data Center Corridor and Growing Commercial Community`,
     paragraphs: [
-      `Ashburn's commercial flood exposure reflects the convergence of the world's densest data center concentration, rapid new commercial construction, and weather patterns that increasingly challenge the drainage infrastructure supporting this growing community. When a severe thunderstorm overwhelms the storm drainage serving a Broadlands commercial center, when construction-related runoff floods a newly occupied office building near One Loudoun, or when a catastrophic cooling system failure threatens millions in computing equipment at a Loudoun County Parkway data facility, the response must combine industrial extraction capability with technical knowledge of both modern building systems and mission-critical technology environments.
+      `Ashburn's commercial flood exposure reflects the convergence of the world's densest data center concentration, rapid new commercial construction, and weather patterns that increasingly challenge the drainage infrastructure supporting this growing community. When a severe thunderstorm overwhelms the storm drainage serving a Broadlands commercial center, when construction-related runoff floods a newly occupied commercial building near One Loudoun, or when a catastrophic cooling system failure threatens millions in computing equipment at a Loudoun County Parkway data facility, the response must combine industrial extraction capability with technical knowledge of both modern building systems and mission-critical technology environments.
 
 Flood Doctor's commercial flood division has managed major flooding events throughout Ashburn's commercial portfolio. We've pumped out storm-flooded parking areas at Brambleton Town Center, responded to emergency cooling floods in data center facilities near Topgolf, and cleaned up construction-related flooding at recently completed Lansdowne commercial properties—deploying contamination management alongside industrial extraction for Ashburn's unique commercial environment.`,
       `The flood dynamics affecting Ashburn's commercial properties are amplified by the area's rapid development. New construction alters established drainage patterns, creating runoff volumes that overwhelm storm infrastructure designed for pre-development conditions. Construction-era grading around newer commercial buildings sometimes directs water toward rather than away from foundations. And the transition from agricultural to commercial land use reduces the natural absorption capacity that previously moderated storm water impact—concentrating more runoff toward commercial properties during increasingly intense rainfall events.
@@ -21,8 +21,8 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
   processSteps: [
     {
       title: 'Rapid Ashburn Flood Dispatch',
-      description: `Call (877) 497-0007 for immediate commercial flood response. Our crews deploy from positions throughout the Loudoun County Parkway and Broadlands corridors, reaching Ashburn commercial properties with industrial extraction and IT protection equipment within our guaranteed window.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 for immediate commercial flood response. Our crews deploy from positions throughout the Loudoun County Parkway and Broadlands corridors, reaching Ashburn commercial properties with industrial extraction and IT protection equipment within our intended window.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Contamination & IT Exposure Assessment',
@@ -46,7 +46,7 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
     },
     {
       title: 'Clearance & Warranty-Aware Documentation',
-      description: 'Environmental clearance confirms safe reoccupancy conditions. Final documentation includes warranty-eligible items for newer properties alongside standard insurance claim packages.',
+      description: 'Environmental verification confirms safe reoccupancy conditions. Final documentation includes warranty-eligible items for newer properties alongside standard insurance claim packages.',
       timeframe: 'Days 5-10',
     },
   ],
@@ -69,7 +69,7 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
     {
       title: 'Mixed-Source Contamination from Construction Sites',
       description: 'Floodwater entering Ashburn commercial properties during storms often carries construction sediment, disturbed soil contaminants, and construction chemical residues from nearby development activity—creating contamination levels exceeding standard storm water.',
-      solution: 'We test floodwater for contamination and deploy protocols appropriate to the classification. Construction-sediment-contaminated water receives enhanced cleanup including sediment removal, antimicrobial treatment, and environmental clearance testing.',
+      solution: 'We test floodwater for contamination and deploy protocols appropriate to the classification. Construction-sediment-contaminated water receives enhanced cleanup including sediment removal, antimicrobial treatment, and environmental verification testing.',
     },
   ],
   equipmentSection: {
@@ -114,7 +114,7 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
       'HOA commercial requirements—community association standards may affect scheduling and exterior restoration methods',
       'Drainage infrastructure documentation—identifying development-related drainage failures supports property owner pursuit of improvements',
     ],
-    cta: `Call (877) 497-0007 for emergency commercial flood response. Our Ashburn team deploys with the data center protection and new-construction expertise this market demands.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. Our Ashburn team deploys with the data center protection and new-construction experience this market demands.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,12 +132,12 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
       'Russell Branch',
       'Moorefield Station',
     ],
-    responseTime: '30-minute commercial flood response throughout Ashburn. Industrial extraction and data center protection equipment pre-positioned along the Loudoun County Parkway and Broadlands corridors.',
+    responseTime: 'prompt commercial flood response throughout Ashburn. Industrial extraction and data center protection equipment prepared along the Loudoun County Parkway and Broadlands corridors.',
   },
   faqs: [
     {
       question: 'Can you handle a flood emergency at an Ashburn data center?',
-      answer: 'Yes. We deploy anti-corrosion treatments and raised-floor extraction within 30 minutes. Our crews understand data center environments and carry the specialized equipment for protecting mission-critical computing infrastructure during flood cleanup.',
+      answer: 'Yes. We deploy anti-corrosion treatments and raised-floor extraction as quickly as available crews can safely arrive. Our crews understand data center environments and carry the specialized equipment for protecting mission-critical computing infrastructure during flood cleanup.',
     },
     {
       question: 'What if construction runoff flooded our new commercial building?',
@@ -145,7 +145,7 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
     },
     {
       question: 'How do you handle contaminated storm flooding in Ashburn?',
-      answer: 'All floodwater is tested and classified. Storm water mixed with construction sediment or development-site contaminants receives enhanced cleanup including sediment removal, antimicrobial treatment, and environmental clearance testing before reoccupancy.',
+      answer: 'All floodwater is tested and classified. Storm water mixed with construction sediment or development-site contaminants receives enhanced cleanup including sediment removal, antimicrobial treatment, and environmental verification testing before reoccupancy.',
     },
     {
       question: 'What about HOA requirements during commercial flood cleanup?',
@@ -153,7 +153,7 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
     },
     {
       question: 'Do you handle commercial flood insurance claims?',
-      answer: 'We work with all commercial carriers and provide complete documentation. For newer properties with warranty potential, we separate warranty-eligible items from standard insurance scope for clean processing of both recovery paths.',
+      answer: 'We work with all commercial carriers and provide thorough documentation. For newer properties with warranty potential, we separate warranty-eligible items from standard insurance scope for clean processing of both recovery paths.',
     },
     {
       question: 'Can you prevent future flooding at our Ashburn property?',
@@ -166,6 +166,6 @@ Our commercial flood teams deploy to Ashburn with the contamination assessment, 
   ],
   finalCTA: {
     headline: 'Commercial Flood Emergency in Ashburn?',
-    paragraph: `From data center cooling failures to development-driven storm flooding, Ashburn's commercial properties face flood risks unique to this rapidly growing market. Our industrial crews deploy with the technology protection and new-construction expertise every situation demands.`,
+    paragraph: `From data center cooling failures to development-driven storm flooding, Ashburn's commercial properties face flood risks unique to this rapidly growing market. Our industrial crews deploy with the technology protection and new-construction experience every situation demands.`,
   },
 }

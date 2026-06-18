@@ -9,19 +9,19 @@ export const content: CityServiceContent = {
   introSection: {
     headline: 'Restoring Belongings in Ashburn Growing Community',
     paragraphs: [
-      `Ashburn families have filled their newer homes with the essentials of modern life — home office setups for remote work, children bedrooms packed with electronics and school supplies, basement rec rooms equipped for family entertainment, and garages storing everything from sports equipment to seasonal decorations. When a supply line burst floods the finished lower level of your Broadlands colonial, or when a sump pump failure sends water through your Brambleton basement, the damage extends to every category of personal property your family depends on daily.
+      `Ashburn families have filled their newer homes with the essentials of modern life — home workplace setups for remote work, children bedrooms packed with electronics and school supplies, basement rec rooms equipped for family entertainment, and garages storing everything from sports equipment to seasonal decorations. When a supply line burst floods the finished lower level of your Broadlands colonial, or when a sump pump failure sends water through your Brambleton basement, the damage extends to every category of personal property your family depends on daily.
 
 Flood Doctor's contents team has restored personal belongings from Ashburn homes throughout every master-planned community — freeze-drying water-soaked homework assignments and children memories from Ashburn Farm basements, cleaning electronics from One Loudoun townhome rec rooms after upper-floor plumbing failures, and packing out entire Lansdowne properties while structural drying addressed the finished lower level. We understand that Ashburn families are often newer homeowners navigating their first major insurance claim, and we guide the process with clarity.`,
       `The contents pack-out process in Ashburn begins with the urgency that water damage demands. Documents and photographs bond permanently within 48 hours if not frozen. Electronics corrode hourly. Mold begins colonizing damp items within days. Our triage team stabilizes these time-sensitive items immediately while the systematic pack-out proceeds room by room through your Ashburn home.
 
-Every item is photographed, catalogued, and barcoded for tracking. For Ashburn homeowners — many filing their first major insurance claim — our detailed inventory provides the documentation adjusters require. For situations where builder defects caused the water damage, our inventory also records the pre-loss condition of contents that may figure into warranty negotiations. You track every item through our online portal, with status updates from pack-out through restoration and return delivery.`,
+Every item is photographed, catalogued, and barcoded for tracking. For Ashburn homeowners — many filing their first major insurance claim — our detailed inventory provides the documentation adjusters require. For situations where builder defects caused the water damage, our inventory also records the documented prior condition of contents that may figure into warranty negotiations. You track every item through our online portal, with status updates from pack-out through restoration and return delivery.`,
     ],
-    localContext: `Ashburn's growing families fill newer homes with modern belongings — electronics, home office equipment, children items, and recreational gear — that require contents restoration combining technical expertise with first-time claim guidance for newer homeowners.`,
+    localContext: `Ashburn's growing families fill newer homes with modern belongings — electronics, home business equipment, children items, and recreational gear — that require contents restoration combining technical experience with first-time claim guidance for newer homeowners.`,
   },
   processSteps: [
     {
       title: 'Priority Item Stabilization',
-      description: `Within 30 minutes of calling (877) 497-0007, our team arrives to triage time-sensitive items. Documents and photos from your Broadlands basement are bagged for freezing. Electronics from the Brambleton rec room are disconnected for corrosion prevention. Children sentimental items receive immediate attention.`,
+      description: `Emergency dispatch of calling (877) 497-0007, our team arrives to triage time-sensitive items. Documents and photos from your Broadlands basement are bagged for freezing. Electronics from the Brambleton rec room are disconnected for corrosion prevention. Children sentimental items receive immediate attention.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -48,7 +48,7 @@ Every item is photographed, catalogued, and barcoded for tracking. For Ashburn h
   localChallenges: [
     {
       title: 'Finished Basement Contents Volume',
-      description: 'Ashburn finished basements serve as rec rooms, home offices, playrooms, and storage areas — containing hundreds of items across every category. A single flooding event damages electronics, furniture, stored collections, sporting equipment, and children belongings simultaneously.',
+      description: 'Ashburn finished basements serve as rec rooms, home workspaces, playrooms, and storage areas — containing hundreds of items across every category. A single flooding event damages electronics, furniture, stored collections, sporting equipment, and children belongings simultaneously.',
       solution: 'Systematic triage separates time-sensitive items from durable goods. Electronics and documents receive priority handling. The remaining inventory is processed efficiently using category-based treatment protocols. Our team manages the volume without sacrificing attention to individual items.',
     },
     {
@@ -59,7 +59,7 @@ Every item is photographed, catalogued, and barcoded for tracking. For Ashburn h
     {
       title: 'First-Time Insurance Claim Navigation',
       description: 'Many Ashburn homeowners are filing their first major insurance claim. The documentation requirements, depreciation calculations, and replacement-versus-restoration decisions can be overwhelming without guidance.',
-      solution: 'Our detailed inventory provides the foundation for your contents claim. We explain the process — what to expect from adjusters, how depreciation works, and when replacement outperforms restoration. Our documentation meets every carrier requirement, and we handle direct billing to simplify your experience.',
+      solution: 'Our detailed inventory provides the foundation for your contents claim. We explain the process — what to expect from adjusters, how depreciation works, and when replacement outperforms restoration. Our documentation meets every carrier requirement, and we handle insurance documentation support to simplify your experience.',
     },
     {
       title: 'Builder Warranty Contents Documentation',
@@ -124,7 +124,7 @@ Every item is photographed, catalogued, and barcoded for tracking. For Ashburn h
       'University Center',
       'Cameron Chase',
     ],
-    responseTime: '30-minute emergency response for priority item stabilization throughout Ashburn. Full pack-out scheduling coordinates with structural restoration.',
+    responseTime: 'rapid emergency response for priority item stabilization throughout Ashburn. Full pack-out scheduling coordinates with structural restoration.',
   },
   faqs: [
     {
@@ -133,7 +133,7 @@ Every item is photographed, catalogued, and barcoded for tracking. For Ashburn h
     },
     {
       question: 'This is my first insurance claim — how does contents restoration work?',
-      answer: 'We simplify the process. Our team inventories everything with photos and condition notes, provides documentation in the format adjusters require, handles direct billing with your carrier, and explains each step. You track progress online. Most Ashburn homeowners find the process straightforward with our guidance.',
+      answer: 'We simplify the process. Our team inventories everything with photos and condition notes, provides documentation in the format adjusters require, handles claim-support documentation for your insurer, and explains each step. You track progress online. Most Ashburn homeowners find the process straightforward with our guidance.',
     },
     {
       question: 'What about items stored in our finished basement?',
@@ -149,7 +149,7 @@ Every item is photographed, catalogued, and barcoded for tracking. For Ashburn h
     },
     {
       question: 'Does insurance cover contents pack-out in Ashburn?',
-      answer: 'Yes. Contents restoration is a standard covered expense following covered water or fire damage events. Insurance prefers restoration over replacement because it costs less. We handle all documentation and direct billing with your carrier.',
+      answer: 'Yes. Contents restoration is a standard covered expense following covered water or fire damage events. Insurance prefers restoration over replacement because it costs less. We handle all documentation and claim-support documentation for your insurer.',
     },
   ],
   relatedBlogSlugs: [
@@ -158,6 +158,6 @@ Every item is photographed, catalogued, and barcoded for tracking. For Ashburn h
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Ashburn Home?',
-    paragraph: 'Every hour of water exposure damages the electronics, documents, and personal items your family depends on. Our Ashburn contents team responds within 30 minutes to stabilize priority items and guides you through the insurance process. Call (877) 497-0007 now.',
+    paragraph: 'Every hour of water exposure damages the electronics, documents, and personal items your family depends on. Our Ashburn contents team responds as quickly as available crews can safely arrive to stabilize priority items and guides you through the insurance process. Call (877) 497-0007 now.',
   },
 }

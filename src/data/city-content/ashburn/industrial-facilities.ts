@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Ashburn is the data center capital of the world—over 70% of global internet traffic passes through facilities concentrated along the Loudoun County corridor. Beyond data centers, Ashburn supports a growing network of warehousing, logistics operations, and light manufacturing that serves the regional economy. When water damage strikes a data center cooling system near Broadlands or floods a Lansdowne warehouse, the operational and financial consequences are measured in minutes, not days. A chilled water pipe failure in a data center can cascade through server halls housing equipment worth hundreds of millions. A roof leak in a Brambleton-area distribution center damages inventory and disrupts supply chains.
 
-Flood Doctor provides industrial-grade restoration services throughout Ashburn, combining HAZWOPER-certified crews with the specialized equipment and protocols data center and industrial facilities demand. Our technicians understand controlled-access protocols, anti-static environments, and the equipment manufacturer restoration procedures required in mission-critical facilities. When water threatens your Ashburn industrial operation, we deliver the technical capability of an industrial restoration firm with the rapid local response that protects your equipment and operations.`,
+Flood Doctor provides industrial-grade restoration services throughout Ashburn, combining safety-trained crews with the specialized equipment and protocols data center and industrial facilities demand. Our technicians understand controlled-access protocols, anti-static environments, and the equipment manufacturer restoration procedures required in mission-critical facilities. When water threatens your Ashburn industrial operation, we deliver the technical capability of an industrial restoration firm with the rapid local response that protects your equipment and operations.`,
       `Industrial water damage in Ashburn creates cascading consequences across interconnected systems. A cooling tower failure at a data center near One Loudoun floods raised floors that house fiber optic connections serving hundreds of enterprise clients. A sprinkler activation at an Ashburn Farm commercial warehouse damages palletized inventory and triggers business interruption claims from multiple tenants. A water main break near a Belmont Country Club area light manufacturing facility floods production floors and contaminates raw materials.
 
 Our industrial restoration approach addresses both physical damage and operational recovery. We prioritize mission-critical equipment with immediate anti-corrosion treatment, coordinate with facility engineering teams for controlled-access areas, and provide documentation supporting business interruption claims, SLA penalty mitigation, and supply chain delay notifications. Ashburn's industrial and data center operators need restoration partners who understand that every minute of downtime carries financial consequences.`,
@@ -22,11 +22,11 @@ Our industrial restoration approach addresses both physical damage and operation
     {
       title: `Emergency Response and Facility Coordination`,
       description: `Call (877) 497-0007 for immediate industrial response. For data center and controlled-access facilities, we coordinate with your engineering and security teams before entry. Our crews arrive with industrial extraction equipment and anti-corrosion treatment materials for immediate equipment protection.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Emergency dispatch`,
     },
     {
       title: `Facility Assessment and Environmental Evaluation`,
-      description: `Our HAZWOPER-certified technicians assess damage scope while identifying electrical hazards, environmental concerns, and equipment at risk. For Ashburn data centers, we evaluate raised floor systems, cooling infrastructure, and server hall exposure. For warehouses, we assess inventory damage and structural conditions.`,
+      description: `Our safety-trained technicians assess damage scope while identifying electrical hazards, environmental concerns, and equipment at risk. For Ashburn data centers, we evaluate raised floor systems, cooling infrastructure, and server hall exposure. For warehouses, we assess inventory damage and structural conditions.`,
       timeframe: `Hours 1-3`,
     },
     {
@@ -138,12 +138,12 @@ Our industrial restoration approach addresses both physical damage and operation
       `Gloucester Parkway`,
       `Ashburn Village Boulevard`,
     ],
-    responseTime: `45-minute emergency response to all Ashburn industrial and data center facilities. Pre-arranged protocols with major data center operators enable rapid access coordination for controlled-access properties.`,
+    responseTime: `prompt emergency response to all Ashburn industrial and data center facilities. Pre-arranged protocols with major data center operators enable rapid access coordination for controlled-access properties.`,
   },
   faqs: [
     {
       question: `How quickly can you respond to an Ashburn data center water emergency?`,
-      answer: `We guarantee 45-minute response to Ashburn data center facilities. Our crews carry anti-corrosion treatment, raised floor extraction equipment, and environmental monitoring systems. We coordinate with your engineering and security teams during dispatch for immediate facility access.`,
+      answer: `We target prompt response to Ashburn data center facilities. Our crews carry anti-corrosion treatment, raised floor extraction equipment, and environmental monitoring systems. We coordinate with your engineering and security teams during dispatch for immediate facility access.`,
     },
     {
       question: `How do you handle water on data center raised floors?`,
@@ -167,7 +167,7 @@ Our industrial restoration approach addresses both physical damage and operation
     },
     {
       question: `Do you handle cooling system chemical water?`,
-      answer: `Yes. We manage cooling system water as potentially contaminated, following appropriate handling, characterization, and disposal procedures. Our HAZWOPER-certified technicians ensure environmental compliance while extracting chemically treated water from data center environments.`,
+      answer: `Yes. We manage cooling system water as potentially contaminated, following appropriate handling, characterization, and disposal procedures. Our safety-trained technicians ensure environmental compliance while extracting chemically treated water from data center environments.`,
     },
   ],
   relatedBlogSlugs: [
@@ -175,6 +175,6 @@ Our industrial restoration approach addresses both physical damage and operation
   ],
   finalCTA: {
     headline: `Data Center or Industrial Emergency in Ashburn?`,
-    paragraph: `Equipment damage and operational downtime compound by the minute. Our HAZWOPER-certified crews respond to Ashburn data center and industrial facilities within 45 minutes with industrial extraction equipment and anti-corrosion treatment. Call (877) 497-0007 now.`,
+    paragraph: `Equipment damage and operational downtime compound by the minute. Our safety-trained crews respond to Ashburn data center and industrial facilities as quickly as available crews can safely arrive with industrial extraction equipment and anti-corrosion treatment. Call (877) 497-0007 now.`,
   },
 }

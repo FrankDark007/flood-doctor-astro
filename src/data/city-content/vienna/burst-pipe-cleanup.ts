@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Burst Pipe Repair in Vienna, VA | Flood Doctor',
-    description: 'Emergency burst pipe restoration in Vienna, VA. 45-minute response for frozen pipes, corroded galvanized plumbing, and hot water heater failures. IICRC-certified. Call (877) 497-0007.',
+    description: 'Emergency burst pipe restoration in Vienna, VA. prompt response for frozen pipes, corroded galvanized plumbing, and hot water heater failures. trained. Call (877) 497-0007.',
   },
   h1: 'Burst Pipe Restoration in Vienna, Virginia',
   introSection: {
-    headline: `Expert Burst Pipe Response for Vienna's Aging Homes`,
+    headline: `Technical Burst Pipe Response for Vienna's Aging Homes`,
     paragraphs: [
-      `Vienna's 1950s-70s colonials sit on some of the most failure-prone plumbing in Northern Virginia. Original galvanized steel supply lines corrode from the inside out over 50 to 70 years, building mineral deposits that restrict flow, weaken pipe walls, and eventually rupture without warning. When a galvanized pipe fails behind a plaster wall or beneath a hardwood floor, the pressurized water release can saturate multiple rooms in minutes. Our IICRC-certified technicians respond to these emergencies 24 hours a day, 365 days a year, arriving with truck-mounted extraction equipment, commercial dehumidifiers, and thermal imaging cameras to stop damage progression before it compounds.`,
+      `Vienna's 1950s-70s colonials sit on some of the most failure-prone plumbing in Northern Virginia. Original galvanized steel supply lines corrode from the inside out over 50 to 70 years, building mineral deposits that restrict flow, weaken pipe walls, and eventually rupture without warning. When a galvanized pipe fails behind a plaster wall or beneath a hardwood floor, the pressurized water release can saturate multiple rooms in minutes. Our trained technicians respond to these emergencies 24 hours a day, 365 days a year, arriving with truck-mounted extraction equipment, commercial dehumidifiers, and thermal imaging cameras to stop damage progression before it compounds.`,
       `Winter pipe bursts add another layer of urgency. Vienna winters push temperatures below freezing often enough to catch homeowners off guard, particularly in exterior wall cavities, unheated crawl spaces, and poorly insulated attic runs. Water expands as it freezes, cracking pipes that remain sealed until temperatures rise and the ice plug melts. The result is a sudden flood in a wall cavity, ceiling, or crawl space that can go undetected for hours. Our crews know exactly where to look in Vienna colonials because we've responded to hundreds of these emergencies across every neighborhood in town.`,
-      'Hot water heater tank failures represent the third major burst pipe scenario in Vienna. Tanks holding 40 to 80 gallons of heated water corrode internally over 10 to 15 years, and when they fail, the entire volume dumps onto basement floors within minutes. Finished basements with drywall, carpet, and built-in cabinetry sustain catastrophic damage that worsens every minute extraction is delayed. We coordinate water heater replacement with licensed plumbers while our restoration team handles extraction, drying, and reconstruction simultaneously.',
+      'Hot water heater tank failures represent the third major burst pipe scenario in Vienna. Tanks holding 40 to 80 gallons of heated water corrode internally over 10 to 15 years, and when they fail, the entire volume dumps onto basement floors within minutes. Finished basements with drywall, carpet, and built-in cabinetry sustain catastrophic damage that worsens every minute extraction is delayed. We coordinate water heater replacement with qualified plumbing professionals while our restoration team handles extraction, drying, and reconstruction simultaneously.',
     ],
     localContext: `Vienna's housing stock presents a perfect storm for burst pipe emergencies. Galvanized plumbing original to the 1950s-70s construction era has exceeded its service life in thousands of homes across Vienna Town, Oakton, and Wolf Trap. Many of these homes feature original plaster walls and hardwood oak floors that require specialized drying techniques to preserve. Our local experience means we understand the construction methods, common failure points, and material preservation requirements specific to Vienna properties.`,
   },
@@ -19,7 +19,7 @@ export const content: CityServiceContent = {
     {
       title: 'Emergency Dispatch & Water Shutoff',
       description: 'Your call reaches a restoration supervisor who dispatches the nearest Vienna crew immediately. While technicians travel to your home, we walk you through locating and closing your main water shutoff valve. If the shutoff is stuck, corroded, or inaccessible, we talk you through alternative options including individual fixture shutoffs and water meter shutoff. Stopping water flow is the single most important step in limiting damage.',
-      timeframe: '0-45 minutes',
+      timeframe: 'Initial response',
     },
     {
       title: 'Damage Assessment & Thermal Imaging',
@@ -48,12 +48,12 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Plumber Coordination & Pipe Repair',
-      description: 'We coordinate directly with your plumber or provide referrals to licensed Vienna-area plumbers experienced with galvanized pipe replacement, copper and PEX repiping, and water heater installation. Our drying schedule accommodates plumbing access requirements, and we resume wall closure and finishing only after pipe repairs pass inspection. For homes with galvanized plumbing, we recommend evaluation of the full system since isolated failures often indicate system-wide deterioration.',
+      description: 'We coordinate directly with your plumber or provide referrals to qualified Vienna-area plumbers experienced with galvanized pipe replacement, copper and PEX repiping, and water heater installation. Our drying schedule accommodates plumbing access requirements, and we resume wall closure and finishing only after pipe repairs pass inspection. For homes with galvanized plumbing, we recommend evaluation of the full system since isolated failures often indicate system-wide deterioration.',
       timeframe: 'Days 2-5 (varies by plumber availability)',
     },
     {
       title: 'Reconstruction & Final Restoration',
-      description: `Our construction crews restore every damaged surface to pre-loss condition. Plaster walls receive traditional repair with matching texture and paint. Hardwood floors are refinished or replaced with species-matched boards. Drywall, trim, cabinetry, and fixtures are rebuilt to match your home's existing finishes. Final walkthrough with moisture verification confirms every affected area is dry, restored, and ready for occupancy.`,
+      description: `Our construction crews restore every damaged surface to documented prior condition. Plaster walls receive traditional repair with matching texture and paint. Hardwood floors are refinished or replaced with species-matched boards. Drywall, trim, cabinetry, and fixtures are rebuilt to match your home's existing finishes. Final walkthrough with moisture verification confirms every affected area is dry, restored, and ready for occupancy.`,
       timeframe: '1-3 weeks (depending on scope)',
     },
   ],
@@ -61,7 +61,7 @@ export const content: CityServiceContent = {
     {
       title: 'Corroded Galvanized Plumbing in 1950s-70s Colonials',
       description: `Vienna's original galvanized steel supply lines have been in service for 50 to 70 years, well beyond their expected lifespan. Internal corrosion builds mineral deposits that narrow pipe diameter, increase pressure at weak points, and eventually perforate pipe walls. Pinhole leaks behind walls can run for days before detection, while catastrophic failures release pressurized water at 40 to 80 PSI, flooding multiple rooms within minutes. Homes in Vienna Town, Clarks Crossing, and Tysons Woods with original plumbing face the highest failure risk.`,
-      solution: 'We respond within 45 minutes with thermal imaging to trace water migration through wall cavities and floor systems. Extraction begins immediately while we coordinate with plumbers for pipe isolation and replacement. For homes with galvanized plumbing, we document full system condition and recommend whole-house repiping evaluation to prevent sequential failures.',
+      solution: 'We respond as quickly as available crews can safely arrive with thermal imaging to trace water migration through wall cavities and floor systems. Extraction begins immediately while we coordinate with plumbers for pipe isolation and replacement. For homes with galvanized plumbing, we document full system condition and recommend whole-house repiping evaluation to prevent sequential failures.',
     },
     {
       title: 'Frozen Pipe Failures During Vienna Winters',
@@ -71,7 +71,7 @@ export const content: CityServiceContent = {
     {
       title: 'Hot Water Heater Tank Failures',
       description: 'Water heaters in Vienna basements and utility closets hold 40 to 80 gallons of heated water. Tanks corrode internally from sediment accumulation and anode rod depletion, eventually rusting through and releasing their full volume onto floors. Finished basements suffer immediate drywall saturation, carpet destruction, and damage to stored belongings. Gas water heaters that tip during failure can also create gas leak hazards requiring utility coordination.',
-      solution: 'We deploy basement-specific extraction equipment including submersible pumps for standing water and truck-mounted units for saturated materials. Finished basement materials including drywall, carpet pad, and base trim are removed to the flood line within hours of arrival. Structural cavities receive forced-air drying, and we coordinate water heater replacement with licensed plumbers while restoration continues in parallel.',
+      solution: 'We deploy basement-specific extraction equipment including submersible pumps for standing water and truck-mounted units for saturated materials. Finished basement materials including drywall, carpet pad, and base trim are removed to the flood line within hours of arrival. Structural cavities receive forced-air drying, and we coordinate water heater replacement with qualified plumbing professionals while restoration continues in parallel.',
     },
     {
       title: 'Supply Line Connection Failures in Aging Homes',
@@ -81,7 +81,7 @@ export const content: CityServiceContent = {
     {
       title: 'Multi-Story Water Migration in Colonial Floor Plans',
       description: `Vienna's two and three-story colonials amplify burst pipe damage through gravity-driven water migration. A second-floor bathroom supply line failure sends water through floor penetrations at plumbing stacks, HVAC chases, and electrical runs, saturating first-floor ceilings, walls, and floors. Water pools on top of ceiling drywall until the weight causes collapse, dumping accumulated water and debris onto furnishings below.`,
-      solution: 'Our multi-story protocol addresses every affected level simultaneously. We extract water from upper floors to stop continued migration, relieve ceiling cavities to prevent uncontrolled collapse, and deploy drying equipment on all affected floors concurrently. Thermal imaging traces water paths through concealed vertical chases, ensuring no hidden moisture pockets are left to develop mold in wall and floor cavities between stories.',
+      solution: 'Our multi-story protocol addresses every affected level simultaneously. We extract water from upper floors to stop continued migration, relieve ceiling cavities to prevent uncontrolled collapse, and deploy drying equipment on all affected floors concurrently. Thermal imaging traces water paths through concealed vertical chases, ensuring clear moisture pockets are left to develop mold in wall and floor cavities between stories.',
     },
     {
       title: 'Plaster Wall and Hardwood Floor Preservation',
@@ -151,7 +151,7 @@ export const content: CityServiceContent = {
   },
   serviceAreaSection: {
     neighborhoods: ['Vienna Town', 'Oakton', 'Dunn Loring', 'Wolf Trap', 'Clarks Crossing', 'Tysons Woods'],
-    responseTime: 'Average 45-minute response time to all Vienna addresses, 24 hours a day, 7 days a week, 365 days a year. Our closest crews are stationed within 15 minutes of central Vienna, and we maintain backup teams throughout Northern Virginia ensuring rapid dispatch even during peak winter freeze events when call volume spikes.',
+    responseTime: 'Average prompt response time to all Vienna addresses, 24 hours a day, 7 days a week, 365 days a year. Our closest crews are available within 15 minutes of central Vienna, and we maintain backup teams throughout Northern Virginia ensuring rapid dispatch even during peak winter freeze events when call volume spikes.',
   },
   faqs: [
     {
@@ -164,7 +164,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Will the restoration damage my plaster walls?',
-      answer: `Preserving plaster walls is a core priority on every Vienna burst pipe job. We use low-velocity airflow and gradual humidity reduction over 5 to 7 days rather than directing high-speed air movers at wet plaster, which causes rapid shrinkage cracking. Our Injectidry wall drying systems force dry air into wall cavities through small ports without removing plaster, lath, or trim. When plaster does require repair due to direct water saturation, our crews perform traditional plaster restoration with matching texture. The result preserves your home's original character while ensuring complete drying behind the surface.`,
+      answer: `Preserving plaster walls is a core priority on every Vienna burst pipe job. We use low-velocity airflow and gradual humidity reduction over 5 to 7 days rather than directing high-speed air movers at wet plaster, which causes rapid shrinkage cracking. Our Injectidry wall drying systems force dry air into wall cavities through small ports without removing plaster, lath, or trim. When plaster does require repair due to direct water saturation, our crews perform traditional plaster restoration with matching texture. The result preserves your home's original character while ensuring target dry standards behind the surface.`,
     },
     {
       question: 'Does homeowners insurance cover burst pipe damage?',
@@ -176,11 +176,11 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How long does burst pipe restoration take from start to finish?',
-      answer: 'Timeline depends on damage scope. A single-room pipe burst with limited material damage typically takes 5 to 7 days: 1 day for extraction, 3 to 5 days for structural drying, and 1 to 2 days for reconstruction. Multi-room or multi-story events involving plaster wall repair, hardwood floor restoration, and extensive reconstruction can take 2 to 4 weeks. Hot water heater failures flooding finished basements typically require 2 to 3 weeks for complete restoration. We provide a specific timeline estimate after initial assessment and update you as work progresses.',
+      answer: 'Timeline depends on damage scope. A single-room pipe burst with limited material damage typically takes 5 to 7 days: 1 day for extraction, 3 to 5 days for structural drying, and 1 to 2 days for reconstruction. Multi-room or multi-story events involving plaster wall repair, hardwood floor restoration, and extensive reconstruction can take 2 to 4 weeks. Hot water heater failures flooding finished basements typically require 2 to 3 weeks for restoration. We provide a specific timeline estimate after initial assessment and update you as work progresses.',
     },
     {
       question: 'Do you coordinate with plumbers, or do I need to hire one separately?',
-      answer: 'We coordinate directly with plumbers throughout the restoration process. If you have a preferred plumber, we schedule around their availability and ensure they have access to the failed pipe section. If you need a referral, we recommend licensed Vienna-area plumbers experienced with galvanized pipe replacement, copper and PEX repiping, and water heater installation. We do not begin wall closure or finishing until pipe repairs are complete and inspected. For homes with original galvanized plumbing, we recommend a full system evaluation since one failure typically indicates system-wide deterioration.',
+      answer: 'We coordinate directly with plumbers throughout the restoration process. If you have a preferred plumber, we schedule around their availability and ensure they have access to the failed pipe section. If you need a referral, we recommend qualified Vienna-area plumbers experienced with galvanized pipe replacement, copper and PEX repiping, and water heater installation. We do not begin wall closure or finishing until pipe repairs are complete and inspected. For homes with original galvanized plumbing, we recommend a full system evaluation since one failure typically indicates system-wide deterioration.',
     },
     {
       question: 'What can I do to prevent future burst pipe emergencies?',
@@ -198,6 +198,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Burst Pipe Flooding Your Vienna Home Right Now?',
-    paragraph: 'Every minute of standing water increases damage to your hardwood floors, plaster walls, and structural framing. Our IICRC-certified crews arrive within 45 minutes with truck-mounted extraction, commercial drying equipment, and thermal imaging to stop damage progression and begin professional restoration immediately. We work directly with your insurance company and handle every phase from emergency water removal through final reconstruction.',
+    paragraph: 'Every minute of standing water increases damage to your hardwood floors, plaster walls, and structural framing. Our trained crews arrive as quickly as available crews can safely arrive with truck-mounted extraction, commercial drying equipment, and thermal imaging to stop damage progression and begin professional restoration immediately. We work directly with your insurance company and handle every phase from emergency water removal through final reconstruction.',
   },
 }

@@ -73,7 +73,7 @@ export const content: CityServiceContent = {
     equipment: [
       {
         name: 'Low-Profile Submersible Pumps',
-        purpose: 'Extract standing water from tight crawl spaces, including areas with limited clearance common in older McLean estates',
+        purpose: 'Extract standing water from tight crawl spaces, including areas with limited verification common in older McLean estates',
       },
       {
         name: '20-Mil Reinforced Vapor Barrier',
@@ -135,12 +135,12 @@ export const content: CityServiceContent = {
       'Kirby Estates',
       'Spring Hill',
     ],
-    responseTime: 'Same-day consultations available for McLean estate properties. Emergency crawl space flooding response within 60 minutes to all McLean neighborhoods from Langley to Chesterbrook.',
+    responseTime: 'Same-day consultations available for McLean estate properties. Emergency crawl space flooding response as quickly as available crews can safely arrive to all McLean neighborhoods from Langley to Chesterbrook.',
   },
   faqs: [
     {
       question: 'How large of a crawl space can you encapsulate?',
-      answer: `We routinely encapsulate crawl spaces exceeding 5,000 square feet in McLean estate homes. Our crews are experienced with multi-section foundations, varying clearance heights, and the complex layouts typical of properties along Georgetown Pike and throughout Langley. No residential crawl space is too large for our team.`,
+      answer: `We routinely encapsulate crawl spaces exceeding 5,000 square feet in McLean estate homes. Our crews are experienced with multi-section foundations, varying verification heights, and the complex layouts typical of properties along Georgetown Pike and throughout Langley. No residential crawl space is too large for our team.`,
     },
     {
       question: 'Will crawl space work disturb our landscaping or property?',

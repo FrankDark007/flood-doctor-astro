@@ -3,25 +3,25 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Vienna, VA | Flood Doctor',
-    description: `Vienna's contents restoration experts. Professional pack-out, cleaning & storage for water, fire & mold-damaged belongings. Vienna Town, Oakton, Wolf Trap. Call (877) 497-0007.`,
+    description: `Vienna's contents restoration specialists. Professional pack-out, cleaning & storage for water, fire & mold-damaged belongings. Vienna Town, Oakton, Wolf Trap. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Vienna, Virginia',
   introSection: {
     headline: 'Restoring Your Vienna Home Belongings with Care',
     paragraphs: [
-      `Vienna homes are filled with the accumulations of well-established family life — the antique sideboard found at a Church Street shop, framed photographs from Wolf Trap summer evenings, children's artwork displayed on every wall, and the home office that keeps the household running. When water from a burst supply line, a failed hot water heater, or a sump pump overwhelm damages these belongings, the loss feels personal in a way that structural damage does not. A soaked family photo album cannot be reordered from Amazon. A water-damaged grandmother's quilt has no replacement.
+      `Vienna homes are filled with the accumulations of well-established family life — the antique sideboard found at a Church Street shop, framed photographs from Wolf Trap summer evenings, children's artwork displayed on every wall, and the home workplace that keeps the household running. When water from a burst supply line, a failed hot water heater, or a sump pump overwhelm damages these belongings, the loss feels personal in a way that structural damage does not. A soaked family photo album cannot be reordered from Amazon. A water-damaged grandmother's quilt has no replacement.
 
 Flood Doctor's contents team has restored personal property from Vienna homes throughout the community — freeze-drying water-saturated photo collections from Vienna Town basements flooded during summer storms, ultrasonically cleaning smoke-damaged crystal from Oakton dining rooms after kitchen fires, and carefully packing out Wolftrap-area homes while crews dried the structures below. We treat every item with the understanding that its value to your family extends far beyond what an insurance adjuster can calculate.`,
       `The contents restoration process begins within hours of your call, with immediate triage of time-sensitive items. Documents and photographs exposed to water must be frozen within 48 hours to prevent permanent bonding — once pages stick together or photographic emulsion transfers to adjacent surfaces, recovery becomes impossible. Electronics develop corrosion that worsens hourly. Wet fabric items grow mold within days if not treated. Our emergency team stabilizes these priority items while the full pack-out is organized room by room.
 
 Every belonging is photographed, described with condition notes, and barcoded for tracking through our climate-controlled restoration facility. Vienna homeowners filing insurance claims receive the detailed inventory documentation that adjusters require — item-by-item photography, condition descriptions, and restoration outcome records. You monitor every item through our online portal, checking treatment status from your phone while daily life continues around the restoration project.`,
     ],
-    localContext: `Vienna's established community homes contain decades of accumulated family belongings — from antiques and heirlooms to daily essentials — that require contents restoration combining technical expertise with genuine care for the irreplaceable.`,
+    localContext: `Vienna's established community homes contain decades of accumulated family belongings — from antiques and heirlooms to daily essentials — that require contents restoration combining technical experience with genuine care for the irreplaceable.`,
   },
   processSteps: [
     {
       title: 'Emergency Priority Triage',
-      description: `Within 30 minutes of your call to (877) 497-0007, we arrive to identify and stabilize time-sensitive items. Water-damaged photos and documents from your Vienna Town basement are bagged for immediate freezing. Electronics from the Oakton home office are disconnected for corrosion prevention. Sentimental items receive priority handling.`,
+      description: `Emergency dispatch of your call to (877) 497-0007, we arrive to identify and stabilize time-sensitive items. Water-damaged photos and documents from your Vienna Town basement are bagged for immediate freezing. Electronics from the Oakton home workplace are disconnected for corrosion prevention. Sentimental items receive priority handling.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -52,9 +52,9 @@ Every belonging is photographed, described with condition notes, and barcoded fo
       solution: 'We stabilize water-damaged antique furniture through controlled drying with clamped joints and weighted veneers. Coordination with furniture restoration specialists ensures period-appropriate repair. Detailed documentation captures each piece condition for insurance purposes while preservation remains the priority.',
     },
     {
-      title: 'Home Office & Work Equipment',
-      description: 'Vienna professionals working from home depend on computers, monitors, networking equipment, and organized files. Water damage to a home office in a Clarks Crossing colonial or Oakton luxury home creates both immediate financial loss and inability to maintain livelihood during restoration.',
-      solution: 'Home office electronics receive top-priority triage — documented, disconnected, and transported for corrosion treatment within hours. Essential work equipment can be fast-tracked for early return. Files and documents are frozen for preservation. We help ensure your work life continues during the restoration process.',
+      title: 'Home Workplace & Work Equipment',
+      description: 'Vienna professionals working from home depend on computers, monitors, networking equipment, and organized files. Water damage to a home workplace in a Clarks Crossing colonial or Oakton luxury home creates both immediate financial loss and inability to maintain livelihood during restoration.',
+      solution: 'Home workplace electronics receive top-priority triage — documented, disconnected, and transported for corrosion treatment within hours. Essential work equipment can be fast-tracked for early return. Files and documents are frozen for preservation. We help ensure your work life continues during the restoration process.',
     },
     {
       title: 'Basement-Stored Family Archives',
@@ -124,7 +124,7 @@ Every belonging is photographed, described with condition notes, and barcoded fo
       'Vienna Woods',
       'Cedar Lane',
     ],
-    responseTime: '30-minute emergency response for priority item stabilization throughout Vienna, Oakton, and the Wolf Trap area. Full pack-out scheduling coordinates with your structural restoration timeline.',
+    responseTime: 'rapid emergency response for priority item stabilization throughout Vienna, Oakton, and the Wolf Trap area. Full pack-out scheduling coordinates with your structural restoration timeline.',
   },
   faqs: [
     {
@@ -137,7 +137,7 @@ Every belonging is photographed, described with condition notes, and barcoded fo
     },
     {
       question: 'Can you prioritize returning my work equipment?',
-      answer: 'Absolutely. Home office electronics — computers, monitors, printers — receive top-priority triage and fast-tracked treatment. We can return essential work equipment within days while the rest of your belongings complete full restoration at our facility.',
+      answer: 'Absolutely. Home workplace electronics — computers, monitors, printers — receive top-priority triage and fast-tracked treatment. We can return essential work equipment within days while the rest of your belongings finish restoration at our facility.',
     },
     {
       question: 'How long does contents restoration take?',
@@ -145,7 +145,7 @@ Every belonging is photographed, described with condition notes, and barcoded fo
     },
     {
       question: 'Does insurance cover pack-out and contents cleaning?',
-      answer: 'Yes. Contents restoration is a standard covered expense under most homeowner policies following covered loss events. Professional restoration saves insurers 40-60% compared to full replacement. We handle all documentation and direct billing with your carrier.',
+      answer: 'Yes. Contents restoration is a standard covered expense under most homeowner policies following covered loss events. Professional restoration saves insurers 40-60% compared to full replacement. We handle all documentation and claim-support documentation for your insurer.',
     },
     {
       question: 'Can I track my belongings during the process?',
@@ -162,6 +162,6 @@ Every belonging is photographed, described with condition notes, and barcoded fo
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Vienna Home?',
-    paragraph: 'Photographs bond, documents deteriorate, and electronics corrode with every passing hour. Our Vienna contents team responds within 30 minutes to stabilize the items your family cannot replace. Call (877) 497-0007 for immediate professional pack-out service.',
+    paragraph: 'Photographs bond, documents deteriorate, and electronics corrode with every passing hour. Our Vienna contents team responds as quickly as available crews can safely arrive to stabilize the items your family cannot replace. Call (877) 497-0007 for immediate professional pack-out service.',
   },
 }

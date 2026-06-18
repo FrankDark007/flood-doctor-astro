@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Ashburn, VA | Save Your Floors | Flood Doctor',
-    description: `Ashburn hardwood floor drying experts. Saving floors in Broadlands, Brambleton & One Loudoun. New construction & warranty claim specialists. Call (877) 497-0007.`,
+    description: `Ashburn hardwood floor drying specialists. Saving floors in Broadlands, Brambleton & One Loudoun. New construction & warranty claim specialists. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Ashburn, Virginia',
   introSection: {
     headline: 'Saving Ashburn New Construction Hardwood from Water Damage',
     paragraphs: [
       `Ashburn homes feature the hardwood flooring that modern homebuyers expect—engineered oak throughout Broadlands open floor plans, premium hickory across Brambleton great rooms, and designer selections in One Loudoun luxury residences. These floors were often a significant upgrade choice during home purchase, and their replacement involves matching specific production runs, stain colors, and plank widths that may no longer be available. When a builder-grade supply line fails in your Lansdowne kitchen, an HVAC condensate leak saturates the subflooring beneath your Belmont Country Club hardwood, or a sump pump failure sends water across your Ashburn Farm finished basement floor, saving the existing hardwood avoids both the cost and the matching nightmare of replacement.`,
-      `New construction in Ashburn creates hardwood damage patterns distinct from older Northern Virginia homes. Engineered flooring installed as floating systems over concrete slabs responds differently to water than nailed solid hardwood over plywood. Builder-grade appliance connections fail prematurely, and the open floor plans that define Ashburn homes allow water to spread across 1,000+ square feet before a wall or step stops it. HVAC condensate that should drain harmlessly instead pools beneath hardwood for weeks, discovered only when cupping appears at the surface. Flood Doctor brings new construction expertise to Ashburn hardwood emergencies—understanding engineered flooring protocols, documenting builder defects for warranty claims, and coordinating with HOAs throughout Broadlands, Brambleton, and Ashburn Village to deliver complete floor restoration.`,
+      `New construction in Ashburn creates hardwood damage patterns distinct from older Northern Virginia homes. Engineered flooring installed as floating systems over concrete slabs responds differently to water than nailed solid hardwood over plywood. Builder-grade appliance connections fail prematurely, and the open floor plans that define Ashburn homes allow water to spread across 1,000+ square feet before a wall or step stops it. HVAC condensate that should drain harmlessly instead pools beneath hardwood for weeks, discovered only when cupping appears at the surface. Flood Doctor brings new construction experience to Ashburn hardwood emergencies—understanding engineered flooring protocols, documenting builder defects for warranty claims, and coordinating with HOAs throughout Broadlands, Brambleton, and Ashburn Village to deliver complete floor restoration.`,
     ],
     localContext: `Ashburn's new construction hardwood—predominantly engineered flooring in open floor plans over concrete and plywood subfloors—requires drying protocols matched to modern materials, builder warranty awareness, and HOA coordination.`,
   },
   processSteps: [
     {
       title: 'Rapid Ashburn Response',
-      description: `Call (877) 497-0007 and our Loudoun County crews reach your Ashburn home within 30 minutes. We identify the flooring type—engineered or solid, species, installation method—because each requires different drying parameters. Moisture readings map the full extent of water migration across your open floor plan.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Loudoun County crews reach your Ashburn home as quickly as available crews can safely arrive. We identify the flooring type—engineered or solid, species, installation method—because each requires different drying parameters. Moisture readings map the full extent of water migration across your open floor plan.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Open Floor Plan Extraction',
@@ -50,7 +50,7 @@ export const content: CityServiceContent = {
     {
       title: 'Builder-Grade Supply Line Failures',
       description: `Builder-installed supply lines to refrigerators, dishwashers, and washing machines in Ashburn homes use materials that fail earlier than quality replacements. A burst rubber supply hose releases water at full pressure—potentially hundreds of gallons across open floor plans before anyone reaches the shutoff valve.`,
-      solution: 'Our 30-minute response limits absorption time. Rapid extraction followed by mat drying gives the best salvage results for these high-volume events. We document the failed supply line for warranty claims and recommend braided stainless steel upgrades during restoration.',
+      solution: 'Our rapid emergency response limits absorption time. Rapid extraction followed by mat drying gives the best salvage results for these high-volume events. We document the failed supply line for warranty claims and recommend braided stainless steel upgrades during restoration.',
     },
     {
       title: 'Engineered Flooring Delamination Risk',
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Cameron Chase',
       'University Center',
     ],
-    responseTime: '30-minute emergency response to all Ashburn neighborhoods. Our Loudoun County crews are positioned along the Greenway corridor for immediate deployment to Broadlands, Brambleton, One Loudoun, and beyond.',
+    responseTime: 'rapid emergency response to all Ashburn neighborhoods. Our Loudoun County crews serve the Greenway corridor for immediate deployment to Broadlands, Brambleton, One Loudoun, and beyond.',
   },
   faqs: [
     {
@@ -156,7 +156,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Will our HOA need to be notified about restoration work?',
-      answer: 'Interior floor drying does not typically require HOA notification. If equipment staging or contractor parking affects common areas, we handle communication with your Broadlands, Brambleton, or community management proactively.',
+      answer: 'Interior floor drying does not typically require HOA notification. If equipment dispatch planning or contractor parking affects common areas, we handle communication with your Broadlands, Brambleton, or community management proactively.',
     },
   ],
   relatedBlogSlugs: [

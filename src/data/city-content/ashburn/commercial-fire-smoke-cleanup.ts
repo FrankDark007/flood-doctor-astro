@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's trusted commercial fire and smoke restoration specialists. Emergency response for data center facilities, retail centers, and new construction commercial properties. Call (877) 497-0007.`,
+    description: `Ashburn's local commercial fire and smoke restoration specialists. Emergency response for data center facilities, retail centers, and new construction commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Ashburn, Virginia`,
   introSection: {
     headline: `Modern Building Fire Restoration for Ashburn Commercial Properties`,
     paragraphs: [
-      `Commercial fire damage in Ashburn threatens the rapidly developed business infrastructure that powers Loudoun County's economy. A fire at a One Loudoun mixed-use development pushes smoke through centralized HVAC to contaminate retail and office spaces on multiple floors. An electrical fire at a Broadlands data center support facility damages equipment worth millions while smoke infiltrates precision-controlled environments. A kitchen fire at a Brambleton restaurant triggers sprinkler activation that floods adjacent retail spaces in the shopping center. Ashburn's newer commercial buildings feature modern HVAC systems, sealed building envelopes, and open floor plans that change how smoke travels and how restoration must be approached. Flood Doctor provides integrated commercial fire restoration engineered for Ashburn's contemporary building stock.`,
+      `Commercial fire damage in Ashburn threatens the rapidly developed business infrastructure that powers Loudoun County's economy. A fire at a One Loudoun mixed-use development pushes smoke through centralized HVAC to contaminate retail and commercial spaces on multiple floors. An electrical fire at a Broadlands data center support facility damages equipment worth millions while smoke infiltrates precision-controlled environments. A kitchen fire at a Brambleton restaurant triggers sprinkler activation that floods adjacent retail spaces in the shopping center. Ashburn's newer commercial buildings feature modern HVAC systems, sealed building envelopes, and open floor plans that change how smoke travels and how restoration must be approached. Flood Doctor provides integrated commercial fire restoration engineered for Ashburn's contemporary building stock.`,
       `Smoke behavior in Ashburn's modern commercial buildings differs from older construction. Centralized HVAC systems in large commercial buildings distribute smoke rapidly to every connected floor and tenant space. Sealed building envelopes trap smoke particulate that older, leakier buildings would partially ventilate naturally. Open floor plans allow smoke migration across expansive areas without the compartmentalization that limits damage in traditionally-built structures. Modern building materials—engineered substrates, spray foam insulation, synthetic finishes—interact differently with smoke chemistry than traditional materials. Our teams understand these modern building dynamics and deploy restoration approaches specifically adapted for Ashburn's contemporary commercial construction.`,
     ],
     localContext: `Ashburn's modern commercial construction—with centralized HVAC, sealed envelopes, open floor plans, and contemporary building materials—creates fire and smoke damage patterns requiring restoration approaches adapted for contemporary building science.`,
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Technology Equipment and Content Restoration`,
-      description: `Data center equipment receives immediate anti-corrosion treatment. Commercial inventory, office equipment, and tenant contents are catalogued and transported for professional restoration. Modern electronics and IT infrastructure receive priority attention.`,
+      description: `Data center equipment receives immediate anti-corrosion treatment. Commercial inventory, business equipment, and tenant contents are catalogued and transported for professional restoration. Modern electronics and IT infrastructure receive priority attention.`,
       timeframe: `Days 2-12`,
     },
     {
@@ -42,7 +42,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Reconstruction`,
-      description: `Our construction team rebuilds matching modern Ashburn commercial standards—contemporary finishes, current building codes, and HOA requirements for community-governed properties. We manage permitting and certificate of occupancy for phased tenant re-occupancy.`,
+      description: `Our construction team rebuilds matching modern Ashburn commercial standards—contemporary finishes, current building codes, and HOA requirements for community-governed properties. We manage permitting and occupancy approval for phased tenant re-occupancy.`,
       timeframe: `Weeks 2-10`,
     },
   ],
@@ -64,7 +64,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Mixed-Use Development Coordination`,
-      description: `One Loudoun and other Ashburn mixed-use properties combine retail, office, and sometimes residential occupancies. Fire events trigger different requirements for each occupancy type while shared building systems must be restored collectively.`,
+      description: `One Loudoun and other Ashburn mixed-use properties combine retail, workplace, and sometimes residential occupancies. Fire events trigger different requirements for each occupancy type while shared building systems must be restored collectively.`,
       solution: `Our project management coordinates across occupancy types, providing tailored documentation and scheduling for each. Building-wide HVAC and structural systems are managed under unified project oversight while occupancy-specific needs receive individual attention.`,
     },
   ],
@@ -139,7 +139,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How do you deodorize sealed modern buildings?`,
-      answer: `Sealed envelopes require extended treatment cycles with enhanced penetration techniques. We use pressurized thermal fogging to reach enclosed cavities, hydroxyl generators for continuous treatment, and air quality testing to verify complete odor elimination before clearance.`,
+      answer: `Sealed envelopes require extended treatment cycles with enhanced penetration techniques. We use pressurized thermal fogging to reach enclosed cavities, hydroxyl generators for continuous treatment, and air quality testing to verify complete odor elimination before verification.`,
     },
     {
       question: `Can you restore data center and technology equipment?`,

@@ -14,20 +14,20 @@ export const content: CityServiceContent = {
 When sewage erupts through your basement floor drain at 6 AM — not during a storm, but because forty neighbors started their morning showers simultaneously — we already know why. We arrive with extraction equipment, biohazard protocols, and forensic documentation tools that transform your emergency into an evidence-backed warranty claim.`,
       `Ashburn's failures are engineered into the homes — built during the 2004-2022 boom when Loudoun County issued permits faster than inspectors could verify compliance. Belmont Country Club homes with vent stacks dead-ending into attic insulation. Ashburn Farm laterals with improperly cured connections. Stone Ridge grinder pumps missing alarm wiring. Moorefield Green townhomes sharing waste stacks between units. Willowsford estates where house-to-main distance exceeds maximum run for the installed pipe diameter.
 
-Our IICRC-certified technicians treat every call as both a contamination emergency and a construction investigation. We know which builders cut corners in which communities, which HOAs maintain their mains, and which neighborhoods use grinder pumps versus gravity sewers — arriving knowing what probably failed before we open the cleanout cap.`,
+Our trained technicians treat every call as both a contamination emergency and a construction investigation. We know which builders cut corners in which communities, which HOAs maintain their mains, and which neighborhoods use grinder pumps versus gravity sewers — arriving knowing what probably failed before we open the cleanout cap.`,
     ],
     localContext: `Construction-era defect patterns and infrastructure capacity mismatch define Ashburn's sewage risk profile. Systems designed for planned density cannot handle the actual density built, and individual plumbing installations reflect the speed-over-quality priorities of the housing boom.`,
   },
   processSteps: [
     {
       title: 'Route 28 Corridor Rapid Deployment',
-      description: 'Our biohazard crews stage along the Route 28 corridor bisecting Ashburn from Broadlands to Stone Ridge, delivering sub-30-minute arrival to any neighborhood. When you call (877) 497-0007, dispatch routes the nearest crew carrying full Category 3 equipment: PPE, truck-mounted extraction, antimicrobial agents, and forensic documentation tools.',
-      timeframe: 'Within 30 minutes',
+      description: 'Our biohazard crews serve the Route 28 corridor bisecting Ashburn from Broadlands to Stone Ridge, delivering prompt service-area arrival to any neighborhood. When you call (877) 497-0007, dispatch routes the nearest crew carrying full Category 3 equipment: PPE, truck-mounted extraction, antimicrobial agents, and forensic documentation tools.',
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Construction Defect Investigation During Assessment',
       description: `While assessing contamination, technicians simultaneously document plumbing deficiencies — measuring lateral slope, photographing vent stack configurations, testing backwater valve orientation, and recording joint quality. This dual-purpose assessment eliminates separate plumbing inspections. Evidence gathered in the first hour often determines whether costs come from your pocket, your insurance, or your builder's warranty reserve.`,
-      timeframe: 'First 60 minutes',
+      timeframe: 'Initial stabilization',
     },
     {
       title: 'HOA vs. Homeowner Source Determination',
@@ -146,7 +146,7 @@ Our IICRC-certified technicians treat every call as both a contamination emergen
       'Farmwell Station',
       'Ryan Park',
     ],
-    responseTime: 'Sub-30-minute response from crews staged along the Route 28 corridor. Every Ashburn community from Broadlands to Stone Ridge falls within our rapid deployment radius. Technicians carry community-specific knowledge: which neighborhoods use grinder pumps versus gravity sewers, which HOAs respond quickly, and which builders have active warranty programs.',
+    responseTime: 'Sub-rapid emergency response from crews prepared for the Route 28 corridor. Every Ashburn community from Broadlands to Stone Ridge falls within our rapid deployment radius. Technicians carry community-specific knowledge: which neighborhoods use grinder pumps versus gravity sewers, which HOAs respond quickly, and which builders have active warranty programs.',
   },
   faqs: [
     {
@@ -181,6 +181,6 @@ Our IICRC-certified technicians treat every call as both a contamination emergen
   relatedBlogSlugs: ['first-24-hours-after-water-damage', 'water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: 'Sewage Backup Emergency in Ashburn?',
-    paragraph: `Ashburn's construction-era plumbing defects do not fix themselves, and sewage contamination spreads every minute it sits in your home. Our biohazard crews respond within 30 minutes carrying both the extraction equipment to eliminate contamination and the forensic documentation tools to build your builder warranty or HOA liability case. One call addresses the emergency and protects your financial recovery.`,
+    paragraph: `Ashburn's construction-era plumbing defects do not fix themselves, and sewage contamination spreads every minute it sits in your home. Our biohazard crews respond as quickly as available crews can safely arrive carrying both the extraction equipment to eliminate contamination and the forensic documentation tools to build your builder warranty or HOA liability case. One call addresses the emergency and protects your financial recovery.`,
   },
 }

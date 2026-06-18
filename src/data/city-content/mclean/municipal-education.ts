@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in McLean, VA | Flood Doctor`,
-    description: `McLean's trusted restoration for schools and public buildings. FCPS-experienced crews serving Langley HS, McLean HS, and community facilities. Call (877) 497-0007.`,
+    description: `McLean's local restoration for schools and public buildings. FCPS-experienced crews serving Langley HS, McLean HS, and community facilities. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in McLean, Virginia`,
   introSection: {
@@ -26,7 +26,7 @@ Beyond regulatory compliance, McLean school restorations must satisfy a communit
     },
     {
       title: `Hazardous Materials Assessment`,
-      description: `Before any demolition or material disturbance in McLean's older schools, our certified inspectors assess for asbestos, lead paint, and other regulated materials. This pre-restoration assessment prevents regulatory violations and protects student and staff health throughout the project.`,
+      description: `Before any demolition or material disturbance in McLean's older schools, our trained inspectors assess for asbestos, lead paint, and other regulated materials. This pre-restoration assessment prevents regulatory violations and protects student and staff health throughout the project.`,
       timeframe: `Hours 2-6`,
     },
     {
@@ -36,7 +36,7 @@ Beyond regulatory compliance, McLean school restorations must satisfy a communit
     },
     {
       title: `Structural Drying with Air Quality Monitoring`,
-      description: `Drying equipment is positioned to restore classrooms, media centers, and common areas on an accelerated schedule. Continuous air quality monitoring ensures the environment remains safe, with results documented for health department and administrative review.`,
+      description: `Drying equipment is placed to restore classrooms, media centers, and common areas on an accelerated schedule. Continuous air quality monitoring ensures the environment remains safe, with results documented for health department and administrative review.`,
       timeframe: `Days 1-5`,
     },
     {
@@ -54,7 +54,7 @@ Beyond regulatory compliance, McLean school restorations must satisfy a communit
     {
       title: `Aging School Infrastructure`,
       description: `Several McLean schools date to the 1960s-1970s building era. Water damage restoration in these facilities requires asbestos and lead paint management under EPA AHERA and RRP regulations, adding complexity and cost to projects that must still meet tight academic deadlines.`,
-      solution: `Our certified hazardous materials inspectors assess regulated materials before restoration begins. When abatement is required, we coordinate with licensed contractors and maintain full compliance documentation for FCPS and state regulatory agencies.`,
+      solution: `Our trained hazardous materials inspectors assess regulated materials before restoration begins. When abatement is required, we coordinate with qualified contractors and maintain full compliance documentation for FCPS and state regulatory agencies.`,
     },
     {
       title: `Academic Calendar Pressure`,
@@ -143,11 +143,11 @@ Beyond regulatory compliance, McLean school restorations must satisfy a communit
     },
     {
       question: `How do you handle asbestos in older McLean school buildings?`,
-      answer: `Our certified inspectors assess for asbestos-containing materials before any demolition begins. When ACMs are identified, we coordinate with licensed abatement contractors under full EPA AHERA compliance. All documentation is maintained in the school AHERA management plan as required.`,
+      answer: `Our trained inspectors assess for asbestos-containing materials before any demolition begins. When ACMs are identified, we coordinate with qualified abatement contractors under full EPA AHERA compliance. All documentation is maintained in the school AHERA management plan as required.`,
     },
     {
       question: `Do you understand FCPS procurement requirements?`,
-      answer: `Yes. We provide documentation supporting both emergency procurement declarations and standard competitive bidding processes. Our estimates include the detail FCPS requires for budget approval, and we maintain prevailing wage compliance and certified payroll records when applicable.`,
+      answer: `Yes. We provide documentation supporting both emergency procurement declarations and standard competitive bidding processes. Our estimates include the detail FCPS requires for budget approval, and we maintain prevailing wage compliance and trained payroll records when applicable.`,
     },
     {
       question: `Can you present to the school board about restoration work?`,
@@ -171,6 +171,6 @@ Beyond regulatory compliance, McLean school restorations must satisfy a communit
   ],
   finalCTA: {
     headline: `School or Public Facility Emergency in McLean?`,
-    paragraph: `Student safety and community services depend on rapid restoration. Our crews respond to McLean schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the regulatory expertise these facilities require. Call (877) 497-0007 immediately.`,
+    paragraph: `Student safety and community services depend on rapid restoration. Our crews respond to McLean schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the regulatory experience these facilities require. Call (877) 497-0007 immediately.`,
   },
 }

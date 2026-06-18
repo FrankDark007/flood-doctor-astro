@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Vienna, VA | Flood Doctor`,
-    description: `Vienna's expert restoration for condominiums, townhomes, and hospitality properties. Serving Vienna Town, Oakton, and Dunn Loring communities. Call (877) 497-0007.`,
+    description: `Vienna's technical restoration for condominiums, townhomes, and hospitality properties. Serving Vienna Town, Oakton, and Dunn Loring communities. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Vienna, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Vienna's multifamily properties range from established condominium communities near the Vienna Metro to luxury townhomes in Oakton and garden-style apartment complexes in Dunn Loring. Hotels and bed-and-breakfast establishments near the Town Green serve visitors drawn to Wolf Trap performances, Meadowlark Gardens events, and the town's renowned dining along Church Street. When water damage strikes these properties, the restoration must respect both the architectural character of the community and the lifestyle expectations of residents and guests who chose Vienna for its quality of life.
 
-Flood Doctor brings multi-unit restoration expertise calibrated for Vienna's residential character. Our teams manage townhome shared-wall water migration in Tysons Woods, coordinate condominium board communications in Clarks Crossing, and restore hospitality properties with the discretion that Vienna's boutique lodging market demands. We understand that Vienna residents expect prompt, professional service—not the disruption and uncertainty that poorly managed multi-unit restoration creates in their daily lives.`,
+Flood Doctor brings multi-unit restoration experience calibrated for Vienna's residential character. Our teams manage townhome shared-wall water migration in Tysons Woods, coordinate condominium board communications in Clarks Crossing, and restore hospitality properties with the discretion that Vienna's boutique lodging market demands. We understand that Vienna residents expect prompt, professional service—not the disruption and uncertainty that poorly managed multi-unit restoration creates in their daily lives.`,
       `The mix of housing eras in Vienna creates varied restoration requirements across multifamily properties. 1950s-1970s condominium buildings near the Metro feature original plumbing and electrical systems prone to sudden failure. Oakton luxury townhomes built in the 1990s-2000s have modern materials requiring specific drying protocols. Older apartment complexes in Dunn Loring may house regulated materials that require professional management during restoration. Each property era demands different technical approaches within the consistent framework of resident communication, insurance coordination, and quality execution.
 
 Our Vienna team adapts to these variations while maintaining the community-oriented approach that defines our work here. We attend HOA board meetings, provide individualized updates to each affected household, and coordinate with the local property management companies that oversee Vienna's condominium and townhome associations. For hospitality properties, we minimize visible disruption and work with staff to maintain the guest experience in unaffected areas. The goal is always restoring normalcy—for residents, for guests, and for the community.`,
@@ -22,7 +22,7 @@ Our Vienna team adapts to these variations while maintaining the community-orien
     {
       title: `Community-Aware Emergency Response`,
       description: `Call (877) 497-0007 for immediate multi-unit deployment. Our Vienna crews assess beyond the initial report—checking adjacent townhome units, condominium neighbors above and below, and building systems that may have distributed water to areas not yet showing visible damage.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `Emergency dispatch`,
     },
     {
       title: `Resident and Guest Communication`,
@@ -46,7 +46,7 @@ Our Vienna team adapts to these variations while maintaining the community-orien
     },
     {
       title: `Phased Re-Occupancy and Final Documentation`,
-      description: `Units are cleared individually after passing moisture verification and air quality testing. Each unit receives its own clearance documentation. Building-level reports address common elements and shared system repairs for HOA master policy claims.`,
+      description: `Units are cleared individually after passing moisture verification and air quality testing. Each unit receives its own verification documentation. Building-level reports address common elements and shared system repairs for HOA master policy claims.`,
       timeframe: `Days 4-7`,
     },
   ],
@@ -133,7 +133,7 @@ Our Vienna team adapts to these variations while maintaining the community-orien
       `Courthouse Road`,
       `Nutley Street Corridor`,
     ],
-    responseTime: `30-minute emergency response to all Vienna multifamily and hospitality properties. Our crews carry multi-unit equipment and premium finish preservation systems for immediate deployment to condominium, townhome, and hospitality properties throughout the Vienna-Oakton area.`,
+    responseTime: `rapid emergency response to all Vienna multifamily and hospitality properties. Our crews carry multi-unit equipment and premium finish preservation systems for immediate deployment to condominium, townhome, and hospitality properties throughout the Vienna-Oakton area.`,
   },
   faqs: [
     {
@@ -167,6 +167,6 @@ Our Vienna team adapts to these variations while maintaining the community-orien
   ],
   finalCTA: {
     headline: `Multi-Unit Water Damage in Vienna?`,
-    paragraph: `Shared walls and shared systems mean water damage spreads rapidly between Vienna townhome and condominium units. Our multi-unit team responds within 30 minutes with preservation equipment and the community coordination expertise your property needs. Call (877) 497-0007 now.`,
+    paragraph: `Shared walls and shared systems mean water damage spreads rapidly between Vienna townhome and condominium units. Our multi-unit team responds as quickly as available crews can safely arrive with preservation equipment and the community coordination experience your property needs. Call (877) 497-0007 now.`,
   },
 }

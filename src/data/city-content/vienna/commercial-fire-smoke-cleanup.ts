@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Vienna, VA | Flood Doctor`,
-    description: `Vienna's trusted commercial fire and smoke restoration specialists. Emergency response for Church Street shops, Oakton offices, and Wolf Trap area venues. Call (877) 497-0007.`,
+    description: `Vienna's local commercial fire and smoke restoration specialists. Emergency response for Church Street shops, Oakton workplaces, and Wolf Trap area venues. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Vienna, Virginia`,
   introSection: {
     headline: `Restoring Vienna's Commercial Properties After Fire and Smoke Events`,
     paragraphs: [
-      `Fire damage at a Vienna commercial property disrupts the businesses that give this town its distinctive character. A kitchen fire at a Church Street restaurant sends smoke through shared walls into neighboring boutiques and galleries. An electrical failure at an Oakton office building triggers sprinkler activation that compounds fire damage with water flooding across multiple suites. A fire at a Wolftrap area event venue threatens the facility's booking calendar and community programming. Vienna's business owners need fire restoration that moves quickly, preserves the distinctive finishes that define their spaces, and coordinates the insurance process that funds recovery. Flood Doctor provides comprehensive commercial fire restoration that gets Vienna businesses back to serving their community.`,
-      `Smoke damage in Vienna's commercial buildings follows the town's architectural diversity. Older Church Street buildings have interconnected wall cavities and shared attic spaces that channel smoke between businesses. Mixed-use buildings on Maple Avenue feature commercial HVAC systems that distribute smoke from ground-floor retail to upper-floor offices. Oakton professional buildings with modern air handling require full system decontamination when smoke enters the ductwork. The wooden structural elements common in Vienna's charming older commercial spaces absorb smoke deeply, requiring specialized deodorization techniques that standard commercial cleaning cannot achieve. Our restoration teams handle fire cleanup, smoke removal, water extraction, and content restoration as one coordinated project—because Vienna business owners need one point of contact, not a dozen contractors.`,
+      `Fire damage at a Vienna commercial property disrupts the businesses that give this town its distinctive character. A kitchen fire at a Church Street restaurant sends smoke through shared walls into neighboring boutiques and galleries. An electrical failure at an Oakton commercial building triggers sprinkler activation that compounds fire damage with water flooding across multiple suites. A fire at a Wolftrap area event venue threatens the facility's booking calendar and community programming. Vienna's business owners need fire restoration that moves quickly, preserves the distinctive finishes that define their spaces, and coordinates the insurance process that funds recovery. Flood Doctor provides comprehensive commercial fire restoration that gets Vienna businesses back to serving their community.`,
+      `Smoke damage in Vienna's commercial buildings follows the town's architectural diversity. Older Church Street buildings have interconnected wall cavities and shared attic spaces that channel smoke between businesses. Mixed-use buildings on Maple Avenue feature commercial HVAC systems that distribute smoke from ground-floor retail to upper-floor workplaces. Oakton professional buildings with modern air handling require full system decontamination when smoke enters the ductwork. The wooden structural elements common in Vienna's charming older commercial spaces absorb smoke deeply, requiring specialized deodorization techniques that standard commercial cleaning cannot achieve. Our restoration teams handle fire cleanup, smoke removal, water extraction, and content restoration as one coordinated project—because Vienna business owners need one point of contact, not a dozen contractors.`,
     ],
     localContext: `Vienna's commercial landscape—blending charming older storefronts with modern professional spaces—requires fire restoration that respects building character while delivering the efficient recovery timeline that local businesses need.`,
   },
   processSteps: [
     {
       title: `Emergency Stabilization`,
-      description: `Our crews secure your Vienna commercial property with board-up, tarping, and weather protection. For Church Street shared-wall buildings, we protect adjacent businesses from weather infiltration through the fire-damaged unit. We coordinate with Vienna fire officials on building safety clearance.`,
+      description: `Our crews secure your Vienna commercial property with board-up, tarping, and weather protection. For Church Street shared-wall buildings, we protect adjacent businesses from weather infiltration through the fire-damaged unit. We coordinate with Vienna fire officials on building safety verification.`,
       timeframe: `Within 2 hours`,
     },
     {
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Content Restoration`,
-      description: `Commercial inventory, equipment, and furnishings are catalogued and treated. For Vienna retail spaces with unique inventory, we provide detailed documentation for insurance valuation. Office equipment receives anti-corrosion treatment and ultrasonic cleaning.`,
+      description: `Commercial inventory, equipment, and furnishings are catalogued and treated. For Vienna retail spaces with unique inventory, we provide detailed documentation for insurance valuation. Business equipment receives anti-corrosion treatment and ultrasonic cleaning.`,
       timeframe: `Days 2-10`,
     },
     {
@@ -63,8 +63,8 @@ export const content: CityServiceContent = {
       solution: `We develop restoration timelines aligned with venue booking schedules, prioritizing guest-facing spaces to preserve upcoming events. Documentation supports business interruption claims for events that must be postponed or relocated.`,
     },
     {
-      title: `Fire Suppression Water in Oakton Office Buildings`,
-      description: `Sprinkler activation in modern Oakton commercial buildings delivers heavy water flow that damages electronic equipment, documents, and finished office spaces. Water cascades through ceiling penetrations to affect suites below the fire floor.`,
+      title: `Fire Suppression Water in Oakton Workplace Buildings`,
+      description: `Sprinkler activation in modern Oakton commercial buildings delivers heavy water flow that damages electronic equipment, documents, and finished commercial spaces. Water cascades through ceiling penetrations to affect suites below the fire floor.`,
       solution: `Our water damage teams deploy alongside fire cleanup crews, extracting water and establishing structural drying across all affected spaces. We prevent secondary mold growth while addressing the primary fire damage—managing the complete loss under one project.`,
     },
   ],
@@ -81,7 +81,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HVAC Decontamination Systems`,
-        purpose: `Remove smoke residue from commercial ductwork and air handlers in Oakton and Dunn Loring office buildings`,
+        purpose: `Remove smoke residue from commercial ductwork and air handlers in Oakton and Dunn Loring commercial buildings`,
       },
       {
         name: `Hydroxyl Generators`,
@@ -95,7 +95,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `Ultrasonic Content Cleaning`,
-        purpose: `Restore smoke-damaged electronics, instruments, and precision equipment from Vienna professional offices`,
+        purpose: `Restore smoke-damaged electronics, instruments, and precision equipment from Vienna professional workplaces`,
       },
     ],
     localNote: `Our Vienna commercial fire equipment includes restoration-grade tools for the town's character-rich older buildings alongside industrial systems for modern Oakton and Dunn Loring commercial properties.`,
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `HVAC decontamination—smoke in air handling systems adds cleaning scope in multi-suite commercial buildings`,
       `Schedule urgency—event venues and seasonal businesses benefit from expedited restoration to protect bookings`,
     ],
-    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Vienna. Our teams are positioned to reach Church Street, Maple Avenue, Oakton, and all Vienna commercial properties for rapid stabilization and restoration.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Vienna. Our teams serve Church Street, Maple Avenue, Oakton, and all Vienna commercial properties for rapid stabilization and restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Vienna?`,
-    paragraph: `From Church Street boutiques to Oakton professional offices, our fire restoration teams deliver emergency response and quality reconstruction that respects the character of Vienna's commercial community. Call (877) 497-0007 for immediate assistance.`,
+    paragraph: `From Church Street boutiques to Oakton professional workplaces, our fire restoration teams deliver emergency response and quality reconstruction that respects the character of Vienna's commercial community. Call (877) 497-0007 for immediate assistance.`,
   },
 }

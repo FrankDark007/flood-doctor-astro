@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in McLean, VA | Flood Doctor`,
-    description: `McLean's trusted commercial fire and smoke restoration experts. Emergency stabilization, HVAC decontamination, and full reconstruction for premium commercial properties. Call (877) 497-0007.`,
+    description: `McLean's local commercial fire and smoke restoration specialists. Emergency stabilization, HVAC decontamination, and full reconstruction for premium commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in McLean, Virginia`,
   introSection: {
     headline: `Restoring McLean's Premium Commercial Properties After Fire and Smoke Damage`,
     paragraphs: [
-      `A fire at a McLean commercial property threatens more than the physical structure. Premium office tenants along Georgetown Pike, medical practices in Chesterbrook, and high-end retail near Chain Bridge face business interruption costs that compound daily while restoration stalls. Smoke infiltrates HVAC systems and migrates to unaffected floors, damaging tenant spaces that were never touched by flame. Every hour without professional response means deeper smoke penetration into building materials, greater corrosion damage to equipment, and longer business displacement. Flood Doctor provides emergency fire stabilization and comprehensive smoke restoration for McLean commercial properties, managed as an integrated project from board-up through certificate of occupancy.`,
-      `McLean commercial fire damage presents challenges unique to the premium market. Smoke from a kitchen fire in a Langley restaurant travels through shared HVAC systems to contaminate adjacent office suites. An electrical fire in a Salona Village retail center damages high-value inventory and custom interior finishes that require specialized restoration rather than replacement. Fire suppression water from sprinkler activation in a Woodside Estates medical building creates secondary water damage that compounds the original fire loss. Our commercial fire restoration teams understand these cascading impacts and deploy multi-discipline crews that address fire damage, smoke contamination, water damage, and content restoration simultaneously.`,
+      `A fire at a McLean commercial property threatens more than the physical structure. Premium workplace tenants along Georgetown Pike, medical practices in Chesterbrook, and high-end retail near Chain Bridge face business interruption costs that compound daily while restoration stalls. Smoke infiltrates HVAC systems and migrates to unaffected floors, damaging tenant spaces that were never touched by flame. Every hour without professional response means deeper smoke penetration into building materials, greater corrosion damage to equipment, and longer business displacement. Flood Doctor provides emergency fire stabilization and comprehensive smoke restoration for McLean commercial properties, managed as an integrated project from board-up through occupancy approval.`,
+      `McLean commercial fire damage presents challenges unique to the premium market. Smoke from a kitchen fire in a Langley restaurant travels through shared HVAC systems to contaminate adjacent workplace suites. An electrical fire in a Salona Village retail center damages high-value inventory and custom interior finishes that require specialized restoration rather than replacement. Fire suppression water from sprinkler activation in a Woodside Estates medical building creates secondary water damage that compounds the original fire loss. Our commercial fire restoration teams understand these cascading impacts and deploy multi-discipline crews that address fire damage, smoke contamination, water damage, and content restoration simultaneously.`,
     ],
-    localContext: `McLean's commercial properties—featuring premium office space, medical facilities, and high-end retail—require fire restoration that preserves property value, minimizes tenant displacement, and coordinates complex insurance claims for multi-loss events.`,
+    localContext: `McLean's commercial properties—featuring premium commercial space, medical facilities, and high-end retail—require fire restoration that preserves property value, minimizes tenant displacement, and coordinates complex insurance claims for multi-loss events.`,
   },
   processSteps: [
     {
@@ -42,14 +42,14 @@ export const content: CityServiceContent = {
     },
     {
       title: `Reconstruction and Re-Occupancy`,
-      description: `Our commercial construction division handles the complete rebuild—matching premium finishes, meeting commercial building codes, and coordinating tenant improvement build-outs. We manage permitting, inspections, and certificate of occupancy to return your McLean property to full operation.`,
+      description: `Our commercial construction division handles the coordinated rebuild—matching premium finishes, meeting commercial building codes, and coordinating tenant improvement build-outs. We manage permitting, inspections, and occupancy approval to return your McLean property to full operation.`,
       timeframe: `Weeks 2-8`,
     },
   ],
   localChallenges: [
     {
       title: `HVAC Smoke Distribution in Multi-Tenant Buildings`,
-      description: `McLean commercial buildings share HVAC systems across multiple tenant suites. A fire in one space pushes smoke through ductwork to contaminate offices, medical practices, and retail spaces throughout the building—often causing more total damage than the fire itself.`,
+      description: `McLean commercial buildings share HVAC systems across multiple tenant suites. A fire in one space pushes smoke through ductwork to contaminate workplaces, medical practices, and retail spaces throughout the building—often causing more total damage than the fire itself.`,
       solution: `Our HVAC decontamination team cleans the entire air distribution system, including ductwork, air handlers, coils, filters, and plenums. We verify decontamination with air quality testing before returning the system to operation, preventing ongoing smoke odor and particulate circulation.`,
     },
     {
@@ -59,7 +59,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Business Interruption and Tenant Displacement`,
-      description: `McLean commercial tenants generate significant per-square-foot revenue. Extended closure of premium office space, medical practices, or high-end retail locations creates substantial business interruption losses that compound daily.`,
+      description: `McLean commercial tenants generate significant per-square-foot revenue. Extended closure of premium commercial space, medical practices, or high-end retail locations creates substantial business interruption losses that compound daily.`,
       solution: `We implement phased restoration that prioritizes revenue-generating spaces. Our project managers identify critical operational areas and restore them first, enabling partial business resumption. Detailed documentation supports business interruption insurance claims.`,
     },
     {
@@ -81,7 +81,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `Hydroxyl Generators`,
-        purpose: `Eliminate smoke odors safely in occupied or sensitive environments—critical for McLean medical and professional office spaces`,
+        purpose: `Eliminate smoke odors safely in occupied or sensitive environments—critical for McLean medical and professional commercial spaces`,
         brand: `Vaportek`,
       },
       {
@@ -102,7 +102,7 @@ export const content: CityServiceContent = {
         purpose: `Eliminate persistent smoke odors in unoccupied spaces—used only in sealed, evacuated areas with proper safety protocols`,
       },
     ],
-    localNote: `Our McLean commercial fire restoration crews deploy equipment scaled for multi-story office buildings and large commercial footprints, with specialized capability for premium finish restoration and HVAC decontamination across complex building systems.`,
+    localNote: `Our McLean commercial fire restoration crews deploy equipment scaled for multi-story commercial buildings and large commercial footprints, with specialized capability for premium finish restoration and HVAC decontamination across complex building systems.`,
   },
   pricingSection: {
     headline: `Commercial Fire Restoration Costs in McLean`,
@@ -142,7 +142,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Can you prioritize getting our most important spaces operational first?`,
-      answer: `Phased restoration is our standard approach. We identify your revenue-critical spaces—whether executive offices, patient treatment rooms, or retail showrooms—and prioritize those areas. This enables partial business resumption while reconstruction continues in damaged areas.`,
+      answer: `Phased restoration is our standard approach. We identify your revenue-critical spaces—whether executive workplaces, patient treatment rooms, or retail showrooms—and prioritize those areas. This enables partial business resumption while reconstruction continues in damaged areas.`,
     },
     {
       question: `What about smoke odor in spaces that had no visible fire damage?`,
@@ -154,7 +154,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Do you handle the complete reconstruction after fire damage?`,
-      answer: `Yes. Our commercial construction division manages demolition, permitting, construction, inspections, and certificate of occupancy. We match existing premium finishes, meet current building codes, and coordinate tenant improvement build-outs under one unified project.`,
+      answer: `Yes. Our commercial construction division manages demolition, permitting, construction, inspections, and occupancy approval. We match existing premium finishes, meet current building codes, and coordinate tenant improvement build-outs under one unified project.`,
     },
     {
       question: `What about our commercial equipment and electronics?`,

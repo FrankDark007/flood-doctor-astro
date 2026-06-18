@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Vienna, VA | Flood Doctor',
-    description: `Vienna roof leak water damage specialists. Serving Vienna Town, Oakton & Wolftrap. Colonial and luxury home expertise. Ice dam prevention. Emergency tarping. Call (877) 497-0007.`,
+    description: `Vienna roof leak water damage specialists. Serving Vienna Town, Oakton & Wolftrap. Colonial and luxury home experience. Ice dam prevention. Emergency tarping. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Vienna, Virginia',
   introSection: {
     headline: 'Comprehensive Roof Leak Restoration for Vienna and Oakton Homes',
     paragraphs: [
       `Vienna homes span generations of roofing technology—1950s-era original asphalt on established colonials near Church Street, mid-grade architectural shingles on 1980s homes in Dunn Loring, and premium designer shingles or slate on luxury new construction throughout Oakton. Regardless of the material, every roof eventually develops vulnerabilities at flashing points, penetrations, and wear zones that admit water during storms. When a deteriorated pipe boot on your Clarks Crossing ranch sends water down an interior wall, when chimney flashing on your Vienna Town colonial separates from the masonry, or when wind lifts shingles on your Wolftrap area home exposing the underlayment to driving rain, the resulting interior damage demands immediate professional response.`,
-      `The Wolf Trap and Meadowlark Gardens area experiences weather patterns that test residential roofing—summer thunderstorms with wind gusts that lift shingles, winter ice events that form dams along complex rooflines, and spring nor'easters that drive rain horizontally against roof-wall junctions. Vienna homes with mature tree canopy face additional threats from falling branches during storms and accumulated debris in valleys and gutters that traps water against the roof surface. Flood Doctor responds to Vienna roof leak emergencies with the promptness this community expects, providing emergency tarping, thorough interior assessment, and complete restoration that addresses every surface the water touched—from the attic insulation down through the ceiling and walls to the finished rooms where your family lives near the Vienna Metro corridor.`,
+      `The Wolf Trap and Meadowlark Gardens area experiences weather patterns that test residential roofing—summer thunderstorms with wind gusts that lift shingles, winter ice events that form dams along complex rooflines, and spring nor'easters that drive rain horizontally against roof-wall junctions. Vienna homes with mature tree canopy face additional threats from falling branches during storms and accumulated debris in valleys and gutters that traps water against the roof surface. Flood Doctor responds to Vienna roof leak emergencies with the promptness this community expects, providing emergency tarping, thorough interior assessment, and restoration that addresses every surface the water touched—from the attic insulation down through the ceiling and walls to the finished rooms where your family lives near the Vienna Metro corridor.`,
     ],
     localContext: `Vienna's mix of established colonials and Oakton luxury homes creates roof leak scenarios across every era of roofing material, where mature tree canopy, complex rooflines, and Virginia weather patterns combine to test every weakness.`,
   },
   processSteps: [
     {
       title: 'Prompt Vienna Response',
-      description: `Call (877) 497-0007 and our crews reach your Vienna or Oakton home within 30 minutes. We assess the visible interior damage, then trace the leak through the attic to its actual source—which is rarely directly above the ceiling stain you see.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews reach your Vienna or Oakton home as quickly as available crews can safely arrive. We assess the visible interior damage, then trace the leak through the attic to its actual source—which is rarely directly above the ceiling stain you see.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Emergency Tarping',
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Dellwood',
       'Nottoway Park area',
     ],
-    responseTime: '30-minute emergency response throughout Vienna and Oakton. Our crews arrive with tarping, thermal imaging, and drying equipment for immediate roof leak intervention.',
+    responseTime: 'rapid emergency response throughout Vienna and Oakton. Our crews arrive with tarping, thermal imaging, and drying equipment for immediate roof leak intervention.',
   },
   faqs: [
     {

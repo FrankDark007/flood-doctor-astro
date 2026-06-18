@@ -3,18 +3,18 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Ashburn, VA | Flood Doctor',
-    description: 'Ashburn basement flooding experts. 30-min response for finished basements, home offices & media rooms. Broadlands, Brambleton, Lansdowne. Call (877) 497-0007.',
+    description: 'Ashburn basement flooding specialists. rapid response for finished basements, home workspaces & media rooms. Broadlands, Brambleton, Lansdowne. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in Ashburn, Virginia',
   introSection: {
     headline: `When "New Construction" Floods: Ashburn's Hidden Building Defect Problem`,
     paragraphs: [
-      `A Brambleton homeowner bought their house in 2018. Finished walkout basement — home office, gaming room, full bath. The builder's warranty expired in 2023. During the first major storm of spring 2024, water appeared along the basement wall-floor joint. Not from a pipe. Not from the sump pump. Hydrostatic pressure forced groundwater through a foundation poured too thin in one section, with waterproofing membrane that had debonded from green concrete within three years. The homeowner didn't know until water pooled under the LVP flooring and saturated the OSB subfloor beneath it.
+      `A Brambleton homeowner bought their house in 2018. Finished walkout basement — home workplace, gaming room, full bath. The builder's warranty expired in 2023. During the first major storm of spring 2024, water appeared along the basement wall-floor joint. Not from a pipe. Not from the sump pump. Hydrostatic pressure forced groundwater through a foundation poured too thin in one section, with waterproofing membrane that had debonded from green concrete within three years. The homeowner didn't know until water pooled under the LVP flooring and saturated the OSB subfloor beneath it.
 
 This story repeats across Ashburn. Homes built during the 2004-2022 construction boom share failure patterns that older Northern Virginia construction doesn't have: undersized stormwater management ponds engineered for theoretical runoff ratios that no longer hold, builder-grade sump pumps rated for 5-7 years with no battery backup, foundation waterproofing applied over uncured concrete, and grading that settles toward the foundation as Loudoun County's clay fill compresses.`,
-      `Flood Doctor has restored basements across Broadlands, Brambleton, Lansdowne, Ashburn Farm, One Loudoun, Moorefield Station, and Stone Ridge. We don't just extract water. We document the failure mechanism and produce evidence for warranty claims, builder disputes, or litigation. Our crews are positioned throughout Loudoun County — 30-minute response, not dispatched from Manassas or Fairfax. Call (877) 497-0007.`,
+      `Flood Doctor serves basement flooding calls across Broadlands, Brambleton, Lansdowne, Ashburn Farm, One Loudoun, Moorefield Station, and Stone Ridge. We don't just extract water. We document the failure mechanism and produce evidence for warranty claims, builder disputes, or litigation. Our crews are serving Loudoun County — rapid emergency response, not dispatched from Manassas or Fairfax. Call (877) 497-0007.`,
     ],
-    localContext: `Ashburn's finished basements — 1,500 to 2,500 square feet of living space — represent $80,000 to $150,000 in below-grade investment. Home offices for the data center corridor's remote workforce, multigenerational family suites, licensed daycare operations, and entertainment spaces with equipment worth more than some cars. Restoring them requires understanding both modern materials and the specific ways Ashburn construction fails.`,
+    localContext: `Ashburn's finished basements — 1,500 to 2,500 square feet of living space — represent $80,000 to $150,000 in below-grade investment. Home workspaces for the data center corridor's remote workforce, multigenerational family suites, regulated daycare operations, and entertainment spaces with equipment worth more than some cars. Restoring them requires understanding both modern materials and the specific ways Ashburn construction fails.`,
   },
   processSteps: [
     {
@@ -56,7 +56,7 @@ This story repeats across Ashburn. Homes built during the 2004-2022 construction
     },
     {
       title: 'Builder-Grade Sump Pump Lifecycle Failure',
-      description: `Your builder installed a $150 single-speed, single-float, AC-only sump pump — no battery backup, no alarm, no monitoring. Under normal conditions, the motor and float switch wear out in 5-7 years. Homes built 2015-2020 are entering this failure window now. The pump dies silently during a storm. A power outage during a thunderstorm — common where Ashburn has above-ground lines — guarantees a flood. The builder met code. Code doesn't require backup or monitoring.`,
+      description: `Your builder installed a $150 single-speed, single-float, AC-only sump pump — no battery backup, no alarm, no monitoring. Under normal conditions, the motor and float switch wear out in 5-7 years. Homes built 2015-2020 are entering this failure window now. The pump dies silently during a storm. A power outage during a thunderstorm — common where Ashburn has above-ground lines — targets a flood. The builder met code. Code doesn't require backup or monitoring.`,
       solution: 'We document the failed pump and connect homeowners with plumbers who install dual-pump systems with battery backup and WiFi monitoring. The $1,500-$3,000 upgrade prevents the $15,000-$40,000 in damage a finished basement flood produces.',
     },
     {
@@ -72,7 +72,7 @@ This story repeats across Ashburn. Homes built during the 2004-2022 construction
   ],
   pricingSection: {
     headline: 'Basement Flooding Restoration Costs in Ashburn',
-    intro: 'An unfinished 1,500-square-foot basement with standing water: $3,000-$5,000 to dry. That same footprint finished with LVP over OSB, drywall, a home office, and spray foam insulation: $12,000-$35,000 depending on water depth, duration, contamination category, and subfloor condition. We provide detailed written estimates after inspection and work directly with your insurance carrier.',
+    intro: 'An unfinished 1,500-square-foot basement with standing water: $3,000-$5,000 to dry. That same footprint finished with LVP over OSB, drywall, a home workplace, and spray foam insulation: $12,000-$35,000 depending on water depth, duration, contamination category, and subfloor condition. We provide detailed written estimates after inspection and work directly with your insurance carrier.',
     factors: [
       'Finished square footage and ceiling height — more volume requires more dehumidification and longer dry times',
       'Water contamination category — clean groundwater versus sewer backup requires different protocols and disposal',
@@ -80,7 +80,7 @@ This story repeats across Ashburn. Homes built during the 2004-2022 construction
       'Construction defect involvement — documentation and builder coordination adds scope',
       'Smart system reinstallation — sensors, monitors, and shutoff valves may need replacement or reprogramming',
     ],
-    cta: 'Call (877) 497-0007 for 30-minute emergency response and a free assessment. We identify the failure mechanism, explain options, and outline likely insurance coverage.',
+    cta: 'Call (877) 497-0007 for rapid emergency response and a free assessment. We identify the failure mechanism, explain options, and outline likely insurance coverage.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -99,7 +99,7 @@ This story repeats across Ashburn. Homes built during the 2004-2022 construction
       'Cameron Chase',
       'Stone Ridge',
     ],
-    responseTime: '30-minute emergency response to all Ashburn neighborhoods. Crews stationed along Loudoun County Parkway and the Greenway corridor — not dispatched from Chantilly. When your Brambleton basement floods Thursday night, we arrive before water reaches your office equipment.',
+    responseTime: 'rapid emergency response to all Ashburn neighborhoods. Crews available along Loudoun County Parkway and the Greenway corridor — not dispatched from Chantilly. When your Brambleton basement floods Thursday night, we arrive before water reaches your business equipment.',
   },
   faqs: [
     {
@@ -130,6 +130,6 @@ This story repeats across Ashburn. Homes built during the 2004-2022 construction
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],
   finalCTA: {
     headline: 'Ashburn Basement Flooding? Construction Defect or Storm Damage — We Handle Both.',
-    paragraph: `Your finished basement is where you work, where your family lives, where your kids play. We respond in 30 minutes with crews that understand Ashburn's construction-era defect patterns, sealed-envelope drying requirements, and the documentation you need for insurance and builder accountability.`,
+    paragraph: `Your finished basement is where you work, where your family lives, where your kids play. We respond as quickly as available crews can safely arrive with crews that understand Ashburn's construction-era defect patterns, sealed-envelope drying requirements, and the documentation you need for insurance and builder accountability.`,
   },
 }

@@ -9,9 +9,9 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Specialized Restoration for McLean's Commercial and Light Industrial Properties`,
     paragraphs: [
-      `While McLean is primarily known for its residential estates and professional offices, the corridor between Georgetown Pike and Chain Bridge supports a network of light industrial facilities, specialized laboratories, and commercial operations that require industrial-grade restoration capabilities. Government contractor facilities near Langley house sensitive equipment and classified materials. Research laboratories in Chesterbrook maintain controlled environments that water damage can compromise in minutes. Commercial print shops, catering operations, and specialty manufacturing firms throughout the area depend on rapid restoration to maintain supply commitments and client relationships.
+      `While McLean is primarily known for its residential estates and professional workplaces, the corridor between Georgetown Pike and Chain Bridge supports a network of light industrial facilities, specialized laboratories, and commercial operations that require industrial-grade restoration capabilities. Government contractor facilities near Langley house sensitive equipment and classified materials. Research laboratories in Chesterbrook maintain controlled environments that water damage can compromise in minutes. Commercial print shops, catering operations, and specialty manufacturing firms throughout the area depend on rapid restoration to maintain supply commitments and client relationships.
 
-Flood Doctor provides industrial-grade restoration services throughout McLean, combining HAZWOPER-certified crews with the discretion that facilities in this area demand. Our technicians hold security clearances when required, understand controlled-access facility protocols, and bring the heavy equipment necessary to restore commercial operations quickly. When water damage threatens your McLean industrial or commercial operation, we deliver the capability of an industrial restoration firm with the local knowledge and responsiveness of a community-based company.`,
+Flood Doctor provides industrial-grade restoration services throughout McLean, combining safety-trained crews with the discretion that facilities in this area demand. Our technicians hold security verifications when required, understand controlled-access facility protocols, and bring the heavy equipment necessary to restore commercial operations quickly. When water damage threatens your McLean industrial or commercial operation, we deliver the capability of an industrial restoration firm with the local knowledge and responsiveness of a community-based company.`,
       `Industrial water damage in McLean creates cascading operational impacts. A roof leak above a government contractor's server room near The Reserve can destroy classified computing equipment and trigger security incident protocols. Flooding in a Woodside Estates area commercial kitchen shuts down a catering operation serving the diplomatic community. A burst pipe in a Balls Hill light manufacturing facility damages production equipment and delays fulfillment schedules that carry contractual penalties.
 
 Our industrial restoration approach addresses both the physical damage and the operational consequences. We prioritize production-critical equipment with immediate anti-corrosion treatment, coordinate with facility security teams for controlled-access areas, and provide documentation supporting business interruption insurance claims and government contract delay notifications. McLean's commercial and light industrial operators need restoration partners who understand that downtime has financial consequences measured in hours, not days.`,
@@ -22,11 +22,11 @@ Our industrial restoration approach addresses both the physical damage and the o
     {
       title: `Emergency Response and Security Coordination`,
       description: `Call (877) 497-0007 for immediate industrial response. For controlled-access facilities near Langley, we coordinate with your security team before entry. Our crews arrive with industrial extraction equipment and anti-corrosion treatment materials to protect high-value equipment from the moment we gain access.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Emergency dispatch`,
     },
     {
       title: `Facility Assessment and Hazard Identification`,
-      description: `Our HAZWOPER-certified technicians assess the damage scope while identifying any hazardous materials, electrical systems, or environmental concerns that require specialized handling. For McLean laboratories and government facilities, we follow facility-specific safety protocols.`,
+      description: `Our safety-trained technicians assess the damage scope while identifying any hazardous materials, electrical systems, or environmental concerns that require specialized handling. For McLean laboratories and government facilities, we follow facility-specific safety protocols.`,
       timeframe: `Hours 1-3`,
     },
     {
@@ -53,13 +53,13 @@ Our industrial restoration approach addresses both the physical damage and the o
   localChallenges: [
     {
       title: `Controlled-Access Facility Restoration`,
-      description: `Government contractor facilities near Langley and throughout the Georgetown Pike corridor operate under strict access controls. Restoration crews need appropriate clearances, escorts, or facility-specific authorization before entering affected areas, which can delay standard response timelines.`,
-      solution: `We maintain personnel with various security clearance levels and establish pre-incident access protocols with facility security teams. For facilities without pre-arranged access, we coordinate escort requirements during initial dispatch to minimize delays.`,
+      description: `Government contractor facilities near Langley and throughout the Georgetown Pike corridor operate under strict access controls. Restoration crews need appropriate verifications, escorts, or facility-specific authorization before entering affected areas, which can delay standard response timelines.`,
+      solution: `We maintain personnel with various security verification levels and establish pre-incident access protocols with facility security teams. For facilities without pre-arranged access, we coordinate escort requirements during initial dispatch to minimize delays.`,
     },
     {
       title: `Specialized Laboratory Environment Recovery`,
       description: `Research and testing laboratories in the Chesterbrook and Salona Village areas maintain controlled temperature, humidity, and particulate environments. Water damage compromises these controlled conditions, and restoration must return the environment to specification before operations resume.`,
-      solution: `Our restoration protocols include environmental parameter monitoring and documentation throughout the drying process. We work with laboratory facility managers to achieve the specific temperature, humidity, and air quality specifications required for re-certification.`,
+      solution: `Our restoration protocols include environmental parameter monitoring and documentation throughout the drying process. We work with laboratory facility managers to achieve the specific temperature, humidity, and air quality specifications required for re-verification.`,
     },
     {
       title: `High-Value Equipment Protection`,
@@ -114,7 +114,7 @@ Our industrial restoration approach addresses both the physical damage and the o
     headline: `Industrial Facility Restoration Costs in McLean`,
     intro: `Commercial and industrial restoration costs in McLean vary based on facility type, equipment involved, and operational urgency. We provide detailed estimates that separate structural restoration from equipment recovery and compliance documentation, supporting both standard commercial insurance and government contract claim processes.`,
     factors: [
-      `Facility size and construction type—laboratory, warehouse, and office spaces each present different restoration requirements`,
+      `Facility size and construction type—laboratory, warehouse, and commercial spaces each present different restoration requirements`,
       `Equipment value and complexity—specialized machinery, computing systems, and laboratory instruments require manufacturer-coordinated restoration`,
       `Security and access requirements—controlled-access facilities may require cleared personnel and escorted work procedures`,
       `Environmental compliance—hazardous material management, waste disposal, and regulatory reporting add project scope`,
@@ -138,12 +138,12 @@ Our industrial restoration approach addresses both the physical damage and the o
       `Spring Hill Road`,
       `Tysons Connection`,
     ],
-    responseTime: `45-minute emergency response to all McLean commercial and industrial facilities. Pre-arranged security protocols with government contractor facilities enable rapid access coordination for controlled-access properties.`,
+    responseTime: `prompt emergency response to all McLean commercial and industrial facilities. Pre-arranged security protocols with government contractor facilities enable rapid access coordination for controlled-access properties.`,
   },
   faqs: [
     {
       question: `Can your crews access controlled-access facilities near Langley?`,
-      answer: `We maintain personnel with various security clearance levels and establish pre-incident access protocols with facility security teams. For immediate emergencies, we coordinate escort requirements during dispatch to minimize response delays while maintaining facility security compliance.`,
+      answer: `We maintain personnel with various security verification levels and establish pre-incident access protocols with facility security teams. For immediate emergencies, we coordinate escort requirements during dispatch to minimize response delays while maintaining facility security compliance.`,
     },
     {
       question: `How quickly can you treat our production equipment after water exposure?`,
@@ -151,7 +151,7 @@ Our industrial restoration approach addresses both the physical damage and the o
     },
     {
       question: `Do you handle laboratory environment restoration?`,
-      answer: `Yes. We restore controlled environments to their pre-loss specifications, monitoring temperature, humidity, and air quality throughout the drying process. Our documentation supports laboratory re-certification requirements and provides the environmental parameter records facility managers need.`,
+      answer: `Yes. We restore controlled environments to their documented prior specifications, monitoring temperature, humidity, and air quality throughout the drying process. Our documentation supports laboratory re-verification requirements and provides the environmental parameter records facility managers need.`,
     },
     {
       question: `Can you provide business interruption documentation?`,
@@ -159,7 +159,7 @@ Our industrial restoration approach addresses both the physical damage and the o
     },
     {
       question: `What about hazardous materials in our facility?`,
-      answer: `Our HAZWOPER-certified technicians assess and manage hazardous materials encountered during restoration. We maintain proper waste characterization, manifesting, and disposal documentation for EPA and Virginia DEQ compliance. For chemical storage areas, we coordinate containment and cleanup with your facility safety team.`,
+      answer: `Our safety-trained technicians assess and manage hazardous materials encountered during restoration. We maintain proper waste characterization, manifesting, and disposal documentation for EPA and Virginia DEQ compliance. For chemical storage areas, we coordinate containment and cleanup with your facility safety team.`,
     },
     {
       question: `How do you handle water damage in server rooms and data centers?`,
@@ -175,6 +175,6 @@ Our industrial restoration approach addresses both the physical damage and the o
   ],
   finalCTA: {
     headline: `Industrial or Commercial Emergency in McLean?`,
-    paragraph: `Production downtime and equipment damage compound by the hour. Our HAZWOPER-certified, security-cleared crews respond to McLean commercial and industrial facilities within 45 minutes with industrial extraction equipment and anti-corrosion treatment. Call (877) 497-0007 now.`,
+    paragraph: `Production downtime and equipment damage compound by the hour. Our safety-trained, security-aware crews respond to McLean commercial and industrial facilities as quickly as available crews can safely arrive with industrial extraction equipment and anti-corrosion treatment. Call (877) 497-0007 now.`,
   },
 }

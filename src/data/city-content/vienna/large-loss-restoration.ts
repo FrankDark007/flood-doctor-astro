@@ -9,10 +9,10 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Professional Large Loss Management for Vienna's Commercial Community`,
     paragraphs: [
-      `Large loss events in Vienna affect the commercial buildings that define this community's distinctive blend of small-town character and professional sophistication. A catastrophic pipe failure flooding an entire Church Street commercial block, a fire suppression malfunction damaging multiple floors of an Oakton professional building, or a severe storm overwhelming drainage and flooding a Maple Avenue retail development—these events produce restoration projects requiring dedicated project management, multi-trade coordination, and the months-long commitment that brings a commercial community back to pre-loss condition.
+      `Large loss events in Vienna affect the commercial buildings that define this community's distinctive blend of small-town character and professional sophistication. A catastrophic pipe failure flooding an entire Church Street commercial block, a fire suppression malfunction damaging multiple floors of an Oakton professional building, or a severe storm overwhelming drainage and flooding a Maple Avenue retail development—these events produce restoration projects requiring dedicated project management, multi-trade coordination, and the months-long commitment that brings a commercial community back to documented prior condition.
 
 Flood Doctor's large loss division has managed significant restoration projects throughout Vienna. Our senior project directors have coordinated multi-tenant restorations in the Church Street district, managed professional building recoveries in Oakton and Dunn Loring, and delivered retail center restorations near Vienna Town Green—bringing construction-management discipline while respecting the quality standards that Vienna's commercial community maintains.`,
-      `Vienna's large loss projects carry considerations beyond typical commercial restoration. The community's investment in quality commercial spaces—hardwood reception areas, custom millwork, specialty architectural details—means restoration must achieve pre-loss quality or the commercial spaces lose the character that attracted tenants and customers. The interconnected business community means that extended closures of anchor businesses affect neighboring shops and restaurants that depend on shared foot traffic. And the community's engaged resident base pays attention to how commercial restoration projects are managed, creating reputation implications for property owners beyond the physical restoration.
+      `Vienna's large loss projects carry considerations beyond typical commercial restoration. The community's investment in quality commercial spaces—hardwood reception areas, custom millwork, specialty architectural details—means restoration must achieve documented prior quality or the commercial spaces lose the character that attracted tenants and customers. The interconnected business community means that extended closures of anchor businesses affect neighboring shops and restaurants that depend on shared foot traffic. And the community's engaged resident base pays attention to how commercial restoration projects are managed, creating reputation implications for property owners beyond the physical restoration.
 
 Our project directors understand that Vienna large loss projects are community events, not just construction projects. Communication extends beyond property owners and tenants to include neighboring businesses affected by construction activity, residents whose daily routines are disrupted, and the community institutions that coordinate around commercial district operations. This stakeholder awareness shapes our project planning and execution throughout.`,
     ],
@@ -26,7 +26,7 @@ Our project directors understand that Vienna large loss projects are community e
     },
     {
       title: 'Thorough Damage Documentation',
-      description: 'Our team maps damage across all affected spaces, documenting quality finishes and architectural elements before restoration work begins. This pre-loss documentation is essential for both insurance negotiations and quality-matching during reconstruction.',
+      description: 'Our team maps damage across all affected spaces, documenting quality finishes and architectural elements before restoration work begins. This documented prior documentation is essential for both insurance negotiations and quality-matching during reconstruction.',
       timeframe: 'Hours 8-48',
     },
     {
@@ -130,7 +130,7 @@ Our project directors understand that Vienna large loss projects are community e
       'Wolf Trap Area',
       'Courthouse Road Corridor',
     ],
-    responseTime: 'Emergency stabilization within 60 minutes to Vienna commercial properties. Full large loss mobilization with quality assessment capability scales within 12-24 hours.',
+    responseTime: 'Emergency stabilization as quickly as available crews can safely arrive to Vienna commercial properties. Full large loss mobilization with quality assessment capability scales within 12-24 hours.',
   },
   faqs: [
     {

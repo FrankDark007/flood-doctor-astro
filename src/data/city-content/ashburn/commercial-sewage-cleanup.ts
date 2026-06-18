@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's trusted commercial sewage cleanup team. OSHA-compliant biohazard remediation for data centers, retail centers, and new construction commercial properties. Call (877) 497-0007.`,
+    description: `Ashburn's local commercial sewage cleanup team. OSHA-compliant biohazard remediation for data centers, retail centers, and new construction commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Ashburn, Virginia`,
   introSection: {
-    headline: `New Construction Sewage Expertise for Ashburn Commercial Properties`,
+    headline: `New Construction Sewage Experience for Ashburn Commercial Properties`,
     paragraphs: [
-      `Sewage contamination at an Ashburn commercial property combines biohazard urgency with new construction realities that distinguish Loudoun County's fastest-growing corridor. A sewer lateral installed during the construction boom fails at a One Loudoun retail center, flooding ground-floor shops and the parking structure below. A grease interceptor malfunction at a Brambleton restaurant shuts down operations during peak dinner service. A main line surcharge at a Broadlands commercial complex sends Category 3 waste into multiple tenant suites through shared plumbing risers. A construction defect in a Lansdowne office building allows sewage backflow through improperly installed check valves. Ashburn commercial properties built during the rapid development era sometimes harbor installation shortcuts that create sewage vulnerabilities years later. Flood Doctor provides OSHA-compliant commercial sewage remediation with the new construction awareness that Ashburn property managers need.`,
-      `Ashburn's commercial sewage challenges mirror the area's development timeline. Properties built during the 2000s-2010s construction boom occasionally feature plumbing installations where speed compromised quality—improperly pitched waste lines, missing backflow preventers, and grease interceptors undersized for actual commercial loading. Rapid development increased runoff and sewer loading beyond original infrastructure design, creating system surcharges during heavy rain that back sewage into commercial spaces. Data center support facilities along the Ashburn corridor face unique risks where sewage contamination threatens both occupancy and the specialized equipment supporting Loudoun County's technology economy. Our hazmat crews have decontaminated Ashburn restaurants, retail centers, office buildings, and technology support facilities—documenting construction defects for warranty claims alongside standard OSHA compliance records.`,
+      `Sewage contamination at an Ashburn commercial property combines biohazard urgency with new construction realities that distinguish Loudoun County's fastest-growing corridor. A sewer lateral installed during the construction boom fails at a One Loudoun retail center, flooding ground-floor shops and the parking structure below. A grease interceptor malfunction at a Brambleton restaurant shuts down operations during peak dinner service. A main line surcharge at a Broadlands commercial complex sends Category 3 waste into multiple tenant suites through shared plumbing risers. A construction defect in a Lansdowne commercial building allows sewage backflow through improperly installed check valves. Ashburn commercial properties built during the rapid development era sometimes harbor installation shortcuts that create sewage vulnerabilities years later. Flood Doctor provides OSHA-compliant commercial sewage remediation with the new construction awareness that Ashburn property managers need.`,
+      `Ashburn's commercial sewage challenges mirror the area's development timeline. Properties built during the 2000s-2010s construction boom occasionally feature plumbing installations where speed compromised quality—improperly pitched waste lines, missing backflow preventers, and grease interceptors undersized for actual commercial loading. Rapid development increased runoff and sewer loading beyond original infrastructure design, creating system surcharges during heavy rain that back sewage into commercial spaces. Data center support facilities along the Ashburn corridor face unique risks where sewage contamination threatens both occupancy and the specialized equipment supporting Loudoun County's technology economy. Our hazmat crews have decontaminated Ashburn restaurants, retail centers, commercial buildings, and technology support facilities—documenting construction defects for warranty claims alongside standard OSHA compliance records.`,
     ],
     localContext: `Ashburn's rapidly developed commercial corridor—with new construction plumbing challenges, data center infrastructure, and HOA-governed communities—requires sewage remediation that addresses both biohazard protocols and construction-era vulnerabilities.`,
   },
   processSteps: [
     {
       title: `Emergency Response Across Ashburn`,
-      description: `Call (877) 497-0007 and our hazmat crew deploys to your Ashburn commercial property. We reach One Loudoun, Broadlands, Brambleton, Lansdowne, and Ashburn Farm commercial areas within our response guarantee, establishing containment while coordinating with property management and HOA contacts as needed.`,
-      timeframe: `Within 60 minutes`,
+      description: `Call (877) 497-0007 and our hazmat crew deploys to your Ashburn commercial property. We reach One Loudoun, Broadlands, Brambleton, Lansdowne, and Ashburn Farm commercial areas within our response target, establishing containment while coordinating with property management and HOA contacts as needed.`,
+      timeframe: `Emergency dispatch`,
     },
     {
       title: `Assessment with Construction Defect Awareness`,
-      description: `Our safety officer evaluates contamination scope while our team documents any evidence of construction-related plumbing failures. Improperly installed backflow prevention, undersized grease interceptors, and deficient pitch on waste lines are noted for potential warranty claims. Health department coordination begins for affected food service.`,
+      description: `Our safety coordinator evaluates contamination scope while our team documents any evidence of construction-related plumbing failures. Improperly installed backflow prevention, undersized grease interceptors, and deficient pitch on waste lines are noted for potential warranty claims. Health department coordination begins for affected food service.`,
       timeframe: `Hours 1-3`,
     },
     {
@@ -32,12 +32,12 @@ export const content: CityServiceContent = {
     },
     {
       title: `Decontamination`,
-      description: `Contaminated materials are removed and disposed of through licensed biomedical waste contractors. Modern commercial finishes in Ashburn properties receive antimicrobial treatment verified by ATP surface testing. Construction defect evidence is preserved and documented throughout.`,
+      description: `Contaminated materials are removed and disposed of through qualified biomedical waste disposal vendors. Modern commercial finishes in Ashburn properties receive antimicrobial treatment verified by ATP surface testing. Construction defect evidence is preserved and documented throughout.`,
       timeframe: `Hours 8-22`,
     },
     {
       title: `Clearance and Warranty Documentation`,
-      description: `ATP testing verifies OSHA compliance. We provide standard clearance packages plus additional construction defect documentation when applicable—supporting both insurance claims and builder warranty actions that Ashburn commercial property owners may pursue.`,
+      description: `ATP testing verifies OSHA compliance. We provide standard verification packages plus additional construction defect documentation when applicable—supporting both insurance claims and builder warranty actions that Ashburn commercial property owners may pursue.`,
       timeframe: `Day 2-3`,
     },
   ],
@@ -92,7 +92,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `Antimicrobial Fogging Systems`,
-        purpose: `Treat large modern commercial floor plans efficiently, reaching concealed surfaces in open-plan Ashburn retail and office spaces`,
+        purpose: `Treat large modern commercial floor plans efficiently, reaching concealed surfaces in open-plan Ashburn retail and commercial spaces`,
       },
     ],
     localNote: `Our Ashburn equipment fleet is matched to the corridor's modern commercial building stock—sized for the large floor plates, open designs, and newer materials that characterize Loudoun County's rapid development-era construction.`,
@@ -101,7 +101,7 @@ export const content: CityServiceContent = {
     headline: `Commercial Sewage Cleanup Costs in Ashburn`,
     intro: `Ashburn commercial sewage cleanup costs depend on contamination scope, facility type, and whether construction defect documentation is required. We provide detailed estimates and coordinate with commercial insurance carriers. Warranty claim documentation is included when construction defects contribute to the sewage event.`,
     factors: [
-      `Facility type—retail centers, office buildings, restaurants, and data center support facilities each present different remediation requirements`,
+      `Facility type—retail centers, commercial buildings, restaurants, and data center support facilities each present different remediation requirements`,
       `Construction defect involvement—warranty claim documentation adds investigation scope but may recover costs from builders`,
       `Infrastructure overload factors—system surcharge events may affect multiple properties simultaneously`,
       `HOA compliance—community governance requirements may affect scheduling and exterior restoration standards`,
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       `Stone Ridge`,
       `Ashburn Station`,
     ],
-    responseTime: `60-minute emergency response to all Ashburn commercial properties. Our hazmat crews are stationed along the Loudoun County corridor for immediate dispatch to One Loudoun, Broadlands, Brambleton, and all Ashburn commercial areas.`,
+    responseTime: `prompt emergency response to all Ashburn commercial properties. Our hazmat crews are available along the Loudoun County corridor for immediate dispatch to One Loudoun, Broadlands, Brambleton, and all Ashburn commercial areas.`,
   },
   faqs: [
     {
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Ashburn?`,
-    paragraph: `From One Loudoun retail to Broadlands office parks, our OSHA-compliant hazmat crews provide rapid remediation with new construction defect awareness. Call (877) 497-0007 for immediate containment, decontamination, and documentation that protects your property and your warranty rights.`,
+    paragraph: `From One Loudoun retail to Broadlands workplace parks, our OSHA-compliant hazmat crews provide rapid remediation with new construction defect awareness. Call (877) 497-0007 for immediate containment, decontamination, and documentation that protects your property and your warranty rights.`,
   },
 }

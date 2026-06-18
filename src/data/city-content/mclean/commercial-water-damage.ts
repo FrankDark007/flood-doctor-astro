@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in McLean, VA | Flood Doctor',
-    description: `McLean's premier commercial water damage specialists. Rapid response to corporate campuses, professional offices & executive suites along Georgetown Pike. Call (877) 497-0007.`,
+    description: `McLean's premier commercial water damage specialists. Rapid response to corporate campuses, professional workplaces & executive suites along Georgetown Pike. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in McLean, Virginia',
   introSection: {
     headline: `Protecting McLean's Premium Commercial Properties from Water Damage`,
     paragraphs: [
-      `McLean's commercial landscape is defined by high-value professional offices, corporate headquarters, and premium retail spaces that demand a restoration partner operating at an executive level. When a fire suppression system discharges across three floors of a Langley office building, or an HVAC condensate failure saturates a Chesterbrook executive suite, the financial consequences extend far beyond repair costs. Tenant displacement, lease obligation disruptions, and reputational damage to prestigious addresses require a response team that understands both the technical restoration and the business implications unique to McLean's commercial market.
+      `McLean's commercial landscape is defined by high-value professional workplaces, corporate headquarters, and premium retail spaces that demand a restoration partner operating at an executive level. When a fire suppression system discharges across three floors of a Langley commercial building, or an HVAC condensate failure saturates a Chesterbrook executive suite, the financial consequences extend far beyond repair costs. Tenant displacement, lease obligation disruptions, and reputational damage to prestigious addresses require a response team that understands both the technical restoration and the business implications unique to McLean's commercial market.
 
-Flood Doctor's commercial division has restored water-damaged properties throughout McLean's most exclusive business corridors. We've managed multi-suite extractions in The Reserve office parks, dried server rooms in Salona Village professional centers, and coordinated after-hours restoration in Woodside Estates corporate campuses—all while maintaining the discretion and professionalism that McLean's business community expects.`,
-      `The commercial properties along Georgetown Pike and Chain Bridge Road present restoration challenges distinct from typical Northern Virginia office stock. Many McLean professional buildings feature premium finishes—hardwood conference rooms, marble lobby floors, custom millwork—that require specialized drying protocols to preserve rather than replace. Building systems in these properties often include sophisticated HVAC configurations, integrated fire suppression, and dedicated server infrastructure that demand technicians with commercial building expertise.
+Flood Doctor's commercial division has restored water-damaged properties throughout McLean's most exclusive business corridors. We've managed multi-suite extractions in The Reserve workplace parks, dried server rooms in Salona Village professional centers, and coordinated after-hours restoration in Woodside Estates corporate campuses—all while maintaining the discretion and professionalism that McLean's business community expects.`,
+      `The commercial properties along Georgetown Pike and Chain Bridge Road present restoration challenges distinct from typical Northern Virginia workplace stock. Many McLean professional buildings feature premium finishes—hardwood conference rooms, marble lobby floors, custom millwork—that require specialized drying protocols to preserve rather than replace. Building systems in these properties often include sophisticated HVAC configurations, integrated fire suppression, and dedicated server infrastructure that demand technicians with commercial building experience.
 
-Our IICRC-certified commercial teams carry the credentials and equipment to handle McLean's most demanding commercial water damage scenarios. From sprinkler discharge in a Great Falls Park-adjacent medical office to burst supply lines flooding a McLean Community Center-area retail space, we deploy industrial-scale resources while maintaining the premium service standard this market requires.`,
+Our trained commercial teams carry the credentials and equipment to handle McLean's most demanding commercial water damage scenarios. From sprinkler discharge in a Great Falls Park-adjacent medical workplace to burst supply lines flooding a McLean Community Center-area retail space, we deploy industrial-scale resources while maintaining the premium service standard this market requires.`,
     ],
-    localContext: `McLean's concentration of corporate headquarters, government contractor offices, and premium professional spaces near Chain Bridge and Georgetown Pike creates a commercial property market where water damage response must balance technical excellence with business-class service expectations.`,
+    localContext: `McLean's concentration of corporate headquarters, government contractor workplaces, and premium professional spaces near Chain Bridge and Georgetown Pike creates a commercial property market where water damage response must balance technical excellence with business-class service expectations.`,
   },
   processSteps: [
     {
       title: 'Priority Commercial Dispatch',
-      description: `Contact our McLean commercial hotline at (877) 497-0007 for immediate large-loss deployment. Our commercial crews are positioned throughout the Georgetown Pike corridor and can reach Langley, Chesterbrook, and Salona Village business districts within our guaranteed response window.`,
-      timeframe: 'Within 45 minutes',
+      description: `Contact our McLean commercial hotline at (877) 497-0007 for immediate large-loss deployment. Our commercial crews serve the Georgetown Pike corridor, including Langley, Chesterbrook, and Salona Village business districts within our intended response window.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Commercial Scope Assessment',
@@ -46,30 +46,30 @@ Our IICRC-certified commercial teams carry the credentials and equipment to hand
     },
     {
       title: 'Verification & Restoration Planning',
-      description: 'Final moisture verification using scientific-grade instruments confirms complete drying. We deliver a comprehensive restoration plan for rebuilding affected areas, matching the premium finishes and specifications that McLean commercial tenants expect.',
+      description: 'Final moisture verification using scientific-grade instruments confirms target dry standards. We deliver a comprehensive restoration plan for rebuilding affected areas, matching the premium finishes and specifications that McLean commercial tenants expect.',
       timeframe: 'Days 5-7',
     },
   ],
   localChallenges: [
     {
       title: 'Premium Finish Preservation in Executive Spaces',
-      description: 'McLean commercial properties frequently feature hardwood conference rooms, marble reception areas, and custom millwork that represent significant capital investment. Standard drying approaches used in typical office buildings can warp hardwood, crack marble, and delaminate custom cabinetry.',
+      description: 'McLean commercial properties frequently feature hardwood conference rooms, marble reception areas, and custom millwork that represent significant capital investment. Standard drying approaches used in typical commercial buildings can warp hardwood, crack marble, and delaminate custom cabinetry.',
       solution: 'We deploy material-specific drying protocols with controlled temperature and humidity parameters. Hardwood floors receive weighted drying mats, marble surfaces get low-heat indirect drying, and millwork is dried in place using cavity drying systems that preserve finishes.',
     },
     {
       title: 'Multi-Tenant Suite Coordination',
-      description: 'Water from a burst pipe or sprinkler discharge in one Langley office suite migrates through shared walls, ceiling plenums, and floor assemblies into adjacent tenants. Each affected business has different operational schedules, insurance carriers, and restoration urgency levels.',
+      description: 'Water from a burst pipe or sprinkler discharge in one Langley workplace suite migrates through shared walls, ceiling plenums, and floor assemblies into adjacent tenants. Each affected business has different operational schedules, insurance carriers, and restoration urgency levels.',
       solution: `Our project manager serves as a single coordination point across all affected tenants. We establish individual scopes, manage separate insurance claims, and schedule work to accommodate each tenant's operational needs—including after-hours noisy work and business-hours quiet drying.`,
     },
     {
       title: 'Server Room and IT Infrastructure Protection',
-      description: `McLean's government contractor offices and corporate headquarters house critical IT infrastructure that requires immediate protection from water exposure. Corrosion begins within hours on server components, and data loss from water-damaged systems can have catastrophic business consequences.`,
+      description: `McLean's government contractor workplaces and corporate headquarters house critical IT infrastructure that requires immediate protection from water exposure. Corrosion begins within hours on server components, and data loss from water-damaged systems can have catastrophic business consequences.`,
       solution: 'Anti-corrosion treatments are applied to IT equipment within the first response window. We establish controlled drying environments around server rooms and coordinate with your IT team on emergency relocations when necessary. Our documentation supports both insurance claims and equipment warranty processes.',
     },
     {
       title: 'Discreet Operations for Prestigious Addresses',
       description: 'McLean commercial properties near Chain Bridge and Georgetown Pike serve high-profile clients—law firms, consulting groups, financial advisors—where visible restoration equipment in lobbies or parking areas can undermine client confidence and professional image.',
-      solution: 'We use rear entrances, freight elevators, and concealed equipment staging. Work vehicles are unmarked when requested. After-hours equipment placement and removal ensure that business-hours operations maintain their professional appearance throughout the restoration.',
+      solution: 'We use rear entrances, freight elevators, and concealed equipment dispatch planning. Work vehicles are unmarked when requested. After-hours equipment placement and removal ensure that business-hours operations maintain their professional appearance throughout the restoration.',
     },
   ],
   equipmentSection: {
@@ -77,12 +77,12 @@ Our IICRC-certified commercial teams carry the credentials and equipment to hand
     equipment: [
       {
         name: 'Truck-Mounted Commercial Extractors',
-        purpose: 'Remove thousands of gallons per hour from flooded office suites, lobbies, and multi-story commercial spaces',
+        purpose: 'Remove thousands of gallons per hour from flooded workplace suites, lobbies, and multi-story commercial spaces',
         brand: 'Prochem',
       },
       {
         name: 'Low-Grain Refrigerant Dehumidifiers',
-        purpose: 'Industrial-capacity moisture removal calibrated for large open office floor plans and commercial HVAC environments',
+        purpose: 'Industrial-capacity moisture removal calibrated for large open workplace floor plans and commercial HVAC environments',
         brand: 'Dri-Eaz',
       },
       {
@@ -105,7 +105,7 @@ Our IICRC-certified commercial teams carry the credentials and equipment to hand
         brand: 'Dri-Eaz FloorMat',
       },
     ],
-    localNote: 'Our McLean commercial response trucks carry equipment scaled for premium office properties—from executive suite cavity drying to multi-floor industrial extraction—plus specialty tools for the high-end finishes common in Georgetown Pike corridor commercial spaces.',
+    localNote: 'Our McLean commercial response trucks carry equipment scaled for premium workplace properties—from executive suite cavity drying to multi-floor industrial extraction—plus specialty tools for the high-end finishes common in Georgetown Pike corridor commercial spaces.',
   },
   pricingSection: {
     headline: 'Commercial Water Damage Restoration Costs in McLean',
@@ -135,20 +135,20 @@ Our IICRC-certified commercial teams carry the credentials and equipment to hand
       'Old Dominion Drive Corridor',
       'Dolley Madison Commercial Area',
     ],
-    responseTime: '45-minute commercial response to all McLean business districts. Our crews are positioned along the Georgetown Pike and Chain Bridge corridors for rapid deployment to Langley, Chesterbrook, and surrounding commercial areas.',
+    responseTime: 'prompt commercial response to all McLean business districts. Our crews serve the Georgetown Pike and Chain Bridge corridors for rapid deployment to Langley, Chesterbrook, and surrounding commercial areas.',
   },
   faqs: [
     {
       question: 'How quickly can you respond to a commercial water emergency in McLean?',
-      answer: 'Our commercial dispatch operates 24/7 with crews positioned in the McLean area. Initial response reaches Georgetown Pike corridor and Langley-area commercial properties within 45 minutes. For large-loss events requiring multiple crews, we scale resources within 4-6 hours. Call (877) 497-0007 immediately.',
+      answer: 'Our commercial dispatch operates 24/7 with crews serve in the McLean area. Initial response reaches Georgetown Pike corridor and Langley-area commercial properties as quickly as available crews can safely arrive. For large-loss events requiring multiple crews, we scale resources within 4-6 hours. Call (877) 497-0007 immediately.',
     },
     {
-      question: 'Can you work after business hours to avoid disrupting our McLean office operations?',
-      answer: 'Absolutely. We routinely schedule noisy extraction and demolition work during evenings and weekends for McLean professional offices. Quieter drying equipment runs during business hours with minimal disruption. We coordinate all scheduling through your facilities manager or property management company.',
+      question: 'Can you work after business hours to avoid disrupting our McLean workplace operations?',
+      answer: 'Absolutely. We routinely schedule noisy extraction and demolition work during evenings and weekends for McLean professional workplaces. Quieter drying equipment runs during business hours with minimal disruption. We coordinate all scheduling through your facilities manager or property management company.',
     },
     {
       question: 'Do you handle government contractor facility restoration?',
-      answer: 'Yes. McLean hosts numerous government contractors with specific security and operational requirements. We work within SCIF-adjacent protocols, coordinate with facility security officers, and maintain the clearance awareness needed for sensitive environments common in the Langley corridor.',
+      answer: 'Yes. McLean hosts numerous government contractors with specific security and operational requirements. We work within SCIF-adjacent protocols, coordinate with facility security coordinators, and maintain the verification awareness needed for sensitive environments common in the Langley corridor.',
     },
     {
       question: 'How do you protect premium finishes during commercial restoration?',
@@ -163,8 +163,8 @@ Our IICRC-certified commercial teams carry the credentials and equipment to hand
       answer: 'We manage multi-tenant events as a single coordinated project with individual scopes for each affected tenant. One project manager coordinates all parties—property management, individual tenants, and multiple insurance carriers—while maintaining separate documentation for each claim.',
     },
     {
-      question: 'Can you provide a pre-loss emergency response plan for our McLean property?',
-      answer: 'Yes. We offer pre-loss planning services including facility assessments, emergency response protocols, and priority response agreements. McLean property managers who partner with us receive guaranteed response times and a dedicated contact for emergency dispatch.',
+      question: 'Can you provide a documented prior emergency response plan for our McLean property?',
+      answer: 'Yes. We offer documented prior planning services including facility assessments, emergency response protocols, and priority response agreements. McLean property managers who partner with us receive intended response times and a dedicated contact for emergency dispatch.',
     },
     {
       question: 'How do you handle water damage to our server room or IT closet?',
@@ -177,6 +177,6 @@ Our IICRC-certified commercial teams carry the credentials and equipment to hand
   ],
   finalCTA: {
     headline: 'Commercial Water Emergency in McLean?',
-    paragraph: 'Every hour of delay compounds business losses. Our commercial crews are positioned throughout the McLean corridor for immediate response. One call mobilizes industrial-scale resources with the premium service standard your property demands.',
+    paragraph: 'Every hour of delay compounds business losses. Our commercial crews provide service-area response throughout the McLean corridor. One call mobilizes industrial-scale resources with the premium service standard your property demands.',
   },
 }

@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When severe weather crosses Fairfax County, McLean's mature trees become liabilities. The stately oaks that shade your Langley estate can drop limbs through roofs, crash into pool houses, or topple onto power lines that arc into landscaping. Add wind-driven rain, hail damage, and overwhelmed storm drainage, and a single storm can create multiple damage types across your property.
 
-Flood Doctor responds to storm damage throughout McLean within 30 minutes of safe travel conditions. We've tarped roofs in The Reserve during active weather, extracted storm water from Chesterbrook basements, and coordinated tree removal with restoration at Woodside Estates properties. Storm damage requires rapid response to prevent secondary water damage—every hour a compromised roof leaks, restoration costs climb.`,
+Flood Doctor responds to storm damage throughout McLean as quickly as available crews can safely arrive of safe travel conditions. We've tarped roofs in The Reserve during active weather, extracted storm water from Chesterbrook basements, and coordinated tree removal with restoration at Woodside Estates properties. Storm damage requires rapid response to prevent secondary water damage—every hour a compromised roof leaks, restoration costs climb.`,
       `McLean's storm damage differs from typical suburban properties. Estate homes present larger roof areas for wind and hail exposure. The Reserve's gated properties have extensive outdoor structures—pool houses, guest cottages, detached garages—each vulnerable to storm damage. Mature tree canopy in Langley and Salona Village means more debris impact risk than newer developments.
 
 We coordinate all aspects of storm restoration: emergency tarping, water extraction, structural drying, debris removal coordination, and insurance documentation. One call handles everything—from the moment the storm passes until your property is restored.`,
@@ -21,7 +21,7 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
   processSteps: [
     {
       title: 'Emergency Dispatch',
-      description: 'Call (877) 497-0007 as soon as safely possible after storm damage. We dispatch crews throughout McLean when severe weather clears, reaching Langley, Chesterbrook, The Reserve, and surrounding neighborhoods within our 30-minute guarantee.',
+      description: 'Call (877) 497-0007 as soon as safely possible after storm damage. We dispatch crews throughout McLean when severe weather clears, reaching Langley, Chesterbrook, The Reserve, and surrounding neighborhoods with prompt service-area dispatch.',
       timeframe: '30 minutes after safe conditions',
     },
     {
@@ -80,12 +80,12 @@ We coordinate all aspects of storm restoration: emergency tarping, water extract
       'Clearspring Manor',
       'Langley Farms',
     ],
-    responseTime: '30-minute response as soon as conditions are safe. During severe weather events, we pre-position crews and equipment to respond immediately when storms clear. McLean receives priority response due to mature tree density.',
+    responseTime: 'rapid emergency response as soon as conditions are safe. During severe weather events, we prepare crews for service-area coverage and equipment to respond immediately when storms clear. McLean receives priority response due to mature tree density.',
   },
   faqs: [
     {
       question: 'When should I call after storm damage?',
-      answer: `Call immediately once it's safe. Even if you're not sure about damage extent, early assessment and emergency tarping prevent secondary water damage. We respond to McLean calls within 30 minutes of safe travel conditions—often while rain is still falling.`,
+      answer: `Call immediately once it's safe. Even if you're not sure about damage extent, early assessment and emergency tarping prevent secondary water damage. We respond to McLean calls as quickly as available crews can safely arrive of safe travel conditions—often while rain is still falling.`,
     },
     {
       question: 'A tree fell on my McLean home. What do I do?',

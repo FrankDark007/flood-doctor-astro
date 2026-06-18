@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Ashburn, VA | Flood Doctor',
-    description: `Ashburn large loss restoration for data center campuses, new construction office complexes & master-planned commercial developments. Enterprise project management. Call (877) 497-0007.`,
+    description: `Ashburn large loss restoration for data center campuses, new construction commercial complexes & master-planned commercial developments. Enterprise project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Ashburn, Virginia',
   introSection: {
     headline: `Enterprise-Scale Restoration for Ashburn's Data Corridor and Growing Commercial Portfolio`,
     paragraphs: [
-      `Large loss events in Ashburn carry unique stakes in two dimensions: the technology infrastructure losses that can occur when water reaches the world's densest concentration of data center equipment, and the new-construction warranty implications when catastrophic water damage stems from builder defects in recently completed commercial developments. A multi-building cooling system failure at a Loudoun County Parkway data center campus, a fire suppression malfunction cascading through an entire One Loudoun office complex, or a development-related drainage failure flooding a newly completed Brambleton commercial center—each produces a restoration project measured in millions of dollars with technical complexity that standard commercial restoration firms cannot manage.
+      `Large loss events in Ashburn carry unique stakes in two dimensions: the technology infrastructure losses that can occur when water reaches the world's densest concentration of data center equipment, and the new-construction warranty implications when catastrophic water damage stems from builder defects in recently completed commercial developments. A multi-building cooling system failure at a Loudoun County Parkway data center campus, a fire suppression malfunction cascading through an entire One Loudoun commercial complex, or a development-related drainage failure flooding a newly completed Brambleton commercial center—each produces a restoration project measured in millions of dollars with technical complexity that standard commercial restoration firms cannot manage.
 
-Flood Doctor's large loss division has managed Ashburn's most complex commercial restoration projects. Our senior project directors have coordinated data center campus recoveries along the Loudoun County Parkway, managed multi-building new-construction restorations in Broadlands, and delivered phased commercial center recoveries near Lansdowne—bringing enterprise project management with both technology facility expertise and new-construction warranty awareness.`,
+Flood Doctor's large loss division supports complex Ashburn commercial restoration projects. Our senior project directors coordinate data center campus recovery planning along the Loudoun County Parkway, support multi-building new-construction restoration planning in Broadlands, and support phased commercial center recovery work near Lansdowne—bringing enterprise project management with both technology facility experience and new-construction warranty awareness.`,
       `Ashburn's large loss landscape presents challenges that do not exist in other Northern Virginia markets. Data center large loss events involve equipment replacement costs that dwarf building restoration expenses—and the business interruption implications of computing downtime can exceed both. New-construction large loss events require forensic assessment distinguishing builder defects from maintenance failures, documentation meeting litigation standards, and restoration approaches that preserve warranty claim viability. And the rapid growth of Ashburn's commercial inventory means that large loss events increasingly affect properties still within builder warranty periods—creating dual recovery paths through both insurance and builder warranty channels.
 
 Our project directors navigate this dual-track landscape with construction management credentials and technology facility awareness. They sequence building restoration around equipment procurement timelines, document damage with litigation-grade forensic standards, and manage the insurance and warranty negotiations that Ashburn's unique commercial environment generates.`,
@@ -115,7 +115,7 @@ Our project directors navigate this dual-track landscape with construction manag
       'Modern material complexity—new-construction buildings with contemporary materials require calibrated drying at scale',
       'Multiple recovery tracks—managing insurance claims, warranty recovery, and infrastructure claims in parallel adds coordination scope',
     ],
-    cta: `Call (877) 497-0007 for immediate large loss response. Our senior project director brings data center expertise and new-construction warranty awareness for the dual-track management Ashburn's commercial market demands.`,
+    cta: `Call (877) 497-0007 for immediate large loss response. Our senior project director brings data center experience and new-construction warranty awareness for the dual-track management Ashburn's commercial market demands.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -132,7 +132,7 @@ Our project directors navigate this dual-track landscape with construction manag
       'Russell Branch Business Park',
       'Moorefield Station',
     ],
-    responseTime: 'Emergency stabilization with technology protection within 45 minutes to Ashburn commercial properties. Full large loss mobilization for campus-scale events scales within 8-12 hours.',
+    responseTime: 'Emergency stabilization with technology protection as quickly as available crews can safely arrive to Ashburn commercial properties. Full large loss mobilization for campus-scale events scales within 8-12 hours.',
   },
   faqs: [
     {
@@ -174,6 +174,6 @@ Our project directors navigate this dual-track landscape with construction manag
   ],
   finalCTA: {
     headline: 'Large Loss Event at Your Ashburn Commercial Property?',
-    paragraph: 'Whether a data center campus flood or a new-construction building failure, Ashburn large loss events demand enterprise management with technology expertise and warranty awareness. Our project directors deliver both dimensions from day one.',
+    paragraph: 'Whether a data center campus flood or a new-construction building failure, Ashburn large loss events demand enterprise management with technology experience and warranty awareness. Our project directors deliver both dimensions from day one.',
   },
 }

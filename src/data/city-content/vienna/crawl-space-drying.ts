@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Vienna, VA | Flood Doctor',
-    description: `Vienna's trusted crawl space specialists. Serving Vienna Town, Oakton & Dunn Loring. Historic and luxury home expertise. Vapor barriers & dehumidification. Call (877) 497-0007.`,
+    description: `Vienna's local crawl space specialists. Serving Vienna Town, Oakton & Dunn Loring. Historic and luxury home experience. Vapor barriers & dehumidification. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Vienna, Virginia',
   introSection: {
@@ -22,7 +22,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Water Removal & Site Preparation',
-      description: 'Standing water from hot water heater failures, plumbing leaks, or groundwater intrusion is extracted. Old vapor barriers, fallen insulation, and debris are removed completely. For homes near Clarks Crossing where spring water table rises occur, we assess whether ongoing groundwater management is needed.',
+      description: 'Standing water from hot water heater failures, plumbing leaks, or groundwater intrusion is extracted. Old vapor barriers, fallen insulation, and debris are removed to target dry standards. For homes near Clarks Crossing where spring water table rises occur, we assess whether ongoing groundwater management is needed.',
       timeframe: 'Day 1',
     },
     {
@@ -59,7 +59,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Addition-Created Multi-Section Crawl Spaces',
-      description: 'Many Vienna homes have been expanded over the decades—family rooms, sunrooms, master suites added to original 1960s footprints. Each addition creates a separate crawl space section with its own foundation, clearance, and moisture conditions. Treating only the original section leaves the additions unprotected.',
+      description: 'Many Vienna homes have been expanded over the decades—family rooms, sunrooms, master suites added to original 1960s footprints. Each addition creates a separate crawl space section with its own foundation, verification, and moisture conditions. Treating only the original section leaves the additions unprotected.',
       solution: 'We survey the entire below-grade footprint including all additions and treat them as a unified system. Vapor barriers bridge between original and added sections, dehumidification covers total volume, and drainage connects across all foundation areas.',
     },
     {
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Lakevale Estates',
       'Nottoway Park area',
     ],
-    responseTime: 'Same-day crawl space inspections for Vienna and Oakton homeowners. Emergency flooding response within 45 minutes throughout the Vienna corridor from Dunn Loring to Wolftrap.',
+    responseTime: 'Same-day crawl space inspections for Vienna and Oakton homeowners. Emergency flooding response as quickly as available crews can safely arrive throughout the Vienna corridor from Dunn Loring to Wolftrap.',
   },
   faqs: [
     {
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Vienna Crawl Space Problems? Get a Free Inspection.',
-    paragraph: `Whether you own an established colonial near Church Street or a newer home in Oakton, your crawl space deserves professional attention. Call (877) 497-0007 for a thorough, no-obligation inspection from Vienna's trusted crawl space specialists.`,
+    paragraph: `Whether you own an established colonial near Church Street or a newer home in Oakton, your crawl space deserves professional attention. Call (877) 497-0007 for a thorough, no-obligation inspection from Vienna's local crawl space specialists.`,
   },
 }

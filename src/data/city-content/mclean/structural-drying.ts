@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in McLean, VA | Flood Doctor',
-    description: `McLean's premier structural drying specialists. Discreet 30-min response to Langley, Chesterbrook & The Reserve estates. Psychrometric monitoring for luxury homes. Call (877) 497-0007.`,
+    description: `McLean's premier structural drying specialists. Discreet rapid response to Langley, Chesterbrook & The Reserve estates. Psychrometric monitoring for luxury homes. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in McLean, Virginia',
   introSection: {
     headline: 'Precision Structural Drying for McLean Estate Homes',
     paragraphs: [
-      `Water-damaged building materials in a McLean estate demand a level of expertise that standard restoration companies simply cannot provide. Your Langley home may feature imported marble flooring, custom millwork, and climate-controlled wine cellars that require precise psychrometric calculations to dry without causing secondary damage. A Woodside Estates property with a 5,000-square-foot finished basement presents drying challenges that differ fundamentally from a typical suburban home. Flood Doctor brings IICRC-certified structural drying science specifically calibrated for the high-value properties along Georgetown Pike and throughout McLean's premier neighborhoods.
+      `Water-damaged building materials in a McLean estate demand a level of experience that standard restoration companies simply cannot provide. Your Langley home may feature imported marble flooring, custom millwork, and climate-controlled wine cellars that require precise psychrometric calculations to dry without causing secondary damage. A Woodside Estates property with a 5,000-square-foot finished basement presents drying challenges that differ fundamentally from a typical suburban home. Flood Doctor brings trained structural drying science specifically calibrated for the high-value properties along Georgetown Pike and throughout McLean's premier neighborhoods.
 
 Our structural drying team has protected some of McLean's most significant residential properties. We have dried hand-plastered walls in Salona Village colonials without cracking, restored hardwood flooring in Chesterbrook homes without cupping or crowning, and maintained precise humidity levels in wine cellars and art storage rooms throughout The Reserve. Every drying project we undertake in McLean begins with an understanding that the materials at stake are not commodity products — they are investments that deserve scientific precision.`,
       `The science of structural drying in McLean's estate homes requires mastery of psychrometry — the study of air-moisture relationships that governs how building materials release trapped water. Our technicians calculate grain depression, specific humidity, and dew point temperature daily for each zone of your property, adjusting equipment placement and settings to create optimal drying conditions. This matters profoundly in homes with multiple building material types: the mahogany library paneling in your Balls Hill estate dries at a different rate than the limestone in your foyer, and both require different atmospheric conditions than the engineered subfloor beneath your home theater.
 
-We deploy commercial LGR dehumidifiers and desiccant units alongside high-velocity air movers positioned with calculated precision. Our injection drying systems reach moisture trapped inside wall cavities, beneath cabinetry, and under flooring — areas where hidden moisture leads to mold growth and structural decay if left unaddressed. Throughout the process, we document every moisture reading at mapped grid points, creating the detailed scientific record your insurance carrier requires and that protects your property's substantial value.`,
+We deploy commercial LGR dehumidifiers and desiccant units alongside high-velocity air movers placed with calculated precision. Our injection drying systems reach moisture trapped inside wall cavities, beneath cabinetry, and under flooring — areas where hidden moisture leads to mold growth and structural decay if left unaddressed. Throughout the process, we document every moisture reading at mapped grid points, creating the detailed scientific record your insurance carrier requires and that protects your property's substantial value.`,
     ],
-    localContext: `McLean's estate properties — with their premium building materials, complex floor plans spanning 4,000 to 15,000 square feet, and high-value amenities like wine cellars and home theaters — require structural drying expertise that combines scientific precision with material-specific knowledge.`,
+    localContext: `McLean's estate properties — with their premium building materials, complex floor plans spanning 4,000 to 15,000 square feet, and high-value amenities like wine cellars and home theaters — require structural drying experience that combines scientific precision with material-specific knowledge.`,
   },
   processSteps: [
     {
       title: 'Discreet Emergency Response',
-      description: `When you contact our McLean line at (877) 497-0007, we dispatch unmarked vehicles and uniformed technicians who understand the discretion McLean homeowners expect. Our teams reach Langley, The Reserve, Chesterbrook, and El Nido within 30 minutes from our Northern Virginia staging locations.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you contact our McLean line at (877) 497-0007, we dispatch unmarked vehicles and uniformed technicians who understand the discretion McLean homeowners expect. Our teams reach Langley, The Reserve, Chesterbrook, and El Nido as quickly as available crews can safely arrive from our Northern Virginia dispatch planning locations.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Estate-Scale Moisture Mapping',
@@ -36,7 +36,7 @@ We deploy commercial LGR dehumidifiers and desiccant units alongside high-veloci
     },
     {
       title: 'Equipment Deployment & Calibration',
-      description: 'Commercial dehumidifiers, air movers, and injection drying systems are positioned according to the drying plan. For McLean estates, this often means deploying equipment across multiple floors and specialized spaces while minimizing disruption to your household and protecting finished surfaces.',
+      description: 'Commercial dehumidifiers, air movers, and injection drying systems are placed according to the drying plan. For McLean estates, this often means deploying equipment across multiple floors and specialized spaces while minimizing disruption to your household and protecting finished surfaces.',
       timeframe: 'Hours 5-8',
     },
     {
@@ -46,7 +46,7 @@ We deploy commercial LGR dehumidifiers and desiccant units alongside high-veloci
     },
     {
       title: 'Verification & Premium Material Assessment',
-      description: 'Final verification uses both meter readings and thermal imaging to confirm complete drying. We then assess every premium material — hardwood, stone, custom finishes — and provide detailed recommendations for any restoration or refinishing needed to return your home to pre-loss condition.',
+      description: 'Final verification uses both meter readings and thermal imaging to confirm target dry standards. We then assess every premium material — hardwood, stone, custom finishes — and provide detailed recommendations for any restoration or refinishing needed to return your home to documented prior condition.',
       timeframe: 'Days 5-7',
     },
   ],
@@ -118,7 +118,7 @@ We deploy commercial LGR dehumidifiers and desiccant units alongside high-veloci
   },
   pricingSection: {
     headline: 'Structural Drying Investment for McLean Properties',
-    intro: 'Structural drying costs in McLean reflect the scale and complexity of estate properties. We provide comprehensive assessments and detailed estimates before beginning work. Most McLean homeowners file insurance claims, and we handle direct billing with all major carriers while providing the premium documentation these high-value claims require.',
+    intro: 'Structural drying costs in McLean reflect the scale and complexity of estate properties. We provide comprehensive assessments and detailed estimates before beginning work. Most McLean homeowners file insurance claims, and we handle claim-support documentation for insurers while providing the premium documentation these high-value claims require.',
     factors: [
       'Property square footage affected — McLean estates often require multi-zone drying across 4,000-15,000 square feet',
       'Material complexity — exotic hardwoods, natural stone, and custom finishes require specialized drying protocols that add precision time',
@@ -145,7 +145,7 @@ We deploy commercial LGR dehumidifiers and desiccant units alongside high-veloci
       'Parkview Hills',
       'Spring Hill',
     ],
-    responseTime: '30-minute response to all McLean neighborhoods. Our crews operate with the discretion and professionalism that McLean homeowners expect — unmarked vehicles, uniformed technicians, and scheduled arrivals that respect your privacy.',
+    responseTime: 'rapid emergency response to all McLean neighborhoods. Our crews operate with the discretion and professionalism that McLean homeowners expect — unmarked vehicles, uniformed technicians, and scheduled arrivals that respect your privacy.',
   },
   faqs: [
     {
@@ -158,7 +158,7 @@ We deploy commercial LGR dehumidifiers and desiccant units alongside high-veloci
     },
     {
       question: 'Will your equipment damage custom millwork or finishes?',
-      answer: 'No. We use injection drying systems that dry wall cavities behind millwork without removal. All equipment is placed on protective pads, and air movers are positioned to avoid directing airflow at delicate finishes. Our technicians are trained in working within luxury residential environments.',
+      answer: 'No. We use injection drying systems that dry wall cavities behind millwork without removal. All equipment is placed on protective pads, and air movers are placed to avoid directing airflow at delicate finishes. Our technicians are trained in working within luxury residential environments.',
     },
     {
       question: 'How long does structural drying take in a large McLean estate?',
@@ -187,6 +187,6 @@ We deploy commercial LGR dehumidifiers and desiccant units alongside high-veloci
   ],
   finalCTA: {
     headline: 'Water Damage Threatening Your McLean Estate?',
-    paragraph: 'Every hour of uncontrolled moisture risks permanent damage to premium materials and high-value spaces. Our structural drying specialists are positioned throughout Northern Virginia for immediate 30-minute response to McLean properties. One call to (877) 497-0007 deploys the scientific drying expertise your estate demands.',
+    paragraph: 'Every hour of uncontrolled moisture risks permanent damage to premium materials and high-value spaces. Our structural drying specialists are serving Northern Virginia for immediate rapid emergency response to McLean properties. One call to (877) 497-0007 deploys the scientific drying experience your estate demands.',
   },
 }

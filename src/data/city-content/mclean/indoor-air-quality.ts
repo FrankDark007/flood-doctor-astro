@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in McLean, VA | Flood Doctor',
-    description: `McLean's trusted indoor air quality testing service. Mold spore sampling, VOC analysis & HVAC assessment for estate homes in Langley, Chesterbrook & The Reserve. Call (877) 497-0007.`,
+    description: `McLean's local indoor air quality testing service. Mold spore sampling, VOC analysis & HVAC assessment for estate homes in Langley, Chesterbrook & The Reserve. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in McLean, Virginia',
   introSection: {
@@ -64,8 +64,8 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Post-Remediation Verification for High-Value Properties',
-      description: `After mold remediation or HVAC cleaning in McLean estates, verification testing must confirm that contamination has been eliminated before releasing containment and restoring premium finishes. The cost of re-remediation after premature clearance—including replacement of custom materials—makes thorough verification essential.`,
-      solution: `Post-remediation clearance testing follows IICRC S520 protocols with aggressive air sampling inside containment zones. We require spore concentrations below outdoor baseline levels before clearing remediation work. This rigorous standard protects your investment in both the remediation work and the premium materials being reinstalled.`,
+      description: `After mold remediation or HVAC cleaning in McLean estates, verification testing must confirm that contamination has been eliminated before releasing containment and restoring premium finishes. The cost of re-remediation after premature verification—including replacement of custom materials—makes thorough verification essential.`,
+      solution: `Post-remediation verification testing follows industry S520 protocols with aggressive air sampling inside containment zones. We require spore concentrations below outdoor baseline levels before clearing remediation work. This rigorous standard protects your investment in both the remediation work and the premium materials being reinstalled.`,
     },
   ],
   equipmentSection: {
@@ -109,7 +109,7 @@ export const content: CityServiceContent = {
       'Specialty room testing—wine cellars, media rooms, and art galleries require dedicated environmental evaluation',
       'Sample types needed—mold spore traps, VOC analysis, particulate monitoring, and HVAC surface sampling each carry laboratory fees',
       'Property square footage affecting the number of sampling locations needed for representative coverage',
-      'Post-remediation clearance testing scope including number of containment zones requiring verification',
+      'Post-remediation verification testing scope including number of containment zones requiring verification',
     ],
     cta: `Call (877) 497-0007 for a confidential consultation. We design a testing protocol matched to your McLean estate and specific air quality concerns.`,
   },
@@ -153,8 +153,8 @@ export const content: CityServiceContent = {
       answer: `Standard laboratory turnaround is 3-5 business days from sample receipt. Rush processing (24-48 hours) is available for urgent situations. We schedule a results consultation to explain findings, compare against guidelines, and discuss any recommended remediation steps.`,
     },
     {
-      question: 'Do you provide post-remediation clearance testing?',
-      answer: `Yes. Post-remediation clearance is a critical service ensuring contamination has been successfully eliminated before containment release and finish restoration. We follow IICRC S520 clearance protocols requiring spore concentrations at or below outdoor baseline levels—the most protective standard in the industry.`,
+      question: 'Do you provide post-remediation verification testing?',
+      answer: `Yes. Post-remediation verification is a critical service ensuring contamination has been successfully eliminated before containment release and finish restoration. We follow industry S520 verification protocols requiring spore concentrations at or below outdoor baseline levels—the most protective standard in the industry.`,
     },
     {
       question: 'Can HVAC contamination affect every room in my estate?',

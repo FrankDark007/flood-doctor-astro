@@ -59,8 +59,8 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Post-Water Damage Remediation Verification',
-      description: `Ashburn homeowners who experience water damage and subsequent mold remediation need verification that contamination was fully eliminated before containment release and finish reinstallation. In new construction where spray foam and modern materials complicate mold detection, post-remediation clearance requires heightened scrutiny.`,
-      solution: `Post-remediation clearance follows IICRC S520 aggressive air sampling protocols inside containment and in adjacent areas. We require concentrations at or below outdoor baseline levels before clearing remediation. For Ashburn homes with spray foam, we verify that concealed surfaces behind insulation were adequately treated.`,
+      description: `Ashburn homeowners who experience water damage and subsequent mold remediation need verification that contamination was fully eliminated before containment release and finish reinstallation. In new construction where spray foam and modern materials complicate mold detection, post-remediation verification requires heightened scrutiny.`,
+      solution: `Post-remediation verification follows industry S520 aggressive air sampling protocols inside containment and in adjacent areas. We require concentrations at or below outdoor baseline levels before clearing remediation. For Ashburn homes with spray foam, we verify that concealed surfaces behind insulation were adequately treated.`,
     },
   ],
   equipmentSection: {
@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
       'Number of rooms and HVAC zones requiring sampling in open floor plan designs',
       'VOC and formaldehyde testing additions when new-construction off-gassing is suspected',
       'Wall cavity investigation when spray foam concealment of mold is a concern',
-      'Post-remediation clearance scope including number of containment areas and adjacent verification zones',
+      'Post-remediation verification scope including number of containment areas and adjacent verification zones',
     ],
     cta: `Call (877) 497-0007 for a consultation. We design a testing protocol that answers your specific air quality concerns and provide transparent pricing.`,
   },
@@ -145,8 +145,8 @@ export const content: CityServiceContent = {
       answer: `Our documentation establishes the presence and severity of contamination and, when laboratory analysis identifies species associated with water damage, links air quality problems to construction-related moisture. This objective data strengthens warranty claims by connecting IAQ issues to specific construction deficiencies.`,
     },
     {
-      question: 'What is post-remediation clearance testing?',
-      answer: `After mold remediation, clearance testing verifies that contamination has been eliminated. We sample air inside the remediation containment and in adjacent areas, requiring spore concentrations at or below outdoor baseline levels before approving containment release and finish restoration. This protects your investment in the remediation work.`,
+      question: 'What is post-remediation verification testing?',
+      answer: `After mold remediation, verification testing verifies that contamination has been eliminated. We sample air inside the remediation containment and in adjacent areas, requiring spore concentrations at or below outdoor baseline levels before approving containment release and finish restoration. This protects your investment in the remediation work.`,
     },
     {
       question: 'How does spray foam affect mold detection?',

@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Ashburn, VA | Flood Doctor',
-    description: `Ashburn commercial water damage restoration. Data centers, new construction office parks & mixed-use developments near One Loudoun, Brambleton & Broadlands. Call (877) 497-0007.`,
+    description: `Ashburn commercial water damage restoration. Data centers, new construction workplace parks & mixed-use developments near One Loudoun, Brambleton & Broadlands. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Ashburn, Virginia',
   introSection: {
-    headline: `New Construction Commercial Expertise for Ashburn's Growing Business Landscape`,
+    headline: `New Construction Commercial Experience for Ashburn's Growing Business Landscape`,
     paragraphs: [
-      `Ashburn's commercial landscape is defined by growth—new office parks anchoring master-planned developments at One Loudoun and Brambleton, data center campuses concentrated along Loudoun County Parkway, and the mixed-use commercial spaces that serve the region's fastest-growing community. When water damage strikes a newly constructed office building in Broadlands, a data center support facility near Ashburn Ice House, or a retail space in Lansdowne's commercial center, the restoration challenges reflect this newer building stock: modern materials requiring specific drying protocols, builder warranty implications, and the HOA-governed commercial spaces where community association requirements add regulatory complexity.
+      `Ashburn's commercial landscape is defined by growth—new workplace parks anchoring master-planned developments at One Loudoun and Brambleton, data center campuses concentrated along Loudoun County Parkway, and the mixed-use commercial spaces that serve the region's fastest-growing community. When water damage strikes a newly constructed commercial building in Broadlands, a data center support facility near Ashburn Ice House, or a retail space in Lansdowne's commercial center, the restoration challenges reflect this newer building stock: modern materials requiring specific drying protocols, builder warranty implications, and the HOA-governed commercial spaces where community association requirements add regulatory complexity.
 
-Flood Doctor's commercial division has restored water-damaged businesses throughout Ashburn's rapidly expanding commercial portfolio. We've managed emergency responses at Loudoun County Parkway data facilities, dried water-damaged professional offices in the One Loudoun business district, and restored HVAC-related damage in Brambleton commercial spaces—bringing new-construction expertise to a market where understanding modern building materials and warranty documentation matters as much as extraction speed.`,
+Flood Doctor's commercial division has restored water-damaged businesses throughout Ashburn's rapidly expanding commercial portfolio. We've managed emergency responses at Loudoun County Parkway data facilities, dried water-damaged professional workplaces in the One Loudoun business district, and restored HVAC-related damage in Brambleton commercial spaces—bringing new-construction experience to a market where understanding modern building materials and warranty documentation matters as much as extraction speed.`,
       `Ashburn's commercial water damage challenges are shaped by the area's construction era. Buildings constructed during the 2000s-2020s use spray foam insulation, OSB structural panels, engineered flooring, and modern HVAC configurations that require technicians trained in current construction methods. Builder-grade supply lines and installation shortcuts during rapid-development phases produce failures at predictable intervals. And the data center concentration in Ashburn—the largest in the world—means that any commercial water damage response team serving this market must carry mission-critical IT protection capability alongside standard commercial restoration competence.
 
-Our IICRC-certified commercial teams understand Ashburn's modern building stock and its unique commercial profile. We document water damage with warranty implications for newer construction, deploy drying protocols calibrated for modern materials rather than legacy building systems, and carry anti-corrosion capability for the IT infrastructure that pervades Ashburn's commercial environment—from dedicated data centers to the server rooms in every commercial office building.`,
+Our trained commercial teams understand Ashburn's modern building stock and its unique commercial profile. We document water damage with warranty implications for newer construction, deploy drying protocols calibrated for modern materials rather than legacy building systems, and carry anti-corrosion capability for the IT infrastructure that pervades Ashburn's commercial environment—from dedicated data centers to the server rooms in every commercial commercial building.`,
     ],
-    localContext: `Ashburn's new-construction commercial stock, world-leading data center concentration, and HOA-governed development patterns create commercial water damage scenarios requiring modern material expertise, IT protection capability, and warranty-aware documentation practices.`,
+    localContext: `Ashburn's new-construction commercial stock, world-leading data center concentration, and HOA-governed development patterns create commercial water damage scenarios requiring modern material experience, IT protection capability, and warranty-aware documentation practices.`,
   },
   processSteps: [
     {
       title: 'Ashburn Commercial Dispatch',
       description: `Call (877) 497-0007 for immediate commercial response. Our Ashburn crews carry equipment for both modern construction commercial spaces and data center environments, reaching One Loudoun, Broadlands, and Loudoun County Parkway businesses within our rapid response window.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'New-Construction-Aware Assessment',
@@ -46,7 +46,7 @@ Our IICRC-certified commercial teams understand Ashburn's modern building stock 
     },
     {
       title: 'Verification & Warranty-Aware Restoration Planning',
-      description: 'Final verification confirms complete drying. Restoration plans note any warranty-eligible items alongside standard reconstruction scope, giving commercial property owners clear information for pursuing both insurance and warranty recovery.',
+      description: 'Final verification confirms target dry standards. Restoration plans note any warranty-eligible items alongside standard reconstruction scope, giving commercial property owners clear information for pursuing both insurance and warranty recovery.',
       timeframe: 'Days 5-7',
     },
   ],
@@ -135,7 +135,7 @@ Our IICRC-certified commercial teams understand Ashburn's modern building stock 
       'Russell Branch Business Park',
       'Moorefield Station',
     ],
-    responseTime: '30-minute commercial response to all Ashburn business areas. Crews positioned throughout the Loudoun County Parkway and Broadlands corridors for rapid deployment to office parks, data centers, and mixed-use commercial properties.',
+    responseTime: 'prompt commercial response to all Ashburn business areas. Crews serve the Loudoun County Parkway and Broadlands corridors for rapid deployment to workplace parks, data centers, and mixed-use commercial properties.',
   },
   faqs: [
     {
@@ -156,15 +156,15 @@ Our IICRC-certified commercial teams understand Ashburn's modern building stock 
     },
     {
       question: 'Do you handle commercial insurance claims in Ashburn?',
-      answer: 'We work with all major commercial carriers and provide complete documentation including Xactimate estimates, moisture logs, and daily progress reports. For properties with warranty potential, we document these items separately for clean insurance processing.',
+      answer: 'We work with all major commercial carriers and provide thorough documentation including Xactimate estimates, moisture logs, and daily progress reports. For properties with warranty potential, we document these items separately for clean insurance processing.',
     },
     {
-      question: 'Can you detect hidden HVAC-related water damage in our office building?',
+      question: 'Can you detect hidden HVAC-related water damage in our commercial building?',
       answer: 'Yes. Thermal imaging detects hidden moisture from HVAC condensate failures in wall cavities and ceiling plenums—damage that may have been accumulating for months before visible signs appeared. We document the full extent for both insurance and potential warranty claims.',
     },
     {
       question: 'How fast can you respond to our One Loudoun or Brambleton commercial property?',
-      answer: 'Our crews reach all Ashburn business areas within 30 minutes. Equipment is pre-positioned throughout the Loudoun County Parkway and Broadlands corridors for immediate deployment to the specific property types present in each development.',
+      answer: 'Our crews reach all Ashburn business areas as quickly as available crews can safely arrive. Equipment is prepared throughout the Loudoun County Parkway and Broadlands corridors for immediate deployment to the specific property types present in each development.',
     },
   ],
   relatedBlogSlugs: [
@@ -173,6 +173,6 @@ Our IICRC-certified commercial teams understand Ashburn's modern building stock 
   ],
   finalCTA: {
     headline: 'Commercial Water Damage in Your Ashburn Property?',
-    paragraph: `Ashburn's modern commercial properties demand restoration expertise matched to new construction materials, data center environments, and warranty documentation. Our crews bring all three—deployed within 30 minutes of your call.`,
+    paragraph: `Ashburn's modern commercial properties demand restoration experience matched to new construction materials, data center environments, and warranty documentation. Our crews bring all three—deployed as quickly as available crews can safely arrive of your call.`,
   },
 }

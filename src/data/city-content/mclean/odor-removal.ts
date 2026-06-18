@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in McLean, VA | Flood Doctor',
-    description: `McLean's trusted odor elimination specialists. Discreet treatment for smoke, mold & sewage odors in luxury homes. Safe for families, pets & collections. Call (877) 497-0007.`,
+    description: `McLean's local odor elimination specialists. Discreet treatment for smoke, mold & sewage odors in luxury homes. Safe for families, pets & collections. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in McLean, Virginia',
   introSection: {
@@ -16,7 +16,7 @@ Flood Doctor's deodorization team specializes in permanent odor elimination for 
 
 Our technicians deploy hydroxyl generators that safely neutralize airborne odor compounds while your family and pets remain in the home. For deeper contamination, we use thermal fogging that traces the same penetration paths as smoke and odor molecules, reaching into wall cavities, fabric fibers, and porous stone. Ozone treatment — applied only in vacated spaces — provides the most aggressive molecular destruction for severe contamination. Throughout every treatment, we protect the premium materials, collections, and sensitive electronics that define McLean's finest properties.`,
     ],
-    localContext: `McLean's luxury estate properties — featuring imported materials, climate-controlled specialty rooms, and complex multi-zone HVAC systems — require deodorization expertise that combines advanced chemistry with meticulous care for high-value finishes and collections.`,
+    localContext: `McLean's luxury estate properties — featuring imported materials, climate-controlled specialty rooms, and complex multi-zone HVAC systems — require deodorization experience that combines advanced chemistry with meticulous care for high-value finishes and collections.`,
   },
   processSteps: [
     {
@@ -133,7 +133,7 @@ Our technicians deploy hydroxyl generators that safely neutralize airborne odor 
       'Parkview Hills',
       'Spring Hill',
     ],
-    responseTime: '30-minute emergency response to all McLean neighborhoods. For non-emergency odor assessments, we schedule at your convenience with the discretion McLean homeowners expect.',
+    responseTime: 'rapid emergency response to all McLean neighborhoods. For non-emergency odor assessments, we schedule at your convenience with the discretion McLean homeowners expect.',
   },
   faqs: [
     {
@@ -161,12 +161,12 @@ Our technicians deploy hydroxyl generators that safely neutralize airborne odor 
       answer: 'Yes. Odor molecules circulating through ductwork recontaminate treated spaces. We clean ductwork, treat interior surfaces, replace filtration media, and run deodorization equipment through the air handling system. In multi-zone McLean estates, each HVAC zone is treated independently.',
     },
     {
-      question: 'Do you guarantee complete odor elimination?',
+      question: 'Do you target complete odor elimination?',
       answer: 'We achieve permanent odor elimination in over 94% of cases on the first treatment cycle. For particularly stubborn contamination, additional treatment rounds may be needed. We continue treatment until the odor is completely resolved and verify results with air quality testing.',
     },
     {
       question: 'Is odor removal covered by homeowner insurance?',
-      answer: 'When odors result from a covered loss — fire, water damage, sewage backup — professional deodorization is typically a covered expense. We document the odor source, treatment protocols, and results in the format insurance adjusters require, and handle direct billing with your carrier.',
+      answer: 'When odors result from a covered loss — fire, water damage, sewage backup — professional deodorization is typically a covered expense. We document the odor source, treatment protocols, and results in the format insurance adjusters require, and handle claim-support documentation for your insurer.',
     },
   ],
   relatedBlogSlugs: [
@@ -175,6 +175,6 @@ Our technicians deploy hydroxyl generators that safely neutralize airborne odor 
   ],
   finalCTA: {
     headline: 'Persistent Odors Affecting Your McLean Home?',
-    paragraph: 'Odors that resist consumer products require professional molecular-level treatment. Our deodorization specialists eliminate smoke, mold, sewage, and biological odors permanently from McLean estate properties — with the discretion and material expertise your home demands. Call (877) 497-0007 for a confidential assessment.',
+    paragraph: 'Odors that resist consumer products require professional molecular-level treatment. Our deodorization specialists eliminate smoke, mold, sewage, and biological odors permanently from McLean estate properties — with the discretion and material experience your home demands. Call (877) 497-0007 for a confidential assessment.',
   },
 }

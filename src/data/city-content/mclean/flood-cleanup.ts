@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in McLean, VA | Flood Doctor',
-    description: 'McLean flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
+    description: 'McLean flood cleanup specialists. 30-min emergency response for storm flooding, flash floods & water damage. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in McLean, Virginia',
   introSection: {
@@ -18,13 +18,13 @@ McLean flood events operate on a different scale than standard residential water
   processSteps: [
     {
       title: 'Estate-Scale Emergency Dispatch',
-      description: `Our crews stage along Route 123 and the George Washington Parkway corridor during storm warnings, positioning truck-mounted extraction units within minutes of McLean's estate neighborhoods. Each dispatch includes contents protection supplies — acid-free tissue, moving blankets, moisture-barrier wrap, and plastic crating. When your Langley property calls (877) 497-0007 during a Pimmit Run flood event, the truck carries everything needed to simultaneously extract water and protect irreplaceable items.`,
-      timeframe: '30-minute response',
+      description: `Our crews serve Route 123 and the George Washington Parkway corridor during storm warnings, positioning truck-mounted extraction units within minutes of McLean's estate neighborhoods. Each dispatch includes contents protection supplies — acid-free tissue, moving blankets, moisture-barrier wrap, and plastic crating. When your Langley property calls (877) 497-0007 during a Pimmit Run flood event, the truck carries everything needed to simultaneously extract water and protect irreplaceable items.`,
+      timeframe: 'rapid emergency response',
     },
     {
       title: 'Multi-Zone Moisture Mapping',
       description: `A McLean estate basement is four or five distinct environments with different materials, moisture tolerances, and drying targets. We map each zone independently using FLIR thermal imaging and both pin-type and pinless moisture meters. The home theater reads differently than the wine cellar with stone walls. The guest suite's hand-scraped hardwood has different saturation thresholds than the exercise studio's rubber flooring. Each zone receives its own moisture baseline at wall, floor, and ceiling levels.`,
-      timeframe: 'First 60 minutes',
+      timeframe: 'Initial stabilization',
     },
     {
       title: 'Contents Triage and Pack-Out',
@@ -43,7 +43,7 @@ McLean flood events operate on a different scale than standard residential water
     },
     {
       title: 'Drying Verification and Contents Return',
-      description: 'Each zone must independently meet IICRC S500 dry standard — no averaging across zones. Pin meter readings at multiple depths confirm wood moisture has returned to equilibrium. Thermal imaging verifies no residual moisture pockets behind walls or under flooring. Wine cellar humidity must stabilize within its operational range before bottles return. Only after every zone passes do we coordinate contents return with protective pads and 48-hour post-return monitoring.',
+      description: 'Each zone must independently meet industry S500 dry standard — no averaging across zones. Pin meter readings at multiple depths confirm wood moisture has returned to equilibrium. Thermal imaging verifies no residual moisture pockets behind walls or under flooring. Wine cellar humidity must stabilize within its operational range before bottles return. Only after every zone passes do we coordinate contents return with protective pads and 48-hour post-return monitoring.',
       timeframe: 'Day 5-10',
     },
   ],
@@ -87,7 +87,7 @@ McLean flood events operate on a different scale than standard residential water
       'Material complexity — hand-scraped hardwood, imported stone, radiant-heat tile, acoustic panels, and custom carpet each require different protocols',
       'Multi-zone drying duration — wine cellars on controlled slow-dry protocols extend project timelines',
       'Fine arts and specialty documentation — conservation-grade assessment and coordination with art conservators',
-      'Contamination category — Category 3 protocols require containment, PPE crews, material disposal, and clearance testing',
+      'Contamination category — Category 3 protocols require containment, PPE crews, material disposal, and verification testing',
     ],
     cta: 'Call (877) 497-0007 for immediate emergency response and a detailed damage assessment. We evaluate every zone independently, document material-specific damage, and provide transparent estimates for both structure and contents restoration.',
   },
@@ -108,7 +108,7 @@ McLean flood events operate on a different scale than standard residential water
       'Langley Farms',
       'Pimmit Hills',
     ],
-    responseTime: '30-minute emergency response during active storms. We pre-position extraction and contents protection crews along the Route 123 and GW Parkway corridor when severe weather threatens Fairfax County, ensuring Langley, Chesterbrook, and The Reserve properties receive rapid deployment without cross-town transit delays.',
+    responseTime: 'rapid emergency response during active storms. We prepare extraction and contents protection crews for Route 123 and GW Parkway corridor calls when severe weather threatens Fairfax County, supporting prompt deployment to Langley, Chesterbrook, and The Reserve properties.',
   },
   faqs: [
     {
@@ -143,6 +143,6 @@ McLean flood events operate on a different scale than standard residential water
   ],
   finalCTA: {
     headline: 'Flood Emergency in McLean?',
-    paragraph: 'When creek water is pouring through your walk-out doors and your finished lower level is taking water across every zone, the response that arrives needs to handle extraction, contents protection, and contamination control simultaneously — not sequentially. Our estate-scale crews carry the equipment, the materials expertise, and the contents handling protocols that McLean properties require. One call deploys the full operation.',
+    paragraph: 'When creek water is pouring through your walk-out doors and your finished lower level is taking water across every zone, the response that arrives needs to handle extraction, contents protection, and contamination control simultaneously — not sequentially. Our estate-scale crews carry the equipment, the materials experience, and the contents handling protocols that McLean properties require. One call deploys the full operation.',
   },
 }

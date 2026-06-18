@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Vienna, VA | Flood Doctor',
-    description: 'Professional flood cleanup services in Vienna, VA. IICRC-certified technicians respond within 45 minutes. We handle Difficult Run Creek overflow, storm surge, and basement flooding in Vienna homes. Call (877) 497-0007.',
+    description: 'Professional flood cleanup services in Vienna, VA. trained technicians respond as quickly as available crews can safely arrive. We handle Difficult Run Creek overflow, storm surge, and basement flooding in Vienna homes. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup in Vienna, Virginia',
   introSection: {
-    headline: 'Vienna Flood Cleanup Experts Available 24/7',
+    headline: 'Vienna Flood Cleanup Specialists Available 24/7',
     paragraphs: [
-      'When floodwater enters your Vienna home, every minute counts. Standing water penetrates hardwood floors within 30 minutes and begins degrading plaster walls within hours. Flood Doctor provides IICRC-certified flood cleanup services to Vienna homeowners with guaranteed 45-minute response times, day or night.',
+      'When floodwater enters your Vienna home, every minute counts. Standing water penetrates hardwood floors as quickly as available crews can safely arrive and begins degrading plaster walls within hours. Flood Doctor provides trained flood cleanup services to Vienna homeowners with intended prompt response times, day or night.',
       `Vienna sits in a drainage basin fed by Difficult Run Creek and Wolf Trap Stream, two waterways that regularly exceed their banks during heavy rain events. The town's mature tree canopy and aging stormwater infrastructure compound the problem, directing runoff toward residential properties throughout Vienna Town, Oakton, and Dunn Loring. When that water reaches your home, you need a team that understands both the science of water damage restoration and the unique construction of Vienna housing stock.`,
-      'Our technicians have restored hundreds of Vienna properties ranging from 1950s colonials along Courthouse Road to 1970s split-levels in Tysons Woods. We know the materials in your walls, the vulnerabilities in your foundation, and the fastest path to getting your home dry and safe. Every flood cleanup begins with a thorough moisture assessment using thermal imaging and proceeds through a documented, IICRC-compliant restoration process.',
+      'Our technicians have restored hundreds of Vienna properties ranging from 1950s colonials along Courthouse Road to 1970s split-levels in Tysons Woods. We know the materials in your walls, the vulnerabilities in your foundation, and the fastest path to getting your home dry and safe. Every flood cleanup begins with a thorough moisture assessment using thermal imaging and proceeds through a documented, industry-compliant restoration process.',
       'Flood Doctor is locally operated and maintains a dedicated crew for the Vienna service area. We carry $2 million in liability coverage, work directly with all major insurance carriers, and provide detailed documentation for every claim. Our goal is simple: remove the water, dry the structure, and prevent mold from ever taking hold.',
     ],
     localContext: `Vienna's position along the Difficult Run Creek watershed and Wolf Trap Stream corridor makes it one of the most flood-prone communities in Fairfax County. Properties near Clarks Crossing and the Wolf Trap area experience recurring flooding during nor'easters and summer convective storms, with water volumes that overwhelm the town's legacy stormwater system built in the 1960s.`,
@@ -19,12 +19,12 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Dispatch and Arrival',
-      description: 'The moment you call, we dispatch a fully equipped crew from our Northern Virginia staging area. Our trucks carry commercial-grade extractors, dehumidifiers, and air movers so we arrive ready to work, not wait for equipment. We confirm your address, assess access points, and provide an ETA before we leave the yard.',
-      timeframe: '0-45 minutes',
+      description: 'The moment you call, we dispatch a fully equipped crew from our Northern Virginia dispatch planning area. Our trucks carry commercial-grade extractors, dehumidifiers, and air movers so we arrive ready to work, not wait for equipment. We confirm your address, assess access points, and provide an ETA before we leave the yard.',
+      timeframe: 'Initial response',
     },
     {
       title: 'Damage Assessment and Moisture Mapping',
-      description: `Our lead technician performs a comprehensive damage assessment using FLIR thermal imaging cameras and Delmhorst pin-type moisture meters. We map moisture levels in walls, subfloors, and ceilings to establish the full extent of water penetration. In Vienna's plaster-walled colonials, we pay particular attention to lath cavities where water accumulates invisibly. This assessment determines the IICRC water damage classification (Category 1-3) and class (1-4) that drives the entire restoration plan.`,
+      description: `Our lead technician performs a comprehensive damage assessment using FLIR thermal imaging cameras and Delmhorst pin-type moisture meters. We map moisture levels in walls, subfloors, and ceilings to establish the full extent of water penetration. In Vienna's plaster-walled colonials, we pay particular attention to lath cavities where water accumulates invisibly. This assessment determines the industry water damage classification (Category 1-3) and class (1-4) that drives the entire restoration plan.`,
       timeframe: '45-90 minutes',
     },
     {
@@ -39,12 +39,12 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Structural Drying with Monitored Equipment',
-      description: 'We install commercial dehumidifiers and air movers in a calculated drying configuration based on the specific square footage, material types, and moisture readings of your Vienna home. Hardwood floors get specialty drying mats that pull moisture upward without over-drying. Plaster walls receive directed airflow through wall cavity injection ports. Our technicians return daily to take moisture readings and adjust equipment placement until every reading falls within the IICRC dry standard for the material type.',
+      description: 'We install commercial dehumidifiers and air movers in a calculated drying configuration based on the specific square footage, material types, and moisture readings of your Vienna home. Hardwood floors get specialty drying mats that pull moisture upward without over-drying. Plaster walls receive directed airflow through wall cavity injection ports. Our technicians return daily to take moisture readings and adjust equipment placement until every reading falls within the industry dry standard for the material type.',
       timeframe: '3-5 days',
     },
     {
       title: 'Air Quality Testing and Clearance',
-      description: 'Before declaring the structure dry, we perform final moisture readings at every mapped location and compare against baseline dry standards. We also conduct air quality sampling to verify that microbial levels have returned to normal. For Vienna homes where flood cleanup took more than 48 hours to initiate, we perform additional mold screening on concealed surfaces. You receive a complete drying report with before-and-after readings.',
+      description: 'Before declaring the structure dry, we perform final moisture readings at every mapped location and compare against baseline dry standards. We also conduct air quality sampling to verify that microbial levels have returned to normal. For Vienna homes where flood cleanup took more than 48 hours to initiate, we perform additional mold screening on concealed surfaces. You receive a target dry standards report with before-and-after readings.',
       timeframe: 'Day 4-6',
     },
     {
@@ -57,7 +57,7 @@ export const content: CityServiceContent = {
     {
       title: 'Difficult Run Creek Overflow',
       description: 'Difficult Run Creek drains over 58 square miles of watershed through Vienna. During heavy rain events, the creek rises rapidly and overwhelms its banks, sending floodwater into properties along its corridor from Clarks Crossing south through Oakton. The creek carries significant sediment and organic debris that contaminates everything it touches, requiring Category 3 water damage protocols.',
-      solution: 'We maintain pre-staged equipment for Difficult Run flood events and follow strict Category 3 contamination protocols, including removal of all porous materials contacted by creek water, antimicrobial treatment of structural surfaces, and air quality verification before re-occupancy. Our response plan accounts for the access challenges these low-lying properties present during active flooding.',
+      solution: 'We maintain prepared equipment for Difficult Run flood events and follow strict Category 3 contamination protocols, including removal of all porous materials contacted by creek water, antimicrobial treatment of structural surfaces, and air quality verification before re-occupancy. Our response plan accounts for the access challenges these low-lying properties present during active flooding.',
     },
     {
       title: '1950s-70s Colonial Construction',
@@ -67,7 +67,7 @@ export const content: CityServiceContent = {
     {
       title: 'Galvanized Plumbing Failures',
       description: 'Many Vienna homes still have original galvanized steel supply lines and cast iron drain stacks. After 50-70 years of service, these pipes corrode internally and fail suddenly, releasing water at supply pressure into walls and ceilings. Galvanized pipe failures often go undetected until significant damage has occurred because the leak originates inside a wall cavity.',
-      solution: 'Our moisture mapping protocol specifically checks wall cavities adjacent to known plumbing runs in Vienna-era construction. We use thermal imaging to identify temperature differentials that indicate active leaks behind walls. When galvanized plumbing is the source, we coordinate with licensed plumbers for repair while simultaneously beginning water extraction and drying to minimize damage spread.',
+      solution: 'Our moisture mapping protocol specifically checks wall cavities adjacent to known plumbing runs in Vienna-era construction. We use thermal imaging to identify temperature differentials that indicate active leaks behind walls. When galvanized plumbing is the source, we coordinate with qualified plumbing professionals for repair while simultaneously beginning water extraction and drying to minimize damage spread.',
     },
     {
       title: 'Wolf Trap Stream Corridor Flooding',
@@ -77,7 +77,7 @@ export const content: CityServiceContent = {
     {
       title: 'Aging Stormwater Infrastructure',
       description: `Vienna's stormwater management system was designed decades ago for significantly less impervious surface coverage. Development in Tysons Corner and surrounding areas has increased runoff volumes beyond the system's capacity. During moderate to heavy rain events, storm drains back up and push water onto residential properties, particularly in low-lying areas of Vienna Town and Dunn Loring.`,
-      solution: 'We track Fairfax County stormwater alerts and pre-position crews during forecast storm events. For properties with recurring stormwater backup, we perform cleanup with attention to the contamination that sewer-connected storm systems introduce. We also document the municipal infrastructure contribution to damage, which can be relevant for insurance claims and county remediation programs.',
+      solution: 'We track Fairfax County stormwater alerts and prepare crews for service-area coverage during forecast storm events. For properties with recurring stormwater backup, we perform cleanup with attention to the contamination that sewer-connected storm systems introduce. We also document the municipal infrastructure contribution to damage, which can be relevant for insurance claims and county remediation programs.',
     },
     {
       title: 'Mature Tree Root Foundation Intrusion',
@@ -90,7 +90,7 @@ export const content: CityServiceContent = {
     equipment: [
       {
         name: 'Truck-Mounted Water Extractor',
-        purpose: 'Removes standing water at rates up to 100 gallons per minute. Our truck-mounted units generate higher suction than portable extractors, clearing flooded basements and main levels faster and more completely. Essential for the large basement footprints common in Vienna colonials.',
+        purpose: 'Removes standing water at rates up to 100 gallons per minute. Our truck-mounted units generate higher suction than portable extractors, clearing flooded basements and main levels faster and more to target dry standards. Essential for the large basement footprints common in Vienna colonials.',
         brand: 'Prochem',
       },
       {
@@ -105,7 +105,7 @@ export const content: CityServiceContent = {
       },
       {
         name: 'Axial and Centrifugal Air Movers',
-        purpose: 'Creates high-velocity airflow across wet surfaces to accelerate evaporation. We position air movers at calculated angles and distances based on IICRC standards for the specific materials in your home. For hardwood floors, we use low-profile units that direct air across the wood grain.',
+        purpose: 'Creates high-velocity airflow across wet surfaces to accelerate evaporation. We position air movers at calculated angles and distances based on industry standards for the specific materials in your home. For hardwood floors, we use low-profile units that direct air across the wood grain.',
         brand: 'Dri-Eaz',
       },
       {
@@ -120,7 +120,7 @@ export const content: CityServiceContent = {
       },
       {
         name: 'Pin-Type and Non-Invasive Moisture Meters',
-        purpose: 'Measures moisture content in wood, drywall, plaster, and concrete at specific depths. Pin-type meters give precise readings in wood framing, while non-invasive meters scan larger areas without surface damage. We use both types to create detailed moisture maps and verify drying progress against IICRC dry standards.',
+        purpose: 'Measures moisture content in wood, drywall, plaster, and concrete at specific depths. Pin-type meters give precise readings in wood framing, while non-invasive meters scan larger areas without surface damage. We use both types to create detailed moisture maps and verify drying progress against industry dry standards.',
         brand: 'Delmhorst',
       },
       {
@@ -133,7 +133,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Flood Cleanup Pricing for Vienna Homes',
-    intro: 'Every flood is different, and honest pricing requires an on-site assessment. We provide free, no-obligation estimates within our 45-minute response window. Our pricing is transparent, itemized, and based on industry-standard Xactimate software that insurance adjusters use for their own estimates. We never charge for equipment that is not actively contributing to the drying process, and we remove equipment as soon as readings confirm an area is dry.',
+    intro: 'Every flood is different, and honest pricing requires an on-site assessment. We provide free, no-obligation estimates within our prompt response window. Our pricing is transparent, itemized, and based on industry-standard Xactimate software that insurance adjusters use for their own estimates. We never charge for equipment that is not actively contributing to the drying process, and we remove equipment as soon as readings confirm an area is dry.',
     factors: [
       'Volume of water and total affected square footage across all levels of the home',
       'Water damage category (clean water, gray water, or black water) which determines contamination protocols required',
@@ -161,12 +161,12 @@ export const content: CityServiceContent = {
       'Southside Vienna',
       'Moorefield Station',
     ],
-    responseTime: `Our crews respond to any Vienna address within 45 minutes, 24 hours a day, 7 days a week. During active storm events affecting the Difficult Run Creek or Wolf Trap Stream corridors, we pre-position crews in the Vienna area to reduce response times further. We know Vienna's roads, access points, and traffic patterns, and we route accordingly.`,
+    responseTime: `Our crews respond to any Vienna address as quickly as available crews can safely arrive, 24 hours a day, 7 days a week. During active storm events affecting the Difficult Run Creek or Wolf Trap Stream corridors, we prepare crews for service-area coverage in the Vienna area to reduce response times further. We know Vienna's roads, access points, and traffic patterns, and we route accordingly.`,
   },
   faqs: [
     {
       question: 'How quickly can you reach my Vienna home after I call?',
-      answer: 'We guarantee a 45-minute response time to any address in Vienna, including Oakton, Dunn Loring, Wolf Trap, and Tysons Woods. Our Northern Virginia crews are dispatched immediately upon receiving your call, and our trucks are pre-loaded with all extraction, drying, and contamination control equipment. During major storm events, we pre-stage crews in the Vienna area to ensure even faster response when call volume increases.',
+      answer: 'We target a prompt response time to any address in Vienna, including Oakton, Dunn Loring, Wolf Trap, and Tysons Woods. Our Northern Virginia crews are dispatched immediately upon receiving your call, and our trucks are pre-loaded with all extraction, drying, and contamination control equipment. During major storm events, we pre-stage crews in the Vienna area to ensure even faster response when call volume increases.',
     },
     {
       question: 'My Vienna home has original hardwood floors. Can they be saved after flooding?',
@@ -174,7 +174,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Is floodwater from Difficult Run Creek considered contaminated?',
-      answer: 'Yes. Creek overflow is classified as Category 3 water under IICRC S500 standards, meaning it is grossly contaminated and may contain bacteria, viruses, sewage, chemicals, and organic debris. Category 3 water requires the most aggressive cleanup protocols: all contacted porous materials such as carpet, pad, lower drywall, and insulation must be removed and discarded. Hard surfaces must be cleaned and treated with EPA-registered antimicrobial agents. We perform air quality testing after cleanup to verify that microbial levels have returned to safe levels before declaring the home safe for re-occupancy.',
+      answer: 'Yes. Creek overflow is classified as Category 3 water under industry S500 standards, meaning it is grossly contaminated and may contain bacteria, viruses, sewage, chemicals, and organic debris. Category 3 water requires the most aggressive cleanup protocols: all contacted porous materials such as carpet, pad, lower drywall, and insulation must be removed and discarded. Hard surfaces must be cleaned and treated with EPA-registered antimicrobial agents. We perform air quality testing after cleanup to verify that microbial levels have returned to safe levels before declaring the home safe for re-occupancy.',
     },
     {
       question: `Will my homeowner's insurance cover flood cleanup in Vienna?`,
@@ -182,7 +182,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How long does the entire flood cleanup process take for a typical Vienna home?',
-      answer: 'For a typical Vienna colonial with a flooded basement, expect 5-7 days from initial extraction to final clearance. The timeline breaks down as follows: water extraction takes 1-4 hours depending on volume, contamination control and material removal takes 2-6 hours, and structural drying requires 3-5 days with daily monitoring and equipment adjustment. Larger flood events affecting multiple levels or involving Category 3 contamination may extend the timeline. We provide daily progress reports with moisture readings so you always know exactly where the project stands.',
+      answer: 'For a typical Vienna colonial with a flooded basement, expect 5-7 days from initial extraction to final verification. The timeline breaks down as follows: water extraction takes 1-4 hours depending on volume, contamination control and material removal takes 2-6 hours, and structural drying requires 3-5 days with daily monitoring and equipment adjustment. Larger flood events affecting multiple levels or involving Category 3 contamination may extend the timeline. We provide daily progress reports with moisture readings so you always know exactly where the project stands.',
     },
     {
       question: 'My basement floods every time it rains heavily. Can you help with recurring flooding?',
@@ -190,7 +190,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'What is the risk of mold after flooding in my Vienna home?',
-      answer: `Mold can begin growing on wet organic materials within 24-48 hours of water exposure, and Vienna's humidity levels during summer months accelerate this timeline. The plaster walls and wood lath common in Vienna homes provide an ideal growth substrate when wet. The single most effective mold prevention measure is rapid, thorough drying, which is exactly what our flood cleanup process delivers. We apply antimicrobial treatments to at-risk surfaces, maintain air scrubbers throughout the drying process, and perform final air quality testing to verify that mold has not established. If mold growth has already begun before we arrive, we follow IICRC S520 mold remediation protocols to remove it safely.`,
+      answer: `Mold can begin growing on wet organic materials within 24-48 hours of water exposure, and Vienna's humidity levels during summer months accelerate this timeline. The plaster walls and wood lath common in Vienna homes provide an ideal growth substrate when wet. The single most effective mold prevention measure is rapid, thorough drying, which is exactly what our flood cleanup process delivers. We apply antimicrobial treatments to at-risk surfaces, maintain air scrubbers throughout the drying process, and perform final air quality testing to verify that mold has not established. If mold growth has already begun before we arrive, we follow industry S520 mold remediation protocols to remove it safely.`,
     },
     {
       question: 'Do I need to leave my home during flood cleanup?',
@@ -204,6 +204,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Vienna Flood Cleanup - Call Now for Immediate Response',
-    paragraph: `Floodwater is damaging your Vienna home right now. Every hour of delay increases restoration costs and mold risk. Flood Doctor's IICRC-certified technicians are standing by with fully equipped trucks ready to reach your property within 45 minutes. We handle the water, the drying, the documentation, and the insurance coordination so you can focus on your family. Call now for a free assessment.`,
+    paragraph: `Floodwater is damaging your Vienna home right now. Every hour of delay increases restoration costs and mold risk. Flood Doctor's trained technicians are standing by with fully equipped trucks ready to reach your property as quickly as available crews can safely arrive. We handle the water, the drying, the documentation, and the insurance coordination so you can focus on your family. Call now for a free assessment.`,
   },
 }

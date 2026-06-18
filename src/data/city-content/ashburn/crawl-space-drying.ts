@@ -3,11 +3,11 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Ashburn, VA | Flood Doctor',
-    description: `Ashburn crawl space experts. Serving Broadlands, Brambleton & One Loudoun. New construction & builder warranty specialists. HOA compliant. Call (877) 497-0007.`,
+    description: `Ashburn crawl space specialists. Serving Broadlands, Brambleton & One Loudoun. New construction & builder warranty specialists. HOA compliant. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Ashburn, Virginia',
   introSection: {
-    headline: 'New Construction Crawl Space Expertise for Ashburn Communities',
+    headline: 'New Construction Crawl Space Experience for Ashburn Communities',
     paragraphs: [
       `Ashburn homeowners often assume new construction means new crawl space problems are decades away. The reality beneath Broadlands townhomes, Brambleton single-family homes, and Lansdowne community properties tells a different story. Builder-grade vapor barriers installed during rapid construction are thinner and less durable than professional encapsulation materials. Grading that looked adequate during final inspection settles over two to three years, directing stormwater toward foundations rather than away. Sump pumps specified by builders prioritize cost over capacity, leaving them overwhelmed during the first major storm season. Flood Doctor specializes in identifying and resolving the crawl space shortcomings that new Ashburn construction often conceals behind fresh finishes.`,
       `The scope of Ashburn's development compounds these individual home issues into community-wide patterns. Rapid construction across Ashburn Farm, Belmont Country Club, and One Loudoun altered natural drainage across thousands of acres. Clay-heavy Loudoun County soil that once absorbed rainfall now sits beneath impervious surfaces that concentrate runoff against residential foundations. HOA communities maintain common-area drainage systems that, when they fail or lag behind development, send water toward private crawl spaces. Flood Doctor navigates both the technical challenges of modern construction crawl spaces and the community dynamics of HOA-governed restoration work, providing Ashburn homeowners with warranted solutions that protect their most significant investment from moisture damage below.`,
@@ -42,7 +42,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'HOA Coordination & Warranty Documentation',
-      description: 'We provide complete documentation for your records, HOA compliance files, and builder warranty negotiations. For Broadlands, Brambleton, and Belmont communities, we handle any required HOA notifications regarding exterior modifications.',
+      description: 'We provide thorough documentation for your records, HOA compliance files, and builder warranty negotiations. For Broadlands, Brambleton, and Belmont communities, we handle any required HOA notifications regarding exterior modifications.',
       timeframe: 'Day 4',
     },
   ],
@@ -135,7 +135,7 @@ export const content: CityServiceContent = {
       'Cameron Chase',
       'University Center',
     ],
-    responseTime: 'Same-day crawl space inspections throughout Ashburn. Emergency flooding response within 30 minutes to all Loudoun County communities from Broadlands to Brambleton.',
+    responseTime: 'Same-day crawl space inspections throughout Ashburn. Emergency flooding response as quickly as available crews can safely arrive to all Loudoun County communities from Broadlands to Brambleton.',
   },
   faqs: [
     {

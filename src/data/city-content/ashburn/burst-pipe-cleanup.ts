@@ -17,13 +17,13 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Route 28 Corridor Rapid Deployment',
-      description: `Crews stage along Route 28 from the Dulles Greenway interchange south through Waxpool Road, within minutes of every major residential community. Our dispatcher's first question after confirming your address: does this home have a smart water shutoff, and did it activate? If your Flo by Moen or Phyn Plus triggered, we shift to extraction priority. If not, we walk you through locating the main shutoff — typically in the utility closet on the lowest level — while crews are en route.`,
-      timeframe: 'Within 30 minutes',
+      description: `Crews serve Route 28 from the Dulles Greenway interchange south through Waxpool Road, within minutes of every major residential community. Our dispatcher's first question after confirming your address: does this home have a smart water shutoff, and did it activate? If your Flo by Moen or Phyn Plus triggered, we shift to extraction priority. If not, we walk you through locating the main shutoff — typically in the utility closet on the lowest level — while crews are en route.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'PEX System Pressure Diagnosis',
       description: 'We isolate the failed fitting and pressure-test adjacent connections throughout the affected PEX run. Dezincification in brass crimp rings rarely affects a single connection — rings installed from the same batch degrade on the same timeline. We pressure-test at 80 PSI for 30 minutes, watching for decay indicating weakening connections elsewhere. This prevents restoring from one burst only to have a second connection fail weeks later.',
-      timeframe: 'First 60 minutes on-site',
+      timeframe: 'Initial stabilization on-site',
     },
     {
       title: 'Sealed-Cavity Moisture Investigation',
@@ -42,14 +42,14 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Smart System Verification and Restoration',
-      description: 'Smart water shutoff valves need manual reset and flow-test after activation — we confirm full reopening, baseline flow profile re-establishment, and push notification delivery. HVAC humidity setpoints get configured to 35-40% relative humidity with continuous fan operation to accelerate residual moisture removal. Displaced flood sensors are repositioned and tested. Whole-home automation water triggers are verified and reconnected.',
+      description: 'Smart water shutoff valves need manual reset and flow-test after activation — we confirm full reopening, baseline flow profile re-establishment, and push notification delivery. HVAC humidity setpoints get configured to 35-40% relative humidity with continuous fan operation to accelerate residual moisture removal. Displaced flood sensors are replaced and tested. Whole-home automation water triggers are verified and reconnected.',
       timeframe: 'Final day',
     },
   ],
   localChallenges: [],
   pricingSection: {
     headline: `Burst Pipe Restoration Costs in Ashburn's Modern Homes`,
-    intro: 'Sealed-envelope construction costs more to restore — not because the damage is worse, but because accessing and drying moisture inside spray-foam cavities requires specialized injection techniques running 20-30% longer than conventional approaches. We provide free assessments, handle direct insurance billing, and prepare builder warranty documentation that may shift costs entirely to the builder when a construction defect caused the failure.',
+    intro: 'Sealed-envelope construction costs more to restore — not because the damage is worse, but because accessing and drying moisture inside spray-foam cavities requires specialized injection techniques running 20-30% longer than conventional approaches. We provide free assessments, handle insurance documentation support, and prepare builder warranty documentation that may shift costs entirely to the builder when a construction defect caused the failure.',
     factors: [
       'Sealed-envelope investigation — thermal imaging and inspection ports to locate moisture trapped inside spray-foam cavities where surface meters show false negatives',
       'PEX system pressure testing — isolating and testing adjacent connections to identify additional compromised fittings before they fail',
@@ -76,7 +76,7 @@ export const content: CityServiceContent = {
       'Ashbrook',
       'Cameron Chase',
     ],
-    responseTime: '30-minute emergency response to all Ashburn neighborhoods via Route 28 corridor staging. During winter freeze events, we pre-position additional crews in Broadlands, Brambleton, and Stone Ridge — the communities with the highest concentration of PEX crimp ring-era construction and the most burst pipe calls per capita in Loudoun County.',
+    responseTime: 'rapid emergency response to all Ashburn neighborhoods via Route 28 corridor dispatch planning. During winter freeze events, we prepare additional crews for service-area coverage in Broadlands, Brambleton, and Stone Ridge — the communities with the highest concentration of PEX crimp ring-era construction and the most burst pipe calls per capita in Loudoun County.',
   },
   faqs: [
     {

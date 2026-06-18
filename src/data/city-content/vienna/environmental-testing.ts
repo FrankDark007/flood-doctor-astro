@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Vienna, VA | Flood Doctor',
-    description: `Vienna's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Vienna Town, Oakton & Wolftrap. Call (877) 497-0007.`,
+    description: `Vienna's trained environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Vienna Town, Oakton & Wolftrap. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Vienna, Virginia',
   introSection: {
-    headline: `Certified Environmental Testing for Vienna and Oakton Properties`,
+    headline: `Trained Environmental Testing for Vienna and Oakton Properties`,
     paragraphs: [
       `Vienna\`s residential character blends 1950s-1970s established homes along Church Street and Vienna Town with newer luxury construction in Oakton and Wolftrap—creating a testing environment where legacy hazardous materials and modern indoor air quality concerns coexist within a single community. Original colonials in Clarks Crossing contain asbestos pipe insulation, floor tiles, and textured ceiling coatings that homeowners encounter during renovation projects. Dunn Loring homes built before 1978 harbor lead-based paint beneath decades of maintenance coatings. Meanwhile, recently constructed Oakton luxury homes with tight building envelopes and premium interior finishes generate VOC off-gassing that concentrates in sealed environments. Flood Doctor provides AIHA-accredited environmental testing spanning the full spectrum of Vienna\`s housing stock—asbestos identification, lead paint analysis, mold assessment, and VOC screening—with protocols calibrated to each property\`s construction era and specific environmental risk profile.`,
-      `Our certified inspectors have sampled asbestos-containing joint compound in Tysons Woods ranch homes undergoing kitchen renovations, identified lead paint on original exterior siding in Vienna Town bungalows near the Vienna Town Green, and quantified elevated mold spore concentrations in Clarks Crossing basements where foundation seepage created chronic moisture conditions. Properties near Wolf Trap and Meadowlark Gardens in wooded settings face persistent moisture and organic material conditions that support mold colonization in crawlspaces and lower levels. Whether you are updating a 1960s colonial, investigating air quality in a newly built Oakton home, or conducting pre-purchase assessment before buying in Vienna, our testing delivers the definitive laboratory data that transforms environmental uncertainty into documented, actionable findings.`,
+      `Our trained inspectors have sampled asbestos-containing joint compound in Tysons Woods ranch homes undergoing kitchen renovations, identified lead paint on original exterior siding in Vienna Town bungalows near the Vienna Town Green, and quantified elevated mold spore concentrations in Clarks Crossing basements where foundation seepage created chronic moisture conditions. Properties near Wolf Trap and Meadowlark Gardens in wooded settings face persistent moisture and organic material conditions that support mold colonization in crawlspaces and lower levels. Whether you are updating a 1960s colonial, investigating air quality in a newly built Oakton home, or conducting pre-purchase assessment before buying in Vienna, our testing delivers the definitive laboratory data that transforms environmental uncertainty into documented, actionable findings.`,
     ],
     localContext: `Vienna\`s mix of mid-century established homes and modern luxury construction creates environmental testing needs ranging from legacy asbestos and lead paint assessment in older properties to VOC and indoor air quality evaluation in newer sealed construction.`,
   },
   processSteps: [
     {
       title: 'Property Assessment and Era-Specific Scoping',
-      description: `Our certified inspector evaluates your Vienna property against construction date, material types, and renovation plans. For established homes, we identify suspect asbestos and lead paint materials by era. For newer Oakton construction, we focus on indoor air quality, VOC sources, and moisture management system performance.`,
+      description: `Our trained inspector evaluates your Vienna property against construction date, material types, and renovation plans. For established homes, we identify suspect asbestos and lead paint materials by era. For newer Oakton construction, we focus on indoor air quality, VOC sources, and moisture management system performance.`,
       timeframe: 'Hours 1-2',
     },
     {
@@ -69,7 +69,7 @@ export const content: CityServiceContent = {
     },
   ],
   equipmentSection: {
-    headline: 'Certified Environmental Testing Equipment for Vienna Properties',
+    headline: 'Trained Environmental Testing Equipment for Vienna Properties',
     equipment: [
       {
         name: 'Niton XL3t XRF Analyzer',
@@ -96,7 +96,7 @@ export const content: CityServiceContent = {
       },
       {
         name: 'Crawlspace Inspection Equipment',
-        purpose: 'Sampling and moisture measurement tools configured for low-clearance crawlspace access in wooded-lot Vienna properties',
+        purpose: 'Sampling and moisture measurement tools configured for low-verification crawlspace access in wooded-lot Vienna properties',
       },
     ],
     localNote: `Our Vienna environmental teams carry versatile sampling kits covering both legacy hazardous materials in mid-century homes and modern indoor air quality assessment for newer construction—reflecting the diverse housing stock across Vienna\`s neighborhoods.`,
@@ -167,6 +167,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Environmental Questions About Your Vienna Property?',
-    paragraph: `Certified environmental testing provides definitive answers—whether investigating legacy materials in an established home or air quality in new construction. AIHA-accredited laboratory analysis with actionable recommendations. Call (877) 497-0007 for a consultation.`,
+    paragraph: `Trained environmental testing provides definitive answers—whether investigating legacy materials in an established home or air quality in new construction. AIHA-accredited laboratory analysis with actionable recommendations. Call (877) 497-0007 for a consultation.`,
   },
 }

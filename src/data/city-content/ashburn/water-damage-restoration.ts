@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Ashburn, VA | Flood Doctor',
-    description: `Ashburn's trusted water damage restoration experts. 30-min response to Broadlands, Brambleton & One Loudoun. Builder warranty claim specialists. Call (877) 497-0007.`,
+    description: `Ashburn's local water damage restoration specialists. rapid response to Broadlands, Brambleton & One Loudoun. Builder warranty claim specialists. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Ashburn, Virginia',
   introSection: {
@@ -14,19 +14,19 @@ export const content: CityServiceContent = {
 Flood Doctor has restored water-damaged properties throughout Ashburn since this community transformed from farmland to Northern Virginia's fastest-growing area. We've extracted standing water from Lansdowne basements, dried the finished lower levels of Ashburn Farm colonials, and prevented mold growth in Moorefield Station townhomes. When your neighbor recommends a restoration company, they mention us—because we've already served their street.`,
       `Ashburn's water damage challenges stem from its construction era. Homes built during the 2000s boom sometimes feature installation shortcuts that create water intrusion years later. Builder-grade supply lines fail earlier than quality materials. Rapidly-graded lots can direct water toward foundations rather than away. HVAC condensate lines installed without proper slope leak into wall cavities for years before anyone notices.
 
-Our IICRC Master Water Restorers understand both the damage and the implications. We document everything for insurance claims and builder warranty disputes. We know the difference between construction defects covered by warranty and homeowner-responsibility maintenance. When your Belmont property needs restoration, we protect both your home and your legal options.`,
+Our water damage restoration team understand both the damage and the implications. We document everything for insurance claims and builder warranty disputes. We know the difference between construction defects covered by warranty and homeowner-responsibility maintenance. When your Belmont property needs restoration, we protect both your home and your legal options.`,
     ],
-    localContext: `Ashburn's master-planned communities—with their newer construction, HOA requirements, and mix of housing types—require restoration expertise that understands modern building practices and community regulations.`,
+    localContext: `Ashburn's master-planned communities—with their newer construction, HOA requirements, and mix of housing types—require restoration experience that understands modern building practices and community regulations.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our Ashburn hotline at (877) 497-0007, we dispatch immediately. Our trucks are positioned throughout Loudoun County to reach Broadlands, Brambleton, One Loudoun, and Lansdowne within our 30-minute guarantee—not from a distant warehouse, but from the Ashburn corridor where we're already stationed.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call our Ashburn hotline at (877) 497-0007, we dispatch immediately. Our service-area crews cover Broadlands, Brambleton, One Loudoun, and Lansdowne with prompt service-area dispatch—through service-area coverage for the Ashburn corridor.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Comprehensive Damage Assessment',
-      description: `Our IICRC-certified technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Ashburn's open floor plans, water often migrates further than older compartmentalized homes—we trace every path.`,
+      description: `Our trained technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In Ashburn's open floor plans, water often migrates further than older compartmentalized homes—we trace every path.`,
       timeframe: 'First hour',
     },
     {
@@ -92,7 +92,7 @@ Our IICRC Master Water Restorers understand both the damage and the implications
       },
       {
         name: 'Axial Air Movers',
-        purpose: 'Create strategic airflow patterns across open floor plans typical in Ashburn homes, ensuring complete drying',
+        purpose: 'Create strategic airflow patterns across open floor plans typical in Ashburn homes, ensuring target dry standards',
       },
       {
         name: 'Thermal Imaging Cameras',
@@ -113,7 +113,7 @@ Our IICRC Master Water Restorers understand both the damage and the implications
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Ashburn',
-    intro: 'Ashburn water damage restoration costs vary based on scope, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most Ashburn homeowners file insurance claims—and we handle direct billing with all major carriers. For builder warranty situations, we document accordingly.',
+    intro: 'Ashburn water damage restoration costs vary based on scope, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most Ashburn homeowners file insurance claims—and we handle claim-support documentation for insurers. For builder warranty situations, we document accordingly.',
     factors: [
       'Square footage affected—Ashburn homes often have extensive finished basements adding to affected area',
       'Water category—clean water from a burst pipe differs from sewage backup requiring biohazard protocols',
@@ -141,7 +141,7 @@ Our IICRC Master Water Restorers understand both the damage and the implications
       'Cameron Chase',
       'Stone Ridge',
     ],
-    responseTime: '30-minute response to all Ashburn neighborhoods. Our crews are stationed throughout Loudoun County—from the Greenway corridor to Loudoun County Parkway—for immediate emergency dispatch.',
+    responseTime: 'rapid emergency response to all Ashburn neighborhoods. Our crews are available throughout Loudoun County—from the Greenway corridor to Loudoun County Parkway—for immediate emergency dispatch.',
   },
   faqs: [
     {
@@ -150,15 +150,15 @@ Our IICRC Master Water Restorers understand both the damage and the implications
     },
     {
       question: 'Can you help with builder warranty water damage claims?',
-      answer: 'Yes. We document water damage with warranty implications in mind. Our assessment identifies whether construction defects caused the damage—improper flashing, grading issues, installation failures—and provides documentation to support warranty claims. This expertise is essential for Ashburn homes under 10-year structural warranties.',
+      answer: 'Yes. We document water damage with warranty implications in mind. Our assessment identifies whether construction defects caused the damage—improper flashing, grading issues, installation failures—and provides documentation to support warranty claims. This experience is essential for Ashburn homes under 10-year structural warranties.',
     },
     {
       question: 'What about my finished basement after water damage?',
-      answer: `Ashburn's finished basements—with home offices, media rooms, and playrooms—require complete restoration. We extract water, dry structural materials, and work with your insurance on reconstruction. For newer homes, we also assess whether construction defects contributed to the flooding.`,
+      answer: `Ashburn's finished basements—with home workspaces, media rooms, and playrooms—require restoration. We extract water, dry structural materials, and work with your insurance on reconstruction. For newer homes, we also assess whether construction defects contributed to the flooding.`,
     },
     {
       question: 'Will you work directly with my insurance company?',
-      answer: 'Yes. We handle direct billing with all major carriers and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim. For warranty situations, we also prepare documentation for builder negotiations.',
+      answer: 'Yes. We handle claim-support documentation for insurers and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim. For warranty situations, we also prepare documentation for builder negotiations.',
     },
     {
       question: 'How do modern building materials affect restoration?',
@@ -166,7 +166,7 @@ Our IICRC Master Water Restorers understand both the damage and the implications
     },
     {
       question: `What's the difference between your service and national chains?`,
-      answer: `We're locally owned and Ashburn-focused. Our crews know the neighborhoods, understand new construction challenges, and are positioned for 30-minute response. National franchises often dispatch from distant locations and lack expertise in Ashburn's specific challenges—builder warranty issues, modern materials, and HOA requirements.`,
+      answer: `We provide Ashburn-focused service-area coverage. Our crews account for neighborhood access, new construction challenges, builder warranty issues, modern materials, and HOA requirements.`,
     },
     {
       question: 'Will my HOA be notified about restoration work?',
@@ -180,6 +180,6 @@ Our IICRC Master Water Restorers understand both the damage and the implications
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Ashburn?',
-    paragraph: 'Every hour of delay means more damage to your home. Our crews are stationed throughout Loudoun County for immediate 30-minute response. One call handles everything—from water extraction to insurance documentation.',
+    paragraph: 'Every hour of delay means more damage to your home. Our crews are available throughout Loudoun County for immediate rapid emergency response. One call handles everything—from water extraction to insurance documentation.',
   },
 }

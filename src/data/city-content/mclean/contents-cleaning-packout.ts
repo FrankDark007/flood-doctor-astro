@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in McLean, VA | Flood Doctor',
-    description: `McLean's trusted contents restoration specialists. Art, wine, electronics & heirloom protection for luxury estates. Climate-controlled storage. Call (877) 497-0007.`,
+    description: `McLean's local contents restoration specialists. Art, wine, electronics & heirloom protection for luxury estates. Climate-controlled storage. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in McLean, Virginia',
   introSection: {
     headline: 'Protecting Irreplaceable Belongings in McLean Estate Homes',
     paragraphs: [
-      `When water, smoke, or mold threatens the contents of a McLean estate, the stakes extend far beyond replacement cost. Your Langley home may hold original artwork, first-edition book collections, and heirloom furniture passed through generations. A Woodside Estates property might contain a curated wine collection, custom electronics integrated into every room, and imported textiles that cannot be sourced again. Standard contents cleaning services lack the expertise and facilities to handle the volume, value, and variety of belongings found in McLean's finest residences.
+      `When water, smoke, or mold threatens the contents of a McLean estate, the stakes extend far beyond replacement cost. Your Langley home may hold original artwork, first-edition book collections, and heirloom furniture passed through generations. A Woodside Estates property might contain a curated wine collection, custom electronics integrated into every room, and imported textiles that cannot be sourced again. Standard contents cleaning services lack the experience and facilities to handle the volume, value, and variety of belongings found in McLean's finest residences.
 
 Flood Doctor's contents restoration team has protected and restored personal property from estates throughout McLean — from The Reserve to Salona Village to Chesterbrook. We have freeze-dried water-damaged family archives from Georgetown Pike properties, ultrasonically cleaned smoke-damaged crystal and silver collections, and carefully packed out entire 12,000-square-foot estates for off-site restoration while structural work proceeded. Every item receives individualized treatment based on its material, damage type, and value.`,
-      `The pack-out process for a McLean estate begins with meticulous room-by-room inventory. Our team photographs each item, documents its pre-loss condition, and assigns a barcode for tracking through our climate-controlled restoration facility. For high-value items — artwork, antiques, wine collections, and electronics — we create detailed condition reports with close-up photography that supports insurance claims and establishes baseline for restoration assessment. This documentation protects both your belongings and your financial interests.
+      `The pack-out process for a McLean estate begins with meticulous room-by-room inventory. Our team photographs each item, documents its documented prior condition, and assigns a barcode for tracking through our climate-controlled restoration facility. For high-value items — artwork, antiques, wine collections, and electronics — we create detailed condition reports with close-up photography that supports insurance claims and establishes baseline for restoration assessment. This documentation protects both your belongings and your financial interests.
 
 At our 12,000-square-foot climate-controlled facility, every item receives treatment matched to its material and damage type. Ultrasonic cleaning removes contaminants from hard goods without abrasive contact. Freeze-drying preserves water-damaged documents, photographs, and books that would be destroyed by conventional methods. Textile restoration uses specialized detergents and ozone deodorization that commercial dry cleaners cannot replicate. Throughout the process, you track every item through our online portal — because when your family's irreplaceable possessions are at stake, transparency is not optional.`,
     ],
@@ -58,7 +58,7 @@ At our 12,000-square-foot climate-controlled facility, every item receives treat
     },
     {
       title: 'Integrated Electronics Systems',
-      description: 'McLean estates feature whole-home automation, distributed audio-video systems, and dedicated home theater electronics embedded in walls, ceilings, and custom cabinetry. Water and smoke exposure causes corrosion that worsens daily if untreated, and standard restoration companies lack electronics-specific expertise.',
+      description: 'McLean estates feature whole-home automation, distributed audio-video systems, and dedicated home theater electronics embedded in walls, ceilings, and custom cabinetry. Water and smoke exposure causes corrosion that worsens daily if untreated, and standard restoration companies lack electronics-specific experience.',
       solution: 'Our electronics restoration team performs component-level cleaning, corrosion treatment, and testing. We document serial numbers, system configurations, and damage extent for insurance purposes. Integration components are photographed in-place before removal to support proper reinstallation.',
     },
     {
@@ -111,7 +111,7 @@ At our 12,000-square-foot climate-controlled facility, every item receives treat
     intro: 'Contents cleaning and pack-out costs depend on the volume of items, types of treatment required, and duration of storage. For McLean estate projects, we provide detailed estimates based on our initial assessment. Insurance companies typically cover professional contents restoration as it costs significantly less than full replacement — we coordinate directly with your carrier.',
     factors: [
       'Volume and type of items — estate-scale projects with thousands of items require larger crews and longer facility time',
-      'Specialty items requiring expert treatment — artwork, wine, antiques, and electronics each involve specialized restoration protocols',
+      'Specialty items requiring technical treatment — artwork, wine, antiques, and electronics each involve specialized restoration protocols',
       'Duration of climate-controlled storage — longer structural restoration timelines extend storage periods',
       'Documentation requirements — high-value insurance claims require detailed condition reports and itemized restoration records',
     ],
@@ -134,7 +134,7 @@ At our 12,000-square-foot climate-controlled facility, every item receives treat
       'Parkview Hills',
       'Spring Hill',
     ],
-    responseTime: '30-minute emergency response for priority item stabilization in all McLean neighborhoods. Full pack-out scheduling coordinated around your timeline and structural restoration needs.',
+    responseTime: 'rapid emergency response for priority item stabilization in all McLean neighborhoods. Full pack-out scheduling coordinated around your timeline and structural restoration needs.',
   },
   faqs: [
     {
@@ -163,7 +163,7 @@ At our 12,000-square-foot climate-controlled facility, every item receives treat
     },
     {
       question: 'Do you handle antique furniture differently?',
-      answer: 'Absolutely. Antique furniture receives individualized treatment plans based on age, construction, wood species, and finish type. We stabilize water damage without stripping original finishes, treat smoke odors without chemical exposure to aged wood, and coordinate with furniture restoration specialists for pieces requiring expert craftsmanship.',
+      answer: 'Absolutely. Antique furniture receives individualized treatment plans based on age, construction, wood species, and finish type. We stabilize water damage without stripping original finishes, treat smoke odors without chemical exposure to aged wood, and coordinate with furniture restoration specialists for pieces requiring technical craftsmanship.',
     },
     {
       question: 'Can I track my belongings during the restoration process?',
@@ -176,6 +176,6 @@ At our 12,000-square-foot climate-controlled facility, every item receives treat
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your McLean Home?',
-    paragraph: 'Every hour of exposure to water, smoke, or mold causes additional damage to your irreplaceable possessions. Our contents restoration team responds within 30 minutes to stabilize priority items and begins the professional pack-out process that protects everything your McLean estate holds. Call (877) 497-0007 now.',
+    paragraph: 'Every hour of exposure to water, smoke, or mold causes additional damage to your irreplaceable possessions. Our contents restoration team responds as quickly as available crews can safely arrive to stabilize priority items and begins the professional pack-out process that protects everything your McLean estate holds. Call (877) 497-0007 now.',
   },
 }

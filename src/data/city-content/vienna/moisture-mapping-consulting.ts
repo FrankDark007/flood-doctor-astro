@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Vienna, VA | Flood Doctor',
-    description: `Vienna's trusted moisture mapping service. Infrared thermography for historic colonials, Oakton luxury homes & established neighborhoods. IICRC-certified diagnostics. Call (877) 497-0007.`,
+    description: `Vienna's local moisture mapping service. Infrared thermography for historic colonials, Oakton luxury homes & established neighborhoods. trained diagnostics. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Vienna, Virginia',
   introSection: {
-    headline: `Expert Moisture Diagnostics for Vienna Residential Properties`,
+    headline: `Technical Moisture Diagnostics for Vienna Residential Properties`,
     paragraphs: [
       `Vienna properties span a distinctive range—1950s colonials in Vienna Town with original building materials, luxury new construction in Oakton with complex mechanical systems, and mid-century ranchers in Dunn Loring where decades of additions create moisture pathways between old and new construction. Each type presents unique challenges that demand scientific moisture mapping rather than visual guesswork. Flood Doctor uses FLIR thermal imaging, NIST-calibrated moisture meters, and psychrometric analysis to produce grid-based digital moisture maps documenting conditions throughout your Vienna home with the precision needed for effective drying and credible insurance documentation.`,
-      `Our moisture consultants have profiled water damage through foundation walls in Wolftrap neighborhood colonials, mapped condensation patterns in sealed crawl spaces beneath Clarks Crossing properties, and documented building envelope failures where Tysons Woods homeowners connected modern additions to original 1960s structures. The transition zone between old and new construction is a persistent moisture vulnerability in Vienna—different framing methods, dissimilar materials, and mismatched flashing create concealed entry points that only thermal imaging reveals. Our IICRC S500-compliant documentation provides the scientific foundation for restoration decisions, capturing data that insurance adjusters and attorneys require when claims become disputed.`,
+      `Our moisture consultants have profiled water damage through foundation walls in Wolftrap neighborhood colonials, mapped condensation patterns in sealed crawl spaces beneath Clarks Crossing properties, and documented building envelope failures where Tysons Woods homeowners connected modern additions to original 1960s structures. The transition zone between old and new construction is a persistent moisture vulnerability in Vienna—different framing methods, dissimilar materials, and mismatched flashing create concealed entry points that only thermal imaging reveals. Our industry S500-compliant documentation provides the scientific foundation for restoration decisions, capturing data that insurance adjusters and attorneys require when claims become disputed.`,
     ],
     localContext: `Vienna blends charming mid-century neighborhoods with luxury Oakton construction, creating moisture assessment challenges where aging infrastructure meets modern building systems and finishes.`,
   },
@@ -142,8 +142,8 @@ export const content: CityServiceContent = {
       answer: `Absolutely. Accurate moisture mapping identifies exactly which materials are wet and which are dry. This precision allows targeted intervention—opening only the wall sections that need drying rather than demolishing entire rooms. For luxury finishes, this targeted approach preserves significant material investment.`,
     },
     {
-      question: 'What certifications do your moisture consultants hold?',
-      answer: `Our consultants hold IICRC WRT (Water Restoration Technician) and ASD (Applied Structural Drying) certifications, Level II Thermography credentials, and manufacturer-specific instrument certifications. These qualifications are recognized by insurance carriers, courts, and industry professionals.`,
+      question: 'What documented processes do your moisture consultants hold?',
+      answer: `Our consultants hold industry WRT (Water Restoration Technician) and ASD (Applied Structural Drying) documented processes, Level II Thermography credentials, and manufacturer-specific instrument documented processes. These qualifications are recognized by insurance carriers, courts, and industry professionals.`,
     },
     {
       question: 'How quickly can you perform a moisture assessment after water damage?',
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Moisture Concerns in Your Vienna Home?',
-    paragraph: `Scientific moisture mapping reveals the complete picture—hidden moisture, affected materials, and optimal drying approach. Our IICRC-certified consultants serve Vienna Town, Oakton, and surrounding neighborhoods. Call (877) 497-0007 for a professional assessment.`,
+    paragraph: `Scientific moisture mapping reveals the complete picture—hidden moisture, affected materials, and optimal drying approach. Our trained consultants serve Vienna Town, Oakton, and surrounding neighborhoods. Call (877) 497-0007 for a professional assessment.`,
   },
 }

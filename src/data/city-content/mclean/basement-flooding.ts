@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in McLean, VA | Flood Doctor',
-    description: 'McLean basement flooding experts. 30-min response for finished basements, wine cellars & home theaters. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
+    description: 'McLean basement flooding specialists. rapid response for finished basements, wine cellars & home theaters. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in McLean, Virginia',
   introSection: {
@@ -19,7 +19,7 @@ This is not a wet carpet problem. At $200 or more per square foot in finish valu
   processSteps: [
     {
       title: 'High-Value Contents Triage',
-      description: 'Before a single pump activates, the crew stabilizes irreplaceable contents. Wine bottles move to temperature-stable staging with portable cooling — exposure above 65°F causes cork expansion and oxidation. Artwork is photographed in place for insurance, then relocated above the flood line. Theater electronics are power-isolated at the breaker and covered with anti-static sheeting. Guest quarter contents are catalogued and removed. This 30–45 minute triage phase saves tens of thousands in avoidable secondary damage.',
+      description: 'Before a single pump activates, the crew stabilizes irreplaceable contents. Wine bottles move to temperature-stable dispatch planning with portable cooling — exposure above 65°F causes cork expansion and oxidation. Artwork is photographed in place for insurance, then relocated above the flood line. Theater electronics are power-isolated at the breaker and covered with anti-static sheeting. Guest quarter contents are catalogued and removed. This initial triage phase saves tens of thousands in avoidable secondary damage.',
       timeframe: undefined,
     },
     {
@@ -72,7 +72,7 @@ This is not a wet carpet problem. At $200 or more per square foot in finish valu
       'Total affected square footage — McLean basements commonly range from 1,500 to 3,500 square feet of finished space',
       'Water category and source — clean groundwater versus sewage backup versus contaminated runoff require different decontamination protocols',
       'Finish material complexity — desiccant dehumidification for wine cellars and Injectidry for millwork add specialized equipment costs beyond standard drying',
-      'Contents involvement — wine collection handling, electronics protection, art relocation, and furniture staging increase labor requirements',
+      'Contents involvement — wine collection handling, electronics protection, art relocation, and furniture dispatch planning increase labor requirements',
       'Duration of standing water — extraction within the first 6 hours versus discovery after 72 hours dramatically changes the scope from drying to demolition and rebuild',
     ],
     cta: 'Call (877) 497-0007 for immediate dispatch. On-site assessment is free. We scope the work in person, explain what each line item covers, and coordinate directly with your insurance carrier or provide private-pay documentation as needed.',
@@ -93,12 +93,12 @@ This is not a wet carpet problem. At $200 or more per square foot in finish valu
       'Clearspring Manor',
       'Langley Farms',
     ],
-    responseTime: '30-minute emergency response to all McLean neighborhoods. Crews are positioned along Georgetown Pike and Chain Bridge Road — not dispatched from a central warehouse across the county. When your Langley estate takes on water at midnight or your El Nido walk-out floods during a Saturday storm, the truck is already within response radius.',
+    responseTime: 'rapid emergency response to all McLean neighborhoods. Crews provide service-area response along Georgetown Pike and Chain Bridge Road. When your Langley estate takes on water at midnight or your El Nido walk-out floods during a Saturday storm, dispatch prioritizes access and property-specific needs.',
   },
   faqs: [
     {
       question: 'Can you save my wine collection if the cellar floods?',
-      answer: 'In most cases, yes — if we arrive within 12–24 hours. The immediate threat is temperature, not water contact. When the cooling system fails, cellar temperature climbs toward 65–72°F, stressing corks and accelerating oxidation. We deploy portable cooling to stabilize temperature while extracting water. Bottles are inventoried and relocated to insulated staging. Racking is dried in place when sound. The vapor barrier is assessed after water removal — if compromised, it must be replaced before the cellar returns to service. Collection survival depends more on the cooling timeline than water depth.',
+      answer: 'In most cases, yes — if we arrive within 12–24 hours. The immediate threat is temperature, not water contact. When the cooling system fails, cellar temperature climbs toward 65–72°F, stressing corks and accelerating oxidation. We deploy portable cooling to stabilize temperature while extracting water. Bottles are inventoried and relocated to insulated dispatch planning. Racking is dried in place when sound. The vapor barrier is assessed after water removal — if compromised, it must be replaced before the cellar returns to service. Collection survival depends more on the cooling timeline than water depth.',
     },
     {
       question: 'My walk-out basement floods every heavy rain — is this fixable or just manageable?',
@@ -124,6 +124,6 @@ This is not a wet carpet problem. At $200 or more per square foot in finish valu
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],
   finalCTA: {
     headline: 'Basement Flooding in McLean? Every Hour Costs You.',
-    paragraph: 'Your below-grade living space — the wine cellar, the theater, the library, the guest suite — was built to a standard that demands equally precise restoration. Generic pump-and-dry crews do not carry desiccant dehumidifiers. They do not know what Injectidry is. They will tear out your millwork because it is faster than saving it. We respond in 30 minutes with the equipment and expertise that McLean estate basements require.',
+    paragraph: 'Your below-grade living space — the wine cellar, the theater, the library, the guest suite — was built to a standard that demands equally precise restoration. Generic pump-and-dry crews do not carry desiccant dehumidifiers. They do not know what Injectidry is. They will tear out your millwork because it is faster than saving it. We respond as quickly as available crews can safely arrive with the equipment and experience that McLean estate basements require.',
   },
 }

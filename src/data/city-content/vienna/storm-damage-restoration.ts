@@ -21,8 +21,8 @@ Our storm response approach prioritizes stopping additional damage before beginn
   processSteps: [
     {
       title: 'Immediate Emergency Response',
-      description: 'When you call (877) 497-0007 during a storm event, we dispatch immediately. During area-wide events, we deploy multiple crews and prioritize by damage severity. For Vienna homeowners with active water intrusion, we aim for response within 30-60 minutes even during major storms.',
-      timeframe: 'Within 30-60 minutes',
+      description: 'When you call (877) 497-0007 during a storm event, we dispatch immediately. During area-wide events, we deploy multiple crews and prioritize by damage severity. For Vienna homeowners with active water intrusion, we aim for response within initial response even during major storms.',
+      timeframe: 'Within initial response',
     },
     {
       title: 'Emergency Stabilization',
@@ -41,12 +41,12 @@ Our storm response approach prioritizes stopping additional damage before beginn
     },
     {
       title: 'Industrial Drying Setup',
-      description: `Drying equipment is positioned based on damage assessment—targeting affected attic spaces, wall cavities, ceiling materials, and flooring. Vienna's storm damage often affects multiple levels and irregular areas, requiring strategic equipment placement.`,
+      description: `Drying equipment is placed based on damage assessment—targeting affected attic spaces, wall cavities, ceiling materials, and flooring. Vienna's storm damage often affects multiple levels and irregular areas, requiring strategic equipment placement.`,
       timeframe: 'Hours 6-12',
     },
     {
       title: 'Monitoring & Restoration Coordination',
-      description: 'Daily monitoring ensures complete drying. We coordinate with roofing contractors, general contractors, and other specialists needed for full restoration. Our documentation supports your insurance claim through the entire process—from emergency response through rebuild completion.',
+      description: 'Daily monitoring ensures target dry standards. We coordinate with roofing contractors, general contractors, and other specialists needed for full restoration. Our documentation supports your insurance claim through the entire process—from emergency response through rebuild completion.',
       timeframe: 'Days 2-14+',
     },
   ],
@@ -112,7 +112,7 @@ Our storm response approach prioritizes stopping additional damage before beginn
   },
   pricingSection: {
     headline: 'Storm Damage Restoration Costs in Vienna',
-    intro: 'Vienna storm damage restoration costs vary widely based on damage type, extent, and affected building systems. Emergency tarping and water extraction costs differ from full restoration including roof repair and interior rebuild. Most storm damage is covered by homeowners insurance—we handle direct billing and documentation.',
+    intro: 'Vienna storm damage restoration costs vary widely based on damage type, extent, and affected building systems. Emergency tarping and water extraction costs differ from full restoration including roof repair and interior rebuild. Most storm damage is covered by homeowners insurance—we handle insurance documentation support and documentation.',
     factors: [
       'Emergency stabilization needs—tarping, board-up, and immediate water extraction costs',
       'Damage extent—tree strikes affecting single rooms differ from damage spanning multiple building systems',
@@ -145,7 +145,7 @@ Our storm response approach prioritizes stopping additional damage before beginn
   faqs: [
     {
       question: 'How quickly can you respond during a storm?',
-      answer: 'We dispatch immediately when you call (877) 497-0007—even during ongoing storms. Response time depends on storm severity and area-wide damage extent. For active water intrusion, we aim for 30-60 minute response even during major events. We prioritize by damage severity to reach the most urgent situations first.',
+      answer: 'We dispatch immediately when you call (877) 497-0007—even during ongoing storms. Response time depends on storm severity and area-wide damage extent. For active water intrusion, we prioritize urgent active-water-intrusion calls as quickly as conditions and crew availability allow. We prioritize by damage severity to reach the most urgent situations first.',
     },
     {
       question: `Can you work while it's still raining?`,
@@ -157,11 +157,11 @@ Our storm response approach prioritizes stopping additional damage before beginn
     },
     {
       question: 'Does insurance cover storm damage?',
-      answer: 'Most storm damage—including wind, fallen trees, and water damage from roof breaches—is covered by standard homeowners insurance. Flood damage from rising water may require separate flood insurance. We handle insurance documentation and direct billing for all storm-related claims.',
+      answer: 'Most storm damage—including wind, fallen trees, and water damage from roof breaches—is covered by standard homeowners insurance. Flood damage from rising water may require separate flood insurance. We handle insurance documentation and insurance documentation support for all storm-related claims.',
     },
     {
       question: 'How do you find all the water damage from a roof leak?',
-      answer: 'Thermal imaging cameras detect temperature differences caused by moisture, revealing water damage behind walls and in ceilings without destructive investigation. Storm water often travels from entry points—appearing in walls and ceilings far from the obvious damage. We trace these patterns to ensure complete drying.',
+      answer: 'Thermal imaging cameras detect temperature differences caused by moisture, revealing water damage behind walls and in ceilings without destructive investigation. Storm water often travels from entry points—appearing in walls and ceilings far from the obvious damage. We trace these patterns to ensure target dry standards.',
     },
     {
       question: 'My power is out and my sump pump stopped—do you help with that?',

@@ -10,7 +10,7 @@ export const content: CityServiceContent = {
     headline: `Precision Moisture Diagnostics for McLean Estate Properties`,
     paragraphs: [
       `Moisture intrusion in a McLean estate demands a level of diagnostic precision that generic restoration companies cannot provide. A 10,000-square-foot residence in Langley with a subterranean wine cellar, a Chesterbrook colonial featuring original hardwood throughout, or a Woodside Estates property with a finished lower level housing a home theater—each scenario requires scientific moisture profiling to identify the full extent of water migration. Flood Doctor deploys FLIR infrared thermography, NIST-calibrated pin-type and capacitance meters, and psychrometric analysis to produce comprehensive digital moisture maps that document every affected surface in your estate home.`,
-      `Our consulting practice extends beyond data collection into expert interpretation for high-value properties. We have mapped moisture patterns through multi-level estates along Georgetown Pike, identified concealed condensation pathways in climate-controlled art storage rooms in El Nido, and traced building envelope failures in custom-built residences near the McLean Community Center. For properties valued between two and seventeen million dollars, the difference between adequate and exceptional moisture diagnostics can mean hundreds of thousands in preserved asset value. Our IICRC-certified moisture consultants deliver court-admissible documentation, drying strategy recommendations calibrated to luxury finishes, and expert witness services when disputes arise.`,
+      `Our consulting practice extends beyond data collection into technical interpretation for high-value properties. Our moisture mapping process is designed for multi-level estates, climate-controlled storage areas, and custom-built residences common around Georgetown Pike and the McLean Community Center. For properties valued between two and seventeen million dollars, the difference between adequate and exceptional moisture diagnostics can mean hundreds of thousands in preserved asset value. Our trained moisture consultants deliver well-organized documentation, drying strategy recommendations calibrated to luxury finishes, and technical consulting services when disputes arise.`,
     ],
     localContext: `McLean estates feature complex building envelopes with wine cellars, home theaters, and climate-controlled collection rooms that create unique psychrometric challenges requiring specialized moisture mapping protocols.`,
   },
@@ -54,7 +54,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Multi-Level Moisture Migration in Large Estates',
-      description: `Water in a 12,000-square-foot Langley estate can migrate through three or four levels via wall cavities, HVAC chases, and plumbing penetrations. Standard single-floor assessments miss the vertical extent of moisture travel, leading to incomplete drying and concealed mold growth months later.`,
+      description: `Water in a 12,000-square-foot Langley estate can migrate through three or four levels via wall cavities, HVAC chases, and plumbing penetrations. Standard single-floor assessments miss the vertical extent of moisture travel, leading to intarget dry standards and concealed mold growth months later.`,
       solution: `Our mapping protocol surveys every level of the structure, including attic spaces and crawl areas. Infrared scanning of each floor identifies thermal anomalies that indicate moisture presence, while pin-meter readings at penetration points verify whether water has bridged between levels.`,
     },
     {
@@ -65,7 +65,7 @@ export const content: CityServiceContent = {
     {
       title: 'Private Well and Septic System Complications',
       description: `Several McLean properties rely on private well and septic systems, particularly along Georgetown Pike and near Great Falls Park. These systems introduce Category 2 or Category 3 water contamination variables that standard residential moisture mapping does not address.`,
-      solution: `Our assessment protocol includes water classification testing when well or septic involvement is suspected. We document contamination categories per IICRC S500 standards, which directly affects required drying protocols and determines whether affected materials can be restored or must be removed.`,
+      solution: `Our assessment protocol includes water classification testing when well or septic involvement is suspected. We document contamination categories per industry S500 standards, which directly affects required drying protocols and determines whether affected materials can be restored or must be removed.`,
     },
   ],
   equipmentSection: {
@@ -97,7 +97,7 @@ export const content: CityServiceContent = {
       },
       {
         name: 'Digital Mapping Software',
-        purpose: 'Grid-based documentation platform producing court-admissible moisture maps with timestamped data points and photographic evidence',
+        purpose: 'Grid-based documentation platform producing well-organized moisture maps with timestamped data points and photographic evidence',
       },
     ],
     localNote: `Our McLean assessment teams carry extended instrument suites calibrated for the exotic building materials, complex floor plans, and premium finishes characteristic of estate properties in Langley, The Reserve, and Chesterbrook.`,
@@ -140,7 +140,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Can your moisture maps be used in insurance disputes or litigation?',
-      answer: `Yes. Our digital moisture maps are prepared by IICRC-certified consultants using NIST-traceable instrumentation. Every data point is timestamped and georeferenced. Our documentation has been accepted in court proceedings, insurance arbitration, and mediation. We provide expert witness testimony when required.`,
+      answer: `Yes. Our digital moisture maps are prepared by trained consultants using NIST-traceable instrumentation. Every data point is timestamped and georeferenced. Our documentation has been accepted in court proceedings, insurance arbitration, and mediation. We provide technical consulting testimony when required.`,
     },
     {
       question: 'Will moisture testing damage my hardwood floors or custom finishes?',
@@ -152,11 +152,11 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Do you provide standalone consulting without performing restoration?',
-      answer: `Yes. Many McLean property owners, attorneys, and insurance professionals engage us solely for moisture assessment, drying strategy consulting, and expert documentation. This independence ensures objectivity in our findings, which strengthens the evidentiary value of our reports.`,
+      answer: `Yes. Many McLean property owners, attorneys, and insurance professionals engage us solely for moisture assessment, drying strategy consulting, and technical documentation. This independence ensures objectivity in our findings, which strengthens the evidentiary value of our reports.`,
     },
     {
-      question: 'What IICRC standards govern your moisture mapping protocols?',
-      answer: `Our work follows IICRC S500 (Standard for Professional Water Damage Restoration) and S520 (Standard for Professional Mold Remediation). These standards define moisture measurement protocols, documentation requirements, and drying verification criteria recognized by insurance carriers and courts.`,
+      question: 'What industry standards govern your moisture mapping protocols?',
+      answer: `Our work follows industry S500 (Standard for Professional Water Damage Restoration) and S520 (Standard for Professional Mold Remediation). These standards define moisture measurement protocols, documentation requirements, and drying verification criteria recognized by insurance carriers and courts.`,
     },
     {
       question: 'How long does a complete moisture assessment take for a large estate?',
@@ -169,6 +169,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Need Moisture Diagnostics for Your McLean Property?',
-    paragraph: `Accurate moisture mapping protects your estate investment. Our IICRC-certified consultants deploy scientific instrumentation calibrated for high-value residential properties. Call (877) 497-0007 for a confidential assessment consultation.`,
+    paragraph: `Accurate moisture mapping protects your estate investment. Our trained consultants deploy scientific instrumentation calibrated for high-value residential properties. Call (877) 497-0007 for a confidential assessment consultation.`,
   },
 }

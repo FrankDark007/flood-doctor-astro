@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in McLean, VA | Flood Doctor`,
-    description: `McLean's trusted restoration experts for hotels, luxury condos, and multifamily properties. Discreet service near Langley and Chesterbrook. Call (877) 497-0007.`,
+    description: `McLean's local restoration specialists for hotels, luxury condos, and multifamily properties. Discreet service near Langley and Chesterbrook. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in McLean, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `McLean's hospitality and multifamily properties cater to an exclusive clientele—diplomats, executives, and government leaders who expect seamless environments. When water damage strikes a boutique hotel near Georgetown Pike or a luxury condominium building in The Reserve, the restoration must be as refined as the property itself. Displaced guests need discreet relocation, condo owners demand immediate communication, and property managers require documentation that protects against liability in this litigious market.
 
-Flood Doctor has restored water-damaged hospitality and multifamily properties throughout McLean, from high-end apartment buildings near Chain Bridge to boutique lodging establishments along Dolley Madison Boulevard. Our multi-unit coordination expertise means we manage simultaneous restoration across affected units while maintaining the aesthetic standards these properties demand. We use service entrances, coordinate with concierge teams, and schedule disruptive work around guest and resident schedules.`,
+Flood Doctor has restored water-damaged hospitality and multifamily properties throughout McLean, from high-end apartment buildings near Chain Bridge to boutique lodging establishments along Dolley Madison Boulevard. Our multi-unit coordination experience means we manage simultaneous restoration across affected units while maintaining the aesthetic standards these properties demand. We use service entrances, coordinate with concierge teams, and schedule disruptive work around guest and resident schedules.`,
       `The financial implications of water damage in McLean hospitality and multifamily properties are substantial. A burst pipe cascading through a luxury condominium building in Woodside Estates can affect multiple units worth millions in combined value. Extended-stay properties near Langley house long-term guests whose displacement creates both revenue loss and reputational damage. Apartment communities in Chesterbrook face tenant retention risks when restoration drags beyond reasonable timelines.
 
 Our approach prioritizes revenue recovery and occupant satisfaction in parallel. We deploy enough equipment and personnel to restore all affected units simultaneously rather than sequentially, reducing total displacement time. Each unit receives individual moisture mapping and progress tracking, allowing phased re-occupancy as units reach dry standards. Property managers receive daily reports with unit-by-unit status updates suitable for owner communications and board presentations at Salona Village and Balls Hill properties.`,
@@ -22,7 +22,7 @@ Our approach prioritizes revenue recovery and occupant satisfaction in parallel.
     {
       title: `Immediate Property Assessment and Containment`,
       description: `When you call (877) 497-0007, our multi-unit response team deploys immediately. We assess the full vertical and horizontal scope of water migration, identify all affected units, and install containment to prevent further spread through McLean luxury properties.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Emergency dispatch`,
     },
     {
       title: `Guest and Resident Communication Protocol`,
@@ -142,7 +142,7 @@ Our approach prioritizes revenue recovery and occupant satisfaction in parallel.
       `Spring Hill Road`,
       `Old Dominion Drive`,
     ],
-    responseTime: `45-minute emergency response to all McLean hospitality and multifamily properties. Our multi-unit crews carry equipment for immediate containment of cascading water events in luxury buildings.`,
+    responseTime: `prompt emergency response to all McLean hospitality and multifamily properties. Our multi-unit crews carry equipment for immediate containment of cascading water events in luxury buildings.`,
   },
   faqs: [
     {
@@ -167,7 +167,7 @@ Our approach prioritizes revenue recovery and occupant satisfaction in parallel.
     },
     {
       question: `What is your response time for McLean hospitality emergencies?`,
-      answer: `We guarantee 45-minute response to McLean hospitality and multifamily properties. Our crews carry multi-unit containment materials and can begin water extraction immediately upon arrival, preventing cascade damage to additional units.`,
+      answer: `We target prompt response to McLean hospitality and multifamily properties. Our crews carry multi-unit containment materials and can begin water extraction immediately upon arrival, preventing cascade damage to additional units.`,
     },
     {
       question: `Can you coordinate with our property management company?`,
@@ -184,6 +184,6 @@ Our approach prioritizes revenue recovery and occupant satisfaction in parallel.
   ],
   finalCTA: {
     headline: `Water Damage in Your McLean Property?`,
-    paragraph: `Every hour of water exposure threatens luxury finishes and increases displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your McLean hospitality or residential investment. Call (877) 497-0007 now.`,
+    paragraph: `Every hour of water exposure threatens luxury finishes and increases displacement costs. Our multi-unit response team arrives as quickly as available crews can safely arrive with the equipment and experience to protect your McLean hospitality or residential investment. Call (877) 497-0007 now.`,
   },
 }

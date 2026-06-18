@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Vienna, VA | Flood Doctor',
-    description: `Vienna's structural drying experts. 30-min response to Vienna Town, Oakton & Dunn Loring. Scientific drying for historic colonials & luxury new builds. Call (877) 497-0007.`,
+    description: `Vienna's structural drying specialists. rapid response to Vienna Town, Oakton & Dunn Loring. Scientific drying for historic colonials & luxury new builds. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Vienna, Virginia',
   introSection: {
@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has protected Vienna homes across every construction era — drying water-damaged plaster in charming Vienna Town bungalows near the Town Green, deploying precision drying in Oakton luxury basements after hot water heater failures, and managing moisture in Wolftrap-area colonials where aging sump pumps surrendered during summer thunderstorms. We understand that Vienna homeowners value both their property investments and their community's distinctive character, and our restoration approach reflects that quality standard.`,
       `Structural drying at its core is applied psychrometric science — calculating the specific humidity, grain depression, and dew point conditions that each building material needs to release trapped moisture safely. In Vienna, this science must account for remarkable material diversity within a single home. A Clarks Crossing colonial renovated over decades may contain original plaster on the first floor, modern drywall in the addition, hardwood flooring from three different eras, and a finished basement with contemporary materials over a 1960s concrete slab.
 
-Our IICRC-certified technicians map moisture throughout your Vienna home and develop zone-specific drying plans. LGR dehumidifiers create the atmospheric conditions for effective moisture release. Air movers positioned with calculated precision drive evaporation from wet surfaces. Injection drying systems reach moisture trapped inside wall cavities without opening your walls — preserving finishes and avoiding unnecessary reconstruction. Daily monitoring confirms that every material is progressing toward its dry standard, with complete documentation for your insurance claim.`,
+Our trained technicians map moisture throughout your Vienna home and develop zone-specific drying plans. LGR dehumidifiers create the atmospheric conditions for effective moisture release. Air movers placed with calculated precision drive evaporation from wet surfaces. Injection drying systems reach moisture trapped inside wall cavities without opening your walls — preserving finishes and avoiding unnecessary reconstruction. Daily monitoring confirms that every material is progressing toward its dry standard, with thorough documentation for your insurance claim.`,
     ],
     localContext: `Vienna's blend of charming mid-century homes, luxury Oakton new construction, and Wolf Trap-area properties creates a community where structural drying must adapt to construction spanning seven decades — from original plaster and old framing to modern engineered materials.`,
   },
   processSteps: [
     {
       title: 'Fast Community Response',
-      description: `Call (877) 497-0007 and our Vienna-area crews arrive within 30 minutes. We reach Vienna Town, Oakton, Dunn Loring, Wolftrap, Tysons Woods, and Clarks Crossing from local staging — responding as a neighbor, not a distant service provider.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Vienna-area crews arrive as quickly as available crews can safely arrive. We reach Vienna Town, Oakton, Dunn Loring, Wolftrap, Tysons Woods, and Clarks Crossing from local dispatch planning — responding as a neighbor, not a distant service provider.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Multi-Era Construction Assessment',
@@ -36,7 +36,7 @@ Our IICRC-certified technicians map moisture throughout your Vienna home and dev
     },
     {
       title: 'Equipment Deployment',
-      description: 'Dehumidifiers and air movers are positioned for each drying zone. In Vienna homes with historic and modern sections, different equipment types may be deployed in different areas — desiccant units for plaster zones, standard LGR units for modern construction, and injection systems for concealed cavities.',
+      description: 'Dehumidifiers and air movers are placed for each drying zone. In Vienna homes with historic and modern sections, different equipment types may be deployed in different areas — desiccant units for plaster zones, standard LGR units for modern construction, and injection systems for concealed cavities.',
       timeframe: 'Hours 5-8',
     },
     {
@@ -101,14 +101,14 @@ Our IICRC-certified technicians map moisture throughout your Vienna home and dev
       },
       {
         name: 'Data-Logging Hygrometers',
-        purpose: 'Continuous environmental monitoring in each drying zone — providing the scientific documentation that supports insurance claims and verifies complete drying',
+        purpose: 'Continuous environmental monitoring in each drying zone — providing the scientific documentation that supports insurance claims and verifies target dry standards',
       },
     ],
     localNote: 'Our Vienna crews carry equipment for the full range of construction types found in the community — from gentle drying systems for 1950s plaster to high-capacity units for Oakton luxury basements.',
   },
   pricingSection: {
     headline: 'Structural Drying Costs in Vienna',
-    intro: 'Vienna drying costs reflect the affected area, construction era, and material complexity of your home. We provide free assessments and detailed estimates before work begins. Insurance covers most water damage events, and we handle direct billing with all major carriers.',
+    intro: 'Vienna drying costs reflect the affected area, construction era, and material complexity of your home. We provide free assessments and detailed estimates before work begins. Insurance covers most water damage events, and we handle claim-support documentation for insurers.',
     factors: [
       'Construction era and materials — vintage plaster and masonry require different equipment and longer timelines than modern drywall construction',
       'Affected square footage — finished basements in Vienna homes range from compact to expansive luxury spaces, directly impacting equipment needs',
@@ -134,7 +134,7 @@ Our IICRC-certified technicians map moisture throughout your Vienna home and dev
       'Vienna Woods',
       'Cedar Lane',
     ],
-    responseTime: '30-minute response to all Vienna neighborhoods. Our crews are familiar with every community from the Church Street corridor through Oakton and the Wolf Trap area.',
+    responseTime: 'rapid emergency response to all Vienna neighborhoods. Our crews are familiar with every community from the Church Street corridor through Oakton and the Wolf Trap area.',
   },
   faqs: [
     {
@@ -151,11 +151,11 @@ Our IICRC-certified technicians map moisture throughout your Vienna home and dev
     },
     {
       question: 'How long does structural drying take in a typical Vienna home?',
-      answer: 'Modern construction areas typically dry in 3-5 days. Sections with older plaster, masonry, or concrete may require 5-8 days. We provide daily updates with moisture readings so you know exactly when completion is expected. We never rush drying — incomplete drying leads to mold.',
+      answer: 'Modern construction areas typically dry in 3-5 days. Sections with older plaster, masonry, or concrete may require 5-8 days. We provide daily updates with moisture readings so you know exactly when completion is expected. We never rush drying — intarget dry standards leads to mold.',
     },
     {
       question: 'Will my insurance cover structural drying?',
-      answer: 'Most homeowner policies cover water damage restoration including structural drying. Sump pump failure coverage requires a specific rider — check your policy. We document everything for your claim and handle direct billing with all major insurance carriers.',
+      answer: 'Most homeowner policies cover water damage restoration including structural drying. Sump pump failure coverage requires a specific rider — check your policy. We document everything for your claim and handle insurance documentation support with all major insurance carriers.',
     },
     {
       question: 'What causes the most water damage in Vienna homes?',
@@ -168,6 +168,6 @@ Our IICRC-certified technicians map moisture throughout your Vienna home and dev
   ],
   finalCTA: {
     headline: 'Water Damage in Your Vienna Home?',
-    paragraph: 'Whether your home is a charming Vienna Town colonial or a luxury Oakton property, water damage demands immediate professional response. Our Vienna-based crews arrive within 30 minutes with equipment matched to your home construction type. Call (877) 497-0007 now.',
+    paragraph: 'Whether your home is a charming Vienna Town colonial or a luxury Oakton property, water damage demands immediate professional response. Our Vienna-based crews arrive as quickly as available crews can safely arrive with equipment matched to your home construction type. Call (877) 497-0007 now.',
   },
 }

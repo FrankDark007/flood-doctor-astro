@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Vienna, VA | Save Your Floors | Flood Doctor',
-    description: `Vienna hardwood floor drying specialists. Saving floors in Vienna Town, Oakton & Dunn Loring. Colonial and luxury home expertise. Crawl space moisture solutions. Call (877) 497-0007.`,
+    description: `Vienna hardwood floor drying specialists. Saving floors in Vienna Town, Oakton & Dunn Loring. Colonial and luxury home experience. Crawl space moisture solutions. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Vienna, Virginia',
   introSection: {
     headline: 'Quality Hardwood Floor Restoration for Vienna and Oakton Homes',
     paragraphs: [
       `Vienna homeowners invest in hardwood floors that reflect the craftsmanship this community values—site-finished red oak throughout Church Street area colonials, premium engineered hickory in Oakton luxury homes, and carefully maintained original hardwood in the established neighborhoods near Vienna Town Green. When a hot water heater fails in your Dunn Loring colonial, a dishwasher overflows onto the hardwood in your Oakton great room, or a sump pump failure sends water across the lower level of your Tysons Woods split-level, the flooring that anchors your home's design is at stake. Flood Doctor provides the meticulous hardwood drying service that Vienna homeowners expect—preserving floors that define your home rather than tearing them out.`,
-      `Vienna's mix of housing eras creates hardwood damage scenarios that require different expertise. Established 1950s-70s colonials near Ayr Hill have hardwood installed over crawl spaces where moisture can attack from below—a slow-developing problem that other companies misdiagnose as a surface-only issue. Renovated homes in Clarks Crossing and Wolftrap feature new hardwood installed over existing subfloors, where hidden moisture between layers complicates drying. Luxury Oakton homes with radiant heat beneath hardwood need protocols that account for the heating system. Our technicians assess the complete floor system—not just the wet surface—to deliver drying results that last rather than temporary fixes that re-cup within weeks as hidden moisture continues its damage from below near Meadowlark Gardens and throughout the Vienna corridor.`,
+      `Vienna's mix of housing eras creates hardwood damage scenarios that require different experience. Established 1950s-70s colonials near Ayr Hill have hardwood installed over crawl spaces where moisture can attack from below—a slow-developing problem that other companies misdiagnose as a surface-only issue. Renovated homes in Clarks Crossing and Wolftrap feature new hardwood installed over existing subfloors, where hidden moisture between layers complicates drying. Luxury Oakton homes with radiant heat beneath hardwood need protocols that account for the heating system. Our technicians assess the complete floor system—not just the wet surface—to deliver drying results that last rather than temporary fixes that re-cup within weeks as hidden moisture continues its damage from below near Meadowlark Gardens and throughout the Vienna corridor.`,
     ],
-    localContext: `Vienna's blend of established colonials with crawl space moisture challenges and Oakton luxury homes with premium flooring creates hardwood drying situations requiring expertise across housing eras and flooring types.`,
+    localContext: `Vienna's blend of established colonials with crawl space moisture challenges and Oakton luxury homes with premium flooring creates hardwood drying situations requiring experience across housing eras and flooring types.`,
   },
   processSteps: [
     {
       title: 'Rapid Vienna Response',
-      description: `Call (877) 497-0007 and we reach your Vienna or Oakton home within 30 minutes. Our first assessment identifies the wood species, measures moisture content at multiple locations, and evaluates the subfloor system—including crawl space conditions that may be contributing to the moisture problem.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and we reach your Vienna or Oakton home as quickly as available crews can safely arrive. Our first assessment identifies the wood species, measures moisture content at multiple locations, and evaluates the subfloor system—including crawl space conditions that may be contributing to the moisture problem.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Complete Water Extraction',
@@ -55,12 +55,12 @@ export const content: CityServiceContent = {
     {
       title: 'Hot Water Heater Failures in Aging Homes',
       description: `Water heaters in Vienna's older homes reach 15-20 years and fail catastrophically, releasing 40-60 gallons onto adjacent flooring. When the heater sits on the same level as hardwood—common in single-level and ranch-style Vienna homes—the entire first floor can be affected before the tank empties.`,
-      solution: 'Emergency extraction within 30 minutes limits absorption. Our mat systems cover the full affected area, and daily monitoring tracks every section to target dryness. We also recommend drain pans and water alarms for replacement heaters—preventing the next failure from reaching your hardwood.',
+      solution: 'Emergency extraction as quickly as available crews can safely arrive limits absorption. Our mat systems cover the full affected area, and daily monitoring tracks every section to target dryness. We also recommend drain pans and water alarms for replacement heaters—preventing the next failure from reaching your hardwood.',
     },
     {
       title: 'Renovated Open Floor Plans with Continuous Hardwood',
       description: 'Vienna homeowners frequently renovate, removing walls to create open floor plans with continuous hardwood from kitchen to family room to dining area. This beautiful design means water from a kitchen appliance failure crosses 800-1,200 square feet of hardwood before hitting a wall or step.',
-      solution: 'Multiple mat systems deployed across the entire affected area dry the full floor simultaneously. Moisture mapping ensures complete coverage including under islands, behind appliances, and in areas where water pooled against cabinetry. We dry the complete footprint, not just the obviously wet sections.',
+      solution: 'Multiple mat systems deployed across the entire affected area dry the full floor simultaneously. Moisture mapping ensures broad coverage including under islands, behind appliances, and in areas where water pooled against cabinetry. We dry the affected footprint, not just the obviously wet sections.',
     },
     {
       title: 'Radiant Heat System Complications',
@@ -132,7 +132,7 @@ export const content: CityServiceContent = {
       'Dellwood',
       'Nottoway Park area',
     ],
-    responseTime: '30-minute emergency response throughout Vienna and Oakton. Our crews reach Vienna Town, Wolftrap, and Dunn Loring with complete hardwood drying systems for immediate deployment.',
+    responseTime: 'rapid emergency response throughout Vienna and Oakton. Our crews reach Vienna Town, Wolftrap, and Dunn Loring with complete hardwood drying systems for immediate deployment.',
   },
   faqs: [
     {

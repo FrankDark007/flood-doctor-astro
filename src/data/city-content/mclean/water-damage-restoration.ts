@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in McLean, VA | Flood Doctor',
-    description: `McLean's trusted water damage restoration experts. 30-min response to Langley, Chesterbrook & The Reserve. Protecting wine cellars & home theaters. Call (877) 497-0007.`,
+    description: `McLean's local water damage restoration specialists. rapid response to Langley, Chesterbrook & The Reserve. Protecting wine cellars & home theaters. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in McLean, Virginia',
   introSection: {
@@ -14,19 +14,19 @@ export const content: CityServiceContent = {
 Flood Doctor has restored water-damaged properties throughout McLean for nearly two decades. We've extracted standing water from The Reserve's gated estates, dried the home theaters of Chesterbrook families, and prevented mold growth in the historic properties along Georgetown Pike. When your Woodside Estates neighbor recommends a restoration company, they mention us—because we've already served their cul-de-sac.`,
       `McLean's water damage challenges differ from typical Northern Virginia homes. The clay soil that provides stable foundations also shifts during wet seasons, creating hairline cracks that allow water intrusion. Mature oaks in Salona Village and Balls Hill—the same trees that provide your neighborhood's character—can send roots into aging sewer lines, causing backups during heavy storms. The high water tables near Chain Bridge create persistent basement moisture that generic restoration companies don't understand how to address.
 
-Our IICRC Master Water Restorers don't just pump water and leave. We understand that your McLean Hamlet property requires precision drying to protect original plaster walls, that your El Nido estate's inlaid floors need controlled humidity to prevent warping, and that your Langley Farms wine collection demands specialized attention during any restoration project.`,
+Our water damage restoration team don't just pump water and leave. We understand that your McLean Hamlet property requires precision drying to protect original plaster walls, that your El Nido estate's inlaid floors need controlled humidity to prevent warping, and that your Langley Farms wine collection demands specialized attention during any restoration project.`,
     ],
-    localContext: `McLean's estate homes—ranging from 4,000 to 15,000+ square feet—require restoration expertise most companies simply don't have. We've protected irreplaceable assets in The Reserve, Woodside Estates, and throughout the Georgetown Pike corridor for years.`,
+    localContext: `McLean's estate homes—ranging from 4,000 to 15,000+ square feet—require restoration experience most companies simply don't have. We've protected irreplaceable assets in The Reserve, Woodside Estates, and throughout the Georgetown Pike corridor for years.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: `When you call our McLean hotline at (877) 497-0007, we dispatch from our Falls Church facility immediately. Our trucks are positioned to reach Langley, Chesterbrook, The Reserve, and Salona Village within our 30-minute guarantee—not from a distant warehouse, but from the McLean corridor where we're already stationed.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call our McLean hotline at (877) 497-0007, we dispatch service-area crews promptly. Our service-area crews cover Langley, Chesterbrook, The Reserve, and Salona Village with prompt service-area dispatch—through service-area coverage for the McLean corridor.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Comprehensive Damage Assessment',
-      description: `Our IICRC-certified technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In McLean estates, this often reveals water migration paths that aren't visible—from a third-floor bathroom leak traveling down to your basement wine cellar two floors below.`,
+      description: `Our trained technician assesses the full scope using infrared cameras that detect moisture behind walls, under floors, and in ceiling cavities. In McLean estates, this often reveals water migration paths that aren't visible—from a third-floor bathroom leak traveling down to your basement wine cellar two floors below.`,
       timeframe: 'First hour',
     },
     {
@@ -64,7 +64,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     {
       title: 'Estate Home Complexity',
       description: `A water event in a 12,000-square-foot home creates complications: water travels through multiple floors, affects connected HVAC zones, and can damage areas far from the original source. Your Georgetown Pike estate's open floor plan means water from an upstairs bathroom might affect your basement home theater.`,
-      solution: `Our assessment includes thermal imaging of all levels. We trace water migration paths that aren't obvious and ensure complete drying—not just the visibly wet areas.`,
+      solution: `Our assessment includes thermal imaging of all levels. We trace water migration paths that aren't obvious and ensure target dry standards—not just the visibly wet areas.`,
     },
     {
       title: 'High-Value Asset Protection',
@@ -74,7 +74,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     {
       title: 'Private Well & Septic Complications',
       description: 'Many Great Falls-adjacent properties in McLean operate on private well and septic systems. When septic backs up or well pumps fail, the contamination category changes—and so does the restoration approach.',
-      solution: `We're certified in all water damage categories, including Category 3 biohazard cleanup. We coordinate with well and septic specialists throughout the restoration process.`,
+      solution: `We're trained in all water damage categories, including Category 3 biohazard cleanup. We coordinate with well and septic specialists throughout the restoration process.`,
     },
   ],
   equipmentSection: {
@@ -113,7 +113,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in McLean',
-    intro: 'McLean water damage restoration costs vary significantly based on the scope of damage, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most McLean homeowners file insurance claims—and we handle direct billing with all major carriers.',
+    intro: 'McLean water damage restoration costs vary significantly based on the scope of damage, affected materials, and property size. We provide free inspections and detailed estimates before any work begins. Most McLean homeowners file insurance claims—and we handle claim-support documentation for insurers.',
     factors: [
       'Square footage affected—McLean estates often involve multiple floors and extensive finished basements',
       'Water category—clean water from a burst pipe differs from sewage backup requiring biohazard protocols',
@@ -141,7 +141,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
       'Langley Farms',
       'Pimmit Hills',
     ],
-    responseTime: '30-minute response to all McLean neighborhoods. Our crews are stationed throughout the McLean corridor—from Georgetown Pike to Chain Bridge Road—for immediate emergency dispatch.',
+    responseTime: 'rapid emergency response to all McLean neighborhoods. Our crews are available throughout the McLean corridor—from Georgetown Pike to Chain Bridge Road—for immediate emergency dispatch.',
   },
   faqs: [
     {
@@ -158,7 +158,7 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       question: 'Will you work directly with my insurance company?',
-      answer: 'Yes. We handle direct billing with all major carriers and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim. Many McLean homeowners find that professional documentation actually improves their claim outcomes.',
+      answer: 'Yes. We handle claim-support documentation for insurers and provide the detailed documentation insurance adjusters require. Our estimates, moisture readings, daily logs, and photo documentation support your claim. Many McLean homeowners find that professional documentation actually improves their claim outcomes.',
     },
     {
       question: 'How do you prevent mold after water damage?',
@@ -166,11 +166,11 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
     },
     {
       question: `What's the difference between your service and national chains like SERVPRO?`,
-      answer: `We're locally owned and McLean-focused. Our crews know the neighborhoods, understand estate home construction, and are positioned for 30-minute response. National franchises often dispatch from distant locations and lack expertise in McLean's specific challenges—clay soil, mature tree root issues, and high-end home restoration requirements.`,
+      answer: `We provide McLean-focused service-area coverage. Our crews account for neighborhood access, estate home construction, clay soil, mature tree root issues, and high-end home restoration requirements.`,
     },
     {
       question: 'Can you help if my private well or septic system caused the water damage?',
-      answer: `Yes. Many McLean properties—especially near Great Falls—use private well and septic systems. Septic backups are Category 3 (biohazard) situations requiring specialized cleanup protocols. We're certified for all contamination categories and coordinate with well and septic specialists as needed.`,
+      answer: `Yes. Many McLean properties—especially near Great Falls—use private well and septic systems. Septic backups are Category 3 (biohazard) situations requiring specialized cleanup protocols. We're trained for all contamination categories and coordinate with well and septic specialists as needed.`,
     },
   ],
   relatedBlogSlugs: [
@@ -180,6 +180,6 @@ Our IICRC Master Water Restorers don't just pump water and leave. We understand 
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in McLean?',
-    paragraph: 'Every hour of delay means more damage to your estate home. Our crews are stationed throughout McLean for immediate 30-minute response. One call handles everything—from water extraction to insurance documentation.',
+    paragraph: 'Every hour of delay means more damage to your estate home. Our crews are available throughout McLean for immediate rapid emergency response. One call handles everything—from water extraction to insurance documentation.',
   },
 }

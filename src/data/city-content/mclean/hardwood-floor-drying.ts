@@ -10,15 +10,15 @@ export const content: CityServiceContent = {
     headline: 'Saving McLean Estate Hardwood Floors from Water Damage',
     paragraphs: [
       `The hardwood floors in McLean estate homes are not commodity materials—they are investments in Brazilian cherry, wide-plank walnut, hand-scraped hickory, and imported European oak that cost $15 to $40 per square foot installed. When water from a burst pipe, dishwasher failure, or sump pump overflow contacts these premium surfaces in your Langley residence or Woodside Estates property, the first contractor who arrives may recommend full replacement—a proposal that can exceed $50,000 for the expansive floor plans typical of Georgetown Pike corridor homes. Flood Doctor specializes in saving hardwood floors using in-place drying technology that preserves your investment without the devastating cost and disruption of ripping out and replacing thousands of square feet of premium flooring.`,
-      `The scale of McLean estate flooring magnifies both the damage potential and the savings opportunity. A dishwasher leak in a Chesterbrook kitchen can migrate across 2,000 square feet of continuous hardwood before anyone notices. A sump pump failure in The Reserve floods a lower level with imported stone and hardwood that represents a six-figure flooring investment. Pool house water intrusion in Salona Village saturates hardwood that was selected specifically for that structure's design. In every case, rapid response with specialized drying systems offers the best chance of saving floors that cannot simply be matched from stock at a home center. Our IICRC-certified technicians understand premium wood species, engineered flooring systems, and the meticulous drying protocols that protect your McLean home's most visible investment.`,
+      `The scale of McLean estate flooring magnifies both the damage potential and the savings opportunity. A dishwasher leak in a Chesterbrook kitchen can migrate across 2,000 square feet of continuous hardwood before anyone notices. A sump pump failure in The Reserve floods a lower level with imported stone and hardwood that represents a six-figure flooring investment. Pool house water intrusion in Salona Village saturates hardwood that was selected specifically for that structure's design. In every case, rapid response with specialized drying systems offers the best chance of saving floors that cannot simply be matched from stock at a home center. Our trained technicians understand premium wood species, engineered flooring systems, and the meticulous drying protocols that protect your McLean home's most visible investment.`,
     ],
     localContext: `McLean's estate homes feature premium hardwood flooring—Brazilian cherry, hand-scraped walnut, imported oak—where replacement costs for typical floor plans can exceed $50,000, making specialized in-place drying an essential first response.`,
   },
   processSteps: [
     {
       title: 'Emergency Response & Floor Assessment',
-      description: `When you call (877) 497-0007, we respond to your McLean estate within 30 minutes. Our first action is assessing the hardwood—species identification, moisture content readings across the affected area, and evaluation of cupping, crowning, or buckling that has already begun. This assessment determines whether in-place drying can save your floors.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call (877) 497-0007, we respond to your McLean estate as quickly as available crews can safely arrive. Our first action is assessing the hardwood—species identification, moisture content readings across the affected area, and evaluation of cupping, crowning, or buckling that has already begun. This assessment determines whether in-place drying can save your floors.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Standing Water Extraction',
@@ -65,7 +65,7 @@ export const content: CityServiceContent = {
     {
       title: 'Engineered Hardwood Delamination Risk',
       description: 'Some McLean homes feature engineered hardwood—a premium wear layer bonded to a plywood core. Water intrusion can cause delamination of the layers if drying is not carefully controlled. The plywood core absorbs water differently than the hardwood surface, creating differential stresses.',
-      solution: 'Engineered flooring requires modified drying protocols with lower temperatures and slower moisture extraction rates. We identify engineered versus solid hardwood during initial assessment and adjust our approach to prevent delamination while still achieving complete drying.',
+      solution: 'Engineered flooring requires modified drying protocols with lower temperatures and slower moisture extraction rates. We identify engineered versus solid hardwood during initial assessment and adjust our approach to prevent delamination while still achieving target dry standards.',
     },
   ],
   equipmentSection: {
@@ -132,7 +132,7 @@ export const content: CityServiceContent = {
       'Kirby Estates',
       'Spring Hill',
     ],
-    responseTime: '30-minute emergency response to all McLean neighborhoods. Our crews are positioned to reach Langley, Chesterbrook, and Georgetown Pike estates before water damage becomes permanent floor damage.',
+    responseTime: 'rapid emergency response to all McLean neighborhoods. Our crews serve Langley, Chesterbrook, and Georgetown Pike estates before water damage becomes permanent floor damage.',
   },
   faqs: [
     {

@@ -3,25 +3,25 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Vienna, VA | Flood Doctor',
-    description: 'Vienna mold remediation specialists. IICRC-certified removal for Oakton, Wolf Trap & Vienna Town. Basement mold experts. Free inspection. Call (877) 497-0007.',
+    description: 'Vienna mold remediation specialists. trained removal for Oakton, Wolf Trap & Vienna Town. Basement mold specialists. Free inspection. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation & Removal in Vienna, Virginia',
   introSection: {
-    headline: `Vienna's Certified Mold Remediation Specialists`,
+    headline: `Vienna's Trained Mold Remediation Specialists`,
     paragraphs: [
       `Mold in your Vienna home isn't just an aesthetic problem—it's a health concern that demands professional remediation. Whether you've discovered visible growth in your Oakton basement, smell musty odors in your Church Street colonial's crawl space, or found hidden mold during a Wolf Trap home renovation, the response must be thorough, safe, and effective.
 
-Flood Doctor's IICRC-certified mold remediation teams have addressed mold problems throughout Vienna for nearly two decades. We've remediated basement mold in Dunn Loring homes, eliminated crawl space contamination in Vienna Woods properties, and removed mold from historic downtown Vienna houses—always following industry protocols that protect your family and prevent recurrence. This isn't a DIY problem, and we don't treat it like one.`,
+Flood Doctor's trained mold remediation teams have addressed mold problems throughout Vienna for nearly two decades. We've remediated basement mold in Dunn Loring homes, eliminated crawl space contamination in Vienna Woods properties, and removed mold from historic downtown Vienna houses—always following industry protocols that protect your family and prevent recurrence. This isn't a DIY problem, and we don't treat it like one.`,
       `Vienna's environment creates perfect conditions for mold growth. The town's humid summers combine with basement moisture from high groundwater—especially in neighborhoods near Difficult Run—to create damp conditions mold thrives in. Older homes along Church Street and in established neighborhoods often have crawl spaces with decades of moisture accumulation. Even newer Wolf Trap construction can develop mold when HVAC systems, bath ventilation, or basement waterproofing underperform.
 
 Our approach addresses both visible mold and the conditions enabling growth. Removing mold without addressing the moisture source is temporary at best. We identify water intrusion points, remediate existing contamination, and help you understand what changes will prevent recurrence. Vienna homeowners deserve lasting solutions, not repeated service calls.`,
     ],
-    localContext: `Vienna's humid climate, high groundwater near Difficult Run, and mix of housing ages create varied mold challenges. From historic home crawl spaces to modern basement finishing, we provide IICRC-certified remediation that addresses both contamination and underlying moisture sources.`,
+    localContext: `Vienna's humid climate, high groundwater near Difficult Run, and mix of housing ages create varied mold challenges. From historic home crawl spaces to modern basement finishing, we provide trained remediation that addresses both contamination and underlying moisture sources.`,
   },
   processSteps: [
     {
       title: 'Comprehensive Mold Inspection',
-      description: `Our IICRC-certified inspector assesses visible mold, uses thermal imaging to detect hidden moisture, and evaluates conditions throughout your Vienna home. We identify both mold contamination and the moisture sources enabling growth—because remediation without moisture control isn't complete.`,
+      description: `Our trained inspector assesses visible mold, uses thermal imaging to detect hidden moisture, and evaluates conditions throughout your Vienna home. We identify both mold contamination and the moisture sources enabling growth—because remediation without moisture control isn't complete.`,
       timeframe: '1-2 hours',
     },
     {
@@ -174,6 +174,6 @@ Our approach addresses both visible mold and the conditions enabling growth. Rem
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: 'Suspect Mold in Your Vienna Home?',
-    paragraph: `Don't wait—mold contamination spreads and health risks increase with time. Our IICRC-certified teams provide professional remediation that protects your family and prevents recurrence. Free inspections available.`,
+    paragraph: `Don't wait—mold contamination spreads and health risks increase with time. Our trained teams provide professional remediation that protects your family and prevents recurrence. Free inspections available.`,
   },
 }

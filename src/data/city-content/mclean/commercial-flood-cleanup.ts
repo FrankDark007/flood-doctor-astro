@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in McLean, VA | Flood Doctor',
-    description: `McLean commercial flood cleanup specialists. Industrial-scale response for corporate offices, medical facilities & retail along Georgetown Pike. Call (877) 497-0007.`,
+    description: `McLean commercial flood cleanup specialists. Industrial-scale response for corporate workplaces, medical facilities & retail along Georgetown Pike. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in McLean, Virginia',
   introSection: {
     headline: `Industrial-Scale Flood Response for McLean's Business Community`,
     paragraphs: [
-      `When storm flooding overwhelms a Langley corporate campus or a catastrophic plumbing failure sends thousands of gallons cascading through a Chesterbrook professional building, McLean's commercial property owners need a flood response partner equipped for scale and sophistication. The corporate offices, medical practices, and premium retail spaces that define McLean's business landscape cannot afford the weeks-long disruption that occurs when residential-grade crews attempt commercial flood work. These properties require industrial extraction capacity, multi-shift operations, and a project management approach that prioritizes operational recovery alongside thorough restoration.
+      `When storm flooding overwhelms a Langley corporate campus or a catastrophic plumbing failure sends thousands of gallons cascading through a Chesterbrook professional building, McLean's commercial property owners need a flood response partner equipped for scale and sophistication. The corporate workplaces, medical practices, and premium retail spaces that define McLean's business landscape cannot afford the weeks-long disruption that occurs when residential-grade crews attempt commercial flood work. These properties require industrial extraction capacity, multi-shift operations, and a project management approach that prioritizes operational recovery alongside thorough restoration.
 
-Flood Doctor's commercial flood division has cleaned up major flooding events across McLean's most prominent addresses. We've pumped out underground parking structures near Chain Bridge, extracted floodwater from Woodside Estates medical office complexes, and restored premium retail spaces at Salona Village—deploying the industrial equipment and trained crews that compress restoration timelines from weeks to days.`,
+Flood Doctor's commercial flood division has cleaned up major flooding events across McLean's most prominent addresses. We've pumped out underground parking structures near Chain Bridge, extracted floodwater from Woodside Estates medical commercial complexes, and restored premium retail spaces at Salona Village—deploying the industrial equipment and trained crews that compress restoration timelines from weeks to days.`,
       `McLean's commercial flood challenges differ markedly from residential flooding. The Potomac River watershed and local tributary systems create flash flood exposure for properties along low-lying corridors near Great Falls Park. Storm drainage infrastructure serving older commercial developments near Georgetown Pike can be overwhelmed during intense rainfall events, sending surface water into loading docks, ground-floor suites, and underground parking. Meanwhile, internal flooding from fire suppression systems, commercial plumbing failures, and HVAC malfunctions can release tens of thousands of gallons across multiple floors before building systems isolate the source.
 
 Our commercial flood teams deploy with industrial-scale equipment—truck-mounted extractors capable of removing thousands of gallons per hour, warehouse quantities of commercial drying equipment, and contamination assessment capabilities that determine the safety protocols required for each unique flood scenario in the McLean business corridor.`,
@@ -21,12 +21,12 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
   processSteps: [
     {
       title: 'Emergency Commercial Mobilization',
-      description: `Call (877) 497-0007 for immediate commercial flood response. Our dispatch deploys industrial crews from positions throughout the McLean corridor, reaching Langley, The Reserve, and Balls Hill commercial areas with truck-mounted extractors and containment equipment within our guaranteed window.`,
-      timeframe: 'Within 60 minutes',
+      description: `Call (877) 497-0007 for immediate commercial flood response. Our dispatch deploys industrial crews from positions throughout the McLean corridor, reaching Langley, The Reserve, and Balls Hill commercial areas with truck-mounted extractors and containment equipment within our intended window.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Floodwater Assessment & Classification',
-      description: 'Our team classifies the floodwater source and contamination level per IICRC standards. Storm flooding entering from exterior sources requires different safety protocols than clean-water pipe bursts. For McLean medical offices and food service establishments, contamination classification determines regulatory compliance requirements.',
+      description: 'Our team classifies the floodwater source and contamination level per industry standards. Storm flooding entering from exterior sources requires different safety protocols than clean-water pipe bursts. For McLean medical practices and food service establishments, contamination classification determines regulatory compliance requirements.',
       timeframe: 'First 2 hours',
     },
     {
@@ -46,7 +46,7 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
     },
     {
       title: 'Clearance Testing & Phased Reopening',
-      description: 'Environmental clearance testing verifies safe conditions for re-occupancy. We coordinate phased reopening with property management and tenants, prioritizing revenue-generating and client-facing spaces. Final documentation packages are prepared for insurance carriers.',
+      description: 'Environmental verification testing verifies safe conditions for re-occupancy. We coordinate phased reopening with property management and tenants, prioritizing revenue-generating and client-facing spaces. Final documentation packages are prepared for insurance carriers.',
       timeframe: 'Days 5-10',
     },
   ],
@@ -54,26 +54,26 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
     {
       title: 'Potomac Watershed Storm Flooding',
       description: `Commercial properties in McLean's lower elevations near the Potomac watershed face flash flood exposure during intense storms. Surface water overwhelms storm drainage and enters buildings through loading docks, ground-floor entries, and parking garage ramps near Chain Bridge and Great Falls Park areas.`,
-      solution: 'Our commercial flood teams pre-stage equipment during severe weather alerts for McLean-area properties with flood exposure. Priority response agreements guarantee first-available deployment for recurring flood-risk commercial locations.',
+      solution: 'Our commercial flood teams pre-stage equipment during severe weather alerts for McLean-area properties with flood exposure. Priority response agreements target first-available deployment for recurring flood-risk commercial locations.',
     },
     {
       title: 'Underground Parking Structure Flooding',
-      description: 'McLean office buildings with underground parking face flood exposure from both storm water intrusion and internal plumbing failures. Flooded garages affect building mechanical systems, elevator pits, and electrical infrastructure housed below grade.',
+      description: 'McLean commercial buildings with underground parking face flood exposure from both storm water intrusion and internal plumbing failures. Flooded garages affect building mechanical systems, elevator pits, and electrical infrastructure housed below grade.',
       solution: 'Submersible pumps remove standing water from parking structures while we protect mechanical and electrical systems. We coordinate with building engineers to assess infrastructure damage and prevent secondary failures from water exposure to critical building components.',
     },
     {
-      title: 'Medical and Professional Office Contamination',
-      description: 'Floodwater entering McLean medical practices, dental offices, and laboratory spaces creates contamination concerns that require regulatory compliance beyond standard commercial restoration. Patient records, pharmaceutical inventory, and medical equipment need specialized handling.',
+      title: 'Medical and Professional Workplace Contamination',
+      description: 'Floodwater entering McLean medical practices, dental workplaces, and laboratory spaces creates contamination concerns that require regulatory compliance beyond standard commercial restoration. Patient records, pharmaceutical inventory, and medical equipment need specialized handling.',
       solution: 'We follow healthcare facility flood protocols including proper biohazard handling, medical waste disposal, and documentation for regulatory compliance. Medical equipment is assessed in coordination with manufacturer guidelines, and our documentation supports both insurance claims and regulatory reporting.',
     },
     {
       title: 'High-Value Inventory and Equipment Protection',
-      description: 'McLean commercial spaces house high-value inventory—from professional art in corporate lobbies to specialized equipment in technology offices. Floodwater exposure to these assets creates insurance documentation demands far beyond typical commercial flood claims.',
-      solution: 'Our content documentation team photographs and catalogs all affected inventory and equipment before any cleanup begins. We relocate salvageable assets to protected areas and coordinate with specialized restoration vendors for high-value items requiring expert treatment.',
+      description: 'McLean commercial spaces house high-value inventory—from professional art in corporate lobbies to specialized equipment in technology workplaces. Floodwater exposure to these assets creates insurance documentation demands far beyond typical commercial flood claims.',
+      solution: 'Our content documentation team photographs and catalogs all affected inventory and equipment before any cleanup begins. We relocate salvageable assets to protected areas and coordinate with specialized restoration vendors for high-value items requiring technical treatment.',
     },
     {
       title: 'After-Hours Flood Discovery',
-      description: 'Many McLean office buildings are unoccupied evenings and weekends, allowing flooding from pipe bursts or system failures to continue for hours before discovery. By the time building security or alarm systems trigger a response, water has migrated extensively through floor assemblies and wall cavities.',
+      description: 'Many McLean commercial buildings are unoccupied evenings and weekends, allowing flooding from pipe bursts or system failures to continue for hours before discovery. By the time building security or alarm systems trigger a response, water has migrated extensively through floor assemblies and wall cavities.',
       solution: 'Our 24/7 dispatch ensures immediate response regardless of when flooding is discovered. Thermal imaging on arrival maps the full extent of water migration through concealed spaces, preventing the incomplete extraction that occurs when crews rely only on visible water.',
     },
   ],
@@ -113,7 +113,7 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
         purpose: 'Provide temporary power for drying equipment when commercial building electrical systems are compromised by flooding',
       },
     ],
-    localNote: 'Our McLean commercial fleet maintains industrial-scale flood equipment matched to the premium office buildings and professional spaces along the Georgetown Pike and Chain Bridge corridors—including specialty capacity for underground parking structures and multi-story extraction.',
+    localNote: 'Our McLean commercial fleet maintains industrial-scale flood equipment matched to the premium commercial buildings and professional spaces along the Georgetown Pike and Chain Bridge corridors—including specialty capacity for underground parking structures and multi-story extraction.',
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in McLean',
@@ -143,12 +143,12 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
       'Dolley Madison Business Park',
       'Tysons-McLean Border Properties',
     ],
-    responseTime: '60-minute commercial flood response to all McLean business areas. Industrial extraction equipment is pre-staged throughout the corridor for immediate deployment during severe weather events.',
+    responseTime: 'prompt commercial flood response to all McLean business areas. Industrial extraction equipment is prepared throughout the corridor for immediate deployment during severe weather events.',
   },
   faqs: [
     {
       question: 'How fast can you respond to a commercial flood in McLean?',
-      answer: 'Our commercial dispatch operates 24/7 with industrial equipment staged throughout the McLean area. Initial response reaches Georgetown Pike and Langley corridor commercial properties within 60 minutes. For catastrophic events, we scale to multiple crews within 4-6 hours. Call (877) 497-0007 immediately.',
+      answer: 'Our commercial dispatch operates 24/7 with industrial equipment staged throughout the McLean area. Initial response reaches Georgetown Pike and Langley corridor commercial properties as quickly as available crews can safely arrive. For catastrophic events, we scale to multiple crews within 4-6 hours. Call (877) 497-0007 immediately.',
     },
     {
       question: 'Can you pump out our flooded underground parking garage?',
@@ -160,7 +160,7 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
     },
     {
       question: 'How do you handle contaminated floodwater in our commercial space?',
-      answer: 'All floodwater is tested and classified per IICRC standards. Category 3 contaminated water requires biohazard protocols including PPE, antimicrobial treatments, and proper waste disposal. We maintain full environmental compliance documentation for regulatory and insurance purposes.',
+      answer: 'All floodwater is tested and classified per industry standards. Category 3 contaminated water requires biohazard protocols including PPE, antimicrobial treatments, and proper waste disposal. We maintain full environmental compliance documentation for regulatory and insurance purposes.',
     },
     {
       question: 'Can you restore our business space in phases so we can partially reopen?',
@@ -168,7 +168,7 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
     },
     {
       question: 'Do you handle commercial flood insurance claims?',
-      answer: 'We work with all major commercial carriers and provide complete documentation including Xactimate estimates, daily progress reports, moisture logs, and photo documentation. Our estimators understand commercial policy structures including business interruption, extra expense, and ordinance and law coverage.',
+      answer: 'We work with all major commercial carriers and provide thorough documentation including Xactimate estimates, daily progress reports, moisture logs, and photo documentation. Our estimators understand commercial policy structures including business interruption, extra expense, and ordinance and law coverage.',
     },
   ],
   relatedBlogSlugs: [
@@ -177,6 +177,6 @@ Our commercial flood teams deploy with industrial-scale equipment—truck-mounte
   ],
   finalCTA: {
     headline: 'Commercial Flood Emergency in McLean?',
-    paragraph: 'Floodwater in your commercial property causes exponentially more damage every hour. Our industrial extraction crews are positioned throughout McLean for immediate response. One call deploys the equipment and expertise to protect your property and get your business operational again.',
+    paragraph: 'Floodwater in your commercial property causes exponentially more damage every hour. Our industrial extraction crews are serving McLean for immediate response. One call deploys the equipment and experience to protect your property and get your business operational again.',
   },
 }

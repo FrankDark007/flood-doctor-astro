@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's trusted restoration for schools and public buildings. LCPS-experienced crews serving Broadlands, Brambleton, and One Loudoun community facilities. Call (877) 497-0007.`,
+    description: `Ashburn's local restoration for schools and public buildings. LCPS-experienced crews serving Broadlands, Brambleton, and One Loudoun community facilities. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Ashburn, Virginia`,
   introSection: {
@@ -36,7 +36,7 @@ Our documentation packages address both technical restoration and the public acc
     },
     {
       title: `Structural Drying with Air Quality Monitoring`,
-      description: `Drying equipment is positioned to restore classrooms, media centers, and common areas on an accelerated schedule. Continuous air quality monitoring ensures the environment remains safe, with results documented for health department review and LCPS administrative records.`,
+      description: `Drying equipment is placed to restore classrooms, media centers, and common areas on an accelerated schedule. Continuous air quality monitoring ensures the environment remains safe, with results documented for health department review and LCPS administrative records.`,
       timeframe: `Days 1-5`,
     },
     {
@@ -171,6 +171,6 @@ Our documentation packages address both technical restoration and the public acc
   ],
   finalCTA: {
     headline: `School or Community Facility Emergency in Ashburn?`,
-    paragraph: `Student safety and community programs depend on rapid restoration. Our crews respond to Ashburn schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the expertise these facilities require. Call (877) 497-0007 immediately.`,
+    paragraph: `Student safety and community programs depend on rapid restoration. Our crews respond to Ashburn schools and municipal facilities within 1 hour, equipped with HEPA filtration, containment materials, and the experience these facilities require. Call (877) 497-0007 immediately.`,
   },
 }

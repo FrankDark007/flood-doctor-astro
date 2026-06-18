@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in McLean, VA | Flood Doctor',
-    description: 'McLean mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
+    description: 'McLean mold removal specialists. trained remediation for basement mold, hidden growth & water damage mold. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in McLean, Virginia',
   introSection: {
@@ -46,7 +46,7 @@ Flood Doctor has remediated mold in over 300 McLean properties since 2008. We un
     },
     {
       title: 'Independent Verification and Documentation',
-      description: 'We arrange third-party clearance testing by a certified industrial hygienist — not our own staff. For McLean real estate transactions, we provide documentation packages that include pre-remediation assessment, remediation protocols used, material disposal manifests, clearance test results, and moisture source correction details. This comprehensive documentation satisfies the most rigorous buyer inspection requirements.',
+      description: 'We arrange third-party verification testing by a trained industrial hygienist — not our own staff. For McLean real estate transactions, we provide documentation packages that include pre-remediation assessment, remediation protocols used, material disposal manifests, verification test results, and moisture source correction details. This comprehensive documentation satisfies the most rigorous buyer inspection requirements.',
       timeframe: '3-5 days after remediation completion',
     },
   ],
@@ -160,7 +160,7 @@ Flood Doctor has remediated mold in over 300 McLean properties since 2008. We un
     },
     {
       question: 'How do I handle mold remediation during a McLean home sale?',
-      answer: `Virginia disclosure law requires sellers to report known mold issues. Professional remediation with third-party clearance testing by an independent industrial hygienist is far stronger than a 'clean bill of health' from a home inspector. We provide buyer-ready documentation packages including pre-remediation assessment, protocol descriptions, clearance test results, and moisture source correction details. In McLean's high-end market, documented professional remediation actually strengthens your position versus undisclosed risk.`,
+      answer: `Virginia disclosure law requires sellers to report known mold issues. Professional remediation with third-party verification testing by an independent industrial hygienist is far stronger than a 'clean bill of health' from a home inspector. We provide buyer-ready documentation packages including pre-remediation assessment, protocol descriptions, verification test results, and moisture source correction details. In McLean's high-end market, documented professional remediation actually strengthens your position versus undisclosed risk.`,
     },
     {
       question: 'Our Langley home has a stone foundation — is mold inevitable?',
@@ -174,6 +174,6 @@ Flood Doctor has remediated mold in over 300 McLean properties since 2008. We un
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Protecting McLean's Finest Homes from Mold`,
-    paragraph: `Your estate deserves remediation that matches its construction quality. Our IICRC-certified technicians specialize in the complex containment, material-sensitive removal, and precision drying that McLean's luxury properties demand.`,
+    paragraph: `Your estate deserves remediation that matches its construction quality. Our trained technicians specialize in the complex containment, material-sensitive removal, and precision drying that McLean's luxury properties demand.`,
   },
 }

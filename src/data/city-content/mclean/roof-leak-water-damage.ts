@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Emergency Estate Response',
-      description: `Call (877) 497-0007 and we respond to your McLean estate within 30 minutes. Our first priority is stopping active water intrusion with emergency tarping while assessing the interior damage path from attic to living space. For estates in Langley and along Georgetown Pike, we coordinate arrival through gated access.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and we respond to your McLean estate as quickly as available crews can safely arrive. Our first priority is stopping active water intrusion with emergency tarping while assessing the interior damage path from attic to living space. For estates in Langley and along Georgetown Pike, we coordinate arrival through gated access.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Emergency Roof Tarping',
@@ -37,19 +37,19 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Structural and Interior Drying',
-      description: 'Attic insulation removal, roof deck drying, ceiling cavity dehumidification, and wall drying are deployed simultaneously. Equipment is positioned to protect finished surfaces while extracting moisture from the hidden structural areas where mold growth begins within 48 hours.',
+      description: 'Attic insulation removal, roof deck drying, ceiling cavity dehumidification, and wall drying are deployed simultaneously. Equipment is placed to protect finished surfaces while extracting moisture from the hidden structural areas where mold growth begins within 48 hours.',
       timeframe: 'Days 1-5',
     },
     {
       title: 'Restoration Coordination',
-      description: 'We coordinate with licensed roofing contractors for permanent repairs—slate replacement, copper reflashing, vent sealing—while our team handles all interior restoration: ceiling repair, insulation replacement, paint matching, and wallcovering restoration to return your estate to pre-damage condition.',
+      description: 'We coordinate with qualified roofing contractors for permanent repairs—slate replacement, copper reflashing, vent sealing—while our team handles all interior restoration: ceiling repair, insulation replacement, paint matching, and wallcovering restoration to return your estate to pre-damage condition.',
       timeframe: 'Days 5-14',
     },
   ],
   localChallenges: [
     {
       title: 'Complex Multi-Pitch Slate and Copper Roofing',
-      description: `McLean estate roofs feature premium materials—natural slate, standing-seam copper, custom tile—installed on complex multi-pitch designs with numerous valleys, dormers, and penetrations. Each junction is a potential failure point, and finding the actual leak source requires expertise with these premium systems.`,
+      description: `McLean estate roofs feature premium materials—natural slate, standing-seam copper, custom tile—installed on complex multi-pitch designs with numerous valleys, dormers, and penetrations. Each junction is a potential failure point, and finding the actual leak source requires experience with these premium systems.`,
       solution: 'Our assessment team understands slate, copper, and premium roofing materials. We trace leak paths through complex attic structures to identify the actual entry point—which is often far from the ceiling stain. Documentation supports both insurance claims and communication with specialized roofing contractors.',
     },
     {
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Kirby Estates',
       'Spring Hill',
     ],
-    responseTime: '30-minute emergency response to all McLean neighborhoods. Our crews arrive with tarping equipment, thermal imaging, and content protection materials for immediate estate-scale roof leak intervention.',
+    responseTime: 'rapid emergency response to all McLean neighborhoods. Our crews arrive with tarping equipment, thermal imaging, and content protection materials for immediate estate-scale roof leak intervention.',
   },
   faqs: [
     {
@@ -146,7 +146,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Will you coordinate with our roofing contractor?',
-      answer: 'Absolutely. We handle all interior water damage and emergency tarping while coordinating with your preferred roofing contractor for permanent repairs. If you need a recommendation, we work with licensed roofing specialists experienced in McLean slate, copper, and premium systems.',
+      answer: 'Absolutely. We handle all interior water damage and emergency tarping while coordinating with your preferred roofing contractor for permanent repairs. If you need a recommendation, we work with qualified roofing specialists experienced in McLean slate, copper, and premium systems.',
     },
     {
       question: 'How do ice dams form on our roof?',

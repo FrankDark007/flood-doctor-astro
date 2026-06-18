@@ -22,7 +22,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Systematic Air Sampling',
-      description: `Spore trap cassettes positioned at symptomatic rooms, potential source areas, HVAC supply registers, and outdoor baseline locations capture airborne mold for laboratory analysis. We sample across construction eras within the same home when additions connect old and new sections.`,
+      description: `Spore trap cassettes placed at symptomatic rooms, potential source areas, HVAC supply registers, and outdoor baseline locations capture airborne mold for laboratory analysis. We sample across construction eras within the same home when additions connect old and new sections.`,
       timeframe: 'Hours 1-3',
     },
     {

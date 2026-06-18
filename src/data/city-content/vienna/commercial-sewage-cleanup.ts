@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Vienna, VA | Flood Doctor`,
-    description: `Vienna's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for Church Street businesses, Oakton offices, and Wolf Trap area commercial properties. Call (877) 497-0007.`,
+    description: `Vienna's local commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for Church Street businesses, Oakton workplaces, and Wolf Trap area commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Vienna, Virginia`,
   introSection: {
     headline: `Community-Focused Sewage Remediation for Vienna Commercial Properties`,
     paragraphs: [
       `Sewage contamination at a Vienna commercial property strikes at the heart of a charming business community where reputation matters. A sewer lateral backup floods a Church Street boutique during weekend shopping hours. A grease line failure shuts down an Oakton restaurant that families have patronized for decades. A septic system overflow at a Wolf Trap area event venue contaminates grounds days before a scheduled function. Vienna's tight-knit commercial community means that every day of closure costs not just revenue but the relationships that sustain local businesses. Flood Doctor provides OSHA-compliant sewage remediation with the personal service and rapid turnaround that Vienna business owners expect from a local restoration partner.`,
-      `Vienna's commercial sewage challenges reflect the town's evolving infrastructure. Church Street and Vienna Town businesses connect to aging municipal sewer lines where root intrusion and pipe deterioration cause backups during seasonal demand spikes. Commercial properties in Oakton and Wolftrap rely on a mix of municipal and private septic systems, with older septic installations failing as soil conditions change. Restaurants along Maple Avenue concentrate grease loading on sewer infrastructure designed for lighter commercial use. Dunn Loring commercial properties near the Metro station face sewer capacity challenges as development density increases beyond original design parameters. Our hazmat crews have decontaminated Vienna restaurants, retail shops, professional offices, and event spaces—each job completed with the quality craftsmanship and community respect that Vienna standards demand.`,
+      `Vienna's commercial sewage challenges reflect the town's evolving infrastructure. Church Street and Vienna Town businesses connect to aging municipal sewer lines where root intrusion and pipe deterioration cause backups during seasonal demand spikes. Commercial properties in Oakton and Wolftrap rely on a mix of municipal and private septic systems, with older septic installations failing as soil conditions change. Restaurants along Maple Avenue concentrate grease loading on sewer infrastructure designed for lighter commercial use. Dunn Loring commercial properties near the Metro station face sewer capacity challenges as development density increases beyond original design parameters. Our hazmat crews have decontaminated Vienna restaurants, retail shops, professional workplaces, and event spaces—each job completed with the quality craftsmanship and community respect that Vienna standards demand.`,
     ],
-    localContext: `Vienna's charming commercial corridors—featuring Church Street boutiques, Oakton dining establishments, and Wolf Trap area venues—require sewage remediation that combines professional biohazard expertise with the community-oriented service that local businesses expect.`,
+    localContext: `Vienna's charming commercial corridors—featuring Church Street boutiques, Oakton dining establishments, and Wolf Trap area venues—require sewage remediation that combines professional biohazard experience with the community-oriented service that local businesses expect.`,
   },
   processSteps: [
     {
       title: `Rapid Response to Vienna Commercial Districts`,
-      description: `Call (877) 497-0007 and our hazmat team deploys immediately. We reach Church Street, Maple Avenue, Oakton, and Wolf Trap area commercial properties within our response guarantee, establishing containment barriers and beginning tenant notification protocols.`,
-      timeframe: `Within 60 minutes`,
+      description: `Call (877) 497-0007 and our hazmat team deploys immediately. We reach Church Street, Maple Avenue, Oakton, and Wolf Trap area commercial properties within our response target, establishing containment barriers and beginning tenant notification protocols.`,
+      timeframe: `Emergency dispatch`,
     },
     {
       title: `Assessment and Compliance Coordination`,
-      description: `Our safety officer evaluates contamination scope, sewage category, and regulatory requirements. For Vienna restaurants, we contact the health department promptly. For event venues, we assess timeline impact on scheduled functions and develop expedited remediation plans.`,
+      description: `Our safety coordinator evaluates contamination scope, sewage category, and regulatory requirements. For Vienna restaurants, we contact the health department promptly. For event venues, we assess timeline impact on scheduled functions and develop expedited remediation plans.`,
       timeframe: `Hours 1-2`,
     },
     {
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Decontamination and Material Removal`,
-      description: `Contaminated porous materials are removed under containment protocols and disposed of through licensed biomedical waste contractors. Structural surfaces receive hospital-grade antimicrobial treatment with ATP verification. For Vienna's charming commercial interiors, we take care to document custom finishes before any removal.`,
+      description: `Contaminated porous materials are removed under containment protocols and disposed of through qualified biomedical waste disposal vendors. Structural surfaces receive hospital-grade antimicrobial treatment with ATP verification. For Vienna's charming commercial interiors, we take care to document custom finishes before any removal.`,
       timeframe: `Hours 6-20`,
     },
     {
@@ -78,7 +78,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `ATP Surface Testing`,
-        purpose: `Verify decontamination to quantifiable standards for health department compliance and clearance documentation`,
+        purpose: `Verify decontamination to quantifiable standards for health department compliance and verification documentation`,
         brand: `Hygiena`,
       },
       {
@@ -95,7 +95,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Vienna`,
-    intro: `Vienna commercial sewage cleanup costs depend on contamination extent, building type, and regulatory requirements. We provide honest estimates before work begins and handle direct billing with commercial insurance carriers. Our focus is on efficient remediation that gets Vienna businesses reopened without unnecessary cost.`,
+    intro: `Vienna commercial sewage cleanup costs depend on contamination extent, building type, and regulatory requirements. We provide honest estimates before work begins and handle insurance documentation support with commercial insurance carriers. Our focus is on efficient remediation that gets Vienna businesses reopened without unnecessary cost.`,
     factors: [
       `Contamination area—Church Street retail suites differ in scope from larger Oakton commercial properties`,
       `Sewage source and category—septic failures versus grease line backups require different remediation intensity`,
@@ -122,7 +122,7 @@ export const content: CityServiceContent = {
       `Park Street`,
       `Dominion Road`,
     ],
-    responseTime: `60-minute emergency response to all Vienna commercial properties. Our crews serve Church Street, Maple Avenue, Oakton, and the Wolf Trap corridor with pre-positioned hazmat equipment for immediate deployment.`,
+    responseTime: `prompt emergency response to all Vienna commercial properties. Our crews serve Church Street, Maple Avenue, Oakton, and the Wolf Trap corridor with prepared hazmat equipment for immediate deployment.`,
   },
   faqs: [
     {
@@ -143,7 +143,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Does insurance cover sewage backup for Vienna commercial properties?`,
-      answer: `Most commercial policies include sewer and drain backup coverage. We handle direct billing and provide comprehensive documentation. For septic-related events, coverage may differ—we help document the situation to support your specific claim.`,
+      answer: `Most commercial policies include sewer and drain backup coverage. We handle insurance documentation support and provide comprehensive documentation. For septic-related events, coverage may differ—we help document the situation to support your specific claim.`,
     },
     {
       question: `Can you expedite remediation for an upcoming event at our Wolf Trap area venue?`,
@@ -153,6 +153,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Vienna?`,
-    paragraph: `Every hour of sewage contamination threatens the health, compliance, and reputation that Vienna businesses depend on. Our hazmat crews deliver rapid containment, thorough decontamination, and complete documentation. Call (877) 497-0007 for immediate response.`,
+    paragraph: `Every hour of sewage contamination threatens the health, compliance, and reputation that Vienna businesses depend on. Our hazmat crews deliver rapid containment, thorough decontamination, and thorough documentation. Call (877) 497-0007 for immediate response.`,
   },
 }

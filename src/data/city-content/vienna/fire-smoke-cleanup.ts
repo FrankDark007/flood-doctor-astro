@@ -3,24 +3,24 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage in Vienna, VA | Flood Doctor',
-    description: 'Professional fire damage restoration in Vienna, VA. 24/7 emergency response for fire, smoke, and water damage from firefighting. IICRC-certified technicians serving Vienna Town, Oakton, Dunn Loring, and Wolf Trap. Call (877) 497-0007.',
+    description: 'Professional fire damage restoration in Vienna, VA. 24/7 emergency response for fire, smoke, and water damage from firefighting. trained technicians serving Vienna Town, Oakton, Dunn Loring, and Wolf Trap. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Vienna, Virginia',
   introSection: {
     headline: 'Complete Fire, Smoke & Water Damage Restoration for Vienna Homes',
     paragraphs: [
       'Fire damage strikes on multiple fronts. The fire itself destroys structural materials and personal belongings. Smoke penetrates every surface in your home—through HVAC ductwork, into wall cavities, behind cabinetry, and deep into porous materials like carpet, upholstery, and clothing. Then there is the water. Fire departments use thousands of gallons to suppress even a modest house fire, saturating structures from attic to basement. Every one of these damage vectors requires specialized restoration techniques, and they all need to begin immediately.',
-      `At Flood Doctor, our IICRC-certified fire damage restoration teams have restored hundreds of Vienna homes—from kitchen fires in Church Street colonials to major structural fires in Oakton estates. We handle every phase of recovery: emergency board-up within hours of fire department clearance, water extraction from firefighting efforts, comprehensive smoke and soot removal, odor elimination using industrial-grade equipment, careful contents pack-out and restoration, and complete structural reconstruction that preserves your home's architectural character.`,
-      'Fire damage is one of the most complex restoration scenarios a homeowner can face. It combines structural compromise, chemical contamination from smoke and soot, water damage, and emotional devastation. Our approach addresses all of it—methodically, compassionately, and with the technical expertise that comes from years of restoring fire-damaged properties across Northern Virginia.',
-      'We understand that after a fire, you need answers and action—not sales pitches. When you call (877) 497-0007, we dispatch a certified project manager to your Vienna home who will assess the full scope of damage, explain exactly what restoration involves, coordinate with your insurance company from day one, and begin emergency mitigation work the same day. Our goal is simple: return your home to pre-fire condition, or better, as efficiently as possible.',
+      `At Flood Doctor, our trained fire damage restoration teams have restored hundreds of Vienna homes—from kitchen fires in Church Street colonials to major structural fires in Oakton estates. We handle every phase of recovery: emergency board-up within hours of fire department verification, water extraction from firefighting efforts, comprehensive smoke and soot removal, odor elimination using industrial-grade equipment, careful contents pack-out and restoration, and complete structural reconstruction that preserves your home's architectural character.`,
+      'Fire damage is one of the most complex restoration scenarios a homeowner can face. It combines structural compromise, chemical contamination from smoke and soot, water damage, and emotional devastation. Our approach addresses all of it—methodically, compassionately, and with the technical experience that comes from years of restoring fire-damaged properties across Northern Virginia.',
+      'We understand that after a fire, you need answers and action—not sales pitches. When you call (877) 497-0007, we dispatch a trained project manager to your Vienna home who will assess the full scope of damage, explain exactly what restoration involves, coordinate with your insurance company from day one, and begin emergency mitigation work the same day. Our goal is simple: return your home to pre-fire condition, or better, as efficiently as possible.',
     ],
     localContext: `Vienna's housing stock presents unique fire restoration challenges. The community's beloved 1950s-70s colonials feature original knob-and-tube or aluminum wiring, plaster walls, and hardwood floors that require period-appropriate restoration techniques. Larger homes in Oakton and Tysons Woods have complex HVAC systems where smoke spreads rapidly through ductwork, contaminating rooms far from the fire origin. Whether your home is a compact Dunn Loring townhome or a sprawling Wolf Trap estate, our technicians adapt restoration strategies to your property's specific construction, age, and architectural details.`,
   },
   processSteps: [
     {
       title: 'Emergency Board-Up & Property Securing',
-      description: 'Within 45-60 minutes of fire department clearance, our emergency crew arrives to secure your property. We board up broken windows, tarp damaged roofing, and seal openings to prevent weather intrusion, vandalism, and animal entry. Every opening is documented and photographed for insurance purposes. We also coordinate with fire investigators if the scene is still under investigation, ensuring our securing work does not compromise any evidence.',
-      timeframe: '2-4 hours after fire department clearance',
+      description: 'Within initial response of fire department verification, our emergency crew arrives to secure your property. We board up broken windows, tarp damaged roofing, and seal openings to prevent weather intrusion, vandalism, and animal entry. Every opening is documented and photographed for insurance purposes. We also coordinate with fire investigators if the scene is still under investigation, ensuring our securing work does not compromise any evidence.',
+      timeframe: '2-4 hours after fire department verification',
     },
     {
       title: 'Water Extraction from Firefighting',
@@ -29,12 +29,12 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Smoke & Soot Damage Assessment',
-      description: 'Our certified technicians conduct a room-by-room assessment of smoke and soot penetration. Different fire types produce different residues—protein-based soot from kitchen fires, oily residue from electrical fires, and heavy char from structural fires each require specific cleaning chemistries. We use FLIR thermal imaging cameras to identify hidden damage inside walls, above ceilings, and beneath floors. Every affected surface, material, and content item is documented in a detailed scope of work that becomes the foundation for your insurance claim.',
+      description: 'Our trained technicians conduct a room-by-room assessment of smoke and soot penetration. Different fire types produce different residues—protein-based soot from kitchen fires, oily residue from electrical fires, and heavy char from structural fires each require specific cleaning chemistries. We use FLIR thermal imaging cameras to identify hidden damage inside walls, above ceilings, and beneath floors. Every affected surface, material, and content item is documented in a detailed scope of work that becomes the foundation for your insurance claim.',
       timeframe: '4-8 hours',
     },
     {
       title: 'Structural Cleaning & Soot Removal',
-      description: 'Using IICRC-approved techniques matched to the specific soot type in your home, our crews clean all structural surfaces—walls, ceilings, framing, subfloors, and mechanical systems. We remove fire-damaged materials that cannot be salvaged, clean those that can, and treat all surfaces with antimicrobial solutions. HVAC ductwork is cleaned or replaced to prevent recirculation of smoke particles. This phase is methodical and thorough; missed soot becomes a permanent odor source.',
+      description: 'Using industry-approved techniques matched to the specific soot type in your home, our crews clean all structural surfaces—walls, ceilings, framing, subfloors, and mechanical systems. We remove fire-damaged materials that cannot be salvaged, clean those that can, and treat all surfaces with antimicrobial solutions. HVAC ductwork is cleaned or replaced to prevent recirculation of smoke particles. This phase is methodical and thorough; missed soot becomes a permanent odor source.',
       timeframe: '3-7 days depending on home size',
     },
     {
@@ -49,12 +49,12 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Reconstruction & Character Matching',
-      description: `Our construction teams rebuild fire-damaged areas to pre-loss condition—or better. For Vienna's older colonials, this means sourcing plaster craftsmen, matching vintage trim profiles, replicating period millwork, and refinishing or replacing hardwood floors to blend seamlessly with undamaged areas. For modern construction, we coordinate with electricians, plumbers, HVAC contractors, and finish carpenters to restore every system and surface. All reconstruction meets current building codes while preserving your home's original character.`,
+      description: `Our construction teams rebuild fire-damaged areas to documented prior condition—or better. For Vienna's older colonials, this means sourcing plaster craftsmen, matching vintage trim profiles, replicating period millwork, and refinishing or replacing hardwood floors to blend seamlessly with undamaged areas. For modern construction, we coordinate with electricians, plumbers, HVAC contractors, and finish carpenters to restore every system and surface. All reconstruction meets current building codes while preserving your home's original character.`,
       timeframe: '2-8 weeks depending on scope',
     },
     {
       title: 'Final Verification & Walkthrough',
-      description: 'Before we consider the project complete, we conduct comprehensive final verification. Air quality testing confirms odor elimination. Moisture readings verify complete drying. A detailed walkthrough with you ensures every reconstruction detail meets your expectations. We provide all documentation for your insurance file, maintenance recommendations for restored areas, and our warranty information. Our project manager remains your point of contact for any follow-up concerns.',
+      description: 'Before we consider the project complete, we conduct comprehensive final verification. Air quality testing confirms odor elimination. Moisture readings verify target dry standards. A detailed walkthrough with you ensures every reconstruction detail meets your expectations. We provide all documentation for your insurance file, maintenance recommendations for restored areas, and our warranty information. Our project manager remains your point of contact for any follow-up concerns.',
       timeframe: '4-6 hours',
     },
   ],
@@ -67,7 +67,7 @@ export const content: CityServiceContent = {
     {
       title: 'Electrical Fires from Outdated Wiring',
       description: 'Many Vienna homes built between the 1950s and 1970s still contain original knob-and-tube wiring, aluminum wiring, or undersized electrical panels that were never designed for modern electrical loads. These aging systems create fire risks that often ignite inside wall cavities, spreading undetected before breaking through to visible areas. By the time smoke detectors activate, fire may have traveled through wall and ceiling spaces extensively. The hidden nature of electrical fires makes damage assessment particularly challenging.',
-      solution: `We use FLIR thermal imaging cameras to trace fire damage pathways through wall and ceiling cavities, identifying every area where fire traveled—not just where it broke through. Affected wall sections are opened, damaged framing is assessed by structural engineers when needed, and complete electrical system replacement is coordinated with licensed electricians. Our reconstruction ensures modern, code-compliant wiring while preserving the home's original plaster and trim character.`,
+      solution: `We use FLIR thermal imaging cameras to trace fire damage pathways through wall and ceiling cavities, identifying every area where fire traveled—not just where it broke through. Affected wall sections are opened, damaged framing is assessed by structural engineers when needed, and electrical system repair or replacement is coordinated with qualified electricians. Our reconstruction ensures modern, code-compliant wiring while preserving the home's original plaster and trim character.`,
     },
     {
       title: 'HVAC and Furnace Fires Spreading via Ductwork',
@@ -152,12 +152,12 @@ export const content: CityServiceContent = {
   },
   serviceAreaSection: {
     neighborhoods: ['Vienna Town', 'Oakton', 'Dunn Loring', 'Wolf Trap', 'Clarks Crossing', 'Tysons Woods'],
-    responseTime: '45-60 minutes after fire department clearance. Our emergency crews are available 24/7 and dispatch immediately when you call. We coordinate with Fairfax County Fire and Rescue to ensure we arrive as soon as the scene is cleared for restoration access. For major fire losses, our project manager arrives on-site to begin assessment and insurance coordination the same day.',
+    responseTime: 'Prompt response after fire department verification. Our emergency crews are available 24/7 and dispatch immediately when you call. We coordinate with Fairfax County Fire and Rescue to ensure we arrive as soon as the scene is cleared for restoration access. For major fire losses, our project manager arrives on-site to begin assessment and insurance coordination the same day.',
   },
   faqs: [
     {
       question: 'How quickly can you respond after a fire in Vienna?',
-      answer: 'We arrive within 45-60 minutes of fire department clearance, 24 hours a day, 7 days a week. Call (877) 497-0007 as soon as the fire is extinguished and you have permission to access the property. Our emergency crew begins board-up, water extraction, and initial assessment immediately. For fires reported during business hours, a dedicated project manager accompanies the emergency crew. For after-hours calls, a project manager arrives within 2-4 hours to begin insurance coordination and detailed scope development.',
+      answer: 'We arrive as quickly as available crews can safely arrive of fire department verification, 24 hours a day, 7 days a week. Call (877) 497-0007 as soon as the fire is extinguished and you have permission to access the property. Our emergency crew begins board-up, water extraction, and initial assessment immediately. For fires reported during business hours, a dedicated project manager accompanies the emergency crew. For after-hours calls, a project manager arrives within 2-4 hours to begin insurance coordination and detailed scope development.',
     },
     {
       question: 'Why is there so much water damage after a fire?',
@@ -169,7 +169,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How long does fire damage restoration typically take?',
-      answer: 'Timeline depends entirely on damage scope. A contained kitchen fire with moderate smoke damage may require 3-5 weeks for complete restoration including reconstruction. A significant structural fire affecting multiple rooms typically takes 3-6 months for full restoration, including demolition, structural repairs, systems replacement, and finish reconstruction. We provide a detailed timeline after our initial assessment and update you weekly as work progresses. Emergency mitigation (board-up, water extraction, initial cleaning) begins immediately; reconstruction planning proceeds in parallel with insurance approval.',
+      answer: 'Timeline depends entirely on damage scope. A contained kitchen fire with moderate smoke damage may require 3-5 weeks for restoration including reconstruction. A significant structural fire affecting multiple rooms typically takes 3-6 months for full restoration, including demolition, structural repairs, systems replacement, and finish reconstruction. We provide a detailed timeline after our initial assessment and update you weekly as work progresses. Emergency mitigation (board-up, water extraction, initial cleaning) begins immediately; reconstruction planning proceeds in parallel with insurance approval.',
     },
     {
       question: 'Will my homeowners insurance cover fire damage restoration?',
@@ -191,6 +191,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide', 'first-24-hours-after-water-damage'],
   finalCTA: {
     headline: `Fire Damage in Vienna? We're Ready Now.`,
-    paragraph: 'Our IICRC-certified fire damage restoration teams respond 24/7 throughout Vienna, Oakton, Dunn Loring, Wolf Trap, and surrounding communities. From emergency board-up to complete reconstruction, we handle every phase of fire recovery—and coordinate directly with your insurance company from day one. Call now for immediate emergency dispatch.',
+    paragraph: 'Our trained fire damage restoration teams respond 24/7 throughout Vienna, Oakton, Dunn Loring, Wolf Trap, and surrounding communities. From emergency board-up to complete reconstruction, we handle every phase of fire recovery—and coordinate directly with your insurance company from day one. Call now for immediate emergency dispatch.',
   },
 }

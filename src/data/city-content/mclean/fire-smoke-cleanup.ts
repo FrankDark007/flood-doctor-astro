@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in McLean, VA | Flood Doctor',
-    description: 'McLean fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. IICRC certified. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
+    description: 'McLean fire damage restoration. 24/7 emergency response for fire, smoke & soot damage. industry trained. Langley, Chesterbrook, The Reserve. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in McLean, Virginia',
   introSection: {
@@ -18,7 +18,7 @@ export const content: CityServiceContent = {
     {
       title: 'Estate-Scale Safety & HVAC Isolation',
       description: 'We verify structural integrity in each wing independently — fire-weakened floor joists in the kitchen wing do not necessarily compromise the bedroom wing. Every HVAC zone is shut down at the air handler to stop cross-contamination. We then map which zones received direct smoke exposure versus secondary contamination through ductwork. A Zone 1 kitchen fire origin looks completely different from Zone 3 contamination three floors away, requiring different remediation intensity.',
-      timeframe: 'Within 4 hours of fire department clearance',
+      timeframe: 'Within 4 hours of fire department verification',
     },
     {
       title: 'High-Value Contents Emergency Triage',
@@ -47,7 +47,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Zone Clearance, Contents Return & Documentation',
-      description: 'Each zone is cleared through air quality testing — particulate counts, VOC levels, and odor evaluation. Wine returns only after temperature control has re-stabilized for 48 hours. Art returns after humidity meets conservation standards. We compile zone-by-zone documentation including progress logs, photography, air quality results, and contents inventory with pre-loss values for insurance.',
+      description: 'Each zone is cleared through air quality testing — particulate counts, VOC levels, and odor evaluation. Wine returns only after temperature control has re-stabilized for 48 hours. Art returns after humidity meets conservation standards. We compile zone-by-zone documentation including progress logs, photography, air quality results, and contents inventory with documented prior values for insurance.',
       timeframe: 'Week 2-4 depending on scope',
     },
   ],
@@ -63,8 +63,8 @@ export const content: CityServiceContent = {
       'Art and wine conservator coordination fees and bonded storage duration',
       'Protein residue versus synthetic soot — different cleaning agents, different labor intensity',
     ],
-    insuranceNote: 'We produce room-by-room assessments, itemized contents inventories with pre-loss values, daily progress logs with photography, and zone-by-zone clearance reports. For McLean claims involving high-value contents exceeding $100,000, we coordinate directly with your adjuster to ensure scheduled item coverage and replacement cost endorsements are properly applied.',
-    cta: 'Call (877) 497-0007 for emergency fire damage response. We deploy contents triage teams to McLean estates within hours of fire department clearance — every hour of delay costs you cabinetry finishes, wine quality, and restoration options.',
+    insuranceNote: 'We produce room-by-room assessments, itemized contents inventories with documented prior values, daily progress logs with photography, and zone-by-zone verification reports. For McLean claims involving high-value contents exceeding $100,000, we coordinate directly with your adjuster to ensure scheduled item coverage and replacement cost endorsements are properly applied.',
+    cta: 'Call (877) 497-0007 for emergency fire damage response. We deploy contents triage teams to McLean estates within hours of fire department verification — every hour of delay costs you cabinetry finishes, wine quality, and restoration options.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -82,7 +82,7 @@ export const content: CityServiceContent = {
       'Clearspring Manor',
       'Langley Farms',
     ],
-    responseTime: 'We deploy within 4 hours of fire department clearance to any McLean address. For estates with high-value contents, early arrival determines what can be saved. Protein residue yellows within days, soot etches lacquer within 72 hours, and heat-stressed wine degrades at room temperature. Our teams carry air scrubbers sized for open-volume great rooms, containment barriers, and emergency pack-out materials for art and wine.',
+    responseTime: 'We deploy within 4 hours of fire department verification to any McLean address. For estates with high-value contents, early arrival determines what can be saved. Protein residue yellows within days, soot etches lacquer within 72 hours, and heat-stressed wine degrades at room temperature. Our teams carry air scrubbers sized for open-volume great rooms, containment barriers, and emergency pack-out materials for art and wine.',
   },
   faqs: [
     {

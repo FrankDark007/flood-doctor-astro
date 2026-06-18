@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Ashburn, VA | Flood Doctor',
-    description: 'Ashburn mold removal experts. IICRC-certified remediation for basement mold, hidden growth & water damage mold. Broadlands, Brambleton, Lansdowne. Call (877) 497-0007.',
+    description: 'Ashburn mold removal specialists. trained remediation for basement mold, hidden growth & water damage mold. Broadlands, Brambleton, Lansdowne. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation Services in Ashburn, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Ashburn homeowners are often shocked to discover mold in homes less than fifteen years old. Modern construction methods — tight building envelopes sealed with house wrap and spray foam, energy-efficient windows that reduce natural ventilation, and complex HVAC systems with extensive condensate plumbing — create moisture challenges older, leakier homes never faced. The same building science that makes your Brambleton home energy-efficient can trap construction moisture, condensation, and minor leaks inside wall cavities where they feed mold colonies invisibly for years.
 
-The pattern we see repeatedly in Ashburn's master-planned communities is "construction moisture mold." Homes built on compressed timelines sometimes close wall assemblies before framing lumber has dried to acceptable moisture content. Concrete foundation walls get finished within days of pouring. OSB sheathing exposed to rain gets sealed behind house wrap before drying completely. This trapped moisture provides the initial food source for mold colonization — and the tight envelope prevents it from escaping naturally.`,
+The pattern we see repeatedly in Ashburn's master-planned communities is "construction moisture mold." Homes built on compressed timelines sometimes close wall assemblies before framing lumber has dried to acceptable moisture content. Concrete foundation walls get finished within days of pouring. OSB sheathing exposed to rain gets sealed behind house wrap before drying to target dry standards. This trapped moisture provides the initial food source for mold colonization — and the tight envelope prevents it from escaping naturally.`,
       `Flood Doctor has remediated mold in Ashburn homes across every major development phase — from Ashburn Farm and Ashburn Village in the 1990s through the most recent phases of Brambleton and Moorefield Station. The 1990s communities had adequate natural air exchange — their mold problems track to specific water events. But 2005-2020 construction in Broadlands, Brambleton, Lansdowne, and One Loudoun uses progressively tighter envelopes that fundamentally change how moisture behaves inside the building.
 
 What makes Ashburn particularly challenging is the builder warranty dynamic. Many homeowners discover mold within the 10-year structural warranty period. Construction moisture mold, window flashing failures, and HVAC condensation problems potentially fall under warranty coverage — but builders often dispute responsibility. We provide the technical documentation, moisture source analysis, and third-party testing results that support warranty claims when construction defects contributed to mold growth.`,
@@ -46,8 +46,8 @@ What makes Ashburn particularly challenging is the builder warranty dynamic. Man
     },
     {
       title: 'Smart Monitoring Installation and Verification',
-      description: 'Post-remediation, we install wireless humidity and temperature sensors at previously affected and moisture-risk locations. These WiFi-connected sensors provide real-time monitoring with smartphone alerts before conditions return to mold-favorable levels. Independent clearance testing by a certified industrial hygienist verifies successful remediation, with complete documentation for warranty claims.',
-      timeframe: '1 day installation; 3-5 days for clearance lab results',
+      description: 'Post-remediation, we install wireless humidity and temperature sensors at previously affected and moisture-risk locations. These WiFi-connected sensors provide real-time monitoring with smartphone alerts before conditions return to mold-favorable levels. Independent verification testing by a trained industrial hygienist verifies successful remediation, with thorough documentation for warranty claims.',
+      timeframe: '1 day installation; 3-5 days for verification lab results',
     },
   ],
   localChallenges: [
@@ -168,7 +168,7 @@ What makes Ashburn particularly challenging is the builder warranty dynamic. Man
   ],
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
-    headline: 'New Home, Old Problem? Ashburn Mold Remediation Experts.',
-    paragraph: `Modern construction creates modern mold challenges. Our IICRC-certified technicians specialize in diagnosing building envelope failures, HVAC moisture issues, and construction defects that cause mold in Ashburn's newer housing stock.`,
+    headline: 'New Home, Old Problem? Ashburn Mold Remediation Specialists.',
+    paragraph: `Modern construction creates modern mold challenges. Our trained technicians specialize in diagnosing building envelope failures, HVAC moisture issues, and construction defects that cause mold in Ashburn's newer housing stock.`,
   },
 }

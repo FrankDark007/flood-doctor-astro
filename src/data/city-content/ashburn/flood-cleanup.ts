@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Flood Cleanup in Ashburn, VA | Flood Doctor',
-    description: 'Ashburn flood cleanup experts. 30-min emergency response for storm flooding, flash floods & water damage. Broadlands, Brambleton, Lansdowne. Call (877) 497-0007.',
+    description: 'Ashburn flood cleanup specialists. 30-min emergency response for storm flooding, flash floods & water damage. Broadlands, Brambleton, Lansdowne. Call (877) 497-0007.',
   },
   h1: 'Flood Cleanup Services in Ashburn, Virginia',
   introSection: {
@@ -19,18 +19,18 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
   processSteps: [
     {
       title: 'Route 28 Corridor Rapid Deployment',
-      description: `Our crews stage along Route 28, positioning equipment within ten minutes of every major neighborhood. Each truck carries thermal imaging calibrated for sealed-envelope construction and moisture profiling tools designed to read through vapor barriers. When your call comes in, we're already in your corridor with equipment specific to your construction type.`,
-      timeframe: '30-minute response',
+      description: `Our crews serve Route 28, positioning equipment within ten minutes of every major neighborhood. Each truck carries thermal imaging calibrated for sealed-envelope construction and moisture profiling tools designed to read through vapor barriers. When your call comes in, we're already in your corridor with equipment specific to your construction type.`,
+      timeframe: 'rapid emergency response',
     },
     {
       title: 'Sealed-Envelope Moisture Investigation',
       description: 'Standard moisture assessment fails in modern Ashburn homes. We start with high-sensitivity FLIR imaging to detect temperature differentials through drywall. Where IR results are inconclusive, we drill strategic 1-inch inspection ports to visually confirm cavity conditions — revealing whether spray foam is holding water, whether the vapor barrier has channeled moisture to specific stud bays, and whether mold colonization has begun on concealed surfaces.',
-      timeframe: 'First 60 minutes',
+      timeframe: 'Initial stabilization',
     },
     {
       title: 'Smart Home System Coordination',
       description: 'Most Ashburn homes run zoned HVAC controlled by Nest, Ecobee, or similar systems. During flood response, these become contamination vectors — recirculating moisture, particulates, and mold spores from affected zones through sealed ductwork. We shut down HVAC immediately, engage smart water shutoffs if supply-side contribution exists, and later configure humidity setpoints to support drying rather than fight it.',
-      timeframe: 'First 30 minutes',
+      timeframe: 'Initial stabilization',
     },
     {
       title: 'Builder-Material-Specific Extraction',
@@ -81,7 +81,7 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
   },
   pricingSection: {
     headline: 'Flood Cleanup Costs in Ashburn',
-    intro: `Ashburn pricing reflects the additional complexity of sealed modern construction. Injection drying through spray foam requires more labor hours than standard surface drying. LVP removal, subfloor treatment, and reinstallation add steps older homes don't require. When flashing failure caused the intrusion, documenting the builder defect for warranty claims adds investigation time. Sealed-envelope restoration typically costs 20-30% more than equivalent work in conventional construction — but cutting corners guarantees mold problems within months.`,
+    intro: `Ashburn pricing reflects the additional complexity of sealed modern construction. Injection drying through spray foam requires more labor hours than standard surface drying. LVP removal, subfloor treatment, and reinstallation add steps older homes don't require. When flashing failure caused the intrusion, documenting the builder defect for warranty claims adds investigation time. Sealed-envelope restoration typically costs 20-30% more than equivalent work in conventional construction — but cutting corners targets mold problems within months.`,
     factors: [
       'Sealed-envelope investigation — inspection ports, cavity assessment, and concealed moisture mapping add diagnostic time',
       'Injection drying labor — drilling, installing, monitoring, and adjusting cavity drying runs 20-30% longer than standard surface drying',
@@ -108,7 +108,7 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
       'Cameron Chase',
       'Stone Ridge',
     ],
-    responseTime: '30-minute emergency response with sealed-envelope equipment staged along the Route 28 corridor. When severe weather approaches Loudoun County, crews pre-position carrying thermal profilers, inspection port systems, and injection drying equipment — so the specialized tools your post-2005 home requires arrive with the first truck.',
+    responseTime: 'rapid emergency response with sealed-envelope equipment prepared for the Route 28 corridor. When severe weather approaches Loudoun County, crews prepare thermal profilers, inspection port systems, and injection drying equipment — so the specialized tools your post-2005 home requires arrive with the first truck.',
   },
   faqs: [
     {
@@ -143,6 +143,6 @@ That scenario plays out across Ashburn's post-2005 neighborhoods every storm sea
   ],
   finalCTA: {
     headline: 'Sealed-Envelope Flood Emergency in Ashburn?',
-    paragraph: 'Your modern Ashburn home requires flood response built for modern construction. Standard equipment cannot reach moisture trapped behind spray foam, under LVP flooring, or inside sealed wall cavities. Our crews carry sealed-envelope investigation and injection drying equipment on every Ashburn deployment — the specialized tools your home needs arrive on the first truck. Call now and a crew staged on Route 28 deploys to your neighborhood within 30 minutes.',
+    paragraph: 'Your modern Ashburn home requires flood response built for modern construction. Standard equipment cannot reach moisture trapped behind spray foam, under LVP flooring, or inside sealed wall cavities. Our crews carry sealed-envelope investigation and injection drying equipment on every Ashburn deployment — the specialized tools your home needs arrive on the first truck. Call now and a crew staged on Route 28 deploys to your neighborhood as quickly as available crews can safely arrive.',
   },
 }

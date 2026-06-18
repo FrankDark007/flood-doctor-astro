@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Dual-Track Emergency Deployment',
-      description: 'Sprinkler-activated fires need two specialized crews from minute one. We dispatch fire restoration and water extraction teams simultaneously from our Route 28 staging position. The water crew begins extracting sprinkler discharge while the fire crew assesses smoke distribution and soot composition. Running both tracks in parallel prevents sprinkler water from compounding into mold and structural damage while fire assessment proceeds. A single-track response loses critical drying hours.',
-      timeframe: 'Sub-30-minute arrival',
+      description: 'Sprinkler-activated fires need two specialized crews from minute one. We dispatch fire restoration and water extraction teams simultaneously from our Route 28 dispatch planning position. The water crew begins extracting sprinkler discharge while the fire crew assesses smoke distribution and soot composition. Running both tracks in parallel prevents sprinkler water from compounding into mold and structural damage while fire assessment proceeds. A single-track response loses critical drying hours.',
+      timeframe: 'Rapid arrival',
     },
     {
       title: 'Open-Concept Contamination Mapping',
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Fire Damage Restoration Costs in Ashburn',
-    intro: 'Sprinkler-activated fires frequently cost more to restore than non-sprinkler fires — fire damage may be minor, but hundreds of gallons across open floor plans creates extensive water scope. We provide detailed estimates before work begins and handle direct insurance billing.',
+    intro: 'Sprinkler-activated fires frequently cost more to restore than non-sprinkler fires — fire damage may be minor, but hundreds of gallons across open floor plans creates extensive water scope. We provide detailed estimates before work begins and handle insurance documentation support.',
     factors: [
       'Sprinkler water damage scope — discharge volume, migration through floor penetrations, and number of levels affected often drive costs higher than the fire damage itself',
       'Synthetic soot cleaning complexity — petroleum-based residue requires labor-intensive solvent-based protocols rather than standard soot removal',
@@ -120,7 +120,7 @@ export const content: CityServiceContent = {
       'HOA architectural compliance — exterior restoration must use pre-approved materials and pass review, affecting material selection and timeline',
       'Builder-grade replacement vs premium preservation — MDF and laminate require full replacement while hardwood and stone may be restored, affecting cost allocation',
     ],
-    cta: 'Call (877) 497-0007 for immediate dual-track response. Free assessment, detailed documentation, and direct insurance billing. We coordinate complete restoration — fire, water, structural, and HOA compliance — through a single point of contact.',
+    cta: 'Call (877) 497-0007 for immediate dual-track response. Free assessment, detailed documentation, and insurance documentation support. We coordinate restoration — fire, water, structural, and HOA compliance — through a single point of contact.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -140,7 +140,7 @@ export const content: CityServiceContent = {
       'Farmwell Station',
       'Ryan Park',
     ],
-    responseTime: 'Dual-track fire and water extraction crews respond within 30 minutes to all Ashburn neighborhoods, deploying simultaneously from our Route 28 position with equipment for both fire remediation and sprinkler water damage.',
+    responseTime: 'Dual-track fire and water extraction crews respond as quickly as available crews can safely arrive to all Ashburn neighborhoods, deploying simultaneously from our Route 28 position with equipment for both fire remediation and sprinkler water damage.',
   },
   faqs: [
     {
@@ -175,6 +175,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide', 'first-24-hours-after-water-damage'],
   finalCTA: {
     headline: 'Sprinkler-Activated Fire in Your Ashburn Home?',
-    paragraph: 'Modern Ashburn fires create dual emergencies — synthetic smoke contaminating your open-concept space and hundreds of gallons of sprinkler water flooding through floor levels. Every hour means deeper soot corrosion and more water migration. Our dual-track crews deploy fire restoration and water extraction simultaneously, arriving within 30 minutes equipped for both.',
+    paragraph: 'Modern Ashburn fires create dual emergencies — synthetic smoke contaminating your open-concept space and hundreds of gallons of sprinkler water flooding through floor levels. Every hour means deeper soot corrosion and more water migration. Our dual-track crews deploy fire restoration and water extraction simultaneously, arriving as quickly as available crews can safely arrive equipped for both.',
   },
 }

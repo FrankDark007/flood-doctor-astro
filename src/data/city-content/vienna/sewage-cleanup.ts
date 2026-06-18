@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Vienna, VA | Flood Doctor',
-    description: 'Vienna sewage backup cleanup specialists. Biohazard-certified crews for Church Street, Oakton & Wolf Trap. 30-min emergency response. Call (877) 497-0007.',
+    description: 'Vienna sewage backup cleanup specialists. Biohazard-trained crews for Church Street, Oakton & Wolf Trap. 30-min emergency response. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup & Remediation in Vienna, Virginia',
   introSection: {
@@ -11,23 +11,23 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Sewage backup is the most dangerous water damage event your Vienna home can experience. Category 3 "black water" carries bacteria, viruses, parasites, and biological contamination that poses immediate health risks to your family. When sewage backs up through your floor drain, toilet overflows with waste, or your septic system fails, the situation demands immediate professional response—not attempts at DIY cleanup.
 
-Flood Doctor's biohazard-certified crews have addressed sewage emergencies throughout Vienna for nearly two decades. We've cleaned sewage backups from downtown Vienna's older homes with aging clay sewer lines, remediated septic failures in Wolf Trap properties, and sanitized Oakton basements after tree root blockages caused catastrophic backups. This work requires specialized training, equipment, and protocols—and we're fully equipped for every scenario.`,
+Flood Doctor's biohazard-trained crews have addressed sewage emergencies throughout Vienna for nearly two decades. We've cleaned sewage backups from downtown Vienna's older homes with aging clay sewer lines, remediated septic failures in Wolf Trap properties, and sanitized Oakton basements after tree root blockages caused catastrophic backups. This work requires specialized training, equipment, and protocols—and we're fully equipped for every scenario.`,
       `Vienna's sewage backup vulnerabilities mirror the town's infrastructure history. Church Street and downtown Vienna homes often connect to original clay sewer lines installed a century ago—lines that crack, separate at joints, and attract root intrusion from mature street trees. Mid-century neighborhoods throughout Hunter Mill and Vienna Woods have aging cast iron drain lines reaching end of life. Even newer Wolf Trap homes can experience failures: main line blockages, septic system overloads, and municipal system backups during heavy rain events.
 
-Our approach to sewage cleanup goes beyond water removal. We remove all contaminated materials, apply multiple rounds of antimicrobial treatment, verify sanitization effectiveness, and dry the affected area completely. Vienna homeowners can't see bacteria—but they can trust our process, our certifications, and our verification testing to ensure their home is safe for family return.`,
+Our approach to sewage cleanup goes beyond water removal. We remove all contaminated materials, apply multiple rounds of antimicrobial treatment, verify sanitization effectiveness, and dry the affected area to target dry standards. Vienna homeowners can't see bacteria—but they can rely on our process documentation and verification testing to ensure their home is safe for family return.`,
     ],
-    localContext: `Vienna's mix of aging municipal sewer infrastructure in downtown areas and septic systems in outlying neighborhoods creates varied sewage backup risks. We respond with 30-minute emergency service and complete biohazard remediation protocols.`,
+    localContext: `Vienna's mix of aging municipal sewer infrastructure in downtown areas and septic systems in outlying neighborhoods creates varied sewage backup risks. We respond with prompt emergency service and complete biohazard remediation protocols.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: 'When you call (877) 497-0007 about sewage backup, we dispatch immediately. Our crews arrive in full PPE—because sewage exposure begins the moment you enter an affected space. We reach Vienna Town, Oakton, Wolf Trap, and Dunn Loring within our 30-minute guarantee.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007 about sewage backup, we dispatch immediately. Our crews arrive in full PPE—because sewage exposure begins the moment you enter an affected space. We reach Vienna Town, Oakton, Wolf Trap, and Dunn Loring with prompt service-area dispatch.',
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Safety Establishment & Evacuation',
       description: 'Sewage-contaminated areas are biohazard zones. Our first action is ensuring family members and pets are safely out of affected areas. We establish barriers preventing accidental entry while work proceeds. For Vienna families, this often means temporary relocation recommendations.',
-      timeframe: 'First 30 minutes',
+      timeframe: 'Initial stabilization',
     },
     {
       title: 'Contaminated Water Extraction',
@@ -46,7 +46,7 @@ Our approach to sewage cleanup goes beyond water removal. We remove all contamin
     },
     {
       title: 'Verification & Complete Drying',
-      description: 'ATP testing verifies antimicrobial treatment effectiveness. Industrial drying equipment then completes the restoration. Daily monitoring ensures complete drying before equipment removal. Vienna homeowners receive documentation confirming their home meets safe contamination levels.',
+      description: 'ATP testing verifies antimicrobial treatment effectiveness. Industrial drying equipment then completes the restoration. Daily monitoring ensures target dry standards before equipment removal. Vienna homeowners receive documentation confirming their home meets safe contamination levels.',
       timeframe: 'Days 2-5',
     },
   ],
@@ -111,7 +111,7 @@ Our approach to sewage cleanup goes beyond water removal. We remove all contamin
   },
   pricingSection: {
     headline: 'Sewage Cleanup Costs in Vienna',
-    intro: 'Vienna sewage cleanup costs reflect the specialized equipment, biohazard protocols, and thorough sanitization these emergencies require. Costs depend on affected area, material removal needs, and contamination extent. Most homeowners insurance covers sewage backup—we handle direct billing with all carriers.',
+    intro: 'Vienna sewage cleanup costs reflect the specialized equipment, biohazard protocols, and thorough sanitization these emergencies require. Costs depend on affected area, material removal needs, and contamination extent. Most homeowners insurance covers sewage backup—we handle insurance documentation support with all carriers.',
     factors: [
       'Affected area size—larger contaminated areas require more extraction, removal, and treatment',
       'Finished vs. unfinished space—finished basements with carpet, drywall, and built-ins cost more due to removal requirements',
@@ -139,7 +139,7 @@ Our approach to sewage cleanup goes beyond water removal. We remove all contamin
       'Nutley Street area',
       'Gallows Road corridor',
     ],
-    responseTime: '30-minute emergency response to all Vienna neighborhoods for sewage backup situations. Biohazard-equipped crews standing by.',
+    responseTime: 'rapid emergency response to all Vienna neighborhoods for sewage backup situations. Biohazard-equipped crews standing by.',
   },
   faqs: [
     {
@@ -152,7 +152,7 @@ Our approach to sewage cleanup goes beyond water removal. We remove all contamin
     },
     {
       question: 'How quickly do you respond to sewage emergencies?',
-      answer: 'We guarantee 30-minute response to all Vienna neighborhoods. Our crews arrive in full biohazard PPE, ready to begin extraction immediately. Sewage contamination spreads every hour—rapid response limits damage extent and cleanup costs.',
+      answer: 'We target rapid emergency response to all Vienna neighborhoods. Our crews arrive in full biohazard PPE, ready to begin extraction immediately. Sewage contamination spreads every hour—rapid response limits damage extent and cleanup costs.',
     },
     {
       question: 'What materials need to be removed after sewage backup?',
@@ -160,7 +160,7 @@ Our approach to sewage cleanup goes beyond water removal. We remove all contamin
     },
     {
       question: 'Does insurance cover sewage backup?',
-      answer: 'Most homeowners policies include sewage backup coverage, though sometimes as an optional rider. We handle direct billing with all insurance carriers and provide the detailed documentation adjusters require—including contamination verification and sanitization testing results.',
+      answer: 'Most homeowners policies include sewage backup coverage, though sometimes as an optional rider. We handle insurance documentation support with all insurance carriers and provide the detailed documentation adjusters require—including contamination verification and sanitization testing results.',
     },
     {
       question: 'How do you verify the area is safe?',
@@ -174,6 +174,6 @@ Our approach to sewage cleanup goes beyond water removal. We remove all contamin
   relatedBlogSlugs: ['first-24-hours-after-water-damage', 'water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: 'Sewage Backup in Your Vienna Home?',
-    paragraph: `This is a biohazard emergency—don't attempt cleanup yourself. Keep family away from contaminated areas and call immediately. Our biohazard-certified crews respond within 30 minutes with full PPE and dedicated equipment.`,
+    paragraph: `This is a biohazard emergency—don't attempt cleanup yourself. Keep family away from contaminated areas and call immediately. Our biohazard-trained crews respond as quickly as available crews can safely arrive with full PPE and dedicated equipment.`,
   },
 }

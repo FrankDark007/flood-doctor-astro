@@ -131,7 +131,7 @@ Our technicians trace every odor to its origin using diagnostic tools that revea
       'Vienna Woods',
       'Cedar Lane',
     ],
-    responseTime: '30-minute emergency odor response. For non-emergency assessments, we schedule within 24-48 hours at your convenience throughout Vienna, Oakton, and the Wolf Trap area.',
+    responseTime: 'prompt emergency odor response. For non-emergency assessments, we schedule within 24-48 hours at your convenience throughout Vienna, Oakton, and the Wolf Trap area.',
   },
   faqs: [
     {

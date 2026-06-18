@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Vienna, VA | Flood Doctor`,
-    description: `Vienna's trusted commercial mold remediation specialists. CIH-coordinated protocols for Church Street businesses, Oakton offices, and Dunn Loring commercial properties. Call (877) 497-0007.`,
+    description: `Vienna's local commercial mold remediation specialists. CIH-coordinated protocols for Church Street businesses, Oakton workplaces, and Dunn Loring commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Vienna, Virginia`,
   introSection: {
     headline: `Quality Mold Remediation for Vienna's Distinctive Commercial Properties`,
     paragraphs: [
-      `Mold in a Vienna commercial property threatens the trust that local businesses have built with their community. A Clarks Crossing medical office discovers mold behind patient room walls after a hidden plumbing leak, forcing appointment cancellations and patient concern. A Church Street retail space develops visible mold in a storage area that spreads musty odors into the shopping experience. An Oakton professional office suite reports employee respiratory complaints traced to mold growing in the HVAC system above ceiling tiles. Vienna's community-oriented businesses cannot afford the reputational damage that comes from mold problems handled poorly or incompletely. Flood Doctor provides CIH-coordinated commercial mold remediation with the craftsmanship and thoroughness that Vienna business standards demand.`,
-      `Vienna's commercial mold challenges stem from the town's mix of older and newer building stock. 1950s-70s commercial buildings along Church Street and Maple Avenue feature original plumbing, single-pane windows, and ventilation systems that create condensation-driven moisture problems in wall cavities. Newer Oakton commercial properties may experience construction-related moisture issues from improperly sealed building envelopes. The Wolftrap and Tysons Woods areas experience higher ambient humidity that challenges standard HVAC dehumidification in commercial spaces. Dunn Loring properties near the Metro face increased moisture from development-altered drainage patterns. Our remediation teams have cleared mold from Vienna medical offices, retail spaces, restaurants, and professional suites—always under CIH protocols with independent verification that gives property managers and tenants documented confidence in the results.`,
+      `Mold in a Vienna commercial property threatens the trust that local businesses have built with their community. A Clarks Crossing medical workplace discovers mold behind patient room walls after a hidden plumbing leak, forcing appointment cancellations and patient concern. A Church Street retail space develops visible mold in a storage area that spreads musty odors into the shopping experience. An Oakton professional workplace suite reports employee respiratory complaints traced to mold growing in the HVAC system above ceiling tiles. Vienna's community-oriented businesses cannot afford the reputational damage that comes from mold problems handled poorly or into target dry standards. Flood Doctor provides CIH-coordinated commercial mold remediation with the craftsmanship and thoroughness that Vienna business standards demand.`,
+      `Vienna's commercial mold challenges stem from the town's mix of older and newer building stock. 1950s-70s commercial buildings along Church Street and Maple Avenue feature original plumbing, single-pane windows, and ventilation systems that create condensation-driven moisture problems in wall cavities. Newer Oakton commercial properties may experience construction-related moisture issues from improperly sealed building envelopes. The Wolftrap and Tysons Woods areas experience higher ambient humidity that challenges standard HVAC dehumidification in commercial spaces. Dunn Loring properties near the Metro face increased moisture from development-altered drainage patterns. Our remediation teams have cleared mold from Vienna medical practices, retail spaces, restaurants, and professional suites—always under CIH protocols with independent verification that gives property managers and tenants documented confidence in the results.`,
     ],
-    localContext: `Vienna's blend of charming older commercial buildings and modern professional spaces—each with distinct moisture vulnerabilities—requires mold remediation that pairs industrial hygiene expertise with the attention to quality that Vienna's business community expects.`,
+    localContext: `Vienna's blend of charming older commercial buildings and modern professional spaces—each with distinct moisture vulnerabilities—requires mold remediation that pairs industrial hygiene experience with the attention to quality that Vienna's business community expects.`,
   },
   processSteps: [
     {
       title: `CIH Assessment Tailored to Vienna Buildings`,
-      description: `We coordinate a certified industrial hygienist to assess your Vienna commercial property. Air and surface sampling identify contamination scope, while moisture mapping reveals the water sources feeding growth. For older Church Street and Maple Avenue buildings, assessment includes evaluation of age-related moisture pathways.`,
+      description: `We coordinate a trained industrial hygienist to assess your Vienna commercial property. Air and surface sampling identify contamination scope, while moisture mapping reveals the water sources feeding growth. For older Church Street and Maple Avenue buildings, assessment includes evaluation of age-related moisture pathways.`,
       timeframe: `Days 1-3`,
     },
     {
       title: `Containment for Vienna Commercial Settings`,
-      description: `Our crews construct containment barriers adapted to your building—whether a Church Street shared-wall retail space, a standalone Oakton office building, or a Dunn Loring commercial suite. Negative air pressure and HEPA filtration prevent spore migration to occupied areas.`,
+      description: `Our crews construct containment barriers adapted to your building—whether a Church Street shared-wall retail space, a standalone Oakton commercial building, or a Dunn Loring commercial suite. Negative air pressure and HEPA filtration prevent spore migration to occupied areas.`,
       timeframe: `Day 3-4`,
     },
     {
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Independent Clearance Testing`,
-      description: `The CIH performs post-remediation sampling and compares results to baseline. Written clearance reports document successful remediation for property management, tenant records, and regulatory compliance. This independent verification gives Vienna tenants and customers confidence in the results.`,
+      description: `The CIH performs post-remediation sampling and compares results to baseline. Written verification reports document successful remediation for property management, tenant records, and regulatory compliance. This independent verification gives Vienna tenants and customers confidence in the results.`,
       timeframe: `Days 8-10`,
     },
     {
@@ -53,9 +53,9 @@ export const content: CityServiceContent = {
       solution: `Our moisture mapping technology identifies active leaks before remediation begins. We coordinate with plumbing contractors to repair all active sources, then remediate mold under CIH protocol. Post-remediation monitoring verifies that repairs eliminated the moisture source.`,
     },
     {
-      title: `HVAC-Related Mold in Oakton Professional Offices`,
-      description: `Oakton commercial buildings feature HVAC systems where condensation on coils, standing water in drain pans, and biological growth in ductwork distribute mold spores to professional office suites. Employees report respiratory symptoms that trigger workplace health investigations.`,
-      solution: `We clean the entire HVAC system as part of mold remediation—coils, drain pans, ductwork, and terminal units. Improved condensate management and UV germicidal recommendations prevent recolonization. CIH clearance documentation supports employee communication.`,
+      title: `HVAC-Related Mold in Oakton Professional Workplaces`,
+      description: `Oakton commercial buildings feature HVAC systems where condensation on coils, standing water in drain pans, and biological growth in ductwork distribute mold spores to professional workplace suites. Employees report respiratory symptoms that trigger workplace health investigations.`,
+      solution: `We clean the entire HVAC system as part of mold remediation—coils, drain pans, ductwork, and terminal units. Improved condensate management and UV germicidal recommendations prevent recolonization. CIH verification documentation supports employee communication.`,
     },
     {
       title: `Elevated Humidity Near Wolftrap and Tysons Woods`,
@@ -87,7 +87,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HEPA Vacuum Systems`,
-        purpose: `Remove settled spores from structural surfaces during remediation, meeting IICRC S520 commercial mold removal standards`,
+        purpose: `Remove settled spores from structural surfaces during remediation, meeting industry S520 commercial mold removal standards`,
       },
       {
         name: `Moisture Mapping Instruments`,
@@ -95,14 +95,14 @@ export const content: CityServiceContent = {
         brand: `Tramex`,
       },
     ],
-    localNote: `Our Vienna commercial equipment is selected for the town's building variety—sensitive enough for Church Street's character-rich older spaces, capable enough for Oakton and Dunn Loring professional office buildings.`,
+    localNote: `Our Vienna commercial equipment is selected for the town's building variety—sensitive enough for Church Street's character-rich older spaces, capable enough for Oakton and Dunn Loring professional commercial buildings.`,
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Vienna`,
     intro: `Vienna commercial mold remediation costs depend on contamination scope, building age, and any special requirements for sensitive occupancies. We provide transparent estimates following CIH assessment and work with commercial insurance carriers when mold results from a covered water event.`,
     factors: [
       `Contamination area—a single retail suite differs from mold distributed through shared HVAC systems in multi-tenant Vienna buildings`,
-      `CIH assessment and clearance testing—independent verification is essential for professional commercial mold remediation`,
+      `CIH assessment and verification testing—independent verification is essential for professional commercial mold remediation`,
       `Building age and construction—older Church Street buildings require adapted techniques different from modern Oakton commercial spaces`,
       `HVAC system involvement—ductwork contamination adds specialized cleaning to the remediation scope`,
       `Moisture source correction—resolving the underlying water problem is essential to prevent costly recurrence`,
@@ -138,8 +138,8 @@ export const content: CityServiceContent = {
       answer: `The affected area must be vacated during active remediation. Our containment systems isolate the work zone from occupied spaces, and in many shared-wall situations, adjacent businesses can continue operations. We schedule disruptive work around your peak business hours when possible.`,
     },
     {
-      question: `How do you handle mold in a Vienna medical office?`,
-      answer: `Medical facilities require enhanced protocols including additional containment measures, more stringent air quality clearance criteria, and documentation for OSHA compliance. We coordinate with your practice administrator and provide clearance reports suitable for patient communication if needed.`,
+      question: `How do you handle mold in a Vienna medical workplace?`,
+      answer: `Medical facilities require enhanced protocols including additional containment measures, more stringent air quality verification criteria, and documentation for OSHA compliance. We coordinate with your practice administrator and provide verification reports suitable for patient communication if needed.`,
     },
     {
       question: `What if mold keeps coming back after remediation?`,
@@ -151,7 +151,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How long does commercial mold remediation take in Vienna?`,
-      answer: `A single suite typically requires 7-10 days from CIH assessment through clearance. Larger projects with HVAC involvement may take 2-3 weeks. We provide realistic timelines during assessment and work to minimize cumulative business disruption.`,
+      answer: `A single suite typically requires 7-10 days from CIH assessment through verification. Larger projects with HVAC involvement may take 2-3 weeks. We provide realistic timelines during assessment and work to minimize cumulative business disruption.`,
     },
   ],
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],

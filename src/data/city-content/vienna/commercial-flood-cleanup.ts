@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Vienna, VA | Flood Doctor',
-    description: `Vienna commercial flood cleanup for boutique offices, retail spaces & restaurants along Church Street, Oakton & Maple Avenue. 24/7 industrial response. Call (877) 497-0007.`,
+    description: `Vienna commercial flood cleanup for boutique workplaces, retail spaces & restaurants along Church Street, Oakton & Maple Avenue. 24/7 industrial response. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Vienna, Virginia',
   introSection: {
@@ -11,8 +11,8 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Vienna's commercial corridors face flood risks that reflect the community's blend of established charm and ongoing development. Summer thunderstorms can overwhelm drainage along Maple Avenue, sending storm water into ground-floor retail spaces and restaurants. Aging plumbing in Church Street's older commercial buildings produces sudden pipe failures that flood neighboring businesses through shared walls. And construction activity near Vienna Metro and Tysons Woods can alter drainage patterns, creating new flood exposure for established commercial properties that never had water problems before.
 
-Flood Doctor's commercial flood division has managed flooding events throughout Vienna's business community. We've extracted storm flooding from Church Street restaurants, pumped out flooded inventory rooms in Oakton professional offices, and restored sprinkler discharge damage in Dunn Loring commercial buildings—bringing industrial cleanup capacity to a market that values responsive, community-aware service.`,
-      `Commercial flood cleanup in Vienna requires sensitivity to the business environment alongside industrial capability. Church Street boutiques and restaurants depend on foot traffic that visible flood damage and restoration equipment disrupts. Oakton professional offices serve clients who expect pristine environments. Wolf Trap area businesses near Meadowlark Gardens experience seasonal customer concentrations where flood-driven closures have outsized revenue impact. The restoration partner who treats these businesses as interchangeable commercial spaces misses the community context that drives restoration priorities.
+Flood Doctor's commercial flood division has managed flooding events throughout Vienna's business community. We've extracted storm flooding from Church Street restaurants, pumped out flooded inventory rooms in Oakton professional workplaces, and restored sprinkler discharge damage in Dunn Loring commercial buildings—bringing industrial cleanup capacity to a market that values responsive, community-aware service.`,
+      `Commercial flood cleanup in Vienna requires sensitivity to the business environment alongside industrial capability. Church Street boutiques and restaurants depend on foot traffic that visible flood damage and restoration equipment disrupts. Oakton professional workplaces serve clients who expect pristine environments. Wolf Trap area businesses near Meadowlark Gardens experience seasonal customer concentrations where flood-driven closures have outsized revenue impact. The restoration partner who treats these businesses as interchangeable commercial spaces misses the community context that drives restoration priorities.
 
 Our commercial flood teams bring contamination assessment, industrial extraction, and structural drying capability scaled for Vienna's commercial properties. We coordinate work schedules around business operations, minimize visible disruption to customer-facing areas, and communicate clearly with business owners who are managing client relationships alongside restoration decisions.`,
     ],
@@ -22,7 +22,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
     {
       title: 'Community-Quick Response',
       description: `Call (877) 497-0007 for immediate flood dispatch. Our Vienna crews deploy from positions near Church Street, Oakton, and the Vienna Metro area with industrial extraction equipment for rapid commercial response.`,
-      timeframe: 'Within 60 minutes',
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Flood Source & Contamination Assessment',
@@ -31,7 +31,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
     },
     {
       title: 'Industrial Extraction with Business Awareness',
-      description: 'Truck-mounted extractors remove standing floodwater while we minimize visible impact to customer-facing areas. Equipment staging uses rear entrances, storage areas, and off-hours scheduling to maintain the professional appearance Vienna businesses need.',
+      description: 'Truck-mounted extractors remove standing floodwater while we minimize visible impact to customer-facing areas. Equipment dispatch planning uses rear entrances, storage areas, and off-hours scheduling to maintain the professional appearance Vienna businesses need.',
       timeframe: 'Hours 2-8',
     },
     {
@@ -41,7 +41,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
     },
     {
       title: 'Targeted Commercial Drying',
-      description: 'Drying equipment deploys with attention to the business environment—quiet operation during business hours, equipment positioned out of customer view where possible, and finish-protective protocols for quality materials.',
+      description: 'Drying equipment deploys with attention to the business environment—quiet operation during business hours, equipment placed out of customer view where possible, and finish-protective protocols for quality materials.',
       timeframe: 'Days 2-5',
     },
     {
@@ -54,7 +54,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
     {
       title: 'Summer Storm Flooding Along Maple Avenue',
       description: `Intense summer thunderstorms overwhelm drainage along Vienna's main commercial corridor, sending storm water into ground-floor businesses. The Wolf Trap concert season coincides with peak storm risk, creating flood exposure during the highest-revenue period for nearby restaurants and hospitality businesses.`,
-      solution: 'We maintain pre-positioned equipment and expanded crew availability during summer storm season. Priority response agreements give Vienna businesses guaranteed deployment during severe weather events, and our crews can begin extraction while storms are still active.',
+      solution: 'We maintain prepared equipment and expanded crew availability during summer storm season. Priority response agreements give Vienna businesses intended deployment during severe weather events, and our crews can begin extraction while storms are still active.',
     },
     {
       title: 'Shared-Wall Water Migration in Church Street Buildings',
@@ -63,7 +63,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
     },
     {
       title: 'Restaurant and Food Service Flood Compliance',
-      description: `Vienna's restaurant scene is central to the community's appeal. Flood damage in food service establishments triggers health department compliance requirements for reopening that exceed standard commercial restoration clearance.`,
+      description: `Vienna's restaurant scene is central to the community's appeal. Flood damage in food service establishments triggers health department compliance requirements for reopening that exceed standard commercial restoration verification.`,
       solution: 'We execute restaurant flood cleanup per food service facility standards, including commercial-grade sanitization, equipment assessment, and health department coordination. Our documentation supports both insurance claims and regulatory reopening approval for Vienna restaurants.',
     },
     {
@@ -77,12 +77,12 @@ Our commercial flood teams bring contamination assessment, industrial extraction
     equipment: [
       {
         name: 'Truck-Mounted Extractors',
-        purpose: 'Remove large volumes of floodwater from Vienna commercial spaces while staging equipment discreetly for minimal customer-facing impact',
+        purpose: 'Remove large volumes of floodwater from Vienna commercial spaces while dispatch planning equipment discreetly for minimal customer-facing impact',
         brand: 'Prochem',
       },
       {
         name: 'Quiet-Operation Dehumidifiers',
-        purpose: 'Commercial-capacity drying with reduced noise levels for deployment during business hours in professional office environments',
+        purpose: 'Commercial-capacity drying with reduced noise levels for deployment during business hours in professional workplace environments',
         brand: 'Dri-Eaz',
       },
       {
@@ -99,10 +99,10 @@ Our commercial flood teams bring contamination assessment, industrial extraction
       },
       {
         name: 'Environmental Clearance Testing',
-        purpose: 'Post-cleanup testing for food service establishments and healthcare facilities requiring regulatory reopening clearance',
+        purpose: 'Post-cleanup testing for food service establishments and healthcare facilities requiring regulatory reopening verification',
       },
     ],
-    localNote: 'Our Vienna commercial flood response balances industrial extraction capacity with business-sensitive equipment deployment—quiet dehumidifiers for occupied offices, discreet staging for customer-facing retail, and quality-preservation tools for the premium finishes common in Vienna commercial spaces.',
+    localNote: 'Our Vienna commercial flood response balances industrial extraction capacity with business-sensitive equipment deployment—quiet dehumidifiers for occupied workplaces, discreet dispatch planning for customer-facing retail, and quality-preservation tools for the premium finishes common in Vienna commercial spaces.',
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in Vienna',
@@ -110,7 +110,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
     factors: [
       'Flood source and contamination—storm water from Maple Avenue requires biohazard protocols costing more than clean-water pipe failures',
       'Quality finish involvement—preserving hardwood, millwork, and specialty materials requires additional care but often costs less than full replacement',
-      'Food service compliance—restaurants and food businesses need health department clearance adding sanitization and testing scope',
+      'Food service compliance—restaurants and food businesses need health department verification adding sanitization and testing scope',
       'Multi-business coordination—shared-wall events affecting multiple Church Street businesses require individual documentation for each',
       'Seasonal business impact—accelerated restoration during peak seasons prevents revenue losses that exceed restoration premium costs',
     ],
@@ -132,7 +132,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
       'Park Street',
       'Cedar Lane Area',
     ],
-    responseTime: '60-minute commercial flood response to all Vienna business areas. Equipment pre-staged near Church Street, Oakton, and the Metro corridor for rapid deployment during severe weather.',
+    responseTime: 'prompt commercial flood response to all Vienna business areas. Equipment prepared near Church Street, Oakton, and the Metro corridor for rapid deployment during severe weather.',
   },
   faqs: [
     {
@@ -145,7 +145,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
     },
     {
       question: 'What about flooding that affected our restaurant kitchen?',
-      answer: 'We follow food service facility flood cleanup standards including commercial-grade sanitization, equipment assessment per manufacturer guidelines, and coordination with health department for reopening clearance. Our documentation supports both your insurance claim and regulatory compliance.',
+      answer: 'We follow food service facility flood cleanup standards including commercial-grade sanitization, equipment assessment per manufacturer guidelines, and coordination with health department for reopening verification. Our documentation supports both your insurance claim and regulatory compliance.',
     },
     {
       question: 'The business next door had a pipe burst and water came through our shared wall—what do we do?',
@@ -157,7 +157,7 @@ Our commercial flood teams bring contamination assessment, industrial extraction
     },
     {
       question: 'How do you handle our commercial insurance claim?',
-      answer: 'We provide complete documentation and direct billing for all major commercial carriers. Xactimate estimates, photo documentation, moisture logs, and daily progress reports support your claim throughout the process.',
+      answer: 'We provide thorough documentation and insurance documentation support for all major commercial carriers. Xactimate estimates, photo documentation, moisture logs, and daily progress reports support your claim throughout the process.',
     },
   ],
   relatedBlogSlugs: [

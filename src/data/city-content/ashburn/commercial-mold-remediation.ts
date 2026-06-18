@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's trusted commercial mold remediation team. CIH-coordinated protocols for offices, retail centers, and data center facilities near One Loudoun and Brambleton. Call (877) 497-0007.`,
+    description: `Ashburn's local commercial mold remediation team. CIH-coordinated protocols for workplaces, retail centers, and data center facilities near One Loudoun and Brambleton. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Ashburn, Virginia`,
   introSection: {
-    headline: `New Construction Mold Expertise for Ashburn Commercial Properties`,
+    headline: `New Construction Mold Experience for Ashburn Commercial Properties`,
     paragraphs: [
-      `Mold in an Ashburn commercial property often surprises property managers who expect newer buildings to be immune. A construction defect in a One Loudoun office building allows water intrusion through improperly sealed curtain walls, feeding mold growth that the HVAC system distributes to every tenant floor. A chronic condensation problem in a Brambleton retail center's rooftop HVAC unit creates mold colonies above ceiling tiles that tenants report through persistent musty odors. A Lansdowne medical office discovers mold behind exam room walls traced to a slow plumbing leak at a construction-era joint. Ashburn's commercial building stock is newer than most Northern Virginia communities, yet new construction creates its own mold vulnerabilities—sealed building envelopes that trap humidity, HVAC condensation issues, and construction moisture that was never properly dried before enclosure. Flood Doctor provides CIH-coordinated commercial mold remediation with the new construction expertise that Ashburn commercial properties require.`,
-      `Ashburn's commercial mold patterns differ from older communities because the moisture sources differ. Sealed modern building envelopes retain interior humidity that older, leakier construction naturally ventilated. HVAC systems designed for the area's large commercial floor plates may underperform on dehumidification, allowing humidity to accumulate in wall cavities and above ceilings. Construction moisture trapped behind vapor barriers during fast-track building schedules can sustain mold growth for years. The area's clay-heavy soil creates hydrostatic pressure against below-grade commercial spaces, driving moisture through concrete that supports mold on interior surfaces. Our teams remediate mold in Ashburn's full commercial spectrum—office towers, retail centers, medical facilities, and technology support buildings—under CIH protocols that address both the contamination and the construction-era vulnerabilities that caused it.`,
+      `Mold in an Ashburn commercial property often surprises property managers who expect newer buildings to be immune. A construction defect in a One Loudoun commercial building allows water intrusion through improperly sealed curtain walls, feeding mold growth that the HVAC system distributes to every tenant floor. A chronic condensation problem in a Brambleton retail center's rooftop HVAC unit creates mold colonies above ceiling tiles that tenants report through persistent musty odors. A Lansdowne medical workplace discovers mold behind exam room walls traced to a slow plumbing leak at a construction-era joint. Ashburn's commercial building stock is newer than most Northern Virginia communities, yet new construction creates its own mold vulnerabilities—sealed building envelopes that trap humidity, HVAC condensation issues, and construction moisture that was never properly dried before enclosure. Flood Doctor provides CIH-coordinated commercial mold remediation with the new construction experience that Ashburn commercial properties require.`,
+      `Ashburn's commercial mold patterns differ from older communities because the moisture sources differ. Sealed modern building envelopes retain interior humidity that older, leakier construction naturally ventilated. HVAC systems designed for the area's large commercial floor plates may underperform on dehumidification, allowing humidity to accumulate in wall cavities and above ceilings. Construction moisture trapped behind vapor barriers during fast-track building schedules can sustain mold growth for years. The area's clay-heavy soil creates hydrostatic pressure against below-grade commercial spaces, driving moisture through concrete that supports mold on interior surfaces. Our teams remediate mold in Ashburn's full commercial spectrum—commercial towers, retail centers, medical facilities, and technology support buildings—under CIH protocols that address both the contamination and the construction-era vulnerabilities that caused it.`,
     ],
-    localContext: `Ashburn's newer commercial buildings—with sealed building envelopes, modern HVAC complexity, and rapid construction timelines—create mold vulnerabilities distinct from older communities, requiring remediation expertise adapted for contemporary building science.`,
+    localContext: `Ashburn's newer commercial buildings—with sealed building envelopes, modern HVAC complexity, and rapid construction timelines—create mold vulnerabilities distinct from older communities, requiring remediation experience adapted for contemporary building science.`,
   },
   processSteps: [
     {
       title: `CIH Assessment with Construction Context`,
-      description: `We coordinate a certified industrial hygienist to assess your Ashburn commercial property. Beyond standard air and surface sampling, assessment evaluates construction-era factors—building envelope seal integrity, HVAC condensation management, and trapped construction moisture—that may be driving mold growth in newer buildings.`,
+      description: `We coordinate a trained industrial hygienist to assess your Ashburn commercial property. Beyond standard air and surface sampling, assessment evaluates construction-era factors—building envelope seal integrity, HVAC condensation management, and trapped construction moisture—that may be driving mold growth in newer buildings.`,
       timeframe: `Days 1-3`,
     },
     {
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Independent Clearance Testing`,
-      description: `The CIH performs post-remediation sampling comparing results to baseline from unaffected areas. Written clearance reports satisfy property management, tenant communication, and any HOA documentation requirements for Ashburn community-governed commercial properties.`,
+      description: `The CIH performs post-remediation sampling comparing results to baseline from unaffected areas. Written verification reports satisfy property management, tenant communication, and any HOA documentation requirements for Ashburn community-governed commercial properties.`,
       timeframe: `Days 9-11`,
     },
     {
@@ -88,7 +88,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HEPA Vacuum Systems`,
-        purpose: `Remove settled spores from modern commercial surfaces meeting IICRC S520 remediation standards`,
+        purpose: `Remove settled spores from modern commercial surfaces meeting industry S520 remediation standards`,
       },
       {
         name: `Negative Air Machines`,
@@ -102,7 +102,7 @@ export const content: CityServiceContent = {
     intro: `Ashburn commercial mold remediation costs depend on contamination scope, building system involvement, and construction defect factors. We provide detailed estimates following CIH assessment. When construction installation defects caused the mold condition, warranty claim documentation may recover remediation costs from the builder.`,
     factors: [
       `Contamination scope—localized growth versus HVAC-distributed mold across multiple floors or tenant spaces`,
-      `CIH assessment and clearance—independent verification is essential for professional commercial remediation`,
+      `CIH assessment and verification—independent verification is essential for professional commercial remediation`,
       `Construction defect involvement—warranty documentation adds investigation scope but may recover costs`,
       `HVAC system remediation—centralized air handling contamination adds specialized cleaning to the project`,
       `Below-grade moisture management—clay-soil hydrostatic conditions may require waterproofing and dehumidification installation`,
@@ -152,7 +152,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `How long does mold remediation take in Ashburn commercial properties?`,
-      answer: `Single-suite projects take 7-12 days from CIH assessment through clearance. Multi-suite projects with HVAC involvement take 2-4 weeks. Projects requiring building envelope repairs may extend the timeline for moisture source correction.`,
+      answer: `Single-suite projects take 7-12 days from CIH assessment through verification. Multi-suite projects with HVAC involvement take 2-4 weeks. Projects requiring building envelope repairs may extend the timeline for moisture source correction.`,
     },
   ],
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],

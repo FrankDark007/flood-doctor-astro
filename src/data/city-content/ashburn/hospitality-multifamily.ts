@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Ashburn, VA | Flood Doctor`,
-    description: `Ashburn's trusted restoration experts for hotels, apartment communities, and multifamily properties. HOA-experienced crews serving Broadlands, Brambleton, and One Loudoun. Call (877) 497-0007.`,
+    description: `Ashburn's local restoration specialists for hotels, apartment communities, and multifamily properties. HOA-experienced crews serving Broadlands, Brambleton, and One Loudoun. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Ashburn, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Ashburn's rapid growth has produced one of Northern Virginia's densest concentrations of multifamily housing—luxury apartment communities in Brambleton, high-end condominiums at One Loudoun, and extended-stay hotels serving the Dulles data center corridor workforce. When water damage strikes a 200-unit apartment building in Broadlands or cascades through a Belmont Country Club condominium, the restoration must manage displaced residents, coordinate with property management companies, and satisfy HOA boards accustomed to new-construction standards. A burst pipe in one unit can affect a dozen neighbors below and adjacent, creating multi-party insurance scenarios that require experienced documentation and communication protocols.
 
-Flood Doctor has restored water-damaged hospitality and multifamily properties throughout Ashburn, from Lansdowne resort-area hotels to Ashburn Farm apartment communities and One Loudoun mixed-use residential buildings. Our multi-unit coordination means we manage simultaneous restoration across affected units while maintaining the modern aesthetic standards these newer properties demand. We coordinate with leasing offices, HOA management companies, and hospitality front desks to minimize displacement and protect property reputation in Ashburn's competitive rental and hospitality market.`,
+Flood Doctor has restored water-damaged hospitality and multifamily properties throughout Ashburn, from Lansdowne resort-area hotels to Ashburn Farm apartment communities and One Loudoun mixed-use residential buildings. Our multi-unit coordination means we manage simultaneous restoration across affected units while maintaining the modern aesthetic standards these newer properties demand. We coordinate with leasing workplaces, HOA management companies, and hospitality front desks to minimize displacement and protect property reputation in Ashburn's competitive rental and hospitality market.`,
       `The financial impact of water damage in Ashburn multifamily properties compounds rapidly. A supply line failure cascading through a Brambleton condominium building affects units worth hundreds of thousands each, with separate owners carrying individual policies alongside the master building coverage. Extended-stay hotels near Loudoun Station Metro lose revenue from both displaced guests and reputation damage in online reviews. Apartment communities in Broadlands face tenant retention challenges when restoration extends beyond reasonable timelines, and competing new construction nearby gives dissatisfied tenants immediate alternatives.
 
 Our approach prioritizes revenue recovery and resident satisfaction simultaneously. We deploy enough equipment and personnel to restore all affected units in parallel rather than sequentially, compressing total displacement time. Each unit receives individual moisture mapping and progress tracking, allowing phased re-occupancy as units reach dry standards. Property managers receive daily reports with unit-by-unit status updates suitable for owner communications and HOA board presentations at Belmont Country Club and Lansdowne properties.`,
@@ -22,11 +22,11 @@ Our approach prioritizes revenue recovery and resident satisfaction simultaneous
     {
       title: `Immediate Property Assessment and Containment`,
       description: `When you call (877) 497-0007, our multi-unit response team deploys immediately. We assess the full vertical and horizontal scope of water migration, identify all affected units, and install containment to prevent further spread through Ashburn multifamily properties.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Emergency dispatch`,
     },
     {
       title: `Resident and Guest Communication Protocol`,
-      description: `We provide property managers with professional notification templates and coordinate displaced occupant logistics. For Ashburn hospitality properties, we work with front desk teams to arrange alternative accommodations. For condominiums and apartments, we establish direct communication with each affected unit through the leasing office or HOA.`,
+      description: `We provide property managers with professional notification templates and coordinate displaced occupant logistics. For Ashburn hospitality properties, we work with front desk teams to arrange alternative accommodations. For condominiums and apartments, we establish direct communication with each affected unit through the leasing workplace or HOA.`,
       timeframe: `Hours 1-4`,
     },
     {
@@ -138,7 +138,7 @@ Our approach prioritizes revenue recovery and resident satisfaction simultaneous
       `Russell Branch Parkway`,
       `Gloucester Parkway`,
     ],
-    responseTime: `45-minute emergency response to all Ashburn hospitality and multifamily properties. Our multi-unit crews carry equipment for immediate containment of cascading water events in modern buildings.`,
+    responseTime: `prompt emergency response to all Ashburn hospitality and multifamily properties. Our multi-unit crews carry equipment for immediate containment of cascading water events in modern buildings.`,
   },
   faqs: [
     {
@@ -155,7 +155,7 @@ Our approach prioritizes revenue recovery and resident satisfaction simultaneous
     },
     {
       question: `Who handles communication with displaced residents?`,
-      answer: `We provide property managers with professional notification templates, daily unit-by-unit status reports, and estimated re-occupancy timelines. For apartment communities, we coordinate with leasing offices. For condominiums, our project manager is available for HOA board meetings and resident updates.`,
+      answer: `We provide property managers with professional notification templates, daily unit-by-unit status reports, and estimated re-occupancy timelines. For apartment communities, we coordinate with leasing workplaces. For condominiums, our project manager is available for HOA board meetings and resident updates.`,
     },
     {
       question: `How do you manage insurance with both HOA master and unit policies?`,
@@ -163,7 +163,7 @@ Our approach prioritizes revenue recovery and resident satisfaction simultaneous
     },
     {
       question: `What is your response time for Ashburn multifamily emergencies?`,
-      answer: `We guarantee 45-minute response to Ashburn hospitality and multifamily properties. Our crews carry multi-unit containment materials and begin water extraction immediately upon arrival, preventing cascade damage to additional units.`,
+      answer: `We target prompt response to Ashburn hospitality and multifamily properties. Our crews carry multi-unit containment materials and begin water extraction immediately upon arrival, preventing cascade damage to additional units.`,
     },
     {
       question: `Can you coordinate with our Ashburn property management company?`,
@@ -180,6 +180,6 @@ Our approach prioritizes revenue recovery and resident satisfaction simultaneous
   ],
   finalCTA: {
     headline: `Water Damage in Your Ashburn Property?`,
-    paragraph: `Every hour of water exposure threatens modern finishes and increases displacement costs. Our multi-unit response team arrives within 45 minutes with the equipment and expertise to protect your Ashburn hospitality or multifamily investment. Call (877) 497-0007 now.`,
+    paragraph: `Every hour of water exposure threatens modern finishes and increases displacement costs. Our multi-unit response team arrives as quickly as available crews can safely arrive with the equipment and experience to protect your Ashburn hospitality or multifamily investment. Call (877) 497-0007 now.`,
   },
 }

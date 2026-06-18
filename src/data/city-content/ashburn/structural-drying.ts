@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Ashburn, VA | Flood Doctor',
-    description: `Ashburn's structural drying experts. New construction & builder warranty specialists. 30-min response to Broadlands, Brambleton & One Loudoun. Call (877) 497-0007.`,
+    description: `Ashburn's structural drying specialists. New construction & builder warranty specialists. rapid response to Broadlands, Brambleton & One Loudoun. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Ashburn, Virginia',
   introSection: {
-    headline: 'New Construction Drying Expertise for Ashburn Homes',
+    headline: 'New Construction Drying Experience for Ashburn Homes',
     paragraphs: [
       `Ashburn's rapid growth has produced a community dominated by newer construction — homes built from 2000 to the present that use modern materials, open floor plans, and builder-grade components that create specific structural drying challenges. When a supply line bursts in your Broadlands colonial, water travels faster and farther across open floor plans than it would through older compartmentalized homes. When your Brambleton basement floods from a sump pump failure, the OSB subfloor, spray foam insulation, and engineered flooring each require different drying parameters than traditional materials. And when HVAC condensate leaks in your One Loudoun townhome, the damage can be extensive before any surface evidence appears.
 
 Flood Doctor has dried hundreds of Ashburn properties — managing moisture in Lansdowne basements where builder-grade plumbing failed prematurely, extracting floodwater from Ashburn Farm finished lower levels after summer storms overwhelmed sump systems, and addressing HVAC condensate damage in Belmont Country Club homes where improper installation caused hidden wall cavity contamination. We understand how today's Ashburn homes are built, what goes wrong, and how to dry them correctly.`,
       `Structural drying in Ashburn's newer homes demands understanding of modern building materials that behave differently from traditional construction. OSB (oriented strand board) subfloors swell when saturated and require controlled drying to prevent permanent delamination. Spray foam insulation traps moisture against sheathing rather than allowing it to evaporate. Engineered hardwood flooring has moisture tolerances tighter than solid wood. Builder-grade PEX connections, flexible supply lines, and HVAC condensate systems fail in patterns specific to mass-production construction.
 
-Our IICRC-certified technicians calculate psychrometric drying conditions for every material in your Ashburn home. LGR dehumidifiers create optimal atmospheric conditions. Air movers drive evaporation across modern surfaces. Injection drying systems reach moisture inside wall cavities without removing drywall — saving reconstruction costs. And every step is documented with the thoroughness that supports both insurance claims and potential builder warranty disputes, because in Ashburn, the cause of the water damage matters as much as the response.`,
+Our trained technicians calculate psychrometric drying conditions for every material in your Ashburn home. LGR dehumidifiers create optimal atmospheric conditions. Air movers drive evaporation across modern surfaces. Injection drying systems reach moisture inside wall cavities without removing drywall — saving reconstruction costs. And every step is documented with the thoroughness that supports both insurance claims and potential builder warranty disputes, because in Ashburn, the cause of the water damage matters as much as the response.`,
     ],
     localContext: `Ashburn's post-2000 construction — featuring modern materials, open floor plans, and builder-grade components — requires structural drying specialists who understand how newer homes are built, what causes them to fail, and the documentation needed for both insurance and warranty claims.`,
   },
   processSteps: [
     {
       title: '30-Minute Ashburn Response',
-      description: `Call (877) 497-0007 and our Loudoun County-positioned crews arrive within 30 minutes. We reach Broadlands, Brambleton, One Loudoun, Ashburn Farm, Lansdowne, and Belmont Country Club from staging along the Ashburn corridor — already in your community, not driving from a distant warehouse.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Loudoun County-placed crews arrive as quickly as available crews can safely arrive. We reach Broadlands, Brambleton, One Loudoun, Ashburn Farm, Lansdowne, and Belmont Country Club from dispatch planning along the Ashburn corridor — already in your community, not driving from a distant warehouse.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Modern Material Assessment',
@@ -36,7 +36,7 @@ Our IICRC-certified technicians calculate psychrometric drying conditions for ev
     },
     {
       title: 'Modern-Material Drying Setup',
-      description: 'Equipment deployment accounts for material-specific needs: controlled humidity for OSB subfloors, targeted air movement for engineered flooring, and injection drying for spray-foam-insulated wall cavities where moisture gets trapped against sheathing. Open floor plans require strategic equipment placement for complete coverage.',
+      description: 'Equipment deployment accounts for material-specific needs: controlled humidity for OSB subfloors, targeted air movement for engineered flooring, and injection drying for spray-foam-insulated wall cavities where moisture gets trapped against sheathing. Open floor plans require strategic equipment placement for broad coverage.',
       timeframe: 'Hours 4-8',
     },
     {
@@ -46,7 +46,7 @@ Our IICRC-certified technicians calculate psychrometric drying conditions for ev
     },
     {
       title: 'Verification & Restoration Planning',
-      description: 'Final verification with both meters and thermal imaging confirms complete drying. We provide a restoration plan matched to modern Ashburn finishes and coordinate with HOA requirements for any exterior restoration work needed.',
+      description: 'Final verification with both meters and thermal imaging confirms target dry standards. We provide a restoration plan matched to modern Ashburn finishes and coordinate with HOA requirements for any exterior restoration work needed.',
       timeframe: 'Days 5-7',
     },
   ],
@@ -139,7 +139,7 @@ Our IICRC-certified technicians calculate psychrometric drying conditions for ev
       'Cameron Chase',
       'Stone Ridge',
     ],
-    responseTime: '30-minute response to all Ashburn neighborhoods. Our crews are positioned throughout Loudoun County from the Greenway corridor to Route 7 for immediate emergency dispatch.',
+    responseTime: 'rapid emergency response to all Ashburn neighborhoods. Our crews provide service-area response throughout Loudoun County from the Greenway corridor to Route 7.',
   },
   faqs: [
     {
@@ -164,7 +164,7 @@ Our IICRC-certified technicians calculate psychrometric drying conditions for ev
     },
     {
       question: 'Does insurance cover drying after a sump pump failure?',
-      answer: 'Sump pump and water backup coverage requires a specific rider on most policies. Check your policy or call your agent. If covered, restoration is typically fully paid. We document the pump failure as the cause and handle direct billing with your carrier.',
+      answer: 'Sump pump and water backup coverage requires a specific rider on most policies. Check your policy or call your agent. If covered, restoration is typically fully paid. We document the pump failure as the cause and handle claim-support documentation for your insurer.',
     },
   ],
   relatedBlogSlugs: [
@@ -173,6 +173,6 @@ Our IICRC-certified technicians calculate psychrometric drying conditions for ev
   ],
   finalCTA: {
     headline: 'Water Damage in Your Ashburn Home?',
-    paragraph: 'Modern building materials require immediate professional response — OSB subfloors swell permanently, spray foam traps hidden moisture, and open floor plans allow rapid spread. Our Ashburn crews arrive within 30 minutes with the expertise your newer home demands. Call (877) 497-0007 now.',
+    paragraph: 'Modern building materials require immediate professional response — OSB subfloors swell permanently, spray foam traps hidden moisture, and open floor plans allow rapid spread. Our Ashburn crews arrive as quickly as available crews can safely arrive with the experience your newer home demands. Call (877) 497-0007 now.',
   },
 }

@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       `Vienna's commercial landscape blends the town's small-business character with the professional operations that serve a sophisticated residential community. Specialty food production facilities supply Church Street restaurants and the local farmers market. Print shops and fabrication studios near Maple Avenue create custom products for corporate and residential clients. Technology firms in Oakton professional parks develop software and maintain server infrastructure for government and commercial contracts. Veterinary hospitals in the Dunn Loring area house sensitive diagnostic equipment and pharmaceutical storage requiring the same environmental controls as human medical facilities.
 
 Flood Doctor provides the commercial restoration capability these Vienna businesses need, scaled to the smaller footprints and community relationships that define commercial operations here. Our crews protect production equipment with anti-corrosion treatment, maintain server room environmental controls during structural drying, and document business interruption impacts for insurance claims. We understand that a Vienna business owner is not just a client—they are a neighbor whose livelihood and community standing depend on getting back to work quickly.`,
-      `Commercial water damage in Vienna typically originates from the same infrastructure challenges affecting residential properties—aging plumbing, HVAC failures, and stormwater overwhelm—but the business impact amplifies financial consequences dramatically. A burst pipe in an Oakton technology office destroys computing equipment worth more than the structural damage. Flooding in a Tysons Woods commercial kitchen shuts down food service operations during peak revenue periods. A roof leak above a Clarks Crossing warehouse damages inventory that cannot be replaced on short notice for committed customer orders.
+      `Commercial water damage in Vienna typically originates from the same infrastructure challenges affecting residential properties—aging plumbing, HVAC failures, and stormwater overwhelm—but the business impact amplifies financial consequences dramatically. A burst pipe in an Oakton technology workplace destroys computing equipment worth more than the structural damage. Flooding in a Tysons Woods commercial kitchen shuts down food service operations during peak revenue periods. A roof leak above a Clarks Crossing warehouse damages inventory that cannot be replaced on short notice for committed customer orders.
 
 Our Vienna commercial team treats every business restoration with the urgency the owner feels. Production-critical equipment receives protection within hours. Revenue-generating spaces are prioritized in our restoration sequence. Documentation supporting business interruption and equipment claims is prepared concurrent with physical restoration, not weeks after the work is complete. For Vienna business owners, time literally is money—and our processes are designed to minimize both downtime and financial exposure.`,
     ],
@@ -21,8 +21,8 @@ Our Vienna commercial team treats every business restoration with the urgency th
   processSteps: [
     {
       title: `Rapid Commercial Response`,
-      description: `Call (877) 497-0007 for immediate commercial facility response. Our Vienna crews deploy with equipment appropriate to your business type—anti-corrosion treatment for technology operations, food-grade equipment for production kitchens, or standard extraction for retail and office environments.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate commercial facility response. Our Vienna crews deploy with equipment appropriate to your business type—anti-corrosion treatment for technology operations, food-grade equipment for production kitchens, or standard extraction for retail and workplace environments.`,
+      timeframe: `Emergency dispatch`,
     },
     {
       title: `Business Impact Assessment`,
@@ -41,7 +41,7 @@ Our Vienna commercial team treats every business restoration with the urgency th
     },
     {
       title: `Business-Sensitive Structural Drying`,
-      description: `Drying equipment placement accounts for your daily operations. Equipment is arranged to allow continued business activity when possible. For businesses requiring quiet environments—veterinary clinics, therapy offices—we use noise-reduced equipment during operating hours.`,
+      description: `Drying equipment placement accounts for your daily operations. Equipment is arranged to allow continued business activity when possible. For businesses requiring quiet environments—veterinary clinics, therapy workplaces—we use noise-reduced equipment during operating hours.`,
       timeframe: `Days 1-5`,
     },
     {
@@ -62,7 +62,7 @@ Our Vienna commercial team treats every business restoration with the urgency th
       solution: `We deploy food-grade decontamination protocols meeting county health department standards. Temperature monitoring preserves cold chain integrity for perishable inventory when possible. Our documentation supports expedited health department reinspection for Vienna food businesses.`,
     },
     {
-      title: `Oakton Technology Office Equipment Recovery`,
+      title: `Oakton Technology Workplace Equipment Recovery`,
       description: `Technology firms in Oakton professional parks house servers, networking equipment, and development workstations worth significantly more than the commercial lease space they occupy. Water damage from HVAC failures or plumbing events can destroy equipment that takes months to replace and configure.`,
       solution: `Anti-corrosion treatment begins within hours. Server room environmental controls maintain manufacturer specifications throughout restoration. We coordinate with technology vendors and insurance carriers to document equipment-specific claims separately from structural damage.`,
     },
@@ -91,7 +91,7 @@ Our Vienna commercial team treats every business restoration with the urgency th
       },
       {
         name: `Server Room Environmental Controls`,
-        purpose: `Precision temperature and humidity management for technology office computing equipment during structural drying`,
+        purpose: `Precision temperature and humidity management for technology workplace computing equipment during structural drying`,
       },
       {
         name: `Food-Grade Sanitization Systems`,
@@ -103,7 +103,7 @@ Our Vienna commercial team treats every business restoration with the urgency th
         brand: `FLIR`,
       },
     ],
-    localNote: `Our Vienna commercial response carries diversified equipment reflecting the area's business mix—food-grade sanitization for Church Street operations, technology recovery systems for Oakton offices, and standard extraction for Maple Avenue retail and professional spaces.`,
+    localNote: `Our Vienna commercial response carries diversified equipment reflecting the area's business mix—food-grade sanitization for Church Street operations, technology recovery systems for Oakton workplaces, and standard extraction for Maple Avenue retail and professional spaces.`,
   },
   pricingSection: {
     headline: `Commercial Restoration Costs in Vienna`,
@@ -132,7 +132,7 @@ Our Vienna commercial team treats every business restoration with the urgency th
       `Hunter Mill Road`,
       `Courthouse Road`,
     ],
-    responseTime: `30-minute emergency response to all Vienna commercial properties. Our crews carry business-type-specific equipment for immediate deployment to food production, technology, retail, and professional service operations throughout the Vienna-Oakton area.`,
+    responseTime: `rapid emergency response to all Vienna commercial properties. Our crews carry business-type-specific equipment for immediate deployment to food production, technology, retail, and professional service operations throughout the Vienna-Oakton area.`,
   },
   faqs: [
     {
@@ -140,7 +140,7 @@ Our Vienna commercial team treats every business restoration with the urgency th
       answer: `We deploy food-grade decontamination immediately and coordinate with the Fairfax County Health Department for reinspection. Most Vienna food production facilities can resume operations within 5-7 days of a moderate water event, depending on contamination level and health department scheduling.`,
     },
     {
-      question: `Can you protect our Oakton office server room?`,
+      question: `Can you protect our Oakton workplace server room?`,
       answer: `Yes. Anti-corrosion treatment and environmental controls begin within hours of arrival. We maintain server room temperature and humidity within manufacturer specifications throughout structural drying. Computing equipment documentation is prepared separately from structural claims for proper insurance categorization.`,
     },
     {
@@ -165,6 +165,6 @@ Our Vienna commercial team treats every business restoration with the urgency th
   ],
   finalCTA: {
     headline: `Vienna Business Emergency?`,
-    paragraph: `Every hour of closure costs your business revenue and customer trust. Our commercial restoration crews reach any Vienna operation within 30 minutes with equipment matched to your business type. Call (877) 497-0007 now.`,
+    paragraph: `Every hour of closure costs your business revenue and customer trust. Our commercial restoration crews reach any Vienna operation as quickly as available crews can safely arrive with equipment matched to your business type. Call (877) 497-0007 now.`,
   },
 }

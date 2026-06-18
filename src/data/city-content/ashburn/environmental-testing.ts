@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Ashburn, VA | Flood Doctor',
-    description: `Ashburn's certified environmental testing for mold, VOC off-gassing, indoor air quality & hazardous materials. AIHA-accredited lab analysis for homes in Broadlands, Brambleton & One Loudoun. Call (877) 497-0007.`,
+    description: `Ashburn's trained environmental testing for mold, VOC off-gassing, indoor air quality & hazardous materials. AIHA-accredited lab analysis for homes in Broadlands, Brambleton & One Loudoun. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Ashburn, Virginia',
   introSection: {
-    headline: `Certified Environmental Testing for Ashburn New Construction and Growing Communities`,
+    headline: `Trained Environmental Testing for Ashburn New Construction and Growing Communities`,
     paragraphs: [
       `Ashburn\`s environmental testing profile differs fundamentally from older Northern Virginia communities. Properties built from 2000 to present in Broadlands, Brambleton, and One Loudoun lack the legacy asbestos and lead paint concerns of pre-1980 construction, but they introduce modern environmental challenges that are equally consequential. Tight building envelopes engineered for energy efficiency trap volatile organic compounds off-gassing from engineered wood products, composite countertops, LVP flooring, and imported cabinetry. Builder-grade HVAC systems in homes with 3,000-5,000 square feet of finished space distribute contaminants from a single source to every room. Construction defect water intrusion through improperly flashed windows, inadequate grading, and failed sealant joints creates mold colonization within wall cavities—hidden behind drywall and undetectable until spore concentrations drive health symptoms. Flood Doctor provides AIHA-accredited environmental testing calibrated for Ashburn\`s new construction profile—mold assessment, VOC quantification, indoor air quality evaluation, and construction defect documentation—with laboratory protocols that support both health investigation and builder warranty claims.`,
-      `Our certified inspectors have quantified elevated formaldehyde concentrations from imported kitchen cabinetry in Brambleton homes less than two years old, documented Stachybotrys contamination behind drywall in Broadlands homes where window flashing failures allowed chronic water intrusion, and traced persistent respiratory symptoms in Ashburn Farm families to mold-contaminated HVAC coils in builder-installed systems. Near Loudoun Station Metro and One Loudoun, townhome developments with shared walls face moisture migration between units during the settling period when new construction materials shrink and gaps develop. For Ashburn homeowners, environmental testing serves as both a health investigation tool and a builder accountability mechanism—chain-of-custody laboratory data transforms subjective complaints into documented conditions that warranty claims, developer negotiations, and if necessary, litigation require.`,
+      `Our trained inspectors have quantified elevated formaldehyde concentrations from imported kitchen cabinetry in Brambleton homes less than two years old, documented Stachybotrys contamination behind drywall in Broadlands homes where window flashing failures allowed chronic water intrusion, and traced persistent respiratory symptoms in Ashburn Farm families to mold-contaminated HVAC coils in builder-installed systems. Near Loudoun Station Metro and One Loudoun, townhome developments with shared walls face moisture migration between units during the settling period when new construction materials shrink and gaps develop. For Ashburn homeowners, environmental testing serves as both a health investigation tool and a builder accountability mechanism—chain-of-custody laboratory data transforms subjective complaints into documented conditions that warranty claims, developer negotiations, and if necessary, litigation require.`,
     ],
     localContext: `Ashburn\`s predominantly new construction housing stock shifts environmental testing focus from legacy hazardous materials to modern challenges—VOC off-gassing, construction defect moisture intrusion, sealed-environment mold growth, and builder warranty documentation requirements.`,
   },
   processSteps: [
     {
       title: 'New Construction Risk Assessment',
-      description: `Our certified inspector evaluates your Ashburn home against construction date, builder, material types, HVAC configuration, and reported symptoms. For new construction, we focus on common defect patterns—window flashing, grading, sealant failure—and identify rooms with the highest concentration of VOC-emitting materials. Builder warranty timelines inform documentation urgency.`,
+      description: `Our trained inspector evaluates your Ashburn home against construction date, builder, material types, HVAC configuration, and reported symptoms. For new construction, we focus on common defect patterns—window flashing, grading, sealant failure—and identify rooms with the highest concentration of VOC-emitting materials. Builder warranty timelines inform documentation urgency.`,
       timeframe: 'Hours 1-2',
     },
     {
@@ -69,7 +69,7 @@ export const content: CityServiceContent = {
     },
   ],
   equipmentSection: {
-    headline: 'Certified Environmental Testing Equipment for Ashburn Properties',
+    headline: 'Trained Environmental Testing Equipment for Ashburn Properties',
     equipment: [
       {
         name: 'Zefon Bio-Pump Plus Air Sampler',

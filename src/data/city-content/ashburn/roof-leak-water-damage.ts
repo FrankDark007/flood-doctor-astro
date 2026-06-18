@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Ashburn, VA | Flood Doctor',
-    description: `Ashburn roof leak water damage experts. Serving Broadlands, Brambleton & One Loudoun. New construction defect specialists. Warranty documentation. Call (877) 497-0007.`,
+    description: `Ashburn roof leak water damage specialists. Serving Broadlands, Brambleton & One Loudoun. New construction defect specialists. Warranty documentation. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Ashburn, Virginia',
   introSection: {
-    headline: 'New Construction Roof Leak Expertise for Ashburn Homes',
+    headline: 'New Construction Roof Leak Experience for Ashburn Homes',
     paragraphs: [
       `Ashburn homes built during the 2000s and 2010s feature roofing systems that should not be leaking yet—but many are. Builder-installed roofing on Broadlands colonials, Brambleton townhomes, and Lansdowne community homes sometimes exhibits installation defects that manifest within the first decade: improperly lapped shingles, insufficient flashing at roof-wall junctions, pipe boots installed without proper sealant, and valley metal that was bent instead of properly formed. These defects create leaks that Ashburn homeowners attribute to storm damage when the real cause is construction quality that did not meet manufacturer specifications.`,
       `The implications extend beyond water damage into warranty territory. Virginia builder structural warranties typically cover 10 years, and roof defects that cause water intrusion into the home structure may qualify for warranty claims if documented properly. Many Ashburn homeowners do not realize their 8-year-old roof leak may be a warrantable construction defect rather than an insurance claim for weather damage. Flood Doctor brings builder defect awareness to every Ashburn roof leak assessment near One Loudoun and Belmont Country Club, documenting conditions that support warranty negotiations while simultaneously providing the emergency tarping, interior drying, and ceiling restoration that protects your home and family from the ongoing damage a leaking roof causes in the Loudoun County climate.`,
     ],
-    localContext: `Ashburn's new construction roofing sometimes exhibits installation defects that create leaks within the warranty period—requiring restoration expertise that addresses both the immediate damage and the warranty documentation needed to hold builders accountable.`,
+    localContext: `Ashburn's new construction roofing sometimes exhibits installation defects that create leaks within the warranty period—requiring restoration experience that addresses both the immediate damage and the warranty documentation needed to hold builders accountable.`,
   },
   processSteps: [
     {
       title: 'Rapid Ashburn Response',
-      description: `Call (877) 497-0007 and our Loudoun County crews respond within 30 minutes. We assess the interior damage and trace the leak to its roof-level source. For homes under builder warranty (typically less than 10 years), we evaluate whether the failure indicates a construction defect.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Loudoun County crews respond as quickly as available crews can safely arrive. We assess the interior damage and trace the leak to its roof-level source. For homes under builder warranty (typically less than 10 years), we evaluate whether the failure indicates a construction defect.`,
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Defect-Aware Roof Assessment & Tarping',
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Cameron Chase',
       'University Center',
     ],
-    responseTime: '30-minute emergency response to all Ashburn neighborhoods. Our Loudoun County crews arrive with tarping, drying, and warranty documentation equipment.',
+    responseTime: 'rapid emergency response to all Ashburn neighborhoods. Our Loudoun County crews arrive with tarping, drying, and warranty documentation equipment.',
   },
   faqs: [
     {

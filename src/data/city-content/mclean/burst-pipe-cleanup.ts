@@ -21,13 +21,13 @@ Standard drying does not apply when protecting two hundred thousand dollars in c
   processSteps: [
     {
       title: 'Zone-Specific Estate Dispatch',
-      description: 'Call (877) 497-0007. Our crews carry manifold diagnostic tools, FLIR thermal cameras, and Injectidry wall-injection systems for millwork preservation, positioned along Route 123 and the George Washington Parkway for rapid deployment to Langley, Chesterbrook, and The Reserve. While en route, we walk you through locating your manifold closet so you can attempt zone isolation before we arrive.',
-      timeframe: 'Within 30 minutes',
+      description: 'Call (877) 497-0007. Our crews carry manifold diagnostic tools, FLIR thermal cameras, and Injectidry wall-injection systems for millwork preservation, placed along Route 123 and the George Washington Parkway for rapid deployment to Langley, Chesterbrook, and The Reserve. While en route, we walk you through locating your manifold closet so you can attempt zone isolation before we arrive.',
+      timeframe: 'Emergency dispatch',
     },
     {
       title: 'Manifold Leak Isolation & Zone Pressure Testing',
       description: 'We locate the manifold panel, connect a pressure gauge to individual zone valves, and pressure-test each line to identify which run has failed. The broken zone gets shut off while every other zone stays live — your family keeps water to unaffected bathrooms, kitchen, and laundry during multi-day restorations.',
-      timeframe: 'First 30 minutes on-site',
+      timeframe: 'Initial stabilization on-site',
     },
     {
       title: 'Thermal Imaging Damage Mapping',
@@ -46,7 +46,7 @@ Standard drying does not apply when protecting two hundred thousand dollars in c
     },
     {
       title: 'Drying Verification & Insurance Documentation',
-      description: 'Drying is complete when pin-meter readings at depth confirm moisture content has returned to IICRC dry standard for each material. We take readings at multiple depths in hardwood, behind millwork through discrete sensor ports, and inside wall cavities using extended-probe meters. Daily drying logs record readings, equipment placement, ambient conditions, and photos — the submission package McLean adjusters expect for full coverage approval.',
+      description: 'Drying is complete when pin-meter readings at depth confirm moisture content has returned to industry dry standard for each material. We take readings at multiple depths in hardwood, behind millwork through discrete sensor ports, and inside wall cavities using extended-probe meters. Daily drying logs record readings, equipment placement, ambient conditions, and photos — the submission package McLean adjusters expect for full coverage approval.',
       timeframe: 'Final day of drying cycle',
     },
   ],
@@ -79,7 +79,7 @@ Standard drying does not apply when protecting two hundred thousand dollars in c
       'Clearspring Manor',
       'Langley Farms',
     ],
-    responseTime: 'Thirty-minute emergency response to all McLean neighborhoods. During winter freeze events, we pre-position additional crews along Route 123 and the George Washington Parkway corridor. Estate-equipped trucks carry manifold diagnostic tools, Injectidry millwork preservation systems, and desiccant dehumidifiers.',
+    responseTime: 'Thirty-minute emergency response to all McLean neighborhoods. During winter freeze events, we prepare additional crews for service-area coverage along Route 123 and the George Washington Parkway corridor. Estate-equipped trucks carry manifold diagnostic tools, Injectidry millwork preservation systems, and desiccant dehumidifiers.',
   },
   faqs: [
     {
@@ -114,6 +114,6 @@ Standard drying does not apply when protecting two hundred thousand dollars in c
   ],
   finalCTA: {
     headline: 'Burst Pipe in Your McLean Estate?',
-    paragraph: 'Every minute of unaddressed water flow means deeper saturation into hardwood, millwork, and finished cavities that cost exponentially more to restore. Our estate-equipped crews carry manifold diagnostic tools, Injectidry millwork preservation systems, and the thermal imaging technology needed to map damage through multi-floor McLean properties. Shut off your water — or isolate the zone at your manifold panel if you can find it — and call immediately. We are positioned throughout McLean for thirty-minute emergency response to Langley, Chesterbrook, The Reserve, and every neighborhood in between.',
+    paragraph: 'Every minute of unaddressed water flow means deeper saturation into hardwood, millwork, and finished cavities that cost exponentially more to restore. Our estate-equipped crews carry manifold diagnostic tools, Injectidry millwork preservation systems, and the thermal imaging technology needed to map damage through multi-floor McLean properties. Shut off your water — or isolate the zone at your manifold panel if you can find it — and call immediately. We are serving McLean for thirty-minute emergency response to Langley, Chesterbrook, The Reserve, and every neighborhood in between.',
   },
 }
