@@ -114,7 +114,7 @@ const faqs = [
 
         <div class="hero-visual" aria-label="Flood Doctor restoration process illustration">
           <div class="visual-card visual-card-main">
-            <img src="/graphics/restoration-process.svg" alt="Four step restoration process: call, extract, dry, document" />
+            <img src="/graphics/restoration-process.svg" alt="Four step restoration process: call, extract, dry, document" width="960" height="720" />
           </div>
           <div class="status-card status-card-top">
             <span class="status-kicker">First priority</span>
@@ -287,8 +287,8 @@ const faqs = [
     --fd-muted: #53647a;
     --fd-soft: #eef6ff;
     --fd-soft-2: #f7fbff;
-    --fd-orange: #f97316;
-    --fd-orange-dark: #c2410c;
+    --fd-orange: #c2410c;
+    --fd-orange-dark: #9a3412;
     --fd-line: #d9e6f5;
     --fd-white: #ffffff;
     width: 100%;
@@ -724,9 +724,11 @@ const faqs = [
     display: flex;
     flex-wrap: wrap;
     gap: 0.65rem;
+    min-width: 0;
   }
 
   .area-list span {
+    min-width: 0;
     border: 1px solid #cfe0f4;
     border-radius: 999px;
     background: white;
@@ -734,6 +736,7 @@ const faqs = [
     padding: 0.55rem 0.78rem;
     font-size: 0.9rem;
     font-weight: 780;
+    overflow-wrap: anywhere;
   }
 
   .text-link {

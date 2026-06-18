@@ -22,8 +22,6 @@ const {
 } = Astro.props
 
 const isMarkOnly = variant === 'mark'
-const cityLabel = cityName && showCity ? ` ${cityName}` : ''
-const accessibleName = `Flood Doctor${cityLabel}`
 const Element = href ? 'a' : 'span'
 ---
 
@@ -33,7 +31,6 @@ const Element = href ? 'a' : 'span'
   data-variant={variant}
   data-tone={tone}
   data-size={size}
-  aria-label={accessibleName}
 >
   <img
     class="brand-logo__mark"
@@ -60,7 +57,7 @@ const Element = href ? 'a' : 'span'
 
 <style>
   .brand-logo {
-    --fd-blue: #1a73e8;
+    --fd-blue: #155fc0;
     --fd-navy: #0b1f3a;
     --fd-orange: #f97316;
     --fd-text: #0b1f3a;
@@ -75,6 +72,7 @@ const Element = href ? 'a' : 'span'
 
   .brand-logo[data-tone='dark'] {
     --fd-text: #ffffff;
+    --fd-blue: #60a5fa;
     --fd-muted: #cbd5e1;
   }
 
