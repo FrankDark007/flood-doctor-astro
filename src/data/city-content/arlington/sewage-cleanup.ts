@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Arlington, VA | Flood Doctor',
-    description: 'Arlington sewage cleanup experts. Multi-unit backup response, drain stack failures, HOA coordination. Biohazard certified. Call (877) 497-0007 for immediate response.',
+    description: 'Arlington sewage cleanup specialists. Multi-unit backup response, drain stack failures, HOA coordination. Biohazard trained. Call (877) 497-0007 for immediate response.',
   },
   h1: 'Sewage Cleanup in Arlington, Virginia',
   introSection: {
@@ -14,7 +14,7 @@ export const content: CityServiceContent = {
 Flood Doctor has responded to sewage emergencies throughout Arlington's vertical landscape for nearly two decades. We've extracted sewage from multi-floor backup events in Crystal City towers, cleaned contaminated units throughout Ballston condominiums, and restored sanitary conditions in the historic buildings of Courthouse and Lyon Village. When Arlington building managers face sewage emergencies affecting multiple units, they know the response requires more than a plumber with a snake.`,
       `Sewage cleanup differs fundamentally from water damage restoration. Category 3 (black water) contains bacteria, viruses, and pathogens that create immediate health hazards. Porous materials that contact sewage—carpet, padding, drywall below the contamination line—must be removed and disposed of as biohazard waste. Surfaces that remain require antimicrobial treatment. And in Arlington's high-rises, the complexity multiplies: multiple affected units, shared drainage systems that may recontaminate during cleanup, and building management coordination throughout.
 
-Our IICRC-certified biohazard cleanup crews understand that sewage emergencies in high-rises require coordinated response across all affected floors. We deploy teams to multiple units simultaneously, coordinate with plumbers on drain stack clearing, and ensure cleanup proceeds safely while the building's systems are being repaired.`,
+Our trained biohazard cleanup crews understand that sewage emergencies in high-rises require coordinated response across all affected floors. We deploy teams to multiple units simultaneously, coordinate with plumbers on drain stack clearing, and ensure cleanup proceeds safely while the building's systems are being repaired.`,
     ],
     localContext: `Arlington's high-rise density creates sewage backup patterns unique to vertical construction: drain stack blockages affecting entire building columns, multi-unit simultaneous contamination, and coordination requirements that single-family sewage cleanup never encounters. We've developed specialized protocols for these complex scenarios.`,
   },
@@ -22,7 +22,7 @@ Our IICRC-certified biohazard cleanup crews understand that sewage emergencies i
     {
       title: 'Immediate Emergency Response',
       description: 'When you call our Arlington hotline at (877) 497-0007 for a sewage emergency, we dispatch immediately with biohazard equipment and personal protective gear. For multi-unit high-rise backups, we send multiple crews to address all affected floors simultaneously.',
-      timeframe: 'Within 30 minutes',
+      timeframe: 'Initial response',
     },
     {
       title: 'Safety Assessment & Drainage Coordination',
@@ -59,7 +59,7 @@ Our IICRC-certified biohazard cleanup crews understand that sewage emergencies i
     {
       title: 'Aging Building Drainage Infrastructure',
       description: 'Many Arlington high-rises date from the 1970s-1990s, with original cast iron drain stacks that corrode, crack, and clog. Some buildings have known problem areas that back up repeatedly. Others experience first-time failures as decades-old infrastructure finally gives out.',
-      solution: 'We document backup patterns and infrastructure conditions that help building management plan preventive replacements. For buildings with recurring issues, we provide response priority and can pre-position equipment for faster future response.',
+      solution: 'We document backup patterns and infrastructure conditions that help building management plan preventive replacements. For buildings with recurring issues, we provide response priority planning and can identify equipment needs for future events.',
     },
     {
       title: 'Shared Drainage Responsibility Questions',
@@ -171,6 +171,6 @@ Our IICRC-certified biohazard cleanup crews understand that sewage emergencies i
   relatedBlogSlugs: ['first-24-hours-after-water-damage', 'water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: 'Sewage Emergency in Arlington?',
-    paragraph: `Sewage backup creates immediate health hazards—don't try to clean it yourself. Our biohazard-certified crews respond immediately with proper equipment and protocols. One call starts the professional cleanup that protects your health and your property.`,
+    paragraph: `Sewage backup creates immediate health hazards—don't try to clean it yourself. Our biohazard-trained crews respond immediately with proper equipment and protocols. One call starts the professional cleanup that protects your health and your property.`,
   },
 }

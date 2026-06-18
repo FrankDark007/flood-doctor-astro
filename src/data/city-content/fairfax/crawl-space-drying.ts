@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Fairfax, VA | Flood Doctor',
-    description: `Fairfax crawl space drying and encapsulation specialists. Serving Burke, Kings Park & Mantua. 1970s-90s home expertise. Sump pump solutions. Call (877) 497-0007.`,
+    description: `Fairfax crawl space drying and encapsulation specialists. Serving Burke, Kings Park & Mantua. 1970s-90s home experience. Sump pump solutions. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Fairfax, Virginia',
   introSection: {
@@ -137,7 +137,7 @@ export const content: CityServiceContent = {
       'Fair Lakes',
       'Robinson Landing',
     ],
-    responseTime: 'Same-day crawl space inspections throughout Fairfax. Emergency flooding response within 45 minutes to all neighborhoods from Burke Centre to Mantua.',
+    responseTime: 'Same-day crawl space inspections throughout Fairfax. Emergency flooding response as quickly as conditions allow to all neighborhoods from Burke Centre to Mantua.',
   },
   faqs: [
     {

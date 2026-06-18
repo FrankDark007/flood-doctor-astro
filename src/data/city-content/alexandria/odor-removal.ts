@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Alexandria, VA | Flood Doctor',
-    description: `Alexandria's odor elimination experts. Historic-safe treatment for musty basements, sewage odors & smoke damage in Old Town, Del Ray & Belle Haven. Call (877) 497-0007.`,
+    description: `Alexandria's odor elimination specialists. Historic-safe treatment for musty basements, sewage odors & smoke damage in Old Town, Del Ray & Belle Haven. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Alexandria, Virginia',
   introSection: {
@@ -14,14 +14,14 @@ export const content: CityServiceContent = {
 Flood Doctor has eliminated stubborn odors from Alexandria properties spanning every era of the city's construction history. We have resolved musty mold odors in Old Town Waterfront basements where moisture had been accumulating for years, neutralized sewage gases in Del Ray bungalows where deteriorated cast iron waste lines had been slowly leaking, and removed embedded smoke smell from the original plaster and timber framing of homes near the George Washington Masonic Memorial. Every treatment we perform in Alexandria accounts for the historic materials and aging infrastructure that make this city's odor challenges unique.`,
       `Effective odor elimination in Alexandria requires two distinct competencies: the chemistry to destroy odor molecules at the molecular level and the material knowledge to treat historic surfaces without causing additional damage. Ozone and thermal fogging — the most effective deodorization technologies available — must be applied with careful attention to historic plaster, original wood, and period-appropriate finishes that react differently than modern construction materials. Hydroxyl generators provide a gentler alternative that operates safely in occupied spaces, neutralizing airborne odor compounds while families remain in their Alexandria homes.
 
-Our technicians trace every odor to its source using borescopes that inspect inside wall cavities, moisture meters that identify hidden dampness feeding mold growth, and UV lights that reveal biological contamination invisible to the naked eye. In Alexandria, the source is frequently connected to the city's aging infrastructure — combined sewer lines, corroded cast iron pipes, and stone foundations that channel groundwater. Addressing the symptom without fixing the source guarantees the odor returns. We eliminate the molecules and identify the cause.`,
+Our technicians trace every odor to its source using borescopes that inspect inside wall cavities, moisture meters that identify hidden dampness feeding mold growth, and UV lights that reveal biological contamination invisible to the naked eye. In Alexandria, the source is frequently connected to the city's aging infrastructure — combined sewer lines, corroded cast iron pipes, and stone foundations that channel groundwater. Addressing the symptom without fixing the source commitments the odor returns. We eliminate the molecules and identify the cause.`,
     ],
     localContext: `Alexandria's combination of historic building materials, aging sewer infrastructure, and Potomac-adjacent water table conditions creates persistent odor challenges that require both advanced deodorization technology and deep knowledge of older construction methods.`,
   },
   processSteps: [
     {
       title: 'Historic-Aware Source Investigation',
-      description: `When you call (877) 497-0007, we schedule an assessment that examines your Alexandria property with both deodorization and preservation expertise. Using borescopes, moisture meters, and UV inspection, we trace odors to their source — whether hidden mold behind stone foundations in Old Town, deteriorated waste lines in Del Ray, or embedded smoke in Rosemont plaster walls.`,
+      description: `When you call (877) 497-0007, we schedule an assessment that examines your Alexandria property with both deodorization and preservation experience. Using borescopes, moisture meters, and UV inspection, we trace odors to their source — whether hidden mold behind stone foundations in Old Town, deteriorated waste lines in Del Ray, or embedded smoke in Rosemont plaster walls.`,
       timeframe: 'Initial visit',
     },
     {
@@ -126,7 +126,7 @@ Our technicians trace every odor to its source using borescopes that inspect ins
       'Cameron Station',
       'Eisenhower Valley',
     ],
-    responseTime: '30-minute emergency response to all Alexandria neighborhoods. For non-emergency odor assessments, we schedule at your convenience and arrive prepared for the specific building era and construction of your property.',
+    responseTime: 'prompt emergency response to all Alexandria neighborhoods. For non-emergency odor assessments, we schedule at your convenience and arrive prepared for the specific building era and construction of your property.',
   },
   faqs: [
     {
@@ -168,6 +168,6 @@ Our technicians trace every odor to its source using borescopes that inspect ins
   ],
   finalCTA: {
     headline: 'Stubborn Odors in Your Alexandria Home?',
-    paragraph: 'Historic properties trap odors in materials that consumer products cannot reach. Our Alexandria deodorization team combines molecular-level odor destruction with historic material expertise to eliminate musty, sewage, and smoke odors permanently. Call (877) 497-0007 for a professional assessment.',
+    paragraph: 'Historic properties trap odors in materials that consumer products cannot reach. Our Alexandria deodorization team combines molecular-level odor destruction with historic material experience to eliminate musty, sewage, and smoke odors permanently. Call (877) 497-0007 for a professional assessment.',
   },
 }

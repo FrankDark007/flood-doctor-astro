@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Arlington, VA | Flood Doctor',
-    description: `Arlington large loss restoration for high-rise offices, government contractor buildings & mixed-use towers. Dedicated project management for multi-million dollar projects. Call (877) 497-0007.`,
+    description: `Arlington large loss restoration for high-rise workspaces, government contractor buildings & mixed-use towers. Dedicated project management for multi-million dollar projects. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Arlington, Virginia',
   introSection: {
     headline: `Managing Complex, Multi-Million Dollar Restorations in Arlington's Urban Commercial Core`,
     paragraphs: [
-      `Arlington's high-rise office towers and dense commercial corridors generate large loss events of extraordinary complexity. A catastrophic riser pipe failure in a 25-story Rosslyn office building, a chiller plant malfunction flooding multiple floors of a Crystal City government contractor facility, or storm damage affecting an entire Ballston mixed-use development—these events produce restoration projects involving millions of dollars, dozens of displaced tenants, and months of coordinated recovery. They demand a restoration partner with construction-management-caliber project directors, the workforce to deploy scores of technicians simultaneously, and the insurance expertise to navigate commercial claims involving multiple carriers and coverage types.
+      `Arlington's high-rise commercial towers and dense commercial corridors generate large loss events of extraordinary complexity. A catastrophic riser pipe failure in a 25-story Rosslyn commercial building, a chiller plant malfunction flooding multiple floors of a Crystal City government contractor facility, or storm damage affecting an entire Ballston mixed-use development—these events produce restoration projects involving millions of dollars, dozens of displaced tenants, and months of coordinated recovery. They demand a restoration partner with construction-management-caliber project directors, the workforce to deploy scores of technicians simultaneously, and the insurance experience to navigate commercial claims involving multiple carriers and coverage types.
 
 Flood Doctor's large loss division has managed the most complex restoration projects in Arlington's commercial market. Our senior project directors have coordinated multi-floor restorations in Rosslyn towers, managed government contractor facility recoveries in the Ballston corridor, and delivered campus-scale projects in Pentagon City—earning the trust of Arlington's largest commercial property management firms through consistent on-time, on-budget execution.`,
       `Large loss projects in Arlington present unique challenges rooted in the county's urban density. Vertical water damage in high-rise buildings creates multi-floor restoration scopes where work on upper floors must be sequenced with lower-floor drying to prevent re-contamination. Dense tenant populations—sometimes 30 or more businesses in a single building—generate complex stakeholder matrices where every decision affects multiple parties. Building systems in Arlington's towers are interconnected in ways that make isolating damage difficult: a compromised HVAC system on affected floors can spread contaminants to unaffected areas if not managed properly.
@@ -41,7 +41,7 @@ Our project directors treat Arlington large loss events as construction manageme
     },
     {
       title: 'Phased Reconstruction',
-      description: 'Our construction division manages reconstruction floor-by-floor, returning tenants to restored spaces while work continues on remaining areas. Each tenant space is reconstructed to pre-loss specifications, with finish matching coordinated through building management records.',
+      description: 'Our construction division manages reconstruction floor-by-floor, returning tenants to restored spaces while work continues on remaining areas. Each tenant space is reconstructed to documented repair scope, with finish matching coordinated through building management records.',
       timeframe: 'Weeks 4-16+',
     },
     {
@@ -132,7 +132,7 @@ Our project directors treat Arlington large loss events as construction manageme
       'Columbia Pike',
       'Rosslyn-Ballston Corridor',
     ],
-    responseTime: 'Emergency stabilization teams deploy within 60 minutes to Arlington commercial properties. Full large loss mobilization scales within 8-12 hours, with project director on-site within 24 hours for project planning.',
+    responseTime: 'Emergency stabilization teams deploy as quickly as conditions allow to Arlington commercial properties. Full large loss mobilization scales within 8-12 hours, with project director on-site within 24 hours for project planning.',
   },
   faqs: [
     {
@@ -174,6 +174,6 @@ Our project directors treat Arlington large loss events as construction manageme
   ],
   finalCTA: {
     headline: 'Large Loss Event in Your Arlington Commercial Building?',
-    paragraph: `Multi-floor water damage in Arlington's high-rise environment demands immediate stabilization and long-term project management expertise. Our senior project directors have delivered the most complex restorations in Arlington's commercial market. One call mobilizes enterprise resources.`,
+    paragraph: `Multi-floor water damage in Arlington's high-rise environment demands immediate stabilization and long-term project management experience. Our senior project directors have delivered the most complex restorations in Arlington's commercial market. One call mobilizes enterprise resources.`,
   },
 }

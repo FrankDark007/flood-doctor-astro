@@ -9,12 +9,12 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Arlington's Underground Flooding Experts—From Condo Storage to Parking Structures`,
     paragraphs: [
-      `Basement flooding in Arlington rarely means just a basement. When underground parking at a Crystal City tower floods, dozens of vehicles sit in rising water while elevator machinery and electrical systems face imminent damage. When a Clarendon condo's storage level takes water, personal belongings from fifty units are at risk. When a Cherrydale rowhouse basement floods during a summer storm, the finished living space—often a rental unit or home office—requires complete restoration.
+      `Basement flooding in Arlington rarely means just a basement. When underground parking at a Crystal City tower floods, dozens of vehicles sit in rising water while elevator machinery and electrical systems face imminent damage. When a Clarendon condo's storage level takes water, personal belongings from fifty units are at risk. When a Cherrydale rowhouse basement floods during a summer storm, the finished living space—often a rental unit or home workspace—requires thorough restoration.
 
 Flood Doctor has responded to underground flooding emergencies throughout Arlington for nearly two decades. We've pumped out parking structures in the Pentagon City skyline, extracted water from finished basement apartments in Fairlington, and dried storage areas in Ballston high-rises where residents keep irreplaceable items. Our crews understand that "basement flooding" in Arlington means something different on every call.`,
       `Arlington's underground spaces face unique flooding pressures. The county's clay soil doesn't drain quickly—when summer storms dump two inches in an hour, that water has nowhere to go but into the lowest points of your building. Storm drains backing up into parking garages. Sump pumps overwhelmed by rising groundwater. Water infiltrating through foundation cracks that have developed over decades. These aren't occasional problems in Arlington; they're seasonal realities.
 
-Our IICRC-certified technicians bring industrial extraction capacity to every underground flooding call. For parking structures, we deploy truck-mounted systems that remove thousands of gallons per hour while coordinating with building management on vehicle relocation and infrastructure protection. For finished basements in townhomes and rowhouses, we focus on rapid extraction followed by precision drying that protects your investment.`,
+Our trained technicians bring industrial extraction capacity to every underground flooding call. For parking structures, we deploy truck-mounted systems that remove thousands of gallons per hour while coordinating with building management on vehicle relocation and infrastructure protection. For finished basements in townhomes and rowhouses, we focus on rapid extraction followed by precision drying that protects your investment.`,
     ],
     localContext: `Arlington's mix of high-rise parking structures, condo storage levels, and finished basement apartments requires specialized flooding response. From the towers of Rosslyn to the rowhouses of Lyon Village, we protect underground investments across the county with practical, building-specific mitigation.`,
   },
@@ -22,7 +22,7 @@ Our IICRC-certified technicians bring industrial extraction capacity to every un
     {
       title: '30-Minute Emergency Response',
       description: `When you call our Arlington hotline at (877) 497-0007, we dispatch immediately with equipment appropriate for your situation. Parking garage flood? Truck-mounted extraction. Finished basement apartment? Portable systems and protective equipment. We arrive prepared for Arlington's diverse underground spaces.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'Initial response',
     },
     {
       title: 'Safety Assessment & Infrastructure Check',
@@ -63,7 +63,7 @@ Our IICRC-certified technicians bring industrial extraction capacity to every un
     },
     {
       title: 'Finished Basement Apartments',
-      description: 'Many Arlington rowhouses and townhomes—particularly in Fairlington, Shirlington, and Columbia Pike—have finished basement apartments. These spaces often house tenants, home offices, or extended family. Flooding destroys flooring, drywall, and personal property while creating habitability concerns.',
+      description: 'Many Arlington rowhouses and townhomes—particularly in Fairlington, Shirlington, and Columbia Pike—have finished basement apartments. These spaces often house tenants, home workspaces, or extended family. Flooding destroys flooring, drywall, and personal property while creating habitability concerns.',
       solution: 'We treat finished basement apartments with the urgency of any occupied living space. Rapid extraction, immediate content protection, and precision drying preserve the space while providing documentation for both property owner and tenant claims.',
     },
     {
@@ -141,7 +141,7 @@ Our IICRC-certified technicians bring industrial extraction capacity to every un
       'Columbia Heights',
       'Nauck',
     ],
-    responseTime: '30-minute response to all Arlington neighborhoods. Our crews carry equipment for every underground flooding scenario—from high-rise parking structures to finished basement apartments.',
+    responseTime: 'prompt response to all Arlington neighborhoods. Our crews carry equipment for every underground flooding scenario—from high-rise parking structures to finished basement apartments.',
   },
   faqs: [
     {

@@ -9,7 +9,7 @@ export const content: CityServiceContent = {
   introSection: {
     headline: 'Historic Property Specialists & BAR-Compliant Reconstruction',
     paragraphs: [
-      `Alexandria's historic properties demand fire restoration expertise that respects architectural heritage while achieving complete smoke, soot, and structural damage remediation. From 18th-century Old Town rowhouses to Del Ray's Craftsman bungalows, our certified technicians understand how fire affects original plaster walls, heart pine flooring, and period woodwork. We coordinate with the Board of Architectural Review for exterior repairs, navigate insurance claims for historic construction cost premiums, and restore your property to pre-loss condition while preserving irreplaceable character.`,
+      `Alexandria's historic properties demand fire restoration experience that respects architectural heritage while achieving complete smoke, soot, and structural damage remediation. From 18th-century Old Town rowhouses to Del Ray's Craftsman bungalows, our trained technicians understand how fire affects original plaster walls, heart pine flooring, and period woodwork. We coordinate with the Board of Architectural Review for exterior repairs, navigate insurance claims for historic construction cost premiums, and restore your property to documented repair condition while preserving irreplaceable character.`,
     ],
     localContext: 'Fire damage requires immediate professional response—call (877) 497-0007 now for emergency board-up and restoration anywhere in Alexandria.',
   },
@@ -21,7 +21,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Emergency Board-Up & Property Securing',
-      description: 'Fire-damaged properties require immediate securing to prevent weather damage, vandalism, and unauthorized entry. Our emergency teams arrive within 60 minutes to board windows, secure doors, and install temporary roofing where fire has compromised structural integrity. These emergency measures protect your property while restoration planning proceeds.',
+      description: 'Fire-damaged properties require immediate securing to prevent weather damage, vandalism, and unauthorized entry. Our emergency teams arrive as quickly as conditions allow to board windows, secure doors, and install temporary roofing where fire has compromised structural integrity. These emergency measures protect your property while restoration planning proceeds.',
       timeframe: '',
     },
     {
@@ -56,7 +56,7 @@ export const content: CityServiceContent = {
     },
     {
       title: '24/7 Emergency Fire Damage Response',
-      description: 'Fire emergencies demand immediate response regardless of timing. Our 24/7 call center dispatches crews within 60 minutes to begin emergency board-up, securing, and damage assessment. We coordinate with fire departments, work around ongoing investigations, and begin restoration planning while fire scene processing continues.',
+      description: 'Fire emergencies demand immediate response regardless of timing. Our 24/7 call center dispatches crews as quickly as conditions allow to begin emergency board-up, securing, and damage assessment. We coordinate with fire departments, work around ongoing investigations, and begin restoration planning while fire scene processing continues.',
       timeframe: '',
     },
   ],
@@ -74,7 +74,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: 'How quickly can you respond to fire damage in Old Town?',
-      answer: 'Our emergency teams reach Old Town addresses within 45-60 minutes, arriving with board-up materials and damage assessment equipment. We coordinate with fire investigators, begin emergency securing immediately upon clearance, and start restoration planning while you process the immediate aftermath. Call (877) 497-0007 immediately after a fire for rapid response.',
+      answer: 'Our emergency teams prioritize Old Town addresses through our emergency dispatch process, arriving with board-up materials and damage assessment equipment. We coordinate with fire investigators, begin emergency securing immediately upon clearance, and start restoration planning while you process the immediate aftermath. Call (877) 497-0007 immediately after a fire for rapid response.',
     },
     {
       question: 'Do I need BAR approval for fire damage repairs in the historic district?',
@@ -86,7 +86,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Will insurance cover fire damage restoration costs for historic properties?',
-      answer: 'Standard fire insurance covers restoration to pre-loss condition, but adjusters may initially underestimate costs for historic properties. We document BAR compliance requirements, historic material sourcing costs, and specialized labor needed for period-appropriate restoration. This thorough approach typically secures appropriate coverage for comprehensive restoration rather than inadequate repairs.',
+      answer: 'Standard fire insurance covers restoration to documented repair condition, but adjusters may initially underestimate costs for historic properties. We document BAR compliance requirements, historic material sourcing costs, and specialized labor needed for period-appropriate restoration. This thorough approach typically secures appropriate coverage for comprehensive restoration rather than inadequate repairs.',
     },
     {
       question: 'What about water damage from firefighting?',
@@ -108,6 +108,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide', 'first-24-hours-after-water-damage'],
   finalCTA: {
     headline: '',
-    paragraph: `Fire damage to Alexandria's historic properties demands restoration expertise that combines emergency response speed with deep knowledge of historic construction and preservation requirements. Our certified teams understand the unique challenges of restoring fire-damaged properties in the Old & Historic District—from emergency board-up that protects original windows to reconstruction using period-appropriate materials and traditional techniques. From the moment flames are extinguished to final restoration completion, we protect your property investment while preserving Alexandria's irreplaceable architectural heritage.`,
+    paragraph: `Fire damage to Alexandria's historic properties demands restoration experience that combines emergency response speed with deep knowledge of historic construction and preservation requirements. Our trained teams understand the unique challenges of restoring fire-damaged properties in the Old & Historic District—from emergency board-up that protects original windows to reconstruction using period-appropriate materials and traditional techniques. From the moment flames are extinguished to final restoration completion, we protect your property investment while preserving Alexandria's irreplaceable architectural heritage.`,
   },
 }

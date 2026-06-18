@@ -16,13 +16,13 @@ Flood Doctor specializes in the multi-unit, high-rise restoration that defines A
 
 Our high-rise restoration protocols address the three-dimensional nature of these incidents. We trace water migration from source to every affected unit, deploy extraction and drying equipment simultaneously across all levels, and coordinate access through building security and management. For Arlington hotels near Rosslyn and Crystal City, we maintain discreet operations that protect brand reputation while returning rooms to revenue-generating status as quickly as possible.`,
     ],
-    localContext: `Arlington's high-rise apartment towers, luxury hotels, and condominium buildings require restoration expertise in vertical water migration, multi-unit coordination, and the complex insurance frameworks unique to multi-party properties.`,
+    localContext: `Arlington's high-rise apartment towers, luxury hotels, and condominium buildings require restoration experience in vertical water migration, multi-unit coordination, and the complex insurance frameworks unique to multi-party properties.`,
   },
   processSteps: [
     {
       title: `High-Rise Emergency Mobilization`,
       description: `Call (877) 497-0007 to deploy our multi-unit response team. We coordinate with building management for freight elevator access and security clearance while en route, ensuring equipment staging begins immediately upon arrival at your Arlington property.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `Initial response`,
     },
     {
       title: `Vertical Migration Assessment`,
@@ -143,7 +143,7 @@ Our high-rise restoration protocols address the three-dimensional nature of thes
       `Penrose`,
       `Westover`,
     ],
-    responseTime: `30-minute emergency response to all Arlington multi-unit properties. Our crews are positioned along the Metro corridor with high-rise equipment pre-loaded for immediate deployment to residential towers and hotels.`,
+    responseTime: `prompt emergency response to all Arlington multi-unit properties. Our service-area teams are available along the Metro corridor with high-rise equipment pre-loaded for immediate deployment to residential towers and hotels.`,
   },
   faqs: [
     {
@@ -177,6 +177,6 @@ Our high-rise restoration protocols address the three-dimensional nature of thes
   ],
   finalCTA: {
     headline: `Multi-Unit Water Emergency in Arlington?`,
-    paragraph: `Cascading water damage in high-rise buildings worsens every hour. Our multi-unit response team reaches any Arlington property within 30 minutes with the equipment and expertise to stop vertical migration and begin simultaneous restoration across all affected units. Call (877) 497-0007 immediately.`,
+    paragraph: `Cascading water damage in high-rise buildings worsens every hour. Our multi-unit response team reaches any Arlington property as quickly as conditions allow with the equipment and experience to stop vertical migration and begin simultaneous restoration across all affected units. Call (877) 497-0007 immediately.`,
   },
 }

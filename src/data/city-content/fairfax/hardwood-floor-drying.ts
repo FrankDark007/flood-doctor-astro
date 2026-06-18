@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Fairfax, VA | Save Your Floors | Flood Doctor',
-    description: `Fairfax hardwood floor drying specialists. Saving floors in Burke, Kings Park & Mantua. Split-level and colonial home expertise. Insurance billing included. Call (877) 497-0007.`,
+    description: `Fairfax hardwood floor drying specialists. Saving floors in Burke, Kings Park & Mantua. Split-level and colonial home experience. Insurance billing included. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Fairfax, Virginia',
   introSection: {
     headline: 'Saving Fairfax Family Home Hardwood Floors from Water Damage',
     paragraphs: [
       `Hardwood floors anchor the value and character of Fairfax family homes—oak flooring runs through colonial entryways in Mantua, across split-level living rooms in Kings Park, and throughout renovated great rooms in Burke Centre. When a washing machine supply line bursts in your Fairfax Station colonial, an ice dam drives water down an interior wall onto your Burke hardwood, or an HVAC condensate line overflows and soaks the first floor of your Fairfax City split-level, the flooring that your family walks on every day faces thousands of dollars in potential damage. Flood Doctor's specialized drying systems save Fairfax hardwood floors that other companies write off as replacements—preserving your home's value and sparing your family the weeks of disruption that full floor replacement demands.`,
-      `The common water damage scenarios in Fairfax homes share a theme: everyday appliances and aging infrastructure failing in homes occupied by busy families who may not notice a leak for hours. A dishwasher gasket failure in your Burke kitchen runs under the island and across 400 square feet of hardwood while the family is at school. A slow HVAC condensate leak in your Mantua colonial dampens the subfloor for weeks before cupping becomes visible. A burst pipe during a Kings Park freeze sends water cascading down a stairwell and across two levels of flooring. In every case, speed determines outcome. Our crews are stationed throughout Fairfax County specifically to provide the rapid response that turns a potential $15,000 floor replacement into a $3,000 drying job that saves the original hardwood.`,
+      `The common water damage scenarios in Fairfax homes share a theme: everyday appliances and aging infrastructure failing in homes occupied by busy families who may not notice a leak for hours. A dishwasher gasket failure in your Burke kitchen runs under the island and across 400 square feet of hardwood while the family is at school. A slow HVAC condensate leak in your Mantua colonial dampens the subfloor for weeks before cupping becomes visible. A burst pipe during a Kings Park freeze sends water cascading down a stairwell and across two levels of flooring. In every case, speed determines outcome. Our crews are serving Fairfax County specifically to provide the rapid response that turns a potential $15,000 floor replacement into a $3,000 drying job that saves the original hardwood.`,
     ],
     localContext: `Fairfax's 1970s-90s colonials, split-levels, and renovated family homes feature hardwood flooring where appliance failures and aging plumbing create the most common water damage scenarios—and where rapid drying saves thousands over replacement.`,
   },
   processSteps: [
     {
       title: 'Rapid Fairfax Response',
-      description: `Call (877) 497-0007 and our crews reach your Fairfax home within 30 minutes. We assess the hardwood species, measure moisture content at multiple points, and determine the extent of water migration—often further than the visible wet area, especially in Fairfax open floor plan renovations.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our crews reach your Fairfax home as quickly as conditions allow. We assess the hardwood species, measure moisture content at multiple points, and determine the extent of water migration—often further than the visible wet area, especially in Fairfax open floor plan renovations.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Thorough Water Extraction',
@@ -55,7 +55,7 @@ export const content: CityServiceContent = {
     {
       title: 'Washing Machine and Appliance Supply Line Bursts',
       description: `Rubber supply lines to washing machines, dishwashers, and refrigerators in Fairfax homes from the 1970s-90s fail without warning. A burst washing machine hose releases water at supply pressure—potentially hundreds of gallons before someone reaches the shutoff—flooding hardwood across open floor plans.`,
-      solution: 'Rapid extraction limits the water volume absorbed by hardwood. Our 30-minute response time means we arrive while many floors are still in the early stages of absorption. We recommend braided stainless steel supply line upgrades during restoration to prevent recurrence.',
+      solution: 'Rapid extraction limits the water volume absorbed by hardwood. Our prompt response time means we arrive while many floors are still in the early stages of absorption. We recommend braided stainless steel supply line upgrades during restoration to prevent recurrence.',
     },
     {
       title: 'HVAC Condensate Slow Leaks',
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Greenbriar',
       'Robinson Landing',
     ],
-    responseTime: '30-minute emergency response throughout Fairfax County. Our crews are positioned to reach Burke, Kings Park, Mantua, and Fairfax City before water damage becomes permanent floor damage.',
+    responseTime: 'prompt emergency response throughout Fairfax County. Our service-area teams are available to reach Burke, Kings Park, Mantua, and Fairfax City before water damage becomes permanent floor damage.',
   },
   faqs: [
     {

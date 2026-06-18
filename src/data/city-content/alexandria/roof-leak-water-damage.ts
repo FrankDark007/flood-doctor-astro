@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Alexandria, VA | Flood Doctor',
-    description: `Alexandria roof leak water damage with historic preservation expertise. Serving Old Town, Del Ray & Belle Haven. BAR-compliant repairs. Emergency tarping. Call (877) 497-0007.`,
+    description: `Alexandria roof leak water damage with historic preservation experience. Serving Old Town, Del Ray & Belle Haven. BAR-compliant repairs. Emergency tarping. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Alexandria, Virginia',
   introSection: {
@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Historic Property Emergency Response',
-      description: `Call (877) 497-0007 and our Alexandria crews respond within 30 minutes. For historic district properties near King Street and the Old Town Waterfront, we assess both the leak urgency and any BAR considerations for emergency exterior work. Interior protection begins immediately regardless of exterior permitting.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Alexandria crews respond as quickly as conditions allow. For historic district properties near King Street and the Old Town Waterfront, we assess both the leak urgency and any BAR considerations for emergency exterior work. Interior protection begins immediately regardless of exterior permitting.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Preservation-Sensitive Tarping',
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'North Ridge',
       'Warwick Village',
     ],
-    responseTime: '30-minute emergency response throughout Alexandria. Our crews carry historic-appropriate tarping and drying equipment for immediate deployment from Old Town to Kingstowne.',
+    responseTime: 'prompt emergency response throughout Alexandria. Our crews carry historic-appropriate tarping and drying equipment for immediate deployment from Old Town to Kingstowne.',
   },
   faqs: [
     {

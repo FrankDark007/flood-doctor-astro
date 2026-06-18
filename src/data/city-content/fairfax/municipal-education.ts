@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's trusted restoration for FCPS schools, city government buildings, and community centers. Experienced with Fairfax County procurement. Call (877) 497-0007.`,
+    description: `Fairfax's restoration support for FCPS schools, city government buildings, and community centers. Experienced with Fairfax County procurement. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Fairfax, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Fairfax sits at the heart of Fairfax County's educational infrastructure. Schools throughout Burke, Burke Centre, Kings Park, and Mantua serve the county's largest concentration of school-age families. George Mason University anchors the higher education presence. The City of Fairfax maintains its own municipal buildings, recreation centers, and community facilities independent of the county system. When water damage threatens any of these facilities, the impact radiates through a community built around accessible education and responsive public services.
 
-Flood Doctor has restored FCPS schools and Fairfax municipal buildings with the dual expertise these projects require. We navigate Fairfax County procurement procedures for county school projects and City of Fairfax requirements for municipal buildings—two distinct bureaucratic frameworks that most restoration companies fail to distinguish. Our crews manage asbestos in 1970s-era school buildings, coordinate with FCPS facilities management and city public works departments, and deliver documentation that satisfies both administrative oversight and the practical families who want their schools and community centers back in operation.`,
+Flood Doctor has restored FCPS schools and Fairfax municipal buildings with the dual experience these projects require. We navigate Fairfax County procurement procedures for county school projects and City of Fairfax requirements for municipal buildings—two distinct bureaucratic frameworks that most restoration companies fail to distinguish. Our crews manage asbestos in 1970s-era school buildings, coordinate with FCPS facilities management and city public works departments, and deliver documentation that satisfies both administrative oversight and the practical families who want their schools and community centers back in operation.`,
       `The 1970s-1990s construction of many Fairfax schools creates restoration challenges specific to this building era. Split-level and multi-wing school designs from this period feature complex roof geometries prone to leaking, original plumbing systems approaching failure, and HVAC configurations that distribute moisture problems through connected building sections. Gymnasium and cafeteria spaces have exposed structural elements and high ceilings that require different drying strategies than standard classrooms. Media centers and computer labs in Kings Park and Burke schools house technology infrastructure vulnerable to moisture damage.
 
 Beyond the technical challenges, Fairfax school restoration must accommodate one of the nation's largest school districts. FCPS operates under immense scrutiny from an educated parent population that monitors school conditions closely. Our documentation satisfies this scrutiny—detailed scope photographs, daily progress reports, air quality test results, and cost breakdowns that withstand parent inquiries and school board review. We deliver the information transparency that Fairfax families expect alongside the technical restoration that protects their children.`,
@@ -22,7 +22,7 @@ Beyond the technical challenges, Fairfax school restoration must accommodate one
     {
       title: `Emergency School and Municipal Response`,
       description: `Call (877) 497-0007 for immediate response. We contact FCPS facilities management or City of Fairfax public works during dispatch to coordinate building access and activate emergency procurement procedures appropriate to the specific governmental jurisdiction.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Within as quickly as conditions allow`,
     },
     {
       title: `Construction-Era Hazard Assessment`,
@@ -133,7 +133,7 @@ Beyond the technical challenges, Fairfax school restoration must accommodate one
       `Greenbriar`,
       `University Drive`,
     ],
-    responseTime: `45-minute emergency response to all Fairfax schools and municipal facilities. Our crews coordinate with FCPS security and City of Fairfax building access systems for immediate entry and restoration mobilization.`,
+    responseTime: `prompt emergency response to all Fairfax schools and municipal facilities. Our crews coordinate with FCPS security and City of Fairfax building access systems for immediate entry and restoration mobilization.`,
   },
   faqs: [
     {
@@ -166,6 +166,6 @@ Beyond the technical challenges, Fairfax school restoration must accommodate one
   ],
   finalCTA: {
     headline: `Fairfax School or Municipal Building Emergency?`,
-    paragraph: `Students and families depend on operational schools and public facilities. Our crews respond within 45 minutes with high-bay drying equipment, hazardous materials expertise, and the procurement documentation Fairfax jurisdictions require. Call (877) 497-0007 immediately.`,
+    paragraph: `Students and families depend on operational schools and public facilities. Our crews respond as quickly as conditions allow with high-bay drying equipment, hazardous materials experience, and the procurement documentation Fairfax jurisdictions require. Call (877) 497-0007 immediately.`,
   },
 }

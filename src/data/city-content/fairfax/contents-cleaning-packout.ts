@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Fairfax, VA | Flood Doctor',
-    description: `Fairfax's trusted contents restoration specialists. Professional pack-out & cleaning for family belongings after water, fire & mold damage. Burke, Mantua, Kings Park. Call (877) 497-0007.`,
+    description: `Fairfax's local contents restoration specialists. Professional pack-out & cleaning for family belongings after water, fire & mold damage. Burke, Mantua, Kings Park. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Fairfax, Virginia',
   introSection: {
@@ -21,12 +21,12 @@ At our climate-controlled facility, items receive treatment matched to their mat
   processSteps: [
     {
       title: 'Emergency Triage of Priority Items',
-      description: `Within 30 minutes of your call to (877) 497-0007, we arrive to identify time-sensitive items. Water-damaged documents, photos, and children's artwork are bagged for emergency freezing. Electronics are disconnected for corrosion prevention. Sentimental items that cannot wait for the full pack-out are stabilized immediately.`,
+      description: `During the initial response to (877) 497-0007, we arrive to identify time-sensitive items. Water-damaged documents, photos, and children's artwork are bagged for emergency freezing. Electronics are disconnected for corrosion prevention. Sentimental items that cannot wait for the full pack-out are stabilized immediately.`,
       timeframe: 'First 2 hours',
     },
     {
       title: 'Family-Focused Inventory',
-      description: 'Room by room, we photograph and catalogue every item. For Fairfax family homes, this includes children bedrooms, home offices, basement rec rooms, and stored collections. Each item receives condition notes and a barcode. We ask family members to identify priority sentimental items for enhanced documentation.',
+      description: 'Room by room, we photograph and catalogue every item. For Fairfax family homes, this includes children bedrooms, home workspaces, basement rec rooms, and stored collections. Each item receives condition notes and a barcode. We ask family members to identify priority sentimental items for enhanced documentation.',
       timeframe: 'Days 1-2',
     },
     {
@@ -58,8 +58,8 @@ At our climate-controlled facility, items receive treatment matched to their mat
     },
     {
       title: 'Home Office & Remote Work Equipment',
-      description: 'Many Fairfax families include work-from-home parents whose computers, monitors, printers, and files are essential for daily livelihood. Water damage to home office equipment creates both immediate financial loss and ongoing inability to work during the restoration period.',
-      solution: 'Home office electronics receive top-priority triage — disconnected and transported for corrosion treatment within hours. We can fast-track essential work equipment for early return while the full contents restoration proceeds. Detailed documentation supports replacement claims for non-restorable equipment.',
+      description: 'Many Fairfax families include work-from-home parents whose computers, monitors, printers, and files are essential for daily livelihood. Water damage to home workspace equipment creates both immediate financial loss and ongoing inability to work during the restoration period.',
+      solution: 'Home workspace electronics receive top-priority triage — disconnected and transported for corrosion treatment promptly. We can fast-track essential work equipment for early return while the full contents restoration proceeds. Detailed documentation supports replacement claims for non-restorable equipment.',
     },
     {
       title: 'Stored Collections & Holiday Decorations',
@@ -95,7 +95,7 @@ At our climate-controlled facility, items receive treatment matched to their mat
         purpose: 'Barcode system with photo documentation and online portal access — track every item your family owns from pack-out through restoration and return',
       },
     ],
-    localNote: 'Our facility handles the variety of belongings found in Fairfax family homes — from children toys and school papers to home office electronics and basement rec room equipment. Every item type has appropriate treatment protocols.',
+    localNote: 'Our facility handles the variety of belongings found in Fairfax family homes — from children toys and school papers to home workspace electronics and basement rec room equipment. Every item type has appropriate treatment protocols.',
   },
   pricingSection: {
     headline: 'Contents Restoration Costs in Fairfax',
@@ -106,7 +106,7 @@ At our climate-controlled facility, items receive treatment matched to their mat
       'Storage duration — longer structural restoration timelines extend climate-controlled storage periods and associated costs',
       'Documentation complexity — detailed sentimental item documentation and enhanced photography for high-value claims add assessment time',
     ],
-    cta: `Call (877) 497-0007 for immediate contents assessment. We triage time-sensitive items within hours and provide clear estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We triage time-sensitive items promptly and provide clear estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -124,7 +124,7 @@ At our climate-controlled facility, items receive treatment matched to their mat
       'Greenbriar',
       'Fair Lakes',
     ],
-    responseTime: '30-minute emergency response for priority item stabilization in all Fairfax neighborhoods. Full pack-out scheduling works around your family needs and structural restoration timeline.',
+    responseTime: 'prompt emergency response for priority item stabilization in all Fairfax neighborhoods. Full pack-out scheduling works around your family needs and structural restoration timeline.',
   },
   faqs: [
     {
@@ -133,7 +133,7 @@ At our climate-controlled facility, items receive treatment matched to their mat
     },
     {
       question: 'What about gaming consoles and electronics from the rec room?',
-      answer: 'Electronics receive priority triage. We disconnect, document, and transport water-exposed devices to our facility within hours for component-level circuit board cleaning and corrosion treatment. Gaming consoles, computers, and home theater equipment can often be fully restored when treatment begins within 48-72 hours.',
+      answer: 'Electronics receive priority triage. We disconnect, document, and transport water-exposed devices to our facility promptly for component-level circuit board cleaning and corrosion treatment. Gaming consoles, computers, and home theater equipment can often be fully restored when treatment begins within 48-72 hours.',
     },
     {
       question: 'How long will my belongings be in your facility?',
@@ -141,7 +141,7 @@ At our climate-controlled facility, items receive treatment matched to their mat
     },
     {
       question: 'Does insurance cover contents restoration?',
-      answer: 'Yes. Insurance carriers prefer professional restoration over full replacement because it costs significantly less. Contents cleaning and pack-out are standard covered expenses after covered loss events. We handle documentation and direct billing — you do not need to manage the paperwork.',
+      answer: 'Yes. Insurance carriers prefer professional restoration over full replacement because it costs significantly less. Contents cleaning and pack-out are standard covered expenses after covered loss events. We handle documentation and claim documentation — you do not need to manage the paperwork.',
     },
     {
       question: 'What if something cannot be restored?',
@@ -153,7 +153,7 @@ At our climate-controlled facility, items receive treatment matched to their mat
     },
     {
       question: 'How quickly can you respond to start the pack-out?',
-      answer: 'We arrive within 30 minutes for emergency triage of time-sensitive items. The full systematic pack-out begins the same day or next morning depending on the scope. For basement flood scenarios common in Fairfax, immediate triage often saves items that would be lost with even a 24-hour delay.',
+      answer: 'We arrive as quickly as conditions allow for emergency triage of time-sensitive items. The full systematic pack-out begins the same day or next morning depending on the scope. For basement flood scenarios common in Fairfax, immediate triage often saves items that would be lost with even a 24-hour delay.',
     },
   ],
   relatedBlogSlugs: [
@@ -162,6 +162,6 @@ At our climate-controlled facility, items receive treatment matched to their mat
   ],
   finalCTA: {
     headline: 'Family Belongings at Risk After Water Damage?',
-    paragraph: 'Documents, photographs, and electronics suffer irreversible damage with every hour of delay. Our Fairfax contents team responds within 30 minutes to stabilize time-sensitive items and begins the professional pack-out that protects everything your family treasures. Call (877) 497-0007 now.',
+    paragraph: 'Documents, photographs, and electronics suffer irreversible damage with every hour of delay. Our Fairfax contents team responds as quickly as conditions allow to stabilize time-sensitive items and begins the professional pack-out that protects everything your family treasures. Call (877) 497-0007 now.',
   },
 }

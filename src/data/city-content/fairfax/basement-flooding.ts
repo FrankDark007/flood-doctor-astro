@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Basement Flooding Repair in Fairfax, VA | Flood Doctor',
-    description: 'Fairfax basement flooding experts. Split-level and colonial basement specialists serving Burke, Kings Park & Mantua. Sump pump failures fixed fast. (877) 497-0007.',
+    description: 'Fairfax basement flooding specialists. Split-level and colonial basement specialists serving Burke, Kings Park & Mantua. Sump pump failures fixed fast. (877) 497-0007.',
   },
   h1: 'Basement Flooding Repair in Fairfax, Virginia',
   introSection: {
@@ -27,7 +27,7 @@ Our basement flooding response isn't just about pumping water. We identify why i
     {
       title: 'Water Source Identification',
       description: 'Before pumping water, we identify the source. Is it sump pump failure? Foundation seepage? Burst pipe from the floor above? In Fairfax split-levels, water often travels from upper levels down to the basement. Knowing the source determines the extraction approach and prevents misdiagnosis.',
-      timeframe: 'First 15 minutes',
+      timeframe: 'Initial onsite phase',
     },
     {
       title: 'Rapid Water Extraction',
@@ -73,8 +73,8 @@ Our basement flooding response isn't just about pumping water. We identify why i
     },
     {
       title: 'Finished Basement Value Protection',
-      description: 'Many Fairfax families have invested $20,000-$50,000 finishing their basements—adding bedrooms, playrooms, or home offices. When these spaces flood, the financial and functional impact is significant. Drywall, carpet, and built-ins represent substantial investment worth protecting.',
-      solution: `We prioritize saving finished materials when possible. Carpet can often be dried and saved if we respond within hours. Drywall can be dried without replacement using specialized techniques. We save what's salvageable and clearly identify what needs replacement.`,
+      description: 'Many Fairfax families have invested $20,000-$50,000 finishing their basements—adding bedrooms, playrooms, or home workspaces. When these spaces flood, the financial and functional impact is significant. Drywall, carpet, and built-ins represent substantial investment worth protecting.',
+      solution: `We prioritize saving finished materials when possible. Carpet can often be dried and saved if we respond promptly. Drywall can be dried without replacement using specialized techniques. We save what's salvageable and clearly identify what needs replacement.`,
     },
     {
       title: 'Combined Utility and Living Spaces',
@@ -151,7 +151,7 @@ Our basement flooding response isn't just about pumping water. We identify why i
       'Popes Head',
       'Fairfax Towne Center',
     ],
-    responseTime: 'Emergency response 24/7 to all Fairfax neighborhoods. Our crews reach Burke to Fairfax Station, Mantua to Kings Park within 45 minutes.',
+    responseTime: 'Emergency response 24/7 to all Fairfax neighborhoods. Our crews reach Burke to Fairfax Station, Mantua to Kings Park as quickly as conditions allow.',
   },
   faqs: [
     {

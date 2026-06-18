@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's HIPAA-compliant healthcare restoration experts. Serving medical offices, clinics, and urgent care centers near GMU and Burke Centre. Call (877) 497-0007.`,
+    description: `Fairfax's HIPAA-compliant healthcare restoration specialists. Serving medical workspaces, clinics, and urgent care centers near GMU and Burke Centre. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Fairfax, Virginia`,
   introSection: {
     headline: `Dependable Healthcare Restoration for Fairfax's Medical Community`,
     paragraphs: [
-      `Fairfax anchors a sprawling suburban healthcare network serving families across central Fairfax County. Medical offices cluster near Fairfax Corner and along Route 50, urgent care centers serve the Burke and Burke Centre communities, and specialty practices operate in professional parks throughout Kings Park and Mantua. George Mason University's campus health facilities add another layer to the healthcare infrastructure. When water damage disrupts these practices, thousands of families lose access to the primary care, pediatric, and specialty services they depend on for routine and urgent medical needs.
+      `Fairfax anchors a sprawling suburban healthcare network serving families across central Fairfax County. Medical workspaces cluster near Fairfax Corner and along Route 50, urgent care centers serve the Burke and Burke Centre communities, and specialty practices operate in professional parks throughout Kings Park and Mantua. George Mason University's campus health facilities add another layer to the healthcare infrastructure. When water damage disrupts these practices, thousands of families lose access to the primary care, pediatric, and specialty services they depend on for routine and urgent medical needs.
 
 Flood Doctor provides HIPAA-compliant restoration calibrated for Fairfax's suburban medical landscape. Unlike urban environments with high-rise complexity, Fairfax healthcare facilities typically occupy single-story or low-rise professional buildings where water damage from roof leaks, HVAC failures, and plumbing bursts spreads horizontally across multiple treatment rooms and shared hallways. Our ICRA-trained crews contain and restore these facilities efficiently, understanding that a Fairfax family practice cannot redirect patients to another location the way a hospital system can redistribute patient volume.`,
-      `The practical, family-oriented character of Fairfax healthcare extends to how restoration must be approached. Pediatric offices in Burke Centre need assurance that air quality meets children's health standards. OB/GYN practices near Fairfax Station require restoration that accounts for immunocompromised patient populations. Family dental offices along Old Town Fairfax's commercial district house digital imaging equipment and sterilization systems sensitive to moisture fluctuations. Each practice type demands specific restoration protocols within the broader HIPAA and ICRA compliance framework.
+      `The practical, family-oriented character of Fairfax healthcare extends to how restoration must be approached. Pediatric workspaces in Burke Centre need assurance that air quality meets children's health standards. OB/GYN practices near Fairfax Station require restoration that accounts for immunocompromised patient populations. Family dental workspaces along Old Town Fairfax's commercial district house digital imaging equipment and sterilization systems sensitive to moisture fluctuations. Each practice type demands specific restoration protocols within the broader HIPAA and ICRA compliance framework.
 
-Our Fairfax healthcare team adapts to these varied requirements. We coordinate with each practice's clinical staff to understand their specific patient population concerns, equipment sensitivities, and scheduling constraints. Restoration plans account for the after-school rush at pediatric offices, the surgical schedules at outpatient centers, and the laboratory processing windows at diagnostic facilities. The goal is always restoring full operations as quickly as safely possible—because Fairfax families need their doctors back in business.`,
+Our Fairfax healthcare team adapts to these varied requirements. We coordinate with each practice's clinical staff to understand their specific patient population concerns, equipment sensitivities, and scheduling constraints. Restoration plans account for the after-school rush at pediatric workspaces, the surgical schedules at outpatient centers, and the laboratory processing windows at diagnostic facilities. The goal is always restoring full operations as quickly as safely possible—because Fairfax families need their doctors back in business.`,
     ],
     localContext: `Fairfax's suburban medical network—serving families through standalone practices and professional park clinics—requires restoration that addresses the practical concerns of community healthcare providers while maintaining HIPAA and infection control standards.`,
   },
   processSteps: [
     {
       title: `Suburban Healthcare Emergency Response`,
-      description: `Call (877) 497-0007 for immediate medical facility response. Our Fairfax crews deploy with ICRA containment and HEPA filtration to medical offices throughout Fairfax City, Burke, Kings Park, and Mantua, arriving with equipment configured for the single-story professional buildings typical in this area.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate medical facility response. Our Fairfax crews deploy with ICRA containment and HEPA filtration to medical workspaces throughout Fairfax City, Burke, Kings Park, and Mantua, arriving with equipment configured for the single-story professional buildings typical in this area.`,
+      timeframe: `Initial response`,
     },
     {
       title: `Practice-Specific Clinical Assessment`,
@@ -53,22 +53,22 @@ Our Fairfax healthcare team adapts to these varied requirements. We coordinate w
   localChallenges: [
     {
       title: `HVAC System Failures in Professional Buildings`,
-      description: `Fairfax medical professional parks feature shared HVAC systems serving multiple tenant practices. Condensate line failures, cooling coil leaks, and rooftop unit malfunctions introduce water into ceiling plenums that distribute moisture across several medical offices simultaneously.`,
+      description: `Fairfax medical professional parks feature shared HVAC systems serving multiple tenant practices. Condensate line failures, cooling coil leaks, and rooftop unit malfunctions introduce water into ceiling plenums that distribute moisture across several medical workspaces simultaneously.`,
       solution: `We assess the full HVAC system impact across all affected tenants, coordinating with building management for system access. Ceiling plenum drying prevents hidden mold growth that would compromise healthcare air quality standards across multiple practices.`,
     },
     {
       title: `Suburban Flooding in Low-Lying Medical Parks`,
-      description: `Medical office parks near Burke Lake and in the Kings Park area sit in drainage paths where stormwater overwhelms suburban infrastructure. Ground-floor medical spaces flood during heavy rain events, contaminating clinical areas and destroying equipment at floor level.`,
+      description: `Medical business parks near Burke Lake and in the Kings Park area sit in drainage paths where stormwater overwhelms suburban infrastructure. Ground-floor medical spaces flood during heavy rain events, contaminating clinical areas and destroying equipment at floor level.`,
       solution: `We deploy rapid extraction to minimize contamination exposure in clinical spaces. Water source classification determines whether biohazard protocols are needed. Our documentation supports insurance claims that distinguish between building maintenance failures and act-of-nature events.`,
     },
     {
       title: `Pediatric and Vulnerable Population Air Quality`,
-      description: `Fairfax's concentration of pediatric practices, allergy clinics, and OB/GYN offices in the Burke Centre and Fairfax City areas serves patient populations with heightened sensitivity to air quality. Parents expect absolute assurance that restored spaces are safe for their children.`,
+      description: `Fairfax's concentration of pediatric practices, allergy clinics, and OB/GYN workspaces in the Burke Centre and Fairfax City areas serves patient populations with heightened sensitivity to air quality. Parents expect absolute assurance that restored spaces are safe for their children.`,
       solution: `We conduct enhanced air quality testing meeting EPA standards for sensitive populations. Testing includes comprehensive mold spore analysis, particulate counts, and VOC measurements. Results are documented for parent inquiries and posted at practice discretion.`,
     },
     {
       title: `Sump Pump Failures in Split-Level Medical Buildings`,
-      description: `Medical offices in converted residential buildings and older Fairfax commercial properties rely on sump pumps for lower-level water management. Pump failures during storms flood lower-level treatment rooms, records storage, and equipment areas in Mantua and Fairfax Station practices.`,
+      description: `Medical workspaces in converted residential buildings and older Fairfax commercial properties rely on sump pumps for lower-level water management. Pump failures during storms flood lower-level treatment rooms, records storage, and equipment areas in Mantua and Fairfax Station practices.`,
       solution: `Immediate extraction addresses active flooding while we document the sump pump failure for insurance purposes. We recommend sump pump upgrades with battery backup systems and recommend relocating critical medical equipment and records to upper levels when feasible.`,
     },
   ],
@@ -103,7 +103,7 @@ Our Fairfax healthcare team adapts to these varied requirements. We coordinate w
         purpose: `Continuous air quality and humidity tracking with data logging for healthcare compliance records and parent communication`,
       },
     ],
-    localNote: `Our Fairfax healthcare response vehicles carry equipment sized for suburban professional park medical offices, including compact HEPA units for treatment rooms and shared-system detection equipment for multi-tenant building HVAC issues.`,
+    localNote: `Our Fairfax healthcare response vehicles carry equipment sized for suburban professional park medical workspaces, including compact HEPA units for treatment rooms and shared-system detection equipment for multi-tenant building HVAC issues.`,
   },
   pricingSection: {
     headline: `Healthcare Facility Restoration Costs in Fairfax`,
@@ -115,7 +115,7 @@ Our Fairfax healthcare team adapts to these varied requirements. We coordinate w
       `Clinical scheduling impact—accelerated timelines for high-volume practices require additional crew deployment`,
       `Pharmaceutical and records protection—chain-of-custody documentation and specialized handling for controlled substances and PHI`,
     ],
-    cta: `Call (877) 497-0007 for a free emergency healthcare assessment. We coordinate with your practice manager and insurance carrier for streamlined Fairfax medical office restoration.`,
+    cta: `Call (877) 497-0007 for a free emergency healthcare assessment. We coordinate with your practice manager and insurance carrier for streamlined Fairfax medical workspace restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -133,12 +133,12 @@ Our Fairfax healthcare team adapts to these varied requirements. We coordinate w
       `Route 50 Corridor`,
       `Fair Oaks`,
     ],
-    responseTime: `30-minute emergency response to all Fairfax healthcare facilities. Our crews are stationed throughout central Fairfax County for rapid deployment to medical offices in Burke, Fairfax City, and surrounding professional parks.`,
+    responseTime: `prompt emergency response to all Fairfax healthcare facilities. Our crews are serving central Fairfax County for rapid deployment to medical workspaces in Burke, Fairfax City, and surrounding professional parks.`,
   },
   faqs: [
     {
-      question: `How quickly can you restore our Fairfax pediatric office?`,
-      answer: `We prioritize treatment rooms for accelerated restoration and deploy enhanced air quality monitoring for pediatric environments. Most Fairfax medical offices with moderate water damage are restored within 4-6 days, with treatment rooms returning to service earlier through phased clearance.`,
+      question: `How quickly can you restore our Fairfax pediatric workspace?`,
+      answer: `We prioritize treatment rooms for accelerated restoration and deploy enhanced air quality monitoring for pediatric environments. Most Fairfax medical workspaces with moderate water damage are restored within 4-6 days, with treatment rooms returning to service earlier through phased clearance.`,
     },
     {
       question: `Can you handle shared HVAC system water damage in our medical building?`,
@@ -166,6 +166,6 @@ Our Fairfax healthcare team adapts to these varied requirements. We coordinate w
   ],
   finalCTA: {
     headline: `Fairfax Medical Practice Emergency?`,
-    paragraph: `Your patients depend on accessible healthcare. Our HIPAA-compliant crews restore Fairfax medical offices within days, not weeks, with air quality standards that protect every patient population. Call (877) 497-0007 for immediate response.`,
+    paragraph: `Your patients depend on accessible healthcare. Our HIPAA-compliant crews restore Fairfax medical workspaces within days, not weeks, with air quality standards that protect every patient population. Call (877) 497-0007 for immediate response.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Arlington, VA | Flood Doctor',
-    description: `Arlington's contents restoration experts for condos, rowhouses & apartments. Professional pack-out, cleaning & storage with HOA coordination. Call (877) 497-0007.`,
+    description: `Arlington's contents restoration specialists for condos, rowhouses & apartments. Professional pack-out, cleaning & storage with HOA coordination. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Arlington, Virginia',
   introSection: {
@@ -12,7 +12,7 @@ export const content: CityServiceContent = {
       `Contents pack-out in Arlington's urban environment presents logistical challenges that suburban restoration companies never face. Moving a Rosslyn high-rise condo's worth of water-damaged belongings requires elevator coordination, loading dock scheduling, and careful navigation through hallways shared with other residents. Packing out a Clarendon rowhouse means working through narrow stairways and tight doorways with furniture that barely fit when it was moved in. A Crystal City apartment's contents must be removed without blocking fire exits or disrupting neighboring units during the process.
 
 Flood Doctor's contents team has executed hundreds of pack-outs across Arlington's diverse housing stock — from 25th-floor Pentagon City condos where every item traveled by elevator to Lyon Village bungalows where mid-century furniture required specialized handling. We have freeze-dried water-damaged legal documents from Courthouse-area townhomes, ultrasonically cleaned smoke-damaged kitchenware from Ballston apartments, and restored water-soaked electronics from Shirlington condos where upstairs leaks cascaded through multiple floors.`,
-      `The contents restoration process for Arlington properties begins with rapid triage — identifying items that need immediate stabilization versus those that can safely wait for the systematic pack-out. Water-damaged documents from your home office must be frozen within 48 hours to prevent permanent loss. Electronics exposed to water need corrosion prevention treatment within days. Family photographs saturated by a burst pipe can be saved only if freeze-drying begins before images bond permanently to their surfaces.
+      `The contents restoration process for Arlington properties begins with rapid triage — identifying items that need immediate stabilization versus those that can safely wait for the systematic pack-out. Water-damaged documents from your home workspace must be frozen within 48 hours to prevent permanent loss. Electronics exposed to water need corrosion prevention treatment within days. Family photographs saturated by a burst pipe can be saved only if freeze-drying begins before images bond permanently to their surfaces.
 
 Every item our team touches is photographed, catalogued with condition notes, and assigned a barcode that tracks it through our climate-controlled restoration facility. For Arlington condo and apartment residents, our detailed inventory also documents which items belong to your unit versus building common areas — a distinction that matters for insurance claims when water damage affects both. You monitor every item through our online portal, with real-time status updates from treatment through final delivery back to your restored home.`,
     ],
@@ -21,7 +21,7 @@ Every item our team touches is photographed, catalogued with condition notes, an
   processSteps: [
     {
       title: 'Emergency Triage & Priority Stabilization',
-      description: `Within 30 minutes of your call to (877) 497-0007, our team arrives to identify items needing immediate attention. Water-damaged documents are bagged for freezing. Electronics are disconnected and prepared for corrosion prevention. Photographs are carefully separated before bonding occurs. Priority items are stabilized while the full pack-out is planned.`,
+      description: `During the initial response to (877) 497-0007, our team arrives to identify items needing immediate attention. Water-damaged documents are bagged for freezing. Electronics are disconnected and prepared for corrosion prevention. Photographs are carefully separated before bonding occurs. Priority items are stabilized while the full pack-out is planned.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -68,8 +68,8 @@ Every item our team touches is photographed, catalogued with condition notes, an
     },
     {
       title: 'Rapid Electronics Corrosion in Water Events',
-      description: 'Arlington professionals work from home offices with computers, printers, and network equipment that represent significant investment. Water exposure causes circuit board corrosion that worsens hourly — electronics that could be saved at 24 hours may be unrecoverable at 72.',
-      solution: 'Electronics receive priority handling during triage. We disconnect, document, and transport water-exposed electronics to our facility within hours of the initial response. Component-level cleaning and anti-corrosion treatment begins immediately upon arrival.',
+      description: 'Arlington professionals work from home workspaces with computers, printers, and network equipment that represent significant investment. Water exposure causes circuit board corrosion that worsens hourly — electronics that could be saved at 24 hours may be unrecoverable at 72.',
+      solution: 'Electronics receive priority handling during triage. We disconnect, document, and transport water-exposed electronics to our facility promptly of the initial response. Component-level cleaning and anti-corrosion treatment begins immediately upon arrival.',
     },
   ],
   equipmentSection: {
@@ -85,7 +85,7 @@ Every item our team touches is photographed, catalogued with condition notes, an
       },
       {
         name: 'Electronics Restoration Station',
-        purpose: 'Component-level circuit board cleaning, corrosion treatment, and functional testing for computers, home office equipment, and entertainment electronics',
+        purpose: 'Component-level circuit board cleaning, corrosion treatment, and functional testing for computers, home workspace equipment, and entertainment electronics',
       },
       {
         name: 'Ozone Deodorization Chambers',
@@ -111,7 +111,7 @@ Every item our team touches is photographed, catalogued with condition notes, an
       'Specialty items requiring expert treatment — electronics, documents, artwork, and antiques each need specific protocols',
       'Storage duration — longer structural restoration timelines extend climate-controlled storage periods',
     ],
-    cta: `Call (877) 497-0007 for immediate contents assessment. We triage priority items within hours, coordinate with your building, and provide detailed estimates for insurance filing.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We triage priority items promptly, coordinate with your building, and provide detailed estimates for insurance filing.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ Every item our team touches is photographed, catalogued with condition notes, an
       'Bluemont',
       'Westover',
     ],
-    responseTime: '30-minute emergency response for priority item stabilization in all Arlington neighborhoods. Full pack-out scheduling coordinated with your building management for elevator and dock access.',
+    responseTime: 'prompt emergency response for priority item stabilization in all Arlington neighborhoods. Full pack-out scheduling coordinated with your building management for elevator and dock access.',
   },
   faqs: [
     {
@@ -142,8 +142,8 @@ Every item our team touches is photographed, catalogued with condition notes, an
       answer: 'We assign separate inventory teams to each unit with distinct tracking systems. Items are tagged by unit number throughout the process. Each owner receives individual online portal access and separate insurance documentation. Our facility stores unit inventories in designated areas to prevent any mixing.',
     },
     {
-      question: 'Can you save my home office electronics after water damage?',
-      answer: 'Yes — speed is critical. Electronics receive priority handling during our initial triage. Computers, printers, routers, and monitors are disconnected, documented, and transported to our facility within hours. Component-level circuit board cleaning and anti-corrosion treatment can save electronics that appear destroyed if treatment begins within 48-72 hours.',
+      question: 'Can you save my home workspace electronics after water damage?',
+      answer: 'Yes — speed is critical. Electronics receive priority handling during our initial triage. Computers, printers, routers, and monitors are disconnected, documented, and transported to our facility promptly. Component-level circuit board cleaning and anti-corrosion treatment can save electronics that appear destroyed if treatment begins within 48-72 hours.',
     },
     {
       question: 'How long does a condo pack-out take?',
@@ -151,7 +151,7 @@ Every item our team touches is photographed, catalogued with condition notes, an
     },
     {
       question: 'Does my condo insurance cover contents restoration?',
-      answer: 'Yes. Your HO-6 condo policy covers personal property restoration following covered losses. Insurance companies prefer professional restoration over replacement because it costs less. We document everything in the format your adjuster requires and handle direct billing.',
+      answer: 'Yes. Your HO-6 condo policy covers personal property restoration following covered losses. Insurance companies prefer professional restoration over replacement because it costs less. We document everything in the format your adjuster requires and provide claim-ready documentation.',
     },
     {
       question: 'Can I get specific items back before the full restoration is done?',
@@ -172,6 +172,6 @@ Every item our team touches is photographed, catalogued with condition notes, an
   ],
   finalCTA: {
     headline: 'Water-Damaged Belongings in Your Arlington Home?',
-    paragraph: 'Every hour of exposure worsens damage to your personal property. Documents bond, electronics corrode, and mold begins growing on organic materials. Our Arlington contents team responds within 30 minutes to stabilize priority items and begins professional pack-out with full building coordination. Call (877) 497-0007 now.',
+    paragraph: 'Every hour of exposure worsens damage to your personal property. Documents bond, electronics corrode, and mold begins growing on organic materials. Our Arlington contents team responds as quickly as conditions allow to stabilize priority items and begins professional pack-out with full building coordination. Call (877) 497-0007 now.',
   },
 }

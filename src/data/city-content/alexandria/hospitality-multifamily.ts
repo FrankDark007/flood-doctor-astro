@@ -22,7 +22,7 @@ Our restoration approach prioritizes revenue recovery for hospitality properties
     {
       title: `Emergency Multi-Unit Deployment`,
       description: `Call (877) 497-0007 for immediate multi-unit response. Our Alexandria teams assess the full scope—vertical water migration in apartment towers, horizontal spread in garden-style communities, and building system involvement that could affect common areas and unrelated units.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `Initial response`,
     },
     {
       title: `Occupant Notification and Relocation Support`,
@@ -143,7 +143,7 @@ Our restoration approach prioritizes revenue recovery for hospitality properties
       `King Street Metro Area`,
       `Huntington`,
     ],
-    responseTime: `30-minute emergency response to all Alexandria hospitality and multifamily properties. Our crews carry biohazard equipment for combined sewer events and multi-unit deployment packages for immediate containment of cascading water damage.`,
+    responseTime: `prompt emergency response to all Alexandria hospitality and multifamily properties. Our crews carry biohazard equipment for combined sewer events and multi-unit deployment packages for immediate containment of cascading water damage.`,
   },
   faqs: [
     {
@@ -181,6 +181,6 @@ Our restoration approach prioritizes revenue recovery for hospitality properties
   ],
   finalCTA: {
     headline: `Hotel or Apartment Emergency in Alexandria?`,
-    paragraph: `Every hour of displacement costs your property revenue and tenant confidence. Our multi-unit crews reach any Alexandria hospitality or multifamily property within 30 minutes with biohazard equipment and multi-unit deployment capability. Call (877) 497-0007 now.`,
+    paragraph: `Every hour of displacement costs your property revenue and tenant confidence. Our multi-unit crews reach any Alexandria hospitality or multifamily property as quickly as conditions allow with biohazard equipment and multi-unit deployment capability. Call (877) 497-0007 now.`,
   },
 }

@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's trusted commercial mold remediation team. CIH-coordinated protocols for offices, strip malls, and medical facilities near Burke, GMU, and Fairfax Corner. Call (877) 497-0007.`,
+    description: `Fairfax's local commercial mold remediation team. CIH-coordinated protocols for workspaces, strip malls, and medical facilities near Burke, GMU, and Fairfax Corner. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Fairfax, Virginia`,
   introSection: {
     headline: `Thorough Commercial Mold Removal for Fairfax Business Properties`,
     paragraphs: [
-      `Mold in a Fairfax commercial property disrupts the practical, family-focused businesses that define this community. A pediatric office in Kings Park discovers mold behind exam room walls after a slow plumbing leak, raising immediate patient safety concerns. A Burke Centre strip mall tenant reports musty odors that the shared HVAC system distributes to every suite. A daycare near George Mason University finds visible mold growth in a classroom closet, triggering parent notification and licensing review. Fairfax commercial property managers need mold remediation that resolves the problem thoroughly, provides independent verification for worried tenants and customers, and prevents the recurrence that wastes money and trust. Flood Doctor delivers CIH-coordinated commercial mold remediation that Fairfax business owners and property managers can stand behind.`,
-      `Fairfax's commercial mold problems reflect the area's building stock and climate. Strip malls built during the 1970s-90s suburban expansion feature flat roofs prone to ponding, original HVAC systems with condensation issues, and slab foundations that wick moisture into ground-floor tenant spaces. Medical offices and daycare facilities throughout Mantua and Burke operate in buildings where even minor plumbing leaks create mold conditions in wall cavities that go undetected until occupants report symptoms. Commercial properties near Burke Lake and along Accotink Creek experience elevated ambient humidity that overwhelms standard HVAC dehumidification. Our teams have remediated mold in Fairfax medical offices, daycare facilities, restaurants, retail stores, and professional office suites—always following CIH-developed protocols with independent post-remediation clearance testing.`,
+      `Mold in a Fairfax commercial property disrupts the practical, family-focused businesses that define this community. A pediatric workspace in Kings Park discovers mold behind exam room walls after a slow plumbing leak, raising immediate patient safety concerns. A Burke Centre strip mall tenant reports musty odors that the shared HVAC system distributes to every suite. A daycare near George Mason University finds visible mold growth in a classroom closet, triggering parent notification and licensing review. Fairfax commercial property managers need mold remediation that resolves the problem thoroughly, provides independent verification for worried tenants and customers, and prevents the recurrence that wastes money and trust. Flood Doctor delivers CIH-coordinated commercial mold remediation that Fairfax business owners and property managers can stand behind.`,
+      `Fairfax's commercial mold problems reflect the area's building stock and climate. Strip malls built during the 1970s-90s suburban expansion feature flat roofs prone to ponding, original HVAC systems with condensation issues, and slab foundations that wick moisture into ground-floor tenant spaces. Medical workspaces and daycare facilities throughout Mantua and Burke operate in buildings where even minor plumbing leaks create mold conditions in wall cavities that go undetected until occupants report symptoms. Commercial properties near Burke Lake and along Accotink Creek experience elevated ambient humidity that overwhelms standard HVAC dehumidification. Our teams have remediated mold in Fairfax medical workspaces, daycare facilities, restaurants, retail stores, and professional business suites—always following CIH-developed protocols with independent post-remediation clearance testing.`,
     ],
     localContext: `Fairfax's suburban commercial landscape—built across multiple development decades with concentrated medical, childcare, and retail facilities—creates mold remediation demands that require both practical efficiency and rigorous independent verification.`,
   },
   processSteps: [
     {
       title: `CIH Assessment and Protocol Design`,
-      description: `We coordinate with a certified industrial hygienist to assess mold contamination at your Fairfax commercial property. Air and surface sampling determine mold species and extent. For medical and childcare facilities, the CIH protocol includes enhanced standards appropriate for sensitive populations.`,
+      description: `We coordinate with a trained industrial hygienist to assess mold contamination at your Fairfax commercial property. Air and surface sampling determine mold species and extent. For medical and childcare facilities, the CIH protocol includes enhanced standards appropriate for sensitive populations.`,
       timeframe: `Days 1-3`,
     },
     {
       title: `Containment for Shared-Wall Buildings`,
-      description: `Our crews build containment barriers adapted to Fairfax's commercial building types—sealing shared walls in strip malls, isolating HVAC zones in multi-suite office buildings, and maintaining negative air pressure to protect occupied adjacent spaces. HEPA air scrubbers run continuously within containment.`,
+      description: `Our crews build containment barriers adapted to Fairfax's commercial building types—sealing shared walls in strip malls, isolating HVAC zones in multi-suite commercial buildings, and maintaining negative air pressure to protect occupied adjacent spaces. HEPA air scrubbers run continuously within containment.`,
       timeframe: `Day 3-4`,
     },
     {
@@ -49,7 +49,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Medical and Childcare Facility Sensitivity`,
-      description: `Fairfax's concentration of pediatric offices, dental practices, and daycare facilities creates remediation situations where occupant health sensitivity requires enhanced protocols. Children and immunocompromised patients face elevated risk from mold exposure, and licensing authorities require documentation.`,
+      description: `Fairfax's concentration of pediatric workspaces, dental practices, and daycare facilities creates remediation situations where occupant health sensitivity requires enhanced protocols. Children and immunocompromised patients face elevated risk from mold exposure, and licensing authorities require documentation.`,
       solution: `We follow enhanced protocols for healthcare and childcare mold remediation, including additional containment measures, more stringent air quality clearance criteria, and documentation satisfying both OSHA workplace safety and Virginia licensing requirements.`,
     },
     {
@@ -68,7 +68,7 @@ export const content: CityServiceContent = {
     equipment: [
       {
         name: `HEPA Air Scrubbers`,
-        purpose: `Capture airborne spores during remediation, protecting occupied spaces in Fairfax strip malls and multi-suite office buildings`,
+        purpose: `Capture airborne spores during remediation, protecting occupied spaces in Fairfax strip malls and multi-suite commercial buildings`,
         brand: `Phoenix`,
       },
       {
@@ -87,7 +87,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HEPA Vacuum Systems`,
-        purpose: `Remove settled spores from structural surfaces during remediation, meeting IICRC S520 commercial mold removal standards`,
+        purpose: `Remove settled spores from structural surfaces during remediation, meeting recognized mold-remediation commercial mold removal standards`,
       },
       {
         name: `Infrared Thermal Cameras`,
@@ -95,7 +95,7 @@ export const content: CityServiceContent = {
         brand: `FLIR`,
       },
     ],
-    localNote: `Our Fairfax commercial equipment fleet is sized for the community's building types—strip mall suites, medical office buildings, standalone restaurants, and daycare facilities—with HVAC cleaning capability for the shared rooftop systems common in suburban commercial construction.`,
+    localNote: `Our Fairfax commercial equipment fleet is sized for the community's building types—strip mall suites, medical commercial buildings, standalone restaurants, and daycare facilities—with HVAC cleaning capability for the shared rooftop systems common in suburban commercial construction.`,
   },
   pricingSection: {
     headline: `Commercial Mold Remediation Costs in Fairfax`,
@@ -103,7 +103,7 @@ export const content: CityServiceContent = {
     factors: [
       `Contamination area—single tenant suite versus multi-suite mold distributed through shared HVAC systems`,
       `CIH assessment and clearance testing—independent verification is a necessary component of professional commercial remediation`,
-      `Facility type—medical offices and daycare centers require enhanced protocols that add scope`,
+      `Facility type—medical workspaces and daycare centers require enhanced protocols that add scope`,
       `HVAC system involvement—shared rooftop unit contamination requires specialized ductwork cleaning`,
       `Moisture source correction—resolving roof leaks, plumbing failures, or slab moisture issues to prevent recurrence`,
     ],
@@ -127,7 +127,7 @@ export const content: CityServiceContent = {
       `Braddock Road`,
       `Olley Lane`,
     ],
-    responseTime: `Same-day initial assessment for Fairfax commercial mold concerns. CIH protocols begin within 48-72 hours. Emergency containment available within hours when active water damage is feeding mold growth in occupied Fairfax commercial spaces.`,
+    responseTime: `Same-day initial assessment for Fairfax commercial mold concerns. CIH protocols begin within 48-72 hours. Emergency containment available promptly when active water damage is feeding mold growth in occupied Fairfax commercial spaces.`,
   },
   faqs: [
     {

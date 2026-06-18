@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Arlington, VA | Flood Doctor',
-    description: `Arlington's trusted water damage restoration experts. 30-min response to Rosslyn, Clarendon, Ballston & Crystal City high-rises. HOA coordination included. Call (877) 497-0007.`,
+    description: `Arlington's water damage restoration support. prompt response to Rosslyn, Clarendon, Ballston & Crystal City high-rises. HOA coordination included. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Arlington, Virginia',
   introSection: {
@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has restored water-damaged properties throughout Arlington for nearly two decades. We've extracted standing water from Crystal City's underground parking structures, dried multiple units simultaneously in Ballston condominiums, and prevented mold growth in the historic rowhouses of Lyon Village. When your HOA board needs a restoration company they can trust, they call us—because we've already proven ourselves in buildings throughout the Rosslyn-Ballston corridor.`,
       `Arlington's water damage challenges differ fundamentally from suburban homes. Vertical construction means water travels through floors, not just across them. Shared walls mean your neighbor's leak becomes your emergency. Building management, HOA boards, and multiple insurance carriers must all be coordinated simultaneously. And access—freight elevators, parking garage staging areas, building security protocols—adds complexity that generic restoration companies simply aren't prepared to handle.
 
-Our IICRC Master Water Restorers understand that your Clarendon condo requires different protocols than a Pentagon City luxury apartment or a 1940s Cherrydale bungalow. We've developed specialized workflows for Arlington's unique building stock: rapid multi-unit assessment, coordinated drying across affected floors, and documentation that satisfies both individual claims and HOA requirements.`,
+Our restoration technicians understand that your Clarendon condo requires different protocols than a Pentagon City luxury apartment or a 1940s Cherrydale bungalow. We've developed specialized workflows for Arlington's unique building stock: rapid multi-unit assessment, coordinated drying across affected floors, and documentation that satisfies both individual claims and HOA requirements.`,
     ],
-    localContext: `Arlington's high-rise density—from 30-story Rosslyn towers to mid-rise Ballston condos—demands restoration expertise that most companies simply don't have. We've protected property values in buildings throughout the county for years, earning trust from HOA boards, property managers, and individual owners alike.`,
+    localContext: `Arlington's high-rise density—from 30-story Rosslyn towers to mid-rise Ballston condos—demands restoration experience that most companies simply don't have. We've protected property values in buildings throughout the county for years, earning trust from HOA boards, property managers, and individual owners alike.`,
   },
   processSteps: [
     {
       title: '30-Minute Emergency Response',
-      description: 'When you call our Arlington hotline at (877) 497-0007, we dispatch immediately from our Falls Church facility. Our trucks are positioned to reach Rosslyn, Clarendon, Ballston, Crystal City, and Pentagon City within our 30-minute guarantee—even during rush hour traffic on Route 50 or I-66.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call our Arlington hotline at (877) 497-0007, we dispatch immediately from our Falls Church facility. Our dispatch process is designed to reach Rosslyn, Clarendon, Ballston, Crystal City, and Pentagon City as quickly as route and weather conditions allow—even during rush hour traffic on Route 50 or I-66.',
+      timeframe: 'Initial response',
     },
     {
       title: 'Building Access & Initial Assessment',
@@ -142,7 +142,7 @@ Our IICRC Master Water Restorers understand that your Clarendon condo requires d
       'Columbia Heights',
       'Nauck',
     ],
-    responseTime: '30-minute response to all Arlington neighborhoods. Our crews are positioned throughout the county—from the Rosslyn-Ballston corridor to Columbia Pike—for immediate emergency dispatch to any building type.',
+    responseTime: 'prompt response to all Arlington neighborhoods. Our service-area teams are available throughout the county—from the Rosslyn-Ballston corridor to Columbia Pike—for immediate emergency dispatch to any building type.',
   },
   faqs: [
     {
@@ -181,6 +181,6 @@ Our IICRC Master Water Restorers understand that your Clarendon condo requires d
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Arlington?',
-    paragraph: 'High-rise water damage spreads fast—every floor, every minute matters. Our crews respond in 30 minutes to contain the damage, coordinate with building management, and begin multi-unit extraction. One call handles everything.',
+    paragraph: 'High-rise water damage spreads fast—every floor, every minute matters. Our crews respond promptly to contain the damage, coordinate with building management, and begin multi-unit extraction. One call handles everything.',
   },
 }

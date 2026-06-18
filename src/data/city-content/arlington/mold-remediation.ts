@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Arlington, VA | Flood Doctor',
-    description: 'Arlington mold removal experts. HVAC system contamination, multi-unit spread, HOA coordination. Rosslyn to Crystal City high-rise specialists. Call (877) 497-0007.',
+    description: 'Arlington mold removal specialists. HVAC system contamination, multi-unit spread, HOA coordination. Rosslyn to Crystal City high-rise specialists. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation in Arlington, Virginia',
   introSection: {
@@ -14,7 +14,7 @@ export const content: CityServiceContent = {
 Flood Doctor has remediated mold throughout Arlington's high-rise landscape for nearly two decades. We've traced mold from source units to affected neighbors in Clarendon condominiums, cleaned HVAC systems contaminated by hidden growth in Pentagon City towers, and restored air quality in Courthouse apartments where prior water damage created ongoing mold issues. When Arlington building managers discover mold affecting multiple units, they call us.`,
       `Arlington's high-density construction creates mold conditions that don't exist in single-family homes. Shared walls and floors allow moisture migration between units—your neighbor's unaddressed leak can create mold growth in your wall cavity. Central HVAC systems can spread spores from a single contaminated unit throughout entire floors. And the sealed, climate-controlled environments of high-rises trap moisture in ways that older, draftier construction simply doesn't.
 
-Our IICRC-certified mold remediation specialists understand that Arlington mold problems often extend beyond visible growth. We assess shared systems and adjacent spaces, coordinate with building management on HVAC inspection, and provide documentation that serves individual owners, HOAs, and property managers. Mold in a high-rise is a building issue, not just a unit issue—we treat it accordingly.`,
+Our trained mold remediation specialists understand that Arlington mold problems often extend beyond visible growth. We assess shared systems and adjacent spaces, coordinate with building management on HVAC inspection, and provide documentation that serves individual owners, HOAs, and property managers. Mold in a high-rise is a building issue, not just a unit issue—we treat it accordingly.`,
     ],
     localContext: `Arlington's high-rise density creates unique mold challenges: shared HVAC systems that spread spores, wall cavities that connect units, and building management coordination requirements. We've developed specialized protocols for multi-unit mold assessment and remediation throughout the county.`,
   },
@@ -36,7 +36,7 @@ Our IICRC-certified mold remediation specialists understand that Arlington mold 
     },
     {
       title: 'Mold Removal & Material Disposal',
-      description: 'Contained and controlled, we remove mold-contaminated materials. Porous materials—drywall, insulation, carpet—are disposed of properly. Non-porous surfaces are cleaned using IICRC-approved methods. All contaminated materials are bagged and removed without passing through clean areas.',
+      description: 'Contained and controlled, we remove mold-contaminated materials. Porous materials—drywall, insulation, carpet—are disposed of properly. Non-porous surfaces are cleaned using industry-standard methods. All contaminated materials are bagged and removed without passing through clean areas.',
       timeframe: 'Days 2-4',
     },
     {

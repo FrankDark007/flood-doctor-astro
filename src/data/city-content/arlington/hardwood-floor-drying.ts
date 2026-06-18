@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Arlington, VA | Save Your Floors | Flood Doctor',
-    description: `Arlington hardwood floor drying specialists. Saving floors in Rosslyn, Clarendon & Lyon Village. Condo, rowhouse & mid-century home expertise. Call (877) 497-0007.`,
+    description: `Arlington hardwood floor drying specialists. Saving floors in Rosslyn, Clarendon & Lyon Village. Condo, rowhouse & mid-century home experience. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Arlington, Virginia',
   introSection: {
@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Urban Response',
-      description: `When you call (877) 497-0007, we dispatch to your Arlington location within 30 minutes. Our crews navigate urban access—elevator freight access for Pentagon City condos, street parking coordination for Clarendon rowhouses, alley access for Lyon Village bungalows—arriving with equipment sized for immediate deployment.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call (877) 497-0007, we dispatch to your Arlington location as quickly as conditions allow. Our crews navigate urban access—elevator freight access for Pentagon City condos, street parking coordination for Clarendon rowhouses, alley access for Lyon Village bungalows—arriving with equipment sized for immediate deployment.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Floor Assessment & Water Source Control',
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Aurora Highlands',
       'Fairlington',
     ],
-    responseTime: '30-minute emergency response throughout Arlington. Our urban-equipped crews reach every neighborhood from Rosslyn to Shirlington with hardwood drying systems ready for immediate deployment.',
+    responseTime: 'prompt emergency response throughout Arlington. Our urban-equipped crews reach every neighborhood from Rosslyn to Shirlington with hardwood drying systems ready for immediate deployment.',
   },
   faqs: [
     {

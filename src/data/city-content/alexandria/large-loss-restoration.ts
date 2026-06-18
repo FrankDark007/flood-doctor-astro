@@ -3,20 +3,20 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Alexandria, VA | Flood Doctor',
-    description: `Alexandria large loss restoration specialists. Multi-million dollar projects for historic commercial buildings, waterfront properties & modern office complexes. Call (877) 497-0007.`,
+    description: `Alexandria large loss restoration specialists. Multi-million dollar projects for historic commercial buildings, waterfront properties & modern business complexes. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Alexandria, Virginia',
   introSection: {
     headline: `Enterprise-Scale Restoration Where Historic Preservation Meets Modern Complexity`,
     paragraphs: [
-      `Large loss events in Alexandria produce restoration projects of unusual complexity because this city's commercial portfolio spans the full range of American building history. A catastrophic plumbing failure in a converted 19th-century warehouse on the Old Town Waterfront generates a restoration project requiring both million-dollar-scale industrial capability and the delicate preservation expertise to save irreplaceable architectural heritage. A multi-floor HVAC failure in a modern Carlyle office tower demands the vertical logistics and tenant coordination common to any urban large loss. And a Potomac River flood event affecting an entire block of King Street commercial properties creates a multi-building, multi-owner, multi-carrier catastrophe requiring project management infrastructure comparable to a major construction firm.
+      `Large loss events in Alexandria produce restoration projects of unusual complexity because this city's commercial portfolio spans the full range of American building history. A catastrophic plumbing failure in a converted 19th-century warehouse on the Old Town Waterfront generates a restoration project requiring both million-dollar-scale industrial capability and the delicate preservation experience to save irreplaceable architectural heritage. A multi-floor HVAC failure in a modern Carlyle workspace tower demands the vertical logistics and tenant coordination common to any urban large loss. And a Potomac River flood event affecting an entire block of King Street commercial properties creates a multi-building, multi-owner, multi-carrier catastrophe requiring project management infrastructure comparable to a major construction firm.
 
-Flood Doctor's large loss division has managed Alexandria's most complex commercial restoration projects. Our senior project directors have coordinated multi-phase restorations of historic Old Town commercial buildings, delivered million-dollar recoveries of Potomac Yard office complexes, and managed multi-property flood restorations along the Rosemont commercial corridor—bringing construction-management rigor to every project while respecting the historic character that defines Alexandria's commercial landscape.`,
+Flood Doctor's large loss division has managed Alexandria's most complex commercial restoration projects. Our senior project directors have coordinated multi-phase restorations of historic Old Town commercial buildings, delivered million-dollar recoveries of Potomac Yard business complexes, and managed multi-property flood restorations along the Rosemont commercial corridor—bringing construction-management rigor to every project while respecting the historic character that defines Alexandria's commercial landscape.`,
       `The regulatory environment in Alexandria adds dimensions to large loss projects absent in most Northern Virginia jurisdictions. Historic district designations trigger Board of Architectural Review involvement for exterior restoration work. Combined sewer overflow events bring health department oversight and environmental compliance requirements. Waterfront properties may involve Army Corps of Engineers coordination for flood mitigation measures. And the city's preservation-conscious political environment means that high-profile restoration projects receive community attention that demands transparent, quality-focused execution.
 
 Our project directors navigate these overlapping regulatory frameworks while managing the core restoration scope. They maintain relationships with BAR staff, understand environmental compliance requirements for contaminated flood events, and present restoration plans that satisfy preservation standards without sacrificing the project timeline. For Alexandria's commercial property owners, this regulatory fluency translates directly into faster project approvals and reduced administrative delays.`,
     ],
-    localContext: `Alexandria's intersection of historic commercial architecture, waterfront flood exposure, multiple regulatory frameworks, and modern urban development creates large loss scenarios demanding project directors with preservation expertise alongside enterprise-scale management capability.`,
+    localContext: `Alexandria's intersection of historic commercial architecture, waterfront flood exposure, multiple regulatory frameworks, and modern urban development creates large loss scenarios demanding project directors with preservation experience alongside enterprise-scale management capability.`,
   },
   processSteps: [
     {
@@ -131,7 +131,7 @@ Our project directors navigate these overlapping regulatory frameworks while man
       'Route 1 Corridor',
       'West End Alexandria',
     ],
-    responseTime: 'Emergency stabilization teams deploy within 60 minutes to Alexandria commercial properties. Full large loss mobilization including preservation specialists scales within 12-24 hours for complex historic projects.',
+    responseTime: 'Emergency stabilization teams deploy as quickly as conditions allow to Alexandria commercial properties. Full large loss mobilization including preservation specialists scales within 12-24 hours for complex historic projects.',
   },
   faqs: [
     {
@@ -164,7 +164,7 @@ Our project directors navigate these overlapping regulatory frameworks while man
     },
     {
       question: 'Can you coordinate with the Board of Architectural Review?',
-      answer: 'Yes. Our project managers are familiar with BAR processes, prepare submission materials, and attend review meetings when needed. We document pre-loss conditions, specify historically appropriate materials, and present restoration plans designed for efficient BAR approval.',
+      answer: 'Yes. Our project managers are familiar with BAR processes, prepare submission materials, and attend review meetings when needed. We document existing conditions, specify historically appropriate materials, and present restoration plans designed for efficient BAR approval.',
     },
   ],
   relatedBlogSlugs: [
@@ -173,6 +173,6 @@ Our project directors navigate these overlapping regulatory frameworks while man
   ],
   finalCTA: {
     headline: 'Large Loss Event at Your Alexandria Commercial Property?',
-    paragraph: 'Whether your building is a historic King Street landmark or a modern Carlyle tower, catastrophic water damage requires immediate stabilization and expert long-term project management. Our senior project directors bring both preservation expertise and enterprise-scale capability to every Alexandria large loss.',
+    paragraph: 'Whether your building is a historic King Street landmark or a modern Carlyle tower, catastrophic water damage requires immediate stabilization and expert long-term project management. Our senior project directors bring both preservation experience and enterprise-scale capability to every Alexandria large loss.',
   },
 }

@@ -9,7 +9,7 @@ export const content: CityServiceContent = {
   introSection: {
     headline: 'Cast Iron Pipe Failure Specialists & 24/7 Emergency Response',
     paragraphs: [
-      `Alexandria's aging plumbing infrastructure creates burst pipe emergencies that demand immediate professional response. From cast iron drain lines installed in the 1920s to galvanized supply pipes nearing end-of-service life, historic Old Town homes and established neighborhoods throughout Alexandria face unique pipe failure challenges. Our certified emergency teams arrive within 60 minutes with specialized equipment to stop water flow, extract standing water, and begin structural drying that prevents catastrophic secondary damage to irreplaceable historic materials.`,
+      `Alexandria's aging plumbing infrastructure creates burst pipe emergencies that demand immediate professional response. From cast iron drain lines installed in the 1920s to galvanized supply pipes nearing end-of-service life, historic Old Town homes and established neighborhoods throughout Alexandria face unique pipe failure challenges. Our trained emergency teams arrive as quickly as conditions allow with specialized equipment to stop water flow, extract standing water, and begin structural drying that prevents catastrophic secondary damage to irreplaceable historic materials.`,
     ],
     localContext: `Burst pipe flooding your home right now? Call (877) 497-0007 immediately for emergency shutoff and water extraction anywhere in Alexandria—we're available 24/7/365.`,
   },
@@ -79,7 +79,7 @@ export const content: CityServiceContent = {
   faqs: [
     {
       question: 'How quickly can you respond to a burst pipe emergency in Old Town?',
-      answer: 'Our emergency teams reach Old Town addresses within 45-60 minutes, 24/7/365. We arrive with specialized valve wrenches for historic shutoff valves, truck-mounted extraction equipment, and thermal imaging cameras. Water shutoff occurs within minutes of arrival, followed by immediate extraction that removes standing water within the first hour. Weekend, holiday, and middle-of-the-night emergencies receive identical rapid response priority.',
+      answer: 'Our emergency teams prioritize Old Town addresses through our 24/7 emergency dispatch process. We arrive with specialized valve wrenches for historic shutoff valves, truck-mounted extraction equipment, and thermal imaging cameras. Water shutoff occurs within minutes of arrival, followed by immediate extraction that removes standing water within the first hour. Weekend, holiday, and middle-of-the-night emergencies receive identical rapid response priority.',
     },
     {
       question: 'What causes cast iron drain pipes to fail in historic Alexandria homes?',
@@ -117,6 +117,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: '',
-    paragraph: `Burst pipe emergencies demand immediate professional response that stops water flow, extracts flooding, and begins structural drying that prevents catastrophic secondary damage. Our specialized expertise in Alexandria's historic plumbing systems, combined with 24/7 emergency availability and comprehensive insurance claims support, protects your property investment when disaster strikes. From emergency shutoff to permanent pipe replacement, we provide the expert response your home deserves.`,
+    paragraph: `Burst pipe emergencies demand immediate professional response that stops water flow, extracts flooding, and begins structural drying that prevents catastrophic secondary damage. Our specialized experience in Alexandria's historic plumbing systems, combined with 24/7 emergency availability and comprehensive insurance claims support, protects your property investment when disaster strikes. From emergency shutoff to permanent pipe replacement, we provide the expert response your home deserves.`,
   },
 }

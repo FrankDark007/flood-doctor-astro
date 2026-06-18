@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Alexandria Flood Cleanup & Restoration',
-    description: 'Professional flood cleanup and restoration in Alexandria VA. Historic plaster wall drying, Potomac floodplain expertise. 24/7 emergency response.',
+    description: 'Professional flood cleanup and restoration in Alexandria VA. Historic plaster wall drying, Potomac floodplain experience. 24/7 emergency response.',
   },
   h1: 'Alexandria Flood Cleanup & Restoration',
   introSection: {
     headline: 'Historic Plaster Wall Drying & Potomac Floodplain Expertise',
     paragraphs: [
-      `Alexandria's location along the Potomac River and Hunting Creek creates flooding scenarios ranging from riverine inundation to flash flooding from overwhelmed stormwater systems. Historic Old Town properties with original plaster walls and irreplaceable architectural details require flood cleanup approaches that respect preservation standards while achieving thorough decontamination and structural drying. Our certified restoration teams combine emergency response speed with the patience and expertise needed to restore flood-damaged properties properly, from 18th-century townhouses to modern Carlyle condominiums.`,
+      `Alexandria's location along the Potomac River and Hunting Creek creates flooding scenarios ranging from riverine inundation to flash flooding from overwhelmed stormwater systems. Historic Old Town properties with original plaster walls and irreplaceable architectural details require flood cleanup approaches that respect preservation standards while achieving thorough decontamination and structural drying. Our restoration teams combine emergency response speed with the patience and experience needed to restore flood-damaged properties properly, from 18th-century townhouses to modern Carlyle condominiums.`,
     ],
     localContext: 'Flood damage requires immediate professional response—call (877) 497-0007 now for emergency cleanup anywhere in Alexandria, available 24/7/365.',
   },
@@ -61,7 +61,7 @@ export const content: CityServiceContent = {
     },
     {
       title: '24/7 Emergency Response Throughout Alexandria',
-      description: 'Flood emergencies demand immediate professional response regardless of timing. Our 24/7 emergency call center dispatches crews within 60 minutes to all Alexandria addresses. Weekend storm events, holiday flooding, and middle-of-the-night inundation all receive identical rapid response that begins extraction immediately and prevents damage escalation while you wait for insurance adjusters.',
+      description: 'Flood emergencies demand immediate professional response regardless of timing. Our 24/7 emergency call center dispatches crews as quickly as conditions allow to all Alexandria addresses. Weekend storm events, holiday flooding, and middle-of-the-night inundation all receive identical rapid response that begins extraction immediately and prevents damage escalation while you wait for insurance adjusters.',
       timeframe: '',
     },
   ],
@@ -83,7 +83,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How quickly can you respond to flood damage in Old Town?',
-      answer: 'Our emergency teams reach Old Town addresses within 45-60 minutes, arriving with truck-mounted extraction equipment and Category 3 water removal supplies. We begin water extraction immediately, working in personal protective equipment to safely remove contaminated floodwater. Weekend and holiday flood events receive identical rapid response priority. Call (877) 497-0007 the moment flooding occurs—immediate response minimizes damage to irreplaceable historic materials.',
+      answer: 'Our emergency teams prioritize Old Town addresses through our emergency dispatch process, arriving with truck-mounted extraction equipment and Category 3 water removal supplies. We begin water extraction immediately, working in personal protective equipment to safely remove contaminated floodwater. Weekend and holiday flood events receive identical rapid response priority. Call (877) 497-0007 the moment flooding occurs—immediate response minimizes damage to irreplaceable historic materials.',
     },
     {
       question: 'Can original plaster walls be saved after flooding?',
@@ -99,7 +99,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How long does flood cleanup and restoration take?',
-      answer: 'Emergency extraction begins within hours. Structural drying requires 2-4 weeks in historic properties with plaster walls and dense construction. Reconstruction timelines vary based on damage extent and BAR approval requirements when needed. Complete restoration typically takes 6-12 weeks from initial flooding to final completion. We provide detailed timelines during initial assessment, updating you regularly as work progresses.',
+      answer: 'Emergency extraction begins promptly. Structural drying requires 2-4 weeks in historic properties with plaster walls and dense construction. Reconstruction timelines vary based on damage extent and BAR approval requirements when needed. Complete restoration typically takes 6-12 weeks from initial flooding to final completion. We provide detailed timelines during initial assessment, updating you regularly as work progresses.',
     },
     {
       question: 'What should I do immediately after flooding?',
@@ -117,6 +117,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: '',
-    paragraph: `Flood damage to Alexandria's historic properties requires specialized expertise that balances rapid emergency response with preservation-appropriate restoration techniques. Our certified teams understand the unique challenges of cleaning Category 3 contaminated floodwater from original plaster walls, decontaminating historic building materials, and coordinating BAR-compliant reconstruction. From emergency extraction to final restoration, we protect your property investment while preserving Alexandria's irreplaceable architectural heritage.`,
+    paragraph: `Flood damage to Alexandria's historic properties requires specialized experience that balances rapid emergency response with preservation-appropriate restoration techniques. Our trained teams understand the unique challenges of cleaning Category 3 contaminated floodwater from original plaster walls, decontaminating historic building materials, and coordinating BAR-compliant reconstruction. From emergency extraction to final restoration, we protect your property investment while preserving Alexandria's irreplaceable architectural heritage.`,
   },
 }

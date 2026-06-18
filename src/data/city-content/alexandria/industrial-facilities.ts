@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Industrial Facility Restoration in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's industrial and commercial restoration experts. Serving warehouses, production facilities, and commercial operations in Eisenhower Valley and Van Dorn. Call (877) 497-0007.`,
+    description: `Alexandria's industrial and commercial restoration specialists. Serving warehouses, production facilities, and commercial operations in Eisenhower Valley and Van Dorn. Call (877) 497-0007.`,
   },
   h1: `Industrial Facility Restoration in Alexandria, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Alexandria's industrial and commercial corridor stretches from the Eisenhower Valley warehousing district through the Van Dorn logistics zone to the Landmark area commercial operations. These facilities support the regional supply chain—distribution centers fulfilling government contracts, food production operations serving the restaurant industry, printing and fabrication shops supplying the diplomatic community, and technology companies maintaining server infrastructure in commercial buildings. When water damage strikes these operations, the impact cascades beyond the building to affect supply chains, delivery schedules, and contractual obligations.
 
-Flood Doctor provides industrial-grade restoration throughout Alexandria's commercial zones, bringing HAZWOPER-certified crews and heavy extraction equipment to facilities that general restoration companies are not equipped to handle. We protect warehouse inventory from water migration, apply anti-corrosion treatment to production equipment within hours of exposure, and coordinate with facility safety teams for any hazardous material concerns. Our crews understand that a flooded warehouse near the Eisenhower Valley is not just a property damage claim—it represents inventory loss, fulfillment delays, and potential contract penalties that compound daily.`,
+Flood Doctor provides industrial-grade restoration throughout Alexandria's commercial zones, bringing safety-trained crews and heavy extraction equipment to facilities that general restoration companies are not equipped to handle. We protect warehouse inventory from water migration, apply anti-corrosion treatment to production equipment promptly of exposure, and coordinate with facility safety teams for any hazardous material concerns. Our crews understand that a flooded warehouse near the Eisenhower Valley is not just a property damage claim—it represents inventory loss, fulfillment delays, and potential contract penalties that compound daily.`,
       `Alexandria's industrial properties face location-specific water damage risks that differ from the residential challenges elsewhere in the city. The Eisenhower Valley sits in a natural drainage basin where stormwater overwhelms aging infrastructure during heavy rain events. The Van Dorn corridor crosses several low-lying areas where creek flooding reaches commercial properties. Older industrial buildings throughout the Landmark area feature flat roofs prone to ponding and roof membrane failures. The Potomac Yard redevelopment zone, while increasingly residential, still houses commercial operations vulnerable to the high water table and former industrial site drainage issues.
 
 These geographic realities demand proactive emergency planning and reactive capability. Our Alexandria industrial team positions resources for rapid deployment to these known risk zones, carrying the specialized equipment needed for large-scale commercial extraction—submersible pumps, truck-mounted vacuum systems, and the industrial drying capacity to handle facilities measured in tens of thousands of square feet rather than hundreds.`,
@@ -22,7 +22,7 @@ These geographic realities demand proactive emergency planning and reactive capa
     {
       title: `Industrial Emergency Mobilization`,
       description: `Call (877) 497-0007 for immediate commercial or industrial facility response. Our Alexandria teams deploy with truck-mounted extraction, anti-corrosion treatment supplies, and the heavy equipment needed for warehouse and production facility scale restoration.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `Initial response`,
     },
     {
       title: `Facility and Inventory Assessment`,
@@ -54,7 +54,7 @@ These geographic realities demand proactive emergency planning and reactive capa
     {
       title: `Eisenhower Valley Basin Flooding`,
       description: `The Eisenhower Valley industrial area sits in a natural drainage basin where Cameron Run and tributary systems converge. Heavy rain events overwhelm stormwater infrastructure, flooding warehouse loading docks, ground-floor storage areas, and parking lots that provide the only equipment access routes.`,
-      solution: `We pre-position submersible pump equipment for Eisenhower Valley deployment during forecasted storm events. Our extraction teams begin dewatering loading docks and access routes first, enabling equipment deployment into the facility interior. Flood barrier recommendations help clients reduce future exposure.`,
+      solution: `We allocate submersible pump equipment for Eisenhower Valley deployment during forecasted storm events. Our extraction teams begin dewatering loading docks and access routes first, enabling equipment deployment into the facility interior. Flood barrier recommendations help clients reduce future exposure.`,
     },
     {
       title: `Warehouse Inventory Loss Documentation`,
@@ -119,7 +119,7 @@ These geographic realities demand proactive emergency planning and reactive capa
       `Contamination level—floodwater contamination in food production facilities requires FDA-compliant decontamination protocols`,
       `Business interruption urgency—expedited restoration for operations facing contractual deadlines and supply chain obligations`,
     ],
-    cta: `Call (877) 497-0007 for emergency industrial or commercial facility assessment. We deploy heavy equipment to Alexandria warehouse and production facilities within 30 minutes.`,
+    cta: `Call (877) 497-0007 for emergency industrial or commercial facility assessment. We deploy heavy equipment to Alexandria warehouse and production facilities as quickly as conditions allow.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -137,7 +137,7 @@ These geographic realities demand proactive emergency planning and reactive capa
       `King Street Corridor`,
       `Duke Street Corridor`,
     ],
-    responseTime: `30-minute emergency response to all Alexandria commercial and industrial facilities. Truck-mounted extraction and submersible pumps are staged for immediate deployment to the Eisenhower Valley, Van Dorn, and Landmark industrial corridors.`,
+    responseTime: `prompt emergency response to all Alexandria commercial and industrial facilities. Truck-mounted extraction and submersible pumps are available for dispatch to the Eisenhower Valley, Van Dorn, and Landmark industrial corridors.`,
   },
   faqs: [
     {
@@ -150,7 +150,7 @@ These geographic realities demand proactive emergency planning and reactive capa
     },
     {
       question: `Can you restore our production equipment after flooding?`,
-      answer: `We apply anti-corrosion treatment within hours to prevent oxidation damage. Our teams coordinate with equipment manufacturers for warranty-compliant restoration protocols. For many types of production equipment, restoration costs a fraction of replacement—and avoids the months-long lead times for new equipment procurement.`,
+      answer: `We apply anti-corrosion treatment promptly to prevent oxidation damage. Our teams coordinate with equipment manufacturers for warranty-compliant restoration protocols. For many types of production equipment, restoration costs a fraction of replacement—and avoids the months-long lead times for new equipment procurement.`,
     },
     {
       question: `What about food production facility contamination?`,
@@ -162,7 +162,7 @@ These geographic realities demand proactive emergency planning and reactive capa
     },
     {
       question: `Do you handle environmental compliance for contaminated floodwater?`,
-      answer: `Yes. Our HAZWOPER-certified crews manage contaminated floodwater under EPA and Virginia DEQ protocols. Waste characterization, manifesting, and disposal documentation are maintained for regulatory compliance. For facilities storing hazardous materials, we coordinate containment and cleanup with your facility safety team.`,
+      answer: `Yes. Our safety-trained crews manage contaminated floodwater under EPA and Virginia DEQ protocols. Waste characterization, manifesting, and disposal documentation are maintained for regulatory compliance. For facilities storing hazardous materials, we coordinate containment and cleanup with your facility safety team.`,
     },
   ],
   relatedBlogSlugs: [
@@ -170,6 +170,6 @@ These geographic realities demand proactive emergency planning and reactive capa
   ],
   finalCTA: {
     headline: `Industrial or Commercial Emergency in Alexandria?`,
-    paragraph: `Inventory damage and production downtime compound by the hour. Our industrial crews deploy to Alexandria commercial facilities within 30 minutes with truck-mounted extraction, anti-corrosion treatment, and the heavy equipment your operation demands. Call (877) 497-0007 now.`,
+    paragraph: `Inventory damage and production downtime compound by the hour. Our industrial crews deploy to Alexandria commercial facilities as quickly as conditions allow with truck-mounted extraction, anti-corrosion treatment, and the heavy equipment your operation demands. Call (877) 497-0007 now.`,
   },
 }

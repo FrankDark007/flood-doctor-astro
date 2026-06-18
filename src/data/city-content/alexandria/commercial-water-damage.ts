@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Alexandria, VA | Flood Doctor',
-    description: `Alexandria commercial water damage restoration. Historic district expertise, waterfront property protection & regulatory compliance near Old Town, Del Ray & Carlyle. Call (877) 497-0007.`,
+    description: `Alexandria commercial water damage restoration. Historic district experience, waterfront property protection & regulatory compliance near Old Town, Del Ray & Carlyle. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Alexandria, Virginia',
   introSection: {
     headline: `Historic-Sensitive Commercial Water Damage Restoration in Alexandria`,
     paragraphs: [
-      `Alexandria's commercial property market spans centuries of construction—from 18th-century storefronts on King Street to the modern Class A office space in Carlyle and Potomac Yard. When water damage strikes a historic Old Town retail building with original plaster walls and irreplaceable architectural details, or when a burst pipe floods a Del Ray professional office housed in a converted early-1900s structure, the restoration demands expertise that balances historic preservation with modern commercial urgency. The Board of Architectural Review imposes requirements on exterior modifications in the historic district, and even interior restoration must respect the architectural integrity that gives these commercial properties their premium value.
+      `Alexandria's commercial property market spans centuries of construction—from 18th-century storefronts on King Street to the modern Class A workspace in Carlyle and Potomac Yard. When water damage strikes a historic Old Town retail building with original plaster walls and irreplaceable architectural details, or when a burst pipe floods a Del Ray professional workspace housed in a converted early-1900s structure, the restoration demands experience that balances historic preservation with modern commercial urgency. The Board of Architectural Review imposes requirements on exterior modifications in the historic district, and even interior restoration must respect the architectural integrity that gives these commercial properties their premium value.
 
-Flood Doctor's commercial division has restored water-damaged businesses throughout Alexandria's diverse commercial landscape. We've dried historic brick-and-plaster storefronts along King Street, managed HVAC failures in Carlyle corporate offices, and restored waterfront commercial properties in Belle Haven—all while navigating the regulatory frameworks and preservation standards that define Alexandria's commercial restoration requirements.`,
+Flood Doctor's commercial division has restored water-damaged businesses throughout Alexandria's diverse commercial landscape. We've dried historic brick-and-plaster storefronts along King Street, managed HVAC failures in Carlyle corporate workspaces, and restored waterfront commercial properties in Belle Haven—all while navigating the regulatory frameworks and preservation standards that define Alexandria's commercial restoration requirements.`,
       `Alexandria's commercial water damage challenges are compounded by infrastructure and geography. The combined sewer system serving Old Town can overflow during heavy rainfall, sending contaminated water into ground-floor commercial spaces through floor drains and sewer connections. The high water table near the Potomac creates hydrostatic pressure against below-grade commercial spaces throughout the Rosemont and Old Town Waterfront areas. Cast iron plumbing in older commercial buildings near the George Washington Masonic Memorial and Torpedo Factory degrades from within, producing unexpected failures that flood tenant spaces with no warning.
 
-Our IICRC-certified commercial teams carry specialized knowledge of historic building materials alongside industrial restoration capability. We understand that drying original plaster requires different protocols than modern drywall, that historic hardwood flooring cannot be replaced with commodity materials, and that BAR compliance adds a regulatory dimension absent from typical commercial restoration projects.`,
+Our trained commercial teams carry specialized knowledge of historic building materials alongside industrial restoration capability. We understand that drying original plaster requires different protocols than modern drywall, that historic hardwood flooring cannot be replaced with commodity materials, and that BAR compliance adds a regulatory dimension absent from typical commercial restoration projects.`,
     ],
-    localContext: `Alexandria's blend of historic commercial architecture, waterfront exposure, aging sewer infrastructure, and preservation regulations creates commercial water damage scenarios requiring restoration teams with both technical expertise and historic preservation sensitivity.`,
+    localContext: `Alexandria's blend of historic commercial architecture, waterfront exposure, aging sewer infrastructure, and preservation regulations creates commercial water damage scenarios requiring restoration teams with both technical experience and historic preservation sensitivity.`,
   },
   processSteps: [
     {
       title: 'Priority Commercial Response',
-      description: `Call (877) 497-0007 for immediate commercial dispatch. Our Alexandria crews are positioned throughout the King Street corridor, Carlyle district, and Potomac Yard area with equipment suited for both historic structures and modern commercial buildings.`,
-      timeframe: 'Within 45 minutes',
+      description: `Call (877) 497-0007 for immediate commercial dispatch. Our Alexandria crews are available throughout the King Street corridor, Carlyle district, and Potomac Yard area with equipment suited for both historic structures and modern commercial buildings.`,
+      timeframe: 'Within as quickly as conditions allow',
     },
     {
       title: 'Historic-Sensitive Assessment',
@@ -64,7 +64,7 @@ Our IICRC-certified commercial teams carry specialized knowledge of historic bui
     {
       title: 'Board of Architectural Review Compliance',
       description: `Commercial properties in Alexandria's historic districts must comply with BAR requirements for exterior modifications. Water damage restoration that affects facades, windows, doors, or visible architectural elements triggers regulatory review that can delay restoration timelines.`,
-      solution: 'Our project managers are familiar with BAR processes and prepare submission materials proactively. We document pre-loss conditions thoroughly, specify historically appropriate replacement materials, and coordinate with the BAR to minimize approval delays.',
+      solution: 'Our project managers are familiar with BAR processes and prepare submission materials proactively. We document existing conditions thoroughly, specify historically appropriate replacement materials, and coordinate with the BAR to minimize approval delays.',
     },
     {
       title: 'Waterfront Commercial Property Hydrostatic Pressure',
@@ -74,7 +74,7 @@ Our IICRC-certified commercial teams carry specialized knowledge of historic bui
     {
       title: 'Cast Iron Plumbing Failures in Older Commercial Buildings',
       description: 'Commercial buildings throughout Old Town and Rosemont contain original cast iron drain lines that deteriorate from within. These failures often occur suddenly, flooding tenant spaces with wastewater and creating contamination that requires biohazard cleanup protocols.',
-      solution: 'We handle the immediate contamination cleanup per IICRC Category 3 protocols while documenting the pipe failure for insurance purposes. Our assessment identifies additional cast iron sections at risk, helping property owners plan proactive replacement before the next failure.',
+      solution: 'We handle the immediate contamination cleanup per Category 3 protocols while documenting the pipe failure for insurance purposes. Our assessment identifies additional cast iron sections at risk, helping property owners plan proactive replacement before the next failure.',
     },
   ],
   equipmentSection: {
@@ -109,11 +109,11 @@ Our IICRC-certified commercial teams carry specialized knowledge of historic bui
         purpose: 'EPA-registered treatments safe for application on historic materials following sewer backup or contaminated water events',
       },
     ],
-    localNote: `Our Alexandria commercial fleet carries specialty equipment for the city's unique mix of historic and modern construction—controlled drying systems for original plaster and hardwood alongside industrial capacity for modern office buildings in Carlyle and Potomac Yard.`,
+    localNote: `Our Alexandria commercial fleet carries specialty equipment for the city's unique mix of historic and modern construction—controlled drying systems for original plaster and hardwood alongside industrial capacity for modern commercial buildings in Carlyle and Potomac Yard.`,
   },
   pricingSection: {
     headline: 'Commercial Water Damage Restoration Costs in Alexandria',
-    intro: 'Alexandria commercial restoration costs reflect the specialized expertise required for historic properties alongside standard commercial restoration scope. Historic material preservation, BAR compliance, and contamination from sewer overflow events add to project complexity. We provide detailed estimates formatted for commercial insurance carriers.',
+    intro: 'Alexandria commercial restoration costs reflect the specialized experience required for historic properties alongside standard commercial restoration scope. Historic material preservation, BAR compliance, and contamination from sewer overflow events add to project complexity. We provide detailed estimates formatted for commercial insurance carriers.',
     factors: [
       'Property age and construction type—historic plaster, brick, and original materials require specialized preservation protocols that add restoration time',
       'Contamination source—combined sewer overflow events require biohazard protocols significantly exceeding clean-water restoration costs',
@@ -140,12 +140,12 @@ Our IICRC-certified commercial teams carry specialized knowledge of historic bui
       'Landmark Area',
       'West End Alexandria',
     ],
-    responseTime: '45-minute commercial response to all Alexandria business districts. Crews stationed near King Street, Carlyle, and the Route 1 corridor deploy with equipment matched to both historic and modern commercial construction.',
+    responseTime: 'timely commercial response to all Alexandria business districts. Service-area crews available near King Street, Carlyle, and the Route 1 corridor deploy with equipment matched to both historic and modern commercial construction.',
   },
   faqs: [
     {
       question: 'Can you restore water damage in a historic Old Town commercial building?',
-      answer: 'Yes. Our technicians are trained in historic material preservation—controlled drying for original plaster, specialty protocols for historic brick, and careful restoration of architectural details. We document pre-loss conditions and specify historically appropriate materials for any replacement needed.',
+      answer: 'Yes. Our technicians are trained in historic material preservation—controlled drying for original plaster, specialty protocols for historic brick, and careful restoration of architectural details. We document existing conditions and specify historically appropriate materials for any replacement needed.',
     },
     {
       question: 'What about sewer backup flooding in our Old Town retail space?',
@@ -156,8 +156,8 @@ Our IICRC-certified commercial teams carry specialized knowledge of historic bui
       answer: 'BAR review applies to exterior modifications in historic districts. Interior restoration typically does not require BAR approval, but exterior work—replacing windows, doors, or facade elements damaged by water—may trigger review. Our project managers prepare BAR submissions proactively to minimize delays.',
     },
     {
-      question: 'How do you handle water damage in modern Alexandria office buildings?',
-      answer: 'Our commercial division handles Carlyle, Potomac Yard, and Eisenhower corridor office buildings with standard commercial protocols—industrial extraction, commercial drying, and Xactimate estimates for commercial carriers. The same project management rigor applies to modern buildings without the historic preservation overlay.',
+      question: 'How do you handle water damage in modern Alexandria commercial buildings?',
+      answer: 'Our commercial division handles Carlyle, Potomac Yard, and Eisenhower corridor commercial buildings with standard commercial protocols—industrial extraction, commercial drying, and Xactimate estimates for commercial carriers. The same project management rigor applies to modern buildings without the historic preservation overlay.',
     },
     {
       question: 'Will you coordinate with our commercial insurance carrier?',
@@ -178,6 +178,6 @@ Our IICRC-certified commercial teams carry specialized knowledge of historic bui
   ],
   finalCTA: {
     headline: 'Commercial Water Emergency in Alexandria?',
-    paragraph: 'Whether your property is a historic King Street storefront or a modern Carlyle office suite, water damage demands immediate expert response. Our crews combine historic preservation expertise with industrial commercial capability for complete Alexandria coverage.',
+    paragraph: 'Whether your property is a historic King Street storefront or a modern Carlyle workspace suite, water damage demands immediate expert response. Our crews combine historic preservation experience with industrial commercial capability for complete Alexandria coverage.',
   },
 }

@@ -11,22 +11,22 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Alexandria sits at the confluence of flood risks that few Northern Virginia cities face simultaneously. The Potomac River watershed drives tidal and storm flooding against waterfront commercial properties near the Torpedo Factory and Old Town Waterfront. The combined sewer system serving historic districts overflows during heavy rainfall, sending contaminated water into ground-floor businesses along King Street and through the Del Ray commercial corridor. And the city's aging commercial infrastructure—cast iron pipes, original storm drains, and century-old building foundations—produces internal flooding events that compound external weather-driven risks. Commercial flood cleanup in Alexandria requires a team that understands all of these interacting systems.
 
-Flood Doctor's commercial flood division has managed major flooding events throughout Alexandria's commercial districts. We've pumped out Potomac-flooded retail spaces along the Old Town Waterfront, cleaned up combined sewer overflow contamination in Rosemont professional offices, and restored storm-flooded inventory in Kingstowne commercial warehouses—bringing industrial extraction capacity and contamination expertise to every event.`,
+Flood Doctor's commercial flood division has managed major flooding events throughout Alexandria's commercial districts. We've pumped out Potomac-flooded retail spaces along the Old Town Waterfront, cleaned up combined sewer overflow contamination in Rosemont professional workspaces, and restored storm-flooded inventory in Kingstowne commercial warehouses—bringing industrial extraction capacity and contamination experience to every event.`,
       `The distinction between commercial flood cleanup in Alexandria and standard water damage restoration matters enormously. Floodwater entering Alexandria commercial properties typically carries contaminants—whether from combined sewer overflow, Potomac river sediment, or surface runoff mixing with urban debris. This contaminated water requires biohazard cleanup protocols, EPA-compliant waste disposal, and environmental clearance testing before commercial spaces can be reoccupied. In historic commercial buildings near the George Washington Masonic Memorial and King Street, flood cleanup must also preserve architectural elements that cannot be replaced—adding preservation sensitivity to an already complex contamination response.
 
-Our commercial flood teams deploy with contamination assessment equipment alongside industrial extraction capacity. We classify floodwater on arrival, establish appropriate safety protocols, and execute cleanup in compliance with OSHA, EPA, and IICRC standards. For Alexandria's historic commercial properties, contamination cleanup integrates with preservation protocols to protect both occupant health and irreplaceable architectural heritage.`,
+Our commercial flood teams deploy with contamination assessment equipment alongside industrial extraction capacity. We classify floodwater on arrival, establish appropriate safety protocols, and execute cleanup in compliance with OSHA, EPA, and recognized industry standards. For Alexandria's historic commercial properties, contamination cleanup integrates with preservation protocols to protect both occupant health and irreplaceable architectural heritage.`,
     ],
-    localContext: `Alexandria's Potomac River exposure, combined sewer system, aging infrastructure, and historic commercial architecture create a flood risk profile demanding contamination expertise, preservation sensitivity, and industrial-scale response capacity in a single restoration partner.`,
+    localContext: `Alexandria's Potomac River exposure, combined sewer system, aging infrastructure, and historic commercial architecture create a flood risk profile demanding contamination experience, preservation sensitivity, and industrial-scale response capacity in a single restoration partner.`,
   },
   processSteps: [
     {
       title: 'Emergency Flood Dispatch',
-      description: `Call (877) 497-0007 for immediate commercial flood response. Our Alexandria crews deploy with industrial pumping equipment and contamination assessment capability, reaching Old Town, Del Ray, and Carlyle commercial districts within our guaranteed response window.`,
-      timeframe: 'Within 60 minutes',
+      description: `Call (877) 497-0007 for immediate commercial flood response. Our Alexandria crews deploy with industrial pumping equipment and contamination assessment capability, reaching Old Town, Del Ray, and Carlyle commercial districts within our service-area response process.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Contamination Classification',
-      description: 'Floodwater is tested and classified per IICRC standards—critical in Alexandria where combined sewer overflow, Potomac flooding, and surface runoff frequently produce Category 3 contaminated water requiring the highest-level safety and cleanup protocols.',
+      description: 'Floodwater is tested and classified per recognized industry standards—critical in Alexandria where combined sewer overflow, Potomac flooding, and surface runoff frequently produce Category 3 contaminated water requiring the highest-level safety and cleanup protocols.',
       timeframe: 'First 2 hours',
     },
     {
@@ -36,7 +36,7 @@ Our commercial flood teams deploy with contamination assessment equipment alongs
     },
     {
       title: 'Contaminated Material Removal',
-      description: 'Flood-damaged porous materials absorbing contaminated water are removed following EPA protocols. In historic buildings, we distinguish between replaceable modern materials and irreplaceable original elements—removing only what contamination protocols require while preserving what historic expertise can save.',
+      description: 'Flood-damaged porous materials absorbing contaminated water are removed following EPA protocols. In historic buildings, we distinguish between replaceable modern materials and irreplaceable original elements—removing only what contamination protocols require while preserving what historic experience can save.',
       timeframe: 'Hours 12-48',
     },
     {
@@ -118,7 +118,7 @@ Our commercial flood teams deploy with contamination assessment equipment alongs
       'Building age and infrastructure condition—older commercial structures may reveal pre-existing conditions exacerbated by flooding',
       'Environmental clearance requirements—post-flood testing and certification adds scope but is essential for safe commercial reoccupancy',
     ],
-    cta: `Call (877) 497-0007 for emergency commercial flood response. Our Alexandria team deploys with contamination assessment capability and historic preservation expertise for immediate evaluation and action.`,
+    cta: `Call (877) 497-0007 for emergency commercial flood response. Our Alexandria team deploys with contamination assessment capability and historic preservation experience for immediate evaluation and action.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -137,7 +137,7 @@ Our commercial flood teams deploy with contamination assessment equipment alongs
       'Landmark',
       'Seminary Road Area',
     ],
-    responseTime: '60-minute commercial flood response to all Alexandria business districts. Industrial extraction and contamination management equipment pre-staged near the King Street, Carlyle, and Route 1 corridors.',
+    responseTime: 'timely commercial flood response to all Alexandria business districts. Industrial extraction and contamination management equipment allocated near the King Street, Carlyle, and Route 1 corridors.',
   },
   faqs: [
     {
@@ -146,7 +146,7 @@ Our commercial flood teams deploy with contamination assessment equipment alongs
     },
     {
       question: 'Can you protect historic materials during flood cleanup?',
-      answer: 'Yes. Our technicians use preservation-sensitive extraction and drying techniques for historic commercial buildings—low-suction extraction for plaster, controlled drying for brick and mortar, and careful debris removal that protects irreplaceable architectural details. We document pre-loss conditions of all historic elements.',
+      answer: 'Yes. Our technicians use preservation-sensitive extraction and drying techniques for historic commercial buildings—low-suction extraction for plaster, controlled drying for brick and mortar, and careful debris removal that protects irreplaceable architectural details. We document existing conditions of all historic elements.',
     },
     {
       question: 'What about our commercial inventory damaged by flooding?',
@@ -171,6 +171,6 @@ Our commercial flood teams deploy with contamination assessment equipment alongs
   ],
   finalCTA: {
     headline: 'Commercial Flood Emergency in Alexandria?',
-    paragraph: 'Contaminated floodwater in your Alexandria commercial space creates health hazards and regulatory exposure that worsen by the hour. Our industrial flood teams deploy with contamination management expertise and historic preservation capability for complete Alexandria commercial coverage.',
+    paragraph: 'Contaminated floodwater in your Alexandria commercial space creates health hazards and regulatory exposure that worsen by the hour. Our industrial flood teams deploy with contamination management experience and historic preservation capability for complete Alexandria commercial coverage.',
   },
 }

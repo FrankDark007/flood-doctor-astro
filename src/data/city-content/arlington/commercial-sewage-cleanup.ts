@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Arlington, VA | Flood Doctor`,
-    description: `Arlington's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for high-rise buildings, restaurants, and office complexes near Rosslyn, Ballston, and Crystal City. Call (877) 497-0007.`,
+    description: `Arlington's local commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for high-rise buildings, restaurants, and business complexes near Rosslyn, Ballston, and Crystal City. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Arlington, Virginia`,
   introSection: {
     headline: `Urban-Density Sewage Remediation for Arlington Commercial Properties`,
     paragraphs: [
-      `Sewage contamination in Arlington's dense commercial environment escalates faster than in suburban settings. A sewer backup in a Rosslyn high-rise restaurant affects the building lobby, parking garage, and adjacent retail tenants within hours. A grease trap failure at a Clarendon eatery triggers health department closure during peak revenue hours. An underground parking garage flooding event at a Crystal City office tower displaces hundreds of workers and creates biohazard conditions in shared building infrastructure. Arlington commercial sewage emergencies demand a response team that understands high-density building systems, multi-tenant coordination, and the regulatory obligations that come with urban commercial properties. Flood Doctor provides OSHA-compliant sewage remediation calibrated for Arlington's vertical, interconnected commercial landscape.`,
-      `Arlington's commercial sewage challenges stem from its urban infrastructure density. Combined sewer overflow events during heavy rains overwhelm trunk lines serving Ballston and Pentagon City high-rises. Aging sewer laterals beneath Clarendon and Shirlington restaurant rows suffer root intrusion and joint failures that send Category 3 waste into commercial kitchens and dining rooms. Underground parking structures in Rosslyn and Crystal City sit below the sewer grade line, making them vulnerable to backflow during system surcharges. Our hazmat crews have decontaminated Arlington office towers, restaurant complexes, retail centers, and government-adjacent facilities—each project managed under strict biohazard protocols with complete regulatory documentation.`,
+      `Sewage contamination in Arlington's dense commercial environment escalates faster than in suburban settings. A sewer backup in a Rosslyn high-rise restaurant affects the building lobby, parking garage, and adjacent retail tenants promptly. A grease trap failure at a Clarendon eatery triggers health department closure during peak revenue hours. An underground parking garage flooding event at a Crystal City workspace tower displaces hundreds of workers and creates biohazard conditions in shared building infrastructure. Arlington commercial sewage emergencies demand a response team that understands high-density building systems, multi-tenant coordination, and the regulatory obligations that come with urban commercial properties. Flood Doctor provides OSHA-compliant sewage remediation calibrated for Arlington's vertical, interconnected commercial landscape.`,
+      `Arlington's commercial sewage challenges stem from its urban infrastructure density. Combined sewer overflow events during heavy rains overwhelm trunk lines serving Ballston and Pentagon City high-rises. Aging sewer laterals beneath Clarendon and Shirlington restaurant rows suffer root intrusion and joint failures that send Category 3 waste into commercial kitchens and dining rooms. Underground parking structures in Rosslyn and Crystal City sit below the sewer grade line, making them vulnerable to backflow during system surcharges. Our hazmat crews have decontaminated Arlington commercial towers, restaurant complexes, retail centers, and government-adjacent facilities—each project managed under strict biohazard protocols with complete regulatory documentation.`,
     ],
-    localContext: `Arlington's high-density commercial corridors—with multi-story buildings, shared infrastructure, underground parking, and heavy restaurant concentration—create sewage contamination scenarios requiring specialized urban remediation expertise.`,
+    localContext: `Arlington's high-density commercial corridors—with multi-story buildings, shared infrastructure, underground parking, and heavy restaurant concentration—create sewage contamination scenarios requiring specialized urban remediation experience.`,
   },
   processSteps: [
     {
       title: `Rapid Urban Deployment`,
       description: `Call our Arlington emergency line at (877) 497-0007 and our hazmat crew deploys immediately. We navigate urban access challenges in Rosslyn, Ballston, and Crystal City—loading dock access, freight elevator coordination, and building management notification happen simultaneously with equipment staging.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `Initial response`,
     },
     {
       title: `Multi-Floor Assessment and Containment`,
-      description: `In Arlington high-rises, sewage migrates vertically through elevator shafts, stairwells, and plumbing chases. Our safety officer maps contamination across all affected floors, establishes containment zones at each level, and coordinates tenant evacuation from compromised areas while maintaining access to unaffected floors.`,
+      description: `In Arlington high-rises, sewage migrates vertically through elevator shafts, stairwells, and plumbing chases. Our safety workspacer maps contamination across all affected floors, establishes containment zones at each level, and coordinates tenant evacuation from compromised areas while maintaining access to unaffected floors.`,
       timeframe: `Hours 1-3`,
     },
     {
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Health department requirements—restaurant and food service facilities require additional compliance steps and inspections`,
       `Building system contamination—HVAC, elevator, and plumbing system decontamination adds complexity in interconnected buildings`,
     ],
-    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Arlington. Our hazmat crews are positioned throughout the urban corridor for rapid deployment to Rosslyn, Ballston, Crystal City, and all Arlington commercial districts.`,
+    cta: `Call (877) 497-0007 for immediate commercial sewage emergency response in Arlington. Our hazmat crews are available throughout the urban corridor for rapid deployment to Rosslyn, Ballston, Crystal City, and all Arlington commercial districts.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       `Pentagon Row`,
       `National Landing`,
     ],
-    responseTime: `60-minute emergency response to all Arlington commercial properties. Our urban-equipped hazmat crews are pre-positioned in the Rosslyn-Ballston corridor for immediate deployment throughout Arlington County.`,
+    responseTime: `prompt emergency response to all Arlington commercial properties. Our urban-equipped hazmat crews are planned in the Rosslyn-Ballston corridor for immediate deployment throughout Arlington County.`,
   },
   faqs: [
     {

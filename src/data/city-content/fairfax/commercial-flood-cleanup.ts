@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Fairfax, VA | Flood Doctor',
-    description: `Fairfax commercial flood cleanup for office parks, retail centers & institutional buildings. 24/7 industrial response near Burke, Fairfax Corner & George Mason. Call (877) 497-0007.`,
+    description: `Fairfax commercial flood cleanup for business parks, retail centers & institutional buildings. 24/7 industrial response near Burke, Fairfax Corner & George Mason. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Fairfax, Virginia',
   introSection: {
     headline: `Reliable Commercial Flood Response for Fairfax's Business Community`,
     paragraphs: [
-      `When storm flooding overwhelms the parking lot drainage at a Burke Centre strip center, or a catastrophic water heater failure sends hundreds of gallons cascading through a Kings Park professional building, Fairfax business owners need a flood response team that arrives fast and works efficiently. The office parks, medical complexes, restaurants, and retail centers that serve Fairfax's family-focused community cannot afford extended closures—patients need their dental appointments, families rely on neighborhood restaurants, and professional service firms have client deadlines that water damage does not respect.
+      `When storm flooding overwhelms the parking lot drainage at a Burke Centre strip center, or a catastrophic water heater failure sends hundreds of gallons cascading through a Kings Park professional building, Fairfax business owners need a flood response team that arrives fast and works efficiently. The business parks, medical complexes, restaurants, and retail centers that serve Fairfax's family-focused community cannot afford extended closures—patients need their dental appointments, families rely on neighborhood restaurants, and professional service firms have client deadlines that water damage does not respect.
 
-Flood Doctor's commercial flood division has cleaned up major flooding events across Fairfax's commercial landscape. We've extracted storm flooding from Fairfax Corner retail spaces, pumped out flooded storage areas in Mantua office parks, and restored fire suppression discharge damage in Fairfax Station commercial buildings—deploying industrial capacity while maintaining the practical, communicative approach that Fairfax business owners value.`,
+Flood Doctor's commercial flood division has cleaned up major flooding events across Fairfax's commercial landscape. We've extracted storm flooding from Fairfax Corner retail spaces, pumped out flooded storage areas in Mantua business parks, and restored fire suppression discharge damage in Fairfax Station commercial buildings—deploying industrial capacity while maintaining the practical, communicative approach that Fairfax business owners value.`,
       `Fairfax's commercial flood exposure comes from predictable sources tied to the area's geography and building stock. Clay soil throughout the Burke, Kings Park, and Fairfax Station areas impedes drainage, directing storm runoff toward commercial foundations and parking lot low spots. Aging storm drain infrastructure in older commercial developments cannot handle the rainfall intensity of severe summer thunderstorms. And the 1970s-90s commercial buildings housing many Fairfax businesses contain plumbing and water heating systems approaching catastrophic failure age—supply lines, water heaters, and commercial kitchen equipment that produce sudden, high-volume flooding when they give out.
 
 Our commercial flood teams approach Fairfax with equipment and strategies calibrated for these specific risks: industrial extraction for storm flooding in parking areas and ground-floor retail, contamination protocols for storm water mixing with parking lot runoff, and the rapid-response capability to reach community-serving businesses before extended water exposure forces prolonged closure.`,
@@ -21,8 +21,8 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
   processSteps: [
     {
       title: 'Fast Local Flood Response',
-      description: `Call (877) 497-0007 for immediate commercial flood dispatch. Our Fairfax crews are stationed near Burke, Fairfax Corner, and the GMU corridor with industrial extraction equipment for rapid deployment to flooded commercial properties.`,
-      timeframe: 'Within 60 minutes',
+      description: `Call (877) 497-0007 for immediate commercial flood dispatch. Our Fairfax crews are available near Burke, Fairfax Corner, and the GMU corridor with industrial extraction equipment for rapid deployment to flooded commercial properties.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Flood Assessment & Water Classification',
@@ -31,7 +31,7 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
     },
     {
       title: 'Industrial Water Removal',
-      description: 'Truck-mounted extractors and portable pumps remove standing floodwater from retail floors, office spaces, and storage areas. For multi-tenant buildings, we stage equipment to work across all affected suites simultaneously rather than sequentially.',
+      description: 'Truck-mounted extractors and portable pumps remove standing floodwater from retail floors, workspaces, and storage areas. For multi-tenant buildings, we stage equipment to work across all affected suites simultaneously rather than sequentially.',
       timeframe: 'Hours 2-8',
     },
     {
@@ -58,7 +58,7 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
     },
     {
       title: 'Water Heater Catastrophic Failures',
-      description: `Commercial water heaters in Fairfax's aging office parks and strip centers reach failure age simultaneously across buildings constructed in the same era. A 50-100 gallon commercial water heater failure floods mechanical closets and adjacent tenant spaces with scalding water that causes both water damage and thermal damage to materials.`,
+      description: `Commercial water heaters in Fairfax's aging business parks and strip centers reach failure age simultaneously across buildings constructed in the same era. A 50-100 gallon commercial water heater failure floods mechanical closets and adjacent tenant spaces with scalding water that causes both water damage and thermal damage to materials.`,
       solution: 'We handle the combined water and heat damage, using drying protocols appropriate for thermally affected materials alongside standard extraction. Our documentation identifies the equipment age and failure mode for insurance and recommends proactive replacement of similar-age units in the building.',
     },
     {
@@ -77,7 +77,7 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
     equipment: [
       {
         name: 'Truck-Mounted Flood Extractors',
-        purpose: 'Remove large volumes of storm and plumbing floodwater from retail spaces, office suites, and commercial common areas',
+        purpose: 'Remove large volumes of storm and plumbing floodwater from retail spaces, business suites, and commercial common areas',
         brand: 'Prochem',
       },
       {
@@ -86,7 +86,7 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
       },
       {
         name: 'Commercial Drying Systems',
-        purpose: 'Industrial dehumidifiers and air movers sized for standard Fairfax commercial office and retail floor plans',
+        purpose: 'Industrial dehumidifiers and air movers sized for standard Fairfax commercial workspace and retail floor plans',
         brand: 'Dri-Eaz',
       },
       {
@@ -103,15 +103,15 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
         brand: 'Phoenix',
       },
     ],
-    localNote: `Our Fairfax commercial flood response carries equipment calibrated for the area's office park and strip center building stock—industrial extraction capacity for storm flooding, contamination management for mixed-source water, and efficient drying systems for standard commercial construction.`,
+    localNote: `Our Fairfax commercial flood response carries equipment calibrated for the area's workspace park and strip center building stock—industrial extraction capacity for storm flooding, contamination management for mixed-source water, and efficient drying systems for standard commercial construction.`,
   },
   pricingSection: {
     headline: 'Commercial Flood Cleanup Costs in Fairfax',
-    intro: 'Fairfax commercial flood cleanup costs depend on flood volume, contamination level, and the extent of inventory or equipment damage. We provide clear estimates before work begins and handle direct billing with commercial insurance carriers. Our straightforward pricing reflects the practical service approach Fairfax business owners expect.',
+    intro: 'Fairfax commercial flood cleanup costs depend on flood volume, contamination level, and the extent of inventory or equipment damage. We provide clear estimates before work begins and provide claim-ready documentation with commercial insurance carriers. Our straightforward pricing reflects the practical service approach Fairfax business owners expect.',
     factors: [
       'Flood volume and affected area—storm flooding that enters from parking areas often affects larger areas than internal pipe failures',
       'Contamination classification—storm floodwater mixing with parking lot runoff requires biohazard protocols increasing cleanup costs',
-      'Inventory and equipment losses—restaurant equipment, retail merchandise, and office equipment require individual documentation',
+      'Inventory and equipment losses—restaurant equipment, retail merchandise, and workspace equipment require individual documentation',
       'Multi-tenant coordination—each affected business needs separate scope documentation and insurance claim support',
       'Reopening timeline requirements—faster restoration for customer-facing businesses may require expanded crew deployment',
     ],
@@ -134,12 +134,12 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
       'University Drive',
       'Braddock Road Commercial Corridor',
     ],
-    responseTime: '60-minute commercial flood response to all Fairfax business areas. Industrial extraction equipment staged near Burke, Fairfax Corner, and the university corridor for immediate deployment.',
+    responseTime: 'timely commercial flood response to all Fairfax business areas. Industrial extraction equipment staged near Burke, Fairfax Corner, and the university corridor for immediate deployment.',
   },
   faqs: [
     {
       question: 'How fast can you respond to commercial flooding in Fairfax?',
-      answer: 'Our commercial dispatch deploys within 60 minutes to all Fairfax business areas—Burke, Fairfax City, Kings Park, and surrounding commercial districts. We carry industrial extraction equipment on every commercial response truck. Call (877) 497-0007 immediately.',
+      answer: 'Our commercial dispatch deploys as quickly as conditions allow to all Fairfax business areas—Burke, Fairfax City, Kings Park, and surrounding commercial districts. We carry industrial extraction equipment on every commercial response truck. Call (877) 497-0007 immediately.',
     },
     {
       question: 'What if storm flooding entered our parking lot and ground-floor retail?',
@@ -155,7 +155,7 @@ Our commercial flood teams approach Fairfax with equipment and strategies calibr
     },
     {
       question: 'Do you handle the insurance claim for commercial flooding?',
-      answer: 'We work with all major commercial carriers and provide complete documentation—Xactimate estimates, moisture logs, photo documentation, and daily progress reports. We handle direct billing and can participate in adjuster meetings to support your claim.',
+      answer: 'We work with all major commercial carriers and provide complete documentation—Xactimate estimates, moisture logs, photo documentation, and daily progress reports. We provide claim-ready documentation and can participate in adjuster meetings to support your claim.',
     },
     {
       question: 'Can you prevent future flooding at our Fairfax commercial property?',

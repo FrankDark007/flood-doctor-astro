@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Arlington, VA | Flood Doctor`,
-    description: `Arlington's trusted commercial fire and smoke restoration team. Emergency response for high-rise offices, restaurants, and multi-tenant buildings in Rosslyn, Ballston, and Crystal City. Call (877) 497-0007.`,
+    description: `Arlington's local commercial fire and smoke restoration team. Emergency response for high-rise workspaces, restaurants, and multi-tenant buildings in Rosslyn, Ballston, and Crystal City. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Arlington, Virginia`,
   introSection: {
     headline: `High-Rise Fire and Smoke Restoration for Arlington Commercial Properties`,
     paragraphs: [
-      `Commercial fire damage in Arlington's urban corridors creates cascading impacts amplified by building density. A kitchen fire in a Clarendon restaurant pushes smoke through the building's shared HVAC system to contaminate offices on upper floors. An electrical panel failure in a Rosslyn high-rise triggers sprinkler activation that causes water damage across multiple floors below the fire. A mechanical room fire in a Crystal City office tower generates toxic fumes that infiltrate elevator shafts and stairwells, displacing thousands of workers from the entire structure. Arlington commercial fire events demand restoration teams equipped for multi-story, multi-discipline response. Flood Doctor provides emergency stabilization through complete reconstruction for Arlington commercial properties of every scale.`,
-      `Smoke damage in Arlington's high-density commercial environment often exceeds the fire damage itself. Centralized HVAC systems in Ballston and Pentagon City office towers distribute smoke particulate to floors that never experienced direct fire contact. Soot deposits on sensitive electronics in Crystal City data rooms cause corrosion damage that worsens hourly without treatment. Smoke odor permeates soft furnishings, ceiling tiles, and wall cavities throughout multi-tenant buildings, making spaces uninhabitable long after visible damage is addressed. Our teams deploy simultaneously on fire cleanup, smoke decontamination, water extraction, and content restoration—an integrated approach that reduces business interruption in Arlington's time-sensitive commercial market.`,
+      `Commercial fire damage in Arlington's urban corridors creates cascading impacts amplified by building density. A kitchen fire in a Clarendon restaurant pushes smoke through the building's shared HVAC system to contaminate workspaces on upper floors. An electrical panel failure in a Rosslyn high-rise triggers sprinkler activation that causes water damage across multiple floors below the fire. A mechanical room fire in a Crystal City workspace tower generates toxic fumes that infiltrate elevator shafts and stairwells, displacing thousands of workers from the entire structure. Arlington commercial fire events demand restoration teams equipped for multi-story, multi-discipline response. Flood Doctor provides emergency stabilization through complete reconstruction for Arlington commercial properties of every scale.`,
+      `Smoke damage in Arlington's high-density commercial environment often exceeds the fire damage itself. Centralized HVAC systems in Ballston and Pentagon City commercial towers distribute smoke particulate to floors that never experienced direct fire contact. Soot deposits on sensitive electronics in Crystal City data rooms cause corrosion damage that worsens hourly without treatment. Smoke odor permeates soft furnishings, ceiling tiles, and wall cavities throughout multi-tenant buildings, making spaces uninhabitable long after visible damage is addressed. Our teams deploy simultaneously on fire cleanup, smoke decontamination, water extraction, and content restoration—an integrated approach that reduces business interruption in Arlington's time-sensitive commercial market.`,
     ],
     localContext: `Arlington's high-rise commercial density—with shared HVAC systems, interconnected building infrastructure, and hundreds of tenants per building—amplifies fire and smoke damage beyond the original event, requiring integrated multi-discipline restoration.`,
   },
@@ -27,12 +27,12 @@ export const content: CityServiceContent = {
     },
     {
       title: `Prioritized Smoke and Soot Removal`,
-      description: `We clean Arlington's most critical commercial spaces first—server rooms, executive suites, medical offices, or revenue-generating retail. Industrial cleaning systems remove soot and smoke residue from structural surfaces while HVAC decontamination teams clear the air distribution system serving affected zones.`,
+      description: `We clean Arlington's most critical commercial spaces first—server rooms, executive suites, medical workspaces, or revenue-generating retail. Industrial cleaning systems remove soot and smoke residue from structural surfaces while HVAC decontamination teams clear the air distribution system serving affected zones.`,
       timeframe: `Days 2-8`,
     },
     {
       title: `Content Restoration and Anti-Corrosion`,
-      description: `Commercial equipment, electronics, documents, and inventory are catalogued, treated with anti-corrosion compounds, and transported to our restoration facility. For Arlington office tenants, we prioritize IT equipment and business-critical documents.`,
+      description: `Commercial equipment, electronics, documents, and inventory are catalogued, treated with anti-corrosion compounds, and transported to our restoration facility. For Arlington workspace tenants, we prioritize IT equipment and business-critical documents.`,
       timeframe: `Days 2-12`,
     },
     {
@@ -86,7 +86,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `Ultrasonic Parts Cleaners`,
-        purpose: `Restore smoke-damaged electronics, circuit boards, and precision instruments from Arlington office and data center equipment`,
+        purpose: `Restore smoke-damaged electronics, circuit boards, and precision instruments from Arlington workspace and data center equipment`,
       },
       {
         name: `Commercial Dehumidification Arrays`,
@@ -106,7 +106,7 @@ export const content: CityServiceContent = {
       `Sprinkler water damage—secondary water damage from fire suppression often adds substantial restoration scope`,
       `Reconstruction standards—Arlington County commercial codes and ADA compliance requirements affect rebuild costs`,
     ],
-    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Arlington. Our teams are positioned throughout the urban corridor for rapid deployment to any Rosslyn, Ballston, Crystal City, or Arlington commercial property.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Arlington. Our teams are available throughout the urban corridor for rapid deployment to any Rosslyn, Ballston, Crystal City, or Arlington commercial property.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       `Nauck`,
       `Penrose`,
     ],
-    responseTime: `Emergency response within 90 minutes to all Arlington commercial properties. Board-up and stabilization crews available 24/7. Full multi-discipline project teams assemble within 24 hours for large-loss commercial fire events in Arlington high-rises.`,
+    responseTime: `Prompt emergency response to all Arlington commercial properties. Board-up and stabilization crews available 24/7. Full multi-discipline project teams assemble within 24 hours for large-loss commercial fire events in Arlington high-rises.`,
   },
   faqs: [
     {
@@ -137,7 +137,7 @@ export const content: CityServiceContent = {
       answer: `Arlington commercial buildings share HVAC systems that distribute smoke particulate to every connected floor. Smoke also migrates through elevator shafts, stairwells, and utility penetrations. Post-fire assessment typically reveals smoke contamination on floors that had no direct fire contact.`,
     },
     {
-      question: `Can you restore our Arlington office while other floors are still under construction?`,
+      question: `Can you restore our Arlington workspace while other floors are still under construction?`,
       answer: `Yes. Phased restoration is standard for multi-tenant Arlington buildings. We establish containment between active construction zones and restored spaces, allowing progressive re-occupancy as individual floors or suites clear air quality testing.`,
     },
     {
@@ -156,6 +156,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Arlington?`,
-    paragraph: `Smoke travels through HVAC systems and building infrastructure, expanding damage every hour. Our multi-discipline commercial fire teams are positioned throughout Arlington for rapid deployment. Call (877) 497-0007 for emergency stabilization and integrated fire restoration.`,
+    paragraph: `Smoke travels through HVAC systems and building infrastructure, expanding damage every hour. Our multi-discipline commercial fire teams are available throughout Arlington for rapid deployment. Call (877) 497-0007 for emergency stabilization and integrated fire restoration.`,
   },
 }

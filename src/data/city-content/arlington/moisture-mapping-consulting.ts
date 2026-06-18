@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Arlington, VA | Flood Doctor',
-    description: `Arlington's trusted moisture mapping experts. Infrared thermography for high-rise condos, rowhouses & multi-unit buildings in Rosslyn, Clarendon & Crystal City. Call (877) 497-0007.`,
+    description: `Arlington's local moisture mapping specialists. Infrared thermography for high-rise condos, rowhouses & multi-unit buildings in Rosslyn, Clarendon & Crystal City. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Arlington, Virginia',
   introSection: {
     headline: `Scientific Moisture Assessment for Arlington Urban Properties`,
     paragraphs: [
-      `Moisture mapping in Arlington presents challenges found nowhere else in Northern Virginia. A 25-story Rosslyn condominium with water migrating through concrete slabs between units, a Clarendon rowhouse where shared party walls transmit moisture from an adjacent property, or a Crystal City high-rise with HVAC condensate saturating interior wall cavities—each scenario demands scientific diagnostics that account for urban building construction. Flood Doctor brings FLIR infrared thermography, calibrated moisture instrumentation, and psychrometric expertise to document moisture conditions in the dense, vertically-oriented building stock that defines Arlington County.`,
-      `Our consulting practice has mapped moisture patterns through Pentagon City residential towers, traced concealed water migration paths in Lyon Village colonials with original plaster walls, and documented building envelope failures in Ballston mixed-use developments. Arlington properties require moisture consultants who understand multi-unit coordination, HOA documentation requirements, and the structural complexities of high-rise and mid-rise construction. Our IICRC-certified team produces digital moisture maps accepted by insurance carriers, condominium associations, and courts—providing the objective data needed to resolve disputes about damage origin, scope, and responsibility between neighboring unit owners.`,
+      `Moisture mapping in Arlington presents challenges found nowhere else in Northern Virginia. A 25-story Rosslyn condominium with water migrating through concrete slabs between units, a Clarendon rowhouse where shared party walls transmit moisture from an adjacent property, or a Crystal City high-rise with HVAC condensate saturating interior wall cavities—each scenario demands scientific diagnostics that account for urban building construction. Flood Doctor brings FLIR infrared thermography, calibrated moisture instrumentation, and psychrometric experience to document moisture conditions in the dense, vertically-oriented building stock that defines Arlington County.`,
+      `Our consulting practice has mapped moisture patterns through Pentagon City residential towers, traced concealed water migration paths in Lyon Village colonials with original plaster walls, and documented building envelope failures in Ballston mixed-use developments. Arlington properties require moisture consultants who understand multi-unit coordination, HOA documentation requirements, and the structural complexities of high-rise and mid-rise construction. Our trained team produces digital moisture maps accepted by insurance carriers, condominium associations, and courts—providing the objective data needed to resolve disputes about damage origin, scope, and responsibility between neighboring unit owners.`,
     ],
-    localContext: `Arlington County's mix of high-rise condominiums, historic rowhouses, and mid-century single-family homes creates diverse moisture mapping challenges that require expertise across multiple building construction types.`,
+    localContext: `Arlington County's mix of high-rise condominiums, historic rowhouses, and mid-century single-family homes creates diverse moisture mapping challenges that require experience across multiple building construction types.`,
   },
   processSteps: [
     {
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Bluemont',
       'Ashton Heights',
     ],
-    responseTime: `Same-day moisture assessment throughout Arlington County. Emergency thermal imaging available within 90 minutes for active water intrusion in occupied buildings. Call (877) 497-0007.`,
+    responseTime: `Same-day moisture assessment throughout Arlington County. Emergency thermal imaging available promptly for active water intrusion in occupied buildings. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -160,7 +160,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Do you offer expert witness services for Arlington property disputes?',
-      answer: `Yes. Our IICRC-certified moisture consultants provide expert testimony in court proceedings, arbitration, and mediation. We have supported cases involving inter-unit damage disputes, construction defect claims, and insurance coverage disagreements for Arlington condominium and residential properties.`,
+      answer: `Yes. Our trained moisture consultants provide expert testimony in court proceedings, arbitration, and mediation. We have supported cases involving inter-unit damage disputes, construction defect claims, and insurance coverage disagreements for Arlington condominium and residential properties.`,
     },
     {
       question: 'What is the difference between moisture mapping and a standard water damage inspection?',

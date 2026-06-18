@@ -3,35 +3,35 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Fairfax, VA | Flood Doctor',
-    description: `Fairfax commercial water damage restoration. Fast response for office parks, university facilities & retail centers near George Mason, Burke & Fairfax Corner. Call (877) 497-0007.`,
+    description: `Fairfax commercial water damage restoration. Fast response for business parks, university facilities & retail centers near George Mason, Burke & Fairfax Corner. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Fairfax, Virginia',
   introSection: {
     headline: `Practical Commercial Water Damage Solutions for Fairfax Businesses`,
     paragraphs: [
-      `Fairfax's commercial landscape reflects the practical, family-oriented character of its neighborhoods—professional office parks serving local businesses, medical and dental practices anchoring strip centers, restaurants and retail filling community-oriented developments like Fairfax Corner, and institutional facilities supporting George Mason University. When a burst supply line floods a Kings Park dental office on a Friday evening, or an HVAC condensate failure saturates ceiling tiles across a Burke Centre professional building, these businesses need a restoration partner that responds fast, works efficiently, and communicates clearly about costs and timelines. Fairfax commercial property owners value straightforward competence over flashy promises.
+      `Fairfax's commercial landscape reflects the practical, family-oriented character of its neighborhoods—professional business parks serving local businesses, medical and dental practices anchoring strip centers, restaurants and retail filling community-oriented developments like Fairfax Corner, and institutional facilities supporting George Mason University. When a burst supply line floods a Kings Park dental workspace on a Friday evening, or an HVAC condensate failure saturates ceiling tiles across a Burke Centre professional building, these businesses need a restoration partner that responds fast, works efficiently, and communicates clearly about costs and timelines. Fairfax commercial property owners value straightforward competence over flashy promises.
 
-Flood Doctor's commercial division has restored water-damaged businesses throughout Fairfax's established commercial corridors. We've dried flooded medical offices in Mantua professional centers, extracted standing water from Fairfax City retail spaces near Old Town Fairfax, and restored water-damaged classrooms and offices in the George Mason University area—delivering the reliable, value-conscious service that Fairfax's business community expects.`,
-      `Fairfax's commercial water damage challenges stem from the area's building stock. Many office parks and strip centers date from the 1970s through 1990s, featuring plumbing, HVAC, and roofing systems approaching or exceeding their service life. Supply line failures in aging office buildings produce sudden flooding that affects multiple tenant suites. Flat-roof commercial buildings in the Burke and Fairfax Station areas develop slow leaks that go undetected until ceiling tiles collapse or mold appears. And the area's clay soil creates drainage issues around commercial foundations that worsen with each year of ground settling.
+Flood Doctor's commercial division has restored water-damaged businesses throughout Fairfax's established commercial corridors. We've dried flooded medical workspaces in Mantua professional centers, extracted standing water from Fairfax City retail spaces near Old Town Fairfax, and restored water-damaged classrooms and workspaces in the George Mason University area—delivering the reliable, value-conscious service that Fairfax's business community expects.`,
+      `Fairfax's commercial water damage challenges stem from the area's building stock. Many business parks and strip centers date from the 1970s through 1990s, featuring plumbing, HVAC, and roofing systems approaching or exceeding their service life. Supply line failures in aging commercial buildings produce sudden flooding that affects multiple tenant suites. Flat-roof commercial buildings in the Burke and Fairfax Station areas develop slow leaks that go undetected until ceiling tiles collapse or mold appears. And the area's clay soil creates drainage issues around commercial foundations that worsen with each year of ground settling.
 
-Our IICRC-certified commercial teams understand the building systems common in Fairfax's commercial inventory. We trace water migration through dropped ceiling plenums, identify HVAC-related moisture problems before they become mold issues, and provide documentation that supports insurance claims for commercial properties where aging infrastructure is the root cause of water damage.`,
+Our trained commercial teams understand the building systems common in Fairfax's commercial inventory. We trace water migration through dropped ceiling plenums, identify HVAC-related moisture problems before they become mold issues, and provide documentation that supports insurance claims for commercial properties where aging infrastructure is the root cause of water damage.`,
     ],
-    localContext: `Fairfax's established commercial office parks and community-oriented retail centers—many dating from the 1970s-90s with aging building systems—require restoration teams that combine commercial capability with the practical efficiency and clear communication that local business owners expect.`,
+    localContext: `Fairfax's established commercial business parks and community-oriented retail centers—many dating from the 1970s-90s with aging building systems—require restoration teams that combine commercial capability with the practical efficiency and clear communication that local business owners expect.`,
   },
   processSteps: [
     {
       title: 'Rapid Local Dispatch',
       description: `Call (877) 497-0007 for immediate commercial response. Our Fairfax crews are positioned near Fairfax Corner, Burke, and the George Mason corridor for rapid deployment to commercial properties throughout the area.`,
-      timeframe: 'Within 45 minutes',
+      timeframe: 'Within as quickly as conditions allow',
     },
     {
       title: 'Commercial Damage Assessment',
-      description: 'Our project manager evaluates the scope across all affected tenant spaces, tracing water through dropped ceiling plenums, shared walls, and floor assemblies common in Fairfax office parks. Thermal imaging reveals hidden moisture in ceiling cavities and wall assemblies that visual inspection misses.',
+      description: 'Our project manager evaluates the scope across all affected tenant spaces, tracing water through dropped ceiling plenums, shared walls, and floor assemblies common in Fairfax business parks. Thermal imaging reveals hidden moisture in ceiling cavities and wall assemblies that visual inspection misses.',
       timeframe: 'First 2 hours',
     },
     {
       title: 'Efficient Water Extraction',
-      description: 'Truck-mounted extractors remove standing water from affected commercial spaces. In Fairfax multi-tenant office buildings, we establish containment to protect unaffected suites and coordinate extraction with building management for after-hours scheduling when possible.',
+      description: 'Truck-mounted extractors remove standing water from affected commercial spaces. In Fairfax multi-tenant commercial buildings, we establish containment to protect unaffected suites and coordinate extraction with building management for after-hours scheduling when possible.',
       timeframe: 'Hours 2-6',
     },
     {
@@ -58,18 +58,18 @@ Our IICRC-certified commercial teams understand the building systems common in F
     },
     {
       title: 'Flat-Roof Commercial Leak Damage',
-      description: 'Strip centers and office buildings throughout Fairfax feature flat or low-slope roofing that develops leaks at membrane seams, around penetrations, and at drainage points. These leaks often persist undetected, causing hidden damage in ceiling plenums before visible signs appear.',
+      description: 'Strip centers and commercial buildings throughout Fairfax feature flat or low-slope roofing that develops leaks at membrane seams, around penetrations, and at drainage points. These leaks often persist undetected, causing hidden damage in ceiling plenums before visible signs appear.',
       solution: 'Thermal imaging maps the full extent of moisture infiltration above drop ceilings and within ceiling cavities. We dry the concealed space thoroughly while documenting the roof deficiency for property owner and insurance carrier.',
     },
     {
       title: 'Multi-Suite Water Migration in Office Parks',
-      description: 'Water from a single pipe burst in a Fairfax office building migrates through shared walls, ceiling plenums, and floor assemblies into adjacent tenant suites. Each tenant has their own insurance coverage and operational timeline, creating coordination demands.',
+      description: 'Water from a single pipe burst in a Fairfax commercial building migrates through shared walls, ceiling plenums, and floor assemblies into adjacent tenant suites. Each tenant has their own insurance coverage and operational timeline, creating coordination demands.',
       solution: 'Our project manager coordinates across affected tenants with individual documentation for each suite. We establish separate insurance claims while managing the restoration as a single coordinated project to prevent gaps or overlaps between suites.',
     },
     {
       title: 'Medical and Dental Office Compliance',
       description: 'Fairfax commercial areas have significant concentrations of medical and dental practices where water damage triggers compliance concerns about patient records, pharmaceutical storage, sterilization equipment, and clinical space safety.',
-      solution: 'We follow healthcare facility protocols for medical office restoration, protecting patient records, coordinating with equipment manufacturers on sterilization equipment assessment, and providing environmental clearance documentation for clinical space reoccupancy.',
+      solution: 'We follow healthcare facility protocols for medical workspace restoration, protecting patient records, coordinating with equipment manufacturers on sterilization equipment assessment, and providing environmental clearance documentation for clinical space reoccupancy.',
     },
   ],
   equipmentSection: {
@@ -77,12 +77,12 @@ Our IICRC-certified commercial teams understand the building systems common in F
     equipment: [
       {
         name: 'Truck-Mounted Extraction Systems',
-        purpose: 'Remove standing water rapidly from office suites, retail spaces, and commercial common areas',
+        purpose: 'Remove standing water rapidly from business suites, retail spaces, and commercial common areas',
         brand: 'Prochem',
       },
       {
         name: 'Commercial Dehumidifiers',
-        purpose: 'Industrial-capacity moisture removal sized for standard commercial floor plans in Fairfax office parks',
+        purpose: 'Industrial-capacity moisture removal sized for standard commercial floor plans in Fairfax business parks',
         brand: 'Dri-Eaz',
       },
       {
@@ -104,17 +104,17 @@ Our IICRC-certified commercial teams understand the building systems common in F
         brand: 'Phoenix',
       },
     ],
-    localNote: `Our Fairfax commercial response trucks carry equipment matched to the area's office park and strip center building stock—above-ceiling drying systems for flat-roof buildings, cavity drying for shared-wall suites, and efficient extraction for standard commercial construction.`,
+    localNote: `Our Fairfax commercial response trucks carry equipment matched to the area's workspace park and strip center building stock—above-ceiling drying systems for flat-roof buildings, cavity drying for shared-wall suites, and efficient extraction for standard commercial construction.`,
   },
   pricingSection: {
     headline: 'Commercial Water Damage Costs in Fairfax',
-    intro: 'Fairfax commercial water damage restoration costs depend on affected area, materials involved, and the source of water damage. We provide clear, detailed estimates before work begins and handle direct billing with all major commercial insurance carriers. No surprises—just straightforward pricing for professional restoration.',
+    intro: 'Fairfax commercial water damage restoration costs depend on affected area, materials involved, and the source of water damage. We provide clear, detailed estimates before work begins and handle claim-ready documentation for commercial insurance carriers. Clear scope updates—just straightforward pricing for professional restoration.',
     factors: [
       'Affected square footage across all tenant suites—water migration through ceiling plenums often affects more area than initially visible',
       'Water source and category—clean-water pipe bursts require different protocols than contaminated sewer backups',
       'Ceiling system involvement—drop ceiling damage with plenum moisture adds above-ceiling drying scope',
       'Tenant count—each affected suite requires individual scope documentation and insurance coordination',
-      'Business hours scheduling—after-hours work for medical offices and customer-facing businesses may affect scheduling efficiency',
+      'Business hours scheduling—after-hours work for medical workspaces and customer-facing businesses may affect scheduling efficiency',
     ],
     cta: `Call (877) 497-0007 for a free commercial assessment. We'll provide a clear scope and estimate, explain your insurance options, and begin restoration on your timeline.`,
   },
@@ -135,24 +135,24 @@ Our IICRC-certified commercial teams understand the building systems common in F
       'Fair Lakes',
       'University Drive Area',
     ],
-    responseTime: '45-minute commercial response to all Fairfax business areas. Crews positioned near Fairfax Corner, Burke, and the George Mason corridor for rapid deployment.',
+    responseTime: 'timely commercial response to all Fairfax business areas. Service-area teams available near Fairfax Corner, Burke, and the George Mason corridor for rapid deployment.',
   },
   faqs: [
     {
-      question: 'How quickly can you respond to water damage in our Fairfax office?',
-      answer: 'Our commercial dispatch reaches Fairfax City, Burke, Kings Park, and surrounding business areas within 45 minutes. We carry extraction and drying equipment on every truck for immediate work upon arrival. Call (877) 497-0007 any time, day or night.',
+      question: 'How quickly can you respond to water damage in our Fairfax workspace?',
+      answer: 'Our commercial dispatch reaches Fairfax City, Burke, Kings Park, and surrounding business areas as quickly as conditions allow. We carry extraction and drying equipment on every truck for immediate work upon arrival. Call (877) 497-0007 any time, day or night.',
     },
     {
-      question: 'Can you work after hours in our medical or dental office?',
-      answer: 'Absolutely. We routinely schedule extraction and equipment setup during evenings and weekends for Fairfax medical practices. Drying equipment runs quietly during business hours. We coordinate scheduling with your office manager to minimize patient disruption.',
+      question: 'Can you work after hours in our medical or dental workspace?',
+      answer: 'Absolutely. We routinely schedule extraction and equipment setup during evenings and weekends for Fairfax medical practices. Drying equipment runs quietly during business hours. We coordinate scheduling with your workspace manager to minimize patient disruption.',
     },
     {
-      question: 'What about water damage in our office building with multiple tenants?',
+      question: 'What about water damage in our commercial building with multiple tenants?',
       answer: 'We manage the entire building event while maintaining separate documentation for each affected tenant. One project manager coordinates with building management and all tenants, ensuring efficient restoration without gaps between suites.',
     },
     {
       question: 'Do you handle insurance claims for commercial properties?',
-      answer: 'Yes. We work with all commercial carriers, provide Xactimate estimates, and handle direct billing. Our documentation includes moisture logs, daily progress photos, and detailed scoping that commercial adjusters require for claim processing.',
+      answer: 'Yes. We provide documentation for commercial carriers, provide Xactimate estimates, and provide claim-ready documentation. Our documentation includes moisture logs, daily progress photos, and detailed scoping that commercial adjusters require for claim processing.',
     },
     {
       question: 'Our roof has been leaking into the ceiling—can you handle that?',
@@ -164,7 +164,7 @@ Our IICRC-certified commercial teams understand the building systems common in F
     },
     {
       question: 'Can you help with water damage near George Mason University?',
-      answer: 'Yes. We serve all commercial properties in the GMU area, including office buildings, retail centers, and institutional facilities. Our crews are positioned to reach the university corridor quickly for both emergency response and scheduled restoration.',
+      answer: 'Yes. We serve all commercial properties in the GMU area, including commercial buildings, retail centers, and institutional facilities. Our service-area teams are available to reach the university corridor quickly for both emergency response and scheduled restoration.',
     },
   ],
   relatedBlogSlugs: [

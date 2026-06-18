@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's trusted commercial fire and smoke restoration team. Emergency response for restaurants, retail centers, and office buildings near Burke, GMU, and Fairfax Corner. Call (877) 497-0007.`,
+    description: `Fairfax's local commercial fire and smoke restoration team. Emergency response for restaurants, retail centers, and commercial buildings near Burke, GMU, and Fairfax Corner. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Fairfax, Virginia`,
   introSection: {
     headline: `Getting Fairfax Businesses Back Open After Fire and Smoke Damage`,
     paragraphs: [
-      `A fire at a Fairfax commercial property hits the community-oriented businesses that families depend on. A kitchen fire at a Burke Centre restaurant shuts down a neighborhood gathering spot while smoke travels through shared HVAC to contaminate adjacent retail suites. An electrical fire at a Kings Park medical office forces patient rescheduling while smoke residue settles on sensitive equipment. A fire in a Fairfax City strip mall threatens multiple family-owned businesses sharing walls and infrastructure. Every day of closure costs revenue and customer loyalty in a market where local businesses compete on relationships. Flood Doctor provides integrated fire restoration that prioritizes getting Fairfax commercial properties back to business as efficiently as possible.`,
+      `A fire at a Fairfax commercial property hits the community-oriented businesses that families depend on. A kitchen fire at a Burke Centre restaurant shuts down a neighborhood gathering spot while smoke travels through shared HVAC to contaminate adjacent retail suites. An electrical fire at a Kings Park medical workspace forces patient rescheduling while smoke residue settles on sensitive equipment. A fire in a Fairfax City strip mall threatens multiple family-owned businesses sharing walls and infrastructure. Every day of closure costs revenue and customer loyalty in a market where local businesses compete on relationships. Flood Doctor provides integrated fire restoration that prioritizes getting Fairfax commercial properties back to business as efficiently as possible.`,
       `Smoke damage in Fairfax commercial buildings follows patterns tied to the suburban building stock. Strip malls with shared rooftop HVAC units distribute smoke from one tenant space to every connected suite. Colonial-era strip centers in Old Town Fairfax feature wooden structural elements that absorb smoke deeply and require specialized deodorization. Modern buildings near Fairfax Corner and George Mason University have open floor plans where smoke migrates rapidly through large, unpartitioned spaces. Fire suppression water from sprinkler activation in Fairfax Station commercial buildings adds secondary water damage that compounds the original fire loss. Our multi-discipline teams address fire, smoke, water, and content damage simultaneously—reducing the total business interruption timeline.`,
     ],
-    localContext: `Fairfax's community-focused commercial environment—with strip malls, restaurant clusters, medical offices, and family-serving businesses—requires fire restoration that minimizes disruption and gets local businesses operational quickly.`,
+    localContext: `Fairfax's community-focused commercial environment—with strip malls, restaurant clusters, medical workspaces, and family-serving businesses—requires fire restoration that minimizes disruption and gets local businesses operational quickly.`,
   },
   processSteps: [
     {
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Content and Equipment Restoration`,
-      description: `Commercial equipment, inventory, and business records are catalogued, treated with anti-corrosion compounds, and cleaned at our facility. For medical offices, we prioritize equipment restoration to reduce patient appointment disruption.`,
+      description: `Commercial equipment, inventory, and business records are catalogued, treated with anti-corrosion compounds, and cleaned at our facility. For medical workspaces, we prioritize equipment restoration to reduce patient appointment disruption.`,
       timeframe: `Days 2-10`,
     },
     {
@@ -59,7 +59,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Medical Office Equipment Sensitivity`,
-      description: `Smoke residue on medical and dental equipment in Fairfax office parks creates both corrosion damage and patient safety concerns. Devices must meet manufacturer standards before returning to clinical use.`,
+      description: `Smoke residue on medical and dental equipment in Fairfax business parks creates both corrosion damage and patient safety concerns. Devices must meet manufacturer standards before returning to clinical use.`,
       solution: `We provide immediate anti-corrosion treatment for medical equipment and coordinate with manufacturers on cleaning and certification protocols. Detailed restoration documentation supports equipment insurance claims and regulatory compliance.`,
     },
     {
@@ -98,7 +98,7 @@ export const content: CityServiceContent = {
         purpose: `Restore smoke-damaged electronics, medical instruments, and commercial equipment using precision cavitation cleaning`,
       },
     ],
-    localNote: `Our Fairfax commercial fire equipment is scaled for the suburban commercial building types that define this market—strip malls, standalone restaurants, medical offices, and retail centers throughout Fairfax City, Burke, and surrounding areas.`,
+    localNote: `Our Fairfax commercial fire equipment is scaled for the suburban commercial building types that define this market—strip malls, standalone restaurants, medical workspaces, and retail centers throughout Fairfax City, Burke, and surrounding areas.`,
   },
   pricingSection: {
     headline: `Commercial Fire Restoration Costs in Fairfax`,
@@ -110,7 +110,7 @@ export const content: CityServiceContent = {
       `Content and equipment restoration—medical equipment, restaurant inventory, and retail stock each require specialized handling`,
       `Business interruption urgency—expedited restoration reduces cumulative revenue loss for Fairfax commercial tenants`,
     ],
-    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Fairfax. Our teams are positioned throughout the area for rapid deployment to Fairfax City, Burke, Kings Park, and all Fairfax commercial districts.`,
+    cta: `Call (877) 497-0007 for immediate commercial fire emergency response in Fairfax. Our teams are available throughout the area for rapid deployment to Fairfax City, Burke, Kings Park, and all Fairfax commercial districts.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       `Lee Highway`,
       `Braddock Road`,
     ],
-    responseTime: `Emergency response within 2 hours to all Fairfax commercial properties. Board-up and stabilization available 24/7. Full project teams assemble within 24 hours for multi-tenant strip mall fire events.`,
+    responseTime: `Prompt emergency response to all Fairfax commercial properties. Board-up and stabilization available 24/7. Full project teams assemble within 24 hours for multi-tenant strip mall fire events.`,
   },
   faqs: [
     {
@@ -141,7 +141,7 @@ export const content: CityServiceContent = {
       answer: `In most cases, yes. We establish containment between the fire-damaged unit and adjacent spaces, decontaminate shared HVAC systems, and verify air quality. Once adjacent spaces pass testing, those tenants can resume operations while reconstruction continues.`,
     },
     {
-      question: `What about smoke damage to medical equipment in our Fairfax office?`,
+      question: `What about smoke damage to medical equipment in our Fairfax workspace?`,
       answer: `We provide immediate anti-corrosion treatment to prevent permanent damage and coordinate with equipment manufacturers on cleaning protocols and re-certification requirements. Detailed documentation supports both insurance claims and regulatory compliance.`,
     },
     {
@@ -154,7 +154,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `What about smoke odor after cleaning is complete?`,
-      answer: `We use thermal fogging and hydroxyl generation to neutralize smoke molecules embedded in structural materials. Air quality testing verifies safe, odor-free conditions before tenants return. We guarantee odor elimination—persistent smoke smell is unacceptable for Fairfax commercial spaces.`,
+      answer: `We use thermal fogging and hydroxyl generation to neutralize smoke molecules embedded in structural materials. Air quality testing verifies safe, odor-free conditions before tenants return. We commitment odor elimination—persistent smoke smell is unacceptable for Fairfax commercial spaces.`,
     },
   ],
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],

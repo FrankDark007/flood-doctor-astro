@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Alexandria, VA | Flood Doctor',
-    description: 'Alexandria storm damage restoration. 30-min response for roof damage, wind damage & storm flooding. BAR-compliant historic repairs. Call (877) 497-0007.',
+    description: 'Alexandria storm damage restoration. prompt response for roof damage, wind damage & storm flooding. BAR-compliant historic repairs. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Alexandria, Virginia',
   introSection: {
@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has restored storm-damaged Alexandria properties for nearly two decades. We've tarped historic slate roofs in Old Town after tree falls, protecting irreplaceable interiors while permanent repairs were coordinated with the Board of Architectural Review. We've extracted storm surge from Belle Haven homes after Potomac flooding. We've dried the original plaster walls in Rosemont colonials where wind-driven rain penetrated century-old construction.`,
       `Storm damage in Alexandria creates compound problems. A tree through your Old Town roof allows rain to damage original plaster ceilings, heart pine floors, and period furnishings—all before you can even arrange a contractor. Wind-driven rain penetrates historic construction in ways modern buildings resist. Power outages disable sump pumps, allowing basement flooding in Del Ray homes that normally stay dry.
 
-Our IICRC-certified technicians respond to Alexandria storm emergencies with both water damage expertise and historic preservation knowledge. We know that your 1890s rowhouse needs emergency tarping that won't damage the historic slate when a tree strikes. We understand that the BAR requires specific materials and methods for visible repairs. We coordinate the full restoration process—from emergency response through final BAR-approved repairs—protecting your property and your sanity during a stressful time.`,
+Our trained technicians respond to Alexandria storm emergencies with both water damage experience and historic preservation knowledge. We know that your 1890s rowhouse needs emergency tarping that won't damage the historic slate when a tree strikes. We understand that the BAR requires specific materials and methods for visible repairs. We coordinate the full restoration process—from emergency response through final BAR-approved repairs—protecting your property and your sanity during a stressful time.`,
     ],
-    localContext: `Alexandria's mature tree canopy, waterfront location, historic housing stock, and aging infrastructure combine to create storm damage scenarios that require specialized expertise. We've navigated these complex restorations for years.`,
+    localContext: `Alexandria's mature tree canopy, waterfront location, historic housing stock, and aging infrastructure combine to create storm damage scenarios that require specialized experience. We've navigated these complex restorations for years.`,
   },
   processSteps: [
     {
       title: 'Emergency Response & Safety Assessment',
-      description: 'When you call (877) 497-0007 during or after a storm, we respond within 30 minutes when safe travel is possible. Our first priority is safety—assessing structural stability, electrical hazards, and gas leaks. We coordinate with utilities and emergency services when needed.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007 during or after a storm, we respond as quickly as conditions allow when safe travel is possible. Our first priority is safety—assessing structural stability, electrical hazards, and gas leaks. We coordinate with utilities and emergency services when needed.',
+      timeframe: 'Initial response',
     },
     {
       title: 'Emergency Tarping & Boarding',
@@ -120,7 +120,7 @@ Our IICRC-certified technicians respond to Alexandria storm emergencies with bot
       'Power outage duration—extended outages can cause secondary flooding and spoilage',
       'Emergency protection requirements—tarping and boarding costs vary with damage complexity',
     ],
-    cta: `Call (877) 497-0007 for immediate storm damage response. We'll assess the damage, provide emergency protection, and deliver a detailed estimate for complete restoration.`,
+    cta: `Call (877) 497-0007 for immediate storm damage response. We'll assess the damage, provide emergency protection, and deliver a detailed estimate for thorough restoration.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -140,12 +140,12 @@ Our IICRC-certified technicians respond to Alexandria storm emergencies with bot
       'Mount Vernon',
       'Huntington',
     ],
-    responseTime: '30-minute response to all Alexandria neighborhoods when safe travel is possible. During major storm events, we prioritize based on damage severity and safety conditions. Multiple crews deploy simultaneously during widespread events.',
+    responseTime: 'prompt response to all Alexandria neighborhoods when safe travel is possible. During major storm events, we prioritize based on damage severity and safety conditions. Multiple crews deploy simultaneously during widespread events.',
   },
   faqs: [
     {
       question: 'A tree fell on my roof during the storm. What should I do?',
-      answer: `First, ensure everyone is safe and evacuate if there's any structural concern. Don't go into the attic or upper floors beneath the damage. Call (877) 497-0007 immediately—we'll respond within 30 minutes to assess, provide emergency tarping, and prevent further water damage. Don't attempt to remove the tree yourself; that's work for tree services after we've protected the structure.`,
+      answer: `First, ensure everyone is safe and evacuate if there's any structural concern. Don't go into the attic or upper floors beneath the damage. Call (877) 497-0007 immediately—we'll respond as quickly as conditions allow to assess, provide emergency tarping, and prevent further water damage. Don't attempt to remove the tree yourself; that's work for tree services after we've protected the structure.`,
     },
     {
       question: 'Can you respond during an active storm?',
@@ -153,11 +153,11 @@ Our IICRC-certified technicians respond to Alexandria storm emergencies with bot
     },
     {
       question: 'Will insurance cover my storm damage?',
-      answer: 'Most homeowner policies cover storm damage from wind, hail, and falling trees. Flood damage from external sources typically requires separate flood insurance. We document everything thoroughly from the moment we arrive, building the comprehensive record that supports complete claims. We also work directly with insurance adjusters.',
+      answer: 'Most homeowner policies cover storm damage from wind, hail, and falling trees. Flood damage from external sources typically requires separate flood insurance. We document everything thoroughly from the moment we arrive, building the comprehensive record that supports well-documented claims. We also work directly with insurance adjusters.',
     },
     {
       question: 'My roof is damaged but the house seems dry inside. Do I still need emergency service?',
-      answer: 'Yes. What appears dry now can change quickly—another rain shower, humidity, or unseen moisture migration can cause significant damage within hours or days. Emergency tarping prevents further water intrusion while you arrange permanent repairs. The cost of tarping is far less than repairing water damage that could have been prevented.',
+      answer: 'Yes. What appears dry now can change quickly—another rain shower, humidity, or unseen moisture migration can cause significant damage promptly or days. Emergency tarping prevents further water intrusion while you arrange permanent repairs. The cost of tarping is far less than repairing water damage that could have been prevented.',
     },
     {
       question: 'Do you handle the Board of Architectural Review process for historic property repairs?',

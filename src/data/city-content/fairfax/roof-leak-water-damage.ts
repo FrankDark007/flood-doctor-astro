@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Fairfax, VA | Flood Doctor',
-    description: `Fairfax roof leak water damage specialists. Serving Burke, Kings Park & Mantua. Colonial and split-level ice dam expertise. Emergency tarping & ceiling repair. Call (877) 497-0007.`,
+    description: `Fairfax roof leak water damage specialists. Serving Burke, Kings Park & Mantua. Colonial and split-level ice dam experience. Emergency tarping & ceiling repair. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Fairfax, Virginia',
   introSection: {
@@ -17,8 +17,8 @@ export const content: CityServiceContent = {
   processSteps: [
     {
       title: 'Rapid Fairfax Response',
-      description: `Call (877) 497-0007 and we respond within 30 minutes. We assess the ceiling damage from inside, then inspect the attic to trace the leak path from the visible stain back to the actual roof entry point—which is often 10-15 feet away in a different area entirely.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and we respond as quickly as conditions allow. We assess the ceiling damage from inside, then inspect the attic to trace the leak path from the visible stain back to the actual roof entry point—which is often 10-15 feet away in a different area entirely.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Emergency Roof Tarping',
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       'Greenbriar',
       'Robinson Landing',
     ],
-    responseTime: '30-minute emergency response throughout Fairfax. Our crews reach Burke, Kings Park, Mantua, and Fairfax City with tarping, drying, and ceiling restoration equipment for immediate deployment.',
+    responseTime: 'prompt emergency response throughout Fairfax. Our crews reach Burke, Kings Park, Mantua, and Fairfax City with tarping, drying, and ceiling restoration equipment for immediate deployment.',
   },
   faqs: [
     {

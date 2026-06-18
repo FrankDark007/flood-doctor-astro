@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Fairfax's commercial infrastructure extends well beyond the residential neighborhoods that define most of the area. Business parks near Fair Lakes and Fairfax Corner house technology companies, government contractors, and professional services firms with sensitive equipment and critical data. Light manufacturing operations in the Route 50 corridor produce specialized products for government and commercial clients. Restaurant commissary kitchens near Old Town Fairfax supply food service operations across the region. When water damage strikes these facilities, the disruption affects production schedules, data integrity, and supply chains that extend far beyond the physical property.
 
-Flood Doctor delivers industrial-grade restoration calibrated for Fairfax's diverse commercial landscape. Our HAZWOPER-certified crews handle chemical storage areas in production facilities, while our technology recovery teams protect server rooms and computing infrastructure in business park offices. We understand that a flooded production line near Burke Lake means missed delivery deadlines, and a water-damaged data center at Fair Lakes threatens the government contract performance that drives Fairfax's business economy.`,
+Flood Doctor delivers industrial-grade restoration calibrated for Fairfax's diverse commercial landscape. Our safety-trained crews handle chemical storage areas in production facilities, while our technology recovery teams protect server rooms and computing infrastructure in business park workspaces. We understand that a flooded production line near Burke Lake means missed delivery deadlines, and a water-damaged data center at Fair Lakes threatens the government contract performance that drives Fairfax's business economy.`,
       `The suburban commercial buildings housing Fairfax's industrial operations present restoration challenges distinct from dedicated industrial parks. Many operations occupy multi-tenant business parks where shared plumbing, HVAC, and fire suppression systems create water damage exposure from adjacent tenants. Parking lot drainage and stormwater management in Kings Park and Mantua commercial areas can overwhelm building defenses during heavy rain events. Older commercial buildings along Route 50 have flat roof systems that pond water and eventually fail, sending thousands of gallons into production and storage spaces below.
 
 Our Fairfax industrial team adapts heavy restoration capability to these suburban commercial settings. We navigate multi-tenant building coordination, manage equipment deployment through shared parking areas and building entrances, and address the building system failures that caused the damage alongside the restoration itself. For Fairfax businesses, the goal extends beyond drying the space—we restore operational capability while protecting the insurance and warranty options that offset financial impact.`,
@@ -22,7 +22,7 @@ Our Fairfax industrial team adapts heavy restoration capability to these suburba
     {
       title: `Commercial Emergency Response`,
       description: `Call (877) 497-0007 for immediate commercial or industrial deployment. Our Fairfax crews arrive with extraction equipment and anti-corrosion treatment materials, coordinating with building management for access to affected commercial spaces and shared building systems.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `Initial response`,
     },
     {
       title: `Operational Impact Assessment`,
@@ -41,7 +41,7 @@ Our Fairfax industrial team adapts heavy restoration capability to these suburba
     },
     {
       title: `Commercial-Scale Structural Drying`,
-      description: `Industrial dehumidifiers and air movers are deployed based on space configuration—open-plan offices, production floors, warehouse storage, and server rooms each receive equipment optimized for their specific layout and material composition.`,
+      description: `Industrial dehumidifiers and air movers are deployed based on space configuration—open-plan workspaces, production floors, warehouse storage, and server rooms each receive equipment optimized for their specific layout and material composition.`,
       timeframe: `Days 1-5`,
     },
     {
@@ -86,7 +86,7 @@ Our Fairfax industrial team adapts heavy restoration capability to these suburba
       },
       {
         name: `Industrial Dehumidifiers`,
-        purpose: `Commercial-scale moisture removal configured for varied space types—open offices, production floors, and warehouse storage`,
+        purpose: `Commercial-scale moisture removal configured for varied space types—open workspaces, production floors, and warehouse storage`,
         brand: `Dri-Eaz`,
       },
       {
@@ -133,7 +133,7 @@ Our Fairfax industrial team adapts heavy restoration capability to these suburba
       `Greenbriar`,
       `Fair Oaks`,
     ],
-    responseTime: `30-minute emergency response to all Fairfax commercial and industrial facilities. Our crews carry technology recovery and standard extraction equipment for immediate deployment to business parks and production facilities throughout central Fairfax County.`,
+    responseTime: `prompt emergency response to all Fairfax commercial and industrial facilities. Our crews carry technology recovery and standard extraction equipment for immediate deployment to business parks and production facilities throughout central Fairfax County.`,
   },
   faqs: [
     {
@@ -146,7 +146,7 @@ Our Fairfax industrial team adapts heavy restoration capability to these suburba
     },
     {
       question: `How quickly can our Fairfax production facility resume operations?`,
-      answer: `We prioritize production-critical areas and equipment. Many Fairfax commercial operations resume partial operations within 48-72 hours with full restoration completing over the following days. Production equipment receives anti-corrosion treatment within hours to prevent permanent damage.`,
+      answer: `We prioritize production-critical areas and equipment. Many Fairfax commercial operations resume partial operations within 48-72 hours with full restoration completing over the following days. Production equipment receives anti-corrosion treatment promptly to prevent permanent damage.`,
     },
     {
       question: `What about food production facility contamination?`,
@@ -166,6 +166,6 @@ Our Fairfax industrial team adapts heavy restoration capability to these suburba
   ],
   finalCTA: {
     headline: `Fairfax Commercial or Industrial Emergency?`,
-    paragraph: `Production downtime and equipment damage grow worse by the hour. Our commercial restoration crews reach any Fairfax facility within 30 minutes with anti-corrosion treatment, extraction equipment, and the business recovery documentation your operation needs. Call (877) 497-0007 now.`,
+    paragraph: `Production downtime and equipment damage grow worse by the hour. Our commercial restoration crews reach any Fairfax facility as quickly as conditions allow with anti-corrosion treatment, extraction equipment, and the business recovery documentation your operation needs. Call (877) 497-0007 now.`,
   },
 }

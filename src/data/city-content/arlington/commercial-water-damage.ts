@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Water Damage Restoration in Arlington, VA | Flood Doctor',
-    description: `Arlington's commercial water damage experts. High-rise office buildings, government contractor spaces & co-working facilities near Rosslyn, Ballston & Crystal City. Call (877) 497-0007.`,
+    description: `Arlington's commercial water damage specialists. High-rise commercial buildings, government contractor spaces & co-working facilities near Rosslyn, Ballston & Crystal City. Call (877) 497-0007.`,
   },
   h1: 'Commercial Water Damage Restoration in Arlington, Virginia',
   introSection: {
     headline: `High-Rise and High-Density Commercial Water Damage Expertise in Arlington`,
     paragraphs: [
-      `Arlington's commercial landscape is defined by vertical density—high-rise office towers in Rosslyn and Crystal City, mid-rise government contractor buildings along the Ballston corridor, and co-working spaces filling renovated retail in Clarendon. When water damage strikes these vertically complex properties, it cascades through multiple floors, affects dozens of tenants simultaneously, and creates restoration challenges that demand a team experienced in urban commercial environments. A single fire sprinkler discharge on the 15th floor of a Rosslyn tower can damage ten floors below it, displacing hundreds of workers and triggering complex multi-carrier insurance claims.
+      `Arlington's commercial landscape is defined by vertical density—high-rise commercial towers in Rosslyn and Crystal City, mid-rise government contractor buildings along the Ballston corridor, and co-working spaces filling renovated retail in Clarendon. When water damage strikes these vertically complex properties, it cascades through multiple floors, affects dozens of tenants simultaneously, and creates restoration challenges that demand a team experienced in urban commercial environments. A single fire sprinkler discharge on the 15th floor of a Rosslyn tower can damage ten floors below it, displacing hundreds of workers and triggering complex multi-carrier insurance claims.
 
-Flood Doctor's commercial division has restored water-damaged properties across Arlington's densest business corridors. We've managed multi-floor extractions in Pentagon City office complexes, dried server rooms in Ballston government contractor buildings, and restored co-working spaces in Clarendon—all while navigating the elevator access, freight scheduling, and after-hours coordination that Arlington's high-rise commercial environment demands.`,
-      `Arlington's urban commercial properties present restoration physics that differ fundamentally from suburban office parks. Water in a high-rise follows gravity through floor penetrations, electrical conduit runs, elevator shafts, and mechanical chases, reaching areas far removed from the original source. Stacked mechanical systems mean that an HVAC failure on one floor can compromise climate control building-wide. Shared parking garages collect water from upper-floor events, creating secondary damage in underground infrastructure that supports the entire building.
+Flood Doctor's commercial division has restored water-damaged properties across Arlington's densest business corridors. We've managed multi-floor extractions in Pentagon City business complexes, dried server rooms in Ballston government contractor buildings, and restored co-working spaces in Clarendon—all while navigating the elevator access, freight scheduling, and after-hours coordination that Arlington's high-rise commercial environment demands.`,
+      `Arlington's urban commercial properties present restoration physics that differ fundamentally from suburban business parks. Water in a high-rise follows gravity through floor penetrations, electrical conduit runs, elevator shafts, and mechanical chases, reaching areas far removed from the original source. Stacked mechanical systems mean that an HVAC failure on one floor can compromise climate control building-wide. Shared parking garages collect water from upper-floor events, creating secondary damage in underground infrastructure that supports the entire building.
 
-Our IICRC-certified commercial teams bring the vertical expertise Arlington demands. We deploy elevator-compatible equipment, establish multi-floor containment systems, and coordinate with building engineers who manage complex mechanical systems. From a burst riser pipe in a Shirlington office building to HVAC condensate flooding in a Crystal City government contractor space, we handle the technical complexity while managing the business impact across every affected tenant.`,
+Our trained commercial teams bring the vertical experience Arlington demands. We deploy elevator-compatible equipment, establish multi-floor containment systems, and coordinate with building engineers who manage complex mechanical systems. From a burst riser pipe in a Shirlington commercial building to HVAC condensate flooding in a Crystal City government contractor space, we handle the technical complexity while managing the business impact across every affected tenant.`,
     ],
-    localContext: `Arlington's concentration of high-rise office towers, government contractor spaces, and mixed-use developments along the Rosslyn-Ballston and Pentagon City corridors creates commercial water damage scenarios requiring vertical expertise, multi-tenant coordination, and dense-environment logistics.`,
+    localContext: `Arlington's concentration of high-rise commercial towers, government contractor spaces, and mixed-use developments along the Rosslyn-Ballston and Pentagon City corridors creates commercial water damage scenarios requiring vertical experience, multi-tenant coordination, and dense-environment logistics.`,
   },
   processSteps: [
     {
       title: 'Urban Commercial Dispatch',
       description: `Call (877) 497-0007 for immediate commercial response. Our Arlington commercial crews are positioned along the Rosslyn-Ballston corridor and Crystal City, equipped with elevator-compatible extraction equipment for rapid deployment into high-rise commercial properties.`,
-      timeframe: 'Within 45 minutes',
+      timeframe: 'Within as quickly as conditions allow',
     },
     {
       title: 'Vertical Damage Mapping',
@@ -58,8 +58,8 @@ Our IICRC-certified commercial teams bring the vertical expertise Arlington dema
     },
     {
       title: 'Government Contractor Security Requirements',
-      description: 'Arlington hosts the Pentagon, numerous defense agencies, and hundreds of government contractors whose office spaces have security requirements—controlled access, background check requirements, and restricted areas—that complicate restoration crew access and scheduling.',
-      solution: 'We coordinate with facility security officers to establish approved access protocols before crews enter. Our project managers are experienced with security-cleared environments and schedule work to comply with access restrictions while maintaining restoration momentum.',
+      description: 'Arlington hosts the Pentagon, numerous defense agencies, and hundreds of government contractors whose workspaces have security requirements—controlled access, background check requirements, and restricted areas—that complicate restoration crew access and scheduling.',
+      solution: 'We coordinate with facility security managers to establish approved access protocols before crews enter. Our project managers are experienced with security-cleared environments and schedule work to comply with access restrictions while maintaining restoration momentum.',
     },
     {
       title: 'Dense Urban Logistics and Equipment Access',
@@ -117,7 +117,7 @@ Our IICRC-certified commercial teams bring the vertical expertise Arlington dema
     factors: [
       'Number of floors affected—vertical water migration in high-rise buildings can multiply affected area exponentially',
       'Building access complexity—freight elevator availability, security protocols, and staging limitations affect crew efficiency',
-      'After-hours scheduling requirements—government contractor and professional office schedules may require evening and weekend work at premium rates',
+      'After-hours scheduling requirements—government contractor and professional workspace schedules may require evening and weekend work at premium rates',
       'Tenant count and coordination—each affected tenant requires individual scope documentation and insurance claim management',
       'Building system involvement—HVAC, electrical, and elevator infrastructure damage adds specialized repair scope beyond surface restoration',
     ],
@@ -140,11 +140,11 @@ Our IICRC-certified commercial teams bring the vertical expertise Arlington dema
       'Army Navy Drive Commercial District',
       'Lee Highway Business Corridor',
     ],
-    responseTime: '45-minute commercial response throughout Arlington. Crews stationed along the Rosslyn-Ballston corridor and Crystal City deploy with elevator-compatible equipment for immediate high-rise access.',
+    responseTime: 'timely commercial response throughout Arlington. Service-area crews available along the Rosslyn-Ballston corridor and Crystal City deploy with elevator-compatible equipment for immediate high-rise access.',
   },
   faqs: [
     {
-      question: 'Can you handle water damage in a 20+ story Arlington office building?',
+      question: 'Can you handle water damage in a 20+ story Arlington commercial building?',
       answer: `Yes. Our commercial division specializes in high-rise restoration throughout the Rosslyn-Ballston and Crystal City corridors. We deploy elevator-compatible equipment, establish multi-floor containment, and coordinate with building engineers on complex mechanical systems. We have managed multi-floor events in Arlington's tallest commercial buildings.`,
     },
     {
@@ -153,14 +153,14 @@ Our IICRC-certified commercial teams bring the vertical expertise Arlington dema
     },
     {
       question: 'Do you work with government contractor security requirements?',
-      answer: 'Frequently. Our project managers coordinate with facility security officers on access protocols, worker clearances, and restricted area procedures. We schedule work to comply with security requirements while maintaining restoration momentum in the Ballston and Crystal City government contractor corridors.',
+      answer: 'Frequently. Our project managers coordinate with facility security managers on access protocols, worker clearances, and restricted area procedures. We schedule work to comply with security requirements while maintaining restoration momentum in the Ballston and Crystal City government contractor corridors.',
     },
     {
       question: `What about water damage in our building's parking garage?`,
       answer: 'Underground parking is often affected by upper-floor water events through elevator shafts and mechanical chases. We deploy submersible pumps for garage extraction while protecting electrical panels, mechanical systems, and elevator infrastructure housed below grade.',
     },
     {
-      question: 'Can you work around our 24/7 office operations?',
+      question: 'Can you work around our 24/7 workspace operations?',
       answer: 'Absolutely. Many Arlington commercial buildings operate around the clock. We coordinate with your facilities team to schedule disruptive work during lowest-occupancy periods and maintain quiet drying operations during peak hours. Our project managers adapt to your operational schedule.',
     },
     {
@@ -169,7 +169,7 @@ Our IICRC-certified commercial teams bring the vertical expertise Arlington dema
     },
     {
       question: 'Do you offer priority response agreements for Arlington commercial properties?',
-      answer: 'Yes. Property managers and building owners can establish pre-loss agreements that guarantee response times, designate specific project managers, and pre-authorize emergency protocols. Several major Arlington commercial property portfolios maintain active agreements with our commercial division.',
+      answer: 'Yes. Property managers and building owners can establish emergency service agreements that set response priorities, designate specific project managers, and pre-authorize emergency protocols. Several major Arlington commercial property portfolios maintain active agreements with our commercial division.',
     },
   ],
   relatedBlogSlugs: [

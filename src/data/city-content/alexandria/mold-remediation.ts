@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Mold Remediation in Alexandria, VA | Flood Doctor',
-    description: 'Alexandria mold remediation experts. Safe removal from Old Town historic properties, basement apartments & Del Ray homes. Preserving original materials. Call (877) 497-0007.',
+    description: 'Alexandria mold remediation specialists. Safe removal from Old Town historic properties, basement apartments & Del Ray homes. Preserving original materials. Call (877) 497-0007.',
   },
   h1: 'Mold Remediation in Alexandria, Virginia',
   introSection: {
@@ -14,9 +14,9 @@ export const content: CityServiceContent = {
 Flood Doctor has remediated mold from Alexandria properties for nearly two decades. We've removed colonies growing behind original plaster in Old Town rowhouses—preserving the irreplaceable 1800s walls while eliminating the mold threat. We've addressed chronic basement mold in Del Ray bungalows where high humidity meets inadequate ventilation. We've protected families in Rosemont colonials who discovered mold after slow leaks went undetected for months.`,
       `Alexandria's mold challenges differ from typical Northern Virginia homes. Historic properties contain materials that complicate remediation—original plaster that can't simply be torn out, heart pine floors that warrant preservation, brick foundations that trap moisture deep in their mass. The city's older housing stock includes construction methods that modern remediation protocols weren't designed to address.
 
-Our IICRC-certified mold remediation technicians understand both the science of mold removal and the requirements of Alexandria's historic properties. We don't just demolish and rebuild—we assess each situation to determine what can be safely cleaned and preserved versus what must be removed. Your 1890s rowhouse deserves remediation that respects its character while eliminating health hazards.`,
+Our trained mold remediation technicians understand both the science of mold removal and the requirements of Alexandria's historic properties. We don't just demolish and rebuild—we assess each situation to determine what can be safely cleaned and preserved versus what must be removed. Your 1890s rowhouse deserves remediation that respects its character while eliminating health hazards.`,
     ],
-    localContext: `Alexandria's combination of humidity, historic housing, and high water tables creates mold conditions that require specialized expertise. We've developed remediation approaches specific to Alexandria's building types for years.`,
+    localContext: `Alexandria's combination of humidity, historic housing, and high water tables creates mold conditions that require specialized experience. We've developed remediation approaches specific to Alexandria's building types for years.`,
   },
   processSteps: [
     {
@@ -36,7 +36,7 @@ Our IICRC-certified mold remediation technicians understand both the science of 
     },
     {
       title: 'Material Removal',
-      description: 'Porous materials that cannot be cleaned—drywall, insulation, carpet—are removed following IICRC protocols. Materials are bagged within containment, passed through decontamination, and disposed of properly. For historic properties, we minimize removal and document everything for insurance and BAR compliance.',
+      description: 'Porous materials that cannot be cleaned—drywall, insulation, carpet—are removed following recognized protocols. Materials are bagged within containment, passed through decontamination, and disposed of properly. For historic properties, we minimize removal and document everything for insurance and BAR compliance.',
       timeframe: 'Days 2-4',
     },
     {
@@ -181,6 +181,6 @@ Our IICRC-certified mold remediation technicians understand both the science of 
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: 'Mold Problem in Your Alexandria Home?',
-    paragraph: `Don't let mold threaten your family's health or your property's value. Our certified technicians understand Alexandria's unique mold challenges—from historic property preservation to high water table moisture. Professional inspection identifies the full scope. Expert remediation eliminates the problem.`,
+    paragraph: `Don't let mold threaten your family's health or your property's value. Our trained technicians understand Alexandria's unique mold challenges—from historic property preservation to high water table moisture. Professional inspection identifies the full scope. Expert remediation eliminates the problem.`,
   },
 }

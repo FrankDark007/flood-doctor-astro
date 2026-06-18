@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Arlington, VA | Flood Doctor',
-    description: `Arlington's crawl space drying experts. Serving Rosslyn, Clarendon & Crystal City. Rowhouse and mid-century rambler specialists. HOA coordination included. Call (877) 497-0007.`,
+    description: `Arlington's crawl space drying specialists. Serving Rosslyn, Clarendon & Crystal City. Rowhouse and mid-century rambler specialists. HOA coordination included. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Arlington, Virginia',
   introSection: {
     headline: 'Urban Crawl Space Solutions for Arlington Homes',
     paragraphs: [
       `Arlington's diverse housing stock presents crawl space challenges that differ sharply from suburban Northern Virginia. Mid-century ramblers in Lyon Village sit on pier-and-beam foundations with original crawl spaces that have collected decades of moisture. Historic rowhouses near Clarendon feature narrow, low-clearance crawl spaces that standard contractors refuse to enter. Even newer townhomes in Pentagon City and Crystal City can develop crawl space moisture problems when shared walls and dense construction limit airflow beneath structures. Flood Doctor specializes in the tight-access, complex crawl space work that Arlington's urban density demands.`,
-      `The challenge intensifies when you consider Arlington's soil conditions and building density. Impervious surfaces—driveways, patios, sidewalks—direct stormwater toward foundations rather than allowing natural absorption. Ramblers in Shirlington and Ballston sit on clay-heavy soil that holds moisture against foundation walls for weeks after rain events. Rowhouses share foundation walls with neighbors, meaning one property's moisture problem can migrate to the adjoining unit. Our IICRC-certified technicians understand multi-unit coordination, HOA notification requirements, and the confined-space expertise needed to work in Arlington's tighter crawl spaces where clearance might be only 18 inches.`,
+      `The challenge intensifies when you consider Arlington's soil conditions and building density. Impervious surfaces—driveways, patios, sidewalks—direct stormwater toward foundations rather than allowing natural absorption. Ramblers in Shirlington and Ballston sit on clay-heavy soil that holds moisture against foundation walls for weeks after rain events. Rowhouses share foundation walls with neighbors, meaning one property's moisture problem can migrate to the adjoining unit. Our trained technicians understand multi-unit coordination, HOA notification requirements, and the confined-space experience needed to work in Arlington's tighter crawl spaces where clearance might be only 18 inches.`,
     ],
-    localContext: `Arlington's mix of mid-century ramblers, historic rowhouses, and urban townhomes creates crawl space conditions that require confined-space expertise, HOA coordination, and solutions tailored to dense urban environments.`,
+    localContext: `Arlington's mix of mid-century ramblers, historic rowhouses, and urban townhomes creates crawl space conditions that require confined-space experience, HOA coordination, and solutions tailored to dense urban environments.`,
   },
   processSteps: [
     {
@@ -131,12 +131,12 @@ export const content: CityServiceContent = {
       'Nauck',
       'Aurora Highlands',
     ],
-    responseTime: 'Same-day crawl space assessments throughout Arlington. Emergency water extraction within 45 minutes to all neighborhoods from Rosslyn to Shirlington via our Arlington-stationed crews.',
+    responseTime: 'Same-day crawl space assessments throughout Arlington. Emergency water extraction as quickly as conditions allow to all neighborhoods from Rosslyn to Shirlington via our Arlington-area service crews.',
   },
   faqs: [
     {
       question: 'Can you work in crawl spaces with very low clearance?',
-      answer: `Yes. Many Arlington ramblers and older homes have crawl spaces with only 18-24 inches of clearance. Our confined-space certified technicians work safely in these tight areas using specialized low-profile equipment. We do not decline jobs based on clearance height.`,
+      answer: `Yes. Many Arlington ramblers and older homes have crawl spaces with only 18-24 inches of clearance. Our confined-space trained technicians work safely in these tight areas using specialized low-profile equipment. We do not decline jobs based on clearance height.`,
     },
     {
       question: 'My rowhouse shares a foundation wall—can you still encapsulate?',
@@ -169,6 +169,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Crawl Space Moisture Problems in Your Arlington Home?',
-    paragraph: `Whether you have a Lyon Village rambler with 20-inch clearance or a Clarendon rowhouse with shared walls, our confined-space experts handle Arlington's toughest crawl space challenges. Call (877) 497-0007 for a free assessment.`,
+    paragraph: `Whether you have a Lyon Village rambler with 20-inch clearance or a Clarendon rowhouse with shared walls, our confined-space specialists handle Arlington's toughest crawl space challenges. Call (877) 497-0007 for a free assessment.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Arlington, VA | Flood Doctor',
-    description: `Arlington's odor elimination experts for condos, rowhouses & high-rises. Smoke, mold & sewage odor treatment with HOA compliance. Call (877) 497-0007.`,
+    description: `Arlington's odor elimination specialists for condos, rowhouses & high-rises. Smoke, mold & sewage odor treatment with HOA compliance. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Arlington, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Odors in Arlington's dense housing environment create problems that extend beyond your own four walls. When mold develops behind shared walls in a Clarendon rowhouse, musty volatile compounds migrate to neighboring units through party wall penetrations. When a sewage backup contaminates a Rosslyn high-rise unit, the odor travels through plumbing chases and HVAC ductwork to floors above and below. When cooking fire smoke saturates a Crystal City apartment, the building's shared air handling system distributes the smell to dozens of units. In every case, the odor problem is inseparable from the urban building context.
 
-Flood Doctor's deodorization specialists have eliminated persistent odors throughout Arlington's diverse housing stock — from Pentagon City luxury condos where HVAC-distributed smoke odor affected entire floors, to Lyon Village bungalows where decades-old musty basement smells resisted every consumer product, to Shirlington apartments where pet urine had crystallized in subfloor materials beneath carpet. We understand that Arlington odor problems require both molecular-level treatment and building-system expertise.`,
+Flood Doctor's deodorization specialists have eliminated persistent odors throughout Arlington's diverse housing stock — from Pentagon City luxury condos where HVAC-distributed smoke odor affected entire floors, to Lyon Village bungalows where decades-old musty basement smells resisted every consumer product, to Shirlington apartments where pet urine had crystallized in subfloor materials beneath carpet. We understand that Arlington odor problems require both molecular-level treatment and building-system experience.`,
       `Effective odor elimination in Arlington requires identifying two things: the molecular source of the odor and the building pathway distributing it. A musty smell in a Ballston condo may originate from mold in a wall cavity that connects to the building's air return plenum, spreading the odor throughout your unit every time the HVAC runs. Sewage odors in older Penrose properties often enter through dried-out floor drain traps or cracked waste lines concealed within wall assemblies. Smoke from a neighboring unit's kitchen fire can permeate shared ductwork and penetrate through electrical outlets and pipe penetrations in party walls.
 
 Our technicians use moisture meters, borescopes, and thermal imaging to trace every odor to its source before treatment begins. We then deploy the appropriate deodorization technology — hydroxyl generators for safe occupied-space treatment in condos where neighbors share walls, thermal fogging for deep penetration into porous materials, ozone treatment for severe contamination in vacated units, and HEPA air scrubbing to filter airborne odor particles. In multi-unit buildings, we coordinate with building management to treat shared ductwork and common areas that perpetuate odor circulation.`,
@@ -133,7 +133,7 @@ Our technicians use moisture meters, borescopes, and thermal imaging to trace ev
       'Westover',
       'Nauck',
     ],
-    responseTime: '30-minute emergency response to all Arlington neighborhoods. For non-emergency odor assessments, we schedule at your convenience and coordinate with building management for access requirements.',
+    responseTime: 'prompt emergency response to all Arlington neighborhoods. For non-emergency odor assessments, we schedule at your convenience and coordinate with building management for access requirements.',
   },
   faqs: [
     {
@@ -166,7 +166,7 @@ Our technicians use moisture meters, borescopes, and thermal imaging to trace ev
     },
     {
       question: 'Does insurance cover odor removal in Arlington condos?',
-      answer: 'When odors result from a covered loss — water damage, fire, sewage backup — professional deodorization is typically covered under your HO-6 condo policy. We document the odor source, treatment protocols, and results for your insurance claim and handle direct billing with your carrier.',
+      answer: 'When odors result from a covered loss — water damage, fire, sewage backup — professional deodorization is typically covered under your HO-6 condo policy. We document the odor source, treatment protocols, and results for your insurance claim and handle claim-ready documentation for your carrier.',
     },
   ],
   relatedBlogSlugs: [

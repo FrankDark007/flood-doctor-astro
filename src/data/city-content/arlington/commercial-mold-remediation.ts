@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Arlington, VA | Flood Doctor`,
-    description: `Arlington's trusted commercial mold remediation team. CIH-coordinated protocols for high-rise offices, restaurants, and multi-tenant buildings in Rosslyn, Ballston, and Crystal City. Call (877) 497-0007.`,
+    description: `Arlington's local commercial mold remediation team. CIH-coordinated protocols for high-rise workspaces, restaurants, and multi-tenant buildings in Rosslyn, Ballston, and Crystal City. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Arlington, Virginia`,
   introSection: {
     headline: `High-Density Commercial Mold Remediation Across Arlington`,
     paragraphs: [
-      `Mold contamination in Arlington's commercial buildings spreads faster and affects more people than in suburban settings. A leaking pipe behind a wall in a Ballston office tower feeds mold growth that the building's HVAC system distributes to every floor. A condensation problem in a Rosslyn high-rise mechanical room creates spore colonies that trigger respiratory complaints from hundreds of workers. An aging rooftop unit above a Clarendon restaurant drips condensate into ceiling cavities where mold thrives undetected until tenants report persistent odors. Arlington's vertical, interconnected commercial buildings amplify mold risks that demand immediate, CIH-coordinated remediation. Flood Doctor delivers industrial-scale mold removal for Arlington commercial properties with containment engineering that keeps unaffected areas operational.`,
-      `Arlington's commercial mold problems are driven by building density and aging infrastructure. High-rise HVAC systems in Crystal City and Pentagon City circulate air through miles of shared ductwork where condensation supports biological growth. Older mid-rise buildings along Columbia Pike feature original plumbing and building envelopes that allow chronic moisture intrusion. Below-grade commercial spaces in Shirlington and Lyon Village lack adequate ventilation, creating humidity conditions that sustain mold colonization year-round. Our remediation teams have cleared mold from Arlington office towers, government-adjacent buildings, restaurant complexes, and medical facilities—always following CIH protocols with independent post-remediation verification that satisfies both regulatory requirements and tenant expectations.`,
+      `Mold contamination in Arlington's commercial buildings spreads faster and affects more people than in suburban settings. A leaking pipe behind a wall in a Ballston workspace tower feeds mold growth that the building's HVAC system distributes to every floor. A condensation problem in a Rosslyn high-rise mechanical room creates spore colonies that trigger respiratory complaints from hundreds of workers. An aging rooftop unit above a Clarendon restaurant drips condensate into ceiling cavities where mold thrives undetected until tenants report persistent odors. Arlington's vertical, interconnected commercial buildings amplify mold risks that demand immediate, CIH-coordinated remediation. Flood Doctor delivers industrial-scale mold removal for Arlington commercial properties with containment engineering that keeps unaffected areas operational.`,
+      `Arlington's commercial mold problems are driven by building density and aging infrastructure. High-rise HVAC systems in Crystal City and Pentagon City circulate air through miles of shared ductwork where condensation supports biological growth. Older mid-rise buildings along Columbia Pike feature original plumbing and building envelopes that allow chronic moisture intrusion. Below-grade commercial spaces in Shirlington and Lyon Village lack adequate ventilation, creating humidity conditions that sustain mold colonization year-round. Our remediation teams have cleared mold from Arlington commercial towers, government-adjacent buildings, restaurant complexes, and medical facilities—always following CIH protocols with independent post-remediation verification that satisfies both regulatory requirements and tenant expectations.`,
     ],
-    localContext: `Arlington's high-rise commercial environment—with shared HVAC systems, dense occupancy, and aging building infrastructure—creates mold contamination dynamics that require urban-specialized remediation expertise and multi-tenant coordination.`,
+    localContext: `Arlington's high-rise commercial environment—with shared HVAC systems, dense occupancy, and aging building infrastructure—creates mold contamination dynamics that require urban-specialized remediation experience and multi-tenant coordination.`,
   },
   processSteps: [
     {
       title: `CIH Assessment and Protocol Development`,
-      description: `We coordinate with a certified industrial hygienist to assess mold contamination in your Arlington commercial property. Air sampling from affected and unaffected areas, surface sampling, and moisture mapping determine contamination scope. The CIH develops a remediation protocol specific to your building's HVAC configuration and occupancy.`,
+      description: `We coordinate with a trained industrial hygienist to assess mold contamination in your Arlington commercial property. Air sampling from affected and unaffected areas, surface sampling, and moisture mapping determine contamination scope. The CIH develops a remediation protocol specific to your building's HVAC configuration and occupancy.`,
       timeframe: `Days 1-3`,
     },
     {
@@ -49,7 +49,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Below-Grade Commercial Space Humidity`,
-      description: `Below-grade office and retail spaces in Shirlington, Clarendon, and Courthouse commercial buildings lack natural ventilation and experience chronic humidity from foundation moisture. These conditions support persistent mold growth that conventional cleaning cannot resolve.`,
+      description: `Below-grade workspace and retail spaces in Shirlington, Clarendon, and Courthouse commercial buildings lack natural ventilation and experience chronic humidity from foundation moisture. These conditions support persistent mold growth that conventional cleaning cannot resolve.`,
       solution: `We remediate existing growth and install commercial dehumidification systems that maintain humidity below 60% year-round. Improved ventilation design and moisture barrier upgrades address the underlying conditions that made below-grade Arlington spaces vulnerable.`,
     },
     {
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       `Penrose`,
       `Bluemont`,
     ],
-    responseTime: `Same-day initial assessment for Arlington commercial mold concerns. CIH-coordinated protocols begin within 48 hours. Emergency containment available within hours when active water damage is contributing to mold growth in occupied commercial spaces.`,
+    responseTime: `Same-day initial assessment for Arlington commercial mold concerns. CIH-coordinated protocols begin within 48 hours. Emergency containment available promptly when active water damage is contributing to mold growth in occupied commercial spaces.`,
   },
   faqs: [
     {
@@ -134,7 +134,7 @@ export const content: CityServiceContent = {
       answer: `Centralized HVAC systems in Arlington commercial buildings share air across multiple floors through common ductwork, plenums, and air handlers. Mold growing near any intake or supply point distributes spores building-wide. Remediation must address the entire air distribution system, not just the visible mold source.`,
     },
     {
-      question: `Can we keep our Arlington office building occupied during mold remediation?`,
+      question: `Can we keep our Arlington commercial building occupied during mold remediation?`,
       answer: `Areas under active remediation must be vacated, but our containment engineering allows unaffected floors and suites to remain operational. We isolate HVAC zones, maintain negative air pressure in work areas, and schedule noisy operations after business hours when possible.`,
     },
     {

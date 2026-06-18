@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Fairfax, VA | Flood Doctor',
-    description: 'Fairfax sewage cleanup specialists. 30-min response for sewer backups, toilet overflows & septic failures. Burke, Burke Centre, Kings Park, Mantua. Call (877) 497-0007.',
+    description: 'Fairfax sewage cleanup specialists. prompt response for sewer backups, toilet overflows & septic failures. Burke, Burke Centre, Kings Park, Mantua. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup & Backup Remediation in Fairfax, Virginia',
   introSection: {
@@ -14,20 +14,20 @@ export const content: CityServiceContent = {
 Flood Doctor has handled sewage cleanup throughout Fairfax for nearly two decades. We've responded to sewer line backups in Burke Centre townhomes when roots blocked aging clay pipes, cleaned up toilet overflows in Mantua colonials, and remediated septic system failures in Fairfax Station homes. When the unthinkable happens, Fairfax families call us because we arrive equipped, trained, and ready to handle what homeowners understandably can't face themselves.`,
       `Sewage is classified as Category 3 water—the most hazardous category—because of the pathogens it contains. E. coli, hepatitis, and other dangerous bacteria are present in raw sewage. Surfaces that contact sewage can't simply be cleaned; they require proper remediation or removal. The air in affected areas carries biological contaminants. Without proper protective equipment and cleanup protocols, exposure creates real health risks for you and your family.
 
-Our IICRC-certified crews are trained specifically in Category 3 biohazard remediation. We arrive with full personal protective equipment, antimicrobial treatments, and the knowledge to safely remove contaminated materials while protecting the rest of your home. For Fairfax families facing this nightmare scenario, we handle the dangerous work so you don't have to.`,
+Our trained crews are trained specifically in Category 3 biohazard remediation. We arrive with full personal protective equipment, antimicrobial treatments, and the knowledge to safely remove contaminated materials while protecting the rest of your home. For Fairfax families facing this nightmare scenario, we handle the dangerous work so you don't have to.`,
     ],
     localContext: `Fairfax's aging sewer infrastructure, tree root intrusion, and summer storm capacity issues create sewage backup risks. Homes in Burke, Burke Centre, and areas with older clay sewer lines are particularly vulnerable during heavy rain events.`,
   },
   processSteps: [
     {
       title: 'Emergency Biohazard Response',
-      description: 'When you call (877) 497-0007 about sewage, we treat it as a biohazard emergency. Our crews dispatch immediately with full protective equipment, antimicrobial supplies, and specialized extraction tools. We reach Burke, Kings Park, Mantua, and all Fairfax areas within 30 minutes.',
-      timeframe: 'Within 30 minutes',
+      description: 'When you call (877) 497-0007 about sewage, we treat it as a biohazard emergency. Our crews dispatch immediately with full protective equipment, antimicrobial supplies, and specialized extraction tools. We reach Burke, Kings Park, Mantua, and all Fairfax areas as quickly as conditions allow.',
+      timeframe: 'Initial response',
     },
     {
       title: 'Safety & Containment',
       description: 'Before entering the affected area, we establish containment to prevent sewage contamination from spreading. We use negative air pressure and physical barriers to isolate the contaminated zone. No one enters without proper PPE—including N95 masks, disposable suits, and protective footwear.',
-      timeframe: 'First 30 minutes on site',
+      timeframe: 'Initial onsite phase',
     },
     {
       title: 'Sewage Extraction',
@@ -138,12 +138,12 @@ Our IICRC-certified crews are trained specifically in Category 3 biohazard remed
       'Old Town Fairfax',
       'Pickett Road Area',
     ],
-    responseTime: `30-minute emergency response to sewage backups throughout Fairfax. Sewage is a biohazard requiring immediate action—we're positioned to reach your home quickly.`,
+    responseTime: `prompt emergency response to sewage backups throughout Fairfax. Sewage is a biohazard requiring immediate action—we're available to serve your home quickly.`,
   },
   faqs: [
     {
       question: 'Sewage is backing up into my basement—what should I do?',
-      answer: `Leave the area immediately—sewage contains dangerous pathogens. Keep family members and pets away from contaminated areas. Don't try to clean it yourself. Turn off HVAC to prevent spreading airborne contaminants. Call (877) 497-0007 immediately. We'll dispatch a biohazard crew within 30 minutes.`,
+      answer: `Leave the area immediately—sewage contains dangerous pathogens. Keep family members and pets away from contaminated areas. Don't try to clean it yourself. Turn off HVAC to prevent spreading airborne contaminants. Call (877) 497-0007 immediately. We'll dispatch a biohazard crew as quickly as conditions allow.`,
     },
     {
       question: 'Is sewage really that dangerous?',
@@ -173,6 +173,6 @@ Our IICRC-certified crews are trained specifically in Category 3 biohazard remed
   relatedBlogSlugs: ['first-24-hours-after-water-damage', 'water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: 'Sewage Emergency in Fairfax?',
-    paragraph: `Sewage is a biohazard requiring immediate professional response. Don't try to clean it yourself. Evacuate the affected area and call us—we'll be there within 30 minutes with full safety equipment to handle the situation.`,
+    paragraph: `Sewage is a biohazard requiring immediate professional response. Don't try to clean it yourself. Evacuate the affected area and call us—we'll be there as quickly as conditions allow with full safety equipment to handle the situation.`,
   },
 }

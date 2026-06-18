@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: '24/7 Emergency Water Damage Restoration Alexandria, VA',
-    description: 'Expert water damage restoration in Alexandria VA. Historic building expertise, BAR-compliant emergency response. 60-minute response to Old Town, Del Ray, Rosemont.',
+    description: 'Water damage restoration in Alexandria VA. Historic building experience, BAR-compliant emergency response. timely response to Old Town, Del Ray, Rosemont.',
   },
   h1: '24/7 Emergency Water Damage Restoration Alexandria, VA',
   introSection: {
     headline: 'Historic Building Expertise & BAR-Compliant Emergency Response',
     paragraphs: [
-      `Alexandria's historic architecture demands specialized water damage restoration that respects the past while protecting your future. From 18th-century townhouses in Old Town to modern developments in Carlyle, our certified technicians understand the unique challenges of restoring buildings with original plaster walls, historic brick foundations, and irreplaceable architectural details. We work directly with the Board of Architectural Review (BAR) to ensure all restoration meets preservation standards while preventing costly secondary damage.`,
+      `Alexandria's historic architecture demands specialized water damage restoration that respects the past while protecting your future. From 18th-century townhouses in Old Town to modern developments in Carlyle, our trained technicians understand the unique challenges of restoring buildings with original plaster walls, historic brick foundations, and irreplaceable architectural details. We work directly with the Board of Architectural Review (BAR) to ensure all restoration meets preservation standards while preventing costly secondary damage.`,
     ],
-    localContext: 'Our emergency teams arrive within 60 minutes to Old Town, Del Ray, Rosemont, and all Alexandria neighborhoods—call (877) 497-0007 now for immediate response.',
+    localContext: 'Our emergency teams arrive as quickly as conditions allow to Old Town, Del Ray, Rosemont, and all Alexandria neighborhoods—call (877) 497-0007 now for immediate response.',
   },
   processSteps: [
     {
@@ -51,7 +51,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Neighborhood-Specific Response Protocols',
-      description: `Old Town restoration requires coordination with parking enforcement, BAR staff, and narrow-street access challenges. Our teams arrive with compact equipment trailers, secure emergency parking permits within 30 minutes, and stage larger extraction trucks on nearby streets with hose runs up to 300 feet. We've perfected this logistics approach through 15+ years working in the historic district.`,
+      description: `Old Town restoration requires coordination with parking enforcement, BAR staff, and narrow-street access challenges. Our teams arrive with compact equipment trailers, secure emergency parking permits as quickly as conditions allow, and stage larger extraction trucks on nearby streets with hose runs up to 300 feet. We've perfected this logistics approach through 15+ years working in the historic district.`,
       timeframe: '',
     },
     {
@@ -61,7 +61,7 @@ export const content: CityServiceContent = {
     },
     {
       title: '24/7 Emergency Response Across All Alexandria Neighborhoods',
-      description: 'Our emergency dispatch center maintains 60-minute response times to all Alexandria addresses. Teams stationed in nearby Falls Church and Springfield deploy to Old Town, Del Ray, Rosemont, Carlyle, Belle Haven, Kingstowne, and Potomac Yard with truck-mounted extraction equipment, thermal imaging cameras, and initial drying equipment within one hour of your call.',
+      description: 'Our emergency dispatch center maintains timely response times to all Alexandria addresses. Teams available from nearby Falls Church and Springfield deploy to Old Town, Del Ray, Rosemont, Carlyle, Belle Haven, Kingstowne, and Potomac Yard with truck-mounted extraction equipment, thermal imaging cameras, and initial drying equipment as quickly as conditions allow of your call.',
       timeframe: '',
     },
   ],
@@ -91,7 +91,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How quickly can you respond to water damage in Del Ray or Rosemont?',
-      answer: 'Our emergency teams reach Del Ray and Rosemont addresses within 45-60 minutes, 24/7/365. We dispatch from nearby staging areas in Falls Church and Springfield, arriving with truck-mounted extraction equipment and thermal imaging cameras. Initial water extraction begins within 90 minutes of your call, preventing secondary damage to flooring, walls, and personal property. Weekend and holiday responses receive identical priority to weekday emergencies.',
+      answer: 'Our emergency teams prioritize Del Ray and Rosemont addresses through our 24/7 emergency dispatch process. We dispatch from nearby staging areas in Falls Church and Springfield, arriving with truck-mounted extraction equipment and thermal imaging cameras. Initial water extraction begins promptly of your call, preventing secondary damage to flooring, walls, and personal property. Weekend and holiday responses receive identical priority to weekday emergencies.',
     },
     {
       question: 'What should I do immediately after discovering water damage?',
@@ -117,6 +117,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: '',
-    paragraph: `Alexandria's architectural heritage deserves restoration specialists who understand the difference between preservation and replacement. Our certified technicians combine emergency response speed with the patience and expertise required to restore historic buildings properly. From 18th-century townhouses in Old Town to modern condominiums in Carlyle, we protect your property investment while preserving Alexandria's irreplaceable character.`,
+    paragraph: `Alexandria's architectural heritage deserves restoration specialists who understand the difference between preservation and replacement. Our trained technicians combine emergency response speed with the patience and experience required to restore historic buildings properly. From 18th-century townhouses in Old Town to modern condominiums in Carlyle, we protect your property investment while preserving Alexandria's irreplaceable character.`,
   },
 }

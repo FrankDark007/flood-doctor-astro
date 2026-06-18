@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Roof Leak Water Damage Restoration in Arlington, VA | Flood Doctor',
-    description: `Arlington roof leak water damage experts. Serving Rosslyn, Clarendon & Lyon Village. Flat-roof, condo & rowhouse specialists. HOA coordination. Call (877) 497-0007.`,
+    description: `Arlington roof leak water damage specialists. Serving Rosslyn, Clarendon & Lyon Village. Flat-roof, condo & rowhouse specialists. HOA coordination. Call (877) 497-0007.`,
   },
   h1: 'Roof Leak Water Damage Restoration in Arlington, Virginia',
   introSection: {
     headline: 'Urban Roof Leak Solutions for Arlington Homes and Condos',
     paragraphs: [
-      `Arlington's roofing diversity creates leak scenarios that suburban contractors rarely encounter. Mid-century ramblers in Lyon Village and Cherrydale feature flat or low-slope roofs prone to ponding and membrane failures. Historic rowhouses near Clarendon have original slate and metal roofs with aged flashing around shared-wall parapets. High-rise condos in Rosslyn, Pentagon City, and Crystal City experience roof-level mechanical equipment failures that send water cascading through multiple floors before reaching any individual unit. Each building type requires different assessment expertise, different tarping approaches, and different interior drying strategies.`,
+      `Arlington's roofing diversity creates leak scenarios that suburban contractors rarely encounter. Mid-century ramblers in Lyon Village and Cherrydale feature flat or low-slope roofs prone to ponding and membrane failures. Historic rowhouses near Clarendon have original slate and metal roofs with aged flashing around shared-wall parapets. High-rise condos in Rosslyn, Pentagon City, and Crystal City experience roof-level mechanical equipment failures that send water cascading through multiple floors before reaching any individual unit. Each building type requires different assessment experience, different tarping approaches, and different interior drying strategies.`,
       `The multi-unit nature of much of Arlington's housing adds coordination complexity to roof leak response. When a Ballston Quarter area condo building experiences a roof leak, water may travel through common areas and into multiple units before reaching the parking garage. A rowhouse roof leak at a shared parapet wall near Clarendon Metro raises questions of shared maintenance responsibility. Even single-family home leaks in Shirlington and Penrose require prompt action to prevent ceiling collapse in rooms below attic spaces where insulation has been holding water for days. Flood Doctor handles the building management communication, HOA coordination, and multi-party insurance documentation that Arlington roof leak situations demand, delivering comprehensive interior restoration while coordinating with roofing specialists for permanent exterior repairs.`,
     ],
-    localContext: `Arlington's mix of flat-roof ramblers, shared-wall rowhouses, and high-rise condos creates roof leak scenarios requiring building-specific expertise, multi-unit coordination, and HOA communication alongside technical restoration.`,
+    localContext: `Arlington's mix of flat-roof ramblers, shared-wall rowhouses, and high-rise condos creates roof leak scenarios requiring building-specific experience, multi-unit coordination, and HOA communication alongside technical restoration.`,
   },
   processSteps: [
     {
       title: 'Urban Emergency Response',
-      description: `Call (877) 497-0007 and our Arlington crews respond within 30 minutes. We coordinate building access for condos and apartment buildings, navigate street parking for rowhouses, and arrive prepared for the specific roof type at your address—flat, pitched, shared-wall, or high-rise.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Arlington crews respond as quickly as conditions allow. We coordinate building access for condos and apartment buildings, navigate street parking for rowhouses, and arrive prepared for the specific roof type at your address—flat, pitched, shared-wall, or high-rise.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Roof Assessment & Emergency Tarping',
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Aurora Highlands',
       'Fairlington',
     ],
-    responseTime: '30-minute emergency response throughout Arlington. Our urban-equipped crews handle everything from single-family tarping to high-rise building coordination.',
+    responseTime: 'prompt emergency response throughout Arlington. Our urban-equipped crews handle everything from single-family tarping to high-rise building coordination.',
   },
   faqs: [
     {
@@ -160,6 +160,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Arlington Roof Leak? Stop the Damage Before It Spreads.',
-    paragraph: `Roof leaks worsen by the hour. Call (877) 497-0007 for immediate tarping, interior assessment, and complete restoration—whether your Arlington home is a rambler, rowhouse, or high-rise condo.`,
+    paragraph: `Roof leaks worsen by the hour. Call (877) 497-0007 for immediate tarping, interior assessment, and thorough restoration—whether your Arlington home is a rambler, rowhouse, or high-rise condo.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Sewage Cleanup in Alexandria, VA | Flood Doctor',
-    description: 'Alexandria sewage cleanup experts. 30-min response for Old Town combined sewer overflows, cast iron failures & basement backups. Biohazard certified. Call (877) 497-0007.',
+    description: 'Alexandria sewage cleanup specialists. prompt response for Old Town combined sewer overflows, cast iron failures & basement backups. Biohazard trained. Call (877) 497-0007.',
   },
   h1: 'Sewage Cleanup Services in Alexandria, Virginia',
   introSection: {
@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has cleaned up sewage backups throughout Alexandria for nearly two decades. We've responded to combined sewer overflows along King Street during tropical storm remnants. We've addressed cast iron failures in Del Ray bungalows where owners discovered sewage had been seeping into walls for months. We've protected families in Rosemont colonials when sewer backups threatened finished basements. When raw sewage enters your Alexandria home, you need specialists who understand both biohazard cleanup and historic property preservation.`,
       `Sewage cleanup in Alexandria isn't just about removing contaminated water—it's about doing so while respecting the city's architectural heritage. Your Old Town rowhouse contains original plaster walls, heart pine floors, and brick foundations that can't simply be demolished and rebuilt. Category 3 biohazard cleanup requires aggressive decontamination, but historic materials require careful treatment that most restoration companies can't provide.
 
-Our IICRC-certified technicians are trained in both biohazard protocols and historic preservation. We eliminate health hazards while protecting irreplaceable features. We document contamination thoroughly for insurance claims. We coordinate with plumbers to address the cause—whether that's installing a backwater valve, replacing failing cast iron, or clearing root intrusion from your lateral line.`,
+Our trained technicians are trained in both biohazard protocols and historic preservation. We eliminate health hazards while protecting irreplaceable features. We document contamination thoroughly for insurance claims. We coordinate with plumbers to address the cause—whether that's installing a backwater valve, replacing failing cast iron, or clearing root intrusion from your lateral line.`,
     ],
-    localContext: `Alexandria's combined sewer system in Old Town, aging cast iron infrastructure throughout the city, and tree root intrusion in mature neighborhoods create sewage backup risks that require specialized expertise. We've protected Alexandria property owners from these hazards for years.`,
+    localContext: `Alexandria's combined sewer system in Old Town, aging cast iron infrastructure throughout the city, and tree root intrusion in mature neighborhoods create sewage backup risks that require specialized experience. We've protected Alexandria property owners from these hazards for years.`,
   },
   processSteps: [
     {
       title: 'Emergency Response & Safety Assessment',
       description: `When you call (877) 497-0007 about sewage in your home, we dispatch immediately. Our first priority is safety—sewage contains pathogens, and electrical hazards may exist if contamination has reached outlets or appliances. We guide you to evacuate affected areas while we're en route.`,
-      timeframe: 'Within 30 minutes',
+      timeframe: 'Initial response',
     },
     {
       title: 'Contamination Assessment',
@@ -36,7 +36,7 @@ Our IICRC-certified technicians are trained in both biohazard protocols and hist
     },
     {
       title: 'Contaminated Material Removal',
-      description: 'Porous materials exposed to sewage cannot be safely cleaned and must be removed: drywall, insulation, carpet, padding, and heavily affected structural materials. We remove these items following IICRC biohazard protocols, with appropriate containment and PPE. For historic properties, we carefully assess which original materials might be salvaged with specialized treatment.',
+      description: 'Porous materials exposed to sewage cannot be safely cleaned and must be removed: drywall, insulation, carpet, padding, and heavily affected structural materials. We remove these items following recognized biohazard protocols, with appropriate containment and PPE. For historic properties, we carefully assess which original materials might be salvaged with specialized treatment.',
       timeframe: 'Hours 3-8',
     },
     {
@@ -144,7 +144,7 @@ Our IICRC-certified technicians are trained in both biohazard protocols and hist
       'Mount Vernon',
       'Huntington',
     ],
-    responseTime: '30-minute response to all Alexandria neighborhoods for sewage emergencies. We prioritize biohazard calls—every minute of exposure increases health risks and contamination spread. Call (877) 497-0007 immediately.',
+    responseTime: 'prompt response to all Alexandria neighborhoods for sewage emergencies. We prioritize biohazard calls—every minute of exposure increases health risks and contamination spread. Call (877) 497-0007 immediately.',
   },
   faqs: [
     {
@@ -157,7 +157,7 @@ Our IICRC-certified technicians are trained in both biohazard protocols and hist
     },
     {
       question: 'How fast can you respond to sewage backup in Alexandria?',
-      answer: 'We guarantee 30-minute response for sewage emergencies throughout Alexandria. We prioritize biohazard calls because every hour of delay increases health risks and contamination spread. Call (877) 497-0007 immediately when you discover sewage in your home.',
+      answer: 'We commitment prompt response for sewage emergencies throughout Alexandria. We prioritize biohazard calls because every hour of delay increases health risks and contamination spread. Call (877) 497-0007 immediately when you discover sewage in your home.',
     },
     {
       question: 'Does insurance cover sewage backup cleanup?',
@@ -179,6 +179,6 @@ Our IICRC-certified technicians are trained in both biohazard protocols and hist
   relatedBlogSlugs: ['first-24-hours-after-water-damage', 'water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: 'Sewage Backup in Your Alexandria Home?',
-    paragraph: `Raw sewage is a serious health hazard—every minute of exposure increases risk. Don't try to clean it yourself. Our biohazard-certified crews respond within 30 minutes with the equipment and expertise to eliminate contamination safely while protecting your property's historic character.`,
+    paragraph: `Raw sewage is a serious health hazard—every minute of exposure increases risk. Don't try to clean it yourself. Our biohazard-trained crews respond as quickly as conditions allow with the equipment and experience to eliminate contamination safely while protecting your property's historic character.`,
   },
 }

@@ -9,8 +9,8 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Historic-Sensitive Moisture Diagnostics for Alexandria Properties`,
     paragraphs: [
-      `Moisture assessment in Alexandria demands expertise that bridges modern building science with historic preservation requirements. An 1840s Old Town rowhouse with rising damp through original brick foundations, a Del Ray bungalow where cast iron pipe failure has saturated original plaster walls, or a Belle Haven colonial experiencing high water table infiltration near the Potomac—each requires moisture mapping protocols that generate accurate data without compromising historically significant building fabric. Flood Doctor provides FLIR infrared thermography, NIST-calibrated moisture instrumentation, and psychrometric analysis adapted for the unique materials and regulatory context of Alexandria properties.`,
-      `Our consulting team has documented moisture conditions in Board of Architectural Review-regulated structures along King Street, mapped rising damp patterns through centuries-old brick in Rosemont, and traced building envelope failures in Carlyle mixed-use construction. Alexandria properties present moisture challenges that span three centuries of building materials—from lime mortar and hand-hewn timber to modern concrete and steel. Our IICRC S500/S520-compliant moisture maps distinguish between active water intrusion, residual moisture, and the naturally elevated readings inherent to masonry construction near the Potomac waterfront. This precision prevents unnecessary demolition of irreplaceable historic materials while ensuring complete moisture remediation.`,
+      `Moisture assessment in Alexandria demands experience that bridges modern building science with historic preservation requirements. An 1840s Old Town rowhouse with rising damp through original brick foundations, a Del Ray bungalow where cast iron pipe failure has saturated original plaster walls, or a Belle Haven colonial experiencing high water table infiltration near the Potomac—each requires moisture mapping protocols that generate accurate data without compromising historically significant building fabric. Flood Doctor provides FLIR infrared thermography, NIST-calibrated moisture instrumentation, and psychrometric analysis adapted for the unique materials and regulatory context of Alexandria properties.`,
+      `Our consulting team has documented moisture conditions in Board of Architectural Review-regulated structures along King Street, mapped rising damp patterns through centuries-old brick in Rosemont, and traced building envelope failures in Carlyle mixed-use construction. Alexandria properties present moisture challenges that span three centuries of building materials—from lime mortar and hand-hewn timber to modern concrete and steel. Our industry-informed moisture maps distinguish between active water intrusion, residual moisture, and the naturally elevated readings inherent to masonry construction near the Potomac waterfront. This precision prevents unnecessary demolition of irreplaceable historic materials while ensuring complete moisture remediation.`,
     ],
     localContext: `Alexandria spans from 18th-century Old Town waterfront properties to modern Potomac Yard developments, requiring moisture consultants fluent in both historic building science and contemporary construction diagnostics.`,
   },
@@ -50,7 +50,7 @@ export const content: CityServiceContent = {
     {
       title: 'Combined Sewer System Backup Contamination',
       description: `Old Town Alexandria operates on a combined sewer system where stormwater and sanitary sewage share infrastructure. During heavy rain events, system surcharges push contaminated water into basements through floor drains and pipe connections. This Category 3 water introduces biological hazards that persist in porous historic materials.`,
-      solution: `Our assessment protocol includes water classification per IICRC S500 standards when sewer involvement is suspected. Moisture mapping after combined sewer events documents the full extent of contaminated material contact, guiding decisions about which historic materials can be decontaminated and which require removal.`,
+      solution: `Our assessment protocol includes water classification per recognized water-damage standards when sewer involvement is suspected. Moisture mapping after combined sewer events documents the full extent of contaminated material contact, guiding decisions about which historic materials can be decontaminated and which require removal.`,
     },
     {
       title: 'Board of Architectural Review Documentation Requirements',
@@ -108,7 +108,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Moisture Mapping & Consulting Costs in Alexandria',
-    intro: `Alexandria moisture assessment fees reflect the additional expertise required for historic properties. BAR-regulated structures, waterfront buildings with tidal moisture influences, and properties with irreplaceable historic materials require more careful assessment protocols than standard residential construction. We provide detailed proposals and coordinate with preservation architects when appropriate.`,
+    intro: `Alexandria moisture assessment fees reflect the additional experience required for historic properties. BAR-regulated structures, waterfront buildings with tidal moisture influences, and properties with irreplaceable historic materials require more careful assessment protocols than standard residential construction. We provide detailed proposals and coordinate with preservation architects when appropriate.`,
     factors: [
       'Building age and historic material complexity—pre-1900 properties require calibration adjustments and non-invasive priority protocols',
       'Proximity to Potomac waterfront and associated groundwater or tidal monitoring requirements',
@@ -156,7 +156,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Can you determine if my basement moisture is from the combined sewer system?',
-      answer: `We assess water classification per IICRC S500 standards. Combined sewer backup (Category 3) has distinct characteristics—entry points through floor drains and pipe connections, contamination indicators, and event correlation with heavy rainfall. Our documentation establishes the water source for insurance and remediation purposes.`,
+      answer: `We assess water classification per recognized water-damage standards. Combined sewer backup (Category 3) has distinct characteristics—entry points through floor drains and pipe connections, contamination indicators, and event correlation with heavy rainfall. Our documentation establishes the water source for insurance and remediation purposes.`,
     },
     {
       question: 'How does the Potomac water table affect moisture readings?',

@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `After the fire trucks leave your Burke home, the reality sets in. Your kitchen is charred. Smoke has infiltrated every room. Water from firefighting has soaked through floors and into the basement. The house you've lived in for fifteen years feels foreign—damaged, sooty, and overwhelming. Where do you even begin?
 
-Flood Doctor has helped Fairfax families recover from fire damage for nearly two decades. We've restored smoke-damaged colonials in Kings Park, cleaned soot from every surface in Mantua split-levels, and extracted thousands of gallons of firefighting water from Burke basements. Fire damage is devastating, but it's not the end. With professional restoration, many fire-damaged homes return to their pre-loss condition—and we help families through every step of that process.`,
+Flood Doctor has helped Fairfax families recover from fire damage for nearly two decades. We've restored smoke-damaged colonials in Kings Park, cleaned soot from every surface in Mantua split-levels, and extracted thousands of gallons of firefighting water from Burke basements. Fire damage is devastating, but it's not the end. With professional restoration, many fire-damaged homes return to their documented repair condition—and we help families through every step of that process.`,
       `Fire damage is more than burned materials. Smoke permeates soft surfaces, ductwork, and wall cavities throughout the home—often far beyond the fire's origin. Soot contains corrosive compounds that continue damaging surfaces for days after the fire. And the water used to fight the fire creates its own damage—saturating floors, walls, and ceilings, creating mold risk if not properly dried.
 
-Our IICRC-certified fire damage technicians understand this complexity. We address smoke odor with specialized equipment, not just masking agents. We clean soot before it causes permanent damage to surfaces. We extract firefighting water and dry the structure properly. And we coordinate the complete restoration process—from initial board-up through final reconstruction—so Fairfax families have one team managing their recovery.`,
+Our trained fire damage technicians understand this complexity. We address smoke odor with specialized equipment, not just masking agents. We clean soot before it causes permanent damage to surfaces. We extract firefighting water and dry the structure properly. And we coordinate the thorough restoration process—from initial board-up through final reconstruction—so Fairfax families have one team managing their recovery.`,
     ],
     localContext: 'Fairfax homes face fire risks common to all communities—kitchen fires, electrical issues, heating equipment failures. When fire strikes, professional restoration addresses not just visible damage but smoke infiltration, soot contamination, and water damage from firefighting.',
   },
   processSteps: [
     {
       title: 'Emergency Response & Assessment',
-      description: 'We respond within 30 minutes when you call (877) 497-0007 about fire damage. After the fire department clears the scene, we assess the full scope—fire damage, smoke infiltration, water from firefighting, and structural integrity. This comprehensive assessment guides the restoration plan.',
-      timeframe: 'Within 30 minutes of call',
+      description: 'We respond as quickly as conditions allow when you call (877) 497-0007 about fire damage. After the fire department clears the scene, we assess the full scope—fire damage, smoke infiltration, water from firefighting, and structural integrity. This comprehensive assessment guides the restoration plan.',
+      timeframe: 'Initial response',
     },
     {
       title: 'Board-Up & Securement',
@@ -46,7 +46,7 @@ Our IICRC-certified fire damage technicians understand this complexity. We addre
     },
     {
       title: 'Restoration & Reconstruction',
-      description: `After cleaning and deodorizing, we coordinate reconstruction of damaged areas. This may include drywall replacement, repainting, flooring installation, and cabinet replacement. We work with trusted contractors to complete your home's return to pre-loss condition.`,
+      description: `After cleaning and deodorizing, we coordinate reconstruction of damaged areas. This may include drywall replacement, repainting, flooring installation, and cabinet replacement. We work with local contractors to complete your home's return to documented repair condition.`,
       timeframe: 'Weeks 2-8',
     },
   ],
@@ -107,7 +107,7 @@ Our IICRC-certified fire damage technicians understand this complexity. We addre
         purpose: 'Deep clean electronics, blinds, and detailed items without damage from aggressive scrubbing',
       },
     ],
-    localNote: 'Fire damage restoration requires specialized equipment and training. Our crews are certified in fire damage restoration and carry the equipment needed for complete smoke and soot remediation—not just the water damage equipment from our core services.',
+    localNote: 'Fire damage restoration requires specialized equipment and training. Our crews are trained in fire damage restoration and carry the equipment needed for thorough smoke and soot remediation—not just the water damage equipment from our core services.',
   },
   pricingSection: {
     headline: 'Fire Damage Restoration Costs in Fairfax',
@@ -119,7 +119,7 @@ Our IICRC-certified fire damage technicians understand this complexity. We addre
       'Contents damage—on-site cleaning vs. pack-out for off-site restoration',
       'Reconstruction scope—cosmetic repairs vs. major rebuilding',
     ],
-    cta: 'Call (877) 497-0007 for immediate fire damage response. We provide detailed estimates for insurance purposes and coordinate the complete restoration process.',
+    cta: 'Call (877) 497-0007 for immediate fire damage response. We provide detailed estimates for insurance purposes and coordinate the thorough restoration process.',
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -139,7 +139,7 @@ Our IICRC-certified fire damage technicians understand this complexity. We addre
       'Oak Hill',
       'Pickett Road Area',
     ],
-    responseTime: '30-minute response to fire damage calls throughout Fairfax. We arrive after the fire department clears the scene to begin immediate board-up, water extraction, and damage assessment.',
+    responseTime: 'prompt response to fire damage calls throughout Fairfax. We arrive after the fire department clears the scene to begin immediate board-up, water extraction, and damage assessment.',
   },
   faqs: [
     {
@@ -174,6 +174,6 @@ Our IICRC-certified fire damage technicians understand this complexity. We addre
   relatedBlogSlugs: ['water-damage-insurance-claim-guide', 'first-24-hours-after-water-damage'],
   finalCTA: {
     headline: 'Fire Damage in Your Fairfax Home?',
-    paragraph: `After the fire trucks leave, call us. We'll respond within 30 minutes to secure your home, extract firefighting water, and begin the restoration process. One team handles everything from emergency response through complete restoration.`,
+    paragraph: `After the fire trucks leave, call us. We'll respond as quickly as conditions allow to secure your home, extract firefighting water, and begin the restoration process. One team handles everything from emergency response through thorough restoration.`,
   },
 }

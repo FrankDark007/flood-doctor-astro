@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Commercial Flood Cleanup in Arlington, VA | Flood Doctor',
-    description: `Arlington commercial flood cleanup for high-rise offices, government buildings & mixed-use properties. 24/7 response to Rosslyn, Ballston & Crystal City. Call (877) 497-0007.`,
+    description: `Arlington commercial flood cleanup for high-rise workspaces, government buildings & mixed-use properties. 24/7 response to Rosslyn, Ballston & Crystal City. Call (877) 497-0007.`,
   },
   h1: 'Commercial Flood Cleanup in Arlington, Virginia',
   introSection: {
     headline: `Rapid Commercial Flood Response for Arlington's Dense Urban Core`,
     paragraphs: [
-      `Arlington's urban density means commercial flooding events affect more businesses per incident than anywhere else in Northern Virginia. When a water main break floods the ground floor of a Rosslyn mixed-use tower, when storm surge overwhelms the parking garage of a Crystal City office complex, or when a catastrophic sprinkler activation drenches multiple floors of a Ballston government contractor building, the cascading business impact demands a flood response team built for urban-scale operations. Residential flood crews lack the industrial extraction capacity, multi-tenant coordination skills, and vertical logistics expertise that Arlington's commercial environment requires.
+      `Arlington's urban density means commercial flooding events affect more businesses per incident than anywhere else in Northern Virginia. When a water main break floods the ground floor of a Rosslyn mixed-use tower, when storm surge overwhelms the parking garage of a Crystal City workspace complex, or when a catastrophic sprinkler activation drenches multiple floors of a Ballston government contractor building, the cascading business impact demands a flood response team built for urban-scale operations. Residential flood crews lack the industrial extraction capacity, multi-tenant coordination skills, and vertical logistics experience that Arlington's commercial environment requires.
 
 Flood Doctor's commercial flood division has managed major flooding events throughout Arlington's business corridors. We've pumped tens of thousands of gallons from Pentagon City underground parking structures, cleaned up storm flooding in Shirlington retail complexes, and restored multi-floor sprinkler discharge events in Clarendon mixed-use buildings—deploying industrial equipment through freight elevators while coordinating with building management on tenant communications and phased reopening schedules.`,
       `The flooding risks facing Arlington commercial properties stem from both external and internal sources. Flash flooding from Potomac tributaries and overwhelmed storm drainage threatens ground-floor retail and underground parking throughout the Rosslyn-Ballston corridor. Aging water infrastructure in some of Arlington's older commercial buildings produces catastrophic pipe failures. Sophisticated fire suppression systems in high-rise towers occasionally malfunction, releasing thousands of gallons across multiple floors. And the sheer density of mechanical systems in high-rise buildings—chillers, cooling towers, domestic water risers—creates more potential failure points per building than suburban commercial properties.
 
 Our commercial flood teams approach Arlington with equipment and strategies designed for this environment: truck-mounted extractors that can pump from underground garages, modular drying equipment that fits freight elevators, and contamination assessment protocols for the mixed-source floodwater common in urban settings where storm water mingles with building system water.`,
     ],
-    localContext: `Arlington's high-rise office towers, underground parking infrastructure, and Metro-adjacent commercial buildings face concentrated flood risks from aging water infrastructure, storm drainage limitations, and the density of mechanical systems in vertical commercial environments.`,
+    localContext: `Arlington's high-rise commercial towers, underground parking infrastructure, and Metro-adjacent commercial buildings face concentrated flood risks from aging water infrastructure, storm drainage limitations, and the density of mechanical systems in vertical commercial environments.`,
   },
   processSteps: [
     {
       title: 'Urban Emergency Mobilization',
       description: `Call (877) 497-0007 for commercial flood dispatch. Our Arlington crews maintain staging positions along the Rosslyn-Ballston and Crystal City corridors with industrial extraction equipment pre-loaded for immediate high-rise deployment.`,
-      timeframe: 'Within 45 minutes',
+      timeframe: 'Within as quickly as conditions allow',
     },
     {
       title: 'Flood Source Control & Assessment',
@@ -59,12 +59,12 @@ Our commercial flood teams approach Arlington with equipment and strategies desi
     {
       title: 'Metro-Adjacent Storm Water Intrusion',
       description: 'Commercial properties near Rosslyn, Ballston, and Crystal City Metro stations face storm water intrusion through below-grade connections and shared infrastructure. Intense rainfall events can overwhelm station drainage, affecting adjacent commercial building basements and parking structures.',
-      solution: 'We deploy rapid-response extraction for Metro-adjacent properties during severe weather events. Pre-loss assessments identify vulnerable below-grade connections, and flood barriers can be pre-positioned at known intrusion points during storm warnings.',
+      solution: 'We deploy rapid-response extraction for Metro-adjacent properties during severe weather events. Pre-loss assessments identify vulnerable below-grade connections, and flood barriers can be planned at known intrusion points during storm warnings.',
     },
     {
       title: 'Mixed-Use Building Complexity',
-      description: `Arlington's mixed-use towers combine ground-floor retail, office floors, and residential units in a single building. Flooding affecting retail activates different insurance structures than office damage, and residential tenants have individual coverage adding to coordination complexity.`,
-      solution: `Our project manager establishes separate scopes for each use type—retail, commercial office, and residential—with individual documentation packages for the different insurance structures each requires. Coordinated restoration prevents one use-type's work from disrupting another.`,
+      description: `Arlington's mixed-use towers combine ground-floor retail, workspace floors, and residential units in a single building. Flooding affecting retail activates different insurance structures than workspace damage, and residential tenants have individual coverage adding to coordination complexity.`,
+      solution: `Our project manager establishes separate scopes for each use type—retail, commercial workspace, and residential—with individual documentation packages for the different insurance structures each requires. Coordinated restoration prevents one use-type's work from disrupting another.`,
     },
     {
       title: 'National Landing and Crystal City Redevelopment Considerations',
@@ -86,7 +86,7 @@ Our commercial flood teams approach Arlington with equipment and strategies desi
       },
       {
         name: 'Freight-Elevator-Compatible Drying Units',
-        purpose: 'Modular dehumidifiers and air movers designed for high-rise transport and deployment on individual office floors',
+        purpose: 'Modular dehumidifiers and air movers designed for high-rise transport and deployment on individual workspace floors',
         brand: 'Dri-Eaz',
       },
       {
@@ -135,20 +135,20 @@ Our commercial flood teams approach Arlington with equipment and strategies desi
       'Rosslyn-Ballston Metro Corridor',
       'Army Navy Drive',
     ],
-    responseTime: '45-minute commercial flood response throughout Arlington. Industrial extraction equipment pre-staged at positions along the Rosslyn-Ballston and Crystal City corridors for immediate high-density deployment.',
+    responseTime: 'timely commercial flood response throughout Arlington. Industrial extraction equipment allocated at positions along the Rosslyn-Ballston and Crystal City corridors for immediate high-density deployment.',
   },
   faqs: [
     {
-      question: 'Can you handle flooding in an underground parking garage beneath our Arlington office tower?',
+      question: 'Can you handle flooding in an underground parking garage beneath our Arlington workspace tower?',
       answer: 'Yes. We deploy submersible pumps specifically designed for below-grade extraction, removing standing water while protecting electrical switchgear, elevator machinery, and mechanical systems. We coordinate with building engineers throughout to prevent energizing compromised infrastructure.',
     },
     {
-      question: 'How do you manage flood cleanup in a building with ground-floor retail and upper-floor offices?',
-      answer: 'We establish separate scopes for retail and office uses, recognizing that different insurance structures and operational priorities apply. Retail spaces may need faster restoration for revenue recovery while office spaces may require more thorough documentation for business interruption claims.',
+      question: 'How do you manage flood cleanup in a building with ground-floor retail and upper-floor workspaces?',
+      answer: 'We establish separate scopes for retail and workspace uses, recognizing that different insurance structures and operational priorities apply. Retail spaces may need faster restoration for revenue recovery while workspaces may require more thorough documentation for business interruption claims.',
     },
     {
       question: 'What about contaminated floodwater from storm drainage entering our building?',
-      answer: 'All floodwater is tested and classified per IICRC standards. Storm water entering through below-grade openings is typically Category 3 contaminated water, requiring biohazard PPE, antimicrobial treatment, and proper waste disposal. We maintain full EPA and OSHA compliance documentation.',
+      answer: 'All floodwater is tested and classified per recognized industry standards. Storm water entering through below-grade openings is typically Category 3 contaminated water, requiring biohazard PPE, antimicrobial treatment, and proper waste disposal. We maintain full EPA and OSHA compliance documentation.',
     },
     {
       question: 'Can you restore sections of our building in phases so some tenants can return?',
@@ -156,7 +156,7 @@ Our commercial flood teams approach Arlington with equipment and strategies desi
     },
     {
       question: 'How quickly can you scale for a major flood affecting our entire building?',
-      answer: 'Our initial response deploys within 45 minutes. For building-wide events, we scale to multiple crews within 4-6 hours through our regional network. We have managed simultaneous operations across 10+ floors in Arlington high-rise buildings.',
+      answer: 'Our initial response deploys as quickly as conditions allow. For building-wide events, we scale to multiple crews within 4-6 hours through our regional network. We have managed simultaneous operations across 10+ floors in Arlington high-rise buildings.',
     },
     {
       question: 'Do you coordinate with Arlington County emergency services during major flood events?',

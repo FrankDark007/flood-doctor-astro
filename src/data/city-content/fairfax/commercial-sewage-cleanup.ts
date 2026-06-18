@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's trusted commercial sewage cleanup experts. OSHA-compliant biohazard remediation for restaurants, offices, and retail near George Mason University and Fairfax Corner. Call (877) 497-0007.`,
+    description: `Fairfax's local commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for restaurants, workspaces, and retail near George Mason University and Fairfax Corner. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Fairfax, Virginia`,
   introSection: {
     headline: `Practical, Compliant Sewage Remediation for Fairfax Commercial Properties`,
     paragraphs: [
       `Sewage contamination at a Fairfax commercial property disrupts the daily rhythm of a community built on family neighborhoods and local business. A grease trap overflow at a Fairfax City restaurant forces an immediate health department closure while diners relocate down the street. A sewer lateral backup in a Burke Centre retail strip floods shared-wall tenant spaces with Category 3 waste. A main line obstruction near George Mason University sends sewage into ground-floor commercial spaces that serve the student population. Fairfax commercial property owners and managers need sewage remediation that acts fast, meets OSHA standards, and gets their tenants back in business without unnecessary delay. Flood Doctor delivers practical, fully compliant sewage cleanup calibrated for Fairfax's community-oriented commercial environment.`,
-      `Fairfax commercial properties connect to infrastructure built across multiple decades of suburban development. Sewer laterals serving 1970s-era strip malls in Kings Park and Mantua have exceeded their design lifespan, with root intrusion and joint failures causing unpredictable backups into commercial interiors. Restaurant clusters near Old Town Fairfax and Fairfax Corner concentrate grease loading on shared sewer lines that overwhelm during peak dining hours. Commercial properties along Fairfax Station Road rely on laterals that traverse clay-heavy soil prone to shifting, creating stress fractures that deteriorate into full collapses. Our hazmat teams have decontaminated Fairfax restaurants, medical offices, retail centers, daycare facilities, and university-adjacent commercial spaces—each remediation completed under OSHA bloodborne pathogen standards with full documentation for insurance, health department, and tenant records.`,
+      `Fairfax commercial properties connect to infrastructure built across multiple decades of suburban development. Sewer laterals serving 1970s-era strip malls in Kings Park and Mantua have exceeded their design lifespan, with root intrusion and joint failures causing unpredictable backups into commercial interiors. Restaurant clusters near Old Town Fairfax and Fairfax Corner concentrate grease loading on shared sewer lines that overwhelm during peak dining hours. Commercial properties along Fairfax Station Road rely on laterals that traverse clay-heavy soil prone to shifting, creating stress fractures that deteriorate into full collapses. Our hazmat teams have decontaminated Fairfax restaurants, medical workspaces, retail centers, daycare facilities, and university-adjacent commercial spaces—each remediation completed under OSHA bloodborne pathogen standards with full documentation for insurance, health department, and tenant records.`,
     ],
     localContext: `Fairfax's family-oriented commercial districts—spanning 1970s strip malls, modern retail centers, restaurant clusters, and university-adjacent businesses—require sewage remediation that delivers rapid compliance without disrupting the community-focused business environment.`,
   },
   processSteps: [
     {
       title: `Emergency Response Across Fairfax`,
-      description: `Call (877) 497-0007 and our hazmat crew deploys to your Fairfax commercial property immediately. We reach Fairfax City, Burke Centre, Kings Park, and Mantua commercial locations within our rapid response guarantee, establishing containment barriers before contamination spreads to adjacent tenant spaces.`,
-      timeframe: `Within 60 minutes`,
+      description: `Call (877) 497-0007 and our hazmat crew deploys to your Fairfax commercial property immediately. We reach Fairfax City, Burke Centre, Kings Park, and Mantua commercial locations within our rapid response commitment, establishing containment barriers before contamination spreads to adjacent tenant spaces.`,
+      timeframe: `Initial response`,
     },
     {
       title: `Contamination Scope and Regulatory Assessment`,
-      description: `Our safety officer evaluates sewage category, affected square footage, and building system involvement. For Fairfax food service establishments, we initiate health department notification. For daycare and medical facilities near GMU, we identify additional compliance requirements. Tenant notification and evacuation of affected areas proceed simultaneously.`,
+      description: `Our safety workspacer evaluates sewage category, affected square footage, and building system involvement. For Fairfax food service establishments, we initiate health department notification. For daycare and medical facilities near GMU, we identify additional compliance requirements. Tenant notification and evacuation of affected areas proceed simultaneously.`,
       timeframe: `Hours 1-2`,
     },
     {
@@ -100,13 +100,13 @@ export const content: CityServiceContent = {
         purpose: `Secure contaminated materials for manifested transport to licensed disposal facilities with proper chain-of-custody documentation`,
       },
     ],
-    localNote: `Our Fairfax commercial equipment fleet is calibrated for the community's commercial building types—strip mall shared-wall configurations, standalone restaurants, medical office buildings, and retail centers throughout Fairfax City, Burke, and surrounding areas.`,
+    localNote: `Our Fairfax commercial equipment fleet is calibrated for the community's commercial building types—strip mall shared-wall configurations, standalone restaurants, medical commercial buildings, and retail centers throughout Fairfax City, Burke, and surrounding areas.`,
   },
   pricingSection: {
     headline: `Commercial Sewage Cleanup Costs in Fairfax`,
-    intro: `Fairfax commercial sewage cleanup costs depend on contamination scope, building type, and regulatory requirements. We provide straightforward estimates before work begins and handle direct billing with commercial insurance carriers. For multi-tenant properties, costs are allocated by affected space for accurate insurance processing.`,
+    intro: `Fairfax commercial sewage cleanup costs depend on contamination scope, building type, and regulatory requirements. We provide straightforward estimates before work begins and provide claim-ready documentation with commercial insurance carriers. For multi-tenant properties, costs are allocated by affected space for accurate insurance processing.`,
     factors: [
-      `Affected square footage—strip mall tenant suites differ from standalone restaurant or medical office contamination`,
+      `Affected square footage—strip mall tenant suites differ from standalone restaurant or medical workspace contamination`,
       `Sewage category—grease trap overflows versus main line backups require different remediation intensity`,
       `Regulatory compliance—food service, daycare, and medical facilities have enhanced decontamination and inspection requirements`,
       `Shared-wall involvement—contamination migrating to adjacent tenants in strip malls expands remediation scope`,
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       `Lee Highway Commercial`,
       `Braddock Road Corridor`,
     ],
-    responseTime: `60-minute emergency response to all Fairfax commercial properties. Our hazmat crews are positioned throughout the Fairfax area for immediate dispatch to Fairfax City, Burke, Kings Park, Mantua, and all Fairfax commercial districts.`,
+    responseTime: `prompt emergency response to all Fairfax commercial properties. Our hazmat crews are available throughout the Fairfax area for immediate dispatch to Fairfax City, Burke, Kings Park, Mantua, and all Fairfax commercial districts.`,
   },
   faqs: [
     {
@@ -152,7 +152,7 @@ export const content: CityServiceContent = {
     },
     {
       question: `Does commercial insurance cover sewage backup at Fairfax properties?`,
-      answer: `Most commercial property policies include sewer and drain backup coverage. We handle direct billing and provide comprehensive documentation—scope of work, clearance testing, waste disposal manifests—that supports your claim. Multi-tenant cost allocation simplifies processing for strip mall properties.`,
+      answer: `Most commercial property policies include sewer and drain backup coverage. We provide claim-ready documentation and provide comprehensive documentation—scope of work, clearance testing, waste disposal manifests—that supports your claim. Multi-tenant cost allocation simplifies processing for strip mall properties.`,
     },
     {
       question: `Can you work after hours to minimize disruption to our Fairfax business?`,

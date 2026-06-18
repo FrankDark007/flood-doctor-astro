@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Sewage Cleanup in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's trusted commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for Old Town restaurants, Carlyle offices, and historic commercial districts. Call (877) 497-0007.`,
+    description: `Alexandria's local commercial sewage cleanup specialists. OSHA-compliant biohazard remediation for Old Town restaurants, Carlyle workspaces, and historic commercial districts. Call (877) 497-0007.`,
   },
   h1: `Commercial Sewage Cleanup in Alexandria, Virginia`,
   introSection: {
     headline: `Biohazard Sewage Remediation for Alexandria's Historic and Modern Commercial Properties`,
     paragraphs: [
-      `Sewage contamination in an Alexandria commercial property triggers a collision of biohazard urgency and regulatory complexity found nowhere else in Northern Virginia. Old Town restaurants operating in centuries-old buildings experience combined sewer overflows that flood dining rooms with Category 3 waste during heavy rain. Carlyle district office buildings face sewer lateral failures that contaminate modern commercial interiors and shared parking structures. Del Ray boutiques and galleries along Mount Vernon Avenue encounter backup events that threaten irreplaceable inventory and historic building fabric simultaneously. Every Alexandria commercial sewage event carries health department obligations, Board of Architectural Review considerations for historic structures, and the business continuity pressure of operating in a high-traffic tourism and commerce district. Flood Doctor provides OSHA-compliant commercial sewage remediation that navigates these overlapping requirements.`,
-      `Alexandria's commercial sewage vulnerabilities are rooted in the city's infrastructure history. The combined sewer system serving Old Town and portions of Del Ray carries both stormwater and sanitary waste in shared pipes—heavy rain events overwhelm capacity and force untreated sewage into commercial basements and ground-floor spaces along King Street and Union Street. Cast iron sewer laterals serving buildings constructed in the 1800s and early 1900s deteriorate from the inside, creating collapses that back up waste into Rosemont commercial properties. Newer developments in Potomac Yard and Kingstowne connect to more modern infrastructure but still face grease trap failures and main line obstructions. Our teams have remediated sewage contamination in Alexandria waterfront restaurants, Old Town retail spaces, Carlyle office buildings, and Belle Haven commercial properties—each with documentation meeting both OSHA standards and Alexandria's unique regulatory framework.`,
+      `Sewage contamination in an Alexandria commercial property triggers a collision of biohazard urgency and regulatory complexity found nowhere else in Northern Virginia. Old Town restaurants operating in centuries-old buildings experience combined sewer overflows that flood dining rooms with Category 3 waste during heavy rain. Carlyle district commercial buildings face sewer lateral failures that contaminate modern commercial interiors and shared parking structures. Del Ray boutiques and galleries along Mount Vernon Avenue encounter backup events that threaten irreplaceable inventory and historic building fabric simultaneously. Every Alexandria commercial sewage event carries health department obligations, Board of Architectural Review considerations for historic structures, and the business continuity pressure of operating in a high-traffic tourism and commerce district. Flood Doctor provides OSHA-compliant commercial sewage remediation that navigates these overlapping requirements.`,
+      `Alexandria's commercial sewage vulnerabilities are rooted in the city's infrastructure history. The combined sewer system serving Old Town and portions of Del Ray carries both stormwater and sanitary waste in shared pipes—heavy rain events overwhelm capacity and force untreated sewage into commercial basements and ground-floor spaces along King Street and Union Street. Cast iron sewer laterals serving buildings constructed in the 1800s and early 1900s deteriorate from the inside, creating collapses that back up waste into Rosemont commercial properties. Newer developments in Potomac Yard and Kingstowne connect to more modern infrastructure but still face grease trap failures and main line obstructions. Our teams have remediated sewage contamination in Alexandria waterfront restaurants, Old Town retail spaces, Carlyle commercial buildings, and Belle Haven commercial properties—each with documentation meeting both OSHA standards and Alexandria's unique regulatory framework.`,
     ],
-    localContext: `Alexandria's combined sewer system, historic building stock, waterfront proximity, and tourism-dependent commercial districts create sewage contamination challenges requiring both biohazard expertise and historic preservation sensitivity.`,
+    localContext: `Alexandria's combined sewer system, historic building stock, waterfront proximity, and tourism-dependent commercial districts create sewage contamination challenges requiring both biohazard experience and historic preservation sensitivity.`,
   },
   processSteps: [
     {
       title: `Emergency Dispatch to Alexandria Commercial Districts`,
       description: `Call (877) 497-0007 and our hazmat crew deploys to your Alexandria commercial property immediately. We navigate Old Town parking constraints, Carlyle loading dock access, and Del Ray street-level challenges while establishing containment barriers to prevent contamination spread to adjacent tenant spaces or public areas.`,
-      timeframe: `Within 60 minutes`,
+      timeframe: `Initial response`,
     },
     {
       title: `Contamination Assessment and Regulatory Coordination`,
-      description: `Our safety officer evaluates contamination scope, classifies the sewage category, and identifies affected building systems. For Alexandria food service establishments, we initiate health department coordination immediately. For properties in historic districts, we note any remediation activities that may require BAR notification.`,
+      description: `Our safety workspacer evaluates contamination scope, classifies the sewage category, and identifies affected building systems. For Alexandria food service establishments, we initiate health department coordination immediately. For properties in historic districts, we note any remediation activities that may require BAR notification.`,
       timeframe: `Hours 1-3`,
     },
     {
@@ -45,7 +45,7 @@ export const content: CityServiceContent = {
     {
       title: `Combined Sewer Overflow Events in Old Town`,
       description: `Alexandria's combined sewer system serves Old Town and adjacent areas, carrying stormwater and sanitary waste in shared pipes. During moderate to heavy rainfall, the system surcharges and forces raw sewage into commercial basements along King Street, Union Street, and the waterfront—affecting restaurants, galleries, and retail spaces simultaneously.`,
-      solution: `We maintain pre-positioned resources for Alexandria CSO events that affect multiple commercial properties simultaneously. Our crews deploy containment at each affected property while industrial extraction teams work systematically through affected buildings. We coordinate with Alexandria Renew Enterprises on system status to anticipate ongoing risk.`,
+      solution: `We maintain planned resources for Alexandria CSO events that affect multiple commercial properties simultaneously. Our crews deploy containment at each affected property while industrial extraction teams work systematically through affected buildings. We coordinate with Alexandria Renew Enterprises on system status to anticipate ongoing risk.`,
     },
     {
       title: `Historic Building Material Sensitivity`,
@@ -59,7 +59,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Multi-Property Sewer Events Along King Street`,
-      description: `Main line blockages and CSO events on Alexandria's King Street corridor can affect multiple commercial properties simultaneously. Restaurants, retail shops, and professional offices share sewer infrastructure that creates cascading contamination when the system fails.`,
+      description: `Main line blockages and CSO events on Alexandria's King Street corridor can affect multiple commercial properties simultaneously. Restaurants, retail shops, and professional workspaces share sewer infrastructure that creates cascading contamination when the system fails.`,
       solution: `We scale our response for multi-property events, deploying separate containment and extraction teams to each affected business. Coordination with Alexandria utilities identifies the cause and provides timeline for system restoration, while our teams work in parallel to minimize collective business disruption.`,
     },
   ],
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       `Mount Vernon Avenue Corridor`,
       `Old Town Waterfront`,
     ],
-    responseTime: `60-minute emergency response to all Alexandria commercial properties. Our crews navigate Old Town access constraints, Carlyle commercial corridors, and all Alexandria business districts with pre-planned deployment routes.`,
+    responseTime: `prompt emergency response to all Alexandria commercial properties. Our crews navigate Old Town access constraints, Carlyle commercial corridors, and all Alexandria business districts with pre-planned deployment routes.`,
   },
   faqs: [
     {
@@ -151,12 +151,12 @@ export const content: CityServiceContent = {
     },
     {
       question: `Does commercial insurance cover sewage backup in Alexandria?`,
-      answer: `Most commercial policies include sewer and drain backup coverage, though limits vary. We handle direct billing with all major carriers and provide detailed documentation including scope of work, clearance testing, and waste disposal manifests to support your claim.`,
+      answer: `Most commercial policies include sewer and drain backup coverage, though limits vary. We handle claim-ready documentation for insurance carriers and provide detailed documentation including scope of work, clearance testing, and waste disposal manifests to support your claim.`,
     },
   ],
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Sewage Emergency in Alexandria?`,
-    paragraph: `Whether a combined sewer overflow has flooded your Old Town restaurant or a lateral failure has contaminated your Carlyle office space, our OSHA-compliant hazmat crews are ready for immediate deployment. Call (877) 497-0007 for biohazard containment, professional remediation, and complete compliance documentation.`,
+    paragraph: `Whether a combined sewer overflow has flooded your Old Town restaurant or a lateral failure has contaminated your Carlyle workspace, our OSHA-compliant hazmat crews are ready for immediate deployment. Call (877) 497-0007 for biohazard containment, professional remediation, and complete compliance documentation.`,
   },
 }

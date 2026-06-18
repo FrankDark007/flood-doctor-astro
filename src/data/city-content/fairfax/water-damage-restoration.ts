@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Water Damage Restoration in Fairfax, VA | Flood Doctor',
-    description: `Fairfax's trusted water damage pros. Expert colonial and split-level restoration in Burke, Fairfax City & Kings Park. Fast family-focused service. Call (877) 497-0007.`,
+    description: `Fairfax's local water damage pros. Colonial and split-level restoration in Burke, Fairfax City & Kings Park. Fast family-focused service. Call (877) 497-0007.`,
   },
   h1: 'Water Damage Restoration in Fairfax, Virginia',
   introSection: {
@@ -14,20 +14,20 @@ export const content: CityServiceContent = {
 Flood Doctor has served Fairfax families for years, restoring water-damaged homes throughout Burke, Fairfax City, Mantua, and beyond. We've pumped flooded basements in Burke Centre after summer storms, dried split-levels in Kings Park when washing machine lines burst, and saved colonial hardwood floors in Fairfax Station before insurance adjusters even arrived. When your neighbor recommends a restoration company, they mention us—because we've already handled their sump pump failure or burst pipe emergency.`,
       `Fairfax's water damage challenges reflect the community's housing stock. The colonials and split-levels built in the 1970s and 1980s now face aging infrastructure—original sump pumps that fail during heavy rain, HVAC drain lines that clog after decades of service, and supply lines that finally give out. The mature trees that shade Burke Lake Park also send roots into clay sewer pipes, creating backups when storms hit. The same sloped lots that provide great yards also channel water toward foundation walls.
 
-Our IICRC-certified technicians understand Fairfax homes. We know Burke Centre townhomes share HVAC systems that can spread water damage between units. We've dried hundreds of split-level basements where water pools at the lowest level. We understand that your Fairfax City home's value depends on fast, thorough restoration—not just pumping water and hoping for the best.`,
+Our trained technicians understand Fairfax homes. We know Burke Centre townhomes share HVAC systems that can spread water damage between units. We've dried hundreds of split-level basements where water pools at the lowest level. We understand that your Fairfax City home's value depends on fast, thorough restoration—not just pumping water and hoping for the best.`,
     ],
-    localContext: `Fairfax's family neighborhoods—from Burke's established subdivisions to Fairfax City's charming downtown—deserve restoration experts who understand how people actually live in these homes. We've protected family investments throughout Fairfax County for years.`,
+    localContext: `Fairfax's family neighborhoods—from Burke's established subdivisions to Fairfax City's charming downtown—deserve restoration specialists who understand how people actually live in these homes. We've protected family investments throughout Fairfax County for years.`,
   },
   processSteps: [
     {
       title: 'Fast Emergency Response',
-      description: `When you call our Fairfax hotline at (877) 497-0007, we dispatch immediately from our facility near Fairfax Corner. Our trucks reach Burke, Kings Park, Mantua, and Fairfax Station within 45 minutes—usually faster. We don't make you wait hours while water spreads through your home.`,
-      timeframe: 'Within 45 minutes',
+      description: `When you call our Fairfax hotline at (877) 497-0007, we dispatch immediately from our facility near Fairfax Corner. Our trucks reach Burke, Kings Park, Mantua, and Fairfax Station as quickly as route and weather conditions allow. We don't make you wait hours while water spreads through your home.`,
+      timeframe: 'Within as quickly as conditions allow',
     },
     {
       title: 'Complete Damage Assessment',
-      description: `Our certified technician walks your entire home with moisture meters and infrared cameras. In Fairfax split-levels, this means checking all three levels—water from an upstairs bathroom often travels down to the basement. We identify everything that's wet, not just the obvious puddles.`,
-      timeframe: 'First 30-45 minutes',
+      description: `Our trained technician walks your entire home with moisture meters and infrared cameras. In Fairfax split-levels, this means checking all three levels—water from an upstairs bathroom often travels down to the basement. We identify everything that's wet, not just the obvious puddles.`,
+      timeframe: 'First 30-as quickly as conditions allow',
     },
     {
       title: 'Water Extraction',
@@ -113,7 +113,7 @@ Our IICRC-certified technicians understand Fairfax homes. We know Burke Centre t
   },
   pricingSection: {
     headline: 'Water Damage Restoration Costs in Fairfax',
-    intro: `Fairfax water damage restoration costs depend on the extent of damage, affected materials, and how quickly you call. Most Fairfax homeowners file insurance claims—we work directly with all major carriers and handle the billing details. You'll receive a detailed estimate before any work begins.`,
+    intro: `Fairfax water damage restoration costs depend on the extent of damage, affected materials, and how quickly you call. Most Fairfax homeowners file insurance claims—we provide claim-ready documentation and clear billing details. You'll receive a detailed estimate before any work begins.`,
     factors: [
       'Square footage affected—split-level basements differ from colonial first-floor flooding',
       'Water source category—clean water from supply lines versus sewage backup requiring biohazard protocols',
@@ -141,7 +141,7 @@ Our IICRC-certified technicians understand Fairfax homes. We know Burke Centre t
       'South Run',
       'Popes Head',
     ],
-    responseTime: '45-minute response to all Fairfax neighborhoods. Our crews cover Burke to Fairfax Station, Mantua to Kings Park—wherever your family needs help.',
+    responseTime: 'timely response to all Fairfax neighborhoods. Our crews cover Burke to Fairfax Station, Mantua to Kings Park—wherever your family needs help.',
   },
   faqs: [
     {
@@ -174,7 +174,7 @@ Our IICRC-certified technicians understand Fairfax homes. We know Burke Centre t
     },
     {
       question: `What's the difference between you and a national chain?`,
-      answer: `We're locally owned and Fairfax-focused. We know Burke Centre's townhome construction, Kings Park's split-level layouts, and Fairfax City's older housing stock. National chains dispatch from central locations and lack local expertise. We're positioned specifically to serve Fairfax families quickly.`,
+      answer: `We're locally owned and Fairfax-focused. We know Burke Centre's townhome construction, Kings Park's split-level layouts, and Fairfax City's older housing stock. National chains dispatch from central locations and lack local experience. We're positioned specifically to serve Fairfax families quickly.`,
     },
   ],
   relatedBlogSlugs: [
@@ -184,6 +184,6 @@ Our IICRC-certified technicians understand Fairfax homes. We know Burke Centre t
   ],
   finalCTA: {
     headline: 'Water Damage Emergency in Your Fairfax Home?',
-    paragraph: `Every hour you wait means more damage to your family's home. Our crews are positioned throughout Fairfax for fast response to Burke, Kings Park, Fairfax City, and surrounding neighborhoods. One call starts the restoration process.`,
+    paragraph: `Every hour you wait means more damage to your family's home. Our service-area teams are available throughout Fairfax for fast response to Burke, Kings Park, Fairfax City, and surrounding neighborhoods. One call starts the restoration process.`,
   },
 }

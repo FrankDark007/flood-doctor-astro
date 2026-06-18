@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Moisture Mapping & Consulting in Fairfax, VA | Flood Doctor',
-    description: `Fairfax moisture mapping experts. Infrared thermography and scientific moisture profiling for colonials, split-levels & townhomes in Burke, Kings Park & Mantua. Call (877) 497-0007.`,
+    description: `Fairfax moisture mapping specialists. Infrared thermography and scientific moisture profiling for colonials, split-levels & townhomes in Burke, Kings Park & Mantua. Call (877) 497-0007.`,
   },
   h1: 'Moisture Mapping & Consulting in Fairfax, Virginia',
   introSection: {
     headline: `Thorough Moisture Diagnostics for Fairfax Family Homes`,
     paragraphs: [
       `Fairfax homeowners face moisture intrusion patterns tied directly to the housing stock built between 1970 and 1995. A Kings Park split-level with water seeping through the lower-level slab-on-grade foundation, a Burke Centre townhome where shared wall moisture has migrated from an adjacent unit, or a Mantua colonial experiencing chronic basement dampness after sump pump failure—each demands systematic moisture profiling to document the full scope before restoration begins. Flood Doctor deploys FLIR infrared thermography, NIST-calibrated moisture meters, and psychrometric analysis to create detailed digital moisture maps that reveal every affected area in your Fairfax property, including concealed moisture that visual inspection cannot detect.`,
-      `Our consulting practice has mapped moisture migration through dozens of split-level foundations in Fairfax City, documented water pathways from failed supply lines in Burke colonial basements, and traced HVAC condensate leaks hidden inside wall cavities of Fairfax Station properties. The practical challenge with Fairfax homes is their finished lower levels—family rooms, home offices, and playrooms that conceal moisture behind drywall, beneath carpet padding, and above suspended ceilings. Our IICRC-certified consultants produce moisture documentation that supports insurance claims, identifies the true extent of water travel, and provides the scientific basis for targeted drying strategies that protect your investment without unnecessary demolition.`,
+      `Our consulting practice has mapped moisture migration through dozens of split-level foundations in Fairfax City, documented water pathways from failed supply lines in Burke colonial basements, and traced HVAC condensate leaks hidden inside wall cavities of Fairfax Station properties. The practical challenge with Fairfax homes is their finished lower levels—family rooms, home workspaces, and playrooms that conceal moisture behind drywall, beneath carpet padding, and above suspended ceilings. Our trained consultants produce moisture documentation that supports insurance claims, identifies the true extent of water travel, and provides the scientific basis for targeted drying strategies that protect your investment without unnecessary demolition.`,
     ],
     localContext: `Fairfax neighborhoods feature 1970s-90s construction with finished basements and split-level designs that create characteristic moisture migration patterns requiring systematic assessment to fully document.`,
   },
@@ -104,7 +104,7 @@ export const content: CityServiceContent = {
   },
   pricingSection: {
     headline: 'Moisture Mapping & Consulting Costs in Fairfax',
-    intro: `Fairfax moisture mapping costs are determined by the scope of assessment needed. Finished basements, multi-level moisture migration, and slab-on-grade testing add complexity beyond single-room evaluations. We provide clear proposals and our documentation directly supports insurance claim processing with all major carriers.`,
+    intro: `Fairfax moisture mapping costs are determined by the scope of assessment needed. Finished basements, multi-level moisture migration, and slab-on-grade testing add complexity beyond single-room evaluations. We provide clear proposals and our documentation directly supports insurance claim processing with many insurance carriers.`,
     factors: [
       'Number of finished levels affected—Fairfax split-levels and colonials often have moisture spanning two or three floors',
       'Slab-on-grade testing requirements using ASTM-standard protocols for split-level lower levels',
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'Greenbriar',
       'Fair Oaks',
     ],
-    responseTime: `Same-day moisture assessment throughout Fairfax. Emergency thermal imaging available within 2 hours for active flooding events. Call (877) 497-0007.`,
+    responseTime: `Same-day moisture assessment throughout Fairfax. Emergency thermal imaging available promptly for active flooding events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -144,7 +144,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How does moisture mapping help with my insurance claim?',
-      answer: `Moisture maps provide quantitative, calibrated data showing exact moisture levels at specific locations. This objective documentation demonstrates the true scope of damage—including hidden moisture that visual inspection misses. Insurance adjusters rely on this data for accurate claim processing, and our reports meet documentation standards for all major carriers.`,
+      answer: `Moisture maps provide quantitative, calibrated data showing exact moisture levels at specific locations. This objective documentation demonstrates the true scope of damage—including hidden moisture that visual inspection misses. Insurance adjusters rely on this data for accurate claim processing, and our reports meet documentation standards for many insurance carriers.`,
     },
     {
       question: 'What is the difference between a moisture map and a regular inspection?',
@@ -165,6 +165,6 @@ export const content: CityServiceContent = {
   ],
   finalCTA: {
     headline: 'Water Damage in Your Fairfax Home?',
-    paragraph: `Accurate moisture mapping ensures complete restoration and prevents hidden mold growth. Our IICRC-certified team provides scientific moisture diagnostics for Fairfax colonials, split-levels, and townhomes. Call (877) 497-0007 for a professional assessment.`,
+    paragraph: `Accurate moisture mapping ensures thorough restoration and prevents hidden mold growth. Our trained team provides scientific moisture diagnostics for Fairfax colonials, split-levels, and townhomes. Call (877) 497-0007 for a professional assessment.`,
   },
 }

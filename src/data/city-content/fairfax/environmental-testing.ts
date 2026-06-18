@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Fairfax, VA | Flood Doctor',
-    description: `Fairfax's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Burke, Kings Park & Mantua. Call (877) 497-0007.`,
+    description: `Fairfax's environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for homes in Burke, Kings Park & Mantua. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Fairfax, Virginia',
   introSection: {
     headline: `Certified Environmental Testing for Fairfax Family Homes`,
     paragraphs: [
       `Fairfax\`s suburban housing stock—predominantly 1970s through 1990s colonials, split-levels, and townhomes—occupies the construction window where asbestos and lead-based paint were still present in building materials but often unrecognized by homeowners today. Split-level homes in Kings Park contain asbestos floor tiles in original basements and asbestos pipe insulation on heating system ductwork. Colonials in Mantua built before 1978 harbor lead-based paint on original trim and exterior surfaces. Burke Centre townhomes from the 1980s present shared-wall construction where mold from one unit\`s water damage migrates into adjacent homes undetected. Flood Doctor provides AIHA-accredited environmental testing—asbestos bulk sampling, XRF lead paint analysis, mold air and surface sampling, and VOC screening—designed for the family-focused Fairfax communities where safe indoor environments are a priority, not a luxury.`,
-      `Our certified inspectors have identified asbestos in 9x9 floor tiles throughout Kings Park basements, documented lead paint on original garage doors and window trim in Mantua colonials, and quantified elevated Cladosporium and Penicillium concentrations in Burke split-level basements where chronic sump pump failures created persistent moisture conditions. Near George Mason University, rental properties undergoing turnover between tenants require environmental clearance for mold and habitability. Across Fairfax\`s family neighborhoods, homeowners planning kitchen renovations, basement finishing, or bathroom remodels need environmental testing before demolition begins—identifying hazards proactively costs a fraction of the mid-project discovery that halts construction, requires emergency abatement, and doubles the renovation budget.`,
+      `Our environmental inspectors have identified asbestos in 9x9 floor tiles throughout Kings Park basements, documented lead paint on original garage doors and window trim in Mantua colonials, and quantified elevated Cladosporium and Penicillium concentrations in Burke split-level basements where chronic sump pump failures created persistent moisture conditions. Near George Mason University, rental properties undergoing turnover between tenants require environmental clearance for mold and habitability. Across Fairfax\`s family neighborhoods, homeowners planning kitchen renovations, basement finishing, or bathroom remodels need environmental testing before demolition begins—identifying hazards proactively costs a fraction of the mid-project discovery that halts construction, requires emergency abatement, and doubles the renovation budget.`,
     ],
     localContext: `Fairfax\`s 1970s-1990s housing stock sits squarely in the construction era where asbestos, lead paint, and early-generation building materials create environmental testing needs that homeowners frequently underestimate until renovation work begins.`,
   },
   processSteps: [
     {
       title: 'Property Evaluation and Testing Scope',
-      description: `Our certified inspector evaluates your Fairfax home against construction date, material types, renovation plans, and any health or moisture concerns. For split-levels, colonials, and townhomes, we identify the specific materials likely present based on your home\`s construction era and builder practices common in each Fairfax neighborhood.`,
+      description: `Our environmental inspector evaluates your Fairfax home against construction date, material types, renovation plans, and any health or moisture concerns. For split-levels, colonials, and townhomes, we identify the specific materials likely present based on your home\`s construction era and builder practices common in each Fairfax neighborhood.`,
       timeframe: 'Hours 1-2',
     },
     {

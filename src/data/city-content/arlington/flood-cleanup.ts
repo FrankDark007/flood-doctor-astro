@@ -14,14 +14,14 @@ export const content: CityServiceContent = {
 Flood Doctor has responded to flood emergencies throughout Arlington for nearly two decades. We've pumped out the underground levels of Crystal City towers after flash floods, restored basement apartments in Fairlington after Four Mile Run overflowed, and dried commercial spaces in Clarendon after roof drains backed up during tropical storm remnants. When Arlington experiences its predictable—yet always surprising—flooding events, we're ready.`,
       `Flood cleanup in Arlington requires understanding the county's unique flood patterns. The Four Mile Run watershed, which crosses the county from Bluemont through Shirlington, creates flood risk for properties that aren't anywhere near visible water. Undersized storm drains in older neighborhoods back up into basements. Underground parking structures collect runoff from surrounding streets. And Arlington's aggressive development has increased impervious surface area faster than drainage infrastructure has improved.
 
-Our IICRC-certified flood cleanup crews bring the equipment and expertise for Arlington's various flood scenarios: truck-mounted extraction for parking garages, portable systems for basement apartments, and contaminated water protocols for everything storm drains touch. We coordinate with building managers, HOAs, and individual property owners throughout the cleanup process.`,
+Our trained flood cleanup crews bring the equipment and experience for Arlington's various flood scenarios: truck-mounted extraction for parking garages, portable systems for basement apartments, and contaminated water protocols for everything storm drains touch. We coordinate with building managers, HOAs, and individual property owners throughout the cleanup process.`,
     ],
     localContext: `Arlington's development density—among the highest in Virginia—creates flood vulnerabilities that don't exist in suburban communities. From the Four Mile Run corridor to the underground levels of high-rise buildings, we've learned the county's flood patterns through decades of emergency response.`,
   },
   processSteps: [
     {
       title: 'Storm Response Deployment',
-      description: `During significant rain events, we monitor conditions and pre-position crews throughout Arlington. When flooding calls begin—and they always do—we're already nearby. Response times during active storms may extend beyond normal guarantees due to road conditions, but we prioritize by severity and deploy continuously until all emergencies are addressed.`,
+      description: `During significant rain events, we monitor conditions and plan service-area coverage across Arlington. When flooding calls begin—and they always do—we're already nearby. Response times during active storms may extend beyond normal commitments due to road conditions, but we prioritize by severity and deploy continuously until all emergencies are addressed.`,
       timeframe: 'During event',
     },
     {
@@ -73,7 +73,7 @@ Our IICRC-certified flood cleanup crews bring the equipment and expertise for Ar
     },
     {
       title: 'Commercial Property Flooding',
-      description: `Arlington's commercial spaces—retail in Clarendon, offices in Ballston, restaurants in Shirlington—flood during major storms through roof drains, storefront entrances, and basement-level systems. Business interruption costs mount every hour the space is unusable.`,
+      description: `Arlington's commercial spaces—retail in Clarendon, workspaces in Ballston, restaurants in Shirlington—flood during major storms through roof drains, storefront entrances, and basement-level systems. Business interruption costs mount every hour the space is unusable.`,
       solution: 'We prioritize commercial properties for rapid extraction and aggressive drying. Our crews work nights and weekends to minimize business interruption. Documentation supports both property damage claims and business income loss coverage.',
     },
   ],
@@ -141,7 +141,7 @@ Our IICRC-certified flood cleanup crews bring the equipment and expertise for Ar
       'Columbia Heights',
       'Nauck',
     ],
-    responseTime: 'Rapid response to all Arlington neighborhoods during flooding events. We pre-position crews when significant storms approach and deploy continuously until all emergencies are addressed.',
+    responseTime: 'Rapid response to all Arlington neighborhoods during flooding events. We plan service-area crew coverage when significant storms approach and deploy continuously until all emergencies are addressed.',
   },
   faqs: [
     {
@@ -150,7 +150,7 @@ Our IICRC-certified flood cleanup crews bring the equipment and expertise for Ar
     },
     {
       question: 'How quickly can you respond during major storms?',
-      answer: 'We pre-position crews throughout Arlington when significant storms approach. During active flooding, response times depend on storm severity and the number of simultaneous emergencies—but we deploy continuously until every call is addressed. During major events, we may work 24-48 hours straight responding to Arlington properties.',
+      answer: 'We plan service-area coverage across Arlington when significant storms approach. During active flooding, response times depend on storm severity and the number of simultaneous emergencies—but we deploy continuously until every call is addressed. During major events, we may work 24-48 hours straight responding to Arlington properties.',
     },
     {
       question: 'Can you pump out a flooded parking garage during the storm?',

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Odor Removal Services in Fairfax, VA | Flood Doctor',
-    description: `Fairfax's odor elimination experts. Permanent removal of mold, sewage & smoke odors from colonials & split-levels in Burke, Kings Park & Mantua. Call (877) 497-0007.`,
+    description: `Fairfax's odor elimination specialists. Permanent removal of mold, sewage & smoke odors from colonials & split-levels in Burke, Kings Park & Mantua. Call (877) 497-0007.`,
   },
   h1: 'Odor Removal Services in Fairfax, Virginia',
   introSection: {
@@ -106,14 +106,14 @@ Our deodorization technicians deploy hydroxyl generators that safely neutralize 
   },
   pricingSection: {
     headline: 'Odor Removal Costs in Fairfax',
-    intro: 'Odor elimination costs depend on the source, contamination severity, and your home size. We provide honest assessments and straightforward estimates. Most odor situations resulting from water damage, sewer backup, or fire are covered by homeowner insurance — we handle direct billing with your carrier.',
+    intro: 'Odor elimination costs depend on the source, contamination severity, and your home size. We provide honest assessments and straightforward estimates. Most odor situations resulting from water damage, sewer backup, or fire are covered by homeowner insurance — we handle claim-ready documentation for your carrier.',
     factors: [
       'Odor source type — mold, sewage, smoke, and pet odors each require different treatment protocols and timelines',
       'Contamination severity — recent odors resolve faster and cost less than deeply embedded contamination from long-standing issues',
       'Home size and HVAC complexity — larger homes with multiple HVAC zones require more equipment and ductwork treatment',
       'Material removal needs — severely contaminated drywall, carpet, or insulation that must be removed adds scope to the project',
     ],
-    cta: `Call (877) 497-0007 for a straightforward odor assessment. We identify the source, explain your options, and provide a clear estimate with no hidden costs.`,
+    cta: `Call (877) 497-0007 for a straightforward odor assessment. We identify the source, explain your options, and provide a clear estimate with clear cost explanations.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -131,7 +131,7 @@ Our deodorization technicians deploy hydroxyl generators that safely neutralize 
       'Greenbriar',
       'Fair Lakes',
     ],
-    responseTime: '30-minute response for odor emergencies in all Fairfax neighborhoods. For non-emergency odor assessments, we schedule at your convenience — typically within 24-48 hours.',
+    responseTime: 'prompt response for odor emergencies in all Fairfax neighborhoods. For non-emergency odor assessments, we schedule at your convenience — typically within 24-48 hours.',
   },
   faqs: [
     {

@@ -3,22 +3,22 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Hardwood Floor Drying in Alexandria, VA | Save Your Floors | Flood Doctor',
-    description: `Alexandria hardwood floor drying with historic preservation expertise. Saving original floors in Old Town, Del Ray & Rosemont. BAR-aware restoration. Call (877) 497-0007.`,
+    description: `Alexandria hardwood floor drying with historic preservation experience. Saving original floors in Old Town, Del Ray & Rosemont. BAR-aware restoration. Call (877) 497-0007.`,
   },
   h1: 'Hardwood Floor Drying Services in Alexandria, Virginia',
   introSection: {
     headline: 'Preserving Alexandria Historic Hardwood Through Expert Drying',
     paragraphs: [
       `The hardwood floors in Alexandria's historic homes are architectural treasures—original wide-plank pine in Old Town rowhouses dating to the 1800s, century-old white oak in Rosemont colonials, and character-rich heart pine in Del Ray bungalows that cannot be sourced from any modern supplier. When a combined sewer backup sends contaminated water across your King Street area floors, or an aging cast iron pipe drips undetected onto the subfloor in your Belle Haven home, these irreplaceable surfaces face damage that no amount of money can reverse if drying does not begin immediately. Flood Doctor understands that Alexandria hardwood preservation is about protecting history, not just flooring.`,
-      `Alexandria's moisture challenges create hardwood damage scenarios unique to this waterfront city. The high water table near the Potomac Yard and Old Town Waterfront pushes moisture upward through foundations, attacking hardwood from below through the subfloor. Combined sewer overflows during heavy rain introduce Category 3 contaminated water that requires specific protocols before drying can begin. Original plaster walls in Rosemont and George Washington Park homes hold moisture that weeps onto adjacent hardwood for days after a leak is stopped. Our IICRC-certified technicians bring both historic preservation sensitivity and technical drying expertise to every Alexandria hardwood emergency, treating original floors with the reverence they deserve near the Torpedo Factory and throughout this historically significant city.`,
+      `Alexandria's moisture challenges create hardwood damage scenarios unique to this waterfront city. The high water table near the Potomac Yard and Old Town Waterfront pushes moisture upward through foundations, attacking hardwood from below through the subfloor. Combined sewer overflows during heavy rain introduce Category 3 contaminated water that requires specific protocols before drying can begin. Original plaster walls in Rosemont and George Washington Park homes hold moisture that weeps onto adjacent hardwood for days after a leak is stopped. Our trained technicians bring both historic preservation sensitivity and technical drying experience to every Alexandria hardwood emergency, treating original floors with the reverence they deserve near the Torpedo Factory and throughout this historically significant city.`,
     ],
     localContext: `Alexandria's historic hardwood—original wide-plank pine, century-old oak, and irreplaceable heart pine—requires drying specialists who understand both moisture science and the preservation imperative for these architectural treasures.`,
   },
   processSteps: [
     {
       title: 'Emergency Historic Floor Response',
-      description: `We respond to your Alexandria home within 30 minutes of your call to (877) 497-0007. For historic properties in Old Town and Rosemont, our first assessment identifies wood species, age, condition, and any preservation considerations that affect our drying approach.`,
-      timeframe: 'Within 30 minutes',
+      description: `We respond to your Alexandria home as quickly as conditions allow of your call to (877) 497-0007. For historic properties in Old Town and Rosemont, our first assessment identifies wood species, age, condition, and any preservation considerations that affect our drying approach.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Contamination Assessment & Safe Extraction',
@@ -131,7 +131,7 @@ export const content: CityServiceContent = {
       'North Ridge',
       'Warwick Village',
     ],
-    responseTime: '30-minute emergency response throughout Alexandria. Our crews reach Old Town, Del Ray, and Belle Haven with hardwood drying systems ready for immediate deployment on historic and modern floors.',
+    responseTime: 'prompt emergency response throughout Alexandria. Our crews reach Old Town, Del Ray, and Belle Haven with hardwood drying systems ready for immediate deployment on historic and modern floors.',
   },
   faqs: [
     {

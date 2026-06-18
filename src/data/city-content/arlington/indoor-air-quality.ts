@@ -9,7 +9,7 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Professional IAQ Testing for Arlington Urban Residential and Commercial Properties`,
     paragraphs: [
-      `Arlington County's dense urban environment creates indoor air quality dynamics fundamentally different from suburban residential testing. A Rosslyn high-rise condo where centralized HVAC distributes contaminants from a mechanical room across 20 floors, a Clarendon rowhouse where shared-wall moisture has generated mold growth affecting adjacent units, or a Crystal City office building where post-renovation VOC levels are triggering employee health complaints—each demands IAQ testing protocols designed for urban building systems. Flood Doctor provides comprehensive air quality assessment including spore trap sampling, real-time particulate monitoring, VOC analysis, and HVAC system evaluation for the multi-unit residential and commercial buildings that characterize Arlington.`,
+      `Arlington County's dense urban environment creates indoor air quality dynamics fundamentally different from suburban residential testing. A Rosslyn high-rise condo where centralized HVAC distributes contaminants from a mechanical room across 20 floors, a Clarendon rowhouse where shared-wall moisture has generated mold growth affecting adjacent units, or a Crystal City commercial building where post-renovation VOC levels are triggering employee health complaints—each demands IAQ testing protocols designed for urban building systems. Flood Doctor provides comprehensive air quality assessment including spore trap sampling, real-time particulate monitoring, VOC analysis, and HVAC system evaluation for the multi-unit residential and commercial buildings that characterize Arlington.`,
       `Our IAQ team has identified Aspergillus and Penicillium contamination in Ballston condo HVAC systems where condensate drain pans overflowed into supply plenums, documented elevated particulate levels in Pentagon City apartments adjacent to ongoing construction, and traced chemical sensitivity complaints to improper ventilation in renovated Shirlington commercial spaces. Urban IAQ testing requires understanding of shared building systems, inter-unit air transfer, and the regulatory frameworks—OSHA for commercial, EPA for residential—that govern acceptable exposure levels. Our AIHA-accredited laboratory analysis provides quantitative species identification and concentration data that building managers, HOA boards, and employers need to make informed decisions about remediation and occupant protection.`,
     ],
     localContext: `Arlington's concentration of high-rise condos, historic rowhouses, and commercial buildings creates IAQ challenges where shared air systems, construction density, and regulatory compliance intersect.`,
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Bluemont',
       'Ashton Heights',
     ],
-    responseTime: `Same-day IAQ assessment throughout Arlington County. Emergency sampling available within 2 hours for suspected mold or chemical exposure events. Call (877) 497-0007.`,
+    responseTime: `Same-day IAQ assessment throughout Arlington County. Emergency sampling available promptly for suspected mold or chemical exposure events. Call (877) 497-0007.`,
   },
   faqs: [
     {
@@ -138,7 +138,7 @@ export const content: CityServiceContent = {
       answer: `Yes. Mold spores and chemical vapors migrate between units through shared walls, floor assemblies, and plumbing penetrations. Centralized HVAC systems can distribute contaminants from mechanical spaces to all served units. Our multi-unit sampling protocol identifies contamination sources and migration pathways to guide targeted remediation.`,
     },
     {
-      question: 'Do you test air quality in commercial office buildings?',
+      question: 'Do you test air quality in commercial commercial buildings?',
       answer: `Yes. Commercial IAQ assessments include mold sampling, VOC measurement, particulate monitoring, HVAC evaluation, and ventilation adequacy testing. Results are compared against OSHA workplace exposure limits and ASHRAE ventilation guidelines. Reports can be formatted for employee communications, regulatory compliance, and legal documentation.`,
     },
     {

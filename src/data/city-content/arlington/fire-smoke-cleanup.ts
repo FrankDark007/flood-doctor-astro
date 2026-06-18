@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Fire Damage Restoration in Arlington, VA | Flood Doctor',
-    description: 'Arlington fire damage restoration experts. Smoke migration through high-rises, multi-unit coordination, HOA documentation. Rapid response. Call (877) 497-0007.',
+    description: 'Arlington fire damage restoration specialists. Smoke migration through high-rises, multi-unit coordination, HOA documentation. Rapid response. Call (877) 497-0007.',
   },
   h1: 'Fire Damage Restoration in Arlington, Virginia',
   introSection: {
@@ -11,10 +11,10 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Fire damage in Arlington's high-rises extends far beyond the unit where flames occurred. Smoke travels through HVAC systems, seeps under doors, and migrates through electrical penetrations—affecting units that never saw flames. When a kitchen fire on the 8th floor of a Rosslyn tower triggers evacuation, the smoke damage might affect residents on floors 6 through 12. When a Clarendon condo experiences an electrical fire, the adjacent units on both sides and above need assessment and cleaning.
 
-Flood Doctor has responded to fire damage throughout Arlington's vertical landscape for nearly two decades. We've cleaned smoke from multi-floor events in Crystal City towers, restored units affected by neighbor fires in Ballston condominiums, and addressed smoke migration through shared HVAC in Pentagon City buildings. When Arlington building managers face fire damage affecting multiple units, they understand that cleanup requires specialized expertise.`,
+Flood Doctor has responded to fire damage throughout Arlington's vertical landscape for nearly two decades. We've cleaned smoke from multi-floor events in Crystal City towers, restored units affected by neighbor fires in Ballston condominiums, and addressed smoke migration through shared HVAC in Pentagon City buildings. When Arlington building managers face fire damage affecting multiple units, they understand that cleanup requires specialized experience.`,
       `Fire restoration in high-rises presents challenges that single-family homes don't face. Firefighting water—often thousands of gallons poured onto flames—cascades through multiple floors, creating water damage layered onto fire and smoke damage. Shared HVAC systems spread smoke far from the fire origin. Adjacent units absorb smoke through shared walls and common corridors. And the entire building's residents need answers while restoration proceeds in affected areas.
 
-Our IICRC-certified fire restoration crews understand the complexity of high-rise fire response. We assess smoke migration through building systems, coordinate water damage restoration from firefighting efforts, and provide documentation that serves individual owners, HOAs, and insurance carriers. Fire damage in a high-rise is a building event—we coordinate accordingly.`,
+Our trained fire restoration crews understand the complexity of high-rise fire response. We assess smoke migration through building systems, coordinate water damage restoration from firefighting efforts, and provide documentation that serves individual owners, HOAs, and insurance carriers. Fire damage in a high-rise is a building event—we coordinate accordingly.`,
     ],
     localContext: `Arlington's high-rise density means fire damage rarely stays contained to one unit. Smoke migration, firefighting water, and shared building systems create multi-unit restoration needs. We've developed specialized protocols for these complex scenarios throughout the county.`,
   },
@@ -41,7 +41,7 @@ Our IICRC-certified fire restoration crews understand the complexity of high-ris
     },
     {
       title: 'Structural Cleaning & Smoke Removal',
-      description: 'Using IICRC-approved methods, we clean smoke residue from surfaces, treat materials to eliminate odor, and restore affected structural elements. This may include soda blasting of char, ozone treatment for odor, and HEPA vacuuming of settled particles.',
+      description: 'Using industry-standard methods, we clean smoke residue from surfaces, treat materials to eliminate odor, and restore affected structural elements. This may include soda blasting of char, ozone treatment for odor, and HEPA vacuuming of settled particles.',
       timeframe: 'Days 4-14',
     },
     {

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Hospitality & Multifamily Restoration in Fairfax, VA | Flood Doctor`,
-    description: `Fairfax's trusted restoration for apartments, condominiums, and hospitality properties. Multi-unit experts serving Burke Centre, Kings Park, and Fairfax City. Call (877) 497-0007.`,
+    description: `Fairfax's restoration support for apartments, condominiums, and hospitality properties. Multi-unit specialists serving Burke Centre, Kings Park, and Fairfax City. Call (877) 497-0007.`,
   },
   h1: `Hospitality & Multifamily Restoration in Fairfax, Virginia`,
   introSection: {
@@ -11,18 +11,18 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Fairfax's multifamily landscape centers on the townhome communities and garden-style condominiums that define suburban living in central Fairfax County. Burke Centre's extensive townhome clusters, Kings Park's condominium associations, and Fairfax City's apartment communities house thousands of families in shared-wall, shared-system properties where water damage in one unit inevitably affects neighbors. Hotels and extended-stay properties near Fairfax Corner and along Route 50 serve George Mason University visitors, government travelers, and families relocating to the area. Each property type presents distinct restoration challenges rooted in the practical, family-oriented character of this community.
 
-Flood Doctor has restored multifamily properties throughout Fairfax, developing particular expertise in the townhome cluster water events that characterize this area. When a burst pipe in a Burke Centre townhome sends water through shared walls to adjacent units, we coordinate restoration across multiple affected homes while managing the separate insurance policies and HOA requirements involved. Our property management relationships throughout the Kings Park and Mantua areas streamline the coordination that multi-unit incidents demand.`,
+Flood Doctor has restored multifamily properties throughout Fairfax, developing particular experience in the townhome cluster water events that characterize this area. When a burst pipe in a Burke Centre townhome sends water through shared walls to adjacent units, we coordinate restoration across multiple affected homes while managing the separate insurance policies and HOA requirements involved. Our property management relationships throughout the Kings Park and Mantua areas streamline the coordination that multi-unit incidents demand.`,
       `The 1970s-1990s construction era of most Fairfax multifamily properties creates specific restoration requirements. Townhomes in Burke Centre feature materials and construction methods from their original build period—including polybutylene plumbing that fails without warning. Garden-style condominiums in Kings Park have aging flat or low-slope roofs prone to ponding and membrane failures. Older apartment complexes along Route 50 may contain asbestos and lead paint requiring professional management during any restoration work. These aging building systems make water damage events increasingly common and increasingly complex.
 
-Our teams understand the specific failure modes of Fairfax-era multifamily construction. We know that polybutylene pipe failures create sudden, high-volume water events. We know that townhome shared walls allow water migration that standard drying approaches miss. We know that aging sump pumps in 1980s condominiums fail during the storms that matter most. This construction-era expertise allows us to anticipate challenges rather than discovering them mid-project, delivering faster and more thorough restoration for Fairfax property managers and homeowner associations.`,
+Our teams understand the specific failure modes of Fairfax-era multifamily construction. We know that polybutylene pipe failures create sudden, high-volume water events. We know that townhome shared walls allow water migration that standard drying approaches miss. We know that aging sump pumps in 1980s condominiums fail during the storms that matter most. This construction-era experience allows us to anticipate challenges rather than discovering them mid-project, delivering faster and more thorough restoration for Fairfax property managers and homeowner associations.`,
     ],
-    localContext: `Fairfax's townhome communities and garden-style condominiums—built primarily in the 1970s-1990s with aging plumbing and shared building systems—require restoration expertise specific to the construction era and community governance structures common throughout central Fairfax County.`,
+    localContext: `Fairfax's townhome communities and garden-style condominiums—built primarily in the 1970s-1990s with aging plumbing and shared building systems—require restoration experience specific to the construction era and community governance structures common throughout central Fairfax County.`,
   },
   processSteps: [
     {
       title: `Multi-Unit Emergency Dispatch`,
       description: `Call (877) 497-0007 for immediate multifamily response. We assess the scope beyond the initial unit—checking adjacent townhomes, units above and below in condominiums, and common areas that may have received water migration through shared walls and systems.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `Initial response`,
     },
     {
       title: `Shared-Wall Migration Assessment`,
@@ -134,7 +134,7 @@ Our teams understand the specific failure modes of Fairfax-era multifamily const
       `George Mason Area`,
       `Fair Ridge`,
     ],
-    responseTime: `30-minute emergency response to all Fairfax multifamily properties. Our crews are stationed throughout central Fairfax County with multi-unit equipment for immediate deployment to townhome communities and condominium associations.`,
+    responseTime: `prompt emergency response to all Fairfax multifamily properties. Our crews are serving central Fairfax County with multi-unit equipment for immediate deployment to townhome communities and condominium associations.`,
   },
   faqs: [
     {
@@ -168,6 +168,6 @@ Our teams understand the specific failure modes of Fairfax-era multifamily const
   ],
   finalCTA: {
     headline: `Multi-Unit Water Damage in Fairfax?`,
-    paragraph: `Shared walls mean shared damage—every hour allows water to spread to additional units. Our multi-unit response team arrives within 30 minutes with the equipment and HOA coordination expertise Fairfax townhome and condo communities need. Call (877) 497-0007 now.`,
+    paragraph: `Shared walls mean shared damage—every hour allows water to spread to additional units. Our multi-unit response team arrives as quickly as conditions allow with the equipment and HOA coordination experience Fairfax townhome and condo communities need. Call (877) 497-0007 now.`,
   },
 }

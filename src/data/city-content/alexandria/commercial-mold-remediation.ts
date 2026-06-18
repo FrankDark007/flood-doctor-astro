@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Mold Remediation in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's trusted commercial mold remediation specialists. CIH-coordinated protocols for Old Town historic buildings, Carlyle offices, and Del Ray commercial properties. Call (877) 497-0007.`,
+    description: `Alexandria's local commercial mold remediation specialists. CIH-coordinated protocols for Old Town historic buildings, Carlyle workspaces, and Del Ray commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Mold Remediation in Alexandria, Virginia`,
   introSection: {
     headline: `Expert Mold Remediation for Alexandria's Historic and Modern Commercial Buildings`,
     paragraphs: [
-      `Mold in an Alexandria commercial property creates a web of competing obligations. Property managers along King Street must protect tenants while navigating Board of Architectural Review considerations for remediation in historic structures. Carlyle district building owners face employee health complaints that demand CIH-verified resolution. Del Ray retail operators discover mold behind original plaster walls that has been growing since the last combined sewer overflow event. Potomac Yard office managers need indoor air quality documentation that satisfies both OSHA requirements and tenant lease provisions. Alexandria's commercial mold challenges require remediation expertise that bridges historic preservation knowledge and modern industrial hygiene standards. Flood Doctor delivers CIH-coordinated mold remediation for every type of Alexandria commercial property.`,
-      `Alexandria's commercial mold problems are uniquely persistent. The city's high water table pushes moisture through stone and brick foundations in Old Town buildings that have stood for two centuries. Combined sewer overflow events introduce both water and organic material that accelerate mold colonization in commercial basements. Aging HVAC systems in Rosemont and Belle Haven office buildings distribute spores through ductwork that has never been cleaned. Waterfront commercial properties near the Torpedo Factory experience chronic humidity that sustains mold growth in wall cavities and above ceiling tiles year-round. Our teams bring both the technical remediation capability and the historic material sensitivity that Alexandria commercial properties demand—removing mold contamination completely while respecting the building fabric that defines this city.`,
+      `Mold in an Alexandria commercial property creates a web of competing obligations. Property managers along King Street must protect tenants while navigating Board of Architectural Review considerations for remediation in historic structures. Carlyle district building owners face employee health complaints that demand CIH-verified resolution. Del Ray retail operators discover mold behind original plaster walls that has been growing since the last combined sewer overflow event. Potomac Yard workspace managers need indoor air quality documentation that satisfies both OSHA requirements and tenant lease provisions. Alexandria's commercial mold challenges require remediation experience that bridges historic preservation knowledge and modern industrial hygiene standards. Flood Doctor delivers CIH-coordinated mold remediation for every type of Alexandria commercial property.`,
+      `Alexandria's commercial mold problems are uniquely persistent. The city's high water table pushes moisture through stone and brick foundations in Old Town buildings that have stood for two centuries. Combined sewer overflow events introduce both water and organic material that accelerate mold colonization in commercial basements. Aging HVAC systems in Rosemont and Belle Haven commercial buildings distribute spores through ductwork that has never been cleaned. Waterfront commercial properties near the Torpedo Factory experience chronic humidity that sustains mold growth in wall cavities and above ceiling tiles year-round. Our teams bring both the technical remediation capability and the historic material sensitivity that Alexandria commercial properties demand—removing mold contamination completely while respecting the building fabric that defines this city.`,
     ],
-    localContext: `Alexandria's historic building stock, combined sewer system, waterfront humidity, and mix of centuries-old and modern commercial properties create mold challenges that require both industrial hygiene expertise and preservation-sensitive remediation techniques.`,
+    localContext: `Alexandria's historic building stock, combined sewer system, waterfront humidity, and mix of centuries-old and modern commercial properties create mold challenges that require both industrial hygiene experience and preservation-sensitive remediation techniques.`,
   },
   processSteps: [
     {
       title: `CIH Assessment with Historic Considerations`,
-      description: `We coordinate a certified industrial hygienist to assess your Alexandria commercial property. Air and surface sampling identify mold species and contamination extent. For Old Town and Rosemont historic buildings, the CIH protocol accounts for preservation-sensitive material handling alongside standard remediation requirements.`,
+      description: `We coordinate a trained industrial hygienist to assess your Alexandria commercial property. Air and surface sampling identify mold species and contamination extent. For Old Town and Rosemont historic buildings, the CIH protocol accounts for preservation-sensitive material handling alongside standard remediation requirements.`,
       timeframe: `Days 1-3`,
     },
     {
@@ -27,7 +27,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Material-Appropriate Mold Removal`,
-      description: `In historic Alexandria buildings, we remove mold from original brick, plaster, and timber using techniques that preserve material integrity. In modern commercial spaces, we follow standard IICRC S520 protocols. All HVAC components serving affected zones are cleaned when contamination has entered the air distribution system.`,
+      description: `In historic Alexandria buildings, we remove mold from original brick, plaster, and timber using techniques that preserve material integrity. In modern commercial spaces, we follow standard recognized mold-remediation protocols. All HVAC components serving affected zones are cleaned when contamination has entered the air distribution system.`,
       timeframe: `Days 4-9`,
     },
     {
@@ -107,7 +107,7 @@ export const content: CityServiceContent = {
       `Historic preservation requirements—media blasting, specialized antimicrobials, and material documentation add scope for BAR-district properties`,
       `Moisture source correction—resolving chronic foundation moisture, CSO vulnerability, or HVAC condensation issues`,
     ],
-    cta: `Call (877) 497-0007 for a confidential commercial mold assessment in Alexandria. We coordinate CIH engagement and provide remediation approaches tailored to your building type—whether a centuries-old Old Town landmark or a modern Carlyle office complex.`,
+    cta: `Call (877) 497-0007 for a confidential commercial mold assessment in Alexandria. We coordinate CIH engagement and provide remediation approaches tailored to your building type—whether a centuries-old Old Town landmark or a modern Carlyle workspace complex.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -126,7 +126,7 @@ export const content: CityServiceContent = {
       `Mount Vernon Avenue`,
       `Old Town Waterfront`,
     ],
-    responseTime: `Same-day initial assessment for Alexandria commercial mold concerns. CIH-coordinated protocols begin within 48-72 hours. Emergency containment available within hours for active water events contributing to mold growth in occupied spaces.`,
+    responseTime: `Same-day initial assessment for Alexandria commercial mold concerns. CIH-coordinated protocols begin within 48-72 hours. Emergency containment available promptly for active water events contributing to mold growth in occupied spaces.`,
   },
   faqs: [
     {
@@ -146,7 +146,7 @@ export const content: CityServiceContent = {
       answer: `Mold remediation work itself typically does not trigger BAR review. However, if contaminated historic materials must be replaced, the replacement work may require BAR notification in designated districts. We document all material removal and coordinate with BAR when applicable.`,
     },
     {
-      question: `What about tenant complaints in our Alexandria office building?`,
+      question: `What about tenant complaints in our Alexandria commercial building?`,
       answer: `We provide professional documentation including CIH assessment findings, remediation progress reports, and clearance verification suitable for tenant distribution. This transparent approach, backed by independent testing, typically resolves tenant concerns and protects against lease disputes.`,
     },
     {
@@ -157,6 +157,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['signs-of-hidden-mold', 'black-mold-vs-regular-mold'],
   finalCTA: {
     headline: `Mold Contamination in Your Alexandria Commercial Property?`,
-    paragraph: `Whether mold threatens a centuries-old King Street landmark or a modern Carlyle office suite, our CIH-coordinated teams deliver clearance-verified results with preservation sensitivity. Call (877) 497-0007 for a confidential commercial mold assessment.`,
+    paragraph: `Whether mold threatens a centuries-old King Street landmark or a modern Carlyle workspace suite, our CIH-coordinated teams deliver clearance-verified results with preservation sensitivity. Call (877) 497-0007 for a confidential commercial mold assessment.`,
   },
 }

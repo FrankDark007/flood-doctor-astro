@@ -3,16 +3,16 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Crawl Space Drying & Encapsulation in Alexandria, VA | Flood Doctor',
-    description: `Alexandria's crawl space specialists with historic preservation expertise. Serving Old Town, Del Ray & Belle Haven. BAR-compliant restoration. Call (877) 497-0007.`,
+    description: `Alexandria's crawl space specialists with historic preservation experience. Serving Old Town, Del Ray & Belle Haven. BAR-compliant restoration. Call (877) 497-0007.`,
   },
   h1: 'Crawl Space Drying & Encapsulation in Alexandria, Virginia',
   introSection: {
     headline: 'Historic-Sensitive Crawl Space Restoration for Alexandria Homes',
     paragraphs: [
-      `Alexandria's historic housing stock demands crawl space expertise that goes beyond standard residential work. Beneath the charming rowhouses of Old Town lie stone and brick foundations dating to the 1800s—crawl spaces where moisture has been a battle for over two centuries. Del Ray bungalows sit on pier-and-beam foundations where decades of Potomac River humidity have taken their toll on structural joists. Even newer construction in Potomac Yard contends with the high water table that defines Alexandria's proximity to the river. Flood Doctor brings historic preservation knowledge and regulatory awareness to every crawl space project in Alexandria, understanding that these spaces require careful treatment that respects original construction while providing modern protection.`,
+      `Alexandria's historic housing stock demands crawl space experience that goes beyond standard residential work. Beneath the charming rowhouses of Old Town lie stone and brick foundations dating to the 1800s—crawl spaces where moisture has been a battle for over two centuries. Del Ray bungalows sit on pier-and-beam foundations where decades of Potomac River humidity have taken their toll on structural joists. Even newer construction in Potomac Yard contends with the high water table that defines Alexandria's proximity to the river. Flood Doctor brings historic preservation knowledge and regulatory awareness to every crawl space project in Alexandria, understanding that these spaces require careful treatment that respects original construction while providing modern protection.`,
       `The consequences of crawl space neglect in Alexandria are amplified by the city's unique challenges. Old Town properties near King Street face combined sewer system backups that can introduce contaminated water into crawl spaces during heavy rain. Original cast iron drain lines running through crawl spaces corrode and fail, creating slow leaks that saturate soil for months before detection. The Board of Architectural Review governs exterior modifications in historic districts, meaning any crawl space solution involving vent sealing or exterior changes must comply with preservation standards. Our technicians navigate these regulatory requirements as part of the encapsulation process, ensuring your crawl space receives modern protection without compromising your property's historic integrity.`,
     ],
-    localContext: `Alexandria's historic foundations, high water table near the Potomac, BAR compliance requirements, and aging infrastructure create crawl space conditions that demand both preservation expertise and modern moisture science.`,
+    localContext: `Alexandria's historic foundations, high water table near the Potomac, BAR compliance requirements, and aging infrastructure create crawl space conditions that demand both preservation experience and modern moisture science.`,
   },
   processSteps: [
     {
@@ -55,7 +55,7 @@ export const content: CityServiceContent = {
     {
       title: 'Combined Sewer Backup Contamination',
       description: 'Old Town and portions of central Alexandria still use combined sewer systems that handle both stormwater and sanitary sewage. During heavy rain, these systems overflow and can push contaminated water back through floor drains and into crawl spaces—a Category 3 biohazard situation.',
-      solution: 'We install backflow prevention devices and sealed encapsulation systems that resist sewer backup intrusion. When contamination has already occurred, our biohazard-certified team handles removal, disinfection, and soil replacement before encapsulation begins.',
+      solution: 'We install backflow prevention devices and sealed encapsulation systems that resist sewer backup intrusion. When contamination has already occurred, our biohazard-trained team handles removal, disinfection, and soil replacement before encapsulation begins.',
     },
     {
       title: 'BAR Compliance for Historic Properties',
@@ -111,7 +111,7 @@ export const content: CityServiceContent = {
       'Historic district compliance requirements affecting exterior modifications',
       'Structural wood treatment or replacement needed for moisture-damaged members',
     ],
-    cta: `Call (877) 497-0007 for a free crawl space inspection. We'll assess your Alexandria property with the historic sensitivity and technical expertise it deserves.`,
+    cta: `Call (877) 497-0007 for a free crawl space inspection. We'll assess your Alexandria property with the historic sensitivity and technical experience it deserves.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -130,7 +130,7 @@ export const content: CityServiceContent = {
       'Eisenhower East',
       'North Ridge',
     ],
-    responseTime: 'Same-day crawl space assessments throughout Alexandria. Emergency crawl space flooding response within 45 minutes from Old Town to Kingstowne.',
+    responseTime: 'Same-day crawl space assessments throughout Alexandria. Emergency crawl space flooding response as quickly as conditions allow from Old Town to Kingstowne.',
   },
   faqs: [
     {
@@ -143,7 +143,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'My crawl space flooded with sewer water—can you help?',
-      answer: 'Yes. Combined sewer backups are a known issue in older Alexandria neighborhoods. Our biohazard-certified team handles Category 3 water removal, soil excavation, disinfection, and antimicrobial treatment. Once the space is safe, we proceed with encapsulation that includes backflow prevention to reduce future risk.',
+      answer: 'Yes. Combined sewer backups are a known issue in older Alexandria neighborhoods. Our biohazard-trained team handles Category 3 water removal, soil excavation, disinfection, and antimicrobial treatment. Once the space is safe, we proceed with encapsulation that includes backflow prevention to reduce future risk.',
     },
     {
       question: 'How does the high water table affect encapsulation in Alexandria?',

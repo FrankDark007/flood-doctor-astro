@@ -3,13 +3,13 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Arlington, VA | Flood Doctor`,
-    description: `Arlington's trusted restoration for APS schools, county buildings, and community centers. Experienced with Arlington County procurement and APS facilities. Call (877) 497-0007.`,
+    description: `Arlington's restoration support for APS schools, county buildings, and community centers. Experienced with Arlington County procurement and APS facilities. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Arlington, Virginia`,
   introSection: {
     headline: `Restoring Arlington's Schools and Government Buildings with Accountability`,
     paragraphs: [
-      `Arlington County operates one of the most compact, high-utilization public building portfolios in Northern Virginia. Arlington Public Schools serve over 27,000 students in facilities that run at or above capacity, meaning every classroom matters and extended closures displace students with no overflow capacity available. County government offices in the Courthouse area, community centers in Shirlington and Ballston, and public safety facilities throughout the county provide essential services to a population that expects operational continuity from its government.
+      `Arlington County operates one of the most compact, high-utilization public building portfolios in Northern Virginia. Arlington Public Schools serve over 27,000 students in facilities that run at or above capacity, meaning every classroom matters and extended closures displace students with no overflow capacity available. County government workspaces in the Courthouse area, community centers in Shirlington and Ballston, and public safety facilities throughout the county provide essential services to a population that expects operational continuity from its government.
 
 Flood Doctor understands the public accountability framework governing Arlington municipal restoration. We work within Arlington County procurement procedures, maintain prevailing wage compliance, and deliver documentation that satisfies both county finance requirements and the engaged community that scrutinizes public expenditures. Our crews have restored water-damaged APS facilities without missing academic deadlines and returned county buildings to service under timelines that respected both structural integrity and budget constraints.`,
       `Arlington's aging school infrastructure creates ongoing vulnerability to water damage. Many APS facilities date to the mid-20th century, with plumbing systems, roof assemblies, and foundation waterproofing approaching or exceeding their service life. These older buildings may contain asbestos-containing materials in floor tiles, pipe insulation, and joint compounds that must be professionally managed during any restoration work. Newer additions and renovations create architectural transitions where old meets new, producing potential water intrusion points at junctions between building eras.
@@ -22,7 +22,7 @@ The county's commitment to environmental sustainability adds another layer to re
     {
       title: `Emergency Notification and County Coordination`,
       description: `Call (877) 497-0007 for immediate public facility response. We coordinate with APS facilities management or Arlington County DES to establish incident command, secure the building, and activate emergency procurement procedures that allow restoration to begin without standard bidding delays.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Within as quickly as conditions allow`,
     },
     {
       title: `Regulated Materials Assessment`,
@@ -87,7 +87,7 @@ The county's commitment to environmental sustainability adds another layer to re
       },
       {
         name: `Low-Grain Dehumidifiers`,
-        purpose: `Industrial drying capacity in units sized for classroom and office floor plans typical of Arlington public facilities`,
+        purpose: `Industrial drying capacity in units sized for classroom and workspace floor plans typical of Arlington public facilities`,
         brand: `Dri-Eaz`,
       },
       {
@@ -134,7 +134,7 @@ The county's commitment to environmental sustainability adds another layer to re
       `Penrose`,
       `Aurora Highlands`,
     ],
-    responseTime: `45-minute response to all Arlington schools and municipal facilities. We coordinate with APS security and county building access systems for immediate entry and restoration mobilization.`,
+    responseTime: `timely response to all Arlington schools and municipal facilities. We coordinate with APS security and county building access systems for immediate entry and restoration mobilization.`,
   },
   faqs: [
     {
@@ -143,7 +143,7 @@ The county's commitment to environmental sustainability adds another layer to re
     },
     {
       question: `Do you meet Arlington County procurement requirements?`,
-      answer: `Yes. We provide emergency procurement documentation, competitive bid responses, prevailing wage compliance, certified payroll records, and performance bonding as required. Our estimates meet the detail and format standards Arlington County finance and procurement offices require.`,
+      answer: `Yes. We provide emergency procurement documentation, competitive bid responses, prevailing wage compliance, trained payroll records, and performance bonding as required. Our estimates meet the detail and format standards Arlington County finance and procurement workspaces require.`,
     },
     {
       question: `How do you handle asbestos in older Arlington schools?`,
@@ -167,6 +167,6 @@ The county's commitment to environmental sustainability adds another layer to re
   ],
   finalCTA: {
     headline: `Arlington School or Government Building Emergency?`,
-    paragraph: `Every hour of closure affects students and constituents who depend on these facilities. Our crews respond to Arlington public buildings within 45 minutes with the equipment, regulatory expertise, and procurement compliance documentation the county requires. Call (877) 497-0007 now.`,
+    paragraph: `Every hour of closure affects students and constituents who depend on these facilities. Our crews respond to Arlington public buildings as quickly as conditions allow with the equipment, regulatory experience, and procurement compliance documentation the county requires. Call (877) 497-0007 now.`,
   },
 }

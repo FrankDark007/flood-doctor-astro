@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Healthcare Facility Restoration in Arlington, VA | Flood Doctor`,
-    description: `Arlington's HIPAA-compliant healthcare restoration experts. Serving hospitals, urgent care centers, and medical offices in Ballston, Clarendon, and Crystal City. Call (877) 497-0007.`,
+    description: `Arlington's HIPAA-compliant healthcare restoration specialists. Serving hospitals, urgent care centers, and medical workspaces in Ballston, Clarendon, and Crystal City. Call (877) 497-0007.`,
   },
   h1: `Healthcare Facility Restoration in Arlington, Virginia`,
   introSection: {
     headline: `HIPAA-Compliant Restoration for Arlington's Dense Healthcare Network`,
     paragraphs: [
-      `Arlington's urban density concentrates more healthcare facilities per square mile than almost any jurisdiction in Northern Virginia. Medical office buildings line the Rosslyn-Ballston corridor, urgent care centers serve the Pentagon City and Crystal City workforce, and specialty clinics occupy ground-floor retail spaces in mixed-use developments throughout Clarendon and Shirlington. When water damage strikes these facilities, the urban environment compounds every challenge—tight access for equipment, multi-tenant building coordination, and patient populations that cannot simply relocate to the next available practice miles away.
+      `Arlington's urban density concentrates more healthcare facilities per square mile than almost any jurisdiction in Northern Virginia. Medical commercial buildings line the Rosslyn-Ballston corridor, urgent care centers serve the Pentagon City and Crystal City workforce, and specialty clinics occupy ground-floor retail spaces in mixed-use developments throughout Clarendon and Shirlington. When water damage strikes these facilities, the urban environment compounds every challenge—tight access for equipment, multi-tenant building coordination, and patient populations that cannot simply relocate to the next available practice miles away.
 
 Flood Doctor has restored healthcare facilities across Arlington's urban landscape, navigating the logistical constraints that make these projects unique. Our crews maneuver industrial equipment through freight elevators, coordinate with building management for after-hours access, and establish ICRA containment in spaces adjacent to operating medical practices. We understand that an Arlington urgent care center near Ballston Quarter cannot afford a week of downtime—the surrounding workforce depends on it for accessible medical services.`,
-      `The vertical nature of Arlington healthcare compounds water damage severity. A pipe burst on an upper floor of a Rosslyn medical office tower can cascade through multiple tenant spaces, affecting practices on every level below. HVAC system failures in Crystal City commercial buildings introduce moisture into ceiling plenums shared by adjacent medical tenants. Underground parking garage flooding beneath Pentagon City medical buildings can compromise building systems that serve the entire facility.
+      `The vertical nature of Arlington healthcare compounds water damage severity. A pipe burst on an upper floor of a Rosslyn medical workspace tower can cascade through multiple tenant spaces, affecting practices on every level below. HVAC system failures in Crystal City commercial buildings introduce moisture into ceiling plenums shared by adjacent medical tenants. Underground parking garage flooding beneath Pentagon City medical buildings can compromise building systems that serve the entire facility.
 
-Our Arlington healthcare restoration protocols address these multi-tenant, multi-system challenges. We coordinate with building management, adjacent tenants, and multiple insurance carriers simultaneously. HIPAA compliance extends beyond the affected practice to ensure protected health information in neighboring offices remains secure during restoration activities. Our ICRA containment prevents cross-contamination between restoration zones and active patient care areas, even in the close quarters of Arlington's urban medical buildings.`,
+Our Arlington healthcare restoration protocols address these multi-tenant, multi-system challenges. We coordinate with building management, adjacent tenants, and multiple insurance carriers simultaneously. HIPAA compliance extends beyond the affected practice to ensure protected health information in neighboring workspaces remains secure during restoration activities. Our ICRA containment prevents cross-contamination between restoration zones and active patient care areas, even in the close quarters of Arlington's urban medical buildings.`,
     ],
-    localContext: `Arlington's concentration of healthcare facilities in multi-tenant urban buildings—from Rosslyn towers to Crystal City medical complexes—requires restoration expertise that navigates dense building systems and multi-party coordination.`,
+    localContext: `Arlington's concentration of healthcare facilities in multi-tenant urban buildings—from Rosslyn towers to Crystal City medical complexes—requires restoration experience that navigates dense building systems and multi-party coordination.`,
   },
   processSteps: [
     {
       title: `Urban Emergency Dispatch`,
       description: `Call (877) 497-0007 for immediate healthcare facility response. Our Arlington crews navigate urban traffic patterns and building access protocols to reach facilities in Rosslyn, Ballston, Clarendon, and Crystal City with ICRA containment materials and HEPA filtration pre-loaded.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `Initial response`,
     },
     {
       title: `Multi-Tenant Impact Assessment`,
@@ -41,7 +41,7 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
     },
     {
       title: `Accelerated Drying for Urban Practices`,
-      description: `High-efficiency drying equipment is configured for the smaller, compartmentalized spaces typical in Arlington medical offices. We balance aggressive drying with noise and vibration considerations for adjacent occupied tenants and ongoing patient care.`,
+      description: `High-efficiency drying equipment is configured for the smaller, compartmentalized spaces typical in Arlington medical workspaces. We balance aggressive drying with noise and vibration considerations for adjacent occupied tenants and ongoing patient care.`,
       timeframe: `Days 1-4`,
     },
     {
@@ -53,7 +53,7 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
   localChallenges: [
     {
       title: `Multi-Tenant Building Water Migration`,
-      description: `Healthcare facilities in Rosslyn and Ballston office towers share building systems with dozens of tenants. A water event affecting one medical practice often migrates through shared ceiling plenums, riser shafts, and HVAC systems to impact practices on multiple floors.`,
+      description: `Healthcare facilities in Rosslyn and Ballston commercial towers share building systems with dozens of tenants. A water event affecting one medical practice often migrates through shared ceiling plenums, riser shafts, and HVAC systems to impact practices on multiple floors.`,
       solution: `We conduct full vertical and horizontal assessments from the point of origin through all potential migration paths. Our multi-tenant coordination ensures every affected space is identified and addressed, preventing hidden damage that surfaces weeks later.`,
     },
     {
@@ -77,7 +77,7 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
     equipment: [
       {
         name: `Compact HEPA Negative Air Machines`,
-        purpose: `ICRA-compliant air filtration sized for Arlington's smaller medical office floor plans`,
+        purpose: `ICRA-compliant air filtration sized for Arlington's smaller medical workspace floor plans`,
         brand: `Phoenix`,
       },
       {
@@ -86,7 +86,7 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
       },
       {
         name: `Low-Profile Dehumidifiers`,
-        purpose: `High-efficiency moisture removal units that fit in tight urban medical office configurations`,
+        purpose: `High-efficiency moisture removal units that fit in tight urban medical workspace configurations`,
         brand: `Dri-Eaz`,
       },
       {
@@ -133,7 +133,7 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
       `Penrose`,
       `Aurora Highlands`,
     ],
-    responseTime: `30-minute emergency response to all Arlington healthcare facilities. Our urban-equipped crews navigate Metro corridor traffic and building access protocols for rapid deployment to medical offices throughout the county.`,
+    responseTime: `prompt emergency response to all Arlington healthcare facilities. Our urban-equipped crews navigate Metro corridor traffic and building access protocols for rapid deployment to medical workspaces throughout the county.`,
   },
   faqs: [
     {
@@ -141,8 +141,8 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
       answer: `We assess all potentially affected tenants, coordinate with building management for system access, and establish individual restoration plans for each medical practice while managing the overall building response. Multi-party insurance coordination ensures each tenant receives appropriate documentation for their claim.`,
     },
     {
-      question: `Can you fit industrial equipment in our small Arlington medical office?`,
-      answer: `Yes. We maintain compact, high-efficiency equipment specifically for Arlington's urban medical spaces. Our portable extraction units, low-profile dehumidifiers, and compact air scrubbers deliver industrial performance in the smaller footprints typical of Rosslyn-Ballston corridor medical offices.`,
+      question: `Can you fit industrial equipment in our small Arlington medical workspace?`,
+      answer: `Yes. We maintain compact, high-efficiency equipment specifically for Arlington's urban medical spaces. Our portable extraction units, low-profile dehumidifiers, and compact air scrubbers deliver industrial performance in the smaller footprints typical of Rosslyn-Ballston corridor medical workspaces.`,
     },
     {
       question: `How do you maintain HIPAA compliance during multi-tenant restoration?`,
@@ -150,7 +150,7 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
     },
     {
       question: `What is your response time to Crystal City and Pentagon City medical facilities?`,
-      answer: `We guarantee 30-minute response to all Arlington locations including Crystal City and Pentagon City. Our crews understand the access protocols for medical buildings in these areas and coordinate with building security during transit for fastest possible deployment.`,
+      answer: `We commitment prompt response to all Arlington locations including Crystal City and Pentagon City. Our crews understand the access protocols for medical buildings in these areas and coordinate with building security during transit for fastest possible deployment.`,
     },
     {
       question: `Can you restore our urgent care center quickly enough to avoid extended closure?`,
@@ -166,6 +166,6 @@ Our Arlington healthcare restoration protocols address these multi-tenant, multi
   ],
   finalCTA: {
     headline: `Healthcare Emergency in Arlington?`,
-    paragraph: `Urban medical facilities need restoration teams that understand multi-tenant buildings, tight access, and healthcare compliance. Our HIPAA-certified crews reach any Arlington healthcare facility within 30 minutes with compact, high-efficiency equipment. Call (877) 497-0007 now.`,
+    paragraph: `Urban medical facilities need restoration teams that understand multi-tenant buildings, tight access, and healthcare compliance. Our HIPAA-trained crews reach any Arlington healthcare facility as quickly as conditions allow with compact, high-efficiency equipment. Call (877) 497-0007 now.`,
   },
 }

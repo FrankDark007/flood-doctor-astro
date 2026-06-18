@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Contents Cleaning & Pack-Out in Alexandria, VA | Flood Doctor',
-    description: `Alexandria's contents restoration experts. Historic document recovery, antique furniture restoration & professional pack-out for Old Town, Del Ray & Belle Haven. Call (877) 497-0007.`,
+    description: `Alexandria's contents restoration specialists. Historic document recovery, antique furniture restoration & professional pack-out for Old Town, Del Ray & Belle Haven. Call (877) 497-0007.`,
   },
   h1: 'Contents Cleaning & Pack-Out Services in Alexandria, Virginia',
   introSection: {
@@ -14,14 +14,14 @@ export const content: CityServiceContent = {
 Flood Doctor's contents restoration team has recovered belongings throughout Alexandria — freeze-drying water-saturated historical documents from Old Town libraries, ultrasonically cleaning smoke-damaged silverware and crystal from Rosemont dining rooms, and carefully packing out entire Belle Haven households while structural repairs addressed flooding from the high Potomac water table. We understand that Alexandria families cherish their belongings not for replacement value but for the stories and memories they carry.`,
       `The contents restoration process in Alexandria begins the moment we arrive. Water-damaged documents and photographs must be frozen within 48 hours to prevent permanent bonding and ink dissolution — once that window closes, many paper items become unrecoverable. Electronics exposed to water develop corrosion that advances hourly. Antique furniture swells, warps, and separates at joints as moisture penetrates aged wood. Our triage protocol prioritizes these time-sensitive items, stabilizing them for transport to our climate-controlled facility while the systematic pack-out proceeds room by room.
 
-Every item we handle is photographed, catalogued with condition notes, and assigned a barcode for tracking. For Alexandria homeowners filing insurance claims — especially those recovering from sewage backups covered under their policies — this documentation forms the foundation of the contents portion of their claim. Each item's pre-loss condition, damage description, and restoration outcome is recorded in our digital system, accessible to you through an online portal where you can monitor progress, flag priority items, and communicate with your restoration coordinator throughout the process.`,
+Every item we handle is photographed, catalogued with condition notes, and assigned a barcode for tracking. For Alexandria homeowners filing insurance claims — especially those recovering from sewage backups covered under their policies — this documentation forms the foundation of the contents portion of their claim. Each item's documented repair condition, damage description, and restoration outcome is recorded in our digital system, accessible to you through an online portal where you can monitor progress, flag priority items, and communicate with your restoration coordinator throughout the process.`,
     ],
-    localContext: `Alexandria's historic homes contain belongings that blend antique pieces, family heirlooms, and personal collections accumulated over generations. Contents restoration here requires both technical expertise and an appreciation for irreplaceable personal value.`,
+    localContext: `Alexandria's historic homes contain belongings that blend antique pieces, family heirlooms, and personal collections accumulated over generations. Contents restoration here requires both technical experience and an appreciation for irreplaceable personal value.`,
   },
   processSteps: [
     {
       title: 'Emergency Triage for Time-Sensitive Items',
-      description: `Within 30 minutes of your call to (877) 497-0007, our team arrives to identify items requiring immediate stabilization. Water-soaked documents and photographs from your Old Town study are bagged for emergency freezing. Antique furniture is assessed for salvageability. Electronics are disconnected and documented for rapid corrosion treatment.`,
+      description: `During the initial response to (877) 497-0007, our team arrives to identify items requiring immediate stabilization. Water-soaked documents and photographs from your Old Town study are bagged for emergency freezing. Antique furniture is assessed for salvageability. Electronics are disconnected and documented for rapid corrosion treatment.`,
       timeframe: 'First 2 hours',
     },
     {
@@ -111,7 +111,7 @@ Every item we handle is photographed, catalogued with condition notes, and assig
       'Specialty items — antiques, historical documents, rare books, and collections require individualized treatment plans',
       'Storage duration — longer structural restoration timelines extend climate-controlled storage requirements',
     ],
-    cta: `Call (877) 497-0007 for immediate contents assessment. We prioritize time-sensitive items within hours and provide detailed restoration estimates for your insurance claim.`,
+    cta: `Call (877) 497-0007 for immediate contents assessment. We prioritize time-sensitive items promptly and provide detailed restoration estimates for your insurance claim.`,
   },
   serviceAreaSection: {
     neighborhoods: [
@@ -129,7 +129,7 @@ Every item we handle is photographed, catalogued with condition notes, and assig
       'Cameron Station',
       'Mount Vernon',
     ],
-    responseTime: '30-minute emergency response for priority item stabilization throughout Alexandria. Our crews know the narrow streets, parking limitations, and building access challenges of Old Town and Del Ray.',
+    responseTime: 'prompt emergency response for priority item stabilization throughout Alexandria. Our crews know the narrow streets, parking limitations, and building access challenges of Old Town and Del Ray.',
   },
   faqs: [
     {
@@ -150,11 +150,11 @@ Every item we handle is photographed, catalogued with condition notes, and assig
     },
     {
       question: 'Does insurance cover contents restoration after sewage backup?',
-      answer: 'Yes, if your policy includes sewer backup coverage (a common rider on Alexandria policies given the combined sewer system). Professional restoration is preferred by insurers as it costs 40-60% less than full replacement. We handle documentation and direct billing with your carrier.',
+      answer: 'Yes, if your policy includes sewer backup coverage (a common rider on Alexandria policies given the combined sewer system). Professional restoration is preferred by insurers as it costs 40-60% less than full replacement. We handle documentation and claim-ready documentation for your carrier.',
     },
     {
       question: 'How long does contents restoration take?',
-      answer: 'Standard items typically complete restoration in 7-14 days. Documents requiring freeze-drying may need 2-3 weeks. Antique furniture with structural damage can take 3-4 weeks including specialist coordination. We can prioritize essential items for early return while the full inventory is processed.',
+      answer: 'Standard items typically thorough restoration in 7-14 days. Documents requiring freeze-drying may need 2-3 weeks. Antique furniture with structural damage can take 3-4 weeks including specialist coordination. We can prioritize essential items for early return while the full inventory is processed.',
     },
     {
       question: 'Can I track my belongings during restoration?',
@@ -171,6 +171,6 @@ Every item we handle is photographed, catalogued with condition notes, and assig
   ],
   finalCTA: {
     headline: 'Belongings at Risk in Your Alexandria Home?',
-    paragraph: 'Every hour of delay threatens documents, photographs, electronics, and antiques that may be irreplaceable. Our Alexandria contents team responds within 30 minutes to stabilize time-sensitive items and begins professional restoration that saves what matters most. Call (877) 497-0007 now.',
+    paragraph: 'Every hour of delay threatens documents, photographs, electronics, and antiques that may be irreplaceable. Our Alexandria contents team responds as quickly as conditions allow to stabilize time-sensitive items and begins professional restoration that saves what matters most. Call (877) 497-0007 now.',
   },
 }

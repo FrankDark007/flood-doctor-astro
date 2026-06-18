@@ -14,7 +14,7 @@ export const content: CityServiceContent = {
 Flood Doctor has responded to burst pipe emergencies throughout Arlington's high-rise landscape for nearly two decades. We've traced water from penthouse levels to parking garages in Crystal City towers, coordinated multi-unit extraction in Ballston condominiums, and dried the cascading damage from supply line failures in the Courthouse corridor. When Arlington building managers face pipe emergencies, they know to call us first.`,
       `Arlington's aging high-rise infrastructure creates burst pipe conditions that other markets don't experience. Buildings constructed in the 1970s and 1980s—which describes much of the Rosslyn-Ballston corridor—run original copper supply lines that are reaching end-of-life. Polybutylene piping, installed through the 1990s and now known to fail, exists in buildings throughout Pentagon City and Crystal City. Even newer construction uses PEX that can freeze in exterior walls during Arlington's coldest nights.
 
-Our IICRC Master Water Restorers understand high-rise plumbing architecture. We know that a burst supply line on one floor often indicates systemic issues the building should address. We trace water paths through construction that shares walls and floors. And we provide documentation that serves individual owners, HOA master policies, and building managers simultaneously.`,
+Our restoration technicians understand high-rise plumbing architecture. We know that a burst supply line on one floor often indicates systemic issues the building should address. We trace water paths through construction that shares walls and floors. And we provide documentation that serves individual owners, HOA master policies, and building managers simultaneously.`,
     ],
     localContext: `Arlington's high-rise density means burst pipes affect multiple parties—owners, neighbors, HOAs, and property managers. We've developed specialized protocols for multi-stakeholder events, ensuring everyone receives the documentation and communication they need while restoration proceeds without delay.`,
   },
@@ -22,7 +22,7 @@ Our IICRC Master Water Restorers understand high-rise plumbing architecture. We 
     {
       title: '30-Minute Emergency Response',
       description: 'When you call our Arlington hotline at (877) 497-0007, we dispatch immediately. While en route, we coordinate with building management on water shutoff status, freight elevator access, and affected unit identification. Our crews arrive ready to work, not ready to negotiate building access.',
-      timeframe: 'Within 30 minutes',
+      timeframe: 'Initial response',
     },
     {
       title: 'Source Identification & Damage Assessment',
@@ -140,7 +140,7 @@ Our IICRC Master Water Restorers understand high-rise plumbing architecture. We 
       'Columbia Heights',
       'Nauck',
     ],
-    responseTime: '30-minute response to all Arlington neighborhoods. During freeze events—typically January through February—we pre-position additional crews for rapid burst pipe response throughout the county.',
+    responseTime: 'prompt response to all Arlington neighborhoods. During freeze events—typically January through February—we plan additional service-area coverage for rapid burst pipe response throughout the county.',
   },
   faqs: [
     {

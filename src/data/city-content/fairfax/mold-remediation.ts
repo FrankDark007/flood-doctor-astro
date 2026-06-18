@@ -14,7 +14,7 @@ export const content: CityServiceContent = {
 Flood Doctor has remediated mold throughout Fairfax for nearly two decades. We've removed mold from Burke Centre townhome basements, treated hidden growth in Kings Park split-level wall cavities, and prevented mold from taking hold in Mantua colonials after water damage. When Fairfax families discover mold—or worry they might have it—they call us for honest assessment and effective remediation.`,
       `Mold thrives in Fairfax because our homes give it what it needs: moisture and organic materials. The finished basements in Burke and Kings Park provide food sources (drywall paper, wood, carpet). The humid summers provide moisture. The partially below-grade lower levels of split-level homes create chronically damp conditions where mold colonies establish and grow. Once mold takes hold, it spreads through spores that travel through your HVAC system and affect air quality throughout your home.
 
-Our IICRC-certified mold remediation specialists understand Fairfax home construction. We know that mold in your split-level's lower-level bathroom wall may have originated from a slow leak in the bathroom above. We understand that Burke Centre townhome mold often relates to shared-wall moisture issues. We find the source, eliminate the moisture problem, and remove mold safely—protecting your family and preventing recurrence.`,
+Our trained mold remediation specialists understand Fairfax home construction. We know that mold in your split-level's lower-level bathroom wall may have originated from a slow leak in the bathroom above. We understand that Burke Centre townhome mold often relates to shared-wall moisture issues. We find the source, eliminate the moisture problem, and remove mold safely—protecting your family and preventing recurrence.`,
     ],
     localContext: `Fairfax's humid climate and common home designs—finished basements, split-levels with below-grade rooms—create ideal conditions for mold growth. Professional remediation protects family health and prevents the structural damage mold causes over time.`,
   },
@@ -140,7 +140,7 @@ Our IICRC-certified mold remediation specialists understand Fairfax home constru
       'Oak Hill',
       'Pickett Road Area',
     ],
-    responseTime: 'Schedule mold inspections within 24-48 hours. Emergency response for severe mold or related water damage is available within our 30-minute response window.',
+    responseTime: 'Schedule mold inspections within 24-48 hours. Emergency response for severe mold or related water damage is available within our prompt response window.',
   },
   faqs: [
     {

@@ -3,15 +3,15 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Alexandria Basement Flooding Solutions',
-    description: 'Professional basement flooding solutions in Alexandria VA. High water table expertise, combined sewer backup response. 24/7 emergency service.',
+    description: 'Professional basement flooding solutions in Alexandria VA. High water table experience, combined sewer backup response. 24/7 emergency service.',
   },
   h1: 'Alexandria Basement Flooding Solutions',
   introSection: {
     headline: 'High Water Table Expertise & Combined Sewer Backup Response',
     paragraphs: [
-      `Alexandria's proximity to the Potomac River creates unique basement flooding challenges unfamiliar to most Northern Virginia communities. Seasonal groundwater fluctuations, combined sewer backups during heavy rainfall, and aging foundation waterproofing in historic buildings demand specialized flooding response and permanent prevention solutions. Our certified teams understand the hydrogeology of Alexandria's waterfront neighborhoods and engineer drainage systems that keep basements dry year-round, even during spring high-water events.`,
+      `Alexandria's proximity to the Potomac River creates unique basement flooding challenges unfamiliar to most Northern Virginia communities. Seasonal groundwater fluctuations, combined sewer backups during heavy rainfall, and aging foundation waterproofing in historic buildings demand specialized flooding response and permanent prevention solutions. Our trained teams understand the hydrogeology of Alexandria's waterfront neighborhoods and engineer drainage systems that keep basements dry year-round, even during spring high-water events.`,
     ],
-    localContext: 'Basement flooding right now? Call (877) 497-0007 for emergency extraction within 60 minutes to Old Town, Belle Haven, Del Ray, and all Alexandria neighborhoods.',
+    localContext: 'Basement flooding right now? Call (877) 497-0007 for emergency extraction as quickly as conditions allow to Old Town, Belle Haven, Del Ray, and all Alexandria neighborhoods.',
   },
   processSteps: [
     {
@@ -26,7 +26,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Emergency Basement Water Extraction & Contamination Assessment',
-      description: 'Basement flooding demands immediate response to prevent structural damage and mold growth. Our emergency teams arrive within 60 minutes with truck-mounted extraction equipment capable of removing hundreds of gallons per minute. We deploy extraction wands, submersible pumps, and wet vacuums to remove standing water, then begin moisture mapping to identify water migration into wall cavities and floor assemblies.',
+      description: 'Basement flooding demands immediate response to prevent structural damage and mold growth. Our emergency teams arrive as quickly as conditions allow with truck-mounted extraction equipment capable of removing hundreds of gallons per minute. We deploy extraction wands, submersible pumps, and wet vacuums to remove standing water, then begin moisture mapping to identify water migration into wall cavities and floor assemblies.',
       timeframe: '',
     },
     {
@@ -61,7 +61,7 @@ export const content: CityServiceContent = {
     },
     {
       title: '24/7 Emergency Response Throughout Alexandria',
-      description: 'Basement flooding emergencies receive immediate dispatch regardless of time or day. Our 24/7 call center connects you directly with restoration supervisors who deploy crews to your Alexandria property within 60 minutes. Weekend storms, holiday flooding, and middle-of-the-night sewage backups all receive identical rapid response, preventing damage escalation while you wait.',
+      description: 'Basement flooding emergencies receive immediate dispatch regardless of time or day. Our 24/7 call center connects you directly with restoration supervisors who deploy crews to your Alexandria property as quickly as conditions allow. Weekend storms, holiday flooding, and middle-of-the-night sewage backups all receive identical rapid response, preventing damage escalation while you wait.',
       timeframe: '',
     },
   ],
@@ -87,7 +87,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'How quickly can you respond to basement flooding in Belle Haven?',
-      answer: 'Our emergency teams reach Belle Haven within 45-60 minutes, arriving with truck-mounted extraction equipment and submersible pumps. We begin water removal immediately, extracting hundreds of gallons within the first hour to prevent structural damage and mold growth. Weekend and holiday responses receive identical priority to weekday emergencies. Call (877) 497-0007 the moment you discover flooding—rapid response makes the critical difference in restoration outcomes.',
+      answer: 'Our emergency teams prioritize Belle Haven through our emergency dispatch process, arriving with truck-mounted extraction equipment and submersible pumps. We begin water removal immediately, extracting hundreds of gallons within the first hour to prevent structural damage and mold growth. Weekend and holiday responses receive identical priority to weekday emergencies. Call (877) 497-0007 the moment you discover flooding—rapid response makes the critical difference in restoration outcomes.',
     },
     {
       question: 'Does homeowners insurance cover basement flooding?',
@@ -113,6 +113,6 @@ export const content: CityServiceContent = {
   relatedBlogSlugs: ['sump-pump-maintenance-guide', 'first-24-hours-after-water-damage', 'prevent-water-damage-winter'],
   finalCTA: {
     headline: '',
-    paragraph: `Alexandria's challenging groundwater conditions and aging sewer infrastructure create basement flooding scenarios that standard waterproofing approaches can't solve. Our specialized expertise in historic foundation restoration, combined sewer backup prevention, and high water table drainage systems provides permanent solutions that keep your basement dry year-round. From emergency extraction to comprehensive waterproofing, we protect your property investment with engineering solutions matched to Alexandria's unique conditions.`,
+    paragraph: `Alexandria's challenging groundwater conditions and aging sewer infrastructure create basement flooding scenarios that standard waterproofing approaches can't solve. Our specialized experience in historic foundation restoration, combined sewer backup prevention, and high water table drainage systems provides permanent solutions that keep your basement dry year-round. From emergency extraction to comprehensive waterproofing, we protect your property investment with engineering solutions matched to Alexandria's unique conditions.`,
   },
 }

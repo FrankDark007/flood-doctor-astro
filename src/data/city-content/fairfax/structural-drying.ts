@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Fairfax, VA | Flood Doctor',
-    description: `Fairfax's trusted structural drying specialists. Fast 30-min response to Burke, Kings Park & Mantua. Scientific drying for colonials & split-levels. Call (877) 497-0007.`,
+    description: `Fairfax's local structural drying specialists. Fast prompt response to Burke, Kings Park & Mantua. Scientific drying for colonials & split-levels. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Fairfax, Virginia',
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `When water floods your Fairfax family home, the disruption extends beyond property damage — it displaces your household routine, threatens your children's bedrooms, and turns the basement rec room where your family gathers into a restoration zone. The 1970s-1990s colonials and split-levels throughout Burke, Kings Park, and Mantua were built with construction methods that present specific drying challenges: sump pump wells that overflow during heavy storms, HVAC drain lines that clog and leak into wall cavities, and split-level designs where water on the upper level cascades to the lower level through floor systems before anyone notices.
 
-Flood Doctor has dried thousands of family homes across Fairfax — from Burke Centre townhomes where washing machine supply lines burst on the second floor to Fairfax Station colonials where ice dams sent water pouring through attic insulation into every room below. We understand that Fairfax families need restoration that is efficient, minimally disruptive, and thorough. Our IICRC-certified technicians deploy scientific drying systems that get your home back to normal as quickly as the physics of moisture removal allows.`,
+Flood Doctor has dried thousands of family homes across Fairfax — from Burke Centre townhomes where washing machine supply lines burst on the second floor to Fairfax Station colonials where ice dams sent water pouring through attic insulation into every room below. We understand that Fairfax families need restoration that is efficient, minimally disruptive, and thorough. Our trained technicians deploy scientific drying systems that get your home back to normal as quickly as the physics of moisture removal allows.`,
       `Structural drying in Fairfax's family neighborhoods requires understanding the construction era. Colonials built in the 1970s and 1980s feature different framing methods, insulation types, and subfloor materials than homes from the 1990s. Split-level designs create unique moisture migration paths where water travels between staggered floor levels through shared wall cavities. Finished basements — the most common gathering space in Fairfax homes — contain carpet, drywall, and built-in storage that trap moisture against the concrete slab.
 
 Our technicians calculate drying parameters for each material type in your home, deploying LGR dehumidifiers and air movers positioned for maximum effectiveness within your specific floor plan. Injection drying systems address moisture inside wall cavities without removing drywall, saving both the cost of reconstruction and the weeks of displacement it would cause your family. Daily monitoring with moisture meters and thermal imaging ensures every area reaches its dry standard before we declare the job complete.`,
@@ -21,12 +21,12 @@ Our technicians calculate drying parameters for each material type in your home,
   processSteps: [
     {
       title: 'Rapid Neighborhood Response',
-      description: `When you call (877) 497-0007, our Fairfax-positioned crews arrive within 30 minutes. We reach Burke, Kings Park, Mantua, and Fairfax Station from staging locations along the Route 123 and Burke Lake corridor — not from a distant warehouse, but from the neighborhoods where we work every day.`,
-      timeframe: 'Within 30 minutes',
+      description: `When you call (877) 497-0007, our Fairfax-positioned crews arrive as quickly as conditions allow. We reach Burke, Kings Park, Mantua, and Fairfax Station from staging locations along the Route 123 and Burke Lake corridor — not from a distant warehouse, but from the neighborhoods where we work every day.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Family-Focused Damage Assessment',
-      description: 'Our IICRC-certified technician maps moisture throughout your home using thermal imaging and penetrating meters. In Fairfax split-levels, we trace water migration between staggered floor levels. In colonials, we check for moisture that traveled through floor systems from upper levels to the finished basement below.',
+      description: 'Our trained technician maps moisture throughout your home using thermal imaging and penetrating meters. In Fairfax split-levels, we trace water migration between staggered floor levels. In colonials, we check for moisture that traveled through floor systems from upper levels to the finished basement below.',
       timeframe: 'Hours 1-2',
     },
     {
@@ -138,12 +138,12 @@ Our technicians calculate drying parameters for each material type in your home,
       'Fair Lakes',
       'Oak Hill',
     ],
-    responseTime: '30-minute response to all Fairfax neighborhoods. Our crews are positioned throughout the Burke Lake corridor and Route 123 area for immediate dispatch to Burke, Mantua, Kings Park, and Fairfax Station.',
+    responseTime: 'prompt response to all Fairfax neighborhoods. Our service-area teams are available throughout the Burke Lake corridor and Route 123 area for immediate dispatch to Burke, Mantua, Kings Park, and Fairfax Station.',
   },
   faqs: [
     {
       question: 'How quickly can you respond to a flooded basement in Fairfax?',
-      answer: 'Within 30 minutes. Basement flooding — whether from sump pump failure, supply line burst, or storm overwhelm — worsens every minute as water wicks into drywall and subfloor. Our crews are positioned throughout Fairfax for rapid response to Burke, Kings Park, Mantua, and Fairfax Station.',
+      answer: 'As quickly as conditions allow. Basement flooding — whether from sump pump failure, supply line burst, or storm overwhelm — worsens every minute as water wicks into drywall and subfloor. Our service-area teams are available throughout Fairfax for rapid response to Burke, Kings Park, Mantua, and Fairfax Station.',
     },
     {
       question: 'Can you save my finished basement carpet after flooding?',
@@ -163,7 +163,7 @@ Our technicians calculate drying parameters for each material type in your home,
     },
     {
       question: 'Does insurance cover basement flooding from sump pump failure?',
-      answer: 'Sump pump failure coverage requires a specific rider on most homeowner policies — check your policy or call your agent. If you have sump pump coverage, restoration is typically fully covered. We document the sump failure as the cause and handle direct billing with your carrier.',
+      answer: 'Sump pump failure coverage requires a specific rider on most homeowner policies — check your policy or call your agent. If you have sump pump coverage, restoration is typically fully covered. We document the sump failure as the cause and handle claim-ready documentation for your carrier.',
     },
   ],
   relatedBlogSlugs: [
@@ -172,6 +172,6 @@ Our technicians calculate drying parameters for each material type in your home,
   ],
   finalCTA: {
     headline: 'Flooded Basement in Your Fairfax Home?',
-    paragraph: 'Every hour of standing water means more damage to your finished basement, more mold risk, and higher restoration costs. Our Fairfax crews respond within 30 minutes with the extraction and drying equipment your home needs. Call (877) 497-0007 now — one call handles everything.',
+    paragraph: 'Every hour of standing water means more damage to your finished basement, more mold risk, and higher restoration costs. Our Fairfax crews respond as quickly as conditions allow with the extraction and drying equipment your home needs. Call (877) 497-0007 now — one call handles everything.',
   },
 }

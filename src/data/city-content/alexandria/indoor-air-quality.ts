@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Indoor Air Quality Testing in Alexandria, VA | Flood Doctor',
-    description: `Alexandria indoor air quality experts. Mold spore sampling for historic homes, VOC testing & post-remediation verification in Old Town, Del Ray & Belle Haven. Call (877) 497-0007.`,
+    description: `Alexandria indoor air quality specialists. Mold spore sampling for historic homes, VOC testing & post-remediation verification in Old Town, Del Ray & Belle Haven. Call (877) 497-0007.`,
   },
   h1: 'Indoor Air Quality Testing in Alexandria, Virginia',
   introSection: {
@@ -45,7 +45,7 @@ export const content: CityServiceContent = {
     {
       title: 'Combined Sewer-Related Biological Contamination',
       description: `Old Town Alexandria operates on a combined sewer system that surcharges during heavy rainfall, pushing sewage and stormwater through floor drains and pipe connections into basements. This Category 3 water introduces bacteria, viruses, and other biological contaminants into porous historic materials that become ongoing sources of bioaerosol contamination.`,
-      solution: `Post-backup IAQ testing includes bacterial as well as fungal air sampling. We assess bioaerosol concentrations in affected spaces and compare against pre-event conditions or outdoor baselines. Our reporting documents contamination levels that justify removal of affected porous materials per IICRC S500 Category 3 protocols.`,
+      solution: `Post-backup IAQ testing includes bacterial as well as fungal air sampling. We assess bioaerosol concentrations in affected spaces and compare against pre-event conditions or outdoor baselines. Our reporting documents contamination levels that justify removal of affected porous materials per Category 3 protocols.`,
     },
     {
       title: 'Rising Damp Mold in Historic Masonry Construction',
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Eisenhower Valley',
       'Mount Vernon Avenue Corridor',
     ],
-    responseTime: `Same-day IAQ assessment throughout Alexandria. Emergency sampling available within 2 hours for suspected toxic mold or contamination events. Call (877) 497-0007.`,
+    responseTime: `Same-day IAQ assessment throughout Alexandria. Emergency sampling available promptly for suspected toxic mold or contamination events. Call (877) 497-0007.`,
   },
   faqs: [
     {

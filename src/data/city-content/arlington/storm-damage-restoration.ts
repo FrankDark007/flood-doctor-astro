@@ -14,19 +14,19 @@ export const content: CityServiceContent = {
 Flood Doctor has responded to storm damage throughout Arlington for nearly two decades. We've tarped damaged roofs on Clarendon commercial buildings, pumped out flooded parking garages in Pentagon City, and dried water-damaged units in Ballston condominiums after wind-driven rain breached building envelopes. When storms hit Arlington's diverse building stock, we respond with the right equipment for each situation.`,
       `Arlington's storm vulnerabilities reflect its unique building landscape. High-rise towers with rooftop HVAC equipment face wind damage that ground-level buildings don't experience. Mid-century flat-roof construction—common in the county's residential neighborhoods—accumulates water that pitched roofs would shed. Underground parking structures collect runoff from surrounding streets when storm drains back up. And the county's mature tree canopy, while beautiful, sends limbs through windows and onto roofs during severe weather.
 
-Our IICRC-certified storm damage crews understand that Arlington storm response often means multiple simultaneous challenges: tarping the roof breach while extracting water from affected interior spaces, or pumping a parking garage while checking whether vehicles need relocation. We coordinate with property managers, HOAs, and individual owners throughout these multi-faceted emergencies.`,
+Our trained storm damage crews understand that Arlington storm response often means multiple simultaneous challenges: tarping the roof breach while extracting water from affected interior spaces, or pumping a parking garage while checking whether vehicles need relocation. We coordinate with property managers, HOAs, and individual owners throughout these multi-faceted emergencies.`,
     ],
     localContext: `Arlington's mix of high-rises, mid-century flat-roof buildings, and mature tree coverage creates storm damage patterns unique to the county. We've learned these patterns through decades of emergency response—from Rosslyn rooftops to Shirlington street-level retail.`,
   },
   processSteps: [
     {
       title: 'Storm Monitoring & Pre-Positioning',
-      description: `When severe weather threatens Arlington, we monitor conditions and pre-position crews throughout the county. Our dispatchers track storm intensity and timing, anticipating the calls that will follow. When the damage occurs, we're already nearby—not scrambling from distant locations.`,
+      description: `When severe weather threatens Arlington, we monitor conditions and plan service-area coverage across the county. Our dispatchers track storm intensity and timing, anticipating the calls that will follow. When the damage occurs, we're already nearby—not scrambling from distant locations.`,
       timeframe: 'Before storm',
     },
     {
       title: 'Rapid Emergency Response',
-      description: 'When you call our Arlington hotline at (877) 497-0007 during or after a storm, we dispatch immediately. Response times during active weather events may extend beyond normal guarantees due to road conditions, but we deploy continuously throughout the storm and its aftermath.',
+      description: 'When you call our Arlington hotline at (877) 497-0007 during or after a storm, we dispatch immediately. Response times during active weather events may extend beyond normal commitments due to road conditions, but we deploy continuously throughout the storm and its aftermath.',
       timeframe: 'During/after storm',
     },
     {
@@ -140,7 +140,7 @@ Our IICRC-certified storm damage crews understand that Arlington storm response 
       'Columbia Heights',
       'Nauck',
     ],
-    responseTime: 'Rapid storm damage response throughout Arlington. During major weather events, we pre-position crews and deploy continuously until all emergencies are addressed—often working 24-48 hours straight during severe storms.',
+    responseTime: 'Rapid storm damage response throughout Arlington. During major weather events, we plan service-area crew coverage and deploy continuously until all emergencies are addressed—often working 24-48 hours straight during severe storms.',
   },
   faqs: [
     {

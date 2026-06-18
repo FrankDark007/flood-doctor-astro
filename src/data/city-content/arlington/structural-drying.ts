@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Arlington, VA | Flood Doctor',
-    description: `Arlington's structural drying experts for condos, rowhouses & high-rises. HOA coordination included. 30-min response to Rosslyn, Clarendon & Ballston. Call (877) 497-0007.`,
+    description: `Arlington's structural drying specialists for condos, rowhouses & high-rises. HOA coordination included. prompt response to Rosslyn, Clarendon & Ballston. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Arlington, Virginia',
   introSection: {
     headline: 'Expert Structural Drying for Arlington Urban Properties',
     paragraphs: [
-      `Structural drying in Arlington demands urban expertise that most restoration companies lack. When a burst pipe on the 15th floor of a Rosslyn high-rise sends water cascading through multiple units below, the drying challenge spans several condos, requires HOA coordination, and involves building materials unique to high-rise construction — post-tensioned concrete slabs, steel framing, and commercial-grade HVAC systems that standard residential restorers have never encountered. Similarly, when water infiltrates a Clarendon rowhouse through a shared party wall, drying one unit without affecting the adjacent home requires precision that only comes from urban restoration experience.
+      `Structural drying in Arlington demands urban experience that most restoration companies lack. When a burst pipe on the 15th floor of a Rosslyn high-rise sends water cascading through multiple units below, the drying challenge spans several condos, requires HOA coordination, and involves building materials unique to high-rise construction — post-tensioned concrete slabs, steel framing, and commercial-grade HVAC systems that standard residential restorers have never encountered. Similarly, when water infiltrates a Clarendon rowhouse through a shared party wall, drying one unit without affecting the adjacent home requires precision that only comes from urban restoration experience.
 
 Flood Doctor has dried hundreds of Arlington properties — from Crystal City high-rise condos to Lyon Village bungalows to Pentagon City apartments. Our technicians understand the specific challenges of dense urban housing: tight equipment access through narrow doorways and elevators, noise restrictions in multi-unit buildings, HOA approval processes that must happen before work begins, and the coordination required when water damage crosses property lines between neighboring units.`,
       `The psychrometric science behind structural drying remains constant regardless of building type, but the application differs dramatically in Arlington's urban environment. A Ballston condo with concrete floors, steel studs, and vinyl plank requires fundamentally different drying parameters than a Shirlington single-family with wood framing and hardwood floors. Post-tensioned concrete slabs in high-rises hold moisture for weeks and require specialized desiccant dehumidification. Shared wall assemblies demand careful moisture monitoring to determine whether water has migrated to adjacent units.
 
-Our IICRC-certified technicians calculate grain depression, specific humidity, and dew point for each affected unit and material type. We deploy appropriately sized equipment — compact dehumidifiers and low-profile air movers that fit through standard doorways and operate within building noise ordinances. Injection drying systems reach moisture trapped inside wall cavities without removing drywall, saving significant reconstruction costs in properties where every square foot represents premium real estate value.`,
+Our trained technicians calculate grain depression, specific humidity, and dew point for each affected unit and material type. We deploy appropriately sized equipment — compact dehumidifiers and low-profile air movers that fit through standard doorways and operate within building noise ordinances. Injection drying systems reach moisture trapped inside wall cavities without removing drywall, saving significant reconstruction costs in properties where every square foot represents premium real estate value.`,
     ],
     localContext: `Arlington's dense housing mix — from Rosslyn high-rises to Clarendon rowhouses to mid-century ramblers — requires structural drying teams experienced with urban access challenges, HOA coordination, multi-unit water migration, and building materials spanning every construction era.`,
   },
   processSteps: [
     {
       title: 'Rapid Urban Emergency Response',
-      description: `Call (877) 497-0007 and our Arlington-positioned crews respond within 30 minutes. We navigate building access protocols, elevator availability, and parking restrictions in Rosslyn, Ballston, Crystal City, and Pentagon City to reach your unit fast — because in multi-story buildings, every minute of delay means water migrating to additional floors.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Arlington-positioned crews respond as quickly as conditions allow. We navigate building access protocols, elevator availability, and parking restrictions in Rosslyn, Ballston, Crystal City, and Pentagon City to reach your unit fast — because in multi-story buildings, every minute of delay means water migrating to additional floors.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Multi-Unit Moisture Assessment',
@@ -53,7 +53,7 @@ Our IICRC-certified technicians calculate grain depression, specific humidity, a
   localChallenges: [
     {
       title: 'High-Rise Multi-Unit Water Cascades',
-      description: 'Water from a single source in a Rosslyn or Crystal City high-rise can affect 5-10 units across multiple floors. Each unit has a different owner, different insurance carrier, and different level of damage. Coordinating drying across all affected properties requires project management expertise beyond standard restoration.',
+      description: 'Water from a single source in a Rosslyn or Crystal City high-rise can affect 5-10 units across multiple floors. Each unit has a different owner, different insurance carrier, and different level of damage. Coordinating drying across all affected properties requires project management experience beyond standard restoration.',
       solution: 'We assign a dedicated project coordinator for multi-unit events who manages communication with all affected owners, their insurance carriers, and building management simultaneously. Each unit gets an individual drying plan while the overall project is coordinated as a unified response.',
     },
     {
@@ -144,7 +144,7 @@ Our IICRC-certified technicians calculate grain depression, specific humidity, a
       'Bluemont',
       'Westover',
     ],
-    responseTime: '30-minute response to all Arlington neighborhoods. Our crews are familiar with building access protocols, elevator logistics, and parking requirements throughout Rosslyn, the Metro corridor, and South Arlington.',
+    responseTime: 'prompt response to all Arlington neighborhoods. Our crews are familiar with building access protocols, elevator logistics, and parking requirements throughout Rosslyn, the Metro corridor, and South Arlington.',
   },
   faqs: [
     {
@@ -186,6 +186,6 @@ Our IICRC-certified technicians calculate grain depression, specific humidity, a
   ],
   finalCTA: {
     headline: 'Water Damage in Your Arlington Property?',
-    paragraph: 'In multi-unit buildings, every minute of delay means water migrating to additional floors and units. Our Arlington-based crews respond within 30 minutes with urban-optimized equipment and the HOA coordination expertise your building requires. Call (877) 497-0007 now.',
+    paragraph: 'In multi-unit buildings, every minute of delay means water migrating to additional floors and units. Our Arlington-based crews respond as quickly as conditions allow with urban-optimized equipment and the HOA coordination experience your building requires. Call (877) 497-0007 now.',
   },
 }

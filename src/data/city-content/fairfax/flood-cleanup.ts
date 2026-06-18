@@ -14,20 +14,20 @@ export const content: CityServiceContent = {
 Flood Doctor has responded to storm flooding throughout Fairfax for nearly two decades. We've pumped out Burke basements after summer deluges, extracted floodwater from Kings Park lower levels during tropical storm remnants, and cleaned up the mess left behind when Difficult Run overflows into Mantua backyards. When weathering the storm turns into flood damage, Fairfax families know to call us.`,
       `Flood cleanup after storms presents challenges that routine water damage doesn't. Stormwater carries silt, debris, and contamination from overloaded drains and rising groundwater. The water in your Burke family room isn't clean—it's Category 2 or 3 water requiring more intensive cleanup protocols. Saturated clay soil continues pushing groundwater against your foundation for days after the storm passes.
 
-Our IICRC-certified crews are trained in flood-specific cleanup. We don't just extract water—we remove contaminated debris, treat surfaces with antimicrobials, and ensure complete drying to prevent the mold growth that follows flood damage. For Fairfax families facing flood cleanup while also dealing with downed trees, power outages, and neighborhood chaos, we handle the indoor crisis so you can focus on everything else.`,
+Our trained crews are trained in flood-specific cleanup. We don't just extract water—we remove contaminated debris, treat surfaces with antimicrobials, and ensure complete drying to prevent the mold growth that follows flood damage. For Fairfax families facing flood cleanup while also dealing with downed trees, power outages, and neighborhood chaos, we handle the indoor crisis so you can focus on everything else.`,
     ],
     localContext: `Fairfax's summer thunderstorms and tropical weather systems create regular flooding risks. The clay soil, aging drainage infrastructure, and partially below-grade family rooms common in our neighborhoods make professional flood cleanup essential.`,
   },
   processSteps: [
     {
       title: 'Storm-Ready Dispatch',
-      description: `During severe weather events, we pre-position crews throughout Fairfax. When you call (877) 497-0007 about flooding, we're often already nearby. Our 30-minute response continues even during active storms—we've driven through flooded intersections to reach homes that need help.`,
-      timeframe: 'Within 30 minutes',
+      description: `During severe weather events, we plan service-area coverage across Fairfax. When you call (877) 497-0007 about flooding, we're often already nearby. Our prompt response continues even during active storms—we've driven through flooded intersections to reach homes that need help.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Safety & Water Category Assessment',
       description: 'Storm flooding is typically Category 2 (gray water) or Category 3 (black water) due to contact with ground contamination, overwhelmed sewers, or standing water bacteria. We assess contamination level to determine appropriate cleanup protocols and personal protective equipment.',
-      timeframe: 'First 30 minutes on site',
+      timeframe: 'Initial onsite phase',
     },
     {
       title: 'Floodwater Extraction',
@@ -54,7 +54,7 @@ Our IICRC-certified crews are trained in flood-specific cleanup. We don't just e
     {
       title: 'Summer Thunderstorm Flash Flooding',
       description: `Fairfax's summer weather pattern brings intense afternoon thunderstorms that can drop 2-4 inches of rain in an hour. Storm drains backup, streets flash flood, and water pours into lower-level living spaces faster than sump pumps can handle. These events happen multiple times each summer.`,
-      solution: 'We respond during active storms, not after. Our crews reach flooded homes within 30 minutes, often extracting water while rain is still falling. Quick response minimizes damage and contamination penetration.',
+      solution: 'We respond during active storms, not after. Our crews reach flooded homes as quickly as conditions allow, often extracting water while rain is still falling. Quick response minimizes damage and contamination penetration.',
     },
     {
       title: 'Clay Soil Drainage Problems',
@@ -74,7 +74,7 @@ Our IICRC-certified crews are trained in flood-specific cleanup. We don't just e
     {
       title: 'Multi-Neighborhood Flooding',
       description: 'Major storms affect entire neighborhoods simultaneously. When Burke Centre floods, dozens of townhomes need help. Our resources can be stretched thin during widespread events, and access roads may be flooded.',
-      solution: 'We pre-position crews and equipment during forecast severe weather. We triage calls by severity during widespread events, reaching the worst situations first while queuing less urgent calls for rapid follow-up.',
+      solution: 'We plan service-area crew coverage and equipment during forecast severe weather. We triage calls by severity during widespread events, reaching the worst situations first while queuing less urgent calls for rapid follow-up.',
     },
   ],
   equipmentSection: {
@@ -140,7 +140,7 @@ Our IICRC-certified crews are trained in flood-specific cleanup. We don't just e
       'Old Town Fairfax',
       'Pickett Road Area',
     ],
-    responseTime: `30-minute flood cleanup response throughout Fairfax—even during active storms. We're positioned to reach Burke, Kings Park, Mantua, and all neighborhoods within our service guarantee.`,
+    responseTime: `prompt flood cleanup response throughout Fairfax—even during active storms. We're available to serve Burke, Kings Park, Mantua, and all neighborhoods as quickly as route and weather conditions allow.`,
   },
   faqs: [
     {
@@ -165,7 +165,7 @@ Our IICRC-certified crews are trained in flood-specific cleanup. We don't just e
     },
     {
       question: 'Can you respond during an active storm?',
-      answer: `Yes. We dispatch during storms and drive through flooding when safely possible. We won't send crews into dangerous conditions, but we reach homes as quickly as conditions allow. During severe weather, we pre-position crews throughout Fairfax for faster response.`,
+      answer: `Yes. We dispatch during storms and drive through flooding when safely possible. We won't send crews into dangerous conditions, but we reach homes as quickly as conditions allow. During severe weather, we plan service-area coverage across Fairfax for faster response.`,
     },
     {
       question: 'How long does flood cleanup take?',
@@ -179,6 +179,6 @@ Our IICRC-certified crews are trained in flood-specific cleanup. We don't just e
   ],
   finalCTA: {
     headline: 'Flooding Emergency in Fairfax?',
-    paragraph: `Floodwater damage worsens by the hour. Contamination sets in. Mold begins growing. Call now—we'll be there within 30 minutes to start cleanup and protect your home from further damage.`,
+    paragraph: `Floodwater damage worsens by the hour. Contamination sets in. Mold begins growing. Call now—we'll be there as quickly as conditions allow to start cleanup and protect your home from further damage.`,
   },
 }

@@ -27,7 +27,7 @@ Our burst pipe response combines emergency water extraction with permanent repai
     {
       title: 'Water Shutoff Confirmation',
       description: 'Our first priority is stopping additional water release. We verify the water supply is shut off and assess the burst pipe location. In Fairfax split-levels and colonials, we check for water migration to other floors—burst pipes often send water through ceiling spaces and wall cavities.',
-      timeframe: 'First 5-10 minutes',
+      timeframe: 'Initial onsite phase',
     },
     {
       title: 'Rapid Water Extraction',
@@ -113,7 +113,7 @@ Our burst pipe response combines emergency water extraction with permanent repai
         purpose: 'Dry inside wall cavities without removing drywall—saving time and repair costs',
       },
     ],
-    localNote: 'Our Fairfax emergency trucks carry burst pipe response equipment including water shutoff tools, extraction systems, and drying equipment. We arrive prepared to handle the entire emergency—from water shutoff to complete restoration.',
+    localNote: 'Our Fairfax emergency trucks carry burst pipe response equipment including water shutoff tools, extraction systems, and drying equipment. We arrive prepared to handle the entire emergency—from water shutoff to thorough restoration.',
   },
   pricingSection: {
     headline: 'Burst Pipe Repair Costs in Fairfax',
@@ -145,7 +145,7 @@ Our burst pipe response combines emergency water extraction with permanent repai
       'Popes Head',
       'Fairfax Towne Center',
     ],
-    responseTime: '24/7 emergency response to all Fairfax locations. Our crews reach Burke to Fairfax Station, Kings Park to Mantua within 45 minutes—day or night.',
+    responseTime: '24/7 emergency response to all Fairfax locations. Our crews reach Burke to Fairfax Station, Kings Park to Mantua as quickly as conditions allow—day or night.',
   },
   faqs: [
     {
@@ -162,7 +162,7 @@ Our burst pipe response combines emergency water extraction with permanent repai
     },
     {
       question: 'Can you fix the pipe or just the water damage?',
-      answer: `We coordinate with licensed plumbers for permanent pipe repair but focus on water damage restoration ourselves. We'll help arrange qualified plumbers we trust throughout Fairfax. Our expertise is extracting water, drying your home, and preventing mold—we leave plumbing repair to licensed plumbers.`,
+      answer: `We coordinate with licensed plumbers for permanent pipe repair but focus on water damage restoration ourselves. We'll help arrange qualified plumbers we trust throughout Fairfax. Our experience is extracting water, drying your home, and preventing mold—we leave plumbing repair to licensed plumbers.`,
     },
     {
       question: 'How long does drying take after a burst pipe?',
@@ -188,6 +188,6 @@ Our burst pipe response combines emergency water extraction with permanent repai
   ],
   finalCTA: {
     headline: 'Burst Pipe Emergency in Fairfax?',
-    paragraph: `Don't wait while water floods your home. Our emergency crews respond immediately with water shutoff assistance, extraction equipment, and complete restoration services. One call handles everything from water removal to insurance coordination.`,
+    paragraph: `Don't wait while water floods your home. Our emergency crews respond immediately with water shutoff assistance, extraction equipment, and thorough restoration services. One call handles everything from water removal to insurance coordination.`,
   },
 }

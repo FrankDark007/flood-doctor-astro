@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Municipal & Education Facility Restoration in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's trusted restoration for ACPS schools, city buildings, and historic public facilities. BAR-compliant restoration for government structures. Call (877) 497-0007.`,
+    description: `Alexandria's restoration support for ACPS schools, city buildings, and historic public facilities. BAR-compliant restoration for government structures. Call (877) 497-0007.`,
   },
   h1: `Municipal & Education Facility Restoration in Alexandria, Virginia`,
   introSection: {
@@ -11,7 +11,7 @@ export const content: CityServiceContent = {
     paragraphs: [
       `Alexandria City Public Schools and municipal buildings carry the weight of a community deeply invested in its historic character and educational excellence. ACPS facilities range from historic school buildings near the George Washington Masonic Memorial to modern facilities serving the Potomac Yard and Carlyle growth areas. City Hall, fire stations, recreation centers, and the Torpedo Factory Arts Center represent both public investment and cultural heritage. When water damage strikes these facilities, Alexandria demands restoration that meets structural standards while honoring the city's commitment to historic preservation and public accountability.
 
-Flood Doctor has restored Alexandria public facilities with the dual expertise these projects require—technical restoration meeting modern safety standards and historic preservation meeting Board of Architectural Review requirements. Our crews manage asbestos and lead paint in pre-1978 school buildings, coordinate with ACPS facilities management for academic calendar compliance, and provide documentation satisfying both city procurement standards and the transparency Alexandria's engaged citizenry expects.`,
+Flood Doctor has restored Alexandria public facilities with the dual experience these projects require—technical restoration meeting modern safety standards and historic preservation meeting Board of Architectural Review requirements. Our crews manage asbestos and lead paint in pre-1978 school buildings, coordinate with ACPS facilities management for academic calendar compliance, and provide documentation satisfying both city procurement standards and the transparency Alexandria's engaged citizenry expects.`,
       `Alexandria's public buildings face water damage risks amplified by geography and infrastructure age. Schools and municipal buildings in Old Town and Rosemont contend with the combined sewer system that backs up during heavy rainfall, introducing Category 3 contamination into educational and government spaces. The high water table near the Potomac pushes groundwater into basement-level spaces used for storage, mechanical systems, and in some cases, educational programming. Buildings along King Street and near the waterfront sit in flood-prone areas where storm events overwhelm aging stormwater infrastructure.
 
 The regulatory framework governing Alexandria public building restoration adds layers of complexity. ACPS must comply with EPA AHERA requirements for asbestos management, Virginia Department of Education facility standards, and ADA accessibility requirements triggered by substantial renovation work. City buildings designated as historic must satisfy the Board of Architectural Review for exterior modifications. Our teams navigate all these requirements while maintaining the restoration urgency that school closures and disrupted public services demand.`,
@@ -22,7 +22,7 @@ The regulatory framework governing Alexandria public building restoration adds l
     {
       title: `Emergency Public Facility Response`,
       description: `Call (877) 497-0007 for immediate school or municipal building response. We coordinate with ACPS facilities management or City of Alexandria DGS to establish incident command and activate emergency procurement authority for rapid restoration mobilization.`,
-      timeframe: `Within 45 minutes`,
+      timeframe: `Within as quickly as conditions allow`,
     },
     {
       title: `Hazardous Materials and Historic Assessment`,
@@ -58,7 +58,7 @@ The regulatory framework governing Alexandria public building restoration adds l
     },
     {
       title: `Historic School Building Preservation`,
-      description: `Several Alexandria school buildings carry historic designation or contribute to historic districts. Restoration work must preserve original architectural features while meeting modern safety standards—a balance that requires expertise in both preservation techniques and educational facility requirements.`,
+      description: `Several Alexandria school buildings carry historic designation or contribute to historic districts. Restoration work must preserve original architectural features while meeting modern safety standards—a balance that requires experience in both preservation techniques and educational facility requirements.`,
       solution: `We coordinate with the BAR for any exterior work affecting designated structures and use preservation-grade interior restoration techniques. Our documentation demonstrates that restoration choices respect historic character while meeting current building codes and educational facility standards.`,
     },
     {
@@ -133,7 +133,7 @@ The regulatory framework governing Alexandria public building restoration adds l
       `King Street Corridor`,
       `Torpedo Factory Area`,
     ],
-    responseTime: `45-minute emergency response to all Alexandria schools and municipal facilities. Our crews carry biohazard equipment standard for the combined sewer events that frequently affect public buildings in Old Town and surrounding neighborhoods.`,
+    responseTime: `prompt emergency response to all Alexandria schools and municipal facilities. Our crews carry biohazard equipment standard for the combined sewer events that frequently affect public buildings in Old Town and surrounding neighborhoods.`,
   },
   faqs: [
     {
@@ -158,7 +158,7 @@ The regulatory framework governing Alexandria public building restoration adds l
     },
     {
       question: `Do you provide FEMA documentation for Alexandria municipal facilities?`,
-      answer: `Yes. For qualifying disaster events, we prepare FEMA Public Assistance documentation including damage assessments, project worksheets, and cost records. We also assist with Virginia Department of Emergency Management grant applications and coordinate with the City of Alexandria emergency management office.`,
+      answer: `Yes. For qualifying disaster events, we prepare FEMA Public Assistance documentation including damage assessments, project worksheets, and cost records. We also assist with Virginia Department of Emergency Management grant applications and coordinate with the City of Alexandria emergency management workspace.`,
     },
     {
       question: `How do you ensure air quality meets standards for children?`,
@@ -170,6 +170,6 @@ The regulatory framework governing Alexandria public building restoration adds l
   ],
   finalCTA: {
     headline: `Alexandria School or Public Building Emergency?`,
-    paragraph: `Student safety and public services cannot wait. Our crews respond to Alexandria schools and government buildings within 45 minutes with biohazard equipment, preservation expertise, and the regulatory knowledge these historic facilities demand. Call (877) 497-0007 immediately.`,
+    paragraph: `Student safety and public services cannot wait. Our crews respond to Alexandria schools and government buildings as quickly as conditions allow with biohazard equipment, preservation experience, and the regulatory knowledge these historic facilities demand. Call (877) 497-0007 immediately.`,
   },
 }

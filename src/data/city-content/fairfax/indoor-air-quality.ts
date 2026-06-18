@@ -44,7 +44,7 @@ export const content: CityServiceContent = {
   localChallenges: [
     {
       title: 'Finished Basement Hidden Mold Contamination',
-      description: `Burke and Kings Park homeowners invest in finished basements for family recreation rooms, home offices, and playrooms. Water intrusion behind finished walls—from foundation seepage, sump failures, or condensation—creates concealed mold colonies that release spores into basement air without producing visible growth. Children playing in these spaces face prolonged exposure.`,
+      description: `Burke and Kings Park homeowners invest in finished basements for family recreation rooms, home workspaces, and playrooms. Water intrusion behind finished walls—from foundation seepage, sump failures, or condensation—creates concealed mold colonies that release spores into basement air without producing visible growth. Children playing in these spaces face prolonged exposure.`,
       solution: `Air sampling in finished basement spaces captures airborne mold concentrations regardless of visibility. Elevated indoor spore counts compared to outdoor baselines confirm an active indoor mold source. Species identification reveals whether the mold community indicates water damage (Stachybotrys, Chaetomium) or humidity excess (Cladosporium, Penicillium), guiding the remediation approach.`,
     },
     {
@@ -125,7 +125,7 @@ export const content: CityServiceContent = {
       'Fair Oaks',
       'Robinson Secondary Area',
     ],
-    responseTime: `Same-day IAQ assessment throughout Fairfax. Emergency sampling available within 2 hours for visible mold or acute health symptom situations. Call (877) 497-0007.`,
+    responseTime: `Same-day IAQ assessment throughout Fairfax. Emergency sampling available promptly for visible mold or acute health symptom situations. Call (877) 497-0007.`,
   },
   faqs: [
     {

@@ -9,20 +9,20 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Restoring Arlington's Critical Commercial and Government Infrastructure`,
     paragraphs: [
-      `Arlington's industrial landscape differs from typical Northern Virginia corridors. Instead of warehouses and manufacturing plants, Arlington houses mission-critical government operations, defense contractor facilities, data centers supporting federal agencies, and commercial operations packed into dense urban buildings. A flooded server room in Crystal City can disrupt government communications. Water damage in a Pentagon City defense contractor office threatens classified systems and contract performance. Commissary and logistics facilities near Shirlington support military operations that cannot tolerate extended downtime.
+      `Arlington's industrial landscape differs from typical Northern Virginia corridors. Instead of warehouses and manufacturing plants, Arlington houses mission-critical government operations, defense contractor facilities, data centers supporting federal agencies, and commercial operations packed into dense urban buildings. A flooded server room in Crystal City can disrupt government communications. Water damage in a Pentagon City defense contractor workspace threatens classified systems and contract performance. Commissary and logistics facilities near Shirlington support military operations that cannot tolerate extended downtime.
 
-Flood Doctor provides the industrial-grade restoration capability these Arlington facilities require, delivered with the security awareness and operational understanding their missions demand. Our HAZWOPER-certified crews handle hazardous material concerns, while our equipment portfolio includes the high-capacity extraction and drying systems needed for large commercial spaces. We coordinate with facility security, operate under escort when required, and maintain the documentation standards that government and defense facilities need for compliance and contract reporting.`,
+Flood Doctor provides the industrial-grade restoration capability these Arlington facilities require, delivered with the security awareness and operational understanding their missions demand. Our safety-trained crews handle hazardous material concerns, while our equipment portfolio includes the high-capacity extraction and drying systems needed for large commercial spaces. We coordinate with facility security, operate under escort when required, and maintain the documentation standards that government and defense facilities need for compliance and contract reporting.`,
       `The dense urban environment of Arlington compounds industrial restoration complexity. Commercial facilities in Rosslyn towers share building systems with dozens of other tenants. Underground infrastructure along the Crystal City corridor connects buildings through utility tunnels where water migration can jump between structures. Government facilities near the Pentagon operate under heightened security protocols that restrict contractor access, equipment types, and work scheduling.
 
-Our Arlington industrial team navigates these constraints daily. We stage equipment through service entrances and freight elevators, coordinate utility shutoffs with building engineers, and schedule restoration work around the 24/7 operations common in government and defense facilities. For data centers and communications facilities, we deploy anti-corrosion treatment within hours while maintaining the environmental controls that sensitive electronics require. The goal is always operational continuity—restoring mission-critical capabilities before addressing cosmetic concerns.`,
+Our Arlington industrial team navigates these constraints daily. We stage equipment through service entrances and freight elevators, coordinate utility shutoffs with building engineers, and schedule restoration work around the 24/7 operations common in government and defense facilities. For data centers and communications facilities, we deploy anti-corrosion treatment promptly while maintaining the environmental controls that sensitive electronics require. The goal is always operational continuity—restoring mission-critical capabilities before addressing cosmetic concerns.`,
     ],
-    localContext: `Arlington's concentration of government, defense, and mission-critical commercial facilities in dense urban buildings requires industrial restoration capability combined with security awareness and urban logistics expertise.`,
+    localContext: `Arlington's concentration of government, defense, and mission-critical commercial facilities in dense urban buildings requires industrial restoration capability combined with security awareness and urban logistics experience.`,
   },
   processSteps: [
     {
       title: `Secure Facility Emergency Response`,
-      description: `Call (877) 497-0007 for immediate industrial response. We coordinate with facility security during transit, arriving with clearances or escort arrangements in place. Anti-corrosion treatment materials and extraction equipment are staged at the nearest building access point within 30 minutes.`,
-      timeframe: `Within 30 minutes`,
+      description: `Call (877) 497-0007 for immediate industrial response. We coordinate with facility security during transit, arriving with clearances or escort arrangements in place. Anti-corrosion treatment materials and extraction equipment are staged at the nearest building access point as quickly as conditions allow.`,
+      timeframe: `Initial response`,
     },
     {
       title: `Mission-Critical Assessment`,
@@ -54,7 +54,7 @@ Our Arlington industrial team navigates these constraints daily. We stage equipm
     {
       title: `Government Facility Security Requirements`,
       description: `Defense and government facilities near the Pentagon, in Crystal City, and throughout the Rosslyn corridor operate under security protocols that restrict contractor access, prohibit certain equipment types, and require background checks or escorts for restoration personnel.`,
-      solution: `We maintain personnel with appropriate clearance levels and establish pre-incident access agreements with facility security offices. For immediate emergencies, our coordination team arranges escort protocols during dispatch to eliminate access delays upon arrival.`,
+      solution: `We maintain personnel with appropriate clearance levels and establish pre-incident access agreements with facility security workspaces. For immediate emergencies, our coordination team arranges escort protocols during dispatch to eliminate access delays upon arrival.`,
     },
     {
       title: `Data Center and Server Room Recovery`,
@@ -133,7 +133,7 @@ Our Arlington industrial team navigates these constraints daily. We stage equipm
       `Nauck`,
       `Penrose`,
     ],
-    responseTime: `30-minute emergency response to all Arlington commercial and government facilities. Security coordination begins during dispatch to ensure immediate facility access upon crew arrival.`,
+    responseTime: `prompt emergency response to all Arlington commercial and government facilities. Security coordination begins during dispatch to ensure immediate facility access upon crew arrival.`,
   },
   faqs: [
     {
@@ -158,7 +158,7 @@ Our Arlington industrial team navigates these constraints daily. We stage equipm
     },
     {
       question: `What about hazardous materials in commercial buildings?`,
-      answer: `Our HAZWOPER-certified technicians assess and manage hazardous materials including chemicals, asbestos, and lead paint in older Arlington commercial buildings. We maintain EPA and OSHA compliance documentation and coordinate with licensed disposal facilities for proper waste management.`,
+      answer: `Our safety-trained technicians assess and manage hazardous materials including chemicals, asbestos, and lead paint in older Arlington commercial buildings. We maintain EPA and OSHA compliance documentation and coordinate with licensed disposal facilities for proper waste management.`,
     },
   ],
   relatedBlogSlugs: [
@@ -166,6 +166,6 @@ Our Arlington industrial team navigates these constraints daily. We stage equipm
   ],
   finalCTA: {
     headline: `Commercial or Government Facility Emergency in Arlington?`,
-    paragraph: `Mission-critical operations and high-value equipment cannot wait for standard restoration timelines. Our security-aware, industrially-equipped crews respond to Arlington facilities within 30 minutes with anti-corrosion treatment and extraction capability. Call (877) 497-0007 immediately.`,
+    paragraph: `Mission-critical operations and high-value equipment cannot wait for standard restoration timelines. Our security-aware, industrially-equipped crews respond to Arlington facilities as quickly as conditions allow with anti-corrosion treatment and extraction capability. Call (877) 497-0007 immediately.`,
   },
 }

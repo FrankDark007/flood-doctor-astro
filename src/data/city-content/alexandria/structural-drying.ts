@@ -3,26 +3,26 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Structural Drying Services in Alexandria, VA | Flood Doctor',
-    description: `Alexandria's structural drying experts. Historic preservation-compliant drying for Old Town, Del Ray & Belle Haven. BAR-aware restoration. Call (877) 497-0007.`,
+    description: `Alexandria's structural drying specialists. Historic preservation-compliant drying for Old Town, Del Ray & Belle Haven. BAR-aware restoration. Call (877) 497-0007.`,
   },
   h1: 'Structural Drying Services in Alexandria, Virginia',
   introSection: {
     headline: 'Historic-Sensitive Structural Drying for Alexandria Properties',
     paragraphs: [
-      `Structural drying in Alexandria demands expertise that bridges restoration science and historic preservation. When water floods the original plaster walls of an Old Town rowhouse built in 1820, standard drying methods can cause more damage than the water itself — over-drying cracks irreplaceable horsehair plaster, excessive air movement displaces lime mortar between historic bricks, and careless equipment placement scratches heart pine flooring that has survived two centuries. At the same time, under-drying invites mold growth that threatens both the structure and your family's health.
+      `Structural drying in Alexandria demands experience that bridges restoration science and historic preservation. When water floods the original plaster walls of an Old Town rowhouse built in 1820, standard drying methods can cause more damage than the water itself — over-drying cracks irreplaceable horsehair plaster, excessive air movement displaces lime mortar between historic bricks, and careless equipment placement scratches heart pine flooring that has survived two centuries. At the same time, under-drying invites mold growth that threatens both the structure and your family's health.
 
 Flood Doctor's structural drying technicians have dried properties throughout Alexandria's historic districts — from King Street rowhouses with original plaster and hand-hewn timber framing to Rosemont colonials with mixed-era construction spanning multiple renovation periods. We have preserved original lath-and-plaster ceilings in Del Ray bungalows, dried stone foundation walls in Old Town Waterfront properties without disrupting lime mortar joints, and managed moisture in Belle Haven homes where the high water table near the Potomac creates persistent hydrostatic pressure against basement walls.`,
       `The psychrometric approach to historic Alexandria properties must account for materials rarely found in modern construction. Original plaster absorbs and releases moisture differently than modern drywall — it requires slower, more controlled drying to prevent cracking. Solid masonry walls constructed with lime mortar must retain some moisture to maintain joint integrity; aggressive drying destabilizes the mortar that holds the structure together. Heart pine and old-growth timber framing has different moisture equilibrium than modern dimensional lumber.
 
-Our IICRC-certified technicians calculate material-specific drying parameters for every substrate in your historic home. We use injection drying systems that address moisture inside wall cavities without removing irreplaceable plaster surfaces. Desiccant dehumidifiers provide the controlled low-humidity environment needed for delicate historic materials. And every step is documented with the detail that both insurance adjusters and the Board of Architectural Review may require — because in Alexandria, restoration work on historic properties often involves regulatory compliance alongside structural recovery.`,
+Our trained technicians calculate material-specific drying parameters for every substrate in your historic home. We use injection drying systems that address moisture inside wall cavities without removing irreplaceable plaster surfaces. Desiccant dehumidifiers provide the controlled low-humidity environment needed for delicate historic materials. And every step is documented with the detail that both insurance adjusters and the Board of Architectural Review may require — because in Alexandria, restoration work on historic properties often involves regulatory compliance alongside structural recovery.`,
     ],
     localContext: `Alexandria's unique blend of 18th-century rowhouses, older infrastructure, and Potomac-adjacent properties requires structural drying that respects historic materials, understands BAR compliance requirements, and addresses the persistent moisture challenges of this waterfront city.`,
   },
   processSteps: [
     {
       title: 'Emergency Response with Historic Awareness',
-      description: `Call (877) 497-0007 and our Alexandria-experienced crews arrive within 30 minutes. We immediately assess both the water damage and the historic materials at risk — original plaster, timber framing, stone foundations, and period-specific finishes that require preservation-sensitive drying approaches in Old Town, Del Ray, and Rosemont.`,
-      timeframe: 'Within 30 minutes',
+      description: `Call (877) 497-0007 and our Alexandria-experienced crews arrive as quickly as conditions allow. We immediately assess both the water damage and the historic materials at risk — original plaster, timber framing, stone foundations, and period-specific finishes that require preservation-sensitive drying approaches in Old Town, Del Ray, and Rosemont.`,
+      timeframe: 'Initial response',
     },
     {
       title: 'Material-Specific Moisture Assessment',
@@ -64,7 +64,7 @@ Our IICRC-certified technicians calculate material-specific drying parameters fo
     {
       title: 'Combined Sewer Overflow Contamination',
       description: 'Old Town Alexandria operates on a combined sewer system where heavy rainfall overwhelms capacity, causing sewage-contaminated water to back up into basements through floor drains and plumbing fixtures. This Category 3 water requires hazardous material protocols that complicate the drying process.',
-      solution: 'We follow IICRC S500 Category 3 protocols: contaminated materials that cannot be decontaminated are removed, affected areas are treated with antimicrobials, and drying proceeds with air scrubbing to prevent biohazard exposure. All work is documented for insurance claims and health department requirements.',
+      solution: 'We follow Category 3 protocols: contaminated materials that cannot be decontaminated are removed, affected areas are treated with antimicrobials, and drying proceeds with air scrubbing to prevent biohazard exposure. All work is documented for insurance claims and health department requirements.',
     },
     {
       title: 'Cast Iron Pipe Failures in Older Infrastructure',
@@ -74,7 +74,7 @@ Our IICRC-certified technicians calculate material-specific drying parameters fo
     {
       title: 'Board of Architectural Review Compliance',
       description: 'Restoration work visible from public rights-of-way in Alexandria historic districts may require BAR approval. Even interior work that affects the exterior appearance — such as replacing damaged historic windows or modifying exterior drainage — falls under regulatory review that can delay restoration timelines.',
-      solution: 'We document all work with BAR requirements in mind, preserving original materials whenever possible and photographing pre-loss conditions. When exterior modifications are needed, we provide documentation supporting approval applications and recommend preservation-specialist contractors for compliant repairs.',
+      solution: 'We document all work with BAR requirements in mind, preserving original materials whenever possible and photographing existing conditions. When exterior modifications are needed, we provide documentation supporting approval applications and recommend preservation-specialist contractors for compliant repairs.',
     },
   ],
   equipmentSection: {
@@ -144,7 +144,7 @@ Our IICRC-certified technicians calculate material-specific drying parameters fo
       'Eisenhower Valley',
       'Mount Vernon',
     ],
-    responseTime: '30-minute response to all Alexandria neighborhoods. Our crews are experienced with the narrow streets, limited parking, and building access challenges of Old Town, Del Ray, and the Waterfront district.',
+    responseTime: 'prompt response to all Alexandria neighborhoods. Our crews are experienced with the narrow streets, limited parking, and building access challenges of Old Town, Del Ray, and the Waterfront district.',
   },
   faqs: [
     {
@@ -153,11 +153,11 @@ Our IICRC-certified technicians calculate material-specific drying parameters fo
     },
     {
       question: 'How do you handle sewage backup drying in Old Town?',
-      answer: 'Combined sewer overflows require IICRC Category 3 hazardous protocols. We remove contaminated porous materials that cannot be decontaminated, apply antimicrobials to structural surfaces, and dry with HEPA air scrubbing to prevent biohazard exposure. All work is documented for insurance claims and meets health requirements.',
+      answer: 'Combined sewer overflows require Category 3 hazardous protocols. We remove contaminated porous materials that cannot be decontaminated, apply antimicrobials to structural surfaces, and dry with HEPA air scrubbing to prevent biohazard exposure. All work is documented for insurance claims and meets health requirements.',
     },
     {
       question: 'Will structural drying affect my BAR compliance?',
-      answer: 'We prioritize preserving original materials to avoid triggering BAR review. Our injection drying and controlled-rate techniques are designed to save historic surfaces. When material removal is unavoidable, we document pre-loss conditions and can provide supporting documentation for BAR applications.',
+      answer: 'We prioritize preserving original materials to avoid triggering BAR review. Our injection drying and controlled-rate techniques are designed to save historic surfaces. When material removal is unavoidable, we document existing conditions and can provide supporting documentation for BAR applications.',
     },
     {
       question: 'How long does drying take in a historic Alexandria home?',
@@ -169,7 +169,7 @@ Our IICRC-certified technicians calculate material-specific drying parameters fo
     },
     {
       question: 'Do you work with Alexandria historic preservation specialists?',
-      answer: 'Yes. We coordinate with preservation contractors, masonry specialists, and plaster restoration experts when your historic property requires specialized repairs after drying. Our role is to dry the structure safely; specialized craftspeople then restore materials to historic standards.',
+      answer: 'Yes. We coordinate with preservation contractors, masonry specialists, and plaster restoration specialists when your historic property requires specialized repairs after drying. Our role is to dry the structure safely; specialized craftspeople then restore materials to historic standards.',
     },
   ],
   relatedBlogSlugs: [
@@ -178,6 +178,6 @@ Our IICRC-certified technicians calculate material-specific drying parameters fo
   ],
   finalCTA: {
     headline: 'Water Damage in Your Alexandria Home?',
-    paragraph: 'Historic materials suffer irreversible damage when drying is delayed or performed incorrectly. Our Alexandria team combines psychrometric science with preservation expertise to dry your home safely. Call (877) 497-0007 for immediate response that protects both your structure and its historic character.',
+    paragraph: 'Historic materials suffer irreversible damage when drying is delayed or performed incorrectly. Our Alexandria team combines psychrometric science with preservation experience to dry your home safely. Call (877) 497-0007 for immediate response that protects both your structure and its historic character.',
   },
 }

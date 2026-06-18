@@ -3,18 +3,18 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Large Loss Restoration in Fairfax, VA | Flood Doctor',
-    description: `Fairfax large loss restoration for office complexes, institutional buildings & multi-tenant commercial properties. Dedicated project management. Call (877) 497-0007.`,
+    description: `Fairfax large loss restoration for business complexes, institutional buildings & multi-tenant commercial properties. Dedicated project management. Call (877) 497-0007.`,
   },
   h1: 'Large Loss Restoration in Fairfax, Virginia',
   introSection: {
     headline: `Comprehensive Large Loss Management for Fairfax Commercial Properties`,
     paragraphs: [
-      `Large loss events in Fairfax typically strike the established commercial infrastructure that serves this family-oriented community—a catastrophic sprinkler activation flooding an entire wing of a Kings Park office complex, a storm event devastating a multi-building Burke Centre retail development, or a major pipe failure cascading through a Mantua medical office building housing a dozen practices. These events generate restoration projects measured in hundreds of thousands or millions of dollars, requiring dedicated project management that coordinates multiple tenants, insurance carriers, and specialized work crews over weeks or months. The community-serving businesses affected—medical practices, childcare centers, professional offices—cannot simply relocate while waiting for unmanaged restoration to proceed at its own pace.
+      `Large loss events in Fairfax typically strike the established commercial infrastructure that serves this family-oriented community—a catastrophic sprinkler activation flooding an entire wing of a Kings Park workspace complex, a storm event devastating a multi-building Burke Centre retail development, or a major pipe failure cascading through a Mantua medical commercial building housing a dozen practices. These events generate restoration projects measured in hundreds of thousands or millions of dollars, requiring dedicated project management that coordinates multiple tenants, insurance carriers, and specialized work crews over weeks or months. The community-serving businesses affected—medical practices, childcare centers, professional workspaces—cannot simply relocate while waiting for unmanaged restoration to proceed at its own pace.
 
-Flood Doctor's large loss division has managed significant commercial restoration projects throughout Fairfax. Our senior project directors have coordinated multi-phase restorations of office complexes near George Mason University, managed institutional building recoveries in the Fairfax City area, and delivered multi-tenant retail center restorations near Burke Lake Park—bringing professional project management discipline to projects that require it.`,
-      `Fairfax's large loss landscape involves building stock predominantly from the 1970s through 1990s—an era when commercial construction used materials and systems that create specific restoration challenges at scale. Asbestos-containing materials in ceiling tiles, floor tiles, and pipe insulation may be disturbed during restoration, requiring licensed abatement. Multi-suite office buildings share mechanical systems that complicate isolating affected areas. And the aging infrastructure that caused many of these events—corroded pipes, failing water heaters, deteriorated roofing—may need systemic replacement alongside the restoration of damage already caused.
+Flood Doctor's large loss division has managed significant commercial restoration projects throughout Fairfax. Our senior project directors have coordinated multi-phase restorations of business complexes near George Mason University, managed institutional building recoveries in the Fairfax City area, and delivered multi-tenant retail center restorations near Burke Lake Park—bringing professional project management discipline to projects that require it.`,
+      `Fairfax's large loss landscape involves building stock predominantly from the 1970s through 1990s—an era when commercial construction used materials and systems that create specific restoration challenges at scale. Asbestos-containing materials in ceiling tiles, floor tiles, and pipe insulation may be disturbed during restoration, requiring licensed abatement. Multi-suite commercial buildings share mechanical systems that complicate isolating affected areas. And the aging infrastructure that caused many of these events—corroded pipes, failing water heaters, deteriorated roofing—may need systemic replacement alongside the restoration of damage already caused.
 
-Our project directors assess these systemic issues during initial damage evaluation, incorporating infrastructure replacement into restoration plans where appropriate. This comprehensive approach prevents the situation where a building is restored to pre-loss condition only to experience a similar failure from adjacent aging infrastructure within months. For Fairfax commercial property owners, this practical foresight reduces long-term risk alongside addressing the immediate crisis.`,
+Our project directors assess these systemic issues during initial damage evaluation, incorporating infrastructure replacement into restoration plans where appropriate. This comprehensive approach prevents the situation where a building is restored to documented repair condition only to experience a similar failure from adjacent aging infrastructure within months. For Fairfax commercial property owners, this practical foresight reduces long-term risk alongside addressing the immediate crisis.`,
     ],
     localContext: `Fairfax's 1970s-90s commercial building stock creates large loss scenarios complicated by aging infrastructure, potential asbestos-containing materials, and shared mechanical systems—requiring project directors who address both immediate damage and systemic building conditions.`,
   },
@@ -41,7 +41,7 @@ Our project directors assess these systemic issues during initial damage evaluat
     },
     {
       title: 'Tenant Space Reconstruction',
-      description: 'Our construction division rebuilds affected tenant spaces, coordinating individual tenant requirements—medical offices with specific buildout needs, retail spaces with customer-facing priorities, professional offices requiring data and telecom restoration.',
+      description: 'Our construction division rebuilds affected tenant spaces, coordinating individual tenant requirements—medical workspaces with specific buildout needs, retail spaces with customer-facing priorities, professional workspaces requiring data and telecom restoration.',
       timeframe: 'Weeks 4-12+',
     },
     {
@@ -58,17 +58,17 @@ Our project directors assess these systemic issues during initial damage evaluat
     },
     {
       title: 'Shared Mechanical Systems Creating Cascading Damage',
-      description: 'Fairfax office parks often share HVAC, plumbing, and electrical systems across multiple tenant suites. A failure in one area propagates through shared infrastructure, affecting tenants far from the original source. Restoration must address both the damage and the shared system that distributed it.',
+      description: 'Fairfax business parks often share HVAC, plumbing, and electrical systems across multiple tenant suites. A failure in one area propagates through shared infrastructure, affecting tenants far from the original source. Restoration must address both the damage and the shared system that distributed it.',
       solution: 'We assess the full shared system—not just the damaged section—and integrate systemic repairs into the restoration plan. Building engineers evaluate the shared infrastructure to identify additional failure risks, and proactive repairs prevent sequential events during or after restoration.',
     },
     {
       title: 'Community-Serving Business Displacement',
       description: `Large loss events in Fairfax displace medical practices, childcare facilities, and professional services that families depend on. Extended restoration timelines create community impact beyond the property owners' financial losses.`,
-      solution: 'We prioritize community-critical businesses in phased restoration plans, working to return medical offices, childcare centers, and essential services first. Accelerated scheduling options compress timelines for highest-impact tenants while standard restoration continues in less time-sensitive areas.',
+      solution: 'We prioritize community-critical businesses in phased restoration plans, working to return medical workspaces, childcare centers, and essential services first. Accelerated scheduling options compress timelines for highest-impact tenants while standard restoration continues in less time-sensitive areas.',
     },
     {
       title: 'Multi-Carrier Insurance Coordination',
-      description: 'Large loss events in multi-tenant Fairfax office buildings generate simultaneous claims with different carriers, each with their own adjusters, documentation requirements, and payment schedules. Uncoordinated insurance processes can delay restoration decisions.',
+      description: 'Large loss events in multi-tenant Fairfax commercial buildings generate simultaneous claims with different carriers, each with their own adjusters, documentation requirements, and payment schedules. Uncoordinated insurance processes can delay restoration decisions.',
       solution: 'Our estimators maintain separate claim files for each carrier while our project director manages the integrated restoration schedule. We facilitate multi-party meetings when decisions affect shared building elements, ensuring insurance disputes do not stall the restoration timeline.',
     },
   ],
@@ -110,7 +110,7 @@ Our project directors assess these systemic issues during initial damage evaluat
     factors: [
       'Total affected area and building system damage—shared mechanical system failures can produce building-wide restoration scope from a single source',
       'Hazardous material abatement—asbestos-containing materials in pre-1990 buildings add licensed abatement costs and regulatory compliance scope',
-      'Tenant count and buildout complexity—medical, childcare, and specialized office buildouts add reconstruction complexity beyond standard commercial',
+      'Tenant count and buildout complexity—medical, childcare, and specialized workspace buildouts add reconstruction complexity beyond standard commercial',
       'Infrastructure replacement scope—addressing aging systems that caused the event alongside restoring the damage may add upfront cost but prevents recurrence',
       'Phased reopening requirements—accelerated schedules for community-critical businesses carry expanded crew costs',
     ],
@@ -131,20 +131,20 @@ Our project directors assess these systemic issues during initial damage evaluat
       'Pickett Road Corridor',
       'Lee Highway Business Area',
     ],
-    responseTime: 'Emergency stabilization within 60 minutes to Fairfax commercial properties. Full large loss mobilization including hazardous material assessment scales within 12-24 hours.',
+    responseTime: 'Emergency stabilization as quickly as conditions allow to Fairfax commercial properties. Full large loss mobilization including hazardous material assessment scales within 12-24 hours.',
   },
   faqs: [
     {
       question: 'What size commercial projects can you handle in Fairfax?',
-      answer: 'We manage large loss projects from $250,000 to several million dollars in Fairfax. Our team has experience with multi-building office complexes, institutional facilities, and retail developments throughout the Burke, Kings Park, and Fairfax City areas.',
+      answer: 'We manage large loss projects from $250,000 to several million dollars in Fairfax. Our team has experience with multi-building business complexes, institutional facilities, and retail developments throughout the Burke, Kings Park, and Fairfax City areas.',
     },
     {
-      question: 'What about asbestos in our older Fairfax office building?',
+      question: 'What about asbestos in our older Fairfax commercial building?',
       answer: 'We include hazardous material assessment in every large loss evaluation of pre-1990 buildings. When asbestos-containing materials are identified, licensed abatement is integrated into the project schedule rather than discovered mid-restoration, preventing costly delays.',
     },
     {
       question: 'Can you prioritize our medical practice for faster restoration?',
-      answer: 'Yes. We offer accelerated scheduling for community-critical businesses—medical offices, childcare facilities, and essential services—within our phased restoration plans. Your practice can be prioritized for earliest return while standard restoration continues in less time-sensitive areas.',
+      answer: 'Yes. We offer accelerated scheduling for community-critical businesses—medical workspaces, childcare facilities, and essential services—within our phased restoration plans. Your practice can be prioritized for earliest return while standard restoration continues in less time-sensitive areas.',
     },
     {
       question: 'How do you handle multiple insurance carriers in one building?',

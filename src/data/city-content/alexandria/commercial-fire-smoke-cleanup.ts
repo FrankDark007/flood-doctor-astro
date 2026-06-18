@@ -3,14 +3,14 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: `Commercial Fire & Smoke Cleanup in Alexandria, VA | Flood Doctor`,
-    description: `Alexandria's trusted commercial fire and smoke restoration team. Emergency response for Old Town historic buildings, Carlyle offices, and Del Ray commercial properties. Call (877) 497-0007.`,
+    description: `Alexandria's local commercial fire and smoke restoration team. Emergency response for Old Town historic buildings, Carlyle workspaces, and Del Ray commercial properties. Call (877) 497-0007.`,
   },
   h1: `Commercial Fire & Smoke Cleanup in Alexandria, Virginia`,
   introSection: {
     headline: `Fire and Smoke Restoration for Alexandria's Historic and Modern Commercial Districts`,
     paragraphs: [
-      `Fire damage to an Alexandria commercial property carries consequences that extend beyond structural destruction. A kitchen fire in an Old Town waterfront restaurant produces protein smoke that permeates irreplaceable historic woodwork and plaster. An electrical fire in a Carlyle office building triggers sprinkler activation that floods multiple floors while smoke migrates through shared HVAC ductwork. A fire at a Del Ray retail space along Mount Vernon Avenue threatens the entire row of shared-wall commercial buildings. Alexandria's mix of historic and modern construction, combined sewer system complications from firefighting water, and tourism-dependent economy demand fire restoration that addresses both the physical damage and the complex regulatory environment. Flood Doctor delivers integrated commercial fire restoration from emergency stabilization through reconstruction for every Alexandria property type.`,
-      `Smoke damage in Alexandria commercial buildings often creates more total loss than the fire itself. Historic Old Town buildings feature interconnected attic spaces, shared chimneys, and wall cavities that channel smoke far beyond the fire origin. Modern office buildings in Potomac Yard and Eisenhower Valley distribute smoke through centralized HVAC systems to every connected floor. Soot residue on electronics in Kingstowne office suites causes corrosive damage that compounds hourly without anti-corrosion treatment. Our multi-discipline approach deploys fire cleanup, smoke decontamination, water extraction, and content restoration crews simultaneously—critical for Alexandria businesses where every day of closure costs revenue and customer relationships.`,
+      `Fire damage to an Alexandria commercial property carries consequences that extend beyond structural destruction. A kitchen fire in an Old Town waterfront restaurant produces protein smoke that permeates irreplaceable historic woodwork and plaster. An electrical fire in a Carlyle commercial building triggers sprinkler activation that floods multiple floors while smoke migrates through shared HVAC ductwork. A fire at a Del Ray retail space along Mount Vernon Avenue threatens the entire row of shared-wall commercial buildings. Alexandria's mix of historic and modern construction, combined sewer system complications from firefighting water, and tourism-dependent economy demand fire restoration that addresses both the physical damage and the complex regulatory environment. Flood Doctor delivers integrated commercial fire restoration from emergency stabilization through reconstruction for every Alexandria property type.`,
+      `Smoke damage in Alexandria commercial buildings often creates more total loss than the fire itself. Historic Old Town buildings feature interconnected attic spaces, shared chimneys, and wall cavities that channel smoke far beyond the fire origin. Modern commercial buildings in Potomac Yard and Eisenhower Valley distribute smoke through centralized HVAC systems to every connected floor. Soot residue on electronics in Kingstowne business suites causes corrosive damage that compounds hourly without anti-corrosion treatment. Our multi-discipline approach deploys fire cleanup, smoke decontamination, water extraction, and content restoration crews simultaneously—critical for Alexandria businesses where every day of closure costs revenue and customer relationships.`,
     ],
     localContext: `Alexandria's irreplaceable historic building stock, shared-wall commercial architecture, tourism-dependent economy, and mix of centuries-old and modern construction require fire restoration that balances preservation sensitivity with restoration urgency.`,
   },
@@ -32,7 +32,7 @@ export const content: CityServiceContent = {
     },
     {
       title: `Historic Content and Modern Equipment Restoration`,
-      description: `Antique furnishings in Old Town commercial spaces receive specialized smoke damage treatment. Modern office equipment and electronics get anti-corrosion treatment and ultrasonic cleaning. All items are catalogued and documented for insurance valuation.`,
+      description: `Antique furnishings in Old Town commercial spaces receive specialized smoke damage treatment. Modern workspace equipment and electronics get anti-corrosion treatment and ultrasonic cleaning. All items are catalogued and documented for insurance valuation.`,
       timeframe: `Days 2-10`,
     },
     {
@@ -81,7 +81,7 @@ export const content: CityServiceContent = {
       },
       {
         name: `HVAC Decontamination Equipment`,
-        purpose: `Clean smoke residue from commercial ductwork in Carlyle, Potomac Yard, and Kingstowne modern office buildings`,
+        purpose: `Clean smoke residue from commercial ductwork in Carlyle, Potomac Yard, and Kingstowne modern commercial buildings`,
       },
       {
         name: `Ultrasonic Content Restoration`,
@@ -129,7 +129,7 @@ export const content: CityServiceContent = {
       `Mount Vernon Avenue`,
       `Old Town Waterfront`,
     ],
-    responseTime: `Emergency response within 2 hours to all Alexandria commercial properties. Board-up and stabilization crews available 24/7. We navigate Old Town access constraints and coordinate with Alexandria fire officials on building entry and safety clearance.`,
+    responseTime: `Prompt emergency response to all Alexandria commercial properties. Board-up and stabilization crews available 24/7. We navigate Old Town access constraints and coordinate with Alexandria fire officials on building entry and safety clearance.`,
   },
   faqs: [
     {
@@ -154,12 +154,12 @@ export const content: CityServiceContent = {
     },
     {
       question: `How does insurance work for fire damage to historic commercial properties?`,
-      answer: `Commercial fire policies cover restoration to pre-loss condition, which for historic properties means preservation-grade materials and techniques. We document the historic value and replacement requirements to ensure insurance coverage reflects the true cost of proper restoration.`,
+      answer: `Commercial fire policies cover restoration to documented repair condition, which for historic properties means preservation-grade materials and techniques. We document the historic value and replacement requirements to ensure insurance coverage reflects the true cost of proper restoration.`,
     },
   ],
   relatedBlogSlugs: ['water-damage-insurance-claim-guide'],
   finalCTA: {
     headline: `Commercial Fire Damage in Alexandria?`,
-    paragraph: `From Old Town's irreplaceable historic landmarks to Carlyle's modern office towers, our integrated fire restoration teams deliver emergency stabilization, professional smoke removal, and reconstruction that meets Alexandria's standards. Call (877) 497-0007 now.`,
+    paragraph: `From Old Town's irreplaceable historic landmarks to Carlyle's modern commercial towers, our integrated fire restoration teams deliver emergency stabilization, professional smoke removal, and reconstruction that meets Alexandria's standards. Call (877) 497-0007 now.`,
   },
 }

@@ -3,21 +3,21 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Environmental Testing in Arlington, VA | Flood Doctor',
-    description: `Arlington's certified environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for condos, rowhouses & multi-unit buildings in Rosslyn, Clarendon & Crystal City. Call (877) 497-0007.`,
+    description: `Arlington's environmental testing for asbestos, lead, mold & hazardous materials. AIHA-accredited lab analysis for condos, rowhouses & multi-unit buildings in Rosslyn, Clarendon & Crystal City. Call (877) 497-0007.`,
   },
   h1: 'Environmental Testing in Arlington, Virginia',
   introSection: {
     headline: `Certified Environmental Testing for Arlington Urban Properties`,
     paragraphs: [
       `Arlington presents environmental testing challenges concentrated by urban density and building diversity. Mid-century ramblers in Lyon Village contain asbestos floor tiles, pipe insulation, and joint compound that remain stable until renovation demolition releases fibers into occupied space. Historic rowhouses in Clarendon harbor lead-based paint on original trim, doors, and window assemblies beneath decades of subsequent coatings. High-rise condos in Rosslyn and Crystal City—some constructed with asbestos-containing fireproofing and mechanical insulation—require coordinated testing when building-wide renovations or individual unit remodels disturb these materials. Flood Doctor provides AIHA-accredited environmental testing calibrated for Arlington\`s full spectrum of building types, from 1920s bungalows to 30-story residential towers, delivering chain-of-custody laboratory analysis that satisfies regulatory requirements, HOA compliance, and health investigation needs.`,
-      `Our certified inspectors have sampled asbestos-containing fireproofing in Ballston high-rise mechanical rooms, identified lead paint on original 1940s trim in Shirlington colonials, and quantified elevated mold spore concentrations in Pentagon City condos where HVAC condensate leaks went undetected between floors. Arlington properties near the Pentagon and Arlington National Cemetery include government-adjacent buildings with strict environmental compliance requirements. Whether you are renovating a single condo unit requiring HOA notification, restoring a historic rowhouse subject to preservation guidelines, or managing a commercial building renovation near Clarendon Metro, our testing protocols produce the documentation that contractors, HOAs, and regulatory agencies require before work can proceed.`,
+      `Our environmental inspectors have sampled asbestos-containing fireproofing in Ballston high-rise mechanical rooms, identified lead paint on original 1940s trim in Shirlington colonials, and quantified elevated mold spore concentrations in Pentagon City condos where HVAC condensate leaks went undetected between floors. Arlington properties near the Pentagon and Arlington National Cemetery include government-adjacent buildings with strict environmental compliance requirements. Whether you are renovating a single condo unit requiring HOA notification, restoring a historic rowhouse subject to preservation guidelines, or managing a commercial building renovation near Clarendon Metro, our testing protocols produce the documentation that contractors, HOAs, and regulatory agencies require before work can proceed.`,
     ],
     localContext: `Arlington\`s building stock spans a century of construction, from pre-war bungalows and rowhouses with legacy hazardous materials to modern high-rise towers with complex mechanical systems requiring specialized environmental assessment protocols.`,
   },
   processSteps: [
     {
       title: 'Building Assessment and Scope Development',
-      description: `Our certified inspector evaluates your Arlington property against construction date, building type, renovation scope, and current concerns. For condos and multi-unit buildings, we coordinate with HOA management to establish testing scope, access requirements, and notification protocols before sampling begins.`,
+      description: `Our environmental inspector evaluates your Arlington property against construction date, building type, renovation scope, and current concerns. For condos and multi-unit buildings, we coordinate with HOA management to establish testing scope, access requirements, and notification protocols before sampling begins.`,
       timeframe: 'Hours 1-2',
     },
     {
@@ -42,7 +42,7 @@ export const content: CityServiceContent = {
     },
     {
       title: 'Accredited Laboratory Reporting',
-      description: `All samples are analyzed at AIHA-accredited laboratories with documented chain of custody. Results are compiled into a professional report citing applicable regulations—EPA NESHAP for asbestos, EPA RRP Rule for lead, IICRC S520 for mold—with specific findings, risk assessment, and remediation recommendations formatted for contractor, HOA, and regulatory use.`,
+      description: `All samples are analyzed at AIHA-accredited laboratories with documented chain of custody. Results are compiled into a professional report citing applicable regulations—EPA NESHAP for asbestos, EPA RRP Rule for lead, recognized mold-remediation for mold—with specific findings, risk assessment, and remediation recommendations formatted for contractor, HOA, and regulatory use.`,
       timeframe: 'Days 3-7',
     },
   ],
@@ -159,7 +159,7 @@ export const content: CityServiceContent = {
     },
     {
       question: 'Do you test commercial properties in Arlington?',
-      answer: `Yes. Our commercial environmental assessments cover office buildings, retail spaces, and mixed-use properties throughout Arlington. We follow OSHA, EPA NESHAP, and Virginia DEQ protocols, producing documentation that satisfies regulatory requirements for commercial renovation permitting and tenant notification.`,
+      answer: `Yes. Our commercial environmental assessments cover commercial buildings, retail spaces, and mixed-use properties throughout Arlington. We follow OSHA, EPA NESHAP, and Virginia DEQ protocols, producing documentation that satisfies regulatory requirements for commercial renovation permitting and tenant notification.`,
     },
   ],
   relatedBlogSlugs: [

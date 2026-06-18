@@ -9,20 +9,20 @@ export const content: CityServiceContent = {
   introSection: {
     headline: `Preserving Alexandria's Healthcare Facilities Through Expert Restoration`,
     paragraphs: [
-      `Alexandria's healthcare landscape spans from historic medical offices in converted Old Town rowhouses to modern clinical facilities in the Carlyle and Potomac Yard developments. Each setting presents distinct restoration challenges. A water event in an Old Town medical practice means navigating Board of Architectural Review requirements alongside HIPAA compliance. A burst pipe in a Kingstowne urgent care center threatens the high-volume patient flow that suburban families depend on. Specialty practices in Del Ray occupy older structures where original plaster walls, cast iron plumbing, and high water tables create persistent water intrusion risks.
+      `Alexandria's healthcare landscape spans from historic medical workspaces in converted Old Town rowhouses to modern clinical facilities in the Carlyle and Potomac Yard developments. Each setting presents distinct restoration challenges. A water event in an Old Town medical practice means navigating Board of Architectural Review requirements alongside HIPAA compliance. A burst pipe in a Kingstowne urgent care center threatens the high-volume patient flow that suburban families depend on. Specialty practices in Del Ray occupy older structures where original plaster walls, cast iron plumbing, and high water tables create persistent water intrusion risks.
 
-Flood Doctor delivers HIPAA-compliant restoration tailored to Alexandria's unique healthcare environment. Our ICRA-trained crews install infection control barriers that meet Joint Commission standards while preserving the historic character of Old Town medical buildings. We coordinate with the BAR when exterior restoration affects designated historic structures, manage asbestos and lead paint in pre-1978 medical offices, and maintain the meticulous documentation that Alexandria's healthcare administrators require for regulatory compliance and insurance resolution.`,
-      `Alexandria's geographic position along the Potomac River elevates water damage risks for healthcare facilities throughout the city. The high water table in Belle Haven and Old Town pushes groundwater into lower-level medical spaces during wet seasons. Combined sewer system backups in the historic district introduce Category 3 contamination requiring biohazard protocols in medical settings. The Rosemont neighborhood sits in a depression that collects stormwater runoff, threatening medical offices along the King Street corridor during heavy rain events.
+Flood Doctor delivers HIPAA-compliant restoration tailored to Alexandria's unique healthcare environment. Our ICRA-trained crews install infection control barriers that meet Joint Commission standards while preserving the historic character of Old Town medical buildings. We coordinate with the BAR when exterior restoration affects designated historic structures, manage asbestos and lead paint in pre-1978 medical workspaces, and maintain the meticulous documentation that Alexandria's healthcare administrators require for regulatory compliance and insurance resolution.`,
+      `Alexandria's geographic position along the Potomac River elevates water damage risks for healthcare facilities throughout the city. The high water table in Belle Haven and Old Town pushes groundwater into lower-level medical spaces during wet seasons. Combined sewer system backups in the historic district introduce Category 3 contamination requiring biohazard protocols in medical settings. The Rosemont neighborhood sits in a depression that collects stormwater runoff, threatening medical workspaces along the King Street corridor during heavy rain events.
 
-These location-specific risks demand a restoration partner with deep Alexandria knowledge. We understand which neighborhoods face chronic groundwater pressure, which sewer mains are most susceptible to backup, and which building types require specialized attention during restoration. Our teams have managed sewage intrusion in Old Town medical offices under full biohazard and HIPAA protocols simultaneously—a combination that requires expertise most restoration companies simply lack. Alexandria healthcare providers trust us to protect their patients, their equipment, and their regulatory standing.`,
+These location-specific risks demand a restoration partner with deep Alexandria knowledge. We understand which neighborhoods face chronic groundwater pressure, which sewer mains are most susceptible to backup, and which building types require specialized attention during restoration. Our teams have managed sewage intrusion in Old Town medical workspaces under full biohazard and HIPAA protocols simultaneously—a combination that requires experience most restoration companies simply lack. Alexandria healthcare providers trust us to protect their patients, their equipment, and their regulatory standing.`,
     ],
-    localContext: `Alexandria's mix of historic and modern healthcare facilities—facing Potomac flooding, combined sewer risks, and historic preservation requirements—demands restoration expertise that bridges healthcare compliance with the city's unique architectural and environmental challenges.`,
+    localContext: `Alexandria's mix of historic and modern healthcare facilities—facing Potomac flooding, combined sewer risks, and historic preservation requirements—demands restoration experience that bridges healthcare compliance with the city's unique architectural and environmental challenges.`,
   },
   processSteps: [
     {
       title: `Rapid Medical Facility Response`,
       description: `Call (877) 497-0007 for immediate healthcare facility deployment. Our Alexandria crews arrive with ICRA containment materials and HEPA filtration, coordinating with your facility manager to establish access protocols and identify the highest-priority clinical areas for protection.`,
-      timeframe: `Within 30 minutes`,
+      timeframe: `Initial response`,
     },
     {
       title: `Historic Structure and Hazmat Assessment`,
@@ -90,7 +90,7 @@ These location-specific risks demand a restoration partner with deep Alexandria 
       },
       {
         name: `Low-Temperature Dehumidifiers`,
-        purpose: `Controlled drying for historic hardwood floors and trim in older medical offices while maintaining pharmaceutical storage conditions`,
+        purpose: `Controlled drying for historic hardwood floors and trim in older medical workspaces while maintaining pharmaceutical storage conditions`,
         brand: `Dri-Eaz`,
       },
       {
@@ -110,7 +110,7 @@ These location-specific risks demand a restoration partner with deep Alexandria 
     intro: `Alexandria healthcare restoration costs reflect the dual complexity of medical compliance and historic building preservation. Combined sewer events require biohazard protocols that add to standard water damage restoration scope. We provide detailed estimates separating healthcare compliance, historic preservation, and standard restoration costs for accurate insurance submissions.`,
     factors: [
       `Water contamination category—combined sewer backups in Old Town require Category 3 biohazard protocols significantly expanding scope`,
-      `Historic building requirements—BAR compliance, plaster preservation, and specialty material handling in pre-1900 medical offices`,
+      `Historic building requirements—BAR compliance, plaster preservation, and specialty material handling in pre-1900 medical workspaces`,
       `Medical equipment at risk—diagnostic systems, imaging equipment, and pharmaceutical inventory requiring specialized recovery`,
       `ICRA containment complexity and infection control measures for adjacent patient care areas`,
       `Regulatory documentation for Joint Commission compliance, HIPAA incident reporting, and historic preservation records`,
@@ -133,11 +133,11 @@ These location-specific risks demand a restoration partner with deep Alexandria 
       `Cameron Station`,
       `King Street Corridor`,
     ],
-    responseTime: `30-minute emergency response to all Alexandria healthcare facilities. Our crews carry both ICRA containment and biohazard equipment, prepared for the combined sewer backup and historic building scenarios common throughout the city.`,
+    responseTime: `prompt emergency response to all Alexandria healthcare facilities. Our crews carry both ICRA containment and biohazard equipment, prepared for the combined sewer backup and historic building scenarios common throughout the city.`,
   },
   faqs: [
     {
-      question: `How do you handle sewage backup in an Old Town medical office?`,
+      question: `How do you handle sewage backup in an Old Town medical workspace?`,
       answer: `We activate dual protocols—Category 3 biohazard contamination cleanup and HIPAA-compliant PHI protection simultaneously. Our crews carry biohazard PPE, antimicrobial treatment systems, and chain-of-custody documentation for patient records exposed to contaminated water.`,
     },
     {
@@ -166,6 +166,6 @@ These location-specific risks demand a restoration partner with deep Alexandria 
   ],
   finalCTA: {
     headline: `Healthcare Facility Emergency in Alexandria?`,
-    paragraph: `Combined sewer risks and historic building complexity demand specialized healthcare restoration. Our HIPAA-compliant, ICRA-trained crews reach any Alexandria medical facility within 30 minutes with biohazard and preservation equipment. Call (877) 497-0007 now.`,
+    paragraph: `Combined sewer risks and historic building complexity demand specialized healthcare restoration. Our HIPAA-compliant, ICRA-trained crews reach any Alexandria medical facility as quickly as conditions allow with biohazard and preservation equipment. Call (877) 497-0007 now.`,
   },
 }

@@ -3,7 +3,7 @@ import type { CityServiceContent } from '../types'
 export const content: CityServiceContent = {
   meta: {
     title: 'Storm Damage Restoration in Fairfax, VA | Flood Doctor',
-    description: 'Fairfax storm damage restoration. 30-min response for roof leaks, wind damage, fallen trees & flooding. Burke, Burke Centre, Kings Park, Mantua. Call (877) 497-0007.',
+    description: 'Fairfax storm damage restoration. prompt response for roof leaks, wind damage, fallen trees & flooding. Burke, Burke Centre, Kings Park, Mantua. Call (877) 497-0007.',
   },
   h1: 'Storm Damage Restoration in Fairfax, Virginia',
   introSection: {
@@ -14,15 +14,15 @@ export const content: CityServiceContent = {
 Flood Doctor has responded to storm damage throughout Fairfax for nearly two decades. We were there after the 2012 derecho, after countless tropical storm remnants, and after the microbursts that seem to target specific neighborhoods with uncanny precision. When Mantua's mature oaks bring down power lines and Burke Centre's tree canopy lands on rooftops, our crews deploy across the community—tarping, extracting, drying, and helping families start the recovery process.`,
       `Storm damage is chaotic. A single event can bring roof damage, wind-driven rain intrusion, flooding from overwhelmed drainage, and power outages that disable sump pumps. Your Burke colonial might have a tree through the roof while water pours into the basement from a failed sump. Your Kings Park split-level might have intact structure but three inches of rainwater on the lower level. Each situation requires different response—and often multiple responses simultaneously.
 
-Our IICRC-certified crews are trained for the complete spectrum of storm damage. We coordinate tarping with extraction with drying with debris removal. We work during the chaos of active storms, reaching homes while rain is still falling. And we handle the insurance documentation that Fairfax families need to recover—photos, measurements, logs, and estimates that support complete claims.`,
+Our trained crews are trained for the complete spectrum of storm damage. We coordinate tarping with extraction with drying with debris removal. We work during the chaos of active storms, reaching homes while rain is still falling. And we handle the insurance documentation that Fairfax families need to recover—photos, measurements, logs, and estimates that support well-documented claims.`,
     ],
     localContext: 'Fairfax faces regular storm threats: summer thunderstorms and derechos, tropical system remnants, winter ice storms, and occasional tornado touchdowns. The mature tree canopy that makes our neighborhoods beautiful also creates falling hazards during high winds.',
   },
   processSteps: [
     {
       title: 'Storm-Event Dispatch Protocol',
-      description: 'During significant storms, we activate our emergency protocol—pre-positioning crews, checking equipment, and monitoring weather and call volume. When you call (877) 497-0007 about storm damage, we dispatch immediately, working through road closures and debris to reach your Fairfax home.',
-      timeframe: 'Within 30 minutes when conditions allow',
+      description: 'During significant storms, we activate our emergency protocol—planning service-area crew coverage, checking equipment, and monitoring weather and call volume. When you call (877) 497-0007 about storm damage, we dispatch immediately, working through road closures and debris to reach your Fairfax home.',
+      timeframe: 'Initial response when conditions allow',
     },
     {
       title: 'Multi-Damage Assessment',
@@ -140,7 +140,7 @@ Our IICRC-certified crews are trained for the complete spectrum of storm damage.
       'Oak Hill',
       'Pickett Road Area',
     ],
-    responseTime: '30-minute storm damage response throughout Fairfax when road conditions allow. During major events, we triage by severity and deploy multiple crews to reach homes as quickly as possible.',
+    responseTime: 'prompt storm damage response throughout Fairfax when road conditions allow. During major events, we triage by severity and deploy multiple crews to reach homes as quickly as possible.',
   },
   faqs: [
     {
@@ -165,11 +165,11 @@ Our IICRC-certified crews are trained for the complete spectrum of storm damage.
     },
     {
       question: 'Can you help with both water damage and the structural repairs?',
-      answer: 'We handle all water damage aspects—extraction, drying, mold prevention. For major structural repairs like roof replacement or wall reconstruction, we can recommend and coordinate with trusted Fairfax contractors. We manage the water damage while they handle structural rebuilding.',
+      answer: 'We handle all water damage aspects—extraction, drying, mold prevention. For major structural repairs like roof replacement or wall reconstruction, we can recommend and coordinate with qualified Fairfax-area contractors. We manage the water damage while they handle structural rebuilding.',
     },
     {
       question: 'How long does storm damage restoration take?',
-      answer: 'Emergency tarping and water extraction happen within hours. Structural drying typically takes 3-5 days. Full restoration—including reconstruction of damaged areas—can take weeks depending on damage extent and contractor availability. We can provide timelines after assessment.',
+      answer: 'Emergency tarping and water extraction happen promptly. Structural drying typically takes 3-5 days. Full restoration—including reconstruction of damaged areas—can take weeks depending on damage extent and contractor availability. We can provide timelines after assessment.',
     },
   ],
   relatedBlogSlugs: [
