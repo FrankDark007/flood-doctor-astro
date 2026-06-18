@@ -411,10 +411,14 @@ const faqs = [
     gap: 0.85rem;
     align-items: center;
     margin-top: 1.75rem;
+    max-width: 100%;
+    min-width: 0;
   }
 
   .button {
     display: inline-flex;
+    max-width: 100%;
+    min-width: 0;
     min-height: 3rem;
     align-items: center;
     justify-content: center;
@@ -422,9 +426,10 @@ const faqs = [
     padding: 0.8rem 1.15rem;
     font-size: 0.94rem;
     font-weight: 850;
-    line-height: 1;
+    line-height: 1.15;
     text-decoration: none;
     transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+    white-space: normal;
   }
 
   .button:hover {
@@ -801,17 +806,26 @@ const faqs = [
 
   @media (max-width: 560px) {
     .section-shell {
-      width: min(100% - 1rem, 1120px);
+      width: min(100% - 1.25rem, 1120px);
     }
 
     .hero-section {
       padding-top: 4.75rem;
     }
 
+    .hero-bg {
+      inset: auto 0 -8rem auto;
+      width: min(18rem, 65vw);
+    }
+
     h1 {
+      width: min(100%, 9.75ch);
       max-width: 100%;
-      font-size: clamp(2.4rem, 13vw, 3.25rem);
-      letter-spacing: -0.06em;
+      font-size: clamp(2.1rem, 10.8vw, 2.9rem);
+      letter-spacing: -0.052em;
+      line-height: 0.98;
+      overflow-wrap: break-word;
+      text-wrap: balance;
     }
 
     h2 {
