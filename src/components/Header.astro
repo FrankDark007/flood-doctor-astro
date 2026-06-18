@@ -26,7 +26,7 @@ const currentPath = Astro.url.pathname
     <!-- Mobile menu button (React island) -->
     <div class="flex lg:hidden">
       <MobileMenu
-        client:load
+        client:idle
         navigation={mainNavigation}
         secondaryNav={secondaryNavigation}
         phone={cityData.phone}

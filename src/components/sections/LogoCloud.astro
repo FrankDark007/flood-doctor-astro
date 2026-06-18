@@ -4,16 +4,30 @@ interface Props {
 }
 
 const { cityName } = Astro.props
+
+// Honest, text-based trust signals. The previous version shipped Tailwind UI
+// demo logos (transistor/reform/tuple/savvycal/statamic) mislabeled as
+// IICRC/RIA/EPA/BBB/State Farm — fake certification badges, a liability.
+// Replace with plain claims we can stand behind. Restore real badge SVGs
+// (verified) here only once we have licensed/owned assets.
+const trustSignals = [
+  'Licensed & Insured',
+  'IICRC-Certified Technicians',
+  '24/7 Emergency Response',
+  'Direct Insurance Billing',
+  'Locally Owned & Operated',
+]
 ---
 
 <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
-    <div class="mx-auto grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-12 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 sm:gap-y-14 lg:mx-0 lg:max-w-none lg:grid-cols-5">
-      <img alt="IICRC Certified" src="https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg" width="158" height="48" class="col-span-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0 lg:col-span-1" />
-      <img alt="RIA Member" src="https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg" width="158" height="48" class="col-span-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0 lg:col-span-1" />
-      <img alt="EPA Lead-Safe" src="https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg" width="158" height="48" class="col-span-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0 lg:col-span-1" />
-      <img alt="BBB Accredited" src="https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg" width="158" height="48" class="col-span-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0 sm:col-start-2 lg:col-span-1" />
-      <img alt="State Farm Partner" src="https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg" width="158" height="48" class="col-span-2 col-start-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0 sm:col-start-auto lg:col-span-1" />
+    <h2 class="text-center text-lg/8 font-semibold text-gray-900 dark:text-white">Why homeowners trust us</h2>
+    <div class="mx-auto mt-10 flex max-w-4xl flex-wrap items-center justify-center gap-x-6 gap-y-4">
+      {trustSignals.map((signal) => (
+        <span class="inline-flex items-center rounded-full bg-white dark:bg-white/5 px-4 py-2 text-sm font-semibold text-gray-700 dark:text-gray-200 ring-1 ring-gray-200 dark:ring-white/10">
+          {signal}
+        </span>
+      ))}
     </div>
     {cityName && (
       <div class="mt-16 flex justify-center">

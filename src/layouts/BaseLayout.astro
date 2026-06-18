@@ -34,14 +34,22 @@ const hreflangUrls = getHreflangUrls(Astro.url.pathname)
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <ThemeScript />
 
-    <!-- Google tag (gtag.js) — GA4 + Google Ads -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R3D27R16HB"></script>
+    <!-- Preconnect to Unsplash image CDN (hero LCP image origin) -->
+    <link rel="preconnect" href="https://images.unsplash.com" crossorigin />
+
+    <!-- Google tag (gtag.js) — GA4 + Google Ads, deferred to window load to free the main thread -->
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-R3D27R16HB');
-      gtag('config', 'AW-16685506666');
+      window.addEventListener('load', function () {
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-R3D27R16HB';
+        document.head.appendChild(s);
+        gtag('js', new Date());
+        gtag('config', 'G-R3D27R16HB');
+        gtag('config', 'AW-16685506666');
+      });
     </script>
 
     <!-- SEO -->
@@ -84,7 +92,7 @@ const hreflangUrls = getHreflangUrls(Astro.url.pathname)
     <meta name="generator" content={Astro.generator} />
   </head>
   <body class="bg-white dark:bg-gray-900 text-gray-900 dark:text-white min-h-screen flex flex-col">
-    <ThemeToggle client:load />
+    <ThemeToggle client:idle />
     <Header />
     <Breadcrumbs />
     <main class="flex-1">

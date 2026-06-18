@@ -176,7 +176,7 @@ const pageDescription = cityContent?.meta?.description
           </div>
         </div>
         <div class="mt-16 sm:mt-24 lg:mt-0 lg:shrink-0 lg:grow">
-          <img alt={service.name} src={service.heroImageUrl} class="w-full rounded-2xl object-cover shadow-xl ring-1 ring-gray-200 dark:ring-white/10 lg:aspect-[3/2] lg:max-w-xl" />
+          <img alt={service.name} src={`${service.heroImageUrl}&fm=avif&w=800&q=70`} width="800" height="533" fetchpriority="high" decoding="async" class="w-full rounded-2xl object-cover shadow-xl ring-1 ring-gray-200 dark:ring-white/10 lg:aspect-[3/2] lg:max-w-xl" />
         </div>
       </div>
     </div>
@@ -196,13 +196,13 @@ const pageDescription = cityContent?.meta?.description
       </div>
     )}
 
-    <!-- Logo Cloud -->
+    <!-- Trust signals (honest, text-based — no fake certification badges) -->
     <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
       <div class="mx-auto max-w-7xl px-6 lg:px-8">
-        <h2 class="text-center text-lg/8 font-semibold text-gray-900 dark:text-white">Certified & Trusted by Industry Leaders</h2>
-        <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
-          {service.logos.slice(0, 5).map((logo, i) => (
-            <img alt={logo.name} src={logo.src} width="158" height="48" class:list={['col-span-2 max-h-12 w-full object-contain dark:brightness-100 brightness-0', i === 3 && 'sm:col-start-2', i === 4 && 'col-start-2 sm:col-start-auto', 'lg:col-span-1']} />
+        <h2 class="text-center text-lg/8 font-semibold text-gray-900 dark:text-white">Why homeowners trust us</h2>
+        <div class="mx-auto mt-10 flex max-w-4xl flex-wrap items-center justify-center gap-x-6 gap-y-4">
+          {['Licensed & Insured', 'IICRC-Certified Technicians', '24/7 Emergency Response', 'Direct Insurance Billing', 'Locally Owned & Operated'].map((signal) => (
+            <span class="inline-flex items-center rounded-full bg-white dark:bg-white/5 px-4 py-2 text-sm font-semibold text-gray-700 dark:text-gray-200 ring-1 ring-gray-200 dark:ring-white/10">{signal}</span>
           ))}
         </div>
       </div>
@@ -279,7 +279,7 @@ const pageDescription = cityContent?.meta?.description
             </div>
           </div>
           <div class="-mt-12 -ml-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
-            <img alt={service.name} src={service.heroImageUrl} class="w-[48rem] max-w-none rounded-xl bg-gray-100 dark:bg-gray-800 shadow-xl ring-1 ring-gray-200 dark:ring-white/10 sm:w-[57rem]" />
+            <img alt={service.name} src={`${service.heroImageUrl}&fm=avif&w=912&q=70`} width="912" height="608" loading="lazy" decoding="async" class="w-[48rem] max-w-none rounded-xl bg-gray-100 dark:bg-gray-800 shadow-xl ring-1 ring-gray-200 dark:ring-white/10 sm:w-[57rem]" />
           </div>
           <div class="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
             <div class="lg:pr-4">
@@ -387,7 +387,7 @@ const pageDescription = cityContent?.meta?.description
         <div class="mx-auto flex max-w-7xl flex-col items-center gap-x-8 gap-y-10 px-6 sm:gap-y-8 lg:px-8 xl:flex-row xl:items-stretch">
           <div class="-mt-8 w-full max-w-2xl xl:-mb-8 xl:w-96 xl:flex-none">
             <div class="relative aspect-[2/1] h-full md:-mx-8 xl:mx-0 xl:aspect-auto">
-              <img alt={service.testimonial.author} src={service.testimonial.imageUrl} class="absolute inset-0 size-full rounded-2xl bg-gray-200 dark:bg-gray-700 object-cover" />
+              <img alt={service.testimonial.author} src={service.testimonial.imageUrl} loading="lazy" decoding="async" class="absolute inset-0 size-full rounded-2xl bg-gray-200 dark:bg-gray-700 object-cover" />
             </div>
           </div>
           <div class="w-full max-w-2xl xl:max-w-none xl:flex-auto xl:px-16 xl:py-24">
@@ -459,7 +459,7 @@ const pageDescription = cityContent?.meta?.description
           <div class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-8 lg:mx-0 lg:max-w-none lg:grid-cols-3">
             {relatedBlogs.map((post) => (
               <a href={post.href} class="group flex flex-col rounded-2xl bg-white dark:bg-white/5 ring-1 ring-gray-200 dark:ring-white/10 overflow-hidden transition hover:ring-indigo-500/50">
-                <img src={post.imageUrl} alt={post.title} class="aspect-[16/9] w-full object-cover" />
+                <img src={post.imageUrl} alt={post.title} loading="lazy" decoding="async" width="640" height="360" class="aspect-[16/9] w-full object-cover" />
                 <div class="p-6">
                   <div class="text-xs font-medium text-indigo-600 dark:text-indigo-400">{post.category.title}</div>
                   <h3 class="mt-2 text-base font-semibold text-gray-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400">{post.title}</h3>
