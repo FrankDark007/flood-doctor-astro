@@ -36,6 +36,27 @@ const serviceStandards = [
   { label: 'Next step', value: 'Request or call', body: 'Use the form for service details; call when water is active or safety is uncertain.' },
 ]
 
+const triageLanes = [
+  { label: 'Stop', title: 'Control the source if it is safe', body: 'Shut off water, avoid energized areas, and keep people away from sewage, sagging ceilings, or slippery surfaces.' },
+  { label: 'Separate', title: 'Protect people and contents', body: 'Move dry contents away from wet zones when possible, isolate pets, and avoid disturbing mold or contaminated materials.' },
+  { label: 'Document', title: 'Capture the first condition', body: 'Photos, affected rooms, material notes, and source details help frame the restoration scope and insurance conversation.' },
+]
+
+const materialMatrix = [
+  { material: 'Drywall + trim', concern: 'Hidden saturation, swelling, and microbial risk when wet materials stay enclosed.' },
+  { material: 'Flooring systems', concern: 'Water can travel under plank, carpet, pad, hardwood, tile assemblies, and subfloor seams.' },
+  { material: 'Insulation + cavities', concern: 'Wet insulation, crawl spaces, and wall cavities may need access, drying verification, or removal decisions.' },
+  { material: 'Contents + documents', concern: 'Furniture, electronics, records, and personal items need early separation and condition notes.' },
+]
+
+const documentationSteps = [
+  'Intake notes on source, affected areas, access constraints, and safety concerns.',
+  'Moisture and material observations that help define drying or removal decisions.',
+  'Photos and scope notes that keep owners, managers, and insurance contacts working from the same facts.',
+]
+
+const localAreas = cityData.serviceArea?.slice(0, 8) ?? []
+
 const faqs = [
   { question: 'What services do you offer?', answer: 'We provide comprehensive water damage restoration services for both residential and commercial properties, including emergency water extraction, structural drying, mold remediation, flood cleanup, sewage cleanup, fire and smoke restoration, content restoration, and insurance coordination.' },
   { question: 'How do service requests work?', answer: 'Submit the request form or call us. We confirm the issue, collect the property details, and explain the next steps before dispatch or scheduling.' },
@@ -138,6 +159,82 @@ const faqs = [
       </div>
     </section>
 
+    <section class="triage-section" aria-labelledby="triage-title">
+      <div class="service-shell triage-grid">
+        <div>
+          <p class="eyebrow">Active water safety triage</p>
+          <h2 id="triage-title">What matters in the first few minutes</h2>
+          <p>
+            The right service path starts with a practical read on source control, safety, affected materials,
+            and what needs to be documented before cleanup changes the scene.
+          </p>
+        </div>
+        <div class="triage-lanes">
+          {triageLanes.map((lane) => (
+            <article>
+              <span>{lane.label}</span>
+              <h3>{lane.title}</h3>
+              <p>{lane.body}</p>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="matrix-section" aria-labelledby="matrix-title">
+      <div class="service-shell">
+        <div class="split-heading">
+          <div>
+            <p class="eyebrow">Affected-material matrix</p>
+            <h2 id="matrix-title">Restoration decisions change by material</h2>
+          </div>
+          <p>
+            Water removal is only the first step. Materials dry differently, contamination changes handling,
+            and documentation helps explain why something can be dried, cleaned, protected, or removed.
+          </p>
+        </div>
+        <div class="material-grid">
+          {materialMatrix.map((item) => (
+            <article class="material-card">
+              <strong>{item.material}</strong>
+              <p>{item.concern}</p>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="documentation-section" aria-labelledby="documentation-title">
+      <div class="service-shell doc-panel">
+        <div>
+          <p class="eyebrow">Insurance + documentation support</p>
+          <h2 id="documentation-title">A cleaner record for owners, managers, and carriers</h2>
+          <p>
+            We avoid claims promises. The useful work is organizing site facts so the restoration plan,
+            ownership decisions, and insurance conversations are grounded in the same observations.
+          </p>
+        </div>
+        <ol>
+          {documentationSteps.map((step) => <li>{step}</li>)}
+        </ol>
+      </div>
+    </section>
+
+    {localAreas.length > 0 && (
+      <section class="local-section" aria-labelledby="local-title">
+        <div class="service-shell local-panel">
+          <div>
+            <p class="eyebrow">{cityData.name} service context</p>
+            <h2 id="local-title">Local routing across nearby communities</h2>
+            <p>Visible city context is limited to configured service-area data, without adding unsupported claims.</p>
+          </div>
+          <div class="area-pills" aria-label="Nearby service areas">
+            {localAreas.map((area) => <span>{area}</span>)}
+          </div>
+        </div>
+      </section>
+    )}
+
     <section class="cta-section" aria-labelledby="services-cta-title">
       <div class="service-shell cta-panel">
         <div>
@@ -220,6 +317,9 @@ const faqs = [
 
   .hero-grid,
   .split-heading,
+  .triage-grid,
+  .doc-panel,
+  .local-panel,
   .cta-panel {
     display: grid;
     grid-template-columns: minmax(0, 1fr) minmax(280px, 0.72fr);
@@ -278,6 +378,9 @@ const faqs = [
 
   .hero-lede,
   .split-heading > p,
+  .triage-grid > div > p,
+  .doc-panel p,
+  .local-panel p,
   .section-heading + p,
   .cta-panel p {
     margin: 1.25rem 0 0;
@@ -358,17 +461,25 @@ const faqs = [
 
   .choice-section,
   .standards-section,
+  .triage-section,
+  .matrix-section,
+  .documentation-section,
+  .local-section,
   .faq-section {
     padding: clamp(4rem, 7vw, 6.5rem) 0;
   }
 
   .choice-section,
+  .triage-section,
+  .local-section,
   .faq-section {
     background: linear-gradient(180deg, #f7fbff, #ffffff);
   }
 
   .division-grid,
   .standards-grid,
+  .triage-lanes,
+  .material-grid,
   .mini-card-grid {
     display: grid;
     gap: 1rem;
@@ -478,6 +589,121 @@ const faqs = [
     line-height: 1;
   }
 
+  .triage-lanes {
+    counter-reset: triage;
+  }
+
+  .triage-lanes article,
+  .material-card,
+  .doc-panel,
+  .local-panel {
+    min-width: 0;
+    border: 1px solid var(--line);
+    border-radius: 1.25rem;
+    background: #ffffff;
+    box-shadow: 0 14px 42px rgba(6, 23, 46, .08);
+  }
+
+  .triage-lanes article,
+  .material-card {
+    padding: 1.15rem;
+  }
+
+  .triage-lanes span,
+  .material-card strong {
+    display: inline-flex;
+    border-radius: 999px;
+    background: #ffedd5;
+    color: var(--orange-dark);
+    padding: .35rem .65rem;
+    font-size: .75rem;
+    font-weight: 900;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+  }
+
+  .triage-lanes h3 {
+    margin-top: .9rem;
+    font-size: clamp(1.15rem, 2.4vw, 1.45rem);
+    line-height: 1.08;
+  }
+
+  .triage-lanes p,
+  .material-card p,
+  .doc-panel li {
+    margin: .75rem 0 0;
+    color: var(--muted);
+    line-height: 1.62;
+  }
+
+  .matrix-section,
+  .documentation-section {
+    background: #ffffff;
+  }
+
+  .material-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    margin-top: 2rem;
+  }
+
+  .material-card strong {
+    background: var(--soft);
+    color: var(--blue-dark);
+  }
+
+  .doc-panel,
+  .local-panel {
+    padding: clamp(1.25rem, 4vw, 2rem);
+  }
+
+  .doc-panel ol {
+    display: grid;
+    gap: .8rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    counter-reset: docs;
+  }
+
+  .doc-panel li {
+    position: relative;
+    margin: 0;
+    padding-left: 2.5rem;
+  }
+
+  .doc-panel li::before {
+    counter-increment: docs;
+    content: counter(docs);
+    position: absolute;
+    left: 0;
+    top: .1rem;
+    display: grid;
+    width: 1.75rem;
+    height: 1.75rem;
+    place-items: center;
+    border-radius: .65rem;
+    background: var(--navy);
+    color: #ffffff;
+    font-size: .8rem;
+    font-weight: 900;
+  }
+
+  .area-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .65rem;
+  }
+
+  .area-pills span {
+    border: 1px solid #cfe0f4;
+    border-radius: 999px;
+    background: var(--soft);
+    color: var(--navy);
+    padding: .55rem .78rem;
+    font-size: .9rem;
+    font-weight: 850;
+  }
+
   .cta-section {
     background: var(--navy);
     color: #ffffff;
@@ -500,9 +726,13 @@ const faqs = [
   @media (max-width: 900px) {
     .hero-grid,
     .split-heading,
+    .triage-grid,
+    .doc-panel,
+    .local-panel,
     .cta-panel,
     .division-grid,
-    .standards-grid {
+    .standards-grid,
+    .material-grid {
       grid-template-columns: 1fr;
     }
 

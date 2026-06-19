@@ -132,6 +132,28 @@ const whenToCall = [
   'Drywall, flooring, insulation, ceilings, or contents are wet and need a documented scope.',
   'Sewage, stormwater, mold odor, electrical concerns, or access hazards may be involved.',
 ]
+const serviceLocalAreas = cityContent?.serviceAreaSection?.neighborhoods?.slice(0, 6) ?? cityData.serviceArea?.slice(0, 6) ?? []
+const safetyChecks = [
+  'Confirm source control, shutoff authority, occupied areas, and whether electrical, sewage, ceiling, or structural hazards are present.',
+  'Separate wet and dry operational zones where safe, then identify tenant, guest, patient, student, or employee impacts.',
+  'Preserve first-condition photos, affected-area notes, equipment impacts, and stakeholder contacts before cleanup changes the site.',
+]
+const affectedMaterials = [
+  { material: 'Partitions, ceilings, and insulation', action: 'Track water migration through shared walls, ceiling cavities, and fire-rated assemblies before drying or removal decisions.' },
+  { material: 'Flooring and operational surfaces', action: 'Identify carpet tile, resilient flooring, concrete, hardwood, and specialty surfaces that affect equipment placement.' },
+  { material: 'Inventory, records, and electronics', action: 'Separate salvageable items, document non-restorable materials, and protect business-critical assets when safe.' },
+  { material: 'Mechanical and shared systems', action: 'Coordinate around HVAC, elevators, drains, electrical rooms, and building access constraints.' },
+]
+const documentationItems = [
+  'Source notes, affected-area map, access constraints, occupancy impacts, and safety observations.',
+  'Moisture readings or material condition notes when they are part of the commercial restoration scope.',
+  'Photo-backed scope summaries that help owners, managers, tenants, carriers, and repair partners work from the same facts.',
+]
+const equipmentProof = [
+  { label: 'Moisture mapping', body: 'Meters and inspection notes help locate where water traveled across rooms, units, or building assemblies.' },
+  { label: 'Equipment planning', body: 'Air movement, dehumidification, containment, filtration, or removal decisions are matched to use type and access.' },
+  { label: 'Monitoring', body: 'Follow-up observations support drying decisions, phasing, and close-out documentation when drying is part of the scope.' },
+]
 ---
 
 {pageType === 'category' && categoryNode ? (
@@ -184,6 +206,30 @@ const whenToCall = [
         </div>
       </section>
 
+      <section class="section category-authority" aria-labelledby="category-authority-title">
+        <div class="detail-shell category-authority-grid">
+          <div>
+            <p class="eyebrow">How this category is scoped</p>
+            <h2 id="category-authority-title">Match the service to source, operations, and safety conditions</h2>
+            <p>Commercial routing works best when the first notes include what happened, which areas are affected, who needs access, and what documentation stakeholders may need.</p>
+          </div>
+          <div class="authority-cards">
+            <article>
+              <span>Safety</span>
+              <p>{safetyChecks[0]}</p>
+            </article>
+            <article>
+              <span>Materials</span>
+              <p>{affectedMaterials[0].action}</p>
+            </article>
+            <article>
+              <span>Documentation</span>
+              <p>{documentationItems[0]}</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
       <section class="final-cta" aria-labelledby="category-cta-title">
         <div class="detail-shell final-panel">
           <div>
@@ -228,7 +274,28 @@ const whenToCall = [
               <span>First response focus</span>
               <strong>Safety, water path, affected materials, documentation.</strong>
             </div>
+            {serviceLocalAreas.length > 0 && (
+              <div class="hero-local" aria-label={`${cityData.name} service-area context`}>
+                <span>{cityData.name} context</span>
+                <div>
+                  {serviceLocalAreas.map((area) => <em>{safeText(area)}</em>)}
+                </div>
+              </div>
+            )}
           </aside>
+        </div>
+      </section>
+
+      <section class="section safety-section" aria-labelledby="safety-title">
+        <div class="detail-shell safety-grid">
+          <div>
+            <p class="eyebrow">Active water safety triage</p>
+            <h2 id="safety-title">Stabilize safety, access, and operations first</h2>
+            <p>Use these checks before moving inventory, reopening areas, cutting materials, or changing the first-condition documentation.</p>
+          </div>
+          <ul>
+            {safetyChecks.map((item) => <li>{safeText(item)}</li>)}
+          </ul>
         </div>
       </section>
 
@@ -256,6 +323,26 @@ const whenToCall = [
             </ul>
             <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </aside>
+        </div>
+      </section>
+
+      <section class="section material-section" aria-labelledby="material-title">
+        <div class="detail-shell">
+          <div class="split-heading">
+            <div>
+              <p class="eyebrow">Affected-material matrix</p>
+              <h2 id="material-title">What gets checked before drying, removal, or reopening</h2>
+            </div>
+            <p>Commercial scopes depend on how materials, systems, occupants, and operations interact after water travels beyond the visible source.</p>
+          </div>
+          <div class="material-grid">
+            {affectedMaterials.map((item) => (
+              <article class="material-card">
+                <strong>{safeText(item.material)}</strong>
+                <p>{safeText(item.action)}</p>
+              </article>
+            ))}
+          </div>
         </div>
       </section>
 
@@ -298,6 +385,27 @@ const whenToCall = [
               </li>
             ))}
           </ol>
+        </div>
+      </section>
+
+      <section class="section documentation-section" aria-labelledby="documentation-title">
+        <div class="detail-shell documentation-grid">
+          <div>
+            <p class="eyebrow">Documentation + equipment proof</p>
+            <h2 id="documentation-title">Scope notes that keep stakeholders aligned</h2>
+            <p>Documentation support is not a coverage promise. It is the practical record of source, materials, photos, moisture observations, operations impacts, and next-step decisions.</p>
+            <ol class="doc-list">
+              {documentationItems.map((item) => <li>{safeText(item)}</li>)}
+            </ol>
+          </div>
+          <div class="proof-tool-grid">
+            {equipmentProof.map((item) => (
+              <article>
+                <span>{safeText(item.label)}</span>
+                <p>{safeText(item.body)}</p>
+              </article>
+            ))}
+          </div>
         </div>
       </section>
 
@@ -509,9 +617,12 @@ const whenToCall = [
   }
 
   .hero-grid,
+  .safety-grid,
   .definition-grid,
   .local-grid,
   .split-heading,
+  .documentation-grid,
+  .category-authority-grid,
   .pricing-panel,
   .area-panel,
   .related-grid,
@@ -544,9 +655,12 @@ const whenToCall = [
   .eyebrow,
   .command-card span,
   .media-status span,
+  .hero-local span,
   .call-card span,
   .local-note span,
   .process-card > span,
+  .authority-cards span,
+  .proof-tool-grid span,
   .challenge-card span,
   .equipment-card span,
   .article-card span {
@@ -562,6 +676,7 @@ const whenToCall = [
   .detail-hero .eyebrow,
   .command-card span,
   .media-status span,
+  .hero-local span,
   .final-cta .eyebrow {
     color: #fed7aa;
   }
@@ -607,7 +722,10 @@ const whenToCall = [
   .hero-lede,
   .definition-copy > p,
   .split-heading > p,
+  .safety-grid > div > p,
   .rich-copy p,
+  .category-authority-grid > div > p,
+  .documentation-grid > div > p,
   .pricing-panel p,
   .area-panel p,
   .related-grid > div > p,
@@ -622,6 +740,7 @@ const whenToCall = [
   .hero-lede,
   .command-card p,
   .media-status strong,
+  .hero-local em,
   .final-panel p {
     color: #c9d7e8;
   }
@@ -662,6 +781,7 @@ const whenToCall = [
   }
 
   .media-status,
+  .hero-local,
   .command-card {
     padding: clamp(1.1rem, 3vw, 1.5rem);
   }
@@ -680,19 +800,42 @@ const whenToCall = [
     line-height: 1.65;
   }
 
+  .hero-local {
+    border-top: 1px solid rgba(255,255,255,.12);
+  }
+
+  .hero-local div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+  }
+
+  .hero-local em {
+    border-radius: 999px;
+    background: rgba(255,255,255,.1);
+    padding: .42rem .62rem;
+    font-size: .82rem;
+    font-style: normal;
+    font-weight: 800;
+  }
+
   .section {
     padding: clamp(4rem, 7vw, 6.5rem) 0;
   }
 
   .light-section,
+  .material-section,
   .process-section,
+  .documentation-section,
   .equipment-section,
   .articles-section {
     background: linear-gradient(180deg, #f7fbff, #ffffff);
   }
 
   .definition-section,
+  .safety-section,
   .local-intro,
+  .category-authority,
   .challenges-section,
   .area-section,
   .related-section {
@@ -701,11 +844,16 @@ const whenToCall = [
 
   .definition-grid,
   .local-grid,
+  .documentation-grid,
+  .category-authority-grid,
   .related-grid {
     align-items: start;
   }
 
   .feature-grid,
+  .material-grid,
+  .authority-cards,
+  .proof-tool-grid,
   .challenge-grid,
   .equipment-grid,
   .service-link-grid,
@@ -721,6 +869,9 @@ const whenToCall = [
   }
 
   .feature-card,
+  .material-card,
+  .authority-cards article,
+  .proof-tool-grid article,
   .challenge-card,
   .equipment-card,
   .service-link-card,
@@ -738,6 +889,9 @@ const whenToCall = [
   }
 
   .feature-card,
+  .material-card,
+  .authority-cards article,
+  .proof-tool-grid article,
   .challenge-card,
   .equipment-card,
   .service-link-card,
@@ -755,6 +909,9 @@ const whenToCall = [
   }
 
   .feature-card p,
+  .material-card p,
+  .authority-cards p,
+  .proof-tool-grid p,
   .challenge-card p,
   .equipment-card p,
   .service-link-card p,
@@ -766,6 +923,81 @@ const whenToCall = [
     color: var(--muted);
     font-size: .95rem;
     line-height: 1.6;
+  }
+
+  .safety-grid {
+    border: 1px solid var(--line);
+    border-radius: 1.5rem;
+    background:
+      radial-gradient(circle at 100% 0, rgba(20, 120, 230, .12), transparent 20rem),
+      #ffffff;
+    box-shadow: 0 18px 55px rgba(6, 23, 46, .1);
+    padding: clamp(1.25rem, 4vw, 2rem);
+  }
+
+  .safety-grid ul {
+    display: grid;
+    gap: .8rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .safety-grid li,
+  .doc-list li {
+    position: relative;
+    padding-left: 1.45rem;
+    color: var(--muted);
+    line-height: 1.62;
+  }
+
+  .safety-grid li::before,
+  .doc-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: .58rem;
+    width: .55rem;
+    height: .55rem;
+    border-radius: 999px;
+    background: var(--orange);
+  }
+
+  .material-grid,
+  .authority-cards {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    margin-top: 2rem;
+  }
+
+  .authority-cards {
+    grid-template-columns: 1fr;
+    margin-top: 0;
+  }
+
+  .material-card strong {
+    display: block;
+    color: var(--navy);
+    line-height: 1.2;
+  }
+
+  .documentation-grid {
+    border: 1px solid var(--line);
+    border-radius: 1.5rem;
+    background: #ffffff;
+    box-shadow: 0 18px 55px rgba(6, 23, 46, .1);
+    padding: clamp(1.25rem, 4vw, 2rem);
+  }
+
+  .doc-list {
+    display: grid;
+    gap: .75rem;
+    margin: 1.25rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .proof-tool-grid {
+    grid-template-columns: 1fr;
   }
 
   .call-card {
@@ -1038,13 +1270,19 @@ const whenToCall = [
 
   @media (max-width: 960px) {
     .hero-grid,
+    .safety-grid,
     .definition-grid,
     .local-grid,
     .split-heading,
+    .documentation-grid,
+    .category-authority-grid,
     .pricing-panel,
     .area-panel,
     .related-grid,
     .final-panel,
+    .material-grid,
+    .authority-cards,
+    .proof-tool-grid,
     .challenge-grid,
     .equipment-grid,
     .service-link-grid,
