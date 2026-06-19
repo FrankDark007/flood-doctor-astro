@@ -9,26 +9,31 @@ const _base = cityBaseUrl()
 const resources = [
   {
     title: 'FAQ',
+    type: 'Quick Answers',
     description: 'Straight answers about water damage restoration, mold concerns, documentation, insurance conversations, and service intake.',
     href: '/resources/faq',
   },
   {
     title: 'Homeowner Guides',
+    type: 'Deep Dives',
     description: 'Long-form guides for preparation, response, cleanup decisions, and recovery after water enters the property.',
     href: '/resources/homeowner-guides',
   },
   {
     title: 'Insurance Claims Guide',
+    type: 'Claim File',
     description: 'Practical documentation and claim-process guidance for water damage events.',
     href: '/resources/insurance-guide',
   },
   {
     title: 'Emergency Checklists',
+    type: 'Action Lists',
     description: 'Field-ready checklists for active water damage, storm preparation, post-flood safety, and emergency kits.',
     href: '/resources/emergency-checklists',
   },
   {
     title: 'Blog',
+    type: 'Editorial',
     description: 'Editorial advice on prevention, drying decisions, cleanup timing, and protecting a home after water damage.',
     href: '/blog',
   },
@@ -46,7 +51,7 @@ const structuredData = breadcrumbSchema([
   structuredData={structuredData}
 >
   <div class="content-page">
-    <section class="hero" aria-labelledby="resources-title">
+    <section class="hero library-hero" aria-labelledby="resources-title">
       <div class="page-shell hero-grid">
         <div>
           <p class="eyebrow">Resources</p>
@@ -60,10 +65,14 @@ const structuredData = breadcrumbSchema([
             <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
         </div>
-        <aside class="hero-card">
+        <aside class="hero-card resource-map">
           <p class="eyebrow">Start Here</p>
-          <h2>Active water?</h2>
-          <p>If water is still entering or safety is uncertain, stop reading and call the emergency line first.</p>
+          <h2>Pick by urgency</h2>
+          <ul class="resource-list">
+            <li><a class="hero-link" href="/resources/emergency-checklists">Active water or storm damage</a></li>
+            <li><a class="hero-link" href="/resources/insurance-guide">Claim documentation questions</a></li>
+            <li><a class="hero-link" href="/resources/homeowner-guides">Planning and prevention</a></li>
+          </ul>
         </aside>
       </div>
     </section>
@@ -78,6 +87,7 @@ const structuredData = breadcrumbSchema([
         <div class="card-grid">
           {resources.map((resource) => (
             <a href={resource.href} class="card card-link">
+              <span class="resource-type">{resource.type}</span>
               <h3>{resource.title}</h3>
               <p>{resource.description}</p>
               <span class="text-link">Open resource <span aria-hidden="true">&rarr;</span></span>
@@ -92,7 +102,7 @@ const structuredData = breadcrumbSchema([
         <div>
           <p class="eyebrow">Need Immediate Help?</p>
           <h2 id="resource-cta-title">Use the emergency path when damage is active</h2>
-          <p class="section-lede">Guides are useful, but they do not replace live intake when water is moving through the property.</p>
+          <p class="section-lede">Guides are useful, but they do not replace live intake when water is moving through the property or safety is uncertain.</p>
         </div>
         <div class="navy-card">
           <div class="button-row">
@@ -631,4 +641,82 @@ const structuredData = breadcrumbSchema([
       transform: none;
     }
   }
+
+
+  .hero-link {
+    color: #fed7aa;
+    font-weight: 850;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.22em;
+  }
+
+  .source-list,
+  .brief-list,
+  .resource-list,
+  .proof-list {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1.2rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .source-list li,
+  .brief-list li,
+  .resource-list li,
+  .proof-list li {
+    color: #d7e5f7;
+    line-height: 1.55;
+  }
+
+
+  .rail-card strong,
+  .jump-card strong,
+  .source-proof-card strong {
+    display: block;
+    color: var(--fd-navy);
+  }
+
+  .rail-card span,
+  .jump-card span,
+  .source-proof-card span {
+    display: block;
+    margin-top: 0.35rem;
+    color: var(--fd-muted);
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+
+  .library-hero {
+    background:
+      radial-gradient(circle at 15% 24%, rgba(194, 65, 12, 0.22), transparent 24rem),
+      linear-gradient(120deg, #061421 0%, #0d2a4a 48%, #123b63 100%);
+  }
+
+  .resource-type {
+    display: inline-flex;
+    width: fit-content;
+    border: 1px solid rgba(194, 65, 12, 0.22);
+    border-radius: 999px;
+    margin-bottom: 0.85rem;
+    padding: 0.32rem 0.72rem;
+    background: #fff7ed;
+    color: var(--fd-orange-dark);
+    font-size: 0.76rem;
+    font-weight: 850;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+
+  @media (max-width: 920px) {
+    .editorial-rail,
+    .faq-jump-strip,
+    .checklist-index,
+    .proof-strip {
+      grid-template-columns: 1fr;
+    }
+  }
+
 </style>

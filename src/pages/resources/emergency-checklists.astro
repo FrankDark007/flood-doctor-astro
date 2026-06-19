@@ -9,6 +9,7 @@ const _base = cityBaseUrl()
 const checklists = [
   {
     title: 'When Water Damage Strikes',
+    anchor: 'active-water',
     subtitle: 'Immediate first steps',
     items: [
       'Ensure personal safety — do not enter standing water near electrical outlets or appliances',
@@ -25,6 +26,7 @@ const checklists = [
   },
   {
     title: 'Before the Storm',
+    anchor: 'storm-prep',
     subtitle: 'Preparation checklist for severe weather',
     items: [
       'Clear gutters and downspouts of debris to support drainage',
@@ -41,6 +43,7 @@ const checklists = [
   },
   {
     title: 'Post-Flood Safety',
+    anchor: 'post-flood-safety',
     subtitle: 'What to do after flooding subsides',
     items: [
       'Do not re-enter your home until authorities confirm it is safe',
@@ -57,6 +60,7 @@ const checklists = [
   },
   {
     title: 'Emergency Kit Essentials',
+    anchor: 'emergency-kit',
     subtitle: 'Keep these items ready and accessible',
     items: [
       'Flashlights and extra batteries',
@@ -88,7 +92,7 @@ const structuredData = breadcrumbSchema([
   structuredData={structuredData}
 >
   <div class="content-page">
-    <section class="hero" aria-labelledby="checklists-title">
+    <section class="hero checklist-hero" aria-labelledby="checklists-title">
       <div class="page-shell hero-grid">
         <div>
           <p class="eyebrow">Emergency Checklists</p>
@@ -99,10 +103,15 @@ const structuredData = breadcrumbSchema([
             <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
         </div>
-        <aside class="hero-card">
+        <aside class="hero-card safety-card">
           <p class="eyebrow">Safety First</p>
           <h2>If in doubt, stay out</h2>
           <p>A checklist cannot make an unsafe room safe. Avoid standing water around electricity and call for live guidance.</p>
+          <ul class="brief-list">
+            <li>No household vacuums for water removal.</li>
+            <li>No electrical panels if access is wet.</li>
+            <li>No re-entry after flooding until conditions are safe.</li>
+          </ul>
         </aside>
       </div>
     </section>
@@ -112,10 +121,16 @@ const structuredData = breadcrumbSchema([
         <div class="section-heading">
           <p class="eyebrow dark">Printable Rhythm</p>
           <h2 id="checklist-library-title">Four checklists for different phases</h2>
+          <p class="section-lede">Jump to the phase you are in now, then use live intake if the situation is unsafe or changing.</p>
+        </div>
+        <div class="checklist-index" aria-label="Checklist sections">
+          {checklists.map((checklist) => (
+            <a class="card jump-card card-link" href={`#${checklist.anchor}`}><strong>{checklist.title}</strong><span>{checklist.subtitle}</span></a>
+          ))}
         </div>
         <div class="card-grid two">
           {checklists.map((checklist) => (
-            <section class="check-card">
+            <section class="check-card" id={checklist.anchor}>
               <h3>{checklist.title}</h3>
               <p>{checklist.subtitle}</p>
               <ul class="clean-list">
@@ -655,4 +670,74 @@ const structuredData = breadcrumbSchema([
       transform: none;
     }
   }
+
+
+  .hero-link {
+    color: #fed7aa;
+    font-weight: 850;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.22em;
+  }
+
+  .source-list,
+  .brief-list,
+  .resource-list,
+  .proof-list {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1.2rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .source-list li,
+  .brief-list li,
+  .resource-list li,
+  .proof-list li {
+    color: #d7e5f7;
+    line-height: 1.55;
+  }
+
+
+  .rail-card strong,
+  .jump-card strong,
+  .source-proof-card strong {
+    display: block;
+    color: var(--fd-navy);
+  }
+
+  .rail-card span,
+  .jump-card span,
+  .source-proof-card span {
+    display: block;
+    margin-top: 0.35rem;
+    color: var(--fd-muted);
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+
+  .checklist-hero {
+    background:
+      linear-gradient(135deg, rgba(7, 26, 51, 0.96), rgba(12, 74, 110, 0.92)),
+      repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0 1px, transparent 1px 3.2rem);
+  }
+
+  .checklist-index {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+
+  @media (max-width: 920px) {
+    .editorial-rail,
+    .faq-jump-strip,
+    .checklist-index,
+    .proof-strip {
+      grid-template-columns: 1fr;
+    }
+  }
+
 </style>

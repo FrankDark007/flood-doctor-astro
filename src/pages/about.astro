@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro'
 import ContactForm from '../components/islands/ContactForm.tsx'
 import { cityData } from '../data/cities'
+import { reviewsSourceUrl } from '../data/reviews'
 import { toTelHref } from '../utils/phone'
 const cityPhoneHref = toTelHref(cityData.phone)
 
@@ -41,6 +42,27 @@ const capabilities = [
   },
 ]
 
+const proofLinks = [
+  {
+    title: 'Local intake details',
+    href: '/contact',
+    description: `Contact paths and ${serviceAreaCount} service-area references are driven by site city data.`,
+    external: false,
+  },
+  {
+    title: 'Public review source',
+    href: reviewsSourceUrl,
+    description: 'Customer feedback is linked to Google instead of summarized with unsupported ratings.',
+    external: true,
+  },
+  {
+    title: 'Resource library',
+    href: '/resources',
+    description: 'Owner-facing guides, FAQ answers, insurance notes, and emergency checklists.',
+    external: false,
+  },
+]
+
 const values = [
   {
     name: 'Stabilize First',
@@ -67,7 +89,7 @@ const values = [
   structuredData={structuredData}
 >
   <div class="content-page">
-    <section class="hero" aria-labelledby="about-title">
+    <section class="hero about-hero" aria-labelledby="about-title">
       <div class="page-shell hero-grid">
         <div>
           <p class="eyebrow">About Flood Doctor</p>
@@ -81,16 +103,18 @@ const values = [
             <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
         </div>
-        <div class="hero-card">
-          <p class="eyebrow">Command Center</p>
-          <h2>{cityData.name} Restoration Intake</h2>
-          <ul class="clean-list">
-            <li>Active leak and standing water triage</li>
-            <li>Room-by-room affected area notes</li>
-            <li>Drying and cleanup next-step planning</li>
-            <li>Documentation for claim conversations</li>
+        <aside class="hero-card proof-panel">
+          <p class="eyebrow">Verify The Basics</p>
+          <h2>Clear claims, source links, no borrowed proof</h2>
+          <ul class="proof-list">
+            {proofLinks.map((item) => (
+              <li>
+                <a class="hero-link" href={item.href} target={item.external ? '_blank' : undefined} rel={item.external ? 'noopener noreferrer' : undefined}>{item.title}</a>
+                <p>{item.description}</p>
+              </li>
+            ))}
           </ul>
-        </div>
+        </aside>
       </div>
     </section>
 
@@ -110,6 +134,24 @@ const values = [
               <h3>{item.name}</h3>
               <p>{item.description}</p>
             </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="proof-title">
+      <div class="page-shell">
+        <div class="section-heading center">
+          <p class="eyebrow dark">Trust Signals</p>
+          <h2 id="proof-title">Useful proof, stated carefully</h2>
+          <p class="section-lede">Flood Doctor uses source-linked, neutral proof points instead of unsupported badges, ratings, or invented testimonials.</p>
+        </div>
+        <div class="proof-strip">
+          {proofLinks.map((item) => (
+            <a class="card source-proof-card card-link" href={item.href} target={item.external ? '_blank' : undefined} rel={item.external ? 'noopener noreferrer' : undefined}>
+              <strong>{item.title}</strong>
+              <span>{item.description}</span>
+            </a>
           ))}
         </div>
       </div>
@@ -684,4 +726,78 @@ const values = [
       transform: none;
     }
   }
+
+
+  .hero-link {
+    color: #fed7aa;
+    font-weight: 850;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.22em;
+  }
+
+  .source-list,
+  .brief-list,
+  .resource-list,
+  .proof-list {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1.2rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .source-list li,
+  .brief-list li,
+  .resource-list li,
+  .proof-list li {
+    color: #d7e5f7;
+    line-height: 1.55;
+  }
+
+
+  .rail-card strong,
+  .jump-card strong,
+  .source-proof-card strong {
+    display: block;
+    color: var(--fd-navy);
+  }
+
+  .rail-card span,
+  .jump-card span,
+  .source-proof-card span {
+    display: block;
+    margin-top: 0.35rem;
+    color: var(--fd-muted);
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+
+  .about-hero {
+    background:
+      radial-gradient(circle at 84% 14%, rgba(34, 197, 94, 0.15), transparent 24rem),
+      linear-gradient(135deg, #071a33 0%, #0a233f 58%, #12314e 100%);
+  }
+
+  .proof-strip {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .proof-panel p {
+    margin: 0.35rem 0 0;
+  }
+
+
+  @media (max-width: 920px) {
+    .editorial-rail,
+    .faq-jump-strip,
+    .checklist-index,
+    .proof-strip {
+      grid-template-columns: 1fr;
+    }
+  }
+
 </style>

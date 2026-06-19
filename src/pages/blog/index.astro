@@ -23,6 +23,12 @@ const safeBlogPosts = blogPosts.map((post) => ({
   author: { ...post.author, name: 'Flood Doctor Team', imageUrl: '/graphics/flood-doctor-mark.svg' },
   content: post.content ? sanitizeCopy(post.content) : post.content,
 }))
+
+const editorialSignals = [
+  'Practical guidance without invented certifications or response-time guarantees.',
+  'Topics are organized around source control, drying decisions, documentation, and prevention.',
+  'Emergency calls still take priority when water is active or safety is uncertain.',
+]
 ---
 
 <BaseLayout
@@ -30,7 +36,7 @@ const safeBlogPosts = blogPosts.map((post) => ({
   description={`Expert advice on water damage restoration, mold remediation, insurance claims, and protecting your ${cityData.name} home. Tips from Flood Doctor's restoration team.`}
 >
   <div class="content-page">
-    <section class="hero" aria-labelledby="blog-title">
+    <section class="hero editorial-hero" aria-labelledby="blog-title">
       <div class="page-shell hero-grid">
         <div>
           <p class="eyebrow">Flood Doctor Blog</p>
@@ -39,10 +45,12 @@ const safeBlogPosts = blogPosts.map((post) => ({
             Prevention, response, drying, documentation, and recovery guidance for homeowners who need practical next steps.
           </p>
         </div>
-        <aside class="hero-card">
-          <p class="eyebrow">Browse Topics</p>
-          <h2>Search by situation</h2>
-          <p>Filter articles by category or search for the specific water damage question in front of you.</p>
+        <aside class="hero-card editorial-sidebar">
+          <p class="eyebrow">Editorial Standard</p>
+          <h2>Useful before it is polished</h2>
+          <ul class="source-list">
+            {editorialSignals.map((signal) => <li>{signal}</li>)}
+          </ul>
         </aside>
       </div>
     </section>
@@ -50,9 +58,14 @@ const safeBlogPosts = blogPosts.map((post) => ({
     <section class="section soft" aria-labelledby="articles-title">
       <div class="page-shell">
         <div class="section-heading center">
-          <p class="eyebrow dark">Articles</p>
-          <h2 id="articles-title">Guides with strong internal paths</h2>
-          <p class="section-lede">Use the article library to move from problem recognition to the right service request or resource.</p>
+          <p class="eyebrow dark">Editorial Desk</p>
+          <h2 id="articles-title">Find the article by the decision you need to make</h2>
+          <p class="section-lede">Search the library, then move to a service request only when the situation calls for live intake.</p>
+        </div>
+        <div class="editorial-rail" aria-label="Article library priorities">
+          <div class="card rail-card"><strong>Emergency Triage</strong><span>What to do first when water is moving or safety is unclear.</span></div>
+          <div class="card rail-card"><strong>Documentation</strong><span>Photos, notes, timelines, and claim conversations.</span></div>
+          <div class="card rail-card"><strong>Prevention</strong><span>Maintenance and planning reads for calmer days.</span></div>
         </div>
         <div class="dark-island">
           <BlogBrowser client:load posts={safeBlogPosts} categories={blogCategories} />
@@ -588,4 +601,79 @@ const safeBlogPosts = blogPosts.map((post) => ({
       transform: none;
     }
   }
+
+
+  .hero-link {
+    color: #fed7aa;
+    font-weight: 850;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.22em;
+  }
+
+  .source-list,
+  .brief-list,
+  .resource-list,
+  .proof-list {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1.2rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .source-list li,
+  .brief-list li,
+  .resource-list li,
+  .proof-list li {
+    color: #d7e5f7;
+    line-height: 1.55;
+  }
+
+
+  .rail-card strong,
+  .jump-card strong,
+  .source-proof-card strong {
+    display: block;
+    color: var(--fd-navy);
+  }
+
+  .rail-card span,
+  .jump-card span,
+  .source-proof-card span {
+    display: block;
+    margin-top: 0.35rem;
+    color: var(--fd-muted);
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+
+  .editorial-hero {
+    background:
+      linear-gradient(90deg, rgba(255, 255, 255, 0.055) 1px, transparent 1px) 0 0 / 4.5rem 4.5rem,
+      radial-gradient(circle at 88% 12%, rgba(14, 165, 233, 0.28), transparent 28rem),
+      linear-gradient(135deg, #071a33 0%, #102033 55%, #0f2d4d 100%);
+  }
+
+  .editorial-rail {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .rail-card {
+    margin: 0;
+  }
+
+
+  @media (max-width: 920px) {
+    .editorial-rail,
+    .faq-jump-strip,
+    .checklist-index,
+    .proof-strip {
+      grid-template-columns: 1fr;
+    }
+  }
+
 </style>

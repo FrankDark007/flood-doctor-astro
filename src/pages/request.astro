@@ -23,9 +23,21 @@ const structuredData = {
 }
 
 const intakeSteps = [
-  'Share the property address and safest callback number.',
-  'Describe the source, affected rooms, and whether water is still entering.',
-  'The intake team confirms next steps and whether phone triage is safer first.',
+  'Your request is reviewed for the safest response path.',
+  'The team uses your details to prepare the right follow-up questions.',
+  'If the situation sounds active or unsafe, phone triage comes first.',
+]
+
+const emergencyTriggers = [
+  'Water is still entering or spreading',
+  'Electrical, ceiling, sewage, or structural concerns',
+  'Someone at the property may be at risk',
+]
+
+const formBestFor = [
+  'You can safely type for two minutes',
+  'You know the address, callback number, and affected rooms',
+  'You want a written intake record for follow-up',
 ]
 ---
 
@@ -39,22 +51,33 @@ const intakeSteps = [
       <div class="page-shell request-grid">
         <div>
           <p class="eyebrow">Emergency Service Request</p>
-          <h1 id="request-title">Start Water Damage Intake Now</h1>
+          <h1 id="request-title">Get on the right response path</h1>
           <p class="hero-lede">
-            Use this form to get the essential details into Flood Doctor quickly. If water is actively entering, sewage is
-            involved, or safety is uncertain, call {cityData.phone} first.
+            Active water or a safety hazard should stay on the phone. If the property is stable enough to type, the form
+            captures the details Flood Doctor needs for intake.
           </p>
-          <div class="button-row">
-            <a class="button button-primary" href={cityPhoneHref}>Call {cityData.phone}</a>
-            <a class="button button-secondary" href="#request-form">Use the Form</a>
+          <div class="button-row decision-actions" aria-label="Choose request path">
+            <a class="button button-primary" href={cityPhoneHref}>Active emergency: call {cityData.phone}</a>
+            <a class="button button-secondary" href="#request-form">Stable situation: start form</a>
           </div>
+          <p class="mobile-note">On mobile, call first if conditions are changing while you are filling this out.</p>
         </div>
-        <aside class="hero-card" aria-label="What to expect">
-          <p class="eyebrow">What To Expect</p>
-          <h2>Three details make intake faster</h2>
-          <ol class="number-list">
-            {intakeSteps.map((step) => <li>{step}</li>)}
-          </ol>
+        <aside class="hero-card decision-card" aria-label="Call or form guidance">
+          <p class="eyebrow">Which path should I use?</p>
+          <div class="decision-stack">
+            <div class="decision-block urgent">
+              <h2>Call first</h2>
+              <ul class="clean-list">
+                {emergencyTriggers.map((item) => <li>{item}</li>)}
+              </ul>
+            </div>
+            <div class="decision-block">
+              <h2>Use the form</h2>
+              <ul class="clean-list">
+                {formBestFor.map((item) => <li>{item}</li>)}
+              </ul>
+            </div>
+          </div>
         </aside>
       </div>
     </section>
@@ -63,16 +86,18 @@ const intakeSteps = [
       <div class="page-shell request-grid">
         <aside class="side-card">
           <p class="eyebrow dark">Before You Submit</p>
-          <h2 id="request-form-title">Keep urgent situations on the phone</h2>
+          <h2 id="request-form-title">What happens after the form</h2>
           <p>
-            The form is best when you can safely type details. Call if there is active water, electrical risk, sewage,
-            structural movement, or a medical/safety concern.
+            Your submission creates an intake record. The follow-up focuses on confirming the situation, clarifying the
+            safest next step, and collecting any details that should not wait.
           </p>
-          <ul class="clean-list">
-            <li>Emergency intake: <a class="text-link" href={cityPhoneHref}>{cityData.phone}</a></li>
-            <li>Service area: {cityData.name} and Northern Virginia</li>
-            <li>Photos and notes can be discussed during follow-up</li>
-          </ul>
+          <ol class="number-list after-list">
+            {intakeSteps.map((step) => <li>{step}</li>)}
+          </ol>
+          <div class="callout-card">
+            <h3>Do not wait on the form if conditions worsen.</h3>
+            <p>Call <a class="text-link" href={cityPhoneHref}>{cityData.phone}</a> if water is moving, power may be affected, or people need immediate help.</p>
+          </div>
         </aside>
         <div class="form-panel" aria-label="Request service form">
           <RequestForm city={cityData.slug} phone={cityData.phone} client:load />
@@ -262,6 +287,14 @@ const intakeSteps = [
     background: var(--fd-orange-dark);
   }
 
+  .decision-actions .button-primary {
+    flex: 1 1 17rem;
+  }
+
+  .decision-actions .button-secondary {
+    flex: 1 1 14rem;
+  }
+
   .button-secondary {
     border: 1px solid rgba(255, 255, 255, 0.24);
     background: rgba(255, 255, 255, 0.08);
@@ -393,6 +426,57 @@ const intakeSteps = [
     color: #d7e5f7;
   }
 
+  .decision-card {
+    position: relative;
+  }
+
+  .decision-card::before {
+    content: '';
+    position: absolute;
+    inset: 0.85rem auto 0.85rem 0.85rem;
+    width: 0.35rem;
+    border-radius: 999px;
+    background: linear-gradient(180deg, var(--fd-orange), var(--fd-blue));
+  }
+
+  .decision-stack {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .decision-block {
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 1.1rem;
+    background: rgba(255, 255, 255, 0.07);
+    padding: 1rem;
+  }
+
+  .decision-block.urgent {
+    background: rgba(194, 65, 12, 0.18);
+    border-color: rgba(251, 146, 60, 0.32);
+  }
+
+  .decision-block h2 {
+    font-size: clamp(1.3rem, 3vw, 1.75rem);
+    letter-spacing: -0.035em;
+  }
+
+  .decision-block .clean-list {
+    gap: 0.65rem;
+    margin-top: 0.85rem;
+  }
+
+  .mobile-note {
+    display: none;
+    margin: 1rem 0 0;
+    border-left: 3px solid var(--fd-orange);
+    padding-left: 0.85rem;
+    color: #fed7aa;
+    font-size: 0.92rem;
+    font-weight: 760;
+    line-height: 1.5;
+  }
+
   .number-list,
   .clean-list,
   .columns-list {
@@ -433,6 +517,22 @@ const intakeSteps = [
     color: var(--fd-blue-dark);
     font-weight: 850;
     text-decoration: none;
+  }
+
+  .after-list {
+    counter-reset: request-step;
+  }
+
+  .callout-card {
+    margin-top: 1.4rem;
+    border: 1px solid rgba(194, 65, 12, 0.22);
+    border-radius: 1rem;
+    background: #fff7ed;
+    padding: 1rem;
+  }
+
+  .callout-card p {
+    margin-top: 0.55rem;
   }
 
   .prose-wrap :global(h2) {
@@ -567,12 +667,12 @@ const intakeSteps = [
     }
 
     .hero {
-      padding: 4.5rem 0 4rem;
+      padding: 3.6rem 0 3rem;
     }
 
     h1 {
       max-width: 100%;
-      font-size: clamp(2.2rem, 11vw, 3rem);
+      font-size: clamp(2.05rem, 10vw, 2.85rem);
       letter-spacing: -0.052em;
       line-height: 0.99;
     }
@@ -586,9 +686,34 @@ const intakeSteps = [
       flex-direction: column;
     }
 
+    .decision-actions {
+      gap: 0.7rem;
+      margin-top: 1.35rem;
+    }
+
+    .decision-actions .button-primary,
+    .decision-actions .button-secondary {
+      flex: 0 0 auto;
+    }
+
     .button {
       width: 100%;
+      min-height: 3.15rem;
+      border-radius: 1rem;
       text-align: center;
+    }
+
+    .hero-lede {
+      margin-top: 1rem;
+      line-height: 1.6;
+    }
+
+    .mobile-note {
+      display: block;
+    }
+
+    .decision-card {
+      margin-top: -0.5rem;
     }
 
     .card-grid,

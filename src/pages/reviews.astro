@@ -12,10 +12,19 @@ const structuredData = {
   description: `Customer feedback and Google review links for Flood Doctor ${cityData.name}.`,
 }
 
-const reviewPlaceholders = [
-  'Public Google feedback is intentionally linked out instead of summarized with a site-owned rating.',
-  'Future featured excerpts should be copied only from verified customer feedback with permission and source context.',
-  'No site-owned rating summary or invented testimonials are published on this page.',
+const reviewPolicy = [
+  {
+    title: 'Current source link',
+    description: 'Public feedback is linked to Google instead of being restated as a site-owned score.',
+  },
+  {
+    title: 'No invented excerpts',
+    description: 'Featured quotes should be added only when they are verified, permissioned, and attributed.',
+  },
+  {
+    title: 'No rating markup',
+    description: 'This page avoids review schema, aggregate ratings, and unsupported testimonial summaries.',
+  },
 ]
 ---
 
@@ -25,7 +34,7 @@ const reviewPlaceholders = [
   structuredData={structuredData}
 >
   <div class="content-page">
-    <section class="hero" aria-labelledby="reviews-title">
+    <section class="hero reviews-hero" aria-labelledby="reviews-title">
       <div class="page-shell hero-grid">
         <div>
           <p class="eyebrow">Reviews</p>
@@ -39,12 +48,13 @@ const reviewPlaceholders = [
             <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
         </div>
-        <aside class="hero-card">
-          <p class="eyebrow">Review Policy</p>
-          <h2>No fake social proof</h2>
-          <p>
-            This page is structured for customer feedback but avoids invented review copy, ratings, and review schema.
-          </p>
+        <aside class="hero-card source-card">
+          <p class="eyebrow">Source Link</p>
+          <h2>Read the public profile directly</h2>
+          <p>Google remains the current source for public customer feedback.</p>
+          <ul class="source-list">
+            <li><a class="hero-link" href={reviewsSourceUrl} target="_blank" rel="noopener noreferrer">Open Google review source</a></li>
+          </ul>
         </aside>
       </div>
     </section>
@@ -52,18 +62,17 @@ const reviewPlaceholders = [
     <section class="section soft" aria-labelledby="review-ready-title">
       <div class="page-shell split-grid">
         <div class="section-heading">
-          <p class="eyebrow dark">Review Ready</p>
-          <h2 id="review-ready-title">Placeholders until source-backed reviews are approved</h2>
+          <p class="eyebrow dark">Review Policy</p>
+          <h2 id="review-ready-title">Trust language that can be verified</h2>
           <p class="section-lede">
-            The layout is ready for verified excerpts, but the content stays conservative until real customer feedback can be
-            sourced and attributed appropriately.
+            This page explains where feedback lives and what will not be claimed without source support.
           </p>
         </div>
         <div class="card-grid">
-          {reviewPlaceholders.map((item) => (
-            <article class="review-placeholder">
-              <h3>Source-backed only</h3>
-              <p>{item}</p>
+          {reviewPolicy.map((item) => (
+            <article class="card policy-card">
+              <h3>{item.title}</h3>
+              <p>{item.description}</p>
             </article>
           ))}
         </div>
@@ -76,9 +85,9 @@ const reviewPlaceholders = [
           <p class="eyebrow">Have We Worked Together?</p>
           <h2 id="share-title">Share your experience on Google</h2>
           <p class="section-lede">
-            Public feedback helps neighbors make a faster decision during water damage emergencies. Google remains the
-            current source of truth for review details.
+            Public feedback helps neighbors make a faster decision during water damage emergencies. Google remains the current source of truth for review details.
           </p>
+          <p><a class="hero-link" href={reviewsSourceUrl} target="_blank" rel="noopener noreferrer">Go to the Google review source</a></p>
         </div>
         <div class="navy-card">
           <h3>Need service instead?</h3>
@@ -619,4 +628,71 @@ const reviewPlaceholders = [
       transform: none;
     }
   }
+
+
+  .hero-link {
+    color: #fed7aa;
+    font-weight: 850;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.22em;
+  }
+
+  .source-list,
+  .brief-list,
+  .resource-list,
+  .proof-list {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1.2rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .source-list li,
+  .brief-list li,
+  .resource-list li,
+  .proof-list li {
+    color: #d7e5f7;
+    line-height: 1.55;
+  }
+
+
+  .rail-card strong,
+  .jump-card strong,
+  .source-proof-card strong {
+    display: block;
+    color: var(--fd-navy);
+  }
+
+  .rail-card span,
+  .jump-card span,
+  .source-proof-card span {
+    display: block;
+    margin-top: 0.35rem;
+    color: var(--fd-muted);
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+
+  .reviews-hero {
+    background:
+      radial-gradient(circle at 16% 18%, rgba(249, 115, 22, 0.18), transparent 24rem),
+      linear-gradient(135deg, #061421 0%, #071a33 52%, #0b2b45 100%);
+  }
+
+  .policy-card {
+    margin: 0;
+  }
+
+
+  @media (max-width: 920px) {
+    .editorial-rail,
+    .faq-jump-strip,
+    .checklist-index,
+    .proof-strip {
+      grid-template-columns: 1fr;
+    }
+  }
+
 </style>

@@ -49,7 +49,7 @@ const structuredData = breadcrumbSchema([
   structuredData={structuredData}
 >
   <div class="content-page">
-    <section class="hero" aria-labelledby="guide-title">
+    <section class="hero guides-hero" aria-labelledby="guide-title">
       <div class="page-shell hero-grid">
         <div>
           <p class="eyebrow">Homeowner Guide</p>
@@ -60,15 +60,27 @@ const structuredData = breadcrumbSchema([
             <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
         </div>
-        <div class="visual-card">
-          <img alt="" src={safeGuide.heroImage} width="960" height="540" />
-        </div>
+        <aside class="hero-card reading-card">
+          <p class="eyebrow">Guide Briefing</p>
+          <h2>Use this guide to organize next steps</h2>
+          <ul class="brief-list">
+            <li>Read for preparation and owner decision support.</li>
+            <li>Call for active leaks, standing water, sewage, or safety concerns.</li>
+            <li>Keep photos, dates, and affected-room notes together.</li>
+          </ul>
+        </aside>
       </div>
     </section>
 
     <section class="section soft">
       <div class="page-shell article-grid">
-        <article class="legal-copy prose-wrap" set:html={safeGuide.content} />
+        <article>
+          <p class="article-kicker">Homeowner Guide</p>
+          <div class="legal-copy prose-wrap" set:html={safeGuide.content} />
+          <div class="article-note">
+            <strong>Use with judgment:</strong> This guide is informational. Unsafe rooms, contaminated water, or active intrusion should move to live service intake.
+          </div>
+        </article>
         <aside class="side-card">
           <p class="eyebrow dark">Need Immediate Help?</p>
           <h2>Do not wait on a guide if water is active</h2>
@@ -615,4 +627,92 @@ const structuredData = breadcrumbSchema([
       transform: none;
     }
   }
+
+
+  .hero-link {
+    color: #fed7aa;
+    font-weight: 850;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.22em;
+  }
+
+  .source-list,
+  .brief-list,
+  .resource-list,
+  .proof-list {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1.2rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .source-list li,
+  .brief-list li,
+  .resource-list li,
+  .proof-list li {
+    color: #d7e5f7;
+    line-height: 1.55;
+  }
+
+
+  .rail-card strong,
+  .jump-card strong,
+  .source-proof-card strong {
+    display: block;
+    color: var(--fd-navy);
+  }
+
+  .rail-card span,
+  .jump-card span,
+  .source-proof-card span {
+    display: block;
+    margin-top: 0.35rem;
+    color: var(--fd-muted);
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+
+  .guides-hero {
+    background:
+      radial-gradient(circle at 82% 18%, rgba(14, 165, 233, 0.24), transparent 30rem),
+      linear-gradient(135deg, #081827 0%, #0d2a4a 58%, #123b63 100%);
+  }
+
+  .article-kicker {
+    display: inline-flex;
+    width: fit-content;
+    border: 1px solid rgba(194, 65, 12, 0.22);
+    border-radius: 999px;
+    margin: 0 0 1rem;
+    padding: 0.32rem 0.72rem;
+    background: #fff7ed;
+    color: var(--fd-orange-dark);
+    font-size: 0.76rem;
+    font-weight: 850;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .article-note {
+    border-left: 4px solid var(--fd-orange);
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+    padding: 1rem 1.15rem;
+    background: #fff7ed;
+    color: var(--fd-muted);
+    line-height: 1.65;
+  }
+
+
+  @media (max-width: 920px) {
+    .editorial-rail,
+    .faq-jump-strip,
+    .checklist-index,
+    .proof-strip {
+      grid-template-columns: 1fr;
+    }
+  }
+
 </style>

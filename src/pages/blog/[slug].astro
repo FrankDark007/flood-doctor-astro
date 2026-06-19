@@ -61,7 +61,7 @@ const structuredData = [
   structuredData={structuredData}
 >
   <div class="content-page">
-    <section class="hero" aria-labelledby="post-title">
+    <section class="hero article-hero" aria-labelledby="post-title">
       <div class="page-shell hero-grid">
         <div>
           <div class="meta-row">
@@ -75,21 +75,31 @@ const structuredData = [
             <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
         </div>
-        <div class="visual-card">
-          <img alt="" src={safePost.imageUrl} width="960" height="540" />
-        </div>
+        <aside class="hero-card reading-card">
+          <p class="eyebrow">Article Briefing</p>
+          <h2>Read this as guidance, not a site-owned guarantee</h2>
+          <ul class="brief-list">
+            <li><strong>Category:</strong> {safePost.category.title}</li>
+            <li><strong>Updated:</strong> <time datetime={safePost.datetime}>{safePost.date}</time></li>
+            <li><strong>Source:</strong> Flood Doctor editorial review</li>
+          </ul>
+        </aside>
       </div>
     </section>
 
     <section class="section soft">
       <div class="page-shell article-grid">
         <article>
+          <p class="article-kicker">Field Guide</p>
           <div class="legal-copy prose-wrap" set:html={safePost.content} />
+          <div class="article-note">
+            <strong>Editorial note:</strong> This article is written to help with owner decisions. Active leaks, sewage, electrical concerns, or structural questions need live professional intake.
+          </div>
         </article>
         <aside class="side-card">
           <p class="eyebrow dark">Need Emergency Help?</p>
           <h2>Move from reading to intake</h2>
-          <p>If this article matches an active problem at your property, contact Flood Doctor for next-step triage.</p>
+          <p>If this article matches an active problem at your property, use the intake path so details can be reviewed in context.</p>
           <div class="button-row">
             <a class="button button-primary" href="/request">Request Service</a>
             <a class="button button-light" href={cityPhoneHref}>Call {cityData.phone}</a>
@@ -107,8 +117,8 @@ const structuredData = [
     <section class="section" aria-labelledby="more-blog-title">
       <div class="page-shell">
         <div class="section-heading">
-          <p class="eyebrow dark">Keep Reading</p>
-          <h2 id="more-blog-title">More from the Flood Doctor blog</h2>
+          <p class="eyebrow dark">Related Reading</p>
+          <h2 id="more-blog-title">Continue with adjacent decisions</h2>
         </div>
         <div class="card-grid">
           {relatedPosts.map((item) => (
@@ -650,4 +660,95 @@ const structuredData = [
       transform: none;
     }
   }
+
+
+  .hero-link {
+    color: #fed7aa;
+    font-weight: 850;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.22em;
+  }
+
+  .source-list,
+  .brief-list,
+  .resource-list,
+  .proof-list {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1.2rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .source-list li,
+  .brief-list li,
+  .resource-list li,
+  .proof-list li {
+    color: #d7e5f7;
+    line-height: 1.55;
+  }
+
+
+  .rail-card strong,
+  .jump-card strong,
+  .source-proof-card strong {
+    display: block;
+    color: var(--fd-navy);
+  }
+
+  .rail-card span,
+  .jump-card span,
+  .source-proof-card span {
+    display: block;
+    margin-top: 0.35rem;
+    color: var(--fd-muted);
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+
+  .article-hero {
+    background:
+      linear-gradient(135deg, rgba(7, 26, 51, 0.96), rgba(8, 47, 73, 0.98)),
+      linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px) 0 0 / 3.75rem 3.75rem;
+  }
+
+  .article-kicker,
+  .article-note {
+    width: fit-content;
+  }
+
+  .article-kicker {
+    border: 1px solid rgba(194, 65, 12, 0.22);
+    border-radius: 999px;
+    margin: 0 0 1rem;
+    padding: 0.32rem 0.72rem;
+    background: #fff7ed;
+    color: var(--fd-orange-dark);
+    font-size: 0.76rem;
+    font-weight: 850;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .article-note {
+    border-left: 4px solid var(--fd-orange);
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+    padding: 1rem 1.15rem;
+    background: #fff7ed;
+    color: var(--fd-muted);
+    line-height: 1.65;
+  }
+
+
+  @media (max-width: 920px) {
+    .editorial-rail,
+    .faq-jump-strip,
+    .checklist-index,
+    .proof-strip {
+      grid-template-columns: 1fr;
+    }
+  }
+
 </style>

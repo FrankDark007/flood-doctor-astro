@@ -32,11 +32,11 @@ const structuredData = faqPageSchema(safeFaqs)
   structuredData={structuredData}
 >
   <div class="content-page">
-    <section class="hero" aria-labelledby="faq-title">
+    <section class="hero answer-hero" aria-labelledby="faq-title">
       <div class="page-shell hero-grid">
         <div>
           <p class="eyebrow">FAQ</p>
-          <h1 id="faq-title">Frequently Asked Questions</h1>
+          <h1 id="faq-title">Water Damage Answers Without the Sales Fog</h1>
           <p class="hero-lede">
             Answers about water damage restoration, mold concerns, insurance documentation, and when to request help.
           </p>
@@ -45,19 +45,25 @@ const structuredData = faqPageSchema(safeFaqs)
             <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
         </div>
-        <aside class="hero-card">
-          <p class="eyebrow">Resource</p>
-          <h2>Need more guides?</h2>
-          <p>Visit the resource library for checklists, insurance guidance, and homeowner articles.</p>
-          <div class="button-row">
-            <a class="button button-secondary" href="/resources/">Open Resources</a>
-          </div>
+        <aside class="hero-card answer-card">
+          <p class="eyebrow">Resource Desk</p>
+          <h2>Answers are grouped by decision</h2>
+          <ul class="brief-list">
+            <li><a class="hero-link" href="/resources/insurance-guide">Insurance documentation guide</a></li>
+            <li><a class="hero-link" href="/resources/emergency-checklists">Emergency checklists</a></li>
+            <li><a class="hero-link" href="/resources/homeowner-guides">Homeowner guides</a></li>
+          </ul>
         </aside>
       </div>
     </section>
 
     <section class="section soft">
       <div class="page-shell">
+        <div class="faq-jump-strip" aria-label="Common FAQ themes">
+          <div class="card jump-card"><strong>When to call</strong><span>Active leaks, safety issues, and mitigation timing.</span></div>
+          <div class="card jump-card"><strong>What to document</strong><span>Photos, affected areas, dates, and claim records.</span></div>
+          <div class="card jump-card"><strong>What to expect</strong><span>Inspection, drying, mold concerns, and next steps.</span></div>
+        </div>
         <div class="legal-copy">
           <FAQAccordion client:load faqs={safeFaqs} />
         </div>
@@ -592,4 +598,74 @@ const structuredData = faqPageSchema(safeFaqs)
       transform: none;
     }
   }
+
+
+  .hero-link {
+    color: #fed7aa;
+    font-weight: 850;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.22em;
+  }
+
+  .source-list,
+  .brief-list,
+  .resource-list,
+  .proof-list {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1.2rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .source-list li,
+  .brief-list li,
+  .resource-list li,
+  .proof-list li {
+    color: #d7e5f7;
+    line-height: 1.55;
+  }
+
+
+  .rail-card strong,
+  .jump-card strong,
+  .source-proof-card strong {
+    display: block;
+    color: var(--fd-navy);
+  }
+
+  .rail-card span,
+  .jump-card span,
+  .source-proof-card span {
+    display: block;
+    margin-top: 0.35rem;
+    color: var(--fd-muted);
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+
+  .answer-hero {
+    background:
+      linear-gradient(135deg, rgba(7, 26, 51, 0.97), rgba(15, 79, 184, 0.76)),
+      repeating-linear-gradient(-45deg, rgba(255, 255, 255, 0.08) 0 1px, transparent 1px 14px);
+  }
+
+  .faq-jump-strip {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+
+  @media (max-width: 920px) {
+    .editorial-rail,
+    .faq-jump-strip,
+    .checklist-index,
+    .proof-strip {
+      grid-template-columns: 1fr;
+    }
+  }
+
 </style>
