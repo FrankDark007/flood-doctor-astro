@@ -38,7 +38,7 @@ export default defineConfig({
       customSitemaps: citySitemaps,
       filter: (page) => {
         // Exclude redirect-only pages from sitemap
-        const redirectPaths = ['/faq/', '/guides/']
+        const redirectPaths = ['/guides/']
         return !redirectPaths.some((p) => page.includes(p) && !page.includes('/resources/'))
       },
     }),

@@ -1,32 +1,39 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import Icon from '../../components/Icon.astro'
-import CTABand from '../../components/sections/CTABand.astro'
 import FAQAccordion from '../../components/islands/FAQAccordion.tsx'
 import { cityData } from '../../data/cities'
 import { getDivisionCategories } from '../../data/services/service-tree'
+import { breadcrumbSchema, cityBaseUrl } from '../../utils/schema'
 import { toTelHref } from '../../utils/phone'
 const cityPhoneHref = toTelHref(cityData.phone)
+const _base = cityBaseUrl()
 
 const residentialCategories = getDivisionCategories('residential')
 const commercialCategories = getDivisionCategories('commercial')
 
-const structuredData = {
-  '@context': 'https://schema.org',
-  '@type': 'ItemList',
-  name: `Restoration Services in ${cityData.name}`,
-  description: `Professional water damage restoration, mold remediation, and emergency cleanup services in ${cityData.name}, ${cityData.state}.`,
-  itemListElement: [
-    { '@type': 'ListItem', position: 1, item: { '@type': 'Service', name: 'Residential Services', url: '/services/residential' } },
-    { '@type': 'ListItem', position: 2, item: { '@type': 'Service', name: 'Commercial Services', url: '/services/commercial' } },
-  ],
-}
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `Restoration Services in ${cityData.name}`,
+    description: `Professional water damage restoration, mold remediation, and emergency cleanup services in ${cityData.name}, ${cityData.state}.`,
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, item: { '@type': 'Service', name: 'Residential Services', url: `${_base}/services/residential/` } },
+      { '@type': 'ListItem', position: 2, item: { '@type': 'Service', name: 'Commercial Services', url: `${_base}/services/commercial/` } },
+    ],
+  },
+  breadcrumbSchema([
+    { name: 'Home', url: `${_base}/` },
+    { name: 'Services', url: `${_base}/services/` },
+  ]),
+]
 
 const serviceStandards = [
-  { label: 'Emergency Intake', value: '24/7' },
-  { label: 'Property Types', value: 'Homes + Businesses' },
-  { label: 'Documentation', value: 'Photos + Scope Notes' },
-  { label: 'Coverage Check', value: 'By Phone' },
+  { label: 'Emergency intake', value: '24/7', body: 'Tell us what happened, what is still wet, and whether the source is controlled.' },
+  { label: 'Property types', value: 'Home + business', body: 'Residential rooms, commercial spaces, specialty facilities, and multi-unit properties.' },
+  { label: 'Documentation', value: 'Photos + notes', body: 'Scope notes and moisture details help keep owners, managers, and carriers aligned.' },
+  { label: 'Next step', value: 'Request or call', body: 'Use the form for service details; call when water is active or safety is uncertain.' },
 ]
 
 const faqs = [
@@ -42,144 +49,488 @@ const faqs = [
   description={`Professional water damage restoration services in ${cityData.name}. Residential and commercial emergency response, mold remediation, flood cleanup, and more.`}
   structuredData={structuredData}
 >
-  <!-- ═══ HERO ═══ -->
-  <div class="relative isolate">
-    <svg
-      aria-hidden="true"
-      class="absolute inset-x-0 top-0 -z-10 h-[64rem] w-full mask-[radial-gradient(32rem_32rem_at_center,white,transparent)] stroke-gray-200 dark:stroke-white/10"
-    >
-      <defs>
-        <pattern x="50%" y="-1" id="services-hero-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
-          <path d="M.5 200V.5H200" fill="none" />
-        </pattern>
-      </defs>
-      <rect fill="url(#services-hero-pattern)" width="100%" height="100%" stroke-width="0" />
-    </svg>
-    <div class="overflow-hidden">
-      <div class="mx-auto max-w-7xl px-6 pt-36 pb-32 sm:pt-60 lg:px-8 lg:pt-32">
-        <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
-          <h1 class="text-5xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-7xl">
-            Restoration Services in {cityData.name}
-          </h1>
-          <p class="mt-8 text-lg font-medium text-pretty text-gray-600 dark:text-gray-400 sm:text-xl/8">
-            From emergency water extraction to complete reconstruction, restoration crews handle property
-            cleanup and drying for homes and businesses. Available 24/7.
+  <main class="service-system">
+    <section class="command-hero" aria-labelledby="services-title">
+      <div class="hero-glow" aria-hidden="true"></div>
+      <div class="service-shell hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Emergency Service Command Center</p>
+          <h1 id="services-title">Restoration Services in {cityData.name}</h1>
+          <p class="hero-lede">
+            Water damage gets expensive when decisions are delayed. Start here to route the right residential or
+            commercial response: intake, water removal, drying, cleanup, documentation, and next-step repair planning.
           </p>
-          <div class="mt-10 flex items-center gap-x-6">
-            <a
-              href="/request"
-              class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400"
-            >
-              Request Service
-            </a>
-            <a href={cityPhoneHref} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
-              Call {cityData.phone} <span aria-hidden="true">&rarr;</span>
-            </a>
+          <div class="action-row" aria-label="Service request actions">
+            <a class="fd-btn fd-btn-primary" href="/request">Request Emergency Service</a>
+            <a class="fd-btn fd-btn-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
         </div>
+        <aside class="command-panel" aria-label="Emergency triage priorities">
+          <span class="panel-kicker">When to call now</span>
+          <ul>
+            <li>Water is still entering or spreading.</li>
+            <li>Electrical, sewage, ceiling, or structural hazards are possible.</li>
+            <li>Wet drywall, flooring, insulation, or contents need documentation.</li>
+          </ul>
+          <a href={cityPhoneHref}>Call Now <span aria-hidden="true">&rarr;</span></a>
+        </aside>
       </div>
-    </div>
-  </div>
+    </section>
 
-  <!-- RESIDENTIAL -->
-  <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl lg:mx-0">
-        <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">For Homeowners</h2>
-        <p class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
-          <a href="/services/residential" class="hover:text-indigo-600 dark:hover:text-indigo-400">Residential Services</a>
-        </p>
-        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-300">
-          Complete water damage restoration, cleanup, and specialty services for your home.
-        </p>
-      </div>
-      <dl class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-8 text-base/7 text-gray-600 dark:text-gray-400 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-x-16">
-        {residentialCategories.map((category) => (
-          <div class="relative pl-9">
-            <dt class="inline font-semibold text-gray-900 dark:text-white">
-              <Icon name={category.icon || 'check'} class="absolute top-1 left-1 size-5 text-indigo-600 dark:text-indigo-500" />
-              <a href={category.path} class="hover:text-indigo-600 dark:hover:text-indigo-400">{category.name}</a>
-            </dt>{' '}
-            <dd class="inline">{category.description}</dd>
+    <section class="choice-section" aria-labelledby="service-paths-title">
+      <div class="service-shell">
+        <div class="split-heading">
+          <div>
+            <p class="eyebrow">Choose the property type</p>
+            <h2 id="service-paths-title">Two service paths, one emergency-first system</h2>
           </div>
-        ))}
-      </dl>
-      <div class="mt-10">
-        <a href="/services/residential" class="text-sm font-semibold text-indigo-600 dark:text-indigo-400 hover:text-indigo-500">
-          View all residential services <span aria-hidden="true">&rarr;</span>
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <!-- ═══ COMMERCIAL ═══ -->
-  <div class="bg-white dark:bg-gray-900 py-24 sm:py-32">
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl lg:mx-0">
-        <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">For Businesses</h2>
-        <p class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
-          <a href="/services/commercial" class="hover:text-indigo-600 dark:hover:text-indigo-400">Commercial Services</a>
-        </p>
-        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-300">
-          Enterprise-grade restoration, cleanup, and technical services for businesses and commercial facilities.
-        </p>
-      </div>
-      <dl class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-8 text-base/7 text-gray-600 dark:text-gray-400 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-4 lg:gap-x-16">
-        {commercialCategories.map((category) => (
-          <div class="relative pl-9">
-            <dt class="inline font-semibold text-gray-900 dark:text-white">
-              <Icon name={category.icon || 'check'} class="absolute top-1 left-1 size-5 text-indigo-600 dark:text-indigo-500" />
-              <a href={category.path} class="hover:text-indigo-600 dark:hover:text-indigo-400">{category.name}</a>
-            </dt>{' '}
-            <dd class="inline">{category.description}</dd>
-          </div>
-        ))}
-      </dl>
-      <div class="mt-10">
-        <a href="/services/commercial" class="text-sm font-semibold text-indigo-600 dark:text-indigo-400 hover:text-indigo-500">
-          View all commercial services <span aria-hidden="true">&rarr;</span>
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <!-- ═══ SERVICE STANDARDS ═══ -->
-  <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
-        <p class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Why Flood Doctor</p>
-        <h2 class="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-5xl">
-          Restoration help built for urgent property damage
-        </h2>
-        <dl class="mt-16 grid grid-cols-1 gap-x-8 gap-y-12 sm:mt-20 sm:grid-cols-2 sm:gap-y-16 lg:mt-28 lg:grid-cols-4">
-          {serviceStandards.map((stat) => (
-            <div class="flex flex-col-reverse gap-y-3 border-l border-gray-300 dark:border-white/20 pl-6">
-              <dt class="text-base/7 text-gray-600 dark:text-gray-300">{stat.label}</dt>
-              <dd class="text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">{stat.value}</dd>
+          <p>
+            Each hub groups services by what has to happen next: stabilize the loss, remove water or contamination,
+            dry affected materials, and organize the documentation.
+          </p>
+        </div>
+        <div class="division-grid">
+          <article class="division-card division-card-blue">
+            <span class="division-tag">For homeowners</span>
+            <h3><a href="/services/residential">Residential Services</a></h3>
+            <p>Water damage, flood cleanup, mold remediation, and specialty drying for houses, townhomes, condos, and basements.</p>
+            <div class="mini-card-grid">
+              {residentialCategories.map((category) => (
+                <a href={category.path} class="mini-card">
+                  <Icon name={category.icon || 'check'} class="mini-icon" />
+                  <span>{category.name}</span>
+                </a>
+              ))}
             </div>
-          ))}
-        </dl>
+          </article>
+          <article class="division-card division-card-navy">
+            <span class="division-tag">For businesses</span>
+            <h3><a href="/services/commercial">Commercial Services</a></h3>
+            <p>Large-loss response, commercial cleanup, specialty facilities, technical consulting, and downtime-aware coordination.</p>
+            <div class="mini-card-grid">
+              {commercialCategories.map((category) => (
+                <a href={category.path} class="mini-card">
+                  <Icon name={category.icon || 'check'} class="mini-icon" />
+                  <span>{category.name}</span>
+                </a>
+              ))}
+            </div>
+          </article>
+        </div>
       </div>
-    </div>
-  </div>
+    </section>
 
-  <!-- CTA BAND -->
-  <CTABand
-    heading="Water damage emergency?"
-    description="Don't wait — every minute counts. Request emergency service so we can confirm details and coordinate the right restoration response."
-    primaryText="Request Emergency Service"
-    primaryHref="/request"
-    secondaryText={`Call ${cityData.phone}`}
-    secondaryHref={cityPhoneHref}
-  />
+    <section class="standards-section" aria-labelledby="standards-title">
+      <div class="service-shell">
+        <div class="section-heading">
+          <p class="eyebrow">Operating standards</p>
+          <h2 id="standards-title">Built for urgent property damage, not generic lead capture</h2>
+        </div>
+        <div class="standards-grid">
+          {serviceStandards.map((stat) => (
+            <article class="standard-card">
+              <span>{stat.label}</span>
+              <strong>{stat.value}</strong>
+              <p>{stat.body}</p>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
 
-  <!-- FAQ -->
-  <div class="bg-white dark:bg-gray-900">
-    <div class="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8 lg:py-40">
-      <div class="mx-auto max-w-4xl">
-        <h2 class="text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">Frequently asked questions</h2>
+    <section class="cta-section" aria-labelledby="services-cta-title">
+      <div class="service-shell cta-panel">
+        <div>
+          <p class="eyebrow">Water damage emergency?</p>
+          <h2 id="services-cta-title">Tell us what happened and where the water went</h2>
+          <p>Request service so intake can confirm details and coordinate the right restoration response for {cityData.name}.</p>
+        </div>
+        <div class="action-row cta-actions">
+          <a class="fd-btn fd-btn-primary" href="/request">Request Emergency Service</a>
+          <a class="fd-btn fd-btn-outline" href={cityPhoneHref}>Call {cityData.phone}</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="faq-section" aria-labelledby="services-faq-title">
+      <div class="service-shell faq-wrap">
+        <p class="eyebrow">FAQ</p>
+        <h2 id="services-faq-title">Frequently asked questions</h2>
         <FAQAccordion client:visible faqs={faqs} />
       </div>
-    </div>
-  </div>
+    </section>
+  </main>
 </BaseLayout>
+
+<style>
+  .service-system {
+    --navy: #06172e;
+    --navy-2: #08203f;
+    --blue: #1478e6;
+    --blue-dark: #0b63ce;
+    --orange: #d94a12;
+    --orange-dark: #b9380c;
+    --ink: #102033;
+    --muted: #53647a;
+    --line: #d9e6f5;
+    --soft: #f4f9ff;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: clip;
+    background: #ffffff;
+    color: var(--ink);
+    font-family: 'Avenir Next', 'Trebuchet MS', Verdana, sans-serif;
+  }
+
+  .service-shell {
+    width: min(1120px, calc(100% - 2rem));
+    margin-inline: auto;
+  }
+
+  .command-hero {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    background:
+      radial-gradient(circle at 82% 18%, rgba(20, 120, 230, 0.28), transparent 24rem),
+      linear-gradient(135deg, var(--navy), var(--navy-2));
+    padding: clamp(5rem, 9vw, 8rem) 0 clamp(4rem, 7vw, 6rem);
+  }
+
+  .command-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.055) 1px, transparent 1px);
+    background-size: 44px 44px;
+    mask-image: linear-gradient(180deg, black, transparent 82%);
+    z-index: -1;
+  }
+
+  .hero-glow {
+    position: absolute;
+    right: -12rem;
+    bottom: -18rem;
+    width: min(46rem, 90vw);
+    aspect-ratio: 1;
+    border-radius: 999px;
+    background: radial-gradient(circle, rgba(217, 74, 18, 0.28), transparent 64%);
+    z-index: -1;
+  }
+
+  .hero-grid,
+  .split-heading,
+  .cta-panel {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(280px, 0.72fr);
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: center;
+  }
+
+  .eyebrow {
+    margin: 0 0 .75rem;
+    color: var(--orange);
+    font-size: .78rem;
+    font-weight: 900;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+  }
+
+  .command-hero .eyebrow,
+  .cta-section .eyebrow,
+  .division-card-navy .division-tag {
+    color: #fed7aa;
+  }
+
+  h1,
+  h2,
+  h3,
+  p {
+    overflow-wrap: anywhere;
+  }
+
+  h1,
+  h2,
+  h3 {
+    margin: 0;
+    letter-spacing: -.055em;
+    line-height: 1;
+  }
+
+  h1 {
+    max-width: 11ch;
+    color: #ffffff;
+    font-size: clamp(2.6rem, 8vw, 5.6rem);
+    font-weight: 920;
+  }
+
+  h2 {
+    color: var(--navy);
+    font-size: clamp(2rem, 4.4vw, 3.4rem);
+    font-weight: 880;
+  }
+
+  h3 {
+    color: var(--navy);
+    font-size: clamp(1.55rem, 3vw, 2.15rem);
+    font-weight: 880;
+  }
+
+  .hero-lede,
+  .split-heading > p,
+  .section-heading + p,
+  .cta-panel p {
+    margin: 1.25rem 0 0;
+    color: var(--muted);
+    font-size: clamp(1rem, 2vw, 1.16rem);
+    font-weight: 560;
+    line-height: 1.75;
+  }
+
+  .hero-lede,
+  .command-panel li {
+    color: #c9d7e8;
+  }
+
+  .action-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .85rem;
+    margin-top: 1.8rem;
+  }
+
+  .command-panel {
+    min-width: 0;
+    border: 1px solid rgba(255,255,255,.14);
+    border-radius: 1.5rem;
+    background: linear-gradient(180deg, rgba(255,255,255,.12), rgba(255,255,255,.06));
+    box-shadow: 0 24px 80px rgba(6, 23, 46, .34);
+    padding: clamp(1.25rem, 4vw, 2rem);
+  }
+
+  .panel-kicker,
+  .division-tag,
+  .standard-card span {
+    display: block;
+    color: var(--blue-dark);
+    font-size: .76rem;
+    font-weight: 900;
+    letter-spacing: .11em;
+    text-transform: uppercase;
+  }
+
+  .command-panel ul {
+    display: grid;
+    gap: .9rem;
+    margin: 1.25rem 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .command-panel li {
+    position: relative;
+    padding-left: 1.35rem;
+    line-height: 1.55;
+  }
+
+  .command-panel li::before {
+    content: '';
+    position: absolute;
+    top: .58rem;
+    left: 0;
+    width: .5rem;
+    height: .5rem;
+    border-radius: 999px;
+    background: var(--orange);
+  }
+
+  .command-panel a,
+  .mini-card,
+  .division-card h3 a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .command-panel a {
+    color: #ffffff;
+    font-weight: 850;
+  }
+
+  .choice-section,
+  .standards-section,
+  .faq-section {
+    padding: clamp(4rem, 7vw, 6.5rem) 0;
+  }
+
+  .choice-section,
+  .faq-section {
+    background: linear-gradient(180deg, #f7fbff, #ffffff);
+  }
+
+  .division-grid,
+  .standards-grid,
+  .mini-card-grid {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .division-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-top: 2rem;
+  }
+
+  .division-card,
+  .standard-card {
+    min-width: 0;
+    border-radius: 1.5rem;
+    box-shadow: 0 18px 55px rgba(6, 23, 46, .12);
+  }
+
+  .division-card {
+    padding: clamp(1.25rem, 4vw, 2rem);
+  }
+
+  .division-card-blue {
+    border: 1px solid rgba(20, 120, 230, .18);
+    background: linear-gradient(135deg, #ffffff, #eef6ff);
+  }
+
+  .division-card-navy {
+    border: 1px solid rgba(255,255,255,.12);
+    background:
+      radial-gradient(circle at top right, rgba(20, 120, 230, .24), transparent 22rem),
+      linear-gradient(135deg, var(--navy-2), var(--navy));
+  }
+
+  .division-card-navy h3,
+  .division-card-navy p {
+    color: #ffffff;
+  }
+
+  .division-card p,
+  .standard-card p {
+    margin: 1rem 0 0;
+    color: var(--muted);
+    line-height: 1.65;
+  }
+
+  .division-card-navy p {
+    color: #c9d7e8;
+  }
+
+  .mini-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-top: 1.4rem;
+  }
+
+  .mini-card {
+    display: flex;
+    min-width: 0;
+    align-items: center;
+    gap: .7rem;
+    border: 1px solid rgba(15,79,184,.14);
+    border-radius: 1rem;
+    background: rgba(255,255,255,.82);
+    padding: .85rem;
+    color: var(--navy);
+    font-weight: 800;
+    line-height: 1.2;
+  }
+
+  .division-card-navy .mini-card {
+    border-color: rgba(255,255,255,.14);
+    background: rgba(255,255,255,.08);
+    color: #ffffff;
+  }
+
+  .mini-icon {
+    width: 1.1rem;
+    height: 1.1rem;
+    flex: 0 0 auto;
+    color: var(--blue-dark);
+  }
+
+  .division-card-navy .mini-icon {
+    color: #93c5fd;
+  }
+
+  .standards-section {
+    background: #ffffff;
+  }
+
+  .standards-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    margin-top: 2rem;
+  }
+
+  .standard-card {
+    border: 1px solid var(--line);
+    background: #ffffff;
+    padding: 1.25rem;
+  }
+
+  .standard-card strong {
+    display: block;
+    margin-top: .7rem;
+    color: var(--navy);
+    font-size: 1.45rem;
+    letter-spacing: -.04em;
+    line-height: 1;
+  }
+
+  .cta-section {
+    background: var(--navy);
+    color: #ffffff;
+    padding: clamp(4rem, 7vw, 6rem) 0;
+  }
+
+  .cta-section h2,
+  .cta-section p {
+    color: #ffffff;
+  }
+
+  .cta-actions {
+    justify-content: end;
+  }
+
+  .faq-wrap {
+    max-width: 56rem;
+  }
+
+  @media (max-width: 900px) {
+    .hero-grid,
+    .split-heading,
+    .cta-panel,
+    .division-grid,
+    .standards-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .cta-actions {
+      justify-content: start;
+    }
+  }
+
+  @media (max-width: 560px) {
+    .service-shell {
+      width: min(100% - 1.25rem, 1120px);
+    }
+
+    h1 {
+      max-width: 100%;
+      font-size: clamp(2.2rem, 11vw, 3rem);
+    }
+
+    .action-row {
+      flex-direction: column;
+    }
+
+    .action-row :global(.fd-btn) {
+      width: 100%;
+    }
+
+    .mini-card-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

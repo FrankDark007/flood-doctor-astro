@@ -1,8 +1,9 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
-import ReviewsList from '../components/islands/ReviewsList.tsx'
 import { cityData } from '../data/cities'
 import { reviewsSourceUrl } from '../data/reviews'
+import { toTelHref } from '../utils/phone'
+const cityPhoneHref = toTelHref(cityData.phone)
 
 const structuredData = {
   '@context': 'https://schema.org',
@@ -10,6 +11,12 @@ const structuredData = {
   name: `Customer Reviews | Flood Doctor ${cityData.name}`,
   description: `Customer feedback and Google review links for Flood Doctor ${cityData.name}.`,
 }
+
+const reviewPlaceholders = [
+  'Public Google feedback is intentionally linked out instead of summarized with a site-owned rating.',
+  'Future featured excerpts should be copied only from verified customer feedback with permission and source context.',
+  'No site-owned rating summary or invented testimonials are published on this page.',
+]
 ---
 
 <BaseLayout
@@ -17,60 +24,599 @@ const structuredData = {
   description={`Read selected customer feedback for Flood Doctor ${cityData.name} and visit our Google profile for current customer feedback.`}
   structuredData={structuredData}
 >
-  <div class="py-16 sm:py-24">
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl text-center">
-        <h1 class="text-4xl font-semibold tracking-tight text-balance text-white sm:text-5xl">
-          Customer Reviews
-        </h1>
-        <p class="mt-2 text-lg/8 text-gray-300">
-          Selected customer feedback for Flood Doctor {cityData.name} and Northern Virginia. For the latest public customer feedback, use our Google profile.
-        </p>
-      </div>
-    </div>
-  </div>
-
-  <div class="pb-24 sm:pb-32">
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="lg:grid lg:grid-cols-12 lg:gap-8">
-        <div class="lg:col-span-4">
-          <div class="lg:sticky lg:top-8 space-y-6">
-            <div class="rounded-2xl bg-white/5 p-8 outline-1 -outline-offset-1 outline-white/10">
-              <h2 class="text-2xl font-semibold text-white">Google Reviews</h2>
-              <p class="mt-4 text-sm/6 text-gray-400">
-                We keep public feedback sourced to Google instead of publishing site-owned score summaries. Use the Google profile for current review details.
-              </p>
-              <a
-                href={reviewsSourceUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="mt-6 inline-flex w-full justify-center rounded-md bg-indigo-500 px-6 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500"
-              >
-                See Reviews on Google
-              </a>
-            </div>
-
-            <div class="rounded-2xl bg-white/5 p-8 outline-1 -outline-offset-1 outline-white/10 text-center">
-              <h3 class="text-lg font-semibold text-white">Have we worked together?</h3>
-              <p class="mt-2 text-sm text-gray-400">
-                Sharing your experience helps neighbors make a faster, more confident decision during water damage emergencies.
-              </p>
-              <a
-                href={reviewsSourceUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="mt-6 inline-block rounded-md bg-white/10 px-6 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-white/20 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
-              >
-                Write a Review
-              </a>
-            </div>
+  <div class="content-page">
+    <section class="hero" aria-labelledby="reviews-title">
+      <div class="page-shell hero-grid">
+        <div>
+          <p class="eyebrow">Reviews</p>
+          <h1 id="reviews-title">Verified Feedback Belongs at the Source</h1>
+          <p class="hero-lede">
+            Flood Doctor keeps this page review-ready without publishing invented ratings, fabricated testimonials, or
+            site-owned score summaries. Use Google for current public customer feedback.
+          </p>
+          <div class="button-row">
+            <a class="button button-primary" href={reviewsSourceUrl} target="_blank" rel="noopener noreferrer">See Reviews on Google</a>
+            <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
         </div>
+        <aside class="hero-card">
+          <p class="eyebrow">Review Policy</p>
+          <h2>No fake social proof</h2>
+          <p>
+            This page is structured for customer feedback but avoids invented review copy, ratings, and review schema.
+          </p>
+        </aside>
+      </div>
+    </section>
 
-        <div class="mt-10 lg:col-span-8 lg:mt-0">
-          <ReviewsList client:load />
+    <section class="section soft" aria-labelledby="review-ready-title">
+      <div class="page-shell split-grid">
+        <div class="section-heading">
+          <p class="eyebrow dark">Review Ready</p>
+          <h2 id="review-ready-title">Placeholders until source-backed reviews are approved</h2>
+          <p class="section-lede">
+            The layout is ready for verified excerpts, but the content stays conservative until real customer feedback can be
+            sourced and attributed appropriately.
+          </p>
+        </div>
+        <div class="card-grid">
+          {reviewPlaceholders.map((item) => (
+            <article class="review-placeholder">
+              <h3>Source-backed only</h3>
+              <p>{item}</p>
+            </article>
+          ))}
         </div>
       </div>
-    </div>
+    </section>
+
+    <section class="section navy" aria-labelledby="share-title">
+      <div class="page-shell split-grid">
+        <div>
+          <p class="eyebrow">Have We Worked Together?</p>
+          <h2 id="share-title">Share your experience on Google</h2>
+          <p class="section-lede">
+            Public feedback helps neighbors make a faster decision during water damage emergencies. Google remains the
+            current source of truth for review details.
+          </p>
+        </div>
+        <div class="navy-card">
+          <h3>Need service instead?</h3>
+          <p>If you are dealing with water damage now, contact Flood Doctor directly.</p>
+          <div class="button-row">
+            <a class="button button-primary" href="/request">Request Service</a>
+            <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 </BaseLayout>
+
+
+<style>
+  :global(html) {
+    overflow-x: hidden;
+  }
+
+  .content-page {
+    --fd-blue: #1a73e8;
+    --fd-blue-dark: #0f4fb8;
+    --fd-navy: #071a33;
+    --fd-navy-2: #0b1f3a;
+    --fd-ink: #102033;
+    --fd-muted: #53647a;
+    --fd-soft: #eef6ff;
+    --fd-soft-2: #f7fbff;
+    --fd-orange: #c2410c;
+    --fd-orange-dark: #9a3412;
+    --fd-line: #d9e6f5;
+    --fd-white: #ffffff;
+    width: 100%;
+    overflow-x: clip;
+    background: linear-gradient(180deg, #f7fbff 0%, #ffffff 34%, #eef6ff 100%);
+    color: var(--fd-ink);
+    font-family: 'Avenir Next', 'Trebuchet MS', Verdana, sans-serif;
+  }
+
+  .page-shell {
+    width: min(1120px, calc(100% - 2rem));
+    margin-inline: auto;
+  }
+
+  .hero {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    background:
+      radial-gradient(circle at 82% 18%, rgba(26, 115, 232, 0.38), transparent 34rem),
+      radial-gradient(circle at 16% 100%, rgba(194, 65, 12, 0.22), transparent 30rem),
+      linear-gradient(135deg, var(--fd-navy), var(--fd-navy-2));
+    color: white;
+    padding: clamp(4.5rem, 9vw, 7rem) 0;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    opacity: 0.12;
+    background-image: url('/graphics/water-emergency-pattern.svg');
+    background-size: 420px 420px;
+    mix-blend-mode: screen;
+  }
+
+  .hero-grid,
+  .split-grid,
+  .article-grid,
+  .contact-grid,
+  .request-grid,
+  .legal-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 0.9fr) minmax(300px, 0.8fr);
+    gap: clamp(2rem, 5vw, 4.5rem);
+    align-items: start;
+  }
+
+  .eyebrow {
+    margin: 0 0 0.85rem;
+    color: #fed7aa;
+    font-size: 0.78rem;
+    font-weight: 850;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .eyebrow.dark {
+    color: var(--fd-orange-dark);
+  }
+
+  h1,
+  h2,
+  h3,
+  p {
+    overflow-wrap: anywhere;
+  }
+
+  h1 {
+    max-width: 13ch;
+    margin: 0;
+    color: white;
+    font-size: clamp(2.65rem, 7vw, 5.4rem);
+    font-weight: 900;
+    letter-spacing: -0.07em;
+    line-height: 0.95;
+    text-wrap: balance;
+  }
+
+  h2 {
+    margin: 0;
+    color: var(--fd-navy);
+    font-size: clamp(1.95rem, 4vw, 3.1rem);
+    font-weight: 880;
+    letter-spacing: -0.052em;
+    line-height: 1;
+  }
+
+  h3 {
+    margin: 0;
+    color: var(--fd-navy);
+    font-size: 1.08rem;
+    font-weight: 830;
+    letter-spacing: -0.025em;
+    line-height: 1.25;
+  }
+
+  .hero-lede,
+  .section-lede {
+    margin: 1.25rem 0 0;
+    max-width: 44rem;
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    font-weight: 560;
+    line-height: 1.75;
+  }
+
+  .hero-lede {
+    color: #d7e5f7;
+  }
+
+  .section-lede,
+  .card p,
+  .side-card p,
+  .check-card li,
+  .legal-copy p,
+  .article-card p {
+    color: var(--fd-muted);
+  }
+
+  .button-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.85rem;
+    align-items: center;
+    margin-top: 1.75rem;
+  }
+
+  .button {
+    display: inline-flex;
+    min-height: 3rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    padding: 0.82rem 1.18rem;
+    font-size: 0.94rem;
+    font-weight: 850;
+    line-height: 1.15;
+    text-decoration: none;
+    transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+  }
+
+  .button:hover {
+    transform: translateY(-1px);
+  }
+
+  .button:focus-visible,
+  .text-link:focus-visible,
+  .card-link:focus-visible {
+    outline: 3px solid rgba(26, 115, 232, 0.45);
+    outline-offset: 3px;
+  }
+
+  .button-primary {
+    background: var(--fd-orange);
+    color: white;
+    box-shadow: 0 16px 30px rgba(249, 115, 22, 0.24);
+  }
+
+  .button-primary:hover {
+    background: var(--fd-orange-dark);
+  }
+
+  .button-secondary {
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    background: rgba(255, 255, 255, 0.08);
+    color: white;
+  }
+
+  .button-light {
+    border: 1px solid rgba(11, 31, 58, 0.16);
+    background: white;
+    color: var(--fd-navy);
+    box-shadow: 0 12px 28px rgba(15, 79, 184, 0.12);
+  }
+
+  .section {
+    padding: clamp(4rem, 7vw, 6.5rem) 0;
+  }
+
+  .section.soft {
+    background: linear-gradient(180deg, var(--fd-soft-2), #ffffff);
+  }
+
+  .section.navy {
+    background: var(--fd-navy);
+    color: white;
+  }
+
+  .section.navy h2,
+  .section.navy h3 {
+    color: white;
+  }
+
+  .section.navy .section-lede,
+  .section.navy p {
+    color: #c9d7e8;
+  }
+
+  .section-heading {
+    max-width: 48rem;
+  }
+
+  .section-heading.center {
+    margin-inline: auto;
+    text-align: center;
+  }
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .card-grid.two {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .card-grid.four {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .card,
+  .side-card,
+  .form-panel,
+  .check-card,
+  .article-card,
+  .legal-copy,
+  .review-placeholder {
+    min-width: 0;
+    border: 1px solid var(--fd-line);
+    border-radius: 1.35rem;
+    background: white;
+    box-shadow: 0 12px 34px rgba(11, 31, 58, 0.07);
+  }
+
+  .card,
+  .side-card,
+  .check-card,
+  .article-card,
+  .legal-copy,
+  .review-placeholder {
+    padding: clamp(1.25rem, 3vw, 2rem);
+  }
+
+  .card p,
+  .side-card p,
+  .article-card p {
+    margin: 0.75rem 0 0;
+    font-size: 0.95rem;
+    line-height: 1.65;
+  }
+
+  .pill-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin-top: 1.4rem;
+  }
+
+  .pill {
+    border: 1px solid rgba(217, 230, 245, 0.82);
+    border-radius: 999px;
+    background: white;
+    color: var(--fd-navy);
+    padding: 0.52rem 0.75rem;
+    font-size: 0.86rem;
+    font-weight: 780;
+  }
+
+  .hero-card,
+  .navy-card {
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 1.5rem;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.055));
+    padding: clamp(1.25rem, 4vw, 2rem);
+    box-shadow: 0 24px 70px rgba(0, 0, 0, 0.18);
+  }
+
+  .hero-card h2,
+  .hero-card h3,
+  .navy-card h2,
+  .navy-card h3 {
+    color: white;
+  }
+
+  .hero-card p,
+  .hero-card li,
+  .navy-card p,
+  .navy-card li {
+    color: #d7e5f7;
+  }
+
+  .number-list,
+  .clean-list,
+  .columns-list {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1.25rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .columns-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .number-list li,
+  .clean-list li,
+  .columns-list li {
+    position: relative;
+    padding-left: 1.7rem;
+    line-height: 1.55;
+  }
+
+  .number-list li::before,
+  .clean-list li::before,
+  .columns-list li::before {
+    content: '';
+    position: absolute;
+    top: 0.58rem;
+    left: 0;
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 999px;
+    background: var(--fd-orange);
+  }
+
+  .text-link,
+  .card-link {
+    color: var(--fd-blue-dark);
+    font-weight: 850;
+    text-decoration: none;
+  }
+
+  .prose-wrap :global(h2) {
+    margin-top: 2.6rem;
+    color: var(--fd-navy);
+    font-size: clamp(1.65rem, 3vw, 2.2rem);
+    letter-spacing: -0.04em;
+  }
+
+  .prose-wrap :global(h2:first-child) {
+    margin-top: 0;
+  }
+
+  .prose-wrap :global(p),
+  .prose-wrap :global(li) {
+    color: var(--fd-muted);
+    line-height: 1.78;
+  }
+
+  .prose-wrap :global(a) {
+    color: var(--fd-blue-dark);
+    font-weight: 800;
+  }
+
+  .prose-wrap :global(strong) {
+    color: var(--fd-navy);
+  }
+
+  .prose-wrap :global(blockquote) {
+    margin: 2rem 0;
+    border-left: 4px solid var(--fd-orange);
+    border-radius: 1rem;
+    background: var(--fd-soft);
+    padding: 1rem 1.25rem;
+  }
+
+  .visual-card {
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 1.6rem;
+    background: rgba(255, 255, 255, 0.08);
+  }
+
+  .visual-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .resource-browser,
+  .dark-island {
+    border-radius: 1.5rem;
+    background: var(--fd-navy);
+    padding: clamp(1rem, 3vw, 2rem);
+    box-shadow: 0 24px 70px rgba(11, 31, 58, 0.16);
+  }
+
+  .form-panel {
+    overflow: hidden;
+    background: var(--fd-navy);
+  }
+
+  .form-panel :global(form) {
+    padding: clamp(1.25rem, 4vw, 2rem) !important;
+  }
+
+  .form-panel :global(label),
+  .form-panel :global(h3),
+  .form-panel :global(button) {
+    color: white;
+  }
+
+  .form-panel :global(button[type='submit']) {
+    border-radius: 999px;
+    background: var(--fd-orange);
+  }
+
+  .form-panel :global(button[type='submit']:hover) {
+    background: var(--fd-orange-dark);
+  }
+
+  .meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    align-items: center;
+    margin-bottom: 1.25rem;
+    color: #d7e5f7;
+    font-size: 0.9rem;
+  }
+
+  .meta-pill {
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.12);
+    padding: 0.4rem 0.7rem;
+    color: white;
+    font-weight: 780;
+  }
+
+  .article-image {
+    overflow: hidden;
+    margin-top: 2rem;
+    border-radius: 1.35rem;
+    background: var(--fd-soft);
+  }
+
+  .article-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  @media (max-width: 920px) {
+    .hero-grid,
+    .split-grid,
+    .article-grid,
+    .contact-grid,
+    .request-grid,
+    .legal-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .card-grid,
+    .card-grid.four {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 560px) {
+    .page-shell {
+      width: min(100% - 1.25rem, 1120px);
+    }
+
+    .hero {
+      padding: 4.5rem 0 4rem;
+    }
+
+    h1 {
+      max-width: 100%;
+      font-size: clamp(2.2rem, 11vw, 3rem);
+      letter-spacing: -0.052em;
+      line-height: 0.99;
+    }
+
+    h2 {
+      font-size: clamp(1.8rem, 9vw, 2.35rem);
+    }
+
+    .button-row {
+      align-items: stretch;
+      flex-direction: column;
+    }
+
+    .button {
+      width: 100%;
+      text-align: center;
+    }
+
+    .card-grid,
+    .card-grid.two,
+    .card-grid.four,
+    .columns-list {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .button {
+      transition: none;
+    }
+
+    .button:hover {
+      transform: none;
+    }
+  }
+</style>

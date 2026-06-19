@@ -24,39 +24,39 @@ const structuredData = {
 
 const capabilities = [
   {
-    name: 'Emergency Dispatch',
-    description: '24/7 response for water damage, flooding, sewage, storm damage, and urgent structural drying calls.',
+    name: 'Emergency Intake',
+    description: '24/7 routing for active leaks, storm intrusion, sewage concerns, wet basements, and urgent drying questions.',
   },
   {
-    name: 'Certified Restoration',
-    description: 'Technicians follow documented drying, containment, moisture tracking, and remediation procedures.',
+    name: 'Documented Mitigation',
+    description: 'Field notes, photos, affected-area details, and moisture observations are organized so decisions stay clear.',
   },
   {
     name: `${serviceAreaCount} Service Areas`,
-    description: `Coverage spans ${cityData.serviceArea.slice(0, 6).join(', ')}, and other Northern Virginia communities.`,
+    description: `Coverage includes ${cityData.serviceArea.slice(0, 6).join(', ')}, and nearby Northern Virginia communities.`,
   },
   {
-    name: 'Insurance Documentation',
-    description: 'Clear photos, moisture readings, scopes, and claim-ready records support adjuster communication.',
+    name: 'Claim Support',
+    description: 'Owner-facing documentation helps make insurance conversations more orderly after a water damage event.',
   },
 ]
 
 const values = [
   {
-    name: 'Rapid Response',
-    description: 'Every minute counts with water damage. Our teams prioritize urgent dispatch 24 hours a day, 365 days a year.',
+    name: 'Stabilize First',
+    description: 'The first job is source control, safety awareness, and limiting additional damage before cosmetic repairs are discussed.',
   },
   {
-    name: 'Transparent Pricing',
-    description: 'No hidden fees or surprise charges. We provide detailed scopes before work begins and coordinate directly with your insurance.',
+    name: 'Plain-English Scope',
+    description: 'You should understand what is affected, what needs to happen next, and what details still need verification.',
   },
   {
-    name: 'Certified Expertise',
-    description: 'Trained restoration crews use commercial drying equipment and documented moisture-control protocols for every job.',
+    name: 'Careful Documentation',
+    description: 'Photos, notes, and readings create a cleaner record for owners, managers, and claim conversations.',
   },
   {
-    name: 'Community First',
-    description: "We're your neighbors. When disaster strikes, we treat your home like it's our own — because this is our community too.",
+    name: 'Local Response',
+    description: `Flood Doctor focuses on practical water damage support for ${cityData.name} and the surrounding Northern Virginia area.`,
   },
 ]
 ---
@@ -66,249 +66,622 @@ const values = [
   description={`Learn about Flood Doctor, a water damage restoration company serving ${cityData.name} and ${serviceAreaCount} Northern Virginia service areas.`}
   structuredData={structuredData}
 >
-  <main class="isolate">
-    <!-- Hero section -->
-    <div class="relative isolate -z-10 overflow-hidden bg-gradient-to-b from-indigo-100/20 dark:from-indigo-900/20 pt-14">
-      <div
-        aria-hidden="true"
-        class="absolute inset-y-0 right-1/2 -z-10 -mr-96 w-[200%] origin-top-right skew-x-[-30deg] bg-white dark:bg-gray-900 shadow-xl ring-1 shadow-indigo-500/10 ring-gray-200 dark:ring-white/5 sm:-mr-80 lg:-mr-96"
-      ></div>
-      <div class="mx-auto max-w-7xl px-6 py-32 sm:py-40 lg:px-8">
-        <div class="mx-auto max-w-2xl lg:mx-0 lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-x-16 lg:gap-y-8 xl:grid-cols-1 xl:grid-rows-1 xl:gap-x-8">
-          <h1 class="max-w-2xl text-5xl font-semibold tracking-tight text-balance text-gray-900 dark:text-white sm:text-7xl lg:col-span-2 xl:col-auto">
-            Your Local Water Damage Restoration Team
-          </h1>
-          <div class="mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1">
-            <p class="text-lg font-medium text-pretty text-gray-500 dark:text-gray-400 sm:text-xl/8">
-              Flood Doctor combines rapid emergency response with documented restoration practices to restore homes and businesses after water damage, flooding, and mold. Our focus is simple: stabilize fast, document clearly, and get life back to normal.
-            </p>
+  <div class="content-page">
+    <section class="hero" aria-labelledby="about-title">
+      <div class="page-shell hero-grid">
+        <div>
+          <p class="eyebrow">About Flood Doctor</p>
+          <h1 id="about-title">Local Water Damage Help With Clear Next Steps</h1>
+          <p class="hero-lede">
+            Flood Doctor helps property owners move from a stressful water event to an organized mitigation plan: triage,
+            source control, water removal, drying support, and documentation that can be shared with the right people.
+          </p>
+          <div class="button-row">
+            <a class="button button-primary" href="/request">Request Emergency Service</a>
+            <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
-          <img
-            alt="Flood Doctor restoration team at work"
-            src="/graphics/water-emergency-pattern.svg"
-            class="mt-10 aspect-[6/5] w-full max-w-lg rounded-2xl object-cover outline-1 -outline-offset-1 outline-gray-200 dark:outline-white/10 sm:mt-16 lg:mt-0 lg:max-w-none xl:row-span-2 xl:row-end-2 xl:mt-36"
-          />
+        </div>
+        <div class="hero-card">
+          <p class="eyebrow">Command Center</p>
+          <h2>{cityData.name} Restoration Intake</h2>
+          <ul class="clean-list">
+            <li>Active leak and standing water triage</li>
+            <li>Room-by-room affected area notes</li>
+            <li>Drying and cleanup next-step planning</li>
+            <li>Documentation for claim conversations</li>
+          </ul>
         </div>
       </div>
-      <div class="absolute inset-x-0 bottom-0 -z-10 h-24 bg-gradient-to-t from-white dark:from-gray-900 sm:h-32"></div>
-    </div>
+    </section>
 
-    <!-- Capabilities section -->
-    <div class="mx-auto -mt-8 max-w-7xl px-6 lg:px-8">
-      <div class="mx-auto grid max-w-2xl grid-cols-1 gap-8 overflow-hidden lg:mx-0 lg:max-w-none lg:grid-cols-4">
-        {capabilities.map((item) => (
-          <div>
-            <p class="flex items-center text-sm/6 font-semibold text-indigo-600 dark:text-indigo-400">
-              <svg viewBox="0 0 4 4" aria-hidden="true" class="mr-4 size-1 flex-none">
-                <circle r="2" cx="2" cy="2" fill="currentColor" />
-              </svg>
-              Flood Doctor
-              <div
-                aria-hidden="true"
-                class="absolute -ml-2 h-px w-screen -translate-x-full bg-gray-200 dark:bg-white/10 sm:-ml-4 lg:static lg:-mr-6 lg:ml-8 lg:w-auto lg:flex-auto lg:translate-x-0"
-              ></div>
-            </p>
-            <p class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white">{item.name}</p>
-            <p class="mt-1 text-base/7 text-gray-500 dark:text-gray-400">{item.description}</p>
-          </div>
-        ))}
-      </div>
-    </div>
-
-    <!-- Values section -->
-    <div class="py-24 sm:py-32 mt-32 sm:mt-40">
-      <div class="mx-auto max-w-7xl px-6 lg:px-8">
-        <div class="mx-auto max-w-2xl lg:mx-0">
-          <h2 class="text-3xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-4xl">
-            What Sets Us Apart
-          </h2>
-          <p class="mt-6 text-lg/8 text-gray-500 dark:text-gray-400">
-            Flood Doctor isn't just another restoration company. We're a team that genuinely cares about our community and treats every job — big or small — with the same urgency and professionalism.
+    <section class="section soft" aria-labelledby="capabilities-title">
+      <div class="page-shell">
+        <div class="section-heading">
+          <p class="eyebrow dark">Operating Model</p>
+          <h2 id="capabilities-title">Built for the first hours after water damage</h2>
+          <p class="section-lede">
+            Premium restoration does not mean vague promises. It means fast intake, careful inspection, clear documentation,
+            and a practical sequence for protecting the property.
           </p>
         </div>
-        <dl class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 text-base/7 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-4">
-          {values.map((value) => (
-            <div>
-              <dt class="font-semibold text-gray-900 dark:text-white">{value.name}</dt>
-              <dd class="mt-1 text-gray-500 dark:text-gray-400">{value.description}</dd>
-            </div>
+        <div class="card-grid four">
+          {capabilities.map((item) => (
+            <article class="card">
+              <h3>{item.name}</h3>
+              <p>{item.description}</p>
+            </article>
           ))}
-        </dl>
-      </div>
-    </div>
-
-    <!-- Stats section -->
-    <div class="mt-16 sm:mt-20">
-      <div class="mx-auto max-w-7xl px-6 lg:px-8">
-        <div class="mx-auto max-w-2xl lg:max-w-none">
-          <div class="text-center">
-            <h2 class="text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
-              Ready for {cityData.name} Water Emergencies
-            </h2>
-            <p class="mt-4 text-lg/8 text-gray-600 dark:text-gray-300">
-              Operational commitments we can stand behind on every emergency call.
-            </p>
-          </div>
-          <dl class="mt-16 grid grid-cols-1 gap-0.5 overflow-hidden rounded-2xl text-center sm:grid-cols-2 lg:grid-cols-4">
-            <div class="flex flex-col bg-gray-100 dark:bg-white/5 p-8">
-              <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Response Time</dt>
-              <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">Fast</dd>
-            </div>
-            <div class="flex flex-col bg-gray-100 dark:bg-white/5 p-8">
-              <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Emergency Availability</dt>
-              <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">24/7</dd>
-            </div>
-            <div class="flex flex-col bg-gray-100 dark:bg-white/5 p-8">
-              <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Service Areas</dt>
-              <dd class="order-first text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">{serviceAreaCount}</dd>
-            </div>
-            <div class="flex flex-col bg-gray-100 dark:bg-white/5 p-8">
-              <dt class="text-sm/6 font-semibold text-gray-600 dark:text-gray-300">Emergency Line</dt>
-              <dd class="order-first text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">{cityData.phone}</dd>
-            </div>
-          </dl>
         </div>
       </div>
-    </div>
+    </section>
 
-    <!-- Our Commitment / CTA section -->
-    <div class="mt-32 overflow-hidden sm:mt-40">
-      <div class="mx-auto max-w-7xl px-6 lg:flex lg:px-8">
-        <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-12 gap-y-16 lg:mx-0 lg:max-w-none lg:min-w-full lg:flex-none lg:gap-y-8">
-          <div class="lg:col-end-1 lg:w-full lg:max-w-lg lg:pb-8">
-            <h2 class="text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">Our Commitment</h2>
-            <p class="mt-6 text-xl/8 text-gray-600 dark:text-gray-300">
-              When water damage strikes your {cityData.name} home or business, every minute matters. Our commitment is simple: rapid response, expert restoration, and treating your property like our own.
-            </p>
-            <p class="mt-6 text-base/7 text-gray-500 dark:text-gray-400">
-              We help organize claim documentation, photos, moisture readings, and job records so you have clear information for your adjuster. Our trained crews use commercial equipment and documented drying protocols to restore affected areas carefully — no shortcuts, no cutting corners.
-            </p>
-            <div class="mt-8 flex gap-x-4">
-              <a
-                href="/request"
-                class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500"
-              >
-                Request Emergency Service
-              </a>
-              <a
-                href={cityPhoneHref}
-                class="rounded-md bg-gray-200 dark:bg-white/10 px-3.5 py-2.5 text-sm font-semibold text-gray-900 dark:text-white shadow-xs hover:bg-gray-300 dark:hover:bg-white/20"
-              >
-                Call {cityData.phone}
-              </a>
-            </div>
-          </div>
-          <div class="flex flex-wrap items-start justify-end gap-6 sm:gap-8 lg:contents">
-            <div class="w-0 flex-auto lg:ml-auto lg:w-auto lg:flex-none lg:self-end">
-              <img
-                alt="Water damage restoration work"
-                src="/graphics/restoration-process.svg"
-                class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-200 dark:bg-gray-800 object-cover max-sm:w-[30rem]"
-              />
-            </div>
-            <div class="contents lg:col-span-2 lg:col-end-2 lg:ml-auto lg:flex lg:w-[37rem] lg:items-start lg:justify-end lg:gap-x-8">
-              <div class="order-first flex w-64 flex-none justify-end self-end max-sm:w-40 lg:w-auto">
-                <img
-                  alt="Restoration equipment"
-                  src="/graphics/water-emergency-pattern.svg"
-                  class="aspect-[4/3] w-[24rem] max-w-none flex-none rounded-2xl bg-gray-200 dark:bg-gray-800 object-cover"
-                />
-              </div>
-              <div class="flex w-96 flex-auto justify-end lg:w-auto lg:flex-none">
-                <img
-                  alt="Professional team"
-                  src="/graphics/restoration-process.svg"
-                  class="aspect-[7/5] w-[37rem] max-w-none flex-none rounded-2xl bg-gray-200 dark:bg-gray-800 object-cover max-sm:w-[30rem]"
-                />
-              </div>
-              <div class="hidden sm:block sm:w-0 sm:flex-auto lg:w-auto lg:flex-none">
-                <img
-                  alt="Drying process"
-                  src="/graphics/water-emergency-pattern.svg"
-                  class="aspect-[4/3] w-[24rem] max-w-none rounded-2xl bg-gray-200 dark:bg-gray-800 object-cover"
-                />
-              </div>
-            </div>
-          </div>
+    <section class="section" aria-labelledby="values-title">
+      <div class="page-shell split-grid">
+        <div class="section-heading">
+          <p class="eyebrow dark">What Sets Us Apart</p>
+          <h2 id="values-title">A cleaner restoration experience for a messy day</h2>
+          <p class="section-lede">
+            Water damage work has to balance urgency with judgment. Flood Doctor keeps the focus on the property,
+            the documentation, and the next decision in front of you.
+          </p>
+        </div>
+        <div class="card-grid two">
+          {values.map((value) => (
+            <article class="card">
+              <h3>{value.name}</h3>
+              <p>{value.description}</p>
+            </article>
+          ))}
         </div>
       </div>
-    </div>
+    </section>
 
-    <!-- Contact Section -->
-    <div class="relative isolate mt-32 sm:mt-40">
-      <div class="mx-auto grid max-w-7xl grid-cols-1 lg:grid-cols-2">
-        <div class="relative px-6 pt-24 pb-20 sm:pt-32 lg:static lg:px-8 lg:py-48">
-          <div class="mx-auto max-w-xl lg:mx-0 lg:max-w-lg">
-            <div class="absolute inset-y-0 left-0 -z-10 w-full overflow-hidden ring-1 ring-gray-200 dark:ring-white/10 lg:w-1/2">
-              <svg
-                aria-hidden="true"
-                class="absolute inset-0 size-full mask-[radial-gradient(100%_100%_at_top_right,white,transparent)] stroke-gray-200 dark:stroke-white/10"
-              >
-                <defs>
-                  <pattern
-                    x="100%"
-                    y="-1"
-                    id="about-contact-pattern"
-                    width="200"
-                    height="200"
-                    patternUnits="userSpaceOnUse"
-                  >
-                    <path d="M130 200V.5M.5 .5H200" fill="none" />
-                  </pattern>
-                </defs>
-                <rect width="100%" height="100%" stroke-width="0" class="fill-white dark:fill-gray-900" />
-                <svg x="100%" y="-1" class="overflow-visible fill-gray-100/20 dark:fill-gray-800/20">
-                  <path d="M-470.5 0h201v201h-201Z" stroke-width="0" />
-                </svg>
-                <rect fill="url(#about-contact-pattern)" width="100%" height="100%" stroke-width="0" />
-              </svg>
-              <div
-                aria-hidden="true"
-                class="absolute top-[calc(100%-13rem)] -left-56 block transform-gpu blur-3xl lg:top-[calc(50%-7rem)] lg:left-[max(-14rem,calc(100%-59rem))]"
-              >
-                <div
-                  style="clip-path: polygon(74.1% 56.1%, 100% 38.6%, 97.5% 73.3%, 85.5% 100%, 80.7% 98.2%, 72.5% 67.7%, 60.2% 37.8%, 52.4% 32.2%, 47.5% 41.9%, 45.2% 65.8%, 27.5% 23.5%, 0.1% 35.4%, 17.9% 0.1%, 27.6% 23.5%, 76.1% 2.6%, 74.1% 56.1%)"
-                  class="aspect-[1155/678] w-[72.1875rem] bg-gradient-to-br from-[#80caff] to-[#4f46e5] opacity-20"
-                >
-                </div>
-              </div>
-            </div>
-            <h2 class="text-4xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-5xl">Get in touch</h2>
-            <p class="mt-6 text-lg/8 text-gray-500 dark:text-gray-400">
-              Ready to talk? Whether you need a quote, have questions, or need emergency help — reach out and we'll respond fast.
-            </p>
-            <dl class="mt-10 space-y-4 text-base/7 text-gray-600 dark:text-gray-300">
-              <div class="flex gap-x-4">
-                <dt class="flex-none">
-                  <span class="sr-only">Telephone</span>
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-7 w-6 text-gray-500 dark:text-gray-400">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z" />
-                  </svg>
-                </dt>
-                <dd>
-                  <a href={cityPhoneHref} class="hover:text-gray-900 dark:hover:text-white">
-                    {cityData.phone}
-                  </a>
-                </dd>
-              </div>
-              <div class="flex gap-x-4">
-                <dt class="flex-none">
-                  <span class="sr-only">Email</span>
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-7 w-6 text-gray-500 dark:text-gray-400">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
-                  </svg>
-                </dt>
-                <dd>
-                  <!--email_off--><a href="mailto:info@flood.doctor" class="hover:text-gray-900 dark:hover:text-white">
-                    info@flood.doctor
-                  </a><!--/email_off-->
-                </dd>
-              </div>
-            </dl>
+    <section class="section navy" aria-labelledby="commitment-title">
+      <div class="page-shell contact-grid">
+        <div>
+          <p class="eyebrow">Our Commitment</p>
+          <h2 id="commitment-title">Tell us what happened and where the water went</h2>
+          <p class="section-lede">
+            If water is still entering, call now. If you need to share details, use the form and the intake team will review
+            the property address, affected rooms, timing, and safest next steps.
+          </p>
+          <div class="button-row">
+            <a class="button button-primary" href="/request">Start a Service Request</a>
+            <a class="button button-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
           </div>
         </div>
-        <ContactForm city={cityData.slug} client:load />
+        <div class="form-panel" aria-label="Contact form">
+          <ContactForm city={cityData.slug} client:load />
+        </div>
       </div>
-    </div>
-  </main>
+    </section>
+  </div>
 </BaseLayout>
+
+
+<style>
+  :global(html) {
+    overflow-x: hidden;
+  }
+
+  .content-page {
+    --fd-blue: #1a73e8;
+    --fd-blue-dark: #0f4fb8;
+    --fd-navy: #071a33;
+    --fd-navy-2: #0b1f3a;
+    --fd-ink: #102033;
+    --fd-muted: #53647a;
+    --fd-soft: #eef6ff;
+    --fd-soft-2: #f7fbff;
+    --fd-orange: #c2410c;
+    --fd-orange-dark: #9a3412;
+    --fd-line: #d9e6f5;
+    --fd-white: #ffffff;
+    width: 100%;
+    overflow-x: clip;
+    background: linear-gradient(180deg, #f7fbff 0%, #ffffff 34%, #eef6ff 100%);
+    color: var(--fd-ink);
+    font-family: 'Avenir Next', 'Trebuchet MS', Verdana, sans-serif;
+  }
+
+  .page-shell {
+    width: min(1120px, calc(100% - 2rem));
+    margin-inline: auto;
+  }
+
+  .hero {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    background:
+      radial-gradient(circle at 82% 18%, rgba(26, 115, 232, 0.38), transparent 34rem),
+      radial-gradient(circle at 16% 100%, rgba(194, 65, 12, 0.22), transparent 30rem),
+      linear-gradient(135deg, var(--fd-navy), var(--fd-navy-2));
+    color: white;
+    padding: clamp(4.5rem, 9vw, 7rem) 0;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    opacity: 0.12;
+    background-image: url('/graphics/water-emergency-pattern.svg');
+    background-size: 420px 420px;
+    mix-blend-mode: screen;
+  }
+
+  .hero-grid,
+  .split-grid,
+  .article-grid,
+  .contact-grid,
+  .request-grid,
+  .legal-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 0.9fr) minmax(300px, 0.8fr);
+    gap: clamp(2rem, 5vw, 4.5rem);
+    align-items: start;
+  }
+
+  .eyebrow {
+    margin: 0 0 0.85rem;
+    color: #fed7aa;
+    font-size: 0.78rem;
+    font-weight: 850;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .eyebrow.dark {
+    color: var(--fd-orange-dark);
+  }
+
+  h1,
+  h2,
+  h3,
+  p {
+    overflow-wrap: anywhere;
+  }
+
+  h1 {
+    max-width: 13ch;
+    margin: 0;
+    color: white;
+    font-size: clamp(2.65rem, 7vw, 5.4rem);
+    font-weight: 900;
+    letter-spacing: -0.07em;
+    line-height: 0.95;
+    text-wrap: balance;
+  }
+
+  h2 {
+    margin: 0;
+    color: var(--fd-navy);
+    font-size: clamp(1.95rem, 4vw, 3.1rem);
+    font-weight: 880;
+    letter-spacing: -0.052em;
+    line-height: 1;
+  }
+
+  h3 {
+    margin: 0;
+    color: var(--fd-navy);
+    font-size: 1.08rem;
+    font-weight: 830;
+    letter-spacing: -0.025em;
+    line-height: 1.25;
+  }
+
+  .hero-lede,
+  .section-lede {
+    margin: 1.25rem 0 0;
+    max-width: 44rem;
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    font-weight: 560;
+    line-height: 1.75;
+  }
+
+  .hero-lede {
+    color: #d7e5f7;
+  }
+
+  .section-lede,
+  .card p,
+  .side-card p,
+  .check-card li,
+  .legal-copy p,
+  .article-card p {
+    color: var(--fd-muted);
+  }
+
+  .button-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.85rem;
+    align-items: center;
+    margin-top: 1.75rem;
+  }
+
+  .button {
+    display: inline-flex;
+    min-height: 3rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    padding: 0.82rem 1.18rem;
+    font-size: 0.94rem;
+    font-weight: 850;
+    line-height: 1.15;
+    text-decoration: none;
+    transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+  }
+
+  .button:hover {
+    transform: translateY(-1px);
+  }
+
+  .button:focus-visible,
+  .text-link:focus-visible,
+  .card-link:focus-visible {
+    outline: 3px solid rgba(26, 115, 232, 0.45);
+    outline-offset: 3px;
+  }
+
+  .button-primary {
+    background: var(--fd-orange);
+    color: white;
+    box-shadow: 0 16px 30px rgba(249, 115, 22, 0.24);
+  }
+
+  .button-primary:hover {
+    background: var(--fd-orange-dark);
+  }
+
+  .button-secondary {
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    background: rgba(255, 255, 255, 0.08);
+    color: white;
+  }
+
+  .button-light {
+    border: 1px solid rgba(11, 31, 58, 0.16);
+    background: white;
+    color: var(--fd-navy);
+    box-shadow: 0 12px 28px rgba(15, 79, 184, 0.12);
+  }
+
+  .section {
+    padding: clamp(4rem, 7vw, 6.5rem) 0;
+  }
+
+  .section.soft {
+    background: linear-gradient(180deg, var(--fd-soft-2), #ffffff);
+  }
+
+  .section.navy {
+    background: var(--fd-navy);
+    color: white;
+  }
+
+  .section.navy h2,
+  .section.navy h3 {
+    color: white;
+  }
+
+  .section.navy .section-lede,
+  .section.navy p {
+    color: #c9d7e8;
+  }
+
+  .section-heading {
+    max-width: 48rem;
+  }
+
+  .section-heading.center {
+    margin-inline: auto;
+    text-align: center;
+  }
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .card-grid.two {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .card-grid.four {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .card,
+  .side-card,
+  .form-panel,
+  .check-card,
+  .article-card,
+  .legal-copy,
+  .review-placeholder {
+    min-width: 0;
+    border: 1px solid var(--fd-line);
+    border-radius: 1.35rem;
+    background: white;
+    box-shadow: 0 12px 34px rgba(11, 31, 58, 0.07);
+  }
+
+  .card,
+  .side-card,
+  .check-card,
+  .article-card,
+  .legal-copy,
+  .review-placeholder {
+    padding: clamp(1.25rem, 3vw, 2rem);
+  }
+
+  .card p,
+  .side-card p,
+  .article-card p {
+    margin: 0.75rem 0 0;
+    font-size: 0.95rem;
+    line-height: 1.65;
+  }
+
+  .pill-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin-top: 1.4rem;
+  }
+
+  .pill {
+    border: 1px solid rgba(217, 230, 245, 0.82);
+    border-radius: 999px;
+    background: white;
+    color: var(--fd-navy);
+    padding: 0.52rem 0.75rem;
+    font-size: 0.86rem;
+    font-weight: 780;
+  }
+
+  .hero-card,
+  .navy-card {
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 1.5rem;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.055));
+    padding: clamp(1.25rem, 4vw, 2rem);
+    box-shadow: 0 24px 70px rgba(0, 0, 0, 0.18);
+  }
+
+  .hero-card h2,
+  .hero-card h3,
+  .navy-card h2,
+  .navy-card h3 {
+    color: white;
+  }
+
+  .hero-card p,
+  .hero-card li,
+  .navy-card p,
+  .navy-card li {
+    color: #d7e5f7;
+  }
+
+  .number-list,
+  .clean-list,
+  .columns-list {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1.25rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .columns-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .number-list li,
+  .clean-list li,
+  .columns-list li {
+    position: relative;
+    padding-left: 1.7rem;
+    line-height: 1.55;
+  }
+
+  .number-list li::before,
+  .clean-list li::before,
+  .columns-list li::before {
+    content: '';
+    position: absolute;
+    top: 0.58rem;
+    left: 0;
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 999px;
+    background: var(--fd-orange);
+  }
+
+  .text-link,
+  .card-link {
+    color: var(--fd-blue-dark);
+    font-weight: 850;
+    text-decoration: none;
+  }
+
+  .prose-wrap :global(h2) {
+    margin-top: 2.6rem;
+    color: var(--fd-navy);
+    font-size: clamp(1.65rem, 3vw, 2.2rem);
+    letter-spacing: -0.04em;
+  }
+
+  .prose-wrap :global(h2:first-child) {
+    margin-top: 0;
+  }
+
+  .prose-wrap :global(p),
+  .prose-wrap :global(li) {
+    color: var(--fd-muted);
+    line-height: 1.78;
+  }
+
+  .prose-wrap :global(a) {
+    color: var(--fd-blue-dark);
+    font-weight: 800;
+  }
+
+  .prose-wrap :global(strong) {
+    color: var(--fd-navy);
+  }
+
+  .prose-wrap :global(blockquote) {
+    margin: 2rem 0;
+    border-left: 4px solid var(--fd-orange);
+    border-radius: 1rem;
+    background: var(--fd-soft);
+    padding: 1rem 1.25rem;
+  }
+
+  .visual-card {
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 1.6rem;
+    background: rgba(255, 255, 255, 0.08);
+  }
+
+  .visual-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .resource-browser,
+  .dark-island {
+    border-radius: 1.5rem;
+    background: var(--fd-navy);
+    padding: clamp(1rem, 3vw, 2rem);
+    box-shadow: 0 24px 70px rgba(11, 31, 58, 0.16);
+  }
+
+  .form-panel {
+    overflow: hidden;
+    background: var(--fd-navy);
+  }
+
+  .form-panel :global(form) {
+    padding: clamp(1.25rem, 4vw, 2rem) !important;
+  }
+
+  .form-panel :global(label),
+  .form-panel :global(h3),
+  .form-panel :global(button) {
+    color: white;
+  }
+
+  .form-panel :global(button[type='submit']) {
+    border-radius: 999px;
+    background: var(--fd-orange);
+  }
+
+  .form-panel :global(button[type='submit']:hover) {
+    background: var(--fd-orange-dark);
+  }
+
+  .meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    align-items: center;
+    margin-bottom: 1.25rem;
+    color: #d7e5f7;
+    font-size: 0.9rem;
+  }
+
+  .meta-pill {
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.12);
+    padding: 0.4rem 0.7rem;
+    color: white;
+    font-weight: 780;
+  }
+
+  .article-image {
+    overflow: hidden;
+    margin-top: 2rem;
+    border-radius: 1.35rem;
+    background: var(--fd-soft);
+  }
+
+  .article-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  @media (max-width: 920px) {
+    .hero-grid,
+    .split-grid,
+    .article-grid,
+    .contact-grid,
+    .request-grid,
+    .legal-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .card-grid,
+    .card-grid.four {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 560px) {
+    .page-shell {
+      width: min(100% - 1.25rem, 1120px);
+    }
+
+    .hero {
+      padding: 4.5rem 0 4rem;
+    }
+
+    h1 {
+      max-width: 100%;
+      font-size: clamp(2.2rem, 11vw, 3rem);
+      letter-spacing: -0.052em;
+      line-height: 0.99;
+    }
+
+    h2 {
+      font-size: clamp(1.8rem, 9vw, 2.35rem);
+    }
+
+    .button-row {
+      align-items: stretch;
+      flex-direction: column;
+    }
+
+    .button {
+      width: 100%;
+      text-align: center;
+    }
+
+    .card-grid,
+    .card-grid.two,
+    .card-grid.four,
+    .columns-list {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .button {
+      transition: none;
+    }
+
+    .button:hover {
+      transform: none;
+    }
+  }
+</style>
