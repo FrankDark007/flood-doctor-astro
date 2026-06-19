@@ -6,27 +6,91 @@ const phoneHref = toTelHref(cityData.phone)
 ---
 
 <aside
-  class="fixed inset-x-0 bottom-0 z-40 border-t border-white/10 bg-[#06172e]/96 px-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] pt-3 shadow-[0_-18px_45px_rgba(6,23,46,0.38)] backdrop-blur-xl lg:hidden"
+  class="sticky-mobile-cta fixed inset-x-0 bottom-0 z-40 border-t border-white/10 bg-[#06172e]/96 px-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] pt-3 shadow-[0_-18px_45px_rgba(6,23,46,0.38)] backdrop-blur-xl lg:hidden"
   aria-label="Emergency mobile actions"
 >
-  <div class="mx-auto grid max-w-md grid-cols-2 gap-2">
+  <div class="sticky-mobile-cta__grid">
     <a
       href={phoneHref}
-      class="fd-btn fd-btn-primary min-h-[3.25rem] w-full px-2 text-xs sm:text-sm"
+      class="fd-btn fd-btn-primary sticky-mobile-cta__call"
       aria-label={`Call Flood Doctor at ${cityData.phone}`}
     >
       <span>Call Now</span>
-      <span class="hidden font-black min-[390px]:inline">{cityData.phone}</span>
+      <span class="sticky-mobile-cta__phone">{cityData.phone}</span>
     </a>
     <a
       href="/request/"
       aria-label="Request emergency service"
-      class="fd-btn fd-btn-secondary min-h-[3.25rem] w-full px-2 text-xs sm:text-sm"
+      class="fd-btn fd-btn-secondary sticky-mobile-cta__request"
     >
-      Request Service
+      <span>Request Service</span>
     </a>
   </div>
 </aside>
+
+<style>
+  .sticky-mobile-cta {
+    box-sizing: border-box;
+  }
+
+  .sticky-mobile-cta__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.12fr) minmax(0, 0.88fr);
+    gap: 0.5rem;
+    width: 100%;
+    max-width: 28rem;
+    margin-inline: auto;
+  }
+
+  .sticky-mobile-cta :global(.fd-btn) {
+    min-width: 0;
+    min-height: 3.2rem;
+    width: 100%;
+    padding: 0.62rem 0.55rem;
+    font-size: clamp(0.74rem, 3.1vw, 0.875rem);
+    line-height: 1.1;
+    text-align: center;
+    white-space: normal;
+  }
+
+  .sticky-mobile-cta__call {
+    flex-direction: column;
+    gap: 0.08rem;
+  }
+
+  .sticky-mobile-cta__phone {
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+  }
+
+  @media (max-width: 389px) {
+    .sticky-mobile-cta__call {
+      flex-direction: row;
+      gap: 0.25rem;
+    }
+
+    .sticky-mobile-cta__phone {
+      display: none;
+    }
+  }
+
+  @media (max-width: 340px) {
+    .sticky-mobile-cta {
+      padding-inline: 0.5rem;
+    }
+
+    .sticky-mobile-cta__grid {
+      grid-template-columns: minmax(0, 1fr) minmax(0, 0.94fr);
+      gap: 0.4rem;
+    }
+
+    .sticky-mobile-cta :global(.fd-btn) {
+      padding-inline: 0.42rem;
+      font-size: 0.72rem;
+    }
+  }
+</style>
 
 <style is:global>
   @media (max-width: 1023px) {

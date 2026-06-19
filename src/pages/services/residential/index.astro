@@ -59,8 +59,8 @@ const structuredData = breadcrumbSchema([
           <h1 id="hub-title">Residential Restoration Services</h1>
           <p class="hero-lede">Emergency-first water damage restoration, cleanup, and specialty services for homes in {cityData.name}. Use this hub to find the right path for wet floors, basements, mold concerns, sewage, storm damage, and drying documentation.</p>
           <div class="action-row">
-            <a class="fd-btn fd-btn-primary" href="/request">Request Service</a>
-            <a class="fd-btn fd-btn-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
+            <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
+            <a class="fd-btn fd-btn-secondary" href="/request">Request Service</a>
           </div>
         </div>
         <aside class="triage-card" aria-label="How service routing works">
@@ -186,8 +186,8 @@ const structuredData = breadcrumbSchema([
           <p>We will use the details to identify the closest service path and explain next steps for your {cityData.name} property.</p>
         </div>
         <div class="action-row final-actions">
-          <a class="fd-btn fd-btn-primary" href="/request">Request Service</a>
-          <a class="fd-btn fd-btn-outline" href={cityPhoneHref}>Call {cityData.phone}</a>
+          <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
+          <a class="fd-btn fd-btn-outline" href="/request">Request Service</a>
         </div>
       </div>
     </section>
@@ -249,6 +249,15 @@ const structuredData = breadcrumbSchema([
     grid-template-columns: minmax(0, 1fr) minmax(280px, .74fr);
     gap: clamp(2rem, 5vw, 4rem);
     align-items: center;
+  }
+
+  .hero-grid > *,
+  .split-heading > *,
+  .safety-panel > *,
+  .proof-grid > *,
+  .local-panel > *,
+  .final-panel > * {
+    min-width: 0;
   }
 
   .breadcrumb {
@@ -350,7 +359,16 @@ const structuredData = breadcrumbSchema([
     display: flex;
     flex-wrap: wrap;
     gap: .85rem;
+    max-width: 100%;
+    min-width: 0;
     margin-top: 1.75rem;
+  }
+
+  .action-row :global(.fd-btn) {
+    max-width: 100%;
+    min-width: 0;
+    text-align: center;
+    white-space: normal;
   }
 
   .triage-card {

@@ -67,7 +67,9 @@ const Element = href ? 'a' : 'span'
     display: inline-flex;
     align-items: center;
     gap: 0.625rem;
+    max-width: 100%;
     min-width: 0;
+    overflow: hidden;
     color: var(--logo-text);
     text-decoration: none;
     vertical-align: middle;
@@ -135,12 +137,14 @@ const Element = href ? 'a' : 'span'
     display: grid;
     gap: 0.125rem;
     min-width: 0;
+    overflow: hidden;
   }
 
   .brand-logo__name {
     display: flex;
     align-items: baseline;
     gap: 0.22em;
+    max-width: 100%;
     min-width: 0;
     color: var(--logo-text);
     font-size: 1.125rem;
@@ -162,7 +166,12 @@ const Element = href ? 'a' : 'span'
     color: var(--logo-blue);
   }
 
+  .brand-logo__name > :not(.brand-logo__city) {
+    flex: 0 0 auto;
+  }
+
   .brand-logo__city {
+    min-width: 0;
     margin-left: 0.25em;
     padding-left: 0.5em;
     border-left: 2px solid var(--logo-orange);
@@ -195,8 +204,34 @@ const Element = href ? 'a' : 'span'
   }
 
   @media (max-width: 420px) {
+    .brand-logo,
+    .brand-logo__copy {
+      overflow: visible;
+    }
+
+    .brand-logo__name {
+      max-width: none;
+    }
+
     .brand-logo__city {
       display: none;
+    }
+  }
+
+  @media (max-width: 360px) {
+    .brand-logo__mark-wrap {
+      width: 2.25rem;
+      height: 2.25rem;
+      border-radius: 0.75rem;
+    }
+
+    .brand-logo__mark {
+      width: 1.8rem;
+      height: 1.8rem;
+    }
+
+    .brand-logo__name {
+      font-size: 1rem;
     }
   }
 </style>

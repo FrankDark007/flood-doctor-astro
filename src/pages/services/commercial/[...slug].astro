@@ -122,6 +122,26 @@ const pageDescription = cityContent?.meta?.description
   ? safeText(cityContent.meta.description)
   : (service ? `${service.name} in ${cityData.name}, ${cityData.stateAbbr}. ${safeText(service.description)}` : '')
 
+const isCityVariant = cityData.slug !== 'main'
+const cityServiceAreas = isCityVariant
+  ? (cityContent?.serviceAreaSection?.neighborhoods?.filter(Boolean) ?? [])
+  : []
+const cityServiceAreaChips = cityServiceAreas.slice(0, 10)
+const nearbyCommunityChips = isCityVariant
+  ? (cityData.serviceArea ?? [])
+      .filter((area) => area && area !== cityData.name && !cityServiceAreas.includes(area))
+      .slice(0, 8)
+  : []
+const localJobNotes = isCityVariant && cityContent?.localChallenges?.length
+  ? cityContent.localChallenges.slice(0, 3)
+  : []
+const hasCityBrief = isCityVariant && Boolean(cityContent) && (
+  Boolean(cityContent?.introSection?.localContext) ||
+  cityServiceAreaChips.length > 0 ||
+  nearbyCommunityChips.length > 0 ||
+  localJobNotes.length > 0
+)
+const cityRequestLabel = isCityVariant && cityContent ? `Request ${cityData.name} Service` : 'Request Service'
 const imageUrl = (url = '', params = '') => url.endsWith('.svg') ? url : `${url}${params}`
 const fallbackProcessSteps = service?.contentParagraphs?.map((paragraph, idx) => ({
   title: idx === 0 ? 'Assess the damage and safety conditions' : idx === 1 ? 'Map moisture and define scope' : idx === 2 ? 'Dry, clean, and monitor' : 'Document close-out and next steps',
@@ -132,7 +152,9 @@ const whenToCall = [
   'Drywall, flooring, insulation, ceilings, or contents are wet and need a documented scope.',
   'Sewage, stormwater, mold odor, electrical concerns, or access hazards may be involved.',
 ]
-const serviceLocalAreas = cityContent?.serviceAreaSection?.neighborhoods?.slice(0, 6) ?? cityData.serviceArea?.slice(0, 6) ?? []
+const serviceLocalAreas = isCityVariant
+  ? (cityServiceAreaChips.length > 0 ? cityServiceAreaChips.slice(0, 6) : cityData.serviceArea?.slice(0, 6) ?? [])
+  : []
 const safetyChecks = [
   'Confirm source control, shutoff authority, occupied areas, and whether electrical, sewage, ceiling, or structural hazards are present.',
   'Separate wet and dry operational zones where safe, then identify tenant, guest, patient, student, or employee impacts.',
@@ -173,8 +195,8 @@ const equipmentProof = [
             <h1 id="category-title">{categoryNode.name}</h1>
             <p class="hero-lede">{safeText(categoryNode.description)} Service intake is available for {cityData.name} properties when water, contamination, or drying decisions need a clear next step.</p>
             <div class="action-row">
-              <a class="fd-btn fd-btn-primary" href="/request">Request Service</a>
-              <a class="fd-btn fd-btn-secondary" href={cityPhoneHref}>Call {cityData.phone}</a>
+              <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
+              <a class="fd-btn fd-btn-secondary" href="/request">Request Service</a>
             </div>
           </div>
           <aside class="command-card">
@@ -238,8 +260,8 @@ const equipmentProof = [
             <p>Start with what happened, where the water went, and whether the source is controlled.</p>
           </div>
           <div class="action-row final-actions">
-            <a class="fd-btn fd-btn-primary" href="/request">Request Service</a>
-            <a class="fd-btn fd-btn-outline" href={cityPhoneHref}>Call {cityData.phone}</a>
+            <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
+            <a class="fd-btn fd-btn-outline" href="/request">Request Service</a>
           </div>
         </div>
       </section>
@@ -264,8 +286,8 @@ const equipmentProof = [
             <h1 id="service-title">{safeText(cityContent?.h1 ?? `${service.name} in ${cityData.name}, ${cityData.stateAbbr}`)}</h1>
             <p class="hero-lede">{safeText(service.description)}</p>
             <div class="action-row">
-              <a class="fd-btn fd-btn-primary" href="/request">Request Service</a>
-              <a class="fd-btn fd-btn-secondary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
+              <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
+              <a class="fd-btn fd-btn-secondary" href="/request">{cityRequestLabel}</a>
             </div>
           </div>
           <aside class="hero-media">
@@ -285,6 +307,49 @@ const equipmentProof = [
           </aside>
         </div>
       </section>
+
+      {hasCityBrief && (
+        <section class="section city-brief-section" aria-labelledby="city-brief-title">
+          <div class="detail-shell city-brief-panel">
+            <div class="city-brief-copy">
+              <p class="eyebrow">{cityData.name} service notes</p>
+              <h2 id="city-brief-title">Local details to include in the request</h2>
+              {cityContent?.introSection?.localContext && <p>{safeText(cityContent.introSection.localContext)}</p>}
+            </div>
+            <div class="city-brief-groups">
+              {cityServiceAreaChips.length > 0 && (
+                <article>
+                  <h3>Service-area signals</h3>
+                  <div class="chip-list">
+                    {cityServiceAreaChips.map((area) => <span>{safeText(area)}</span>)}
+                  </div>
+                </article>
+              )}
+              {nearbyCommunityChips.length > 0 && (
+                <article>
+                  <h3>Nearby communities</h3>
+                  <div class="chip-list nearby-list">
+                    {nearbyCommunityChips.map((area) => <span>{safeText(area)}</span>)}
+                  </div>
+                </article>
+              )}
+              {localJobNotes.length > 0 && (
+                <article class="local-job-context">
+                  <h3>Local job context</h3>
+                  <ul>
+                    {localJobNotes.map((note) => (
+                      <li>
+                        <strong>{safeText(note.title)}</strong>
+                        <span>{safeText(note.description)}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </article>
+              )}
+            </div>
+          </div>
+        </section>
+      )}
 
       <section class="section safety-section" aria-labelledby="safety-title">
         <div class="detail-shell safety-grid">
@@ -474,16 +539,28 @@ const equipmentProof = [
         </section>
       )}
 
-      {cityContent?.serviceAreaSection && (
+      {isCityVariant && cityContent?.serviceAreaSection && (cityContent.serviceAreaSection.responseTime || cityServiceAreaChips.length > 0 || nearbyCommunityChips.length > 0) && (
         <section class="section area-section" aria-labelledby="area-title">
           <div class="detail-shell area-panel">
             <div>
               <p class="eyebrow">Service area</p>
               <h2 id="area-title">{service.name} throughout {cityData.name}</h2>
-              <p>{safeText(cityContent.serviceAreaSection.responseTime)}</p>
+              {cityContent.serviceAreaSection.responseTime && <p>{safeText(cityContent.serviceAreaSection.responseTime)}</p>}
             </div>
-            <div class="neighborhoods" aria-label="Neighborhoods and local service areas">
-              {cityContent.serviceAreaSection.neighborhoods.map((n) => <span>{safeText(n)}</span>)}
+            <div class="area-chip-stack">
+              {cityServiceAreaChips.length > 0 && (
+                <div class="neighborhoods" aria-label="Neighborhoods and local service areas">
+                  {cityServiceAreaChips.map((n) => <span>{safeText(n)}</span>)}
+                </div>
+              )}
+              {nearbyCommunityChips.length > 0 && (
+                <div class="nearby-communities" aria-label="Nearby communities">
+                  <strong>Nearby communities</strong>
+                  <div class="neighborhoods nearby-list">
+                    {nearbyCommunityChips.map((n) => <span>{safeText(n)}</span>)}
+                  </div>
+                </div>
+              )}
             </div>
           </div>
         </section>
@@ -555,8 +632,8 @@ const equipmentProof = [
             <p>{safeText(cityContent?.finalCTA?.paragraph ?? 'Share what happened, where water or contamination traveled, and whether the source is controlled. Call if the situation is active or unsafe.')}</p>
           </div>
           <div class="action-row final-actions">
-            <a class="fd-btn fd-btn-primary" href="/request">Request Service</a>
-            <a class="fd-btn fd-btn-outline" href={cityPhoneHref}>Call {cityData.phone}</a>
+            <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
+            <a class="fd-btn fd-btn-outline" href="/request">{cityRequestLabel}</a>
           </div>
         </div>
       </section>
@@ -623,6 +700,7 @@ const equipmentProof = [
   .split-heading,
   .documentation-grid,
   .category-authority-grid,
+  .city-brief-panel,
   .pricing-panel,
   .area-panel,
   .related-grid,
@@ -632,6 +710,21 @@ const equipmentProof = [
     grid-template-columns: minmax(0, 1fr) minmax(280px, .74fr);
     gap: clamp(2rem, 5vw, 4rem);
     align-items: center;
+  }
+
+  .hero-grid > *,
+  .safety-grid > *,
+  .definition-grid > *,
+  .local-grid > *,
+  .split-heading > *,
+  .documentation-grid > *,
+  .category-authority-grid > *,
+  .city-brief-panel > *,
+  .pricing-panel > *,
+  .area-panel > *,
+  .related-grid > *,
+  .final-panel > * {
+    min-width: 0;
   }
 
   .breadcrumb {
@@ -749,7 +842,16 @@ const equipmentProof = [
     display: flex;
     flex-wrap: wrap;
     gap: .85rem;
+    max-width: 100%;
+    min-width: 0;
     margin-top: 1.75rem;
+  }
+
+  .action-row :global(.fd-btn) {
+    max-width: 100%;
+    min-width: 0;
+    text-align: center;
+    white-space: normal;
   }
 
   .hero-media,
@@ -836,6 +938,7 @@ const equipmentProof = [
   .safety-section,
   .local-intro,
   .category-authority,
+  .city-brief-section,
   .challenges-section,
   .area-section,
   .related-section {
@@ -846,6 +949,7 @@ const equipmentProof = [
   .local-grid,
   .documentation-grid,
   .category-authority-grid,
+  .city-brief-panel,
   .related-grid {
     align-items: start;
   }
@@ -858,7 +962,8 @@ const equipmentProof = [
   .equipment-grid,
   .service-link-grid,
   .article-grid,
-  .related-cards {
+  .related-cards,
+  .city-brief-groups {
     display: grid;
     gap: 1rem;
   }
@@ -877,6 +982,8 @@ const equipmentProof = [
   .service-link-card,
   .article-card,
   .related-card,
+  .city-brief-panel,
+  .city-brief-groups article,
   .call-card,
   .local-note,
   .pricing-panel,
@@ -896,6 +1003,7 @@ const equipmentProof = [
   .equipment-card,
   .service-link-card,
   .related-card,
+  .city-brief-groups article,
   .call-card,
   .local-note {
     padding: 1.1rem;
@@ -917,6 +1025,8 @@ const equipmentProof = [
   .service-link-card p,
   .related-card span,
   .article-card p,
+  .city-brief-copy p,
+  .city-brief-groups article > p,
   .call-card li,
   .local-note p {
     margin: .75rem 0 0;
@@ -1044,6 +1154,79 @@ const equipmentProof = [
     font-size: 1rem;
   }
 
+  .city-brief-panel {
+    grid-template-columns: minmax(0, .82fr) minmax(320px, 1fr);
+    background:
+      radial-gradient(circle at 12% 8%, rgba(20, 120, 230, .13), transparent 17rem),
+      #ffffff;
+    padding: clamp(1.25rem, 4vw, 2rem);
+  }
+
+  .city-brief-copy p {
+    font-size: 1rem;
+  }
+
+  .city-brief-groups {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .city-brief-groups article {
+    box-shadow: none;
+  }
+
+  .local-job-context {
+    grid-column: 1 / -1;
+  }
+
+  .local-job-context ul {
+    display: grid;
+    gap: .9rem;
+    margin: 1rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .local-job-context li {
+    min-width: 0;
+    border-top: 1px solid var(--line);
+    padding-top: .9rem;
+  }
+
+  .local-job-context li:first-child {
+    border-top: 0;
+    padding-top: 0;
+  }
+
+  .local-job-context strong,
+  .nearby-communities strong {
+    display: block;
+    color: var(--navy);
+    line-height: 1.2;
+  }
+
+  .local-job-context span {
+    display: block;
+    margin-top: .45rem;
+    color: var(--muted);
+    font-size: .92rem;
+    line-height: 1.55;
+  }
+
+  .chip-list,
+  .area-chip-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+  }
+
+  .chip-list {
+    margin-top: 1rem;
+  }
+
+  .area-chip-stack {
+    flex-direction: column;
+  }
+
   .process-list {
     display: grid;
     gap: 1rem;
@@ -1129,7 +1312,8 @@ const equipmentProof = [
     gap: .65rem;
   }
 
-  .neighborhoods span {
+  .neighborhoods span,
+  .chip-list span {
     min-width: 0;
     border: 1px solid #cfe0f4;
     border-radius: 999px;
@@ -1138,6 +1322,18 @@ const equipmentProof = [
     padding: .55rem .78rem;
     font-size: .9rem;
     font-weight: 800;
+  }
+
+  .nearby-communities {
+    min-width: 0;
+  }
+
+  .nearby-communities strong {
+    margin-bottom: .75rem;
+  }
+
+  .nearby-list span {
+    background: #ffffff;
   }
 
   .service-link-card,
@@ -1276,6 +1472,7 @@ const equipmentProof = [
     .split-heading,
     .documentation-grid,
     .category-authority-grid,
+    .city-brief-panel,
     .pricing-panel,
     .area-panel,
     .related-grid,
@@ -1287,7 +1484,8 @@ const equipmentProof = [
     .equipment-grid,
     .service-link-grid,
     .article-grid,
-    .related-cards {
+    .related-cards,
+    .city-brief-groups {
       grid-template-columns: 1fr;
     }
 

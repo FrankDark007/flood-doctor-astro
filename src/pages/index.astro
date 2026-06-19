@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro'
 import BrandLogo from '../components/BrandLogo.astro'
 import RestorationBadge from '../components/RestorationBadge.astro'
+import RestorationMedia from '../components/RestorationMedia.astro'
 import ContactForm from '../components/islands/ContactForm.tsx'
 import { cityData } from '../data/cities'
 import { localBusinessSchema, webSiteSchema } from '../utils/schema'
@@ -151,9 +152,17 @@ const faqs = [
 
         <aside class="hero-visual" aria-label="What happens when you contact Flood Doctor">
           <div class="response-panel">
+            <RestorationMedia
+              variant="drying-wall"
+              tone="dark"
+              aspect="card"
+              loading="eager"
+              class="hero-restoration-media"
+              caption="Drying setup, floor protection, equipment placement, and moisture mapping are the work behind the call."
+            />
             <div class="response-panel-header">
               <span class="panel-kicker">What happens next</span>
-              <strong>Intake -> dispatch -> extraction -> drying records</strong>
+              <strong>Call details guide dispatch, extraction, drying, and field records.</strong>
             </div>
             <ul class="intake-list">
               {intakeChecks.map((item) => <li>{item}</li>)}
@@ -191,6 +200,20 @@ const faqs = [
             </div>
           ))}
         </dl>
+        <div class="field-proof-strip" aria-label="Restoration field proof visuals">
+          <RestorationMedia
+            variant="response-van"
+            aspect="card"
+            class="proof-media-card"
+            caption="Response scene: access, hose routing, and safe staging are part of the mitigation plan."
+          />
+          <RestorationMedia
+            variant="equipment-detail"
+            aspect="card"
+            class="proof-media-card"
+            caption="Equipment detail: extraction hardware, moisture checks, and owner-facing notes stay connected."
+          />
+        </div>
       </div>
     </section>
 
@@ -215,7 +238,16 @@ const faqs = [
               </div>
               <p class="service-detail">{service.detail}</p>
               <h3>{service.title}</h3>
-              <p>{service.body}</p>
+              <p class="service-body">{service.body}</p>
+              {index === 0 && (
+                <RestorationMedia
+                  variant="equipment-detail"
+                  tone="dark"
+                  aspect="card"
+                  class="service-proof-media"
+                  caption="Field tools and notes support extraction decisions before repair work begins."
+                />
+              )}
             </article>
           ))}
         </div>
@@ -235,6 +267,12 @@ const faqs = [
             <a class="text-link" href={cityPhoneHref}>Call {cityData.phone}</a>
             <a class="text-link" href="/request">Request service</a>
           </div>
+          <RestorationMedia
+            variant="process"
+            aspect="wide"
+            class="process-proof-media"
+            caption="The same sequence repeats across most mitigation jobs: intake, extraction, controlled drying, monitoring, and records."
+          />
         </div>
         <ol class="process-list" aria-label="Emergency water damage process">
           {processSteps.map((item) => (
@@ -632,8 +670,8 @@ const faqs = [
     content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(135deg, rgba(251, 146, 60, 0.14), transparent 34%), url('/graphics/restoration-process.svg') center bottom / 110% auto no-repeat;
-    opacity: 0.16;
+    background: linear-gradient(135deg, rgba(251, 146, 60, 0.14), transparent 34%);
+    opacity: 0.7;
     pointer-events: none;
   }
 
@@ -747,6 +785,10 @@ const faqs = [
     border-right: 0;
   }
 
+  :global(.hero-restoration-media) {
+    min-width: 0;
+  }
+
   .proof-section {
     position: relative;
     z-index: 2;
@@ -817,6 +859,14 @@ const faqs = [
     font-size: 0.82rem;
     font-weight: 620;
     line-height: 1.48;
+  }
+
+  .field-proof-strip {
+    display: grid;
+    grid-column: 1 / -1;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    min-width: 0;
   }
 
   .services-section,
@@ -928,13 +978,21 @@ const faqs = [
     text-transform: uppercase;
   }
 
-  .service-card p:last-child,
+  .service-body,
   .process-card p,
   .faq-card p {
     margin: 0.85rem 0 0;
     color: var(--fd-muted);
     font-size: 0.95rem;
     line-height: 1.65;
+  }
+
+  .service-card-large .service-body {
+    color: #c9d7e8;
+  }
+
+  :global(.service-proof-media) {
+    margin-top: 1.2rem;
   }
 
   .process-section,
@@ -963,6 +1021,10 @@ const faqs = [
 
   .text-link:hover {
     color: #155fc0;
+  }
+
+  :global(.process-proof-media) {
+    margin-top: 1.65rem;
   }
 
   .process-list {
@@ -1182,7 +1244,8 @@ const faqs = [
     }
 
     .proof-grid,
-    .bento-grid {
+    .bento-grid,
+    .field-proof-strip {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
@@ -1292,7 +1355,8 @@ const faqs = [
     }
 
     .proof-grid,
-    .bento-grid {
+    .bento-grid,
+    .field-proof-strip {
       grid-template-columns: 1fr;
     }
 
