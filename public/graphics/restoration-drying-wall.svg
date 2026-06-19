@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="dryingTitle dryingDesc">
+  <title id="dryingTitle">Drying equipment staged in a water-damaged room</title>
+  <desc id="dryingDesc">A restoration jobsite illustration with air movers, a dehumidifier, moisture mapping tape, floor protection, and controlled airflow.</desc>
+  <defs>
+    <linearGradient id="dryingWall" x1="136" y1="60" x2="821" y2="544" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f8fbff"/>
+      <stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="dryingBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#0b63ce"/>
+    </linearGradient>
+    <pattern id="dryingHatch" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <path d="M0 0h5v18H0z" fill="#f59e0b" opacity=".65"/>
+    </pattern>
+    <filter id="dryingShadow" x="-20%" y="-20%" width="140%" height="150%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#06172e" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="960" height="640" rx="44" fill="#06172e"/>
+  <path d="M0 528c118-70 212-70 330 0s212 70 330 0 212-70 330 0" fill="none" stroke="#38bdf8" stroke-opacity=".16" stroke-width="18"/>
+  <rect x="70" y="58" width="820" height="512" rx="32" fill="url(#dryingWall)"/>
+  <path d="M70 414h820v124a32 32 0 0 1-32 32H102a32 32 0 0 1-32-32V414Z" fill="#d6e3ef"/>
+  <path d="M92 430h776" stroke="#94a3b8" stroke-opacity=".55" stroke-width="3"/>
+  <path d="M104 498c88-29 160-29 248 0s160 29 248 0 160-29 248 0" fill="none" stroke="#0b63ce" stroke-opacity=".16" stroke-width="10" stroke-linecap="round"/>
+
+  <g opacity=".78">
+    <path d="M152 112h168v286H152z" fill="#fff" stroke="#cbd5e1" stroke-width="4"/>
+    <path d="M166 132h140v90H166z" fill="#e0f2fe"/>
+    <path d="M166 252h140v116H166z" fill="#f8fafc"/>
+    <path d="M151 360h170v38H151z" fill="url(#dryingHatch)" opacity=".45"/>
+    <path d="M166 252h140M166 286h140M166 320h140" stroke="#cbd5e1" stroke-width="3"/>
+  </g>
+
+  <g transform="translate(384 104)">
+    <path d="M0 0h380v268H0z" fill="#eef6ff" stroke="#bfdbfe" stroke-width="4"/>
+    <path d="M26 48h328M26 98h328M26 148h328M26 198h328" stroke="#cbd5e1" stroke-width="3" stroke-dasharray="9 14"/>
+    <path d="M52 38h118v66H52zM218 84h92v66h-92zM78 168h134v66H78z" fill="#fff" stroke="#94a3b8" stroke-width="4"/>
+    <path d="M64 55h92M64 72h70M230 101h66M230 118h44M90 185h106M90 202h78" stroke="#0b63ce" stroke-opacity=".55" stroke-width="6" stroke-linecap="round"/>
+    <path d="M328 36h24v24h-24zM332 76h24v24h-24zM326 116h24v24h-24z" fill="#f97316" opacity=".84"/>
+  </g>
+
+  <g filter="url(#dryingShadow)">
+    <g transform="translate(154 360)">
+      <path d="M24 44h162c20 0 36 16 36 36v46H0V68c0-13 11-24 24-24Z" fill="#10233f"/>
+      <path d="M30 0h132c15 0 28 12 28 28v43H14V16C14 7 21 0 30 0Z" fill="#1e3a5f"/>
+      <circle cx="102" cy="70" r="50" fill="#eaf6ff"/>
+      <circle cx="102" cy="70" r="32" fill="url(#dryingBlue)"/>
+      <path d="M102 38c22 21 23 43 0 64-23-21-22-43 0-64Zm-32 32c21-22 43-23 64 0-21 23-43 22-64 0Z" fill="#fff" opacity=".9"/>
+      <path d="M18 126h188" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(628 366)">
+      <path d="M42 0h118c16 0 30 13 30 30v112H12V30C12 13 25 0 42 0Z" fill="#10233f"/>
+      <path d="M44 20h112v48H44z" fill="#e0f2fe"/>
+      <path d="M58 38h84M48 91h104M48 113h104" stroke="#38bdf8" stroke-width="7" stroke-linecap="round"/>
+      <path d="M0 142h204" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <g fill="none" stroke-linecap="round" opacity=".75">
+    <path d="M320 340c62-44 116-54 178-30" stroke="#38bdf8" stroke-width="8" stroke-dasharray="2 18"/>
+    <path d="M804 358c-55-50-112-68-180-46" stroke="#38bdf8" stroke-width="8" stroke-dasharray="2 18"/>
+    <path d="M328 378c94-34 181-34 276 0" stroke="#0b63ce" stroke-opacity=".24" stroke-width="12"/>
+  </g>
+
+  <g transform="translate(322 132)">
+    <path d="M0 0h40v84H0z" rx="10" fill="#0f172a"/>
+    <path d="M9 12h22v32H9z" rx="4" fill="#7dd3fc"/>
+    <path d="M12 57h16M12 70h16" stroke="#f97316" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <path d="M118 536h720" stroke="#fff" stroke-opacity=".55" stroke-width="5" stroke-linecap="round"/>
+</svg>
