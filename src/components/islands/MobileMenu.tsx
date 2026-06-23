@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Dialog, DialogPanel, DialogTitle } from '@headlessui/react'
+import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import { PhoneIcon } from '@heroicons/react/20/solid'
 import { toTelHref } from '../../utils/phone'
@@ -19,40 +19,43 @@ interface Props {
 export default function MobileMenu({ navigation, secondaryNav, phone, cityName }: Props) {
   const [open, setOpen] = useState(false)
   const navLabel = (item: NavItem) => item.href === '/request' ? 'Request Service' : item.name
-  const navHref = (item: NavItem) => item.href === '/request' ? '/request/' : item.href
 
   return (
     <>
+      {/* Mobile menu button — visible only on small screens */}
       <button
         type="button"
         onClick={() => setOpen(true)}
         aria-expanded={open}
         aria-controls="mobile-navigation"
-        className="relative z-30 -m-2.5 inline-flex min-h-11 min-w-11 items-center justify-center rounded-full border border-white/[0.15] bg-white/[0.10] p-2.5 text-white shadow-sm transition hover:bg-white/[0.16] focus:outline-none focus:ring-2 focus:ring-sky-300 focus:ring-offset-2 focus:ring-offset-[#06172e] lg:hidden"
+        className="relative z-30 -m-2.5 inline-flex min-h-11 min-w-11 items-center justify-center rounded-md p-2.5 text-slate-700 hover:text-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 lg:hidden"
       >
         <span className="sr-only">Open main menu</span>
         <Bars3Icon className="size-6" />
       </button>
 
       <Dialog open={open} onClose={setOpen} className="lg:hidden">
-        <div className="fixed inset-0 z-40 bg-slate-950/70 backdrop-blur-sm" aria-hidden="true" />
+        <div className="fixed inset-0 z-50" />
         <DialogPanel
           id="mobile-navigation"
-          className="fixed inset-y-0 right-0 z-50 flex w-full flex-col justify-between overflow-y-auto border-l border-white/10 bg-[#06172e] text-white shadow-2xl sm:max-w-sm"
+          className="fixed inset-y-0 right-0 z-50 flex w-full flex-col justify-between overflow-y-auto bg-white dark:bg-gray-900 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10 dark:sm:ring-white/10"
         >
-          <div className="p-5 sm:p-6">
-            <div className="flex items-center justify-between gap-4">
+          <div className="p-6">
+            <div className="flex items-center justify-between">
               <a
                 href="/"
                 aria-label={`Flood Doctor ${cityName}`}
-                className="-m-1.5 inline-flex min-w-0 items-center gap-x-2.5 rounded-xl p-1.5 focus:outline-none focus:ring-2 focus:ring-sky-300 focus:ring-offset-2 focus:ring-offset-[#06172e]"
+                className="-m-1.5 inline-flex items-center gap-x-2.5 rounded-lg p-1.5 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 dark:focus:ring-offset-gray-900"
               >
-                <span className="grid size-10 shrink-0 place-items-center rounded-xl bg-white shadow-lg shadow-slate-950/20">
-                  <img alt="" src="/graphics/flood-doctor-mark.svg" className="h-8 w-8" />
-                </span>
-                <span className="min-w-0 text-lg font-black tracking-tight text-white">
-                  Flood <span className="text-sky-300">Doctor</span>
-                  <span className="ml-2 hidden border-l-2 border-orange-400 pl-2 text-sm font-extrabold text-slate-300 min-[430px]:inline">
+                <span className="sr-only">Flood Doctor {cityName}</span>
+                <img
+                  alt=""
+                  src="/graphics/flood-doctor-mark.svg"
+                  className="h-9 w-9"
+                />
+                <span className="text-lg font-black tracking-tight text-slate-950 dark:text-white">
+                  Flood <span className="text-blue-600">Doctor</span>
+                  <span className="ml-2 hidden border-l-2 border-orange-500 pl-2 text-sm font-bold text-slate-500 dark:text-slate-300 min-[430px]:inline">
                     {cityName}
                   </span>
                 </span>
@@ -60,59 +63,53 @@ export default function MobileMenu({ navigation, secondaryNav, phone, cityName }
               <button
                 type="button"
                 onClick={() => setOpen(false)}
-                className="-m-2.5 rounded-full border border-white/[0.15] bg-white/[0.10] p-2.5 text-slate-100 transition hover:bg-white/[0.16] focus:outline-none focus:ring-2 focus:ring-sky-300 focus:ring-offset-2 focus:ring-offset-[#06172e]"
+                className="-m-2.5 rounded-md p-2.5 text-slate-700 hover:text-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 dark:text-slate-300 dark:focus:ring-offset-gray-900"
               >
                 <span className="sr-only">Close menu</span>
                 <XMarkIcon className="size-6" />
               </button>
             </div>
-
-            <div className="mt-6 rounded-2xl border border-orange-300/20 bg-orange-400/10 p-4">
-              <DialogTitle className="text-sm font-black uppercase tracking-[0.16em] text-orange-200">
-                Emergency intake
-              </DialogTitle>
-              <p className="mt-1 text-sm text-slate-200">Call now or request service so we can confirm the next step.</p>
-            </div>
-
-            <nav className="mt-6" aria-label="Mobile navigation links">
-              <div className="divide-y divide-white/10 overflow-hidden rounded-2xl border border-white/10 bg-white/[0.04]">
-                <div className="p-2">
+            <div className="mt-6 flow-root">
+              <div className="-my-6 divide-y divide-gray-200 dark:divide-white/10">
+                <div className="space-y-2 py-6">
                   {navigation.map((item) => (
                     <a
                       key={item.name}
-                      href={navHref(item)}
-                      className="block rounded-xl px-4 py-3 text-base font-bold text-slate-100 transition hover:bg-white/[0.10] hover:text-white focus:outline-none focus:ring-2 focus:ring-sky-300"
+                      href={item.href}
+                      className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-slate-900 hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-blue-600 dark:text-white dark:hover:bg-white/5"
                     >
                       {navLabel(item)}
                     </a>
                   ))}
                 </div>
-                <div className="p-2">
+                <div className="space-y-2 py-6">
                   {secondaryNav.map((item) => (
                     <a
                       key={item.name}
-                      href={navHref(item)}
-                      className="block rounded-xl px-4 py-3 text-base font-bold text-slate-100 transition hover:bg-white/[0.10] hover:text-white focus:outline-none focus:ring-2 focus:ring-sky-300"
+                      href={item.href}
+                      className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-slate-900 hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-blue-600 dark:text-white dark:hover:bg-white/5"
                     >
                       {navLabel(item)}
                     </a>
                   ))}
                 </div>
               </div>
-            </nav>
+            </div>
           </div>
-
-          <div className="sticky bottom-0 space-y-3 border-t border-white/10 bg-[#08203f]/95 p-5 pb-[calc(1.25rem+env(safe-area-inset-bottom))] backdrop-blur sm:p-6">
+          <div className="sticky bottom-0 space-y-3 bg-gray-50 p-6 dark:bg-gray-800/50">
             <a
               href={toTelHref(phone)}
-              aria-label={`Call Flood Doctor at ${phone}`}
-              className="fd-btn fd-btn-primary flex w-full"
+              aria-label={`Call Now ${phone}`}
+              className="flex items-center justify-center gap-x-2.5 rounded-md bg-orange-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-orange-500 focus:outline-none focus:ring-2 focus:ring-orange-300 focus:ring-offset-2 dark:focus:ring-offset-gray-800"
             >
               <PhoneIcon className="size-5" />
-              Call Now {phone}
+              Call Now
             </a>
-            <a href="/request/" className="fd-btn fd-btn-secondary flex w-full">
-              Request Service
+            <a
+              href="/request"
+              className="flex items-center justify-center rounded-md border border-slate-300 bg-white px-3.5 py-2.5 text-sm font-semibold text-slate-900 shadow-xs hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 dark:border-white/15 dark:bg-gray-900 dark:text-white dark:hover:bg-white/5 dark:focus:ring-offset-gray-800"
+            >
+              Request Emergency Service
             </a>
           </div>
         </DialogPanel>

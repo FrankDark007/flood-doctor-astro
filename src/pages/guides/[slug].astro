@@ -1,47 +1,12 @@
 ---
 import { guideArticles } from '../../data/guides'
-import { cityData } from '../../data/cities'
-import { breadcrumbSchema, cityBaseUrl } from '../../utils/schema'
 
 export function getStaticPaths() {
   return Object.keys(guideArticles).map((slug) => ({
     params: { slug },
-    props: { guide: guideArticles[slug] },
   }))
 }
 
-const { guide } = Astro.props
-const _base = cityBaseUrl()
-const targetPath = `/resources/homeowner-guides/${guide.slug}/`
-const canonicalUrl = `${_base}${targetPath}`
-const description = guide.subtitle
-  .replace(/within\s+60 minutes/gi, 'as quickly as possible')
-  .replace(/60[\s-]minute/gi, 'prompt')
-  .replace(/60 minutes/gi, 'the first few minutes')
-  .replace(/IICRC/g, 'industry')
-  .replace(/direct\s+billing/gi, 'claim documentation support')
-const structuredData = breadcrumbSchema([
-  { name: 'Home', url: `${_base}/` },
-  { name: 'Resources', url: `${_base}/resources/` },
-  { name: 'Homeowner Guides', url: `${_base}/resources/homeowner-guides/` },
-  { name: guide.title, url: canonicalUrl },
-])
+const { slug } = Astro.params
+return Astro.redirect(`/resources/homeowner-guides/${slug}`, 301)
 ---
-
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>{guide.title} | Flood Doctor {cityData.name}</title>
-    <meta name="description" content={description} />
-    <meta name="robots" content="noindex, follow" />
-    <link rel="canonical" href={canonicalUrl} />
-    <meta http-equiv="refresh" content={`0;url=${targetPath}`} />
-    <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
-  </head>
-  <body>
-    <p>
-      This guide has moved to
-      <a href={targetPath}>{targetPath}</a>.
-    </p>
-  </body>
-</html>

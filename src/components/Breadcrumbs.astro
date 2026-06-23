@@ -4,21 +4,22 @@ import { routeNames } from '../data/navigation'
 const pathname = Astro.url.pathname
 const segments = pathname.split('/').filter(Boolean)
 
+// Don't show breadcrumbs on homepage
 if (segments.length === 0) return
 
 const pages = segments.map((seg, i) => ({
   name: routeNames[seg] || seg.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
-  href: '/' + segments.slice(0, i + 1).join('/') + '/',
+  href: '/' + segments.slice(0, i + 1).join('/'),
   current: i === segments.length - 1,
 }))
 ---
 
-<nav aria-label="Breadcrumb" class="border-b border-white/10 bg-[#08203f] text-white">
-  <div class="mx-auto w-full max-w-7xl px-4 py-3 sm:px-6 lg:px-8">
-    <ol role="list" class="flex min-w-0 flex-wrap items-center gap-x-2 gap-y-1 text-sm sm:gap-x-3">
+<nav aria-label="Breadcrumb" class="bg-white dark:bg-gray-900 border-b border-gray-100 dark:border-white/5">
+  <div class="mx-auto w-full max-w-7xl px-6 py-3 lg:px-8">
+    <ol role="list" class="flex min-w-0 flex-wrap items-center gap-x-2 gap-y-1 text-sm sm:gap-x-4">
       <li class="shrink-0">
-        <a href="/" class="inline-flex rounded-md text-slate-300 transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#08203f]">
-          <svg class="size-4 shrink-0" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+        <a href="/" class="text-gray-500 dark:text-gray-300 hover:text-gray-700 dark:hover:text-white">
+          <svg class="size-5 shrink-0" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
             <path fill-rule="evenodd" d="M9.293 2.293a1 1 0 011.414 0l7 7A1 1 0 0117 11h-1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-3a1 1 0 00-1-1H9a1 1 0 00-1 1v3a1 1 0 01-1 1H5a1 1 0 01-1-1v-6H3a1 1 0 01-.707-1.707l7-7z" clip-rule="evenodd" />
           </svg>
           <span class="sr-only">Home</span>
@@ -27,15 +28,21 @@ const pages = segments.map((seg, i) => ({
       {pages.map((page) => (
         <li class:list={['min-w-0', page.current ? 'flex' : 'hidden sm:flex']}>
           <div class="flex min-w-0 items-center">
-            <svg class="size-4 shrink-0 text-slate-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <svg class="size-5 shrink-0 text-gray-400 dark:text-gray-300" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M8.22 5.22a.75.75 0 011.06 0l4.25 4.25a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 010-1.06z" clip-rule="evenodd" />
             </svg>
             {page.current ? (
-              <span aria-current="page" class="ml-2 min-w-0 break-words font-bold text-white sm:ml-3">
+              <span
+                aria-current="page"
+                class="ml-2 min-w-0 break-words font-medium sm:ml-4 text-gray-800 dark:text-white"
+              >
                 {page.name}
               </span>
             ) : (
-              <a href={page.href} class="ml-2 min-w-0 break-words rounded-md font-semibold text-slate-300 transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#08203f] sm:ml-3">
+              <a
+                href={page.href}
+                class="ml-2 min-w-0 break-words font-medium sm:ml-4 text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-white"
+              >
                 {page.name}
               </a>
             )}

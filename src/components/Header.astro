@@ -7,30 +7,16 @@ import { toTelHref } from '../utils/phone'
 const cityPhoneHref = toTelHref(cityData.phone)
 
 const currentPath = Astro.url.pathname
-const headerNavigation = mainNavigation.map((item) => ({
-  ...item,
-  isActive: currentPath === item.href || (item.href !== '/' && currentPath.startsWith(item.href)),
-}))
 ---
 
-<header class="sticky top-0 z-40 border-b border-white/10 bg-[#06172e]/95 text-white shadow-[0_18px_50px_rgba(6,23,46,0.28)] backdrop-blur-xl">
-  <div class="border-b border-white/10 bg-[#08203f]/85">
-    <div class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-2 text-xs font-semibold sm:px-6 lg:px-8">
-      <p class="inline-flex items-center gap-2 text-slate-200">
-        <span class="size-2 rounded-full bg-orange-400 shadow-[0_0_0_4px_rgba(251,146,60,0.16)]"></span>
-        24/7 emergency intake for {cityData.name}
-      </p>
-      <a href={cityPhoneHref} class="hidden text-orange-200 transition hover:text-white focus-visible:rounded sm:inline-flex">
-        Call Now {cityData.phone}
-      </a>
-    </div>
-  </div>
-
-  <nav aria-label="Global" class="mx-auto flex max-w-7xl items-center justify-between gap-6 px-4 py-4 sm:px-6 lg:px-8">
-    <div class="flex min-w-0 lg:flex-1">
-      <BrandLogo cityName={cityData.name} showCity variant="compact" tone="dark" size="md" class="-m-1.5 p-1.5" />
+<header class="bg-white border-b border-slate-200">
+  <nav aria-label="Global" class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8">
+    <!-- Logo -->
+    <div class="flex lg:flex-1">
+      <BrandLogo cityName={cityData.name} showCity variant="compact" size="md" class="-m-1.5 p-1.5" />
     </div>
 
+    <!-- Mobile menu button (React island) -->
     <div class="flex lg:hidden">
       <MobileMenu
         client:idle
@@ -41,15 +27,16 @@ const headerNavigation = mainNavigation.map((item) => ({
       />
     </div>
 
-    <div class="hidden lg:flex lg:items-center lg:gap-x-1">
-      {headerNavigation.map((item) => (
+    <!-- Desktop nav -->
+    <div class="hidden lg:flex lg:gap-x-8">
+      {mainNavigation.map((item) => (
         <a
           href={item.href}
           class:list={[
-            'rounded-full px-3.5 py-2 text-sm font-bold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#06172e]',
-            item.isActive
-              ? 'bg-white/[0.12] text-white shadow-inner shadow-white/5'
-              : 'text-slate-200 hover:bg-white/[0.08] hover:text-white',
+            'text-sm/6 font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-600',
+            currentPath === item.href || (item.href !== '/' && currentPath.startsWith(item.href))
+              ? 'text-blue-700'
+              : 'text-slate-900 hover:text-blue-700',
           ]}
         >
           {item.name}
@@ -57,11 +44,18 @@ const headerNavigation = mainNavigation.map((item) => ({
       ))}
     </div>
 
-    <div class="hidden lg:flex lg:flex-1 lg:items-center lg:justify-end lg:gap-x-3">
-      <a href={cityPhoneHref} class="fd-btn fd-btn-primary px-4 py-2.5" aria-label={`Call Flood Doctor at ${cityData.phone}`}>
-        Call Now <span class="font-black">{cityData.phone}</span>
+    <!-- CTA -->
+    <div class="hidden lg:flex lg:flex-1 lg:justify-end lg:gap-x-4">
+      <a
+        href={cityPhoneHref}
+        class="text-sm/6 font-semibold text-slate-900 hover:text-blue-700 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-600"
+      >
+        {cityData.phone}
       </a>
-      <a href="/request/" class="fd-btn fd-btn-secondary px-4 py-2.5">
+      <a
+        href="/request"
+        class="rounded-md bg-blue-600 px-3 py-2 text-sm font-semibold text-white shadow-xs hover:bg-blue-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
+      >
         Request Service
       </a>
     </div>

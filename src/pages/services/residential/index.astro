@@ -2,665 +2,88 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro'
 import Icon from '../../../components/Icon.astro'
 import { cityData } from '../../../data/cities'
-import { getDivisionCategories } from '../../../data/services/service-tree'
-import { breadcrumbSchema, cityBaseUrl } from '../../../utils/schema'
+import { getDivisionCategories, getCategoryServices } from '../../../data/services/service-tree'
 import { toTelHref } from '../../../utils/phone'
 const cityPhoneHref = toTelHref(cityData.phone)
-const _base = cityBaseUrl()
 
 const categories = getDivisionCategories('residential')
-
-const safeText = (value = '') => String(value)
-  .replace(/HIPAA-compliant/gi, 'privacy-aware')
-  .replace(/OSHA-compliant/gi, 'safety-conscious')
-  .replace(/EPA and OSHA workplace standards/gi, 'workplace safety expectations')
-  .replace(/\bcertified\b/gi, 'trained')
-const proofPoints = [
-  { label: 'Emergency intake', body: 'Call or request service when water is active, materials are wet, or safety is uncertain.' },
-  { label: 'Scope clarity', body: 'We collect property details, affected areas, source information, and documentation needs.' },
-  { label: 'Local routing', body: `Service coordination is confirmed for ${cityData.name} before next steps are scheduled.` },
-]
-
-const homeownerTriage = [
-  'Avoid rooms with sagging ceilings, wet electrical devices, sewage, or visible structural movement.',
-  'If safe, shut off the water source and move dry contents away from wet flooring or walls.',
-  'Photograph affected rooms before cleanup changes the first condition.',
-]
-
-const materialRows = [
-  { area: 'Basements + lower levels', watch: 'Sump failure, foundation seepage, wet storage, carpet pad, drywall bases.' },
-  { area: 'Kitchens + baths', watch: 'Cabinet bases, tile assemblies, subfloor seams, adjacent rooms, appliance lines.' },
-  { area: 'Bedrooms + living areas', watch: 'Hardwood, carpet, contents, trim, insulation, and wall cavities.' },
-  { area: 'Attics + crawl spaces', watch: 'Roof leaks, damp insulation, microbial odors, limited access, ventilation issues.' },
-]
-
-const localAreas = cityData.serviceArea?.slice(0, 6) ?? []
-
-const structuredData = breadcrumbSchema([
-  { name: 'Home', url: `${_base}/` },
-  { name: 'Services', url: `${_base}/services/` },
-  { name: 'Residential', url: `${_base}/services/residential/` },
-])
 ---
 
 <BaseLayout
   title={`Residential Services | Flood Doctor ${cityData.name}`}
   description={`Residential water damage restoration services in ${cityData.name}. Emergency response, cleanup, mold remediation, and specialty services for homeowners.`}
-  structuredData={structuredData}
 >
-  <main class="hub-page">
-    <section class="hub-hero" aria-labelledby="hub-title">
-      <div class="hub-shell hero-grid">
-        <div>
-          <nav class="breadcrumb" aria-label="Breadcrumb">
-            <a href="/">Home</a><span>/</span><a href="/services">Services</a><span>/</span><span>Residential</span>
-          </nav>
-          <p class="eyebrow">For Homeowners</p>
-          <h1 id="hub-title">Residential Restoration Services</h1>
-          <p class="hero-lede">Emergency-first water damage restoration, cleanup, and specialty services for homes in {cityData.name}. Use this hub to find the right path for wet floors, basements, mold concerns, sewage, storm damage, and drying documentation.</p>
-          <div class="action-row">
-            <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
-            <a class="fd-btn fd-btn-secondary" href="/request">Request Service</a>
-          </div>
+  <!-- Hero -->
+  <div class="py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl lg:mx-0">
+        <p class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">For Homeowners</p>
+        <h1 class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
+          Residential Restoration Services
+        </h1>
+        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-300">
+          Complete water damage restoration, cleanup, and specialty services for your home in {cityData.name}. Emergency intake is available 24/7 so we can confirm details and coordinate the right response.
+        </p>
+        <div class="mt-10 flex items-center gap-x-6">
+          <a
+            href="/request"
+            class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400"
+          >
+            Request Service
+          </a>
+          <a href={cityPhoneHref} class="text-sm/6 font-semibold text-gray-900 dark:text-white">
+            Call {cityData.phone} <span aria-hidden="true">&rarr;</span>
+          </a>
         </div>
-        <aside class="triage-card" aria-label="How service routing works">
-          <span>Service routing</span>
-          <strong>Start with the situation, then match the crew and scope.</strong>
-          <p>Tell us the water source, affected materials, access constraints, and whether cleanup or drying has already started.</p>
-        </aside>
       </div>
-    </section>
+    </div>
+  </div>
 
-    <section class="category-section" aria-labelledby="category-title">
-      <div class="hub-shell">
-        <div class="split-heading">
-          <div>
-            <p class="eyebrow">Service categories</p>
-            <h2 id="category-title">Pick the closest problem area</h2>
+  <!-- Categories -->
+  {categories.map((category, idx) => (
+    <div class={`${idx % 2 === 0 ? 'bg-gray-50 dark:bg-gray-800/30' : 'bg-white dark:bg-gray-900'} py-24 sm:py-32`}>
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto max-w-2xl lg:mx-0">
+          <div class="flex items-center gap-x-3">
+            <Icon name={category.icon || 'check'} class="size-6 text-indigo-600 dark:text-indigo-400" />
+            <h2 class="text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">
+              <a href={category.path} class="hover:text-indigo-600 dark:hover:text-indigo-400">{category.name}</a>
+            </h2>
           </div>
-          <p>
-            Each category is a command-center view of related services, so urgent calls can move from intake to inspection,
-            cleanup, drying, and documentation without guessing which page to start on.
-          </p>
+          <p class="mt-4 text-base/7 text-gray-600 dark:text-gray-400">{category.description}</p>
         </div>
-
-        <div class="category-stack">
-          {categories.map((category, idx) => (
-            <article class="category-panel">
-              <div class="category-head">
-                <div class="category-icon" aria-hidden="true">
-                  <Icon name={category.icon || 'check'} class="icon" />
-                </div>
-                <div>
-                  <span>0{idx + 1}</span>
-                  <h3><a href={category.path}>{category.name}</a></h3>
-                  <p>{safeText(category.description)}</p>
-                </div>
-              </div>
-              <div class="service-card-grid">
-                {(category.children || []).map((service) => (
-                  <a href={service.path} class="service-card">
-                    <strong>{service.name}</strong>
-                    <p>{safeText(service.description)}</p>
-                    <span>View service <span aria-hidden="true">&rarr;</span></span>
-                  </a>
-                ))}
-              </div>
-            </article>
+        <dl class="mx-auto mt-12 grid max-w-2xl grid-cols-1 gap-6 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+          {(category.children || []).map((service) => (
+            <a href={service.path} class="group relative flex flex-col rounded-xl bg-white dark:bg-white/5 p-6 shadow-sm outline-1 -outline-offset-1 outline-gray-200 dark:outline-white/10 transition hover:shadow-md hover:outline-indigo-500/50">
+              <dt class="font-semibold text-gray-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
+                {service.name}
+              </dt>
+              <dd class="mt-2 grow text-sm/6 text-gray-600 dark:text-gray-400">{service.description}</dd>
+              <dd class="mt-4 text-sm font-semibold text-indigo-600 dark:text-indigo-400">
+                Learn more <span aria-hidden="true">&rarr;</span>
+              </dd>
+            </a>
           ))}
+        </dl>
+      </div>
+    </div>
+  ))}
+
+  <!-- CTA -->
+  <div class="bg-white dark:bg-gray-900 pb-24 sm:pb-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl rounded-2xl bg-gray-50 dark:bg-white/5 p-8 text-center outline-1 -outline-offset-1 outline-gray-200 dark:outline-white/10 sm:p-12">
+        <h2 class="text-2xl font-semibold text-gray-900 dark:text-white">Not sure which service you need?</h2>
+        <p class="mt-4 text-gray-600 dark:text-gray-400">Call us for an assessment. We'll identify the problem and recommend the right solution.</p>
+        <div class="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+          <a href="/request" class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-6 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400">
+            Request Service
+          </a>
+          <a href={cityPhoneHref} class="rounded-md bg-gray-200 dark:bg-white/10 px-6 py-2.5 text-sm font-semibold text-gray-900 dark:text-white hover:bg-gray-300 dark:hover:bg-white/20">
+            Call {cityData.phone}
+          </a>
         </div>
       </div>
-    </section>
-
-    <section class="safety-section" aria-labelledby="safety-title">
-      <div class="hub-shell safety-panel">
-        <div>
-          <p class="eyebrow">Home water safety triage</p>
-          <h2 id="safety-title">Before choosing a service, stabilize the situation</h2>
-          <p>Residential losses often spread through hidden assemblies. These first checks help separate urgent phone calls from service requests.</p>
-        </div>
-        <ul>
-          {homeownerTriage.map((item) => <li>{item}</li>)}
-        </ul>
-      </div>
-    </section>
-
-    <section class="materials-section" aria-labelledby="materials-title">
-      <div class="hub-shell">
-        <div class="split-heading">
-          <div>
-            <p class="eyebrow">Affected-material guide</p>
-            <h2 id="materials-title">Home materials change the restoration plan</h2>
-          </div>
-          <p>Service selection is easier when the page reflects where water actually travels: under floors, into cavities, behind cabinets, and through contents.</p>
-        </div>
-        <div class="material-table">
-          {materialRows.map((row) => (
-            <article>
-              <strong>{row.area}</strong>
-              <p>{row.watch}</p>
-            </article>
-          ))}
-        </div>
-      </div>
-    </section>
-
-    <section class="proof-section" aria-labelledby="proof-title">
-      <div class="hub-shell proof-grid">
-        <div>
-          <p class="eyebrow">What to expect</p>
-          <h2 id="proof-title">Clear intake before restoration work starts</h2>
-          <p>Flood Doctor keeps the first conversation practical: what happened, where water traveled, what needs protection, and what documentation may be useful.</p>
-        </div>
-        <div class="proof-cards">
-          {proofPoints.map((point) => (
-            <article>
-              <span>{point.label}</span>
-              <p>{point.body}</p>
-            </article>
-          ))}
-        </div>
-      </div>
-    </section>
-
-    {localAreas.length > 0 && (
-      <section class="local-section" aria-labelledby="local-title">
-        <div class="hub-shell local-panel">
-          <div>
-            <p class="eyebrow">{cityData.name} residential context</p>
-            <h2 id="local-title">Nearby home service routing</h2>
-            <p>Local visibility is driven by configured service-area data only, so the hub is useful without adding unsupported neighborhood claims.</p>
-          </div>
-          <div class="area-pills" aria-label="Residential service areas">
-            {localAreas.map((area) => <span>{area}</span>)}
-          </div>
-        </div>
-      </section>
-    )}
-
-    <section class="final-cta" aria-labelledby="hub-cta-title">
-      <div class="hub-shell final-panel">
-        <div>
-          <p class="eyebrow">Not sure which service you need?</p>
-          <h2 id="hub-cta-title">Request service and describe the damage</h2>
-          <p>We will use the details to identify the closest service path and explain next steps for your {cityData.name} property.</p>
-        </div>
-        <div class="action-row final-actions">
-          <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
-          <a class="fd-btn fd-btn-outline" href="/request">Request Service</a>
-        </div>
-      </div>
-    </section>
-  </main>
+    </div>
+  </div>
 </BaseLayout>
-
-<style>
-  .hub-page {
-    --navy: #06172e;
-    --navy-2: #08203f;
-    --blue: #1478e6;
-    --blue-dark: #0b63ce;
-    --orange: #d94a12;
-    --orange-dark: #b9380c;
-    --ink: #102033;
-    --muted: #53647a;
-    --line: #d9e6f5;
-    --soft: #f4f9ff;
-    width: 100%;
-    max-width: 100%;
-    overflow-x: clip;
-    background: #ffffff;
-    color: var(--ink);
-    font-family: 'Avenir Next', 'Trebuchet MS', Verdana, sans-serif;
-  }
-
-  .hub-shell {
-    width: min(1120px, calc(100% - 2rem));
-    margin-inline: auto;
-  }
-
-  .hub-hero {
-    position: relative;
-    overflow: hidden;
-    background:
-      radial-gradient(circle at 88% 20%, rgba(20, 120, 230, .28), transparent 24rem),
-      radial-gradient(circle at 8% 90%, rgba(217, 74, 18, .2), transparent 22rem),
-      linear-gradient(135deg, var(--navy), var(--navy-2));
-    padding: clamp(5rem, 9vw, 7.5rem) 0 clamp(4rem, 7vw, 5.5rem);
-  }
-
-  .hub-hero::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background-image: linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.055) 1px, transparent 1px);
-    background-size: 44px 44px;
-    mask-image: linear-gradient(180deg, black, transparent 82%);
-  }
-
-  .hero-grid,
-  .split-heading,
-  .safety-panel,
-  .proof-grid,
-  .local-panel,
-  .final-panel {
-    position: relative;
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(280px, .74fr);
-    gap: clamp(2rem, 5vw, 4rem);
-    align-items: center;
-  }
-
-  .hero-grid > *,
-  .split-heading > *,
-  .safety-panel > *,
-  .proof-grid > *,
-  .local-panel > *,
-  .final-panel > * {
-    min-width: 0;
-  }
-
-  .breadcrumb {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .45rem;
-    margin-bottom: 1.3rem;
-    color: #c9d7e8;
-    font-size: .88rem;
-  }
-
-  .breadcrumb a {
-    color: inherit;
-    text-decoration: none;
-  }
-
-  .breadcrumb a:hover {
-    color: #ffffff;
-  }
-
-  .eyebrow,
-  .category-head span,
-  .proof-cards span,
-  .triage-card span {
-    display: block;
-    margin: 0 0 .75rem;
-    color: var(--orange);
-    font-size: .76rem;
-    font-weight: 900;
-    letter-spacing: .13em;
-    text-transform: uppercase;
-  }
-
-  .hub-hero .eyebrow,
-  .triage-card span,
-  .final-cta .eyebrow {
-    color: #fed7aa;
-  }
-
-  h1,
-  h2,
-  h3,
-  p {
-    overflow-wrap: anywhere;
-  }
-
-  h1,
-  h2,
-  h3 {
-    margin: 0;
-    letter-spacing: -.055em;
-    line-height: 1;
-  }
-
-  h1 {
-    max-width: 11ch;
-    color: #ffffff;
-    font-size: clamp(2.55rem, 7.8vw, 5.45rem);
-    font-weight: 920;
-  }
-
-  h2 {
-    color: var(--navy);
-    font-size: clamp(2rem, 4.2vw, 3.3rem);
-    font-weight: 880;
-  }
-
-  h3 {
-    color: var(--navy);
-    font-size: clamp(1.55rem, 3vw, 2.05rem);
-    font-weight: 870;
-  }
-
-  h3 a {
-    color: inherit;
-    text-decoration: none;
-  }
-
-  .hero-lede,
-  .split-heading > p,
-  .safety-panel p,
-  .proof-grid > div > p,
-  .local-panel p,
-  .final-panel p {
-    margin: 1.2rem 0 0;
-    color: var(--muted);
-    font-size: clamp(1rem, 2vw, 1.15rem);
-    font-weight: 560;
-    line-height: 1.75;
-  }
-
-  .hero-lede,
-  .triage-card p,
-  .final-panel p {
-    color: #c9d7e8;
-  }
-
-  .action-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .85rem;
-    max-width: 100%;
-    min-width: 0;
-    margin-top: 1.75rem;
-  }
-
-  .action-row :global(.fd-btn) {
-    max-width: 100%;
-    min-width: 0;
-    text-align: center;
-    white-space: normal;
-  }
-
-  .triage-card {
-    min-width: 0;
-    border: 1px solid rgba(255,255,255,.14);
-    border-radius: 1.5rem;
-    background: linear-gradient(180deg, rgba(255,255,255,.12), rgba(255,255,255,.06));
-    box-shadow: 0 24px 80px rgba(6, 23, 46, .34);
-    padding: clamp(1.25rem, 4vw, 2rem);
-  }
-
-  .triage-card strong {
-    display: block;
-    color: #ffffff;
-    font-size: clamp(1.35rem, 3vw, 2.1rem);
-    letter-spacing: -.045em;
-    line-height: 1.05;
-  }
-
-  .category-section,
-  .safety-section,
-  .materials-section,
-  .proof-section,
-  .local-section {
-    padding: clamp(4rem, 7vw, 6.5rem) 0;
-  }
-
-  .category-section,
-  .materials-section,
-  .local-section {
-    background: linear-gradient(180deg, #f7fbff, #ffffff);
-  }
-
-  .category-stack {
-    display: grid;
-    gap: 1.2rem;
-    margin-top: 2.2rem;
-  }
-
-  .category-panel {
-    min-width: 0;
-    border: 1px solid var(--line);
-    border-radius: 1.6rem;
-    background: #ffffff;
-    box-shadow: 0 18px 55px rgba(6, 23, 46, .1);
-    padding: clamp(1rem, 3vw, 1.5rem);
-  }
-
-  .category-head {
-    display: grid;
-    grid-template-columns: auto minmax(0, 1fr);
-    gap: 1rem;
-    align-items: start;
-  }
-
-  .category-icon {
-    display: grid;
-    width: 3rem;
-    height: 3rem;
-    place-items: center;
-    border-radius: 1rem;
-    background: linear-gradient(135deg, #eaf3ff, #fff7ed);
-    color: var(--blue-dark);
-  }
-
-  .icon {
-    width: 1.35rem;
-    height: 1.35rem;
-  }
-
-  .category-head p {
-    margin: .75rem 0 0;
-    color: var(--muted);
-    line-height: 1.65;
-  }
-
-  .service-card-grid {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: .85rem;
-    margin-top: 1.25rem;
-  }
-
-  .service-card {
-    min-width: 0;
-    border: 1px solid rgba(15,79,184,.12);
-    border-radius: 1.1rem;
-    background: var(--soft);
-    color: inherit;
-    padding: 1rem;
-    text-decoration: none;
-    transition: transform 160ms ease, border-color 160ms ease, background 160ms ease;
-  }
-
-  .service-card:hover {
-    transform: translateY(-2px);
-    border-color: rgba(20, 120, 230, .36);
-    background: #ffffff;
-  }
-
-  .service-card strong {
-    display: block;
-    color: var(--navy);
-    line-height: 1.2;
-  }
-
-  .service-card p {
-    margin: .6rem 0 0;
-    color: var(--muted);
-    font-size: .92rem;
-    line-height: 1.55;
-  }
-
-  .service-card span {
-    display: inline-flex;
-    margin-top: .9rem;
-    color: var(--blue-dark);
-    font-size: .88rem;
-    font-weight: 850;
-  }
-
-  .proof-section {
-    background: #ffffff;
-  }
-
-  .safety-section {
-    background: var(--navy);
-  }
-
-  .safety-panel,
-  .local-panel {
-    min-width: 0;
-    border: 1px solid var(--line);
-    border-radius: 1.5rem;
-    background: #ffffff;
-    box-shadow: 0 18px 55px rgba(6, 23, 46, .12);
-    padding: clamp(1.25rem, 4vw, 2rem);
-  }
-
-  .safety-panel {
-    border-color: rgba(255,255,255,.14);
-    background:
-      radial-gradient(circle at 100% 0, rgba(20, 120, 230, .2), transparent 20rem),
-      rgba(255,255,255,.08);
-  }
-
-  .safety-panel h2,
-  .safety-panel p {
-    color: #ffffff;
-  }
-
-  .safety-panel ul {
-    display: grid;
-    gap: .85rem;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  .safety-panel li {
-    position: relative;
-    padding-left: 1.45rem;
-    color: #dce8f7;
-    line-height: 1.62;
-  }
-
-  .safety-panel li::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: .58rem;
-    width: .55rem;
-    height: .55rem;
-    border-radius: 999px;
-    background: var(--orange);
-  }
-
-  .material-table {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-
-  .material-table article {
-    min-width: 0;
-    border: 1px solid var(--line);
-    border-radius: 1.2rem;
-    background: #ffffff;
-    box-shadow: 0 12px 34px rgba(6, 23, 46, .08);
-    padding: 1.1rem;
-  }
-
-  .material-table strong {
-    display: block;
-    color: var(--navy);
-    line-height: 1.2;
-  }
-
-  .material-table p {
-    margin: .7rem 0 0;
-    color: var(--muted);
-    font-size: .95rem;
-    line-height: 1.6;
-  }
-
-  .proof-cards {
-    display: grid;
-    gap: .9rem;
-  }
-
-  .proof-cards article {
-    border: 1px solid var(--line);
-    border-radius: 1.2rem;
-    background: #ffffff;
-    box-shadow: 0 12px 34px rgba(6, 23, 46, .08);
-    padding: 1.1rem;
-  }
-
-  .proof-cards p {
-    margin: 0;
-    color: var(--muted);
-    line-height: 1.6;
-  }
-
-  .area-pills {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .65rem;
-  }
-
-  .area-pills span {
-    border: 1px solid #cfe0f4;
-    border-radius: 999px;
-    background: var(--soft);
-    color: var(--navy);
-    padding: .55rem .78rem;
-    font-size: .9rem;
-    font-weight: 850;
-  }
-
-  .final-cta {
-    background: var(--navy);
-    color: #ffffff;
-    padding: clamp(4rem, 7vw, 6rem) 0;
-  }
-
-  .final-cta h2 {
-    color: #ffffff;
-  }
-
-  .final-actions {
-    justify-content: end;
-  }
-
-  @media (max-width: 920px) {
-    .hero-grid,
-    .split-heading,
-    .safety-panel,
-    .proof-grid,
-    .local-panel,
-    .final-panel,
-    .service-card-grid,
-    .material-table {
-      grid-template-columns: 1fr;
-    }
-
-    .final-actions {
-      justify-content: start;
-    }
-  }
-
-  @media (max-width: 560px) {
-    .hub-shell {
-      width: min(100% - 1.25rem, 1120px);
-    }
-
-    h1 {
-      max-width: 100%;
-      font-size: clamp(2.2rem, 11vw, 3rem);
-    }
-
-    .action-row {
-      flex-direction: column;
-    }
-
-    .action-row :global(.fd-btn) {
-      width: 100%;
-    }
-
-    .category-head {
-      grid-template-columns: 1fr;
-    }
-  }
-</style>

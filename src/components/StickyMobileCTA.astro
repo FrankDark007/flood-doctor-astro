@@ -6,96 +6,30 @@ const phoneHref = toTelHref(cityData.phone)
 ---
 
 <aside
-  class="sticky-mobile-cta fixed inset-x-0 bottom-0 z-40 border-t border-white/10 bg-[#06172e]/96 px-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] pt-3 shadow-[0_-18px_45px_rgba(6,23,46,0.38)] backdrop-blur-xl lg:hidden"
+  class="fixed inset-x-0 bottom-0 z-40 border-t border-slate-200/80 bg-white/95 px-4 pb-[calc(0.75rem+env(safe-area-inset-bottom))] pt-3 shadow-[0_-18px_40px_rgba(15,23,42,0.18)] backdrop-blur dark:border-white/10 dark:bg-slate-950/95 lg:hidden"
   aria-label="Emergency mobile actions"
 >
-  <div class="sticky-mobile-cta__grid">
+  <div class="mx-auto grid max-w-md grid-cols-[minmax(0,1fr)_minmax(0,1fr)] gap-2">
     <a
       href={phoneHref}
-      class="fd-btn fd-btn-primary sticky-mobile-cta__call"
-      aria-label={`Call Flood Doctor at ${cityData.phone}`}
+      class="flex min-h-12 min-w-0 items-center justify-center rounded-xl bg-orange-700 px-2 text-center text-xs font-black uppercase tracking-normal text-white shadow-lg shadow-orange-950/20 transition-colors hover:bg-orange-800 focus:outline-none focus:ring-2 focus:ring-orange-300 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-slate-950"
     >
-      <span>Call Now</span>
-      <span class="sticky-mobile-cta__phone">{cityData.phone}</span>
+      Call Now
     </a>
     <a
-      href="/request/"
+      href="/request"
       aria-label="Request emergency service"
-      class="fd-btn fd-btn-secondary sticky-mobile-cta__request"
+      class="flex min-h-12 min-w-0 items-center justify-center rounded-xl bg-slate-900 px-2 text-center text-xs font-black uppercase tracking-normal text-white shadow-lg shadow-slate-950/20 transition-colors hover:bg-slate-800 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-white dark:bg-white dark:text-slate-950 dark:hover:bg-slate-100 dark:focus:ring-offset-slate-950"
     >
-      <span>Request Service</span>
+      Request
     </a>
   </div>
 </aside>
 
-<style>
-  .sticky-mobile-cta {
-    box-sizing: border-box;
-  }
-
-  .sticky-mobile-cta__grid {
-    display: grid;
-    grid-template-columns: minmax(0, 1.12fr) minmax(0, 0.88fr);
-    gap: 0.5rem;
-    width: 100%;
-    max-width: 28rem;
-    margin-inline: auto;
-  }
-
-  .sticky-mobile-cta :global(.fd-btn) {
-    min-width: 0;
-    min-height: 3.2rem;
-    width: 100%;
-    padding: 0.62rem 0.55rem;
-    font-size: clamp(0.74rem, 3.1vw, 0.875rem);
-    line-height: 1.1;
-    text-align: center;
-    white-space: normal;
-  }
-
-  .sticky-mobile-cta__call {
-    flex-direction: column;
-    gap: 0.08rem;
-  }
-
-  .sticky-mobile-cta__phone {
-    font-size: 0.72rem;
-    font-weight: 900;
-    letter-spacing: -0.02em;
-  }
-
-  @media (max-width: 389px) {
-    .sticky-mobile-cta__call {
-      flex-direction: row;
-      gap: 0.25rem;
-    }
-
-    .sticky-mobile-cta__phone {
-      display: none;
-    }
-  }
-
-  @media (max-width: 340px) {
-    .sticky-mobile-cta {
-      padding-inline: 0.5rem;
-    }
-
-    .sticky-mobile-cta__grid {
-      grid-template-columns: minmax(0, 1fr) minmax(0, 0.94fr);
-      gap: 0.4rem;
-    }
-
-    .sticky-mobile-cta :global(.fd-btn) {
-      padding-inline: 0.42rem;
-      font-size: 0.72rem;
-    }
-  }
-</style>
-
 <style is:global>
   @media (max-width: 1023px) {
     body {
-      padding-bottom: calc(5.25rem + env(safe-area-inset-bottom));
+      padding-bottom: calc(5.5rem + env(safe-area-inset-bottom));
     }
   }
 </style>

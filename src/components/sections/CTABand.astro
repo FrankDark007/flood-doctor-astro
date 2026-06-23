@@ -12,35 +12,34 @@ const {
   heading = 'Ready to get started?',
   description = "Request service today. Our team is standing by 24/7 to help with your water damage emergency.",
   primaryText = 'Request Service',
-  primaryHref = '/request/',
+  primaryHref = '/request',
   secondaryText = 'Learn more',
   secondaryHref = '/about',
 } = Astro.props
-
-const normalizedPrimaryHref = primaryHref === '/request' ? '/request/' : primaryHref
 ---
 
-<section class="relative isolate overflow-hidden bg-[#06172e]">
-  <div class="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_18%_0%,rgba(20,120,230,0.34),transparent_28rem),radial-gradient(circle_at_85%_20%,rgba(217,74,18,0.18),transparent_24rem)]"></div>
-  <div class="mx-auto max-w-7xl px-4 py-20 sm:px-6 sm:py-24 lg:flex lg:items-center lg:justify-between lg:gap-12 lg:px-8">
+<div class="bg-indigo-600 dark:bg-indigo-500">
+  <div class="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:justify-between lg:px-8">
     <div>
-      <p class="fd-badge fd-badge-emergency">Emergency-first support</p>
-      <h2 class="mt-5 max-w-2xl text-3xl font-black tracking-tight text-white sm:text-5xl">
+      <h2 class="max-w-2xl text-4xl font-semibold tracking-tight text-white sm:text-5xl">
         {heading}
       </h2>
-      <p class="mt-5 max-w-xl text-base leading-7 text-slate-300 sm:text-lg">
+      <p class="mt-6 max-w-xl text-lg/8 text-indigo-100">
         {description}
       </p>
     </div>
-    <div class="mt-10 flex flex-col gap-3 sm:flex-row lg:mt-0 lg:shrink-0">
-      <a href={normalizedPrimaryHref} class="fd-btn fd-btn-primary">
+    <div class="mt-10 flex items-center gap-x-6 lg:mt-0 lg:shrink-0">
+      <a
+        href={primaryHref}
+        class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-indigo-600 shadow-xs hover:bg-indigo-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
+      >
         {primaryText}
       </a>
       {secondaryText && (
-        <a href={secondaryHref} class="fd-btn fd-btn-outline">
+        <a href={secondaryHref} class="text-sm/6 font-semibold text-white">
           {secondaryText} <span aria-hidden="true">&rarr;</span>
         </a>
       )}
     </div>
   </div>
-</section>
+</div>

@@ -22,9 +22,6 @@ const safeText = (value = '') => String(value)
   .replace(/IICRC certifications/g, 'industry training')
   .replace(/\bcertified\b/gi, 'trained')
   .replace(/\bcertifications\b/gi, 'training')
-  .replace(/HIPAA-compliant/gi, 'privacy-aware')
-  .replace(/OSHA-compliant/gi, 'safety-conscious')
-  .replace(/EPA and OSHA workplace standards/gi, 'workplace safety expectations')
   .replace(/Licensed & Insured/g, 'Property Restoration Support')
   .replace(/Direct Insurance Billing/g, 'Insurance Documentation Help')
   .replace(/direct\s+billing/gi, 'insurance documentation help')
@@ -70,14 +67,17 @@ if (pageType === 'service') {
   var categoryForService = getNodeByPath(`/services/commercial/${categorySlug}`)
 }
 
+// City content overlay — null means use generic ServiceData fallback
 const cityContent = (pageType === 'service' && serviceSlug)
   ? getCityServiceContent(cityData.slug, serviceSlug)
   : null
 
+// Get related blog posts for cross-linking
 const relatedBlogs = cityContent?.relatedBlogSlugs
   ? blogPosts.filter(p => cityContent.relatedBlogSlugs.includes(p.slug)).slice(0, 3)
   : []
 
+// Use city-specific FAQs when available, otherwise generic
 const displayFaqs = (cityContent?.faqs && cityContent.faqs.length > 0)
   ? cityContent.faqs
   : service?.faqs ?? []
@@ -88,19 +88,8 @@ const safeFaqs = displayFaqs.map((faq) => ({
   answer: safeText(faq.answer),
 }))
 
-const siblingServices = (pageType === 'service' && categorySlug)
-  ? getCategoryServices('commercial', categorySlug!).filter((node) => node.slug !== serviceSlug).slice(0, 4)
-  : []
-
+// Structured data: Service + FAQPage (when FAQs exist) + BreadcrumbList (AEO)
 const _base = cityBaseUrl()
-const categoryStructuredData = categoryNode
-  ? breadcrumbSchema([
-      { name: 'Home', url: `${_base}/` },
-      { name: 'Services', url: `${_base}/services/` },
-      { name: 'Commercial', url: `${_base}/services/commercial/` },
-      { name: categoryNode.name, url: `${_base}${Astro.url.pathname}` },
-    ])
-  : undefined
 const serviceStructuredData = service
   ? [
       serviceSchema({ ...service, description: safeText(service.description) }),
@@ -115,6 +104,7 @@ const serviceStructuredData = service
     ]
   : undefined
 
+// Page title & description — city-specific when available
 const pageTitle = cityContent?.meta?.title
   ? safeText(cityContent.meta.title)
   : service ? `${service.name} in ${cityData.name}, ${cityData.stateAbbr} | Flood Doctor` : ''
@@ -122,150 +112,59 @@ const pageDescription = cityContent?.meta?.description
   ? safeText(cityContent.meta.description)
   : (service ? `${service.name} in ${cityData.name}, ${cityData.stateAbbr}. ${safeText(service.description)}` : '')
 
-const isCityVariant = cityData.slug !== 'main'
-const cityServiceAreas = isCityVariant
-  ? (cityContent?.serviceAreaSection?.neighborhoods?.filter(Boolean) ?? [])
-  : []
-const cityServiceAreaChips = cityServiceAreas.slice(0, 10)
-const nearbyCommunityChips = isCityVariant
-  ? (cityData.serviceArea ?? [])
-      .filter((area) => area && area !== cityData.name && !cityServiceAreas.includes(area))
-      .slice(0, 8)
-  : []
-const localJobNotes = isCityVariant && cityContent?.localChallenges?.length
-  ? cityContent.localChallenges.slice(0, 3)
-  : []
-const hasCityBrief = isCityVariant && Boolean(cityContent) && (
-  Boolean(cityContent?.introSection?.localContext) ||
-  cityServiceAreaChips.length > 0 ||
-  nearbyCommunityChips.length > 0 ||
-  localJobNotes.length > 0
-)
-const cityRequestLabel = isCityVariant && cityContent ? `Request ${cityData.name} Service` : 'Request Service'
 const imageUrl = (url = '', params = '') => url.endsWith('.svg') ? url : `${url}${params}`
-const fallbackProcessSteps = service?.contentParagraphs?.map((paragraph, idx) => ({
-  title: idx === 0 ? 'Assess the damage and safety conditions' : idx === 1 ? 'Map moisture and define scope' : idx === 2 ? 'Dry, clean, and monitor' : 'Document close-out and next steps',
-  description: paragraph,
-})) ?? []
-const whenToCall = [
-  'Water is actively entering, standing, or spreading into new rooms.',
-  'Drywall, flooring, insulation, ceilings, or contents are wet and need a documented scope.',
-  'Sewage, stormwater, mold odor, electrical concerns, or access hazards may be involved.',
-]
-const serviceLocalAreas = isCityVariant
-  ? (cityServiceAreaChips.length > 0 ? cityServiceAreaChips.slice(0, 6) : cityData.serviceArea?.slice(0, 6) ?? [])
-  : []
-const safetyChecks = [
-  'Confirm source control, shutoff authority, occupied areas, and whether electrical, sewage, ceiling, or structural hazards are present.',
-  'Separate wet and dry operational zones where safe, then identify tenant, guest, patient, student, or employee impacts.',
-  'Preserve first-condition photos, affected-area notes, equipment impacts, and stakeholder contacts before cleanup changes the site.',
-]
-const affectedMaterials = [
-  { material: 'Partitions, ceilings, and insulation', action: 'Track water migration through shared walls, ceiling cavities, and fire-rated assemblies before drying or removal decisions.' },
-  { material: 'Flooring and operational surfaces', action: 'Identify carpet tile, resilient flooring, concrete, hardwood, and specialty surfaces that affect equipment placement.' },
-  { material: 'Inventory, records, and electronics', action: 'Separate salvageable items, document non-restorable materials, and protect business-critical assets when safe.' },
-  { material: 'Mechanical and shared systems', action: 'Coordinate around HVAC, elevators, drains, electrical rooms, and building access constraints.' },
-]
-const documentationItems = [
-  'Source notes, affected-area map, access constraints, occupancy impacts, and safety observations.',
-  'Moisture readings or material condition notes when they are part of the commercial restoration scope.',
-  'Photo-backed scope summaries that help owners, managers, tenants, carriers, and repair partners work from the same facts.',
-]
-const equipmentProof = [
-  { label: 'Moisture mapping', body: 'Meters and inspection notes help locate where water traveled across rooms, units, or building assemblies.' },
-  { label: 'Equipment planning', body: 'Air movement, dehumidification, containment, filtration, or removal decisions are matched to use type and access.' },
-  { label: 'Monitoring', body: 'Follow-up observations support drying decisions, phasing, and close-out documentation when drying is part of the scope.' },
-]
 ---
 
 {pageType === 'category' && categoryNode ? (
   <BaseLayout
     title={`${categoryNode.name} | Commercial | Flood Doctor ${cityData.name}`}
     description={`${categoryNode.description} Professional commercial ${categoryNode.name.toLowerCase()} in ${cityData.name}.`}
-    structuredData={categoryStructuredData}
   >
-    <main class="detail-page">
-      <section class="detail-hero category-hero" aria-labelledby="category-title">
-        <div class="detail-shell hero-grid">
-          <div>
-            <nav class="breadcrumb" aria-label="Breadcrumb">
-              <a href="/">Home</a><span>/</span><a href="/services">Services</a><span>/</span><a href="/services/commercial">Commercial</a><span>/</span><span>{categoryNode.name}</span>
-            </nav>
-            <p class="eyebrow">Commercial service category</p>
-            <h1 id="category-title">{categoryNode.name}</h1>
-            <p class="hero-lede">{safeText(categoryNode.description)} Service intake is available for {cityData.name} properties when water, contamination, or drying decisions need a clear next step.</p>
-            <div class="action-row">
-              <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
-              <a class="fd-btn fd-btn-secondary" href="/request">Request Service</a>
-            </div>
+    <div class="py-24 sm:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto max-w-2xl lg:mx-0">
+          <nav class="flex flex-wrap items-center gap-y-1 text-sm text-gray-300 mb-8" aria-label="Breadcrumb">
+            <a href="/" class="hover:text-white">Home</a>
+            <span class="mx-2">/</span>
+            <a href="/services" class="hover:text-white">Services</a>
+            <span class="mx-2">/</span>
+            <a href="/services/commercial" class="hover:text-white">Commercial</a>
+            <span class="mx-2">/</span>
+            <span class="min-w-0 break-words text-white">{categoryNode.name}</span>
+          </nav>
+          <div class="flex items-center gap-x-3">
+            <Icon name={categoryNode.icon || 'check'} class="size-8 text-indigo-400" />
+            <h1 class="text-4xl font-semibold tracking-tight text-white sm:text-5xl">{categoryNode.name}</h1>
           </div>
-          <aside class="command-card">
-            <span>Category scope</span>
-            <strong>Choose the closest service, then describe what happened.</strong>
-            <p>Routing stays the same: intake, safety notes, affected-area details, documentation needs, and the right restoration path.</p>
-          </aside>
+          <p class="mt-6 text-lg/8 text-gray-300">{categoryNode.description}</p>
         </div>
-      </section>
 
-      <section class="section light-section" aria-labelledby="category-services-title">
-        <div class="detail-shell">
-          <div class="split-heading">
-            <div>
-              <p class="eyebrow">Included services</p>
-              <h2 id="category-services-title">Services in this category</h2>
-            </div>
-            <p>Each service page keeps the same emergency-first structure with definition, scope, process, local details, FAQ, and request actions.</p>
-          </div>
-          <div class="service-link-grid">
-            {categoryServices.map((svc) => (
-              <a href={svc.path} class="service-link-card">
-                <strong>{svc.name}</strong>
-                <p>{safeText(svc.description)}</p>
-                <span>Open service <span aria-hidden="true">&rarr;</span></span>
-              </a>
-            ))}
-          </div>
+        <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-8 lg:mx-0 lg:max-w-none lg:grid-cols-2">
+          {categoryServices.map((svc) => (
+            <a href={svc.path} class="group relative flex flex-col rounded-2xl bg-white/5 p-8 outline-1 -outline-offset-1 outline-white/10 transition hover:bg-white/10 hover:outline-indigo-500/50">
+              <h2 class="text-xl font-semibold text-white group-hover:text-indigo-400">{svc.name}</h2>
+              <p class="mt-3 grow text-sm/6 text-gray-400">{svc.description}</p>
+              <span class="mt-6 text-sm font-semibold text-indigo-400 group-hover:text-indigo-300">
+                Learn more <span aria-hidden="true">&rarr;</span>
+              </span>
+            </a>
+          ))}
         </div>
-      </section>
+      </div>
+    </div>
 
-      <section class="section category-authority" aria-labelledby="category-authority-title">
-        <div class="detail-shell category-authority-grid">
-          <div>
-            <p class="eyebrow">How this category is scoped</p>
-            <h2 id="category-authority-title">Match the service to source, operations, and safety conditions</h2>
-            <p>Commercial routing works best when the first notes include what happened, which areas are affected, who needs access, and what documentation stakeholders may need.</p>
-          </div>
-          <div class="authority-cards">
-            <article>
-              <span>Safety</span>
-              <p>{safetyChecks[0]}</p>
-            </article>
-            <article>
-              <span>Materials</span>
-              <p>{affectedMaterials[0].action}</p>
-            </article>
-            <article>
-              <span>Documentation</span>
-              <p>{documentationItems[0]}</p>
-            </article>
+    <div class="pb-24 sm:pb-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto max-w-2xl rounded-2xl bg-white/5 p-8 text-center outline-1 -outline-offset-1 outline-white/10 sm:p-12">
+          <h2 class="text-2xl font-semibold text-white">Need a commercial restoration assessment?</h2>
+          <p class="mt-4 text-gray-400">We work with property managers and facility directors to minimize downtime.</p>
+          <div class="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+            <a href="/request" class="rounded-md bg-indigo-500 px-6 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400">Request Service</a>
+            <a href={cityPhoneHref} class="rounded-md bg-white/10 px-6 py-2.5 text-sm font-semibold text-white hover:bg-white/20">Call {cityData.phone}</a>
           </div>
         </div>
-      </section>
-
-      <section class="final-cta" aria-labelledby="category-cta-title">
-        <div class="detail-shell final-panel">
-          <div>
-            <p class="eyebrow">Need help choosing?</p>
-            <h2 id="category-cta-title">Send the damage details and we will route the request</h2>
-            <p>Start with what happened, where the water went, and whether the source is controlled.</p>
-          </div>
-          <div class="action-row final-actions">
-            <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
-            <a class="fd-btn fd-btn-outline" href="/request">Request Service</a>
-          </div>
-        </div>
-      </section>
-    </main>
+      </div>
+    </div>
   </BaseLayout>
 ) : service ? (
   <BaseLayout
@@ -273,1256 +172,311 @@ const equipmentProof = [
     description={pageDescription}
     structuredData={serviceStructuredData}
   >
-    <main class="detail-page">
-      <section class="detail-hero" aria-labelledby="service-title">
-        <div class="detail-shell hero-grid">
-          <div>
-            <nav class="breadcrumb" aria-label="Breadcrumb">
-              <a href="/">Home</a><span>/</span><a href="/services">Services</a><span>/</span><a href="/services/commercial">Commercial</a><span>/</span>
-              {categoryForService && <><a href={categoryForService.path}>{categoryForService.name}</a><span>/</span></>}
-              <span>{service.name}</span>
-            </nav>
-            <p class="eyebrow">Commercial emergency service</p>
-            <h1 id="service-title">{safeText(cityContent?.h1 ?? `${service.name} in ${cityData.name}, ${cityData.stateAbbr}`)}</h1>
-            <p class="hero-lede">{safeText(service.description)}</p>
-            <div class="action-row">
-              <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
-              <a class="fd-btn fd-btn-secondary" href="/request">{cityRequestLabel}</a>
-            </div>
-          </div>
-          <aside class="hero-media">
-            <img alt={service.name} src={imageUrl(service.heroImageUrl, '&fm=avif&w=800&q=70')} width="800" height="533" fetchpriority="high" decoding="async" />
-            <div class="media-status">
-              <span>First response focus</span>
-              <strong>Safety, water path, affected materials, documentation.</strong>
-            </div>
-            {serviceLocalAreas.length > 0 && (
-              <div class="hero-local" aria-label={`${cityData.name} service-area context`}>
-                <span>{cityData.name} context</span>
-                <div>
-                  {serviceLocalAreas.map((area) => <em>{safeText(area)}</em>)}
-                </div>
-              </div>
+    <!-- Hero -->
+    <div class="relative isolate overflow-hidden bg-white dark:bg-gray-900">
+      <svg aria-hidden="true" class="absolute inset-x-0 top-0 -z-10 h-[64rem] w-full mask-[radial-gradient(32rem_32rem_at_center,white,transparent)] stroke-gray-200 dark:stroke-white/10">
+        <defs><pattern x="50%" y="-1" id="service-hero-pattern-c" width="200" height="200" patternUnits="userSpaceOnUse"><path d="M.5 200V.5H200" fill="none" /></pattern></defs>
+        <rect fill="url(#service-hero-pattern-c)" width="100%" height="100%" stroke-width="0" />
+      </svg>
+      <div class="mx-auto max-w-7xl px-6 pt-36 pb-24 sm:pt-60 sm:pb-32 lg:flex lg:items-center lg:gap-x-10 lg:px-8 lg:pt-40 lg:pb-40">
+        <div class="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
+          <nav class="flex flex-wrap items-center gap-y-1 text-sm text-gray-600 dark:text-gray-300 mb-6" aria-label="Breadcrumb">
+            <a href="/" class="hover:text-gray-900 dark:hover:text-white">Home</a>
+            <span class="mx-2">/</span>
+            <a href="/services" class="hover:text-gray-900 dark:hover:text-white">Services</a>
+            <span class="mx-2">/</span>
+            <a href="/services/commercial" class="hover:text-gray-900 dark:hover:text-white">Commercial</a>
+            <span class="mx-2">/</span>
+            {categoryForService && (
+              <>
+                <a href={categoryForService.path} class="min-w-0 break-words hover:text-gray-900 dark:hover:text-white">{categoryForService.name}</a>
+                <span class="mx-2">/</span>
+              </>
             )}
-          </aside>
-        </div>
-      </section>
-
-      {hasCityBrief && (
-        <section class="section city-brief-section" aria-labelledby="city-brief-title">
-          <div class="detail-shell city-brief-panel">
-            <div class="city-brief-copy">
-              <p class="eyebrow">{cityData.name} service notes</p>
-              <h2 id="city-brief-title">Local details to include in the request</h2>
-              {cityContent?.introSection?.localContext && <p>{safeText(cityContent.introSection.localContext)}</p>}
-            </div>
-            <div class="city-brief-groups">
-              {cityServiceAreaChips.length > 0 && (
-                <article>
-                  <h3>Service-area signals</h3>
-                  <div class="chip-list">
-                    {cityServiceAreaChips.map((area) => <span>{safeText(area)}</span>)}
-                  </div>
-                </article>
-              )}
-              {nearbyCommunityChips.length > 0 && (
-                <article>
-                  <h3>Nearby communities</h3>
-                  <div class="chip-list nearby-list">
-                    {nearbyCommunityChips.map((area) => <span>{safeText(area)}</span>)}
-                  </div>
-                </article>
-              )}
-              {localJobNotes.length > 0 && (
-                <article class="local-job-context">
-                  <h3>Local job context</h3>
-                  <ul>
-                    {localJobNotes.map((note) => (
-                      <li>
-                        <strong>{safeText(note.title)}</strong>
-                        <span>{safeText(note.description)}</span>
-                      </li>
-                    ))}
-                  </ul>
-                </article>
-              )}
-            </div>
+            <span class="min-w-0 break-words text-gray-900 dark:text-white">{service.name}</span>
+          </nav>
+          <h1 class="text-5xl font-semibold tracking-tight text-pretty text-gray-900 dark:text-white sm:text-7xl">
+            {safeText(cityContent?.h1 ?? `${service.name} in ${cityData.name}, ${cityData.stateAbbr}`)}
+          </h1>
+          <p class="mt-8 text-lg font-medium text-pretty text-gray-600 dark:text-gray-400 sm:text-xl/8">{safeText(service.description)}</p>
+          <div class="mt-10 flex items-center gap-x-6">
+            <a href="/request" class="rounded-md bg-indigo-600 dark:bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 dark:hover:bg-indigo-400">Request Service</a>
+            <a href={cityPhoneHref} class="text-sm/6 font-semibold text-gray-900 dark:text-white">Call Now <span aria-hidden="true">&rarr;</span></a>
           </div>
-        </section>
-      )}
-
-      <section class="section safety-section" aria-labelledby="safety-title">
-        <div class="detail-shell safety-grid">
-          <div>
-            <p class="eyebrow">Active water safety triage</p>
-            <h2 id="safety-title">Stabilize safety, access, and operations first</h2>
-            <p>Use these checks before moving inventory, reopening areas, cutting materials, or changing the first-condition documentation.</p>
-          </div>
-          <ul>
-            {safetyChecks.map((item) => <li>{safeText(item)}</li>)}
-          </ul>
         </div>
-      </section>
+        <div class="mt-16 sm:mt-24 lg:mt-0 lg:shrink-0 lg:grow">
+          <img alt={service.name} src={imageUrl(service.heroImageUrl, '&fm=avif&w=800&q=70')} width="800" height="533" fetchpriority="high" decoding="async" class="w-full rounded-2xl object-cover shadow-xl ring-1 ring-gray-200 dark:ring-white/10 lg:aspect-[3/2] lg:max-w-xl" />
+        </div>
+      </div>
+    </div>
 
-      <section class="section definition-section" aria-labelledby="definition-title">
-        <div class="detail-shell definition-grid">
-          <div class="definition-copy">
-            <p class="eyebrow">Definition + scope</p>
-            <h2 id="definition-title">What {service.name} covers</h2>
-            <p>{safeText(service.tagline)}</p>
-            <div class="feature-grid">
-              {service.features.map((feature) => (
-                <article class="feature-card">
-                  <Icon name={feature.icon} class="feature-icon" />
-                  <h3>{safeText(feature.name)}</h3>
-                  <p>{safeText(feature.description)}</p>
-                </article>
+    <!-- City-Specific Intro Section -->
+    {cityContent?.introSection && (
+      <div class="bg-white dark:bg-gray-900 py-24 sm:py-32">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+          <div class="mx-auto max-w-3xl">
+            <h2 class="text-3xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-4xl">{safeText(cityContent.introSection.headline)}</h2>
+            <div class="mt-8 space-y-6 text-base/7 text-gray-600 dark:text-gray-400">
+              {cityContent.introSection.paragraphs.map((p) => <p>{safeText(p)}</p>)}
+            </div>
+            <p class="mt-8 text-sm font-medium text-indigo-600 dark:text-indigo-400">{safeText(cityContent.introSection.localContext)}</p>
+          </div>
+        </div>
+      </div>
+    )}
+
+    <!-- Trust signals (honest, text-based — no fake certification badges) -->
+    <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <h2 class="text-center text-lg/8 font-semibold text-gray-900 dark:text-white">Why businesses trust us</h2>
+        <div class="mx-auto mt-10 flex max-w-4xl flex-wrap items-center justify-center gap-x-6 gap-y-4">
+          {['Emergency Intake', 'Trained Restoration Crews', '24/7 Availability', 'Insurance Documentation Help', 'Local Service Coordination'].map((signal) => (
+            <span class="inline-flex items-center rounded-full bg-white dark:bg-white/5 px-4 py-2 text-sm font-semibold text-gray-700 dark:text-gray-200 ring-1 ring-gray-200 dark:ring-white/10">{signal}</span>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <!-- Features -->
+    <div class="bg-white dark:bg-gray-900 py-24 sm:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto max-w-2xl lg:mx-0">
+          <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">What's included</h2>
+          <p class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">{service.name}</p>
+          <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-300">{safeText(service.tagline)}</p>
+        </div>
+        <dl class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-8 text-base/7 text-gray-600 dark:text-gray-400 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-x-16">
+          {service.features.map((feature) => (
+            <div class="relative pl-9">
+              <dt class="inline font-semibold text-gray-900 dark:text-white">
+                <Icon name={feature.icon} class="absolute top-1 left-1 size-5 text-indigo-600 dark:text-indigo-500" />
+                {safeText(feature.name)}
+              </dt>{' '}
+              <dd class="inline">{safeText(feature.description)}</dd>
+            </div>
+          ))}
+        </dl>
+      </div>
+    </div>
+
+    <!-- City-Specific Process Steps (replaces generic content when available) -->
+    {cityContent?.processSteps && cityContent.processSteps.length > 0 ? (
+      <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+          <div class="mx-auto max-w-3xl">
+            <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Our process</h2>
+            <p class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">How We Serve {cityData.name} Businesses</p>
+          </div>
+          <div class="mx-auto mt-16 max-w-3xl">
+            <div class="space-y-12">
+              {cityContent.processSteps.map((step, idx) => (
+                <div class="relative flex gap-x-6">
+                  <div class="flex flex-col items-center">
+                    <div class="flex size-10 shrink-0 items-center justify-center rounded-full bg-indigo-600 dark:bg-indigo-500 text-sm font-bold text-white">
+                      {idx + 1}
+                    </div>
+                    {idx < cityContent.processSteps.length - 1 && (
+                      <div class="mt-2 w-px grow bg-gray-200 dark:bg-white/10" />
+                    )}
+                  </div>
+                  <div class="pb-8">
+                    <div class="flex items-center gap-x-3">
+                      <h3 class="text-lg font-semibold text-gray-900 dark:text-white">{safeText(step.title)}</h3>
+                      {step.timeframe && (
+                        <span class="inline-flex items-center rounded-full bg-indigo-50 dark:bg-indigo-500/10 px-2.5 py-0.5 text-xs font-medium text-indigo-700 dark:text-indigo-400">{safeText(step.timeframe)}</span>
+                      )}
+                    </div>
+                    <p class="mt-2 text-base/7 text-gray-600 dark:text-gray-400">{safeText(step.description)}</p>
+                  </div>
+                </div>
               ))}
             </div>
           </div>
-          <aside class="call-card" aria-labelledby="call-title">
-            <span>When to call</span>
-            <h3 id="call-title">Use the phone when the loss is active or unsafe.</h3>
-            <ul>
-              {whenToCall.map((item) => <li>{item}</li>)}
+        </div>
+      </div>
+    ) : (
+      <!-- Generic Content (fallback) -->
+      <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+          <div class="mx-auto max-w-3xl">
+            <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">In-depth</h2>
+            <p class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">How Our {service.name} Process Works</p>
+            <div class="mt-10 space-y-8 text-base/7 text-gray-600 dark:text-gray-400">
+              {service.contentParagraphs.map((p) => <p>{safeText(p)}</p>)}
+            </div>
+          </div>
+        </div>
+      </div>
+    )}
+
+    <!-- City-Specific Local Challenges -->
+    {cityContent?.localChallenges && cityContent.localChallenges.length > 0 && (
+      <div class="bg-white dark:bg-gray-900 py-24 sm:py-32">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+          <div class="mx-auto max-w-2xl lg:mx-0">
+            <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Local expertise</h2>
+            <p class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">{cityData.name} Challenges We Solve</p>
+          </div>
+          <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-8 lg:mx-0 lg:max-w-none lg:grid-cols-2">
+            {cityContent.localChallenges.map((challenge) => (
+              <div class="rounded-2xl bg-gray-50 dark:bg-white/5 p-8 ring-1 ring-gray-200 dark:ring-white/10">
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">{safeText(challenge.title)}</h3>
+                <p class="mt-3 text-sm/6 text-gray-600 dark:text-gray-400">{safeText(challenge.description)}</p>
+                <div class="mt-4 border-t border-gray-200 dark:border-white/10 pt-4">
+                  <p class="text-sm font-medium text-indigo-600 dark:text-indigo-400">Our solution</p>
+                  <p class="mt-1 text-sm/6 text-gray-600 dark:text-gray-400">{safeText(challenge.solution)}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    )}
+
+    <!-- City-Specific Equipment Section -->
+    {cityContent?.equipmentSection && (
+      <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+          <div class="mx-auto max-w-2xl lg:mx-0">
+            <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Professional equipment</h2>
+            <p class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">{safeText(cityContent.equipmentSection.headline)}</p>
+          </div>
+          <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-6 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+            {cityContent.equipmentSection.equipment.map((item) => (
+              <div class="rounded-xl bg-white dark:bg-white/5 p-6 ring-1 ring-gray-200 dark:ring-white/10">
+                <h3 class="text-sm font-semibold text-gray-900 dark:text-white">{safeText(item.name)}</h3>
+                {item.brand && <span class="mt-1 inline-block text-xs text-indigo-600 dark:text-indigo-400">{safeText(item.brand)}</span>}
+                <p class="mt-2 text-sm/6 text-gray-600 dark:text-gray-400">{safeText(item.purpose)}</p>
+              </div>
+            ))}
+          </div>
+          <p class="mx-auto mt-10 max-w-3xl text-sm/6 text-gray-500 dark:text-gray-500">{safeText(cityContent.equipmentSection.localNote)}</p>
+        </div>
+      </div>
+    )}
+
+    <!-- City-Specific Pricing Section -->
+    {cityContent?.pricingSection && (
+      <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+          <div class="mx-auto max-w-3xl">
+            <h2 class="text-3xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-4xl">{safeText(cityContent.pricingSection.headline)}</h2>
+            <p class="mt-6 text-base/7 text-gray-600 dark:text-gray-400">{safeText(cityContent.pricingSection.intro)}</p>
+            <ul class="mt-8 space-y-3">
+              {cityContent.pricingSection.factors.map((factor) => (
+                <li class="flex gap-x-3 text-sm/6 text-gray-600 dark:text-gray-400">
+                  <svg class="mt-1 size-4 shrink-0 text-indigo-600 dark:text-indigo-500" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                  </svg>
+                  {safeText(factor)}
+                </li>
+              ))}
             </ul>
-            <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call {cityData.phone}</a>
-          </aside>
-        </div>
-      </section>
-
-      <section class="section material-section" aria-labelledby="material-title">
-        <div class="detail-shell">
-          <div class="split-heading">
-            <div>
-              <p class="eyebrow">Affected-material matrix</p>
-              <h2 id="material-title">What gets checked before drying, removal, or reopening</h2>
-            </div>
-            <p>Commercial scopes depend on how materials, systems, occupants, and operations interact after water travels beyond the visible source.</p>
-          </div>
-          <div class="material-grid">
-            {affectedMaterials.map((item) => (
-              <article class="material-card">
-                <strong>{safeText(item.material)}</strong>
-                <p>{safeText(item.action)}</p>
-              </article>
-            ))}
+            <p class="mt-8 text-sm font-medium text-indigo-600 dark:text-indigo-400">{safeText(cityContent.pricingSection.cta)}</p>
           </div>
         </div>
-      </section>
+      </div>
+    )}
 
-      {cityContent?.introSection && (
-        <section class="section local-intro" aria-labelledby="local-intro-title">
-          <div class="detail-shell local-grid">
-            <div>
-              <p class="eyebrow">Local proof</p>
-              <h2 id="local-intro-title">{safeText(cityContent.introSection.headline)}</h2>
-              <div class="rich-copy">
-                {cityContent.introSection.paragraphs.map((p) => <p>{safeText(p)}</p>)}
-              </div>
-            </div>
-            <aside class="local-note">
-              <span>{cityData.name} context</span>
-              <p>{safeText(cityContent.introSection.localContext)}</p>
-            </aside>
-          </div>
-        </section>
-      )}
-
-      <section class="section process-section" aria-labelledby="process-title">
-        <div class="detail-shell">
-          <div class="split-heading">
-            <div>
-              <p class="eyebrow">Process</p>
-              <h2 id="process-title">How we serve {cityData.name} businesses</h2>
-            </div>
-            <p>Process sequencing depends on source control, water category, affected materials, access, and safety conditions.</p>
-          </div>
-          <ol class="process-list">
-            {(cityContent?.processSteps && cityContent.processSteps.length > 0 ? cityContent.processSteps : fallbackProcessSteps).map((step, idx) => (
-              <li class="process-card">
-                <span>{String(idx + 1).padStart(2, '0')}</span>
-                <div>
-                  <h3>{safeText(step.title)}</h3>
-                  {'timeframe' in step && step.timeframe && <em>{safeText(step.timeframe)}</em>}
-                  <p>{safeText(step.description)}</p>
-                </div>
-              </li>
-            ))}
-          </ol>
-        </div>
-      </section>
-
-      <section class="section documentation-section" aria-labelledby="documentation-title">
-        <div class="detail-shell documentation-grid">
-          <div>
-            <p class="eyebrow">Documentation + equipment proof</p>
-            <h2 id="documentation-title">Scope notes that keep stakeholders aligned</h2>
-            <p>Documentation support is not a coverage promise. It is the practical record of source, materials, photos, moisture observations, operations impacts, and next-step decisions.</p>
-            <ol class="doc-list">
-              {documentationItems.map((item) => <li>{safeText(item)}</li>)}
-            </ol>
-          </div>
-          <div class="proof-tool-grid">
-            {equipmentProof.map((item) => (
-              <article>
-                <span>{safeText(item.label)}</span>
-                <p>{safeText(item.body)}</p>
-              </article>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {cityContent?.localChallenges && cityContent.localChallenges.length > 0 && (
-        <section class="section challenges-section" aria-labelledby="challenges-title">
-          <div class="detail-shell">
-            <div class="split-heading">
-              <div>
-                <p class="eyebrow">Local challenges</p>
-                <h2 id="challenges-title">{cityData.name} conditions we plan around</h2>
-              </div>
-              <p>Generated city content is preserved here, but grouped into problem-and-response cards for easier scanning.</p>
-            </div>
-            <div class="challenge-grid">
-              {cityContent.localChallenges.map((challenge) => (
-                <article class="challenge-card">
-                  <h3>{safeText(challenge.title)}</h3>
-                  <p>{safeText(challenge.description)}</p>
-                  <div>
-                    <span>Our response</span>
-                    <p>{safeText(challenge.solution)}</p>
-                  </div>
-                </article>
+    <!-- City-Specific Service Area -->
+    {cityContent?.serviceAreaSection && (
+      <div class="bg-white dark:bg-gray-900 py-24 sm:py-32">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+          <div class="mx-auto max-w-3xl">
+            <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Service area</h2>
+            <p class="mt-2 text-3xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-4xl">{service.name} Throughout {cityData.name}</p>
+            <div class="mt-8 flex flex-wrap gap-2">
+              {cityContent.serviceAreaSection.neighborhoods.map((n) => (
+                <span class="inline-flex items-center rounded-full bg-indigo-50 dark:bg-indigo-500/10 px-3 py-1.5 text-sm font-medium text-indigo-700 dark:text-indigo-400">{n}</span>
               ))}
             </div>
+            <p class="mt-6 text-sm/6 text-gray-600 dark:text-gray-400">{safeText(cityContent.serviceAreaSection.responseTime)}</p>
           </div>
-        </section>
-      )}
+        </div>
+      </div>
+    )}
 
-      {cityContent?.equipmentSection && (
-        <section class="section equipment-section" aria-labelledby="equipment-title">
-          <div class="detail-shell">
-            <div class="split-heading">
-              <div>
-                <p class="eyebrow">Equipment</p>
-                <h2 id="equipment-title">{safeText(cityContent.equipmentSection.headline)}</h2>
+    <!-- Related Services -->
+    <div class="bg-white dark:bg-gray-900 py-24 sm:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-5">
+          <div class="col-span-2">
+            <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Everything you need</h2>
+            <p class="mt-2 text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">Related Services</p>
+          </div>
+          <dl class="col-span-3 grid grid-cols-1 gap-x-8 gap-y-10 text-base/7 text-gray-600 dark:text-gray-300 sm:grid-cols-2 lg:gap-y-16">
+            {service.relatedFeatures.map((feature) => (
+              <div class="relative pl-9">
+                <dt class="font-semibold text-gray-900 dark:text-white">
+                  <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="absolute top-1 left-0 h-5 w-5 text-indigo-600 dark:text-indigo-500">
+                    <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                  </svg>
+                  {safeText(feature.name)}
+                </dt>
+                <dd class="mt-2">{safeText(feature.description)}</dd>
               </div>
-              <p>{safeText(cityContent.equipmentSection.localNote)}</p>
-            </div>
-            <div class="equipment-grid">
-              {cityContent.equipmentSection.equipment.map((item) => (
-                <article class="equipment-card">
-                  <h3>{safeText(item.name)}</h3>
-                  {item.brand && <span>{safeText(item.brand)}</span>}
-                  <p>{safeText(item.purpose)}</p>
-                </article>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
+            ))}
+          </dl>
+        </div>
+      </div>
+    </div>
 
-      {cityContent?.pricingSection && (
-        <section class="section pricing-section" aria-labelledby="pricing-title">
-          <div class="detail-shell pricing-panel">
-            <div>
-              <p class="eyebrow">Cost factors</p>
-              <h2 id="pricing-title">{safeText(cityContent.pricingSection.headline)}</h2>
-              <p>{safeText(cityContent.pricingSection.intro)}</p>
-              <strong>{safeText(cityContent.pricingSection.cta)}</strong>
-            </div>
-            <ul>
-              {cityContent.pricingSection.factors.map((factor) => <li>{safeText(factor)}</li>)}
-            </ul>
+    <!-- Related Blog Articles -->
+    {relatedBlogs.length > 0 && (
+      <div class="bg-gray-50 dark:bg-gray-900 py-24 sm:py-32">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+          <div class="mx-auto max-w-2xl lg:mx-0">
+            <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Learn more</h2>
+            <p class="mt-2 text-3xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-4xl">Related Articles</p>
           </div>
-        </section>
-      )}
-
-      {isCityVariant && cityContent?.serviceAreaSection && (cityContent.serviceAreaSection.responseTime || cityServiceAreaChips.length > 0 || nearbyCommunityChips.length > 0) && (
-        <section class="section area-section" aria-labelledby="area-title">
-          <div class="detail-shell area-panel">
-            <div>
-              <p class="eyebrow">Service area</p>
-              <h2 id="area-title">{service.name} throughout {cityData.name}</h2>
-              {cityContent.serviceAreaSection.responseTime && <p>{safeText(cityContent.serviceAreaSection.responseTime)}</p>}
-            </div>
-            <div class="area-chip-stack">
-              {cityServiceAreaChips.length > 0 && (
-                <div class="neighborhoods" aria-label="Neighborhoods and local service areas">
-                  {cityServiceAreaChips.map((n) => <span>{safeText(n)}</span>)}
+          <div class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-8 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+            {relatedBlogs.map((post) => (
+              <a href={post.href} class="group flex flex-col rounded-2xl bg-white dark:bg-white/5 ring-1 ring-gray-200 dark:ring-white/10 overflow-hidden transition hover:ring-indigo-500/50">
+                <img src={post.imageUrl} alt={post.title} loading="lazy" decoding="async" width="640" height="360" class="aspect-[16/9] w-full object-cover" />
+                <div class="p-6">
+                  <div class="text-xs font-medium text-indigo-600 dark:text-indigo-400">{post.category.title}</div>
+                  <h3 class="mt-2 text-base font-semibold text-gray-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400">{post.title}</h3>
+                  <p class="mt-2 text-sm/6 text-gray-600 dark:text-gray-400 line-clamp-2">{safeText(post.description)}</p>
                 </div>
-              )}
-              {nearbyCommunityChips.length > 0 && (
-                <div class="nearby-communities" aria-label="Nearby communities">
-                  <strong>Nearby communities</strong>
-                  <div class="neighborhoods nearby-list">
-                    {nearbyCommunityChips.map((n) => <span>{safeText(n)}</span>)}
-                  </div>
-                </div>
-              )}
-            </div>
-          </div>
-        </section>
-      )}
-
-      <section class="section related-section" aria-labelledby="related-title">
-        <div class="detail-shell related-grid">
-          <div>
-            <p class="eyebrow">Related internal links</p>
-            <h2 id="related-title">Keep moving through the service map</h2>
-            <p>Related services and adjacent pages help narrow the scope without changing the canonical route or generated content.</p>
-          </div>
-          <div class="related-cards">
-            {siblingServices.map((node) => (
-              <a href={node.path} class="related-card">
-                <strong>{node.name}</strong>
-                <span>{safeText(node.description)}</span>
               </a>
             ))}
-            {service.relatedFeatures.slice(0, 4).map((feature) => (
-              <article class="related-card muted-card">
-                <strong>{safeText(feature.name)}</strong>
-                <span>{safeText(feature.description)}</span>
-              </article>
-            ))}
           </div>
         </div>
-      </section>
+      </div>
+    )}
 
-      {relatedBlogs.length > 0 && (
-        <section class="section articles-section" aria-labelledby="articles-title">
-          <div class="detail-shell">
-            <div class="split-heading">
-              <div>
-                <p class="eyebrow">Learn more</p>
-                <h2 id="articles-title">Related articles</h2>
-              </div>
-              <p>City-specific editorial links are preserved when the generated content provides them.</p>
-            </div>
-            <div class="article-grid">
-              {relatedBlogs.map((post) => (
-                <a href={post.href} class="article-card">
-                  <img src={post.imageUrl} alt={post.title} loading="lazy" decoding="async" width="640" height="360" />
-                  <div>
-                    <span>{post.category.title}</span>
-                    <strong>{post.title}</strong>
-                    <p>{safeText(post.description)}</p>
-                  </div>
-                </a>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-
-      <section class="section faq-section" aria-labelledby="faq-title">
-        <div class="detail-shell faq-wrap">
-          <p class="eyebrow">FAQ</p>
-          <h2 id="faq-title">Frequently asked questions</h2>
+    <!-- FAQ -->
+    <div class="bg-gray-50 dark:bg-gray-900">
+      <div class="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8 lg:py-40">
+        <div class="mx-auto max-w-4xl">
+          <h2 class="text-4xl font-semibold tracking-tight text-gray-900 dark:text-white sm:text-5xl">Frequently asked questions</h2>
           <FAQAccordion client:visible faqs={safeFaqs} />
         </div>
-      </section>
+      </div>
+    </div>
 
-      <section class="final-cta" aria-labelledby="final-title">
-        <div class="detail-shell final-panel">
-          <div>
-            <p class="eyebrow">Request Service / Call Now</p>
-            <h2 id="final-title">{safeText(cityContent?.finalCTA?.headline ?? `Need ${service.name} in ${cityData.name}?`)}</h2>
-            <p>{safeText(cityContent?.finalCTA?.paragraph ?? 'Share what happened, where water or contamination traveled, and whether the source is controlled. Call if the situation is active or unsafe.')}</p>
-          </div>
-          <div class="action-row final-actions">
-            <a class="fd-btn fd-btn-primary" href={cityPhoneHref}>Call Now {cityData.phone}</a>
-            <a class="fd-btn fd-btn-outline" href="/request">{cityRequestLabel}</a>
+    <!-- City-Specific Final CTA -->
+    {cityContent?.finalCTA ? (
+      <div class="bg-indigo-600 dark:bg-indigo-500">
+        <div class="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8">
+          <div class="mx-auto max-w-2xl text-center">
+            <h2 class="text-3xl font-semibold tracking-tight text-white sm:text-4xl">{safeText(cityContent.finalCTA.headline)}</h2>
+            <p class="mt-6 text-lg/8 text-indigo-100">{safeText(cityContent.finalCTA.paragraph)}</p>
+            <div class="mt-10 flex items-center justify-center gap-x-6">
+              <a href="/request" class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-indigo-600 shadow-xs hover:bg-indigo-50">Request Service</a>
+              <a href={cityPhoneHref} class="text-sm/6 font-semibold text-white">Call {cityData.phone} <span aria-hidden="true">&rarr;</span></a>
+            </div>
           </div>
         </div>
-      </section>
-    </main>
+      </div>
+    ) : null}
   </BaseLayout>
 ) : (
   <BaseLayout title="Not Found" noIndex>
-    <div class="not-found-panel">
-      <h1>Page not found</h1>
-      <p>The service you're looking for doesn't exist.</p>
-      <a href="/services/commercial">Back to Commercial Services</a>
+    <div class="py-24 text-center">
+      <h1 class="text-4xl font-semibold text-white">Page not found</h1>
+      <p class="mt-4 text-gray-400">The service you're looking for doesn't exist.</p>
+      <a href="/services/commercial" class="mt-8 inline-block text-indigo-400 hover:text-indigo-300">Back to Commercial Services</a>
     </div>
   </BaseLayout>
 )}
-
-<style>
-  .detail-page {
-    --navy: #06172e;
-    --navy-2: #08203f;
-    --blue: #1478e6;
-    --blue-dark: #0b63ce;
-    --orange: #d94a12;
-    --orange-dark: #b9380c;
-    --ink: #102033;
-    --muted: #53647a;
-    --line: #d9e6f5;
-    --soft: #f4f9ff;
-    width: 100%;
-    max-width: 100%;
-    overflow-x: clip;
-    background: #ffffff;
-    color: var(--ink);
-    font-family: 'Avenir Next', 'Trebuchet MS', Verdana, sans-serif;
-  }
-
-  .detail-shell {
-    width: min(1120px, calc(100% - 2rem));
-    margin-inline: auto;
-  }
-
-  .detail-hero {
-    position: relative;
-    overflow: hidden;
-    background:
-      radial-gradient(circle at 82% 16%, rgba(20, 120, 230, .30), transparent 24rem),
-      radial-gradient(circle at 8% 86%, rgba(217, 74, 18, .2), transparent 22rem),
-      linear-gradient(135deg, var(--navy), var(--navy-2));
-    padding: clamp(5rem, 9vw, 7.8rem) 0 clamp(4rem, 7vw, 6rem);
-  }
-
-  .detail-hero::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background-image: linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.055) 1px, transparent 1px);
-    background-size: 44px 44px;
-    mask-image: linear-gradient(180deg, black, transparent 82%);
-  }
-
-  .hero-grid,
-  .safety-grid,
-  .definition-grid,
-  .local-grid,
-  .split-heading,
-  .documentation-grid,
-  .category-authority-grid,
-  .city-brief-panel,
-  .pricing-panel,
-  .area-panel,
-  .related-grid,
-  .final-panel {
-    position: relative;
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(280px, .74fr);
-    gap: clamp(2rem, 5vw, 4rem);
-    align-items: center;
-  }
-
-  .hero-grid > *,
-  .safety-grid > *,
-  .definition-grid > *,
-  .local-grid > *,
-  .split-heading > *,
-  .documentation-grid > *,
-  .category-authority-grid > *,
-  .city-brief-panel > *,
-  .pricing-panel > *,
-  .area-panel > *,
-  .related-grid > *,
-  .final-panel > * {
-    min-width: 0;
-  }
-
-  .breadcrumb {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .45rem;
-    margin-bottom: 1.25rem;
-    color: #c9d7e8;
-    font-size: .88rem;
-  }
-
-  .breadcrumb a {
-    color: inherit;
-    text-decoration: none;
-  }
-
-  .breadcrumb a:hover {
-    color: #ffffff;
-  }
-
-  .eyebrow,
-  .command-card span,
-  .media-status span,
-  .hero-local span,
-  .call-card span,
-  .local-note span,
-  .process-card > span,
-  .authority-cards span,
-  .proof-tool-grid span,
-  .challenge-card span,
-  .equipment-card span,
-  .article-card span {
-    display: block;
-    margin: 0 0 .75rem;
-    color: var(--orange);
-    font-size: .76rem;
-    font-weight: 900;
-    letter-spacing: .13em;
-    text-transform: uppercase;
-  }
-
-  .detail-hero .eyebrow,
-  .command-card span,
-  .media-status span,
-  .hero-local span,
-  .final-cta .eyebrow {
-    color: #fed7aa;
-  }
-
-  h1,
-  h2,
-  h3,
-  p,
-  strong,
-  span,
-  li {
-    overflow-wrap: anywhere;
-  }
-
-  h1,
-  h2,
-  h3 {
-    margin: 0;
-    letter-spacing: -.055em;
-    line-height: 1;
-  }
-
-  h1 {
-    max-width: 12ch;
-    color: #ffffff;
-    font-size: clamp(2.45rem, 7.4vw, 5.25rem);
-    font-weight: 920;
-  }
-
-  h2 {
-    color: var(--navy);
-    font-size: clamp(2rem, 4.2vw, 3.3rem);
-    font-weight: 880;
-  }
-
-  h3 {
-    color: var(--navy);
-    font-size: clamp(1.1rem, 2vw, 1.35rem);
-    font-weight: 850;
-    line-height: 1.15;
-  }
-
-  .hero-lede,
-  .definition-copy > p,
-  .split-heading > p,
-  .safety-grid > div > p,
-  .rich-copy p,
-  .category-authority-grid > div > p,
-  .documentation-grid > div > p,
-  .pricing-panel p,
-  .area-panel p,
-  .related-grid > div > p,
-  .final-panel p {
-    margin: 1.2rem 0 0;
-    color: var(--muted);
-    font-size: clamp(1rem, 2vw, 1.15rem);
-    font-weight: 560;
-    line-height: 1.75;
-  }
-
-  .hero-lede,
-  .command-card p,
-  .media-status strong,
-  .hero-local em,
-  .final-panel p {
-    color: #c9d7e8;
-  }
-
-  .action-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .85rem;
-    max-width: 100%;
-    min-width: 0;
-    margin-top: 1.75rem;
-  }
-
-  .action-row :global(.fd-btn) {
-    max-width: 100%;
-    min-width: 0;
-    text-align: center;
-    white-space: normal;
-  }
-
-  .hero-media,
-  .command-card,
-  .call-card,
-  .local-note {
-    min-width: 0;
-    border-radius: 1.5rem;
-  }
-
-  .hero-media,
-  .command-card {
-    border: 1px solid rgba(255,255,255,.14);
-    background: linear-gradient(180deg, rgba(255,255,255,.12), rgba(255,255,255,.06));
-    box-shadow: 0 24px 80px rgba(6, 23, 46, .34);
-  }
-
-  .hero-media {
-    overflow: hidden;
-  }
-
-  .hero-media img {
-    display: block;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 3 / 2;
-    object-fit: cover;
-    background: rgba(255,255,255,.08);
-  }
-
-  .media-status,
-  .hero-local,
-  .command-card {
-    padding: clamp(1.1rem, 3vw, 1.5rem);
-  }
-
-  .command-card strong,
-  .media-status strong {
-    display: block;
-    color: #ffffff;
-    font-size: clamp(1.25rem, 3vw, 1.9rem);
-    letter-spacing: -.045em;
-    line-height: 1.05;
-  }
-
-  .command-card p {
-    margin: 1rem 0 0;
-    line-height: 1.65;
-  }
-
-  .hero-local {
-    border-top: 1px solid rgba(255,255,255,.12);
-  }
-
-  .hero-local div {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .5rem;
-  }
-
-  .hero-local em {
-    border-radius: 999px;
-    background: rgba(255,255,255,.1);
-    padding: .42rem .62rem;
-    font-size: .82rem;
-    font-style: normal;
-    font-weight: 800;
-  }
-
-  .section {
-    padding: clamp(4rem, 7vw, 6.5rem) 0;
-  }
-
-  .light-section,
-  .material-section,
-  .process-section,
-  .documentation-section,
-  .equipment-section,
-  .articles-section {
-    background: linear-gradient(180deg, #f7fbff, #ffffff);
-  }
-
-  .definition-section,
-  .safety-section,
-  .local-intro,
-  .category-authority,
-  .city-brief-section,
-  .challenges-section,
-  .area-section,
-  .related-section {
-    background: #ffffff;
-  }
-
-  .definition-grid,
-  .local-grid,
-  .documentation-grid,
-  .category-authority-grid,
-  .city-brief-panel,
-  .related-grid {
-    align-items: start;
-  }
-
-  .feature-grid,
-  .material-grid,
-  .authority-cards,
-  .proof-tool-grid,
-  .challenge-grid,
-  .equipment-grid,
-  .service-link-grid,
-  .article-grid,
-  .related-cards,
-  .city-brief-groups {
-    display: grid;
-    gap: 1rem;
-  }
-
-  .feature-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    margin-top: 2rem;
-  }
-
-  .feature-card,
-  .material-card,
-  .authority-cards article,
-  .proof-tool-grid article,
-  .challenge-card,
-  .equipment-card,
-  .service-link-card,
-  .article-card,
-  .related-card,
-  .city-brief-panel,
-  .city-brief-groups article,
-  .call-card,
-  .local-note,
-  .pricing-panel,
-  .area-panel {
-    min-width: 0;
-    border: 1px solid var(--line);
-    border-radius: 1.25rem;
-    background: #ffffff;
-    box-shadow: 0 14px 42px rgba(6, 23, 46, .08);
-  }
-
-  .feature-card,
-  .material-card,
-  .authority-cards article,
-  .proof-tool-grid article,
-  .challenge-card,
-  .equipment-card,
-  .service-link-card,
-  .related-card,
-  .city-brief-groups article,
-  .call-card,
-  .local-note {
-    padding: 1.1rem;
-  }
-
-  .feature-icon {
-    width: 1.35rem;
-    height: 1.35rem;
-    margin-bottom: .85rem;
-    color: var(--blue-dark);
-  }
-
-  .feature-card p,
-  .material-card p,
-  .authority-cards p,
-  .proof-tool-grid p,
-  .challenge-card p,
-  .equipment-card p,
-  .service-link-card p,
-  .related-card span,
-  .article-card p,
-  .city-brief-copy p,
-  .city-brief-groups article > p,
-  .call-card li,
-  .local-note p {
-    margin: .75rem 0 0;
-    color: var(--muted);
-    font-size: .95rem;
-    line-height: 1.6;
-  }
-
-  .safety-grid {
-    border: 1px solid var(--line);
-    border-radius: 1.5rem;
-    background:
-      radial-gradient(circle at 100% 0, rgba(20, 120, 230, .12), transparent 20rem),
-      #ffffff;
-    box-shadow: 0 18px 55px rgba(6, 23, 46, .1);
-    padding: clamp(1.25rem, 4vw, 2rem);
-  }
-
-  .safety-grid ul {
-    display: grid;
-    gap: .8rem;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  .safety-grid li,
-  .doc-list li {
-    position: relative;
-    padding-left: 1.45rem;
-    color: var(--muted);
-    line-height: 1.62;
-  }
-
-  .safety-grid li::before,
-  .doc-list li::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: .58rem;
-    width: .55rem;
-    height: .55rem;
-    border-radius: 999px;
-    background: var(--orange);
-  }
-
-  .material-grid,
-  .authority-cards {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    margin-top: 2rem;
-  }
-
-  .authority-cards {
-    grid-template-columns: 1fr;
-    margin-top: 0;
-  }
-
-  .material-card strong {
-    display: block;
-    color: var(--navy);
-    line-height: 1.2;
-  }
-
-  .documentation-grid {
-    border: 1px solid var(--line);
-    border-radius: 1.5rem;
-    background: #ffffff;
-    box-shadow: 0 18px 55px rgba(6, 23, 46, .1);
-    padding: clamp(1.25rem, 4vw, 2rem);
-  }
-
-  .doc-list {
-    display: grid;
-    gap: .75rem;
-    margin: 1.25rem 0 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  .proof-tool-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .call-card {
-    position: sticky;
-    top: 1rem;
-    background:
-      radial-gradient(circle at top right, rgba(20, 120, 230, .13), transparent 16rem),
-      #ffffff;
-  }
-
-  .call-card ul,
-  .pricing-panel ul {
-    display: grid;
-    gap: .75rem;
-    margin: 1.25rem 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  .call-card li,
-  .pricing-panel li {
-    position: relative;
-    padding-left: 1.35rem;
-  }
-
-  .call-card li::before,
-  .pricing-panel li::before {
-    content: '';
-    position: absolute;
-    top: .55rem;
-    left: 0;
-    width: .5rem;
-    height: .5rem;
-    border-radius: 999px;
-    background: var(--orange);
-  }
-
-  .local-note {
-    background: var(--navy);
-  }
-
-  .local-note p {
-    color: #dce8f7;
-    font-size: 1rem;
-  }
-
-  .city-brief-panel {
-    grid-template-columns: minmax(0, .82fr) minmax(320px, 1fr);
-    background:
-      radial-gradient(circle at 12% 8%, rgba(20, 120, 230, .13), transparent 17rem),
-      #ffffff;
-    padding: clamp(1.25rem, 4vw, 2rem);
-  }
-
-  .city-brief-copy p {
-    font-size: 1rem;
-  }
-
-  .city-brief-groups {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .city-brief-groups article {
-    box-shadow: none;
-  }
-
-  .local-job-context {
-    grid-column: 1 / -1;
-  }
-
-  .local-job-context ul {
-    display: grid;
-    gap: .9rem;
-    margin: 1rem 0 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  .local-job-context li {
-    min-width: 0;
-    border-top: 1px solid var(--line);
-    padding-top: .9rem;
-  }
-
-  .local-job-context li:first-child {
-    border-top: 0;
-    padding-top: 0;
-  }
-
-  .local-job-context strong,
-  .nearby-communities strong {
-    display: block;
-    color: var(--navy);
-    line-height: 1.2;
-  }
-
-  .local-job-context span {
-    display: block;
-    margin-top: .45rem;
-    color: var(--muted);
-    font-size: .92rem;
-    line-height: 1.55;
-  }
-
-  .chip-list,
-  .area-chip-stack {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .6rem;
-  }
-
-  .chip-list {
-    margin-top: 1rem;
-  }
-
-  .area-chip-stack {
-    flex-direction: column;
-  }
-
-  .process-list {
-    display: grid;
-    gap: 1rem;
-    margin: 2rem 0 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  .process-card {
-    display: grid;
-    grid-template-columns: auto minmax(0, 1fr);
-    gap: 1rem;
-    border: 1px solid var(--line);
-    border-radius: 1.25rem;
-    background: #ffffff;
-    box-shadow: 0 14px 42px rgba(6, 23, 46, .08);
-    padding: 1.1rem;
-  }
-
-  .process-card > span {
-    display: inline-flex;
-    width: 2.5rem;
-    height: 2.5rem;
-    align-items: center;
-    justify-content: center;
-    margin: 0;
-    border-radius: .9rem;
-    background: var(--navy);
-    color: #ffffff;
-  }
-
-  .process-card em {
-    display: inline-flex;
-    margin-top: .6rem;
-    border-radius: 999px;
-    background: #ffedd5;
-    color: var(--orange-dark);
-    padding: .25rem .55rem;
-    font-size: .78rem;
-    font-style: normal;
-    font-weight: 850;
-  }
-
-  .process-card p {
-    margin: .75rem 0 0;
-    color: var(--muted);
-    line-height: 1.65;
-  }
-
-  .challenge-grid,
-  .service-link-grid,
-  .article-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    margin-top: 2rem;
-  }
-
-  .challenge-card div {
-    margin-top: 1rem;
-    border-top: 1px solid var(--line);
-    padding-top: 1rem;
-  }
-
-  .equipment-grid,
-  .related-cards {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    margin-top: 2rem;
-  }
-
-  .pricing-panel,
-  .area-panel {
-    padding: clamp(1.25rem, 4vw, 2rem);
-  }
-
-  .pricing-panel strong {
-    display: block;
-    margin-top: 1rem;
-    color: var(--blue-dark);
-  }
-
-  .neighborhoods {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .65rem;
-  }
-
-  .neighborhoods span,
-  .chip-list span {
-    min-width: 0;
-    border: 1px solid #cfe0f4;
-    border-radius: 999px;
-    background: var(--soft);
-    color: var(--navy);
-    padding: .55rem .78rem;
-    font-size: .9rem;
-    font-weight: 800;
-  }
-
-  .nearby-communities {
-    min-width: 0;
-  }
-
-  .nearby-communities strong {
-    margin-bottom: .75rem;
-  }
-
-  .nearby-list span {
-    background: #ffffff;
-  }
-
-  .service-link-card,
-  .related-card,
-  .article-card {
-    color: inherit;
-    text-decoration: none;
-    transition: transform 160ms ease, border-color 160ms ease;
-  }
-
-  .service-link-card:hover,
-  .related-card:hover,
-  .article-card:hover {
-    transform: translateY(-2px);
-    border-color: rgba(20,120,230,.36);
-  }
-
-  .service-link-card strong,
-  .related-card strong,
-  .article-card strong {
-    display: block;
-    color: var(--navy);
-    line-height: 1.2;
-  }
-
-  .service-link-card span {
-    display: inline-flex;
-    margin-top: .9rem;
-    color: var(--blue-dark);
-    font-weight: 850;
-  }
-
-  .muted-card {
-    background: var(--soft);
-  }
-
-  .article-card {
-    overflow: hidden;
-  }
-
-  .article-card img {
-    display: block;
-    width: 100%;
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
-  }
-
-  .article-card div {
-    padding: 1rem;
-  }
-
-  .faq-section {
-    background:
-      radial-gradient(circle at 84% 12%, rgba(20, 120, 230, .24), transparent 22rem),
-      linear-gradient(135deg, var(--navy), var(--navy-2));
-  }
-
-  .faq-wrap {
-    max-width: 60rem;
-    border: 1px solid rgba(255,255,255,.14);
-    border-radius: 1.5rem;
-    background: #ffffff;
-    box-shadow: 0 24px 80px rgba(6, 23, 46, .22);
-    padding: clamp(1.25rem, 4vw, 2.5rem);
-  }
-
-  .faq-wrap h2 {
-    color: var(--navy);
-  }
-
-  .faq-wrap :global(dl) {
-    margin-top: 2rem;
-    border-color: var(--line);
-  }
-
-  .faq-wrap :global(dl > div) {
-    border-color: var(--line);
-  }
-
-  .faq-wrap :global(button) {
-    color: var(--navy) !important;
-  }
-
-  .faq-wrap :global(button span:first-child) {
-    font-size: 1rem;
-    font-weight: 850;
-    letter-spacing: -.015em;
-  }
-
-  .faq-wrap :global(button svg) {
-    color: var(--blue-dark);
-  }
-
-  .faq-wrap :global(dd p) {
-    color: var(--muted) !important;
-  }
-
-  .final-cta {
-    background: var(--navy);
-    color: #ffffff;
-    padding: clamp(4rem, 7vw, 6rem) 0;
-  }
-
-  .final-cta h2 {
-    color: #ffffff;
-  }
-
-  .final-actions {
-    justify-content: end;
-  }
-
-  .not-found-panel {
-    padding: 6rem 1rem;
-    text-align: center;
-  }
-
-  .not-found-panel h1 {
-    max-width: none;
-    color: #ffffff;
-    font-size: 3rem;
-  }
-
-  .not-found-panel p {
-    color: #cbd5e1;
-  }
-
-  .not-found-panel a {
-    color: #93c5fd;
-  }
-
-  @media (max-width: 960px) {
-    .hero-grid,
-    .safety-grid,
-    .definition-grid,
-    .local-grid,
-    .split-heading,
-    .documentation-grid,
-    .category-authority-grid,
-    .city-brief-panel,
-    .pricing-panel,
-    .area-panel,
-    .related-grid,
-    .final-panel,
-    .material-grid,
-    .authority-cards,
-    .proof-tool-grid,
-    .challenge-grid,
-    .equipment-grid,
-    .service-link-grid,
-    .article-grid,
-    .related-cards,
-    .city-brief-groups {
-      grid-template-columns: 1fr;
-    }
-
-    .call-card {
-      position: static;
-    }
-
-    .final-actions {
-      justify-content: start;
-    }
-  }
-
-  @media (max-width: 560px) {
-    .detail-shell {
-      width: min(100% - 1.25rem, 1120px);
-    }
-
-    h1 {
-      max-width: 100%;
-      font-size: clamp(2.1rem, 10.5vw, 3rem);
-    }
-
-    .action-row {
-      flex-direction: column;
-    }
-
-    .action-row :global(.fd-btn) {
-      width: 100%;
-    }
-
-    .process-card {
-      grid-template-columns: 1fr;
-    }
-
-    .neighborhoods span {
-      flex: 1 1 calc(50% - .65rem);
-      text-align: center;
-    }
-  }
-</style>

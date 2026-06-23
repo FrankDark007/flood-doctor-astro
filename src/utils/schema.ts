@@ -86,7 +86,7 @@ export function breadcrumbSchema(items: BreadcrumbItem[]) {
       '@type': 'ListItem',
       position: index + 1,
       name: item.name,
-      item: canonicalUrl(item.url),
+      item: item.url,
     })),
   }
 }
@@ -142,7 +142,7 @@ export function blogPostingSchema(post: {
     description: post.description,
     image: post.imageUrl,
     datePublished: post.datetime,
-    url: canonicalUrl(`/blog/${post.slug}`),
+    url: `${cityBaseUrl()}/blog/${post.slug}`,
     author: {
       '@type': 'Person',
       name: post.author.name,

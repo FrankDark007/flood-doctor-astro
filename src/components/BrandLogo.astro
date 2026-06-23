@@ -32,17 +32,15 @@ const Element = href ? 'a' : 'span'
   data-tone={tone}
   data-size={size}
 >
-  <span class="brand-logo__mark-wrap" aria-hidden="true">
-    <img
-      class="brand-logo__mark"
-      src="/graphics/flood-doctor-mark.svg"
-      alt=""
-      width="48"
-      height="48"
-      loading="eager"
-      decoding="async"
-    />
-  </span>
+  <img
+    class="brand-logo__mark"
+    src="/graphics/flood-doctor-mark.svg"
+    alt=""
+    width="48"
+    height="48"
+    loading="eager"
+    decoding="async"
+  />
   {!isMarkOnly && (
     <span class="brand-logo__copy">
       <span class="brand-logo__name">
@@ -59,27 +57,23 @@ const Element = href ? 'a' : 'span'
 
 <style>
   .brand-logo {
-    --logo-blue: var(--fd-blue-700, #0b63ce);
-    --logo-navy: var(--fd-navy-950, #06172e);
-    --logo-orange: var(--fd-orange-600, #d94a12);
-    --logo-text: var(--fd-navy-950, #06172e);
-    --logo-muted: var(--fd-slate-500, #64748b);
+    --fd-blue: #155fc0;
+    --fd-navy: #0b1f3a;
+    --fd-orange: #f97316;
+    --fd-text: #0b1f3a;
+    --fd-muted: #475569;
     display: inline-flex;
     align-items: center;
     gap: 0.625rem;
-    max-width: 100%;
-    min-width: 0;
-    overflow: hidden;
-    color: var(--logo-text);
+    color: var(--fd-text);
     text-decoration: none;
     vertical-align: middle;
   }
 
   .brand-logo[data-tone='dark'] {
-    --logo-text: #ffffff;
-    --logo-blue: #7dd3fc;
-    --logo-muted: #cbd5e1;
-    --logo-orange: #fb923c;
+    --fd-text: #ffffff;
+    --fd-blue: #60a5fa;
+    --fd-muted: #cbd5e1;
   }
 
   .brand-logo[data-size='sm'] {
@@ -90,68 +84,38 @@ const Element = href ? 'a' : 'span'
     gap: 0.75rem;
   }
 
-  .brand-logo__mark-wrap {
-    display: grid;
-    place-items: center;
-    width: 2.5rem;
-    height: 2.5rem;
-    flex: 0 0 auto;
-    border-radius: 0.875rem;
-    background: linear-gradient(180deg, rgb(255 255 255 / 0.98), rgb(220 238 255 / 0.88));
-    box-shadow: 0 10px 24px rgb(6 23 46 / 0.18), inset 0 0 0 1px rgb(255 255 255 / 0.75);
-  }
-
-  .brand-logo[data-tone='dark'] .brand-logo__mark-wrap {
-    box-shadow: 0 12px 28px rgb(0 0 0 / 0.24), inset 0 0 0 1px rgb(255 255 255 / 0.7);
-  }
-
   .brand-logo__mark {
     display: block;
+    width: 2.25rem;
+    height: 2.25rem;
+    flex: 0 0 auto;
+  }
+
+  .brand-logo[data-size='sm'] .brand-logo__mark {
     width: 2rem;
     height: 2rem;
   }
 
-  .brand-logo[data-size='sm'] .brand-logo__mark-wrap {
-    width: 2.25rem;
-    height: 2.25rem;
-    border-radius: 0.75rem;
-  }
-
-  .brand-logo[data-size='sm'] .brand-logo__mark {
-    width: 1.8rem;
-    height: 1.8rem;
-  }
-
-  .brand-logo[data-size='lg'] .brand-logo__mark-wrap {
-    width: 3.15rem;
-    height: 3.15rem;
-    border-radius: 1rem;
-  }
-
   .brand-logo[data-size='lg'] .brand-logo__mark {
-    width: 2.45rem;
-    height: 2.45rem;
+    width: 3rem;
+    height: 3rem;
   }
 
   .brand-logo__copy {
     display: grid;
-    gap: 0.125rem;
+    gap: 0.0625rem;
     min-width: 0;
-    overflow: hidden;
   }
 
   .brand-logo__name {
     display: flex;
     align-items: baseline;
     gap: 0.22em;
-    max-width: 100%;
-    min-width: 0;
-    color: var(--logo-text);
     font-size: 1.125rem;
-    font-weight: 900;
-    letter-spacing: -0.045em;
+    font-weight: 850;
+    letter-spacing: -0.04em;
     line-height: 1;
-    white-space: nowrap;
+    color: var(--fd-text);
   }
 
   .brand-logo[data-size='sm'] .brand-logo__name {
@@ -163,30 +127,23 @@ const Element = href ? 'a' : 'span'
   }
 
   .brand-logo__accent {
-    color: var(--logo-blue);
-  }
-
-  .brand-logo__name > :not(.brand-logo__city) {
-    flex: 0 0 auto;
+    color: var(--fd-blue);
   }
 
   .brand-logo__city {
-    min-width: 0;
-    margin-left: 0.25em;
-    padding-left: 0.5em;
-    border-left: 2px solid var(--logo-orange);
-    color: var(--logo-muted);
-    font-size: 0.72em;
-    font-weight: 800;
+    margin-left: 0.18em;
+    padding-left: 0.42em;
+    border-left: 2px solid color-mix(in srgb, var(--fd-orange), transparent 12%);
+    color: var(--fd-muted);
+    font-size: 0.76em;
+    font-weight: 760;
     letter-spacing: -0.025em;
-    overflow: hidden;
-    text-overflow: ellipsis;
   }
 
   .brand-logo__tagline {
-    color: var(--logo-muted);
+    color: var(--fd-muted);
     font-size: 0.6875rem;
-    font-weight: 800;
+    font-weight: 750;
     letter-spacing: 0.08em;
     line-height: 1.2;
     text-transform: uppercase;
@@ -198,40 +155,14 @@ const Element = href ? 'a' : 'span'
   }
 
   .brand-logo:where(a):focus-visible {
-    outline: 3px solid var(--fd-focus, #38bdf8);
+    outline: 3px solid color-mix(in srgb, var(--fd-blue), white 25%);
     outline-offset: 4px;
-    border-radius: 1rem;
+    border-radius: 0.75rem;
   }
 
   @media (max-width: 420px) {
-    .brand-logo,
-    .brand-logo__copy {
-      overflow: visible;
-    }
-
-    .brand-logo__name {
-      max-width: none;
-    }
-
     .brand-logo__city {
       display: none;
-    }
-  }
-
-  @media (max-width: 360px) {
-    .brand-logo__mark-wrap {
-      width: 2.25rem;
-      height: 2.25rem;
-      border-radius: 0.75rem;
-    }
-
-    .brand-logo__mark {
-      width: 1.8rem;
-      height: 1.8rem;
-    }
-
-    .brand-logo__name {
-      font-size: 1rem;
     }
   }
 </style>
